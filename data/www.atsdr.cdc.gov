@@ -1,0 +1,10 @@
+# robots.txt for http://www.atsdr.cdc.gov/
+
+User-agent: *
+Disallow: /cgi-bin/        # Executables only
+Disallow: /usage/          # Usage statistics pages only
+Disallow: /jobs/           # Job postings - short expiration
+Disallow: /gsql/           # This is an infinite database query space
+Disallow: /CHEM/           # .gif and .xyz chemical files only
+
+

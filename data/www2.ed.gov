@@ -1,0 +1,22 @@
+# robots.txt for http://www.ed.gov/
+# created by Blake Sobiloff <bsobilof@inet.ed.gov> on 3/17/95
+# these after Disallow: /Programs/ was modified by xxiang@inet.ed.gov on 3/13/2000
+# modified 01/16/01 by EAL to allow /offices/OPA/news/ and /Programs/states/
+# modified 05/21/02 by EAL to allow /free/index.html - added <META name="ROBOTS" content="NOFOLLOW"> to page to stop there.
+# modified 10/08/03 by EAL to reflect new site design and eliminate unnecessary entries
+
+User-agent: *
+Disallow: /searchResults.jhtml
+Disallow: /searchfree.jhtml
+Disallow: /searchacsfa.jhtml
+Disallow: /searchoha.jhtml
+Disallow: /metadata/
+Disallow: /print/
+Disallow: /offices/OPA/photo/images/
+Disallow: /comments/TeachLeader/responses/
+Disallow: /comments/nationalforum/responses/
+Disallow: /comments/nationalforum97/responses/
+Disallow: /internal/
+Disallow: /icons/
+Disallow: /images/
+Disallow: /admin/

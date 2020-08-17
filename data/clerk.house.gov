@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 
+Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-
+transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; 
+charset=utf-8" />
+<title>Resource Unavailable</title>
+</head>
+
+<body style="font: 100% Verdana, Arial, Helvetica, 
+sans-serif; -moz-background-clip: border; -moz-
+background-origin: padding; -moz-background-size: 
+auto auto; background-attachment: scroll; 
+background-color: #D6D6D6;">
+
+<div style="width: 780px; background: #FFFFFF; 
+margin: 0 auto; border: 1px solid #000000; text-
+align: left;">
+  <div style="padding: 0 20px; font-size:0.8em; 
+color:#333; line-height:1.5em;">
+    <h1 style="color:#1D3E8E; font-size:1.4em; 
+padding-bottom: 0.25em; border-bottom: 1px solid 
+#dedede;">Problem Detected With Your Request</h1>
+		<p>A problem has been identified. 
+Your request cannot be completed successfully.</p>
+		<p>If you typed in a specific URL, 
+make sure your spelling, capitalization and 
+punctuation are correct.</p>
+		<p>If you were submitting a web 
+form entry, go <a href="#" 
+onClick="window.history.back(); return 
+false;">back</a> and verify that the request 
+contained no extraneous or special characters that 
+could be causing the problem.
+		<p>If you think you received this 
+message in error and you are unable to send your 
+request successfully, please <a id="hashfill" 
+href="http://www.house.gov/contact/index.php">
+notify the webmaster</a>.</p>
+		<script>
+			(function(){
+			  var elem = 
+document.getElementById("hashfill");
+			  elem.hash = 
+window.location;
+			})();
+	</script>
+	<!-- end #mainContent --></div>
+<!-- end #container --></div>
+</body>
+</html>
