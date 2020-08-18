@@ -46,19 +46,14 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="sAQMxIn06k/b1mooqDlfGPdKdc+zNjCLVFDbC5m1mwZyoZMZ26cU9LfvARF2U60wIXP5g3OkBNyF18PcqhCr1fM7JDv9E4zrKJ7+alyfQLrKYrHV/QtqcTVtNa+HQZikr/A0HpkJDTO/v2VR09hmXImNRvkpF0RwFppCVWBKmQfBx87irn+Jem+81W3deyTpN6XxVzpvAfMshOlT0Q2tVAAWybCSCWd+fYhjtGJgiuzXA16P2t5mdxYfoT/r62nfAK6ttrCyCQbsA3dp/xTzU7HL/u3Y4GNqZwkefSAfnNLqqdqXUgyCEngprgdDLA7zaCthSVW2XlabtMhMlV4clDLpbS91lqEclfshff0oZVQxviGOlMhck7ZhA5wj4Wz+CteZbwMvEitVXXOaEddsFYUdBUY85iLAPkaR0jGah+aU8O6zbFKMwv7fXHn6OxnCiSs8ykVsgE2PPUMZQ6ZcjZt9bKBqiIlYNfUreLKquaxlNmUEu1BAjFNGXAb/8LdW+/fFjAYyLlPSBzod4fm03pee2iHMp3IM5YrsueGl91vj0y34UEUzXyFcAS6LaxOok0FTAW1Ib+da+fF+ujOfcfPp/u0kYcWsPwRXvy+ofRfnPXy//GF8FSvuZeGAx9Ud5xefygR/S4VjxGs8NOWlNCedj45Jr4RIL+UWFr3guOVGY+xKF74bLy4/4yCBi8Fr7981s5Xq9wB4SfRh7b/cc/a+FzStY3o7FiV2TfNDiZD3HWOu3kw8NJBZlNzNmV5JZ1hIs95idS5agAGRGOKkvnq5/sEmHX+6aPhjWso44j9giiHH4PkPKO5V3qDnMHc7ga0aU0CP4BYBacueXpT1XxH/3TOYLsG529MOUp5q1uQqtewfcPkmzRuTR1QupmJfUirAt9XliF+PPbstItuMS7+ZDLK7pZoNGfDtM1bTBShceVFigTdTDKK0YNcFYEOgq487EfFUzMlycXy+Ie+Z2YB2mRjU+Bc2+p021RZbLT+Mm7yi919AV1JVIY5WOk/+lsitdwqh7vzsH0xopRjCgztWyUI0Ly3cCE2Z07cIoSHBJ+d+zuDBIzgfPg6k93Ch7uc1w9jTjlIzjfWVQcBPWPGk4hljoMOGKhT/iH/u/7/MDI3y0CVCh29VCGX5Ph2nbvZA61pX1lT2yAT/OJJO1JGqh6CfJLBXxjeo8p+sM5F7wKyK7qO8NaWOHWXmUZkLAM6bOYY5PRCkk2M6jaDST1RMPQFCcSZE+SJIJJaY17xxuCjMCmHRUyRKcU9uKLKnYUu3dHh9w56gd/yOtKId67GvsolOi87QLj4TgKcPITPGHGP+CYJaQGcuF7Ru00vh4yxcn3UHEs/DkxEdH8geIhXj5p4BPauEd1PAXGAobyZ9xz0MdswyMK9+hy+2oPar7rk1jtttZ+kRfBshL46PNZh7Y4XzeNEiT+Y+IiDohdY+k5MW7P6tG4mcNa/MkvBFrlLVCsyDK1Wk0nIkLlqakVoF9XTP5/HI4RKffzGAhj1d6F1NClMYQVopA85R8BjUN5m0v3c3Cjjv2AlIOr95/T7Da52u3rYF9DpFKyaicptm9ODjEw1o23TBWl2tRdcldILyD3bvDJ0+BtidH3Wb4BCXE3pSdyBjVh5MC+t6eBAx52BOG9cbpvKqiS4zNUtsbw86is4PUf3VBCOQ1/jiT3p2WMwX1/gZtyyCPJmqjd/h0r4vRxb6TS/U4FIc7sMqd982jA==" />
-</div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Lr5y3kNnilOfpdRpef1ezPxI72jq6/BEe0ZYr73IZCgWxtBlpi3dKvPrxSFEr/d0Z9nenTFxuWzFLcElKI1b23TAep2F+g6cHc9yb7Zun42qyle0XRg40R0QvhdKMd6W5hDN5836sqYEXj0WYKjI6ns2c5gJHWmwG3XKG/AXmooNGL9GMoUnTY7+/+nJWod6F3tDPQ/us9XJDXphcENTONMdfFHmO2ngf6SIrm7pADEYGATEUwmONZHxYgYcyVvV+I+QjJGd85rJULXHynsmHIhGQB3FSv9y0uHgs9VTsE/2ymejYHHdbALN4mdEPnUUm85eaX0dczyUJNNf1Aigmc1iiFhkNj0mf4v48nUmnTTX//6bPMe/d5hFE5QI5vPeZ6hfj9aveypUVhXLM3yI6SoR6SebwDhgEXaNhSq2jyWJenBYz5PkUecTSiCZFGNYdtuKNdeERzKdHzvYGdn6M3dWzQf8ARxuvQQfl1mH/y5bTOEAH/8KST4JBdXsoTlehpz8kwlabkmNGvyUsPznxzj+HsmQtVZhsHLzwHGySxqQ/7Fqzz1LPr5p18DcVl/fGn9JqQx43PjM+A2/WRa2yTxPqMymg6JnqdyXDbi8gj0ecanohbSt8Ggceb5G4K16jWXcQ/dsalyGqeB4Ih7lPMYgreCJcYPmAv2u/d8TvT0llOj9DCaVXMi4cCSbcdYUqh1SN+zfjM0iXhefqnpW0gmMlYP662vgwysvvbZeatdLoKck1X+v4ndTRR179TGQErr5JLVaVXjTtkmTluuhd98bFzBmVYff1TAGoGQFvG1vN6HQCApH1SuJxK7OjXSy2DXckR82a1bjqkCAtJSmneWaLH4s176kXNXBk6X3qhHHaUNO11vJs8Ri9AGvHvZxE4oOJI283dneydt1ASljrHW85xc0CK6Iw2bPKQmUyAypMlikGt6+neef5Snx17Q1vAquqDVqumZj/I/uTobH+dSEDopUS1lo5xYotsKlzaafnaea6g0H+QoHg1E/fpcZ3oI8YX026AOOdkV1WtG4XGOuobUqeoEGdKiEnCxcOzZA5E2cZfKzc2t4VNhu77T9/SD2Oq04KonFwO/ealeO8RX4KTuv49xEwITXHXqm9kw6XwuKFaMjplYNj7sBQ0hjt5pndhWcU0W7UdKhNpcXplBtIr4aqGhgG88wK2NjQeIh9idh6yuBr7SU0thgR679vjTZdtdX5hT41fSQgXKMOumCnzrKHwz1BtWRBrHMVP8ApG1PUEiuYzjsbJOM906OzC04vR7wEhCD7x/b8pAGtjWLaFeCVx1LG5Kt23sKDP3kApsrW7I4Qxx6qakps/L9iM0DdZKUFwNRXyuEIwQXlfYsf0GlzokETEc16fKmarx69PG+vA2r4wOSmGNYmWVaRR14zQGlUW/KPLiSWGqLzdcl6/WVm6zi6GOvlBR1/7vw9D6bJ82jkXdjuTr5NY3u7jZY+pRCkxF9rmTG5WcCVO/1imJegHE8h5GYNJ/uC5zjsY3pIikiT+HzKIjZSwYPwsLtZ/70mglJ4POdE/3dCn684uMeowqd0uC2OIPrYbvrsMkN4E+tLXANRcXh8SkOXLuv6yXpc5nK+L4thXbdAM/nnqTNcsEqxyzciSO7YE5khRM+HbPZCvIDMEj9PXH0NDsIhINd+o8gcytsCPMoyUlWq0lCglz9OJONgIPYMrHbWRzNUeY0KKcSnld7VrpHmRV3Sg==" />
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqOv4sUh-Rig0r8ribOsOru6PRUuOPeOUTxaLr0LkqwjUZ1KfN2pxsTzXrhnEn2qPqMmFHAgZnpJORcEUNLaSpc226qJmze-FYKMecKHwPV-k73fvQH1Ku4KKXAUA2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=dwY9oWetJoJ4ZjA-1jPcEhP7ER5pj7vUnbl87xIrp5KgCIH7OinCkP3cK37LGan3ayBW32yRZSEgGl2tgZv50n3b6-V5-8OCkx2VKFRvNoTMy9OkcSdmsXHaJpvqsXD5HuMXQgmzxnfjN1aI0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="loWNCYOVSmuV21VYR0QuWa1obAT/FbogL/nFuX9LQfCWsEHJryELJ7ycbRBpwqA5MNiuaaxWoVVnJg/n9OK/OsyIB7NpYFNHeeaZWrt5uDWBNHlr" />
-</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/skin.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/menu.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/es6dependencies.build.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/gridslideshow.build.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/vue/2.5.13/vue.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment-timezone-with-data.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/image-set-polyfill/image-set-polyfill.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/vue-resource.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/video.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/videojs-contrib-hls.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/script.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dgov-icons.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dle-events-panel.js?cdv=735" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+JML0x2G2nxBln7rrQt0tz/PAHYGOcBS7kbwooU3ztVg8yMXFVIX1tC2TxEhIYNhPqcMjFLcgZZ6Pj7mh174EuzK9JaZSImlG8qbpCzHikZzPAGk" /><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/skin.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/menu.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/es6dependencies.build.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/gridslideshow.build.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/vue/2.5.13/vue.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment-timezone-with-data.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/image-set-polyfill/image-set-polyfill.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/vue-resource.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/video.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/videojs-contrib-hls.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/script.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dgov-icons.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dle-events-panel.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 3600, '');
@@ -883,8 +878,8 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 						<div class="image-wrap ">
 							
 							<a class="" href="/Explore/Spotlight/Coronavirus/">
-								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/14/2002477570/825/780/0/200812-Z-FD650-1035M.JPG)"></div>
-								<img alt="An airman in protective gear looks at a computer screen with another service member." src="https://media.defense.gov/2020/Aug/14/2002477570/825/780/0/200812-Z-FD650-1035M.JPG" />
+								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478667/825/780/0/200731-F-IZ563-1014C.JPG)"></div>
+								<img alt="A  woman in a medical outfit puts her arm through an open car window." src="https://media.defense.gov/2020/Aug/17/2002478667/825/780/0/200731-F-IZ563-1014C.JPG" />
 								
 								
 							</a>
@@ -901,7 +896,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 								
 								
 								
-							<span class="separator">|</span> <time data-dateago="2020-08-17T15:45:00" data-dateap="Aug. 17, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
+							<span class="separator">|</span> <time data-dateago="2020-08-18T07:45:00" data-dateap="Aug. 18, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
 							<h3 class="title"><a href="/Explore/Spotlight/Coronavirus/">Coronavirus: DOD Response</a></h3>
 							<p class="summary hide">The Defense Department is working closely with the Department of Health and Human Services and the State Department to provide support in dealing with the coronavirus outbreak.</p>
 							<a class="btn btn-primary btn-primary-ghost hide" href="/Explore/Spotlight/Coronavirus/"> Read More</a>
@@ -918,15 +913,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 
 
 <div class="dgov-col-sm-4">
-		<div class="item item-4 item-2315094 item-even">
+		<div class="item item-4 item-2311833 item-even">
 			<figure>
 				<div class="dgov-grid dgov-grid-bleed">
-					<div class="dgov-col-12 dgov-col-xs-3 dgov-col-sm-12 dgov-col-md-12 dgov-col-lg-4">
+					<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-12 dgov-col-md-12 dgov-col-lg-4">
 						<div class="image-wrap ">
 							
-							<a class="" href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/">
-								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478633/825/780/0/200804-F-RE693-0022C.JPG)"></div>
-								<img alt="An airman works on a smartphone mounted to his body armor." src="https://media.defense.gov/2020/Aug/17/2002478633/825/780/0/200804-F-RE693-0022C.JPG" />
+							<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2311833/sports-heroes-who-served-former-marine-dethroned-muhammad-ali/">
+								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/13/2002476633/825/780/0/950619-O-ZZ999-001H.JPG)"></div>
+								<img alt="Boxer takes boxing stance." src="https://media.defense.gov/2020/Aug/13/2002476633/825/780/0/950619-O-ZZ999-001H.JPG" />
 								
 								
 							</a>
@@ -935,18 +930,18 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 					<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-12 dgov-col-md-12 dgov-col-lg-8">
 						<figcaption>
 							<span class="category">
-								<a class="content-type-text" href="/explore/news"><span>News</span></a>
+								
+								<a class="content-type-text" href="/explore/features"><span>Feature</span></a>
 								
 								
 								
 								
 								
 								
-								
-							<span class="separator">|</span> <time data-dateago="2020-08-17T14:15:49" data-dateap="Aug. 17, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
-							<h3 class="title"><a href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/">DOD Leaders Provide Digital Modernization Updates</a></h3>
-							<p class="summary hide">Data will be the fuel and the engine for everything the Defense Department has to do to bring intelligence and operations together, DOD's chief information officer said.</p>
-							<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/"> Read More</a>
+							<span class="separator">|</span> <time data-dateago="2020-08-18T07:48:00" data-dateap="Aug. 18, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2580/know-your-military/">Know Your Military</a></span>
+							<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2311833/sports-heroes-who-served-former-marine-dethroned-muhammad-ali/">Sports Heroes Who Served: Former Marine Dethroned Muhammad Ali</a></h3>
+							<p class="summary hide">During his 1973-1976 service in the Marine Corps, Leon Spinks earned a bronze medal in the light heavyweight division at the inaugural World Amateur Boxing Championships in Havana. </p>
+							<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2311833/sports-heroes-who-served-former-marine-dethroned-muhammad-ali/"> Read More</a>
 						</figcaption>
 					</div>
 				</div>
@@ -1042,7 +1037,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
         </div><!--dvids-isting-wrap-->
     </section><!--dvids-wrap-->
     <script type="text/javascript">
-        var playerConfig = {"data":{"dvidsParams":{"eventFilterType":"man","toggleEventListMaxResults":true,"toggleUpcomingEventMaxResultView":false,"toggleEventListToDateRange":false,"toggleEventHashtags":true,"toggleIncludeExternals":false,"toggleEventSort":true,"eventListMaxResults":"50","upcomingEventMaxResultView":"10","liveTodayEventMaxResultView":"3","eventListToDays":7,"includeExternals":false,"eventHashtags":"dgovlive","eventSort":"asc","autoplay":true,"manualSelectedEvents":"","showLiveNowList":true,"showUpcomingEventsList":true,"apiKey":"key-5b75d9ba94822","dvidsURL":"https://api.dvidshub.net/","dvidsStagingURL":null,"showTestVid":false,"showPanelWhenEmpty":false,"toDate":"2020-10-06T23:59:59.0000000-04:00","fromDate":"2020-08-17T20:00:09.2439616-04:00"},"dleDNNSettings":{"templateLayout":"Left","templateStyle":"DGOV","moduleMode":"LiveBar","moduleTitle":"LIVE EVENTS","liveNowListTitle":"LIVE NOW","liveNowDefaultText":"No Events Currently Scheduled","upcomingEventsListTitle":"LIVE TODAY","upcomingEventsDefaultText":"No Events Currently Scheduled","countdownTitle":"COMING UP","templateDisclaimer":"","videoBugPosition":"TopLeft","showModuleTitle":false,"showEventTitle":true,"showEventDesc":true,"showCountdownTitle":true,"showCountdownDesc":true,"showVideoBug":false,"liveNowActiveClick":"on","liveNowActiveManualTime":"fifteenMin","toggleError":true,"selectedSMMSealId":0,"selectedSeal":null,"selectedSMMSealForErrorsId":0,"selectedSealForErrors":null,"selectedSMMCountdownBackgroundId":0,"selectedBackground":null,"selectedSMMNoEventBackgroundId":0,"selectedNoEvent":null,"selectedDVIDSVideoBugId":0,"selectedVideoBug":null,"dvidsVideoPlayerUrl":"https://www.defense.gov/Watch/Video?videoid=","dvidsLiveEventsUrl":"https://www.defense.gov/Watch/LiveEvents/#/?currentVideo=","noEventsLink":"/watch/videos","toggleLiveEventVideoBug":true,"liveEventVideoBugPosition":"TopLeft"}}}
+        var playerConfig = {"data":{"dvidsParams":{"eventFilterType":"man","toggleEventListMaxResults":true,"toggleUpcomingEventMaxResultView":false,"toggleEventListToDateRange":false,"toggleEventHashtags":true,"toggleIncludeExternals":false,"toggleEventSort":true,"eventListMaxResults":"50","upcomingEventMaxResultView":"10","liveTodayEventMaxResultView":"3","eventListToDays":7,"includeExternals":false,"eventHashtags":"dgovlive","eventSort":"asc","autoplay":true,"manualSelectedEvents":"","showLiveNowList":true,"showUpcomingEventsList":true,"apiKey":"key-5b75d9ba94822","dvidsURL":"https://api.dvidshub.net/","dvidsStagingURL":null,"showTestVid":false,"showPanelWhenEmpty":false,"toDate":"2020-10-07T23:59:59.0000000-04:00","fromDate":"2020-08-18T06:28:17.7006848-04:00"},"dleDNNSettings":{"templateLayout":"Left","templateStyle":"DGOV","moduleMode":"LiveBar","moduleTitle":"LIVE EVENTS","liveNowListTitle":"LIVE NOW","liveNowDefaultText":"No Events Currently Scheduled","upcomingEventsListTitle":"LIVE TODAY","upcomingEventsDefaultText":"No Events Currently Scheduled","countdownTitle":"COMING UP","templateDisclaimer":"","videoBugPosition":"TopLeft","showModuleTitle":false,"showEventTitle":true,"showEventDesc":true,"showCountdownTitle":true,"showCountdownDesc":true,"showVideoBug":false,"liveNowActiveClick":"on","liveNowActiveManualTime":"fifteenMin","toggleError":true,"selectedSMMSealId":0,"selectedSeal":null,"selectedSMMSealForErrorsId":0,"selectedSealForErrors":null,"selectedSMMCountdownBackgroundId":0,"selectedBackground":null,"selectedSMMNoEventBackgroundId":0,"selectedNoEvent":null,"selectedDVIDSVideoBugId":0,"selectedVideoBug":null,"dvidsVideoPlayerUrl":"https://www.defense.gov/Watch/Video?videoid=","dvidsLiveEventsUrl":"https://www.defense.gov/Watch/LiveEvents/#/?currentVideo=","noEventsLink":"/watch/videos","toggleLiveEventVideoBug":true,"liveEventVideoBugPosition":"TopLeft"}}}
     </script>
 <script type="x/template" id="dgovTemplate-dgov-chevron-down">
     <svg id="chevronDown" class="dgov-chevron-down dgov-icon" viewBox="0 0 144 144" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg">
@@ -1243,10 +1238,127 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
     <div class="alist-inner"><!-- EXPLORE ITEM -->
 
-	<div class="item item-1 item-2310346 item-odd">
+	<div class="item item-1 item-2313843 item-odd">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
+					<div class="image-wrap ">
+						
+						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2313843/organic-industrial-base-ramps-up-to-fight-covid-19/">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/14/2002477748/825/780/0/200629-A-BL065-1001M.JPG)"></div>
+							<img alt="A man wearing a face mask repairs a ventilator." src="https://media.defense.gov/2020/Aug/14/2002477748/825/780/0/200629-A-BL065-1001M.JPG" />
+							
+							
+						</a>
+					</div>
+				</div>
+				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
+					<figcaption>
+						<span class="category">
+							
+							<a class="content-type-text" href="/explore/features"><span>Feature</span></a>
+							
+							
+							
+							
+							
+							
+							<span class="separator">|</span>
+							<time data-dateago="2020-08-18T07:51:56" data-dateap="Aug. 18, 2020"></time>
+							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
+						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2313843/organic-industrial-base-ramps-up-to-fight-covid-19/">Organic Industrial Base Ramps Up to Fight COVID-19</a></h3>
+						<p class="summary hidden-xs hidden-xxs">Several of the Army's Organic Industrial Base facilities are producing, repairing and repurposing equipment to augment the supply of essential  resources required to support the nation's response to COVID-19.</p>
+						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2313843/organic-industrial-base-ramps-up-to-fight-covid-19/"> Read More</a>
+					</figcaption>
+				</div>
+			</div>
+		</figure>
+		<div class="clearfix"></div>
+	</div>
+<!-- EXPLORE ITEM -->
+
+	<div class="item item-2 item-2313422 item-even">
+		<figure>
+			<div class="dgov-grid dgov-grid-bleed">
+				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
+					<div class="image-wrap ">
+						
+						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2313422/structures-metal-shop-aids-evacuation-flights-covid-19-mission/">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/14/2002477537/825/780/0/200810-F-HB697-1042.JPG)"></div>
+							<img alt="Airmen wearing face masks assemble a ramp." src="https://media.defense.gov/2020/Aug/14/2002477537/825/780/0/200810-F-HB697-1042.JPG" />
+							
+							
+						</a>
+					</div>
+				</div>
+				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
+					<figcaption>
+						<span class="category">
+							
+							<a class="content-type-text" href="/explore/features"><span>Feature</span></a>
+							
+							
+							
+							
+							
+							
+							<span class="separator">|</span>
+							<time data-dateago="2020-08-18T07:41:24" data-dateap="Aug. 18, 2020"></time>
+							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
+						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2313422/structures-metal-shop-aids-evacuation-flights-covid-19-mission/">Structures Metal Shop Aids Evacuation Flight&#39;s COVID-19 Mission</a></h3>
+						<p class="summary hidden-xs hidden-xxs">A team of structural journeymen from the 786th Civil Engineer Squadron installed the first of two biocontainment unit ramps aboard a C-17 Globemaster III at Ramstein Air Base in Germany.</p>
+						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2313422/structures-metal-shop-aids-evacuation-flights-covid-19-mission/"> Read More</a>
+					</figcaption>
+				</div>
+			</div>
+		</figure>
+		<div class="clearfix"></div>
+	</div>
+<!-- EXPLORE ITEM -->
+
+	<div class="item item-3 item-2315094 item-odd">
+		<figure>
+			<div class="dgov-grid dgov-grid-bleed">
+				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
+					<div class="image-wrap ">
+						
+						<a class="" href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478633/825/780/0/200804-F-RE693-0022C.JPG)"></div>
+							<img alt="An airman works on a smartphone mounted to his body armor." src="https://media.defense.gov/2020/Aug/17/2002478633/825/780/0/200804-F-RE693-0022C.JPG" />
+							
+							
+						</a>
+					</div>
+				</div>
+				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
+					<figcaption>
+						<span class="category">
+							<a class="content-type-text" href="/explore/news"><span>News</span></a>
+							
+							
+							
+							
+							
+							
+							
+							<span class="separator">|</span>
+							<time data-dateago="2020-08-17T14:15:49" data-dateap="Aug. 17, 2020"></time>
+							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
+						<h3 class="title"><a href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/">DOD Leaders Provide Digital Modernization Updates</a></h3>
+						<p class="summary hidden-xs hidden-xxs">Data will be the fuel and the engine for everything the Defense Department has to do to bring intelligence and operations together, DOD's chief information officer said.</p>
+						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/"> Read More</a>
+					</figcaption>
+				</div>
+			</div>
+		</figure>
+		<div class="clearfix"></div>
+	</div>
+<!-- EXPLORE ITEM -->
+
+	<div class="item item-4 item-2310346 item-even">
+		<figure>
+			<div class="dgov-grid dgov-grid-bleed">
+				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
 					<div class="image-wrap ">
 						
 						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2310346/medal-of-honor-monday-marine-corps-pfc-robert-simanek/">
@@ -1282,7 +1394,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 <!-- EXPLORE ITEM -->
 
-	<div class="item item-2 item-2312299 item-even">
+	<div class="item item-5 item-2312299 item-odd">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
@@ -1314,126 +1426,6 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 						<p class="summary hidden-xs hidden-xxs">Amid COVID-19, airmen at MacDill Air Force Base, Fla., have continued executing their mission while teleworking, social distancing and maintaining stricter sanitization standards.
 </p>
 						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2312299/macdill-squadron-fights-covid-19-through-innovation/"> Read More</a>
-					</figcaption>
-				</div>
-			</div>
-		</figure>
-		<div class="clearfix"></div>
-	</div>
-<!-- EXPLORE ITEM -->
-
-	<div class="item item-3 item-2312495 item-odd">
-		<figure>
-			<div class="dgov-grid dgov-grid-bleed">
-				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
-					<div class="image-wrap ">
-						
-						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Jul/20/2002459865/825/780/0/200712-M-KL008-1006C.JPG)"></div>
-							<img alt="Marine prepares to load rounds into a gun." src="https://media.defense.gov/2020/Jul/20/2002459865/825/780/0/200712-M-KL008-1006C.JPG" />
-							
-							
-						</a>
-					</div>
-				</div>
-				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
-					<figcaption>
-						<span class="category">
-							
-							<a class="content-type-text" href="/explore/features"><span>Feature</span></a>
-							
-							
-							
-							
-							
-							
-							<span class="separator">|</span>
-							<time data-dateago="2020-08-17T07:33:00" data-dateap="Aug. 17, 2020"></time>
-							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
-						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/">Marine Unit Completes Exercise With Force Health Protection Measures</a></h3>
-						<p class="summary hidden-xs hidden-xxs">The 31st Marine Expeditionary Unit completed an interoperability exercise at Camp Hansen, Okinawa, Japan, to incorporate detachments that recently arrived to the MEU.
-
-</p>
-						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/"> Read More</a>
-					</figcaption>
-				</div>
-			</div>
-		</figure>
-		<div class="clearfix"></div>
-	</div>
-<!-- EXPLORE ITEM -->
-
-	<div class="item item-4 item-2306658 item-even">
-		<figure>
-			<div class="dgov-grid dgov-grid-bleed">
-				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
-					<div class="image-wrap ">
-						
-						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2306658/us-japan-alliance-increasingly-strengthened-since-end-of-wwii/">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/07/2002472503/825/780/0/160507-M-TA471-009A.JPG)"></div>
-							<img alt="A crowd of people walk up and down a street." src="https://media.defense.gov/2020/Aug/07/2002472503/825/780/0/160507-M-TA471-009A.JPG" />
-							
-							
-						</a>
-					</div>
-				</div>
-				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
-					<figcaption>
-						<span class="category">
-							
-							<a class="content-type-text" href="/explore/features"><span>Feature</span></a>
-							
-							
-							
-							
-							
-							
-							<span class="separator">|</span>
-							<time data-dateago="2020-08-14T09:00:00" data-dateap="Aug. 14, 2020"></time>
-							<a class="hide" href="http://www.defense.gov/Home/Term/2582/partnerships/">Partnerships</a></span>
-						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2306658/us-japan-alliance-increasingly-strengthened-since-end-of-wwii/">U.S.-Japan Alliance Increasingly Strengthened Since End of WWII</a></h3>
-						<p class="summary hidden-xs hidden-xxs">Since the end of World War II, the alliance between the U.S. and Japan has become one of the strongest and most important in the Indo-Pacific, with both nations sharing the common goal of maintaining peace and security in the region.</p>
-						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2306658/us-japan-alliance-increasingly-strengthened-since-end-of-wwii/"> Read More</a>
-					</figcaption>
-				</div>
-			</div>
-		</figure>
-		<div class="clearfix"></div>
-	</div>
-<!-- EXPLORE ITEM -->
-
-	<div class="item item-5 item-2279986 item-odd">
-		<figure>
-			<div class="dgov-grid dgov-grid-bleed">
-				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
-					<div class="image-wrap ">
-						
-						<a class="" href="https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2279986/the-enola-gays-history-lives-on/">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2004/Mar/12/2002459913/825/780/0/020930-O-9999G-005.JPG)"></div>
-							<img alt="Seven men stand in front of the nose of a B-29 bomber." src="https://media.defense.gov/2004/Mar/12/2002459913/825/780/0/020930-O-9999G-005.JPG" />
-							
-							
-						</a>
-					</div>
-				</div>
-				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-9 dgov-col-lg-8">
-					<figcaption>
-						<span class="category">
-							
-							
-							
-							<a class="content-type-text" href="/explore/inside-dod"><span>Blog</span></a>
-							
-							
-							
-							
-							<span class="separator">|</span>
-							<time data-dateago="2020-08-14T11:00:00" data-dateap="Aug. 14, 2020"></time>
-							<a class="hide" href="http://www.defense.gov/Home/Term/2587/observances/">Observances</a></span>
-						<h3 class="title"><a href="https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2279986/the-enola-gays-history-lives-on/">The Enola Gay&#39;s History Lives On</a></h3>
-						<p class="summary hidden-xs hidden-xxs">The U.S. dropped the first atomic bomb on Hiroshima, Japan, 75 years ago, bringing an end to World War II and making the Enola Gay one of the most famous B-29s in history.
-</p>
-						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2279986/the-enola-gays-history-lives-on/"> Read More</a>
 					</figcaption>
 				</div>
 			</div>
