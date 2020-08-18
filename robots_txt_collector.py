@@ -1,16 +1,19 @@
 import csv
 import requests
 
-def get_domains():
+def get_domain_data():
     with open('all_domains_to_check.csv') as f:
         reader = csv.DictReader(f)
-        domains = [r['domain'] for r in reader]
+        domains = [r for r in reader]
 
     return domains
 
 
-def get_and_save_robots_txt(domain):
-    fname = 'data/{}'.format(domain)
+def get_and_save_robots_txt(domain_dict):
+    domain = domain_dict['domain']
+    site_type = domain_dict['site_type']
+
+    fname = 'data/{}/{}'.format(site_type, domain)
     robots_url = 'https://{}/robots.txt'.format(domain)
     try:
         resp = requests.get(robots_url, allow_redirects=True)
@@ -24,9 +27,9 @@ def get_and_save_robots_txt(domain):
     print('Wrote robots for {} to {}'.format(robots_url, fname))
 
 def main():
-    domains = get_domains()
-    for d in domains:
-        get_and_save_robots_txt(d)
+    domains = get_domain_data()
+    for domain_data in domains:
+        get_and_save_robots_txt(domain_data)
 
     print('All done.')
 

@@ -47,10 +47,10 @@ def get_agency_website_from_about_page(about_page_url):
 
 def write_hostnames(fname, list_of_hostnames):
     with open(fname, 'w') as f:
-        writer = csv.DictWriter(f, fieldnames=['domain'])
+        writer = csv.DictWriter(f, fieldnames=['domain', 'site_type'])
         writer.writeheader()
         # yeah there is probably a better way to do this, sry
-        writer.writerows([{'domain': h} for h in list_of_hostnames])
+        writer.writerows([{'domain': h, 'site_type': 'fed_gov'} for h in list_of_hostnames])
 
     print('Wrote out to {}'.format(fname))
 
