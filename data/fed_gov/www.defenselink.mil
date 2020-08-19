@@ -46,14 +46,19 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Lr5y3kNnilOfpdRpef1ezPxI72jq6/BEe0ZYr73IZCgWxtBlpi3dKvPrxSFEr/d0Z9nenTFxuWzFLcElKI1b23TAep2F+g6cHc9yb7Zun42qyle0XRg40R0QvhdKMd6W5hDN5836sqYEXj0WYKjI6ns2c5gJHWmwG3XKG/AXmooNGL9GMoUnTY7+/+nJWod6F3tDPQ/us9XJDXphcENTONMdfFHmO2ngf6SIrm7pADEYGATEUwmONZHxYgYcyVvV+I+QjJGd85rJULXHynsmHIhGQB3FSv9y0uHgs9VTsE/2ymejYHHdbALN4mdEPnUUm85eaX0dczyUJNNf1Aigmc1iiFhkNj0mf4v48nUmnTTX//6bPMe/d5hFE5QI5vPeZ6hfj9aveypUVhXLM3yI6SoR6SebwDhgEXaNhSq2jyWJenBYz5PkUecTSiCZFGNYdtuKNdeERzKdHzvYGdn6M3dWzQf8ARxuvQQfl1mH/y5bTOEAH/8KST4JBdXsoTlehpz8kwlabkmNGvyUsPznxzj+HsmQtVZhsHLzwHGySxqQ/7Fqzz1LPr5p18DcVl/fGn9JqQx43PjM+A2/WRa2yTxPqMymg6JnqdyXDbi8gj0ecanohbSt8Ggceb5G4K16jWXcQ/dsalyGqeB4Ih7lPMYgreCJcYPmAv2u/d8TvT0llOj9DCaVXMi4cCSbcdYUqh1SN+zfjM0iXhefqnpW0gmMlYP662vgwysvvbZeatdLoKck1X+v4ndTRR179TGQErr5JLVaVXjTtkmTluuhd98bFzBmVYff1TAGoGQFvG1vN6HQCApH1SuJxK7OjXSy2DXckR82a1bjqkCAtJSmneWaLH4s176kXNXBk6X3qhHHaUNO11vJs8Ri9AGvHvZxE4oOJI283dneydt1ASljrHW85xc0CK6Iw2bPKQmUyAypMlikGt6+neef5Snx17Q1vAquqDVqumZj/I/uTobH+dSEDopUS1lo5xYotsKlzaafnaea6g0H+QoHg1E/fpcZ3oI8YX026AOOdkV1WtG4XGOuobUqeoEGdKiEnCxcOzZA5E2cZfKzc2t4VNhu77T9/SD2Oq04KonFwO/ealeO8RX4KTuv49xEwITXHXqm9kw6XwuKFaMjplYNj7sBQ0hjt5pndhWcU0W7UdKhNpcXplBtIr4aqGhgG88wK2NjQeIh9idh6yuBr7SU0thgR679vjTZdtdX5hT41fSQgXKMOumCnzrKHwz1BtWRBrHMVP8ApG1PUEiuYzjsbJOM906OzC04vR7wEhCD7x/b8pAGtjWLaFeCVx1LG5Kt23sKDP3kApsrW7I4Qxx6qakps/L9iM0DdZKUFwNRXyuEIwQXlfYsf0GlzokETEc16fKmarx69PG+vA2r4wOSmGNYmWVaRR14zQGlUW/KPLiSWGqLzdcl6/WVm6zi6GOvlBR1/7vw9D6bJ82jkXdjuTr5NY3u7jZY+pRCkxF9rmTG5WcCVO/1imJegHE8h5GYNJ/uC5zjsY3pIikiT+HzKIjZSwYPwsLtZ/70mglJ4POdE/3dCn684uMeowqd0uC2OIPrYbvrsMkN4E+tLXANRcXh8SkOXLuv6yXpc5nK+L4thXbdAM/nnqTNcsEqxyzciSO7YE5khRM+HbPZCvIDMEj9PXH0NDsIhINd+o8gcytsCPMoyUlWq0lCglz9OJONgIPYMrHbWRzNUeY0KKcSnld7VrpHmRV3Sg==" />
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="4cq8jNMBL+pk1IQuVaHkxrOlA+qVEQkTZ0BzT0YSEEkXpBfP8Oq1kbIuVX8g996W+mHCP7VdN4xUnzMlWTBxPgXI+6fH7tnA+7wTRxbQlXb4Yb/SaT+W5kkw/qjITZwSNbYV9SJwaLBD6LjUjusQ1CTn8SwhrvXTuV1m/8CYfaADsbcBLOMkcaEQUkumb2hcxycS4fQjRPkQuYJhljC4faDPaMYcO3GHsgZYzqz920LEjXPNQOVWVXC+sMkvNQ9e/t4LfWyMEtw+9hZ9LTfEuwj0vCLoI4vq2psnmDjqNOEcFa7zTBWbANEM1KaYKKAcGPKrFawhMdC09K2AbCEeShmnOwP6PdboouupiwF82Hzj0dcK0khX+t39d/qx/q2VPhnmTwD0S4WLvuC1NS8awAXmO6UerymqcPfvVVRSr8q49xsuOIkForXyjP8TwiwNeLH/DTH2AkRDVguVxW3O0puQuF5t2hCCUp9rvZBLrvWiQnW+6PDCwf2HSkFiUzLfi7LIDygG8yt7ctyflSQlGxDJf3LND/5Ta8/Cj32SBGbAnHJHQQq7wNyV4Ca5VQ++ZpybJCt5/yk4WZ1n/UfvZ07AFAmI9OX6QoMzDxbaMOhqBap59Rm3sFiJ/mzfPm5bA8d6rK9ddmnl1Q+P7e16BujLIkVsmP9bB79jch6KYUAtklEpYA6H+sQpuzVovxsTHVkpabDY2JpBJSXDCDxkt2L7bwP2seFJxcz3hE22WajqVuO2N01H9cNGzz2Qh1tlj8w2OfKM/HtuYts1Ndk/LAcsYKvobHqIdNfUnru3/EKRn6GinSjwHIeFqlKnboWdtRTdACFeIsG6J16M3WI5FlFR2Aj4e+n/IzuGWrSCvrRJ6kFd1roAI066jic8GnYU5g+VRUtt6T9N5RinskI/dXp0vRvkd6olIeLW514VAc7vTVQwuzSdYNLOILdjZTEqHV7YEYXUEhyxPdOmC7tj6CYUvLyEktUPYRo3PliPuv/gBaBplo4075lNnxfy/eCuzDzOGzdxN7u62ON5nTlOHq/Fd19nx0KpDOFizb7b0xxiIPgHGK8/5IBe5Kfjzn32+Ex76Ou1nZGo3PB9c8faL5OlgN0F+NnB5KW3CNYSywXtYdSqh/EZ6UV3HczQDPZ00MXUGPXKxpQ8zpTYBszl9Gb/BGzgfMM8Zvw0VGVW9Z4RRk0cOV3YQmGKkYVyc+xqKmFm6zk5sf0FrCAsiT9EDAS8djaLw9REJCt4glUAw4D8hysab7C+V91w9pdhTZXaqj3O49uAnlntIDD68ypLimsNu/GKnY/orJVXHE88nvo6Qo0Qt+nDOkPQ6urCTZCnx0FtYdXwvQpWMpZXTeHCh+xNezPd/GIGYZuWBOsb/mXUj0+98BMA+VdRm8t7yl6XeZJvjdhxiVj3kFFrZs8xOt65faLrHF7ReX17sms96QY5rOqGAIzrONH2h7MCaTNnLF9mx+q1Cqe3pEkhQN90FhTdjr8D2Zy3231KACgY17xPS/ghxt3ju454v3rtbFK1Wio7tjngAM43ugjeEOoQQjkxqj8nKsE2VQHRnmCX72rgnSibI8BQ2tTMuvySbRnIkJQrAaSc5ALJPwiegFGyEtuao+flewxn94n+OKYbPqJofI0AgDGtxTXsilYdtYDko2ezyOeGX628zMBzKAAhNiGhFnIHkxsYGSgC06QMKqPqpXAjkXlrx/Tqg3fAScLlODA28w==" />
+</div>
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqOv4sUh-Rig0r8ribOsOru6PRUuOPeOUTxaLr0LkqwjUZ1KfN2pxsTzXrhnEn2qPqMmFHAgZnpJORcEUNLaSpc226qJmze-FYKMecKHwPV-k73fvQH1Ku4KKXAUA2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=dwY9oWetJoJ4ZjA-1jPcEhP7ER5pj7vUnbl87xIrp5KgCIH7OinCkP3cK37LGan3ayBW32yRZSEgGl2tgZv50n3b6-V5-8OCkx2VKFRvNoTMy9OkcSdmsXHaJpvqsXD5HuMXQgmzxnfjN1aI0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="+JML0x2G2nxBln7rrQt0tz/PAHYGOcBS7kbwooU3ztVg8yMXFVIX1tC2TxEhIYNhPqcMjFLcgZZ6Pj7mh174EuzK9JaZSImlG8qbpCzHikZzPAGk" /><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/skin.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/menu.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/es6dependencies.build.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/gridslideshow.build.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/vue/2.5.13/vue.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment-timezone-with-data.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/image-set-polyfill/image-set-polyfill.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/vue-resource.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/video.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/videojs-contrib-hls.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/script.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dgov-icons.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dle-events-panel.js?cdv=735" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="yZ4HJAL7CZlkzRmwl2R4f128R00h/rZZ7O31ewDYjcFZ4AyY89AHJdyLS/YiTGoLswq2eGYDk+eZyle2wudu3TCqqU+GrDMZJ8OllQ/toqhTpQ6x" />
+</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/skin.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/dgov2/resources/js/menu.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/es6dependencies.build.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/Slideshow/Scripts/dist/gridslideshow.build.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/vue/2.5.13/vue.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/moment/moment-timezone-with-data.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/image-set-polyfill/image-set-polyfill.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/vue-resource.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/video.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/videojs/7.8.3/js/videojs-contrib-hls.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/script.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dgov-icons.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/MVC/DVIDSLiveEvents2/Resources/js/dle-events-panel.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 3600, '');
@@ -777,8 +782,8 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 									<div class="image-wrap story-img-wrap dgov-card dgov-card-3 text-right">
 										
 										<a class="" href="/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/">
-											<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Mar/09/2002261627/1280/1280/0/200303-A-PR201-1003C.JPG)"></div>
-											<img class="story-img" alt="Woman fills test tube." src="https://media.defense.gov/2020/Mar/09/2002261627/1280/1280/0/200303-A-PR201-1003C.JPG" />
+											<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/10/2002474115/1280/1280/0/200421-D-EX074-002Y.JPG)"></div>
+											<img class="story-img" alt="An illustration shows aqua-colored balls with spikes against a black background." src="https://media.defense.gov/2020/Aug/10/2002474115/1280/1280/0/200421-D-EX074-002Y.JPG" />
 											
 											
 										</a>
@@ -798,7 +803,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 										<span class="separator hide">|</span> <a href="http://www.defense.gov/Home/Term/2903/defense-news/" class="category hide"><span>Defense News</span></a></span>
 										<h2 class="title"><a href="/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/">Operation Warp Speed</a></h2>
 										<p class="summary">Using the resources of the federal government and the U.S. private sector, Operation Warp Speed will accelerate the testing, supply, development, and distribution of safe and effective vaccines, therapeutics, and diagnostics to counter COVID-19 by January 2021.</p>
-										<div class="bar"><time data-dateago="2020-08-17T14:07:00" data-dateap="Aug. 17, 2020"></time> <div class="social"><div addthis:url="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/" addthis:title="Operation Warp Speed" class="addthis_toolbox addthis_default_style social-inner"><a class="addthis_button_facebook social-link at300b" title="Facebook" href="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/"><span class="fa fa-facebook"></span></a> <a class="addthis_button_twitter social-link at300b" title="Twitter" href="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/"><span class="fa fa-twitter"></span></a><div class="atclear"></div></div></div></div>
+										<div class="bar"><time data-dateago="2020-08-18T17:48:00" data-dateap="Aug. 18, 2020"></time> <div class="social"><div addthis:url="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/" addthis:title="Operation Warp Speed" class="addthis_toolbox addthis_default_style social-inner"><a class="addthis_button_facebook social-link at300b" title="Facebook" href="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/"><span class="fa fa-facebook"></span></a> <a class="addthis_button_twitter social-link at300b" title="Twitter" href="https://www.defense.gov/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/"><span class="fa fa-twitter"></span></a><div class="atclear"></div></div></div></div>
 										<a class="btn btn-primary btn-primary-ghost hide" href="/Explore/Spotlight/Coronavirus/Operation-Warp-Speed/"> Read More</a>
 									</figcaption>
 								</div>
@@ -808,8 +813,8 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				</div>
 				<div class="featStoryImg">
 					<div class="image-wrap ">
-						<div class="image-replacement" style="background-image: url(https://media.defense.gov/2020/Mar/09/2002261627/1280/1280/0/200303-A-PR201-1003C.JPG)"></div>
-						<img alt="Woman fills test tube." src="https://media.defense.gov/2020/Mar/09/2002261627/1280/1280/0/200303-A-PR201-1003C.JPG" />
+						<div class="image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/10/2002474115/1280/1280/0/200421-D-EX074-002Y.JPG)"></div>
+						<img alt="An illustration shows aqua-colored balls with spikes against a black background." src="https://media.defense.gov/2020/Aug/10/2002474115/1280/1280/0/200421-D-EX074-002Y.JPG" />
 					</div>
 				</div>
 			</div>
@@ -836,8 +841,8 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 						<div class="image-wrap ">
 							
 							<a class="" href="/Explore/Spotlight/National-Defense-Strategy/">
-								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Feb/21/2002252846/825/780/0/200204-F-MA978-1852Y.JPG)"></div>
-								<img alt="Eleven aircraft fly in a &quot;V&quot; formation over water in a cloud-studded sky." src="https://media.defense.gov/2020/Feb/21/2002252846/825/780/0/200204-F-MA978-1852Y.JPG" />
+								<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Mar/19/2002267251/825/780/0/200317-A-LX065-1005C.JPG)"></div>
+								<img alt="A rocket fires from a military vehicle." src="https://media.defense.gov/2020/Mar/19/2002267251/825/780/0/200317-A-LX065-1005C.JPG" />
 								
 								
 							</a>
@@ -854,7 +859,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 								
 								
 								
-							<span class="separator">|</span> <time data-dateago="2020-08-17T18:19:00" data-dateap="Aug. 17, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2581/lethality/">Lethality</a></span>
+							<span class="separator">|</span> <time data-dateago="2020-08-18T18:29:00" data-dateap="Aug. 18, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2581/lethality/">Lethality</a></span>
 							<h3 class="title"><a href="/Explore/Spotlight/National-Defense-Strategy/">National Defense Strategy</a></h3>
 							<p class="summary hide">The National Defense Strategy provides a clear road map for the Department of Defense to meet the challenges posed by a re-emergence of long-term strategic competition with China and Russia. The National Defense Strategy acknowledges an increasingly complex global security environment, characterized by overt challenges to the free and open international order.</p>
 							<a class="btn btn-primary btn-primary-ghost hide" href="/Explore/Spotlight/National-Defense-Strategy/"> Read More</a>
@@ -896,7 +901,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 								
 								
 								
-							<span class="separator">|</span> <time data-dateago="2020-08-18T07:45:00" data-dateap="Aug. 18, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
+							<span class="separator">|</span> <time data-dateago="2020-08-18T15:00:00" data-dateap="Aug. 18, 2020"></time><a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
 							<h3 class="title"><a href="/Explore/Spotlight/Coronavirus/">Coronavirus: DOD Response</a></h3>
 							<p class="summary hide">The Defense Department is working closely with the Department of Health and Human Services and the State Department to provide support in dealing with the coronavirus outbreak.</p>
 							<a class="btn btn-primary btn-primary-ghost hide" href="/Explore/Spotlight/Coronavirus/"> Read More</a>
@@ -1037,7 +1042,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
         </div><!--dvids-isting-wrap-->
     </section><!--dvids-wrap-->
     <script type="text/javascript">
-        var playerConfig = {"data":{"dvidsParams":{"eventFilterType":"man","toggleEventListMaxResults":true,"toggleUpcomingEventMaxResultView":false,"toggleEventListToDateRange":false,"toggleEventHashtags":true,"toggleIncludeExternals":false,"toggleEventSort":true,"eventListMaxResults":"50","upcomingEventMaxResultView":"10","liveTodayEventMaxResultView":"3","eventListToDays":7,"includeExternals":false,"eventHashtags":"dgovlive","eventSort":"asc","autoplay":true,"manualSelectedEvents":"","showLiveNowList":true,"showUpcomingEventsList":true,"apiKey":"key-5b75d9ba94822","dvidsURL":"https://api.dvidshub.net/","dvidsStagingURL":null,"showTestVid":false,"showPanelWhenEmpty":false,"toDate":"2020-10-07T23:59:59.0000000-04:00","fromDate":"2020-08-18T06:28:17.7006848-04:00"},"dleDNNSettings":{"templateLayout":"Left","templateStyle":"DGOV","moduleMode":"LiveBar","moduleTitle":"LIVE EVENTS","liveNowListTitle":"LIVE NOW","liveNowDefaultText":"No Events Currently Scheduled","upcomingEventsListTitle":"LIVE TODAY","upcomingEventsDefaultText":"No Events Currently Scheduled","countdownTitle":"COMING UP","templateDisclaimer":"","videoBugPosition":"TopLeft","showModuleTitle":false,"showEventTitle":true,"showEventDesc":true,"showCountdownTitle":true,"showCountdownDesc":true,"showVideoBug":false,"liveNowActiveClick":"on","liveNowActiveManualTime":"fifteenMin","toggleError":true,"selectedSMMSealId":0,"selectedSeal":null,"selectedSMMSealForErrorsId":0,"selectedSealForErrors":null,"selectedSMMCountdownBackgroundId":0,"selectedBackground":null,"selectedSMMNoEventBackgroundId":0,"selectedNoEvent":null,"selectedDVIDSVideoBugId":0,"selectedVideoBug":null,"dvidsVideoPlayerUrl":"https://www.defense.gov/Watch/Video?videoid=","dvidsLiveEventsUrl":"https://www.defense.gov/Watch/LiveEvents/#/?currentVideo=","noEventsLink":"/watch/videos","toggleLiveEventVideoBug":true,"liveEventVideoBugPosition":"TopLeft"}}}
+        var playerConfig = {"data":{"dvidsParams":{"eventFilterType":"man","toggleEventListMaxResults":true,"toggleUpcomingEventMaxResultView":false,"toggleEventListToDateRange":false,"toggleEventHashtags":true,"toggleIncludeExternals":false,"toggleEventSort":true,"eventListMaxResults":"50","upcomingEventMaxResultView":"10","liveTodayEventMaxResultView":"3","eventListToDays":7,"includeExternals":false,"eventHashtags":"dgovlive","eventSort":"asc","autoplay":true,"manualSelectedEvents":"","showLiveNowList":true,"showUpcomingEventsList":true,"apiKey":"key-5b75d9ba94822","dvidsURL":"https://api.dvidshub.net/","dvidsStagingURL":null,"showTestVid":false,"showPanelWhenEmpty":false,"toDate":"2020-10-07T23:59:59.0000000-04:00","fromDate":"2020-08-18T19:00:44.9687969-04:00"},"dleDNNSettings":{"templateLayout":"Left","templateStyle":"DGOV","moduleMode":"LiveBar","moduleTitle":"LIVE EVENTS","liveNowListTitle":"LIVE NOW","liveNowDefaultText":"No Events Currently Scheduled","upcomingEventsListTitle":"LIVE TODAY","upcomingEventsDefaultText":"No Events Currently Scheduled","countdownTitle":"COMING UP","templateDisclaimer":"","videoBugPosition":"TopLeft","showModuleTitle":false,"showEventTitle":true,"showEventDesc":true,"showCountdownTitle":true,"showCountdownDesc":true,"showVideoBug":false,"liveNowActiveClick":"on","liveNowActiveManualTime":"fifteenMin","toggleError":true,"selectedSMMSealId":0,"selectedSeal":null,"selectedSMMSealForErrorsId":0,"selectedSealForErrors":null,"selectedSMMCountdownBackgroundId":0,"selectedBackground":null,"selectedSMMNoEventBackgroundId":0,"selectedNoEvent":null,"selectedDVIDSVideoBugId":0,"selectedVideoBug":null,"dvidsVideoPlayerUrl":"https://www.defense.gov/Watch/Video?videoid=","dvidsLiveEventsUrl":"https://www.defense.gov/Watch/LiveEvents/#/?currentVideo=","noEventsLink":"/watch/videos","toggleLiveEventVideoBug":true,"liveEventVideoBugPosition":"TopLeft"}}}
     </script>
 <script type="x/template" id="dgovTemplate-dgov-chevron-down">
     <svg id="chevronDown" class="dgov-chevron-down dgov-icon" viewBox="0 0 144 144" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg">
@@ -1342,7 +1347,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 							
 							
 							<span class="separator">|</span>
-							<time data-dateago="2020-08-17T14:15:49" data-dateap="Aug. 17, 2020"></time>
+							<time data-dateago="2020-08-17T14:15:00" data-dateap="Aug. 17, 2020"></time>
 							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
 						<h3 class="title"><a href="https://www.defense.gov/Explore/News/Article/Article/2315094/dod-leaders-provide-digital-modernization-updates/">DOD Leaders Provide Digital Modernization Updates</a></h3>
 						<p class="summary hidden-xs hidden-xxs">Data will be the fuel and the engine for everything the Defense Department has to do to bring intelligence and operations together, DOD's chief information officer said.</p>
@@ -1394,15 +1399,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 <!-- EXPLORE ITEM -->
 
-	<div class="item item-5 item-2312299 item-odd">
+	<div class="item item-5 item-2312495 item-odd">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-12 dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-3 dgov-col-lg-4">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2312299/macdill-squadron-fights-covid-19-through-innovation/">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/13/2002476813/825/780/0/200715-F-FT779-0012M.JPG)"></div>
-							<img alt="Airmen install COVID-19 protective barriers." src="https://media.defense.gov/2020/Aug/13/2002476813/825/780/0/200715-F-FT779-0012M.JPG" />
+						<a class="" href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Jul/20/2002459865/825/780/0/200712-M-KL008-1006C.JPG)"></div>
+							<img alt="Marine prepares to load rounds into a gun." src="https://media.defense.gov/2020/Jul/20/2002459865/825/780/0/200712-M-KL008-1006C.JPG" />
 							
 							
 						</a>
@@ -1420,12 +1425,13 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 							
 							
 							<span class="separator">|</span>
-							<time data-dateago="2020-08-17T07:32:47" data-dateap="Aug. 17, 2020"></time>
+							<time data-dateago="2020-08-17T07:33:00" data-dateap="Aug. 17, 2020"></time>
 							<a class="hide" href="http://www.defense.gov/Home/Term/2903/defense-news/">Defense News</a></span>
-						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2312299/macdill-squadron-fights-covid-19-through-innovation/">MacDill Squadron Fights COVID-19 Through Innovation</a></h3>
-						<p class="summary hidden-xs hidden-xxs">Amid COVID-19, airmen at MacDill Air Force Base, Fla., have continued executing their mission while teleworking, social distancing and maintaining stricter sanitization standards.
+						<h3 class="title"><a href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/">Marine Unit Completes Exercise With Force Health Protection Measures</a></h3>
+						<p class="summary hidden-xs hidden-xxs">The 31st Marine Expeditionary Unit completed an interoperability exercise at Camp Hansen, Okinawa, Japan, to incorporate detachments that recently arrived to the MEU.
+
 </p>
-						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2312299/macdill-squadron-fights-covid-19-through-innovation/"> Read More</a>
+						<a class="btn btn-primary btn-primary-ghost hide" href="https://www.defense.gov/Explore/Features/Story/Article/2312495/marine-unit-completes-exercise-with-force-health-protection-measures/"> Read More</a>
 					</figcaption>
 				</div>
 			</div>
@@ -1554,15 +1560,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
     <div class="alist-inner">
 <div class="dgov-grid"><!-- FROM THE SERVICES ITEM -->
 <div class="dgov-col-xs-12 dgov-col-sm-6 dgov-col-lg-12 fts-col-1 fts-col-odd">
-	<div class="item item-2314870 item-odd">
+	<div class="item item-2316286 item-odd">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-4 fts-col-img">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.army.mil/article/238181/u_s_army_south_hhbn_prepares_for_hurricane_season_during_validation_exercise" target=" target="_blank" rel="noopener" ">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478467/825/780/0/200814-A-ZZ999-111C.JPG)"></div>
-							<img alt="Service members inspect a large parcel of equipment." src="https://media.defense.gov/2020/Aug/17/2002478467/825/780/0/200814-A-ZZ999-111C.JPG" />
+						<a class="" href="https://www.army.mil/article/238186/army_researchers_explore_self_healing_materials" target=" target="_blank" rel="noopener" ">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/18/2002479307/825/780/0/200818-D-ZZ999-928.JPG)"></div>
+							<img alt="Hands in blue medical gloves handle a piece of material." src="https://media.defense.gov/2020/Aug/18/2002479307/825/780/0/200818-D-ZZ999-928.JPG" />
 							
 							
 						</a>
@@ -1571,7 +1577,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-8 fts-col-copy">
 					<figcaption>
 						<span class="source Army">Army</span>
-						<h3 class="title"><a href="https://www.army.mil/article/238181/u_s_army_south_hhbn_prepares_for_hurricane_season_during_validation_exercise" target=" target="_blank" rel="noopener" ">Army South Prepares for Hurricane Season</a></h3>
+						<h3 class="title"><a href="https://www.army.mil/article/238186/army_researchers_explore_self_healing_materials" target=" target="_blank" rel="noopener" ">Army Researchers Explore Self-Healing Materials</a></h3>
 					</figcaption>
 				</div>
 			</div>
@@ -1579,15 +1585,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 </div><!-- FROM THE SERVICES ITEM -->
 <div class="dgov-col-xs-12 dgov-col-sm-6 dgov-col-lg-12 fts-col-2 fts-col-even">
-	<div class="item item-2314892 item-even">
+	<div class="item item-2316376 item-even">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-4 fts-col-img">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.marines.mil/News/News-Display/Article/2314551/us-marines-implement-emergency-transfusion-program-in-middle-east/" target=" target="_blank" rel="noopener" ">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478506/825/780/0/200730-M-QS584-1029.JPG)"></div>
-							<img alt="A sailor looks points to a blood bag." src="https://media.defense.gov/2020/Aug/17/2002478506/825/780/0/200730-M-QS584-1029.JPG" />
+						<a class="" href="https://www.marines.mil/News/News-Display/Article/2316113/marines-set-up-execute-expeditionary-atc-operations-on-mcas-camp-pendleton/" target=" target="_blank" rel="noopener" ">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/18/2002479357/825/780/0/200811-M-DB029-109.JPG)"></div>
+							<img alt="View of the back of a man with Stampede across the back of his shirt as he looks at a radar system on a computer screen." src="https://media.defense.gov/2020/Aug/18/2002479357/825/780/0/200811-M-DB029-109.JPG" />
 							
 							
 						</a>
@@ -1596,7 +1602,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-8 fts-col-copy">
 					<figcaption>
 						<span class="source Marine Corps">Marine Corps</span>
-						<h3 class="title"><a href="https://www.marines.mil/News/News-Display/Article/2314551/us-marines-implement-emergency-transfusion-program-in-middle-east/" target=" target="_blank" rel="noopener" ">Marines Implement Emergency Transfusion Program</a></h3>
+						<h3 class="title"><a href="https://www.marines.mil/News/News-Display/Article/2316113/marines-set-up-execute-expeditionary-atc-operations-on-mcas-camp-pendleton/" target=" target="_blank" rel="noopener" ">Marines Practice Expeditionary ATC Operations</a></h3>
 					</figcaption>
 				</div>
 			</div>
@@ -1604,15 +1610,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 </div><!-- FROM THE SERVICES ITEM -->
 <div class="dgov-col-xs-12 dgov-col-sm-6 dgov-col-lg-12 fts-col-3 fts-col-odd">
-	<div class="item item-2314914 item-odd">
+	<div class="item item-2316323 item-odd">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-4 fts-col-img">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2314613/uae-us-forces-conduct-aviation-live-fire-exercise-in-arabian-gulf/" target=" target="_blank" rel="noopener" ">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478520/825/780/0/200811-A-FT904-1023C.JPG)"></div>
-							<img alt="An inflatable target takes fire in waters." src="https://media.defense.gov/2020/Aug/17/2002478520/825/780/0/200811-A-FT904-1023C.JPG" />
+						<a class="" href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2315957/exercise-rim-of-the-pacific-2020-begins/" target=" target="_blank" rel="noopener" ">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2018/Aug/01/2002040558/825/780/0/180729-N-LI768-1248Y.JPG)"></div>
+							<img alt="A helicopter, seen from overhead, flies over blue water." src="https://media.defense.gov/2018/Aug/01/2002040558/825/780/0/180729-N-LI768-1248Y.JPG" />
 							
 							
 						</a>
@@ -1621,7 +1627,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-8 fts-col-copy">
 					<figcaption>
 						<span class="source Navy">Navy</span>
-						<h3 class="title"><a href="https://www.navy.mil/Press-Office/News-Stories/display-news/Article/2314613/uae-us-forces-conduct-aviation-live-fire-exercise-in-arabian-gulf/" target=" target="_blank" rel="noopener" ">UAE, U.S. Forces Conduct Live-Fire Exercise</a></h3>
+						<h3 class="title"><a href="https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2315957/exercise-rim-of-the-pacific-2020-begins/" target=" target="_blank" rel="noopener" ">Exercise Rim of the Pacific 2020 Kicks Off</a></h3>
 					</figcaption>
 				</div>
 			</div>
@@ -1629,15 +1635,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 </div><!-- FROM THE SERVICES ITEM -->
 <div class="dgov-col-xs-12 dgov-col-sm-6 dgov-col-lg-12 fts-col-4 fts-col-even">
-	<div class="item item-2314967 item-even">
+	<div class="item item-2316469 item-even">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-4 fts-col-img">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.af.mil/News/Article-Display/Article/2312907/afrl-neurotechnology-partnership-aims-to-accelerate-learning/" target=" target="_blank" rel="noopener" ">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/12/2002478556/825/780/0/200730-F-HX758-004.JPG)"></div>
-							<img alt="An airman wearing goggles looking at a screen." src="https://media.defense.gov/2020/Aug/12/2002478556/825/780/0/200730-F-HX758-004.JPG" />
+						<a class="" href="https://www.af.mil/News/Article-Display/Article/2315816/scott-afb-personnel-responds-to-flash-floods/" target=" target="_blank" rel="noopener" ">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/14/2002479501/825/780/0/200812-F-NB484-0054.JPG)"></div>
+							<img alt="An airman directs traffic through standing water." src="https://media.defense.gov/2020/Aug/14/2002479501/825/780/0/200812-F-NB484-0054.JPG" />
 							
 							
 						</a>
@@ -1646,7 +1652,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-8 fts-col-copy">
 					<figcaption>
 						<span class="source Air Force">Air Force</span>
-						<h3 class="title"><a href="https://www.af.mil/News/Article-Display/Article/2312907/afrl-neurotechnology-partnership-aims-to-accelerate-learning/" target=" target="_blank" rel="noopener" ">Neurotechnology Aims to Accelerate Learning</a></h3>
+						<h3 class="title"><a href="https://www.af.mil/News/Article-Display/Article/2315816/scott-afb-personnel-responds-to-flash-floods/" target=" target="_blank" rel="noopener" ">Scott AFB Personnel Respond to Flash Floods</a></h3>
 					</figcaption>
 				</div>
 			</div>
@@ -1679,15 +1685,15 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 	</div>
 </div><!-- FROM THE SERVICES ITEM -->
 <div class="dgov-col-xs-12 dgov-col-sm-6 dgov-col-lg-12 fts-col-6 fts-col-even">
-	<div class="item item-2315045 item-even">
+	<div class="item item-2316610 item-even">
 		<figure>
 			<div class="dgov-grid dgov-grid-bleed">
 				<div class="dgov-hidden-xxs dgov-col-xs-3 dgov-col-sm-4 dgov-col-md-4 fts-col-img">
 					<div class="image-wrap ">
 						
-						<a class="" href="https://www.nationalguard.mil/News/Article/2314464/deployed-father-and-son-promoted-together/" target=" target="_blank" rel="noopener" ">
-							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/17/2002478587/825/780/0/200815-Z-IK914-401.JPG)"></div>
-							<img alt="Two soldiers pose for a photo." src="https://media.defense.gov/2020/Aug/17/2002478587/825/780/0/200815-Z-IK914-401.JPG" />
+						<a class="" href="https://www.nationalguard.mil/News/Article/2316019/iowa-national-guard-helps-with-derecho-cleanup/" target=" target="_blank" rel="noopener" ">
+							<div class="zoom-bg image-replacement" style="background-image: url(https://media.defense.gov/2020/Aug/18/2002479520/825/780/0/200818-Z-TJ010-003.JPG)"></div>
+							<img alt="A guardsman holds a piece of a tree." src="https://media.defense.gov/2020/Aug/18/2002479520/825/780/0/200818-Z-TJ010-003.JPG" />
 							
 							
 						</a>
@@ -1696,7 +1702,7 @@ var skinvars = {"SiteName":"U.S. DEPARTMENT OF DEFENSE","SiteShortName":"Defense
 				<div class="dgov-col-12 dgov-col-xs-9 dgov-col-sm-8 dgov-col-md-8 fts-col-copy">
 					<figcaption>
 						<span class="source National Guard">National Guard</span>
-						<h3 class="title"><a href="https://www.nationalguard.mil/News/Article/2314464/deployed-father-and-son-promoted-together/" target=" target="_blank" rel="noopener" ">Deployed Father and Son Promoted Together</a></h3>
+						<h3 class="title"><a href="https://www.nationalguard.mil/News/Article/2316019/iowa-national-guard-helps-with-derecho-cleanup/" target=" target="_blank" rel="noopener" ">Iowa National Guard Helps With Derecho Cleanup</a></h3>
 					</figcaption>
 				</div>
 			</div>
@@ -2171,20 +2177,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478929",
+                link: "?igphoto=2002479816",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478929/900/510/0/200814-M-BR906-1004M.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478929/-1/-1/0/200814-M-BR906-1004M.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479816/900/510/0/200818-A-BT735-167Y.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479816/-1/-1/0/200818-A-BT735-167Y.JPG",
                 preventDistortionClass: "",
-                title: "Training Talk",
+                title: "Fort Hood Fire",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "0",
-                link: "?igphoto=2002478929",
-                alt: "Marines stand next to one another illuminated by colorful lights.",
-                byLine: "Marine Corps Lance Cpl. Leslie Alcaraz",
-                description: "Marines discuss shooters’ scores during training at Camp Grayling, Mich., Aug. 14, 2020.",
+                link: "?igphoto=2002479816",
+                alt: "A ball of fire shoots from a tanks gun as it fires a round.",
+                byLine: "Army Sgt. Calab Franklin",
+                description: "Soldiers fire the Army’s new M1A2 SEPv3 tank at Fort Hood, Texas, Aug. 18, 2020.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '0',
@@ -2224,20 +2230,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478905",
+                link: "?igphoto=2002479637",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478905/900/510/0/200814-Z-FD650-1079Y.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478905/-1/-1/0/200814-Z-FD650-1079Y.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479637/900/510/0/200817-N-LK322-1243Y.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479637/-1/-1/0/200817-N-LK322-1243Y.JPG",
                 preventDistortionClass: "",
-                title: "Soldier Salute",
+                title: "Small Arms Shoot",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "1",
-                link: "?igphoto=2002478905",
-                alt: "A soldier wearing a mask salutes outside.",
-                byLine: "Army Staff Sgt. Crystal Housman",
-                description: "Army Sgt. Maj. Joseph Kim, a California National Guardsman, salutes while the national anthem is played during a groundbreaking ceremony for the Korean War Memorial at Hillcrest Park in Fullerton, Calif., Aug. 14, 2020.",
+                link: "?igphoto=2002479637",
+                alt: "A sailor kneels and fires a weapon while wearing protective ear coverings at a range.",
+                byLine: "Navy Seaman D.J. Schwartz",
+                description: "Navy Petty Officer 3rd Class Naajee Tymes shoots an M4 carbine during small arms qualification at Naval Base Coronado, Calif., Aug. 17, 2020.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '1',
@@ -2277,20 +2283,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478776",
+                link: "?igphoto=2002479594",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478776/900/510/0/200814-M-LD973-481.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478776/-1/-1/0/200814-M-LD973-481.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479594/900/510/0/200814-F-TY205-1128Y.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479594/-1/-1/0/200814-F-TY205-1128Y.JPG",
                 preventDistortionClass: "",
-                title: "Colorful Corps",
+                title: "Thunderbird Trail",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "2",
-                link: "?igphoto=2002478776",
-                alt: "Marines train under a starry night sky illuminated by colorful lights.",
-                byLine: "Marine Corps Lance Cpl. Samwel Tabancay",
-                description: "Marines conduct rifle qualifications during training at Camp Grayling, Mich., Aug. 14, 2020.",
+                link: "?igphoto=2002479594",
+                alt: "An aircraft flies sideways through a blue sky leaving a white trails in its wake.",
+                byLine: "Air Force Capt. Kip Sumner",
+                description: "An Air Force Thunderbird pilot banks during a rehearsal performance for the 2020 OC Air Show in Ocean City, Md., Aug. 14, 2020.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '2',
@@ -2330,22 +2336,22 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478775",
+                link: "?igphoto=2002479562",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478775/900/510/0/200807-A-KM584-005M.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478775/-1/-1/0/200807-A-KM584-005M.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479562/900/510/0/200817-F-XN197-0047A.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479562/-1/-1/0/200817-F-XN197-0047A.JPG",
                 preventDistortionClass: "",
-                title: "Sunlit Saber",
+                title: "Taking Temperatures",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "3",
-                link: "?igphoto=2002478775",
-                alt: "A soldier stands next to a helicopter with others in the background at sunset.",
-                byLine: "Army Maj. Robert Fellingham",
-                description: "Army medics prepare helicopters for a mission during Saber Junction at Hohenfels Training Area, Germany, Aug. 7, 2020. The joint exercise is designed to assess readiness and promote interoperability with allied and partner nations.",
-                primaryWidth: '766',
-                primaryHeight: '511',
+                link: "?igphoto=2002479562",
+                alt: "An airman wearing a face covering takes the temperatures of students arriving at school\n.",
+                byLine: "Air Force Senior Airman Breanna Klemm",
+                description: "Air Force Senior Airman Matthew Jolikko, a security forces journeyman assigned to the 97th Security Forces Squadron, takes temperatures of students before they go into Rivers Elementary School at Altus Air Force Base, Okla., Aug. 17, 2020. In alignment with Altus Public Schools protocol, visitors are restricted, extracurricular activities require social distancing, and masks are required to be worn by students, faculty and staff members.",
+                primaryWidth: '765',
+                primaryHeight: '510',
                 serverIndex: '3',
                 mediaContent: '',
                 videoDuration: '',
@@ -2383,20 +2389,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478747",
+                link: "?igphoto=2002479558",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478747/900/510/0/200812-N-LW757-1008.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478747/-1/-1/0/200812-N-LW757-1008.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479558/900/510/0/200815-M-CX982-0002A.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479558/-1/-1/0/200815-M-CX982-0002A.JPG",
                 preventDistortionClass: "",
-                title: "Patient Care",
+                title: "Taking Inventory",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "4",
-                link: "?igphoto=2002478747",
-                alt: "Three people stand in a darkened room looking at monitors.",
-                byLine: "Navy Seaman Luke Cunningham",
-                description: "Staff assigned to Naval Medical Center San Diego's Radiology Department monitor a patient during a brain MRI, Aug. 12, 2020. The  department has adapted some of its techniques and practices during the COVID-19 pandemic to keep both patients and doctors safe.",
+                link: "?igphoto=2002479558",
+                alt: "A sailor wearing personal protective equipment takes inventory of COVID-19 test samples",
+                byLine: "Marine Corps Staff Sgt. Lucas Veg",
+                description: "Navy Petty Officer 2nd Class Bridget Greene inventories COVID-19 test samples at the Naval Hospital Okinawa, Japan, Aug. 15, 2020. The hospital is one of two locations on the island that administer COVID-19 tests for status of forces agreement personnel. (This photo has been altered by blurring out personal identifiable information on the test tube samples and common access card.)",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '4',
@@ -2436,20 +2442,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478716",
+                link: "?igphoto=2002479556",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478716/900/510/0/200813-Z-CC902-0082M.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478716/-1/-1/0/200813-Z-CC902-0082M.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479556/900/510/0/200817-Z-WX809-044.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479556/-1/-1/0/200817-Z-WX809-044.JPG",
                 preventDistortionClass: "",
-                title: "COVID-19 Test",
+                title: "COVID Assistance",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "5",
-                link: "?igphoto=2002478716",
-                alt: "A guardsman holds a test sample.",
-                byLine: "Air Force Tech. Sgt. Michael Matkin",
-                description: "A guardsman prepares to collect a COVID-19 test sample in Santa Rosa, Ariz., Aug. 13, 2020.",
+                link: "?igphoto=2002479556",
+                alt: "An Air Force officer wearing a face mask works at a laptop computer.",
+                byLine: "Army Master Sgt. Helen Miller, California National Guard",
+                description: "Air Force Capt. Amanda Fox, assigned to COVID Theater Hospital C2, works at the Joint Operations Center, David Grant USAF Medical Center, Travis Air Force Base, Calif., Aug. 17, 2020. Fox assists with northern California operations for Task Force Center West, Joint Force Land Component Command, Army North, during COVID-19 response efforts.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '5',
@@ -2489,22 +2495,22 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478715",
+                link: "?igphoto=2002479555",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478715/900/510/0/200813-Z-CC902-0054M.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478715/-1/-1/0/200813-Z-CC902-0054M.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479555/900/510/0/200816-Z-FS166-1288.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479555/-1/-1/0/200816-Z-FS166-1288.JPG",
                 preventDistortionClass: "",
-                title: "COVID-19 Testing",
+                title: "Swab Test",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "6",
-                link: "?igphoto=2002478715",
-                alt: "A guardsman administers a COVID-19 test to a motorist.",
-                byLine: "Air Force Tech. Sgt. Michael Matkin",
-                description: "A guardsman administers a COVID-19 test in Santa Rosa, Ariz., Aug. 13, 2020.",
-                primaryWidth: '765',
-                primaryHeight: '510',
+                link: "?igphoto=2002479555",
+                alt: "An airman is given a nasopharyngeal swab test.",
+                byLine: "Ryan White, Idaho Air National Guard   ",
+                description: "An Idaho Air National Guard airman gets a nasal swab test upon returning to Gowen Field in Boise, Idaho, after a deployment to various locations throughout Southwest Asia amid the COVID-19 pandemic, Aug. 16, 2020. More than 400 members of the 124th Fighter Wing and the 190th Fighter Squadron deployed throughout the spring and summer in support of Operation Freedom's Sentinel and Inherent Resolve.",
+                primaryWidth: '766',
+                primaryHeight: '511',
                 serverIndex: '6',
                 mediaContent: '',
                 videoDuration: '',
@@ -2542,22 +2548,22 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478714",
+                link: "?igphoto=2002479554",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478714/900/510/0/200813-Z-CC902-0039M.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478714/-1/-1/0/200813-Z-CC902-0039M.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479554/900/510/0/200816-Z-FS166-1063.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479554/-1/-1/0/200816-Z-FS166-1063.JPG",
                 preventDistortionClass: "",
-                title: "Test Samples",
+                title: "Elbow Bump",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "7",
-                link: "?igphoto=2002478714",
-                alt: "Two guardsmen in protective gear speak to each other.",
-                byLine: "Air Force Tech. Sgt. Michael Matkin",
-                description: "National Guardsmen collect COVID-19 test samples in Santa Rosa, Ariz., Aug. 13, 2020.",
+                link: "?igphoto=2002479554",
+                alt: "Air National Guard airmen wearing face masks greet each other by bumping elbows while several other airmen wearing face masks watch.",
+                byLine: "Ryan White, Idaho Air National Guard",
+                description: "Idaho Air National Guard airmen bump elbows upon returning home to Gowen Field in Boise, Idaho, after a deployment to various locations throughout Southwest Asia amid the COVID-19 pandemic, Aug. 16, 2020. More than 400 members of the 124th Fighter Wing and the 190th Fighter Squadron deployed throughout the spring and summer in support of Operation Freedom's Sentinel and Inherent Resolve.",
                 primaryWidth: '765',
-                primaryHeight: '510',
+                primaryHeight: '511',
                 serverIndex: '7',
                 mediaContent: '',
                 videoDuration: '',
@@ -2595,20 +2601,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478671",
+                link: "?igphoto=2002479553",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478671/900/510/0/200812-N-LW757-1001.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478671/-1/-1/0/200812-N-LW757-1001.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479553/900/510/0/200813-M-MI258-1014.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479553/-1/-1/0/200813-M-MI258-1014.JPG",
                 preventDistortionClass: "",
-                title: "Patient Prep",
+                title: "Suiting Up",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "8",
-                link: "?igphoto=2002478671",
-                alt: "Doctors stand near an MRI machine.",
-                byLine: "Navy Seaman Luke Cunningham",
-                description: "Staff assigned to Naval Medical Center San Diego's Radiology Department prepare a patient for a brain MRI, Aug. 12, 2020. The department has adapted some of its techniques and practices during the COVID-19 pandemic to keep both patients and doctors safe.",
+                link: "?igphoto=2002479553",
+                alt: "A soldier wearing a face mask helps another soldier put on his medical protective suit",
+                byLine: "Marine Corps Sgt. Andy O. Martinez",
+                description: "Army Maj. David Alford, a critical care nurse assigned to the 396th Combat Support Hospital, Joint Task Force Bravo, receives assistance putting on a medical protective suit during COVID-19 battle drill rehearsals at Soto Cano Air Base, Honduras, Aug. 13, 2020.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '8',
@@ -2648,21 +2654,21 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478667",
+                link: "?igphoto=2002479552",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478667/900/510/0/200731-F-IZ563-1014C.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478667/-1/-1/0/200731-F-IZ563-1014C.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479552/900/510/0/200810-N-CL550-1010.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479552/-1/-1/0/200810-N-CL550-1010.JPG",
                 preventDistortionClass: "",
-                title: "COVID Testing",
+                title: "Sailor Screenings",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "9",
-                link: "?igphoto=2002478667",
-                alt: "A  woman in a medical outfit puts her arm through an open car window.",
-                byLine: "Air Force Airman 1st Class Hanah Abercrombie",
-                description: "Air Force Airman Sidney Brown reaches through a car window to conduct a drive-thru COVID-19 test at Vandenberg Air Force Base, Calif., July 31, 2020.",
-                primaryWidth: '765',
+                link: "?igphoto=2002479552",
+                alt: "Two sailors wearing personal protective equipment and two other medical technicians wearing face masks prepare COVID-19 tests.",
+                byLine: "Navy Petty Officer 2nd Class Taylor  DiMartino",
+                description: "Navy sailors prepare COVID-19 tests during the second crew-wide screening for the coronavirus in the medical ward aboard the amphibious dock landing ship USS Germantown in Sasebo, Japan, Aug. 10, 2020.",
+                primaryWidth: '766',
                 primaryHeight: '510',
                 serverIndex: '9',
                 mediaContent: '',
@@ -2701,22 +2707,22 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478631",
+                link: "?igphoto=2002479549",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478631/900/510/0/200731-F-IZ563-1016C.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478631/-1/-1/0/200731-F-IZ563-1016C.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479549/900/510/0/200813-N-EV253-1401C.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479549/-1/-1/0/200813-N-EV253-1401C.JPG",
                 preventDistortionClass: "",
-                title: "Sealed Sample",
+                title: "Operation Nanook",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "10",
-                link: "?igphoto=2002478631",
-                alt: "A woman wearing a medical outfit and a mask seals a plastic bag.",
-                byLine: "Air Force Senior Airman 1st Class Hanah Abercrombie",
-                description: "Air Force Staff Sgt. Mai Yang seals a test sample during drive-thru COVID-19 testing at Vandenberg Air Force Base, Calif., July 31, 2020.",
-                primaryWidth: '766',
-                primaryHeight: '511',
+                link: "?igphoto=2002479549",
+                alt: "A ship travels through waters in between mountains.",
+                byLine: "Navy Petty Officer 2nd Class Sara Eshleman",
+                description: "The USS Thomas Hudner and the Royal Danish Navy HDMS Triton transit the Labrador Sea, Aug. 13, 2020, during Operation Nanook, an exercise designed to enhance Arctic capabilities.",
+                primaryWidth: '765',
+                primaryHeight: '510',
                 serverIndex: '10',
                 mediaContent: '',
                 videoDuration: '',
@@ -2754,20 +2760,20 @@ $('.experience-slider').on("beforeChange", function (){
         
 
     slideItem = {
-                link: "?igphoto=2002478620",
+                link: "?igphoto=2002479548",
                 target: "_self",
-                imageUrl: "https://media.defense.gov/2020/Aug/17/2002478620/900/510/0/200810-A-KM584-665Y.JPG",
-                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/17/2002478620/-1/-1/0/200810-A-KM584-665Y.JPG",
+                imageUrl: "https://media.defense.gov/2020/Aug/18/2002479548/900/510/0/200816-M-CG596-0099C.JPG",
+                serverHiresImageUrl: "https://media.defense.gov/2020/Aug/18/2002479548/-1/-1/0/200816-M-CG596-0099C.JPG",
                 preventDistortionClass: "",
-                title: "Saber Labor",
+                title: "Competition Climb",
                 useOverlay: useOverlay,
                 isVideo: isVideo,
                 slideIndex: slideIndex,
                 slideId: "11",
-                link: "?igphoto=2002478620",
-                alt: "Three Army helicopters fly over rolling terrain, with vehicles suspended by sling from two of them.",
-                byLine: "Army Maj. Robert Fellingham",
-                description: "Soldiers conduct simulated air assaults at Hohenfels Training Area, Germany, Aug. 10, 2020, for Saber Junction 20, an annual U.S. Army Europe-directed exercise.",
+                link: "?igphoto=2002479548",
+                alt: "A Marine climbs a rope.",
+                byLine: "Marine Corps Sgt. Teagan Fredericks",
+                description: "Marine Corps Lance Cpl. Ethan Willy climbs a rope during a competition at Marine Corps Base Camp Pendleton, Calif., Aug. 16, 2020.",
                 primaryWidth: '765',
                 primaryHeight: '510',
                 serverIndex: '11',
