@@ -16,40 +16,14 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="i1lEiuMnPkvBnO+OCGYX631+jaCgdtmSDNVvCbI4CZHPRdmf6oYKJ80Rl8autpmICiwfyRHVum56bhsjz3LP/YA0+wK+5HHvFOIptkQd42thmAZiCG/eDljQ2PPpzxEpnUL6XklJJLNSClGNzZjZ7oDeEkHbA1u8LK4B+Vz6hV/fT7MB+n4oVnRi11RUkljjTEZRZLCm7jONOEHH4DhevhzI/Lt1DUxDFYGZM8HHz5+dDK7iPecxwuV9sKtTH45nFc7oHBYWxcDs2pdPAkcnywbdmk+pXDAESt7RToOBpVdfZ2JRo6aseo19wt38Zfa+peofJaIL7jeNa0f5F46XJ30Q6iaY2ALVQfRedkR6uLosMWqreYqv6r3sz461v24sOytgNlyJBiZ5YZmvF+6qBrJYbhzQ8GYH76RmRcN1cwhR+bozl6s7nRLCPo46WGFOXOSSavhV+wtvtjn4zAmNHBAOJXqWP0JQoIE3BQ03jGAxpQ8/0Cze90y7Ek+kHZ93bHfcHZHhi74PjY82mC0GByt+k2DPEFXlgph+GjpdL3SYZREDl1bMmVvVOj1UHZus0Wx7jyEYXxLKY4aymIPxFRzkppV2UJoESPoQXCNtqZME93qWN7IlmVeWZ67gRldxfs6pEHLCg2IpToAWA7zWk4pbjR+dUMFJaI/ATmrhd0tdn+1GzeFXUa9gkJ2kbcIS5icPorP3wToKAq+pJE8xafbsltRKsY9RcCS0fUl09dIgLxVyxQnz02GovNHSmNV8RI9iO8KIR/c0yj4bc6C2ccerV3o3bRzSr3m8cHrCo6XLWtlab0B+SmqalTENHnJaoSHre14snNJZDob4d2pgNxCSW9o33xBTayVgg9EUdHg5tuwg3DD41Ds2BMhQ6NOBwpphceDni2hTFYu51KtrmErGsfTFSI913ym/nxAe8XIvtMskVAo/Xh8KQR0w1ycncnhVcL2BMC3Srr1V31yj7dC0YVfI6YpMxI1J5kDtuqak7fXalTJUMNNH2borImYODEiWWSgdiNG7euknJf478Cpc50Pxijm1f205W4q3c+IXqfBlvZqU5twcB7nRH5TPGQwtpwxU/hSdWTN58+j4DG2ZZqHs2TawMztiQoipo0ZKrGaPcagJblquqkSEq0WRFil+tRVh/dTa9Qxe/CGGXg8yIA1Ohg0GrEiBECJn71VpRc033KWR6eDO9GfR0ZxjjR6IjAnljfSN9JpWs0Zgv6cIpgSqVZl28qHlS2nsKn3Dzh7oBqYcc0FqLvbohhXOTogi8Jp1GK7pQ07IYn6KcKTtodJ+krkSLJ4DSDICyJbO9DoDK0xaYVuj3VouosXH6g04JXf34BmxwvSxO0hNUNT81TPYsolKpepP6Q==" />
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['Form'];
-if (!theForm) {
-    theForm = document.Form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637100682046795651" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="w5OdzsNlYp5UINpHQcIxYNSglJy75dI12vQHZBZPXtth0ilBNLFc7mSUjFgENEVSHow/hLMRMtAE23v0VPaa//R+mma6rbruCCw7Z3AaJbLQtxBoRW5Gc2o4em7V44aR/ci83eLkKOWLdycix/cjd7KvWNEfqPTIFEu+Vo/m216Cq7Y/n0YeKvOMLsl/gEScxw26gfp5ojlNmxmH9l4L97rPq6aARVk97wn4Bflh8GmwCyQmkdg+LFkUJEXiFyt5YdY4f3PF7exy7JObs0MMC7X+Hm+TlNvF0Y7u1/7Bl2ACLgjeK78PkICTOqrFP0IG5sDIToDuZb53J0nzxRjjWCRGv+J40Y0MHLExHwXHKKRzq21s+N3LRzcPgU/DoygzQqogSIeJqLlIY1WOjiWArjpOl+RUekDFy7jGb7iOFn9hi7JAeVuP+x1o3bMZUnk2zAzIvQhuh24dNiuJL7KxFlmmewpvVfk72u8/9DklzlyDy350F2KpwFY8wUSowMLmmyKMGD9roGGeoI+s+OWt7/MIvn4JXM0IMeA+vMTr8s6uNblS8qE6hJ+1HAchwVobVq4oUyRmulLwyv6ySBHU8vTzd0txLqI5Kbx0rbzVZ68oMT3RBI/7IKdx67mWqCKXfa3WO+H5FcjD6q6bIqNMMZy7B5v9BNaQgfE3S2BIqKIQOz9L+fCFSg5yL9GdsiHumC0w/FuBEUC09E5bB3QrtL/N9YnS1umvoLZKmMydwiwDAJ0UKjA1510s/WIeam97J5Xk4eTlMHOxdnP/HIfYZafp4jbVGQQJFin+MHQ63BaCkAE0phKiauIfuTbpoBwKTFrUeoU1N02kaUAEnj2UNsT+e7I74xTX0UaO23h3bEv1ad2BYLMujZdKnTT1xnN2Bxhag3yn6aEIX7M4RZRnM4RxxpwP9EB4MWClh32tdBNHtu+MpqQ3qf3Zt5YnHngW34NHLRtv2krJW4H4uYo6dCMqSC4KqdCbhtum0VdD2uRETHjowAvJ0EQAwCp6cYr7/8xpMPo0JdnOU/4bp+0J+nbu+9VkXI0ZGApO6hlKysiVZFMAuMQW5hiasA6KGXXKzn0HgJL3zytRCfSt/sQIJpNWetSBFA4CI9zfjdwZ4jtQM4u/Epz6WeMtPuBvl0kghV9bY3WTkYe4Hb6EIuY3Z0qkBjXBMCUEwDp00WZvYeuESbi/XSh8WeM3TGelFJYHh9zrFcIZHKlqq/iuIHtqqSJtPcnrqF1CGOCWR7Ke/siMJ8L8J0t3fRR7f02vMZWreb1TJi+pRG7dLHvgQ3pE+Ms4NwCl+NvIBNFOrN+oJGMhjM0J0cMDXPubTCgi0tozzl3fV1q6bsYl3CEkBAK99D9SGMnIgx+174Xg/A==" />
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="qsAu0287EbeAo3ShRfKezPhIuKpAc/rzOxuS97gy8l7Hl8WFrV6kv7vkv6jc0bL+PvhMwd98NM8/UIvxxl9ibwv0bXWIcf54lMDZ3QN+MkRbO6ej" />
-</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=697" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=697" type="text/javascript"></script><script src="/js/dnncore.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=697" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="FSJSWIHZkg4o4JEZDaWlxK9WNEomRkl1+uqkgDVsTyddQxFpH+IMUGEZTS7Hf3lX7W+WbZQ40wcwYUcpQGRyCpghve2OkYRneDxbJzyjN7OjEkPD" /><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=697" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=697" type="text/javascript"></script><script src="/js/dnncore.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=697" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=697" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=697" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=697" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr749$ViewArticle$UpdatePanel1','dnn_ctr749_ViewArticle_UpdatePanel1'], [], [], 90, '');
@@ -2806,10 +2780,23 @@ OUR MOBILE APP</h1>
                 
                 <li class="feed-item">
                     <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1295905328840802310' target='_blank' class='DGovTwitterText'>Class In Session
+
+Marines with Marine Medium Tiltrotor Squadron 263 familiarize @USArmy @173rdabnbde paratroopers w… https://t.co/wpn1NTMgzQ</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">10 hours ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1295843310330937346' target='_blank' class='DGovTwitterText'>RT @EsperDoD: Diversity is a force multiplier and your @DeptofDefense is committed to inclusivity. Submit your ideas by 16 October to: http…</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">3 hours ago</span>
+                            <span class="feed-age">14 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2844,19 +2831,6 @@ OUR MOBILE APP</h1>
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1295153377811353600' target='_blank' class='DGovTwitterText'>Let’em Have It
 
 A Marine with @5thMarReg, assigned to @SPMAGTF_CR_CC, fires his M27 Infantry Assault Rifle during a… https://t.co/006ypLccVs</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">2 days ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1295028804814098433' target='_blank' class='DGovTwitterText'>Quick Pit Stop
-
-Marine scout snipers with @USMCFEA prepare their weapons after exiting a Bell 412 helicopter during… https://t.co/ioSWUZfa0y</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
                             <span class="feed-age">2 days ago</span>
@@ -3609,15 +3583,15 @@ Marine scout snipers with @USMCFEA prepare their weapons after exiting a Bell 41
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Operation Finally Home" data-id="video:763106">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/763106/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
                                 <div class="DVIDSCarouselItem" data-title="PCS with Pets Intro" data-id="video:763140">
                                     <div class="DVIDSCarouselImgWrapper">
                                         <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/763140/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Operation Finally Home" data-id="video:763106">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/763106/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
