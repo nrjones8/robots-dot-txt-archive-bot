@@ -1,102 +1,62 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-<head>
-<title>Network Error VA99</title>
-<style type="text/css">
-html, body {
-	font-family:"Georgia", Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-body {
-	font-size:13px;
-	color:#171e24;
-	margin:0;
-	padding:0;
-	background-color: #f9f7f2;
-}
-.clear {
-	overflow:hidden;
-	clear:both;
-	height:0;
-	margin:0;
-	padding:0;
-	font-size:1px;
-	font-size:0.01em;
-	display:block;
-}
-.mainbody {
-	width:100%;
-	height:100%;
-	text-align:center;
-	margin:0;
-	padding:0;
-	display:table;
-}
-.bdywrpr {
-	width:100%;
-	text-align:left;
-	margin:0 auto;
-	z-index:1;
-}
-.hdrwrpr {
-	width:100%;
-	height:172px;
-	position:relative;
-	z-index:100;
-	background-color: #242424;
-}
-.hdr1 {
-	width: 996px;
-	position: relative;
-	margin: auto auto;
-}
-.hdlogo {
-	top:10px;
-	left:355px;
-	position:absolute;
-}
-.hdlogo img {
-	width:631px;
-	height:37px;
-	border-style:none;
-}
-.hdseal {
-	margin:0;
-	position:absolute;
-	margin-left:15px;
-}
-.hdseal img {
-	width:297px;
-	height:168px;
-	border-style:none;
-}
-.gridwrpr {
-	width:996px;
-	height:100%;
-	display:block;
-	padding-bottom:25px;
-	font-size: 125%;
-	margin: auto auto;
-}
-</style>
-</head>
-<body class="mainbody">
-	<div class="bdywrpr">
-		<div class="hdrwrpr">
-			<div class="hdr1">
-			<div class="hdlogo"><img src="https://www.justice.gov/images/logo.jpg" alt="The Common Law is the Will of Mankind Issuing from the Life of the People" /></div>
-			<div class="hdseal"><img src="https://www.justice.gov/images/seal.jpg" alt="The United States Department of Justice" border="0" /></div>
-			</div>
-		</div>
-		<div class="gridwrpr">
-			<div class="clear"> &nbsp;</div>
-			<!--Start real body-->
-			<h1 style="text-align: center">Please be advised Internet usage is monitored and logged.</h1>
-			A communication error occurred: "Connection refused"   ---VA99 <BR><BR>
-			The incident ID is: N/A. <BR> <BR>
-			The event ID is: 135193704079350368
-			
-						<!--End real body-->
-		</div>
-	</div>
-</body>
-</html>
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+Disallow: /node/*
