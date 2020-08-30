@@ -16,9 +16,10 @@ def get_and_save_robots_txt(domain_dict):
     fname = 'data/{}/{}'.format(site_type, domain)
     robots_url = 'https://{}/robots.txt'.format(domain)
     try:
-        resp = requests.get(robots_url, allow_redirects=True)
+        resp = requests.get(robots_url, allow_redirects=True, timeout=15)
     except Exception as e:
         print('Could not get robots.txt file for {}'.format(robots_url))
+        print('Error was {}'.format(str(e)))
         return
 
     with open(fname, 'wb') as f:
