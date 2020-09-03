@@ -17,8 +17,29 @@
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="w6W84h0S147BtilwPlx8InRhOghf4L5gB3R8tLmND2aKKQksR9Sw/60/dF7fxTh+6SuOAwWvHKhtGBaIJ/OMTCt/Mfm5lIozkAaxBTvwuLt61JAn6fRA+yCSDLRGWr5OPNFfG4fjAUxHnjIBhmEaUBDnbSg6p9hmDID/2DV0Y8C1RBHm5QKYRataCrG9gQi05G+3RsRdSrhhr/8eavmUoNy8oZ3IHywiv/09jm/K32wlmy1s/2pKfzhl3PpzYvuDeJwH+mQi32WFZE2cNuQxg19GODshp5mkI3XfMZuvxGNm9TOzouqy54G41zXbuOFoOEzfNzbvQBBAMzYQiVu2DCxI3jsQCslAsJ32T9BhQ5QTF++Aq9t3OJpKpwHsFgseDWF28uDGqj3b2cqAgSoS5/ws7HY51FIzye5b21a8cMa1YU5w2VMfNuzUAipIRoAlcc3iIOhtmudiGJu+uEMCBkcGxOiIZPz0C0mWdhHaRBegVmr1QfILaSnNI2y6OmJfu+/eagE3AI9zMWqJPCgdRF7Ak+j461m+IH34lmYCoazxK5DZHPcKl9r+5As0ejISCQRXnshSadt8ARCG28KAU7dPLiu35jFd2FeBe4R0lWmchSysQmCj7W2I92ZhtZIdrI3YDH22LQHmP1w3oX6k6E3AQJuhVv4CzNH18WiMJKcfLfLtnyfSXeWMV0ctPVOFJhDx1kR+zXYOzNMZ5vwcGM0qqaOvfLq9n6065sOqqN5Gus68CDo1qLcKGFGy9/tPb7mGqodzBxDksAa7aXyR8M3NALwkrGkk1EKYLD0HS2a7TDEYas28ySdaqXD/H14R6zNjE7jbsMO6UGtugFOTXilZK7UPF0Y4jIEH8Jyn+XzJDkVC4euqUK6a8LcXGeKTKaTvepCJ2VC1nxNXnUs6Baqa89ItxYk5ZkNSm9esGjFjYPfYh9AjoBHkFSwrLUrhY9+9ZZTusjMlSqpBTNdTd9O4EtZ52BmE+0LWPsYSAWuG57aT9odzJHknLA4h8/FxgDGHo1+pIfrJGyX09Vdg9fcFLmf6Havhu6ZlISLXCp47NVNImHobIhLHt03Iz2iME0bh9NtBhpfoAtCQ4xxy9ZelgaKYZVER1jHw3vMUvfJW4y7OlB6lqufcVURnloQFT74Paioa4psdE3RZPIh8FYaIRC9GXKS4otevL7g1mZGGBX8/xdHHTe97gzetmnW6ixpiPRKPbpryTpbLvzCHadTrvziXjXdfU4R0E9R/JmPjZzVMY2EJAtQKOMNX4kTl9JYQF4zcory1VndiAuxYLTpWP1ANeLbzDV5n87s4pHW/UmazRBen1iBaNUDo+XLIdWeLn6XwnWLi8kIkiyMHvzAJcMR6s2s1qMaFkg==" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="dqsk3MNF3KovfQHj43U3NurH8IUWCuv4hTSvZL6XcitwLC/y948ygFb7d1Kdgz9vojFFPCchN0r2XroXyfMrNtczlpQySLtly2qlrvEAmk4ftzzsbT9Qx3KkY0m1OwSpPUL6P/xJZSJyGlInLbEoGbGAjQUWSP66uyx1He77vvOcrx97d0b/aYFMsNeVo+n0r4tfqdbDjNSycWF4lZfRC2HKIifKJ2PZ2suutsazcME7I36+Lw62YZpUMgSd9eBGdbj3KM5G54FpxblgNlc5fFKMZK4dL7kogCmClq1tN5CEUplvegmPYvqOgV55XXyeNojugdNJO/5bVIFHQEWBm2dyNbkUgMDsnDQVaijbvECTu744kwTlOPFStHBaiv8IX4Q7Ygq+Hyh4lLn3pyJzVYRy2bVB3gHnLQDWzsdqEMtUVWUMHFDibFpO7AyZKzQEnWB6UGhpo+ElqubxyHSq71M+dwof/62ZsV01l1z5WPwHKFzXt3DU/hh/8RIMUjR0Jg3+qTf8Insw0fVrfoMjO4yRlJOHOCYjyY+BAIsRNssmt7MGGq9xk35KbwhqmSz6jza5mpBh8GP8sIuSkKRJCKimL0lWxsjH2gMYrmM+SBRbMluPO5J/vLmJ00XZHcooVsHoiIio8poKhFVQey/1H7oa9//9MJZj2OpsVPToZ+P63pBJ8JYHRAUcCd+TDA7L5oGF7+oDE+DMTYYr2h8zC4nbOBcIOw1yXlGVKwAf+bJro5ZooCWuXJNfICrJuyGVn0wBoqQ75TZOb1H4DWSJez5rdlDvbScrVikAnD4mo9pOa2L3lbNv2BCEezj6vMpx8QNiIkUG88QN1YWNhOaNlaLsN9t2on5k4tcilgIDHGMTctDq087H48XZod2PcqusOPI7TCmQdRbsGXjGE5jYaOkymCwEVN3ks39Nk53ikQcqM0a0PEtYInyvEERLG9rnM7FU32mmbWa2Txb7ppu3DO0cvN4yXgRPBnTdFp1HlzvJV+OEjw2Pt7DYYm/tBkvOCClq5GcGA6G7ZM2dhM16vtV4iMenh2FGPSRlm59Xqo8s59ewM3OIlilreBmMYPwqeAqDadwlLZGCb4cPxkiIPW6ogGMQs/DbmCZma36BZEUw5oo06Se5HRnFQdGKTmAK290FxCDQKyVQilgmcYloF/5ut6+asLqa7ZD5lhRd3rOQt/tiW50tQp8j2u/Fd4EFCDM+UWyNuksGBTRmzVmHlCQtnV7AXQqHqEaQQ4SsxI6+bu/8Nu1EvQSr66Ao0WuOwetoFs9q6C90c80zu5Jx37jh7mzGIVsAN6gDPVgI8XaW5Yr+Q4nMPWS6FiboxC37U24dKN858tr5OKJwD8em8RSfbzas9kenCXS8xw==" />
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637290613350350503" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffce034dab" type="text/javascript"></script>
@@ -27,7 +48,7 @@
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="QG39f6XhVnWu94QHbQVoQdAN+RelhOf+reOgH3i6ljd23O5+Ys8ORBgMvLN2V8To30bMhMQgS3TUWa8vHondO3Hg0r+4zEp/BgpFajimHoX4p1kt" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="fKw6e5bMBTmZ/aQANUfKLqqeYlUR+L14yl1MpDDlmJFVVI83PX5YA0ky/W0DVa5KfQmSM7wwn89nNoKk0jN45XT1kTFeOf3Cu+BAiaF+QpOVq4lN" />
 </div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -1870,8 +1891,52 @@ $('#marineSearch').keydown(function (e) {
                         
                         
                         <div class="carousel-item active">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2334594/solicitation-for-the-marine-corps-motor-transport-awards-program-mcmtap-for-fy" >
-                                <h6 class="text-left">SOLICITATION FOR THE MARINE CORPS MOTOR TRANSPORT AWARDS PROGRAM (MCMTAP) FOR FY 2020</h6>
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2335066/labor-day-message-2020" >
+                                <h6 class="text-left">LABOR DAY MESSAGE 2020</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <p>9/02/2020 | 018/20</p>
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2334690/2020-united-services-organization-marine-of-the-year-award-announcement" >
+                                <h6 class="text-left">2020 UNITED SERVICES ORGANIZATION MARINE OF THE YEAR AWARD ANNOUNCEMENT</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <p>9/02/2020 | 507/20</p>
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2334594/solicitation-for-the-marine-corps-motor-transport-awards-program-for-fy-2020" >
+                                <h6 class="text-left">SOLICITATION FOR THE MARINE CORPS MOTOR TRANSPORT AWARDS PROGRAM FOR FY 2020</h6>
                                 <!--[comment:news]-->
                                 
                                 <!--[comment:press release]-->
@@ -1914,8 +1979,8 @@ $('#marineSearch').keydown(function (e) {
                         
                         
                         <div class="carousel-item ">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2333373/fiscal-year-2021-fy21-selected-marine-corps-reserve-smcr-lateral-move-latmov-ca" >
-                                <h6 class="text-left">FISCAL YEAR 2021 (FY21) SELECTED MARINE CORPS RESERVE (SMCR) LATERAL MOVE (LATMOV), CAREER PROGRESSION MILITARY OCCUPATIONAL SPECIALTY (MOS) AND MOS PROFICIENCY TRAINING PROGRAMS</h6>
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2333373/fiscal-year-2021-selected-marine-corps-reserve-lateral-move-career-progression" >
+                                <h6 class="text-left">FISCAL YEAR 2021 SELECTED MARINE CORPS RESERVE LATERAL MOVE, CAREER PROGRESSION MILITARY OCCUPATIONAL SPECIALTY (MOS) AND MOS PROFICIENCY TRAINING PROGRAMS</h6>
                                 <!--[comment:news]-->
                                 
                                 <!--[comment:press release]-->
@@ -1947,50 +2012,6 @@ $('#marineSearch').keydown(function (e) {
                                 <!--[comment:messages]-->
                                 
                                 <p>9/01/2020 | 503/20</p>
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2330913/fy21-enlistment-incentive-programs" >
-                                <h6 class="text-left">FY21 ENLISTMENT INCENTIVE PROGRAMS</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <p>9/01/2020 | 502/20</p>
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2330424/call-for-participation-in-the-2020-women-in-defense-virtual-leadership-symposium" >
-                                <h6 class="text-left">CALL FOR PARTICIPATION IN THE 2020 WOMEN IN DEFENSE VIRTUAL LEADERSHIP SYMPOSIUM</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <p>8/31/2020 | 501/20</p>
                                 
                                 <!--[comment:in the news]-->
                                 
@@ -2782,7 +2803,7 @@ OUR MOBILE APP</h1>
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301279658168774658' target='_blank' class='DGovTwitterText'>Marine Barracks Washington holds this year’s only Sunset Parade at the U.S. Marine Corps War Memorial as we commemo… https://t.co/iaOoE95BVB</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">2 hours ago</span>
+                            <span class="feed-age">4 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2793,7 +2814,7 @@ OUR MOBILE APP</h1>
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301219902083211264' target='_blank' class='DGovTwitterText'>Join us to honor the service and sacrifice of our nation’s Greatest Generation who fought in #WWII75 as we mark 75… https://t.co/zkm1AgaKZL</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">6 hours ago</span>
+                            <span class="feed-age">8 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2804,7 +2825,7 @@ OUR MOBILE APP</h1>
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301155375773876226' target='_blank' class='DGovTwitterText'>As we commemorate today 75 years since the end of #WWII75 in the Pacific, we’re forever indebted to our nation’s Gr… https://t.co/OJKu0r4HHQ</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">10 hours ago</span>
+                            <span class="feed-age">12 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -3162,23 +3183,23 @@ OUR MOBILE APP</h1>
 <!-- DVIDS Video Analytics -->
 <script type="text/javascript" src="/DesktopModules/DVIDSVideoPlayer/Components/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
 <script type="text/javascript">
-    ANALYTICSLIBRARY.init(["765681", "508"]);
+    ANALYTICSLIBRARY.init(["765705", "1587"]);
     ANALYTICSLIBRARY.loadAnalyticsParam();
 </script>
 <!-- End DVIDS Video Analytics -->
 
 <div class="DVPPlayerBackground">
     <div class="DVPPlayer">
-        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/765681.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:765681&Format=srt' srclang='en'></video>
+        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/765705.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:765705&Format=srt' srclang='en'></video>
     </div>
 </div>
 
 <script type="text/javascript">
     var dvpCCEnabled = false;
     var myPlayer = null;
-    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=765681';
-    var gaTitle = 'Thank you, Greatest Generation';
-    var gaID = '765681';
+    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=765705';
+    var gaTitle = 'Motivated Mortars';
+    var gaID = '765705';
     var playEventAlreadyTriggered = false;
     var debug = false;
 
@@ -3188,7 +3209,7 @@ OUR MOBILE APP</h1>
         var videoHasPlayed = false;
         var restartTimer = 0;
         var captionsSelector = null;
-        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970655/DOD_107970655.mp4"}];
+        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1920x1080-6221k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734.mp4"}];
         var currentVideoHeight = 576;
         var playEventButtonTriggered = false;
 
@@ -3534,15 +3555,15 @@ OUR MOBILE APP</h1>
                             <div class="DVIDSCarouselImgTitle"><div><span></span></div></div>
                             <div class="DVIDSCarousel royalSlider rsDefault">
                                 
-                                <div class="DVIDSCarouselItem Selected" data-title="Thank you, Greatest Generation" data-id="video:765681">
+                                <div class="DVIDSCarouselItem Selected" data-title="Motivated Mortars" data-id="video:765705">
                                     <div class="DVIDSCarouselImgWrapper Selected">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765681/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Motivated Mortars" data-id="video:765705">
+                                <div class="DVIDSCarouselItem" data-title="Thank you, Greatest Generation" data-id="video:765681">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765681/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3588,9 +3609,9 @@ OUR MOBILE APP</h1>
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="59th Annual Interservice Rifle Championship" data-id="video:765311">
+                                <div class="DVIDSCarouselItem" data-title="26th Marine Expeditionary Unit conducts Change of Command Ceremony" data-id="video:765436">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/765311/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/765436/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3655,7 +3676,7 @@ OUR MOBILE APP</h1>
             $(".DVIDSCarouselImgTitle span").html(title);
         }
 
-        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Thank you, Greatest Generation<br />Sept. 2, 2020&nbsp;|&nbsp;1:26</div>")
+        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Motivated Mortars<br />Sept. 2, 2020&nbsp;|&nbsp;0:28</div>")
         SetCarouselTitle();
     });
 </script>
