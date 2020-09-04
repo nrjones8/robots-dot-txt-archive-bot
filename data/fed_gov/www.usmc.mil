@@ -16,40 +16,14 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="dqsk3MNF3KovfQHj43U3NurH8IUWCuv4hTSvZL6XcitwLC/y948ygFb7d1Kdgz9vojFFPCchN0r2XroXyfMrNtczlpQySLtly2qlrvEAmk4ftzzsbT9Qx3KkY0m1OwSpPUL6P/xJZSJyGlInLbEoGbGAjQUWSP66uyx1He77vvOcrx97d0b/aYFMsNeVo+n0r4tfqdbDjNSycWF4lZfRC2HKIifKJ2PZ2suutsazcME7I36+Lw62YZpUMgSd9eBGdbj3KM5G54FpxblgNlc5fFKMZK4dL7kogCmClq1tN5CEUplvegmPYvqOgV55XXyeNojugdNJO/5bVIFHQEWBm2dyNbkUgMDsnDQVaijbvECTu744kwTlOPFStHBaiv8IX4Q7Ygq+Hyh4lLn3pyJzVYRy2bVB3gHnLQDWzsdqEMtUVWUMHFDibFpO7AyZKzQEnWB6UGhpo+ElqubxyHSq71M+dwof/62ZsV01l1z5WPwHKFzXt3DU/hh/8RIMUjR0Jg3+qTf8Insw0fVrfoMjO4yRlJOHOCYjyY+BAIsRNssmt7MGGq9xk35KbwhqmSz6jza5mpBh8GP8sIuSkKRJCKimL0lWxsjH2gMYrmM+SBRbMluPO5J/vLmJ00XZHcooVsHoiIio8poKhFVQey/1H7oa9//9MJZj2OpsVPToZ+P63pBJ8JYHRAUcCd+TDA7L5oGF7+oDE+DMTYYr2h8zC4nbOBcIOw1yXlGVKwAf+bJro5ZooCWuXJNfICrJuyGVn0wBoqQ75TZOb1H4DWSJez5rdlDvbScrVikAnD4mo9pOa2L3lbNv2BCEezj6vMpx8QNiIkUG88QN1YWNhOaNlaLsN9t2on5k4tcilgIDHGMTctDq087H48XZod2PcqusOPI7TCmQdRbsGXjGE5jYaOkymCwEVN3ks39Nk53ikQcqM0a0PEtYInyvEERLG9rnM7FU32mmbWa2Txb7ppu3DO0cvN4yXgRPBnTdFp1HlzvJV+OEjw2Pt7DYYm/tBkvOCClq5GcGA6G7ZM2dhM16vtV4iMenh2FGPSRlm59Xqo8s59ewM3OIlilreBmMYPwqeAqDadwlLZGCb4cPxkiIPW6ogGMQs/DbmCZma36BZEUw5oo06Se5HRnFQdGKTmAK290FxCDQKyVQilgmcYloF/5ut6+asLqa7ZD5lhRd3rOQt/tiW50tQp8j2u/Fd4EFCDM+UWyNuksGBTRmzVmHlCQtnV7AXQqHqEaQQ4SsxI6+bu/8Nu1EvQSr66Ao0WuOwetoFs9q6C90c80zu5Jx37jh7mzGIVsAN6gDPVgI8XaW5Yr+Q4nMPWS6FiboxC37U24dKN858tr5OKJwD8em8RSfbzas9kenCXS8xw==" />
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['Form'];
-if (!theForm) {
-    theForm = document.Form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637290613350350503" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qf2DDmbzzNk85MSO0Tsh7GolGwhVCDrrEqt4+Ce64iVlkkKYiH61wHSjFIav0S8eHfsFQQAvM8z6QK/nlrZ3hBKQvph5yumFeso9Vm4mAoDDaqyj2M9XHOq8pW9LH2M7xo9FCzM6p3XlAN1PUxvNSkV5mBqQvgYZRHOwf6+GvZ3AqmMs/a2uYUT+bvESFhawwjJyjOA5A2aNdJJW3lwyRQibqOW2/lZAoP1ZWfVBX27wbrvS2r9V8hPsyetNJ04tuZY+1jYL91P0iD7v600z7/j+1FJP9AKir5N5arIrtzhBueMCZeaN3LOI+irNY2hd4v4IEm9ENTRYnwZ1NqA2oRsQPTywwQFm1UEiIn9Kg9YqDNisWOkYBs83Fh+ZW0MCNEhhEC6LMlCyRaBrZ98Eqn5xJ0IhIrit+GTpsivkKlN9liVJl5MvTetF80RHPoX5RqbPirKZG8BKYHcFaqAWj/mcQXsg8hNljRnpjS2YeMRvuADrJFs8UJJg2DzVNoZXFQdZSqFD0gA/78QNFIxbQIhauA3R0WRBmMIGP86x83xENED8WVZHZApnlKqnY68vLQFSCt6GdC3o+ufFmrx4iHhPCXhPwkjzzKTEaf+UKLqDakEl5gBIUJeudfTwkY0cgeiX2/6wocgEvV7pOSOnlf2J6RPmKCUbQbmh7WTV7UYKXXDWPcmq7V1AvO5wSq78qjCLl2cMFiaj0VsSe/1yig9A7KsgrRjLbmroDtYgfjx6cSLPwW7TModvLLz5f/G6SBLR30z7ui75DGVsMM6m9lr89NKjufVGfK0A9NeNGmq1UScJfqnfrN6q8j6VaLWRqXIooIocdmvNfu9iQQpSMxR0JcHmM3iskPTK+DCpN30JzjRS6/pOiFIkJ/xKY3k7hOfVaFpJJP+i1/91XLS3Ru/xHkLMnsAsj4+jARADF42WDTWew+YEDWl4QoBYXHEH7PL5SPqz0JYV/ymWDAdisq6orsTIxwr7rADknTIgvJUeugT6eWpllDTbJgiMO0Y2D3QSnfuOe19yqIriE00il9+0x5YBMD6QKUJ4kKydiNi+F/1E5TBWl94Lf+nuQCU5SjWez4pQcHioAReGM9XjB6t6Er+Eko/NEgtMZjkVzF6MzmPjqNf3EBTeW7vPyBTzTmQBm0aU5okCXJH/Dyg0OFCaPE3M8dB3YEI6PutcJ5SXjaxDR7iOyYNyCHn+F53kNLzMG3W6x2GSS1k1JK9E6hydkzu+WMQKKLnQ8YS6rwKRVQAJnXf+sjh+jLHcxpojXf2Cty507ZUwjH4D5tEGzPGh68Rzxl9VI5Qxtn50hQh1uYw6yticIh4UZkajGOatY+aELyKLPV+URpZkH3aq1ND0AqEvnKyXWZ8SjQ==" />
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffce034dab" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffce034dab" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="fKw6e5bMBTmZ/aQANUfKLqqeYlUR+L14yl1MpDDlmJFVVI83PX5YA0ky/W0DVa5KfQmSM7wwn89nNoKk0jN45XT1kTFeOf3Cu+BAiaF+QpOVq4lN" />
-</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="zyO9kTporp1sd7f/6xGkpoUqKdOoIYMB41JNfmpJqcQEipghhamgCbgYfF/KH+5hX/fJZrBrdzIRTJZHeWEYVZk5qHmHLzWsHZGGrKkz4Vg/bRJM" /><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr749$ViewArticle$UpdatePanel1','dnn_ctr749_ViewArticle_UpdatePanel1'], [], [], 90, '');
@@ -535,6 +509,52 @@ $('#marineSearch').keydown(function (e) {
 <div class="dma-slideshow toprotatorfull" id="toprotatorfull-410">
     <div class="slides">
         
+        <div class="slide" data-id="794" data-imagetitle="Be There" data-imagecaption="Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month." data-image="https://media.defense.gov/2020/Mar/13/2002264191/1366/740/0/200311-M-IP473-1130.JPG"
+              data-width="1110" data-height="740">
+            <div id="slide-image" class="slideshow-img-holder" alt="Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month."></div>
+            <div class="overlay">
+                
+                <a class='video-overlay light video-trigger' href='#' data-load="videomodal794">
+                    <button></button>
+                    <span>Play</span>
+                </a>
+                
+            </div>
+            <div class="caption-section transparent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h4 class="title light underline" id="toprotatorfull-number-title" >01</h4>
+                            <a href="/news/marines-tv?videoid=765697" target="_self"><h1 class="title light mouseover" id="toprotatorfull-title" >Be There</h1></a>
+                            <p class="description text light" id="toprotatorfull-description" >Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month.</p>
+                            <aside class="text dark decorated" id="toprotatorfull-aside-links" >
+                            
+                            
+                            
+                            
+                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal794"><span>Watch Video</span></a></span>
+                            <script type="text/javascript">
+                                if (!VideoObjectsArray[794]) {
+                                    
+                                    VideoObjectsArray.push({
+                                        slideid: 794,
+                                        format: 'dvids',
+                                        poster: 'https://media.defense.gov/2020/Mar/13/2002264191/1366/740/0/200311-M-IP473-1130.JPG',
+                                        video: {"results":{"id":"video:765697","type":"video","title":"2020 MCCS Suicide Prevention Month - John Cena","description":"Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month.","keywords":"MCCS Suicide Prevention Month","date_published":"2020-09-02T10:41:12-04:00","date":"2020-09-02T00:00:00-04:00","category":"PSA","unit_id":"4867","unit_name":"Marine and Family Programs","branch":"Marines","timestamp":"2020-09-02T13:53:04-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2009\/765697.jpg","url":"https:\/\/www.dvidshub.net\/video\/765697\/2020-mccs-suicide-prevention-month-john-cena","credit":[{"id":1478862,"name":"Michael Stevenson","rank":"","url":"https:\/\/www.dvidshub.net\/portfolio\/1478862"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200902-M-JB228-714","duration":61,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1296304,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4216916,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725.mp4","type":"video\/mp4","height":1080,"width":1920,"size":11733781,"bitrate":1387},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":14572882,"bitrate":1756},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":22450969,"bitrate":2749},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":48933981,"bitrate":6194}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765697.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765697&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765697&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2009\/765697\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:765697","type":"video","title":"2020 MCCS Suicide Prevention Month - John Cena","description":"Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month.","keywords":"MCCS Suicide Prevention Month","date_published":"2020-09-02T10:41:12-04:00","date":"2020-09-02T00:00:00-04:00","category":"PSA","unit_id":"4867","unit_name":"Marine and Family Programs","branch":"Marines","timestamp":"2020-09-02T13:53:04-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2009\/765697.jpg","url":"https:\/\/www.dvidshub.net\/video\/765697\/2020-mccs-suicide-prevention-month-john-cena","credit":[{"id":1478862,"name":"Michael Stevenson","rank":"","url":"https:\/\/www.dvidshub.net\/portfolio\/1478862"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200902-M-JB228-714","duration":61,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1296304,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4216916,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725.mp4","type":"video\/mp4","height":1080,"width":1920,"size":11733781,"bitrate":1387},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":14572882,"bitrate":1756},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":22450969,"bitrate":2749},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":48933981,"bitrate":6194}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765697.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765697&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765697&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107970725\/DOD_107970725-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2009\/765697\/900w_q95.jpg","width":900,"height":506}}}.results : {}
+                                    });
+                                    
+                                                                                                                                   }
+                            </script>
+                            
+                            
+                            <span class="extra-links"></span>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
         <div class="slide" data-id="791" data-imagetitle="Greatest Generation" data-imagecaption="U.S. Marines read an open letter to World War II veterans to commemorate the 75th anniversary of the end of the war in the Pacific." data-image="https://media.defense.gov/2020/Sep/02/2002489615/1366/740/0/200901-F-RE693-0748.JPG"
               data-width="1109" data-height="740">
             <div id="slide-image" class="slideshow-img-holder" alt="U.S. Marines read an open letter to World War II veterans to commemorate the 75th anniversary of the end of the war in the Pacific."></div>
@@ -550,10 +570,10 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" id="toprotatorfull-number-title" >01</h4>
-                            <a href="/news/marines-tv?videoid=765681" target="_self"><h1 class="title light mouseover" id="toprotatorfull-title" >Greatest Generation</h1></a>
-                            <p class="description text light" id="toprotatorfull-description" >U.S. Marines read an open letter to World War II veterans to commemorate the 75th anniversary of the end of the war in the Pacific.</p>
-                            <aside class="text dark decorated" id="toprotatorfull-aside-links" >
+                            <h4 class="title light underline" >02</h4>
+                            <a href="/news/marines-tv?videoid=765681" target="_self"><h1 class="title light mouseover" >Greatest Generation</h1></a>
+                            <p class="description text light" >U.S. Marines read an open letter to World War II veterans to commemorate the 75th anniversary of the end of the war in the Pacific.</p>
+                            <aside class="text dark decorated" >
                             
                             
                             
@@ -596,7 +616,7 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" >02</h4>
+                            <h4 class="title light underline" >03</h4>
                             <a href="/news/marines-tv?videoid=765222" target="_self"><h1 class="title light mouseover" >Unload, Show Clear</h1></a>
                             <p class="description text light" >U.S. Marines assigned to Task Force Ellis, I Marine Expeditionary Force, conduct a live fire training exercise aboard Naval Base, Guam.</p>
                             <aside class="text dark decorated" >
@@ -642,7 +662,7 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" >03</h4>
+                            <h4 class="title light underline" >04</h4>
                             <a href="/news/marines-tv?videoid=765172" target="_self"><h1 class="title light mouseover" >Immediate Action Updates</h1></a>
                             <p class="description text light" >MARADMIN 491/20 provides information about the removal of photographs from consideration by promotion boards and selection process. </p>
                             <aside class="text dark decorated" >
@@ -688,7 +708,7 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" >04</h4>
+                            <h4 class="title light underline" >05</h4>
                             <a href="/news/marines-tv?videoid=765098" target="_self"><h1 class="title light mouseover" >The Voice </h1></a>
                             <p class="description text light" >Today, we celebrate Master Gunnery Sgt. Peter Wilson's 30 years of honorable and dedicated service to "The Presidents Own," U.S. Marine Band.</p>
                             <aside class="text dark decorated" >
@@ -719,52 +739,6 @@ $('#marineSearch').keydown(function (e) {
             </div>
         </div>
         
-        <div class="slide" data-id="782" data-imagetitle="Honoring History " data-imagecaption="The Marines who went to Montford Point altered the history and broke racial barriers in the Marine Corps during WWII." data-image="https://media.defense.gov/2020/Aug/27/2002485420/1366/740/0/200826-M-ZF985-1022.JPG"
-              data-width="1110" data-height="740">
-            <div id="slide-image" class="slideshow-img-holder" alt="The Marines who went to Montford Point altered the history and broke racial barriers in the Marine Corps during WWII."></div>
-            <div class="overlay">
-                
-                <a class='video-overlay light video-trigger' href='#' data-load="videomodal782">
-                    <button></button>
-                    <span>Play</span>
-                </a>
-                
-            </div>
-            <div class="caption-section transparent">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h4 class="title light underline" >05</h4>
-                            <a href="/news/marines-tv?videoid=764316" target="_self"><h1 class="title light mouseover" >Honoring History </h1></a>
-                            <p class="description text light" >The Marines who went to Montford Point altered the history and broke racial barriers in the Marine Corps during WWII.</p>
-                            <aside class="text dark decorated" >
-                            
-                            
-                            
-                            
-                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal782"><span>Watch Video</span></a></span>
-                            <script type="text/javascript">
-                                if (!VideoObjectsArray[782]) {
-                                    
-                                    VideoObjectsArray.push({
-                                        slideid: 782,
-                                        format: 'dvids',
-                                        poster: 'https://media.defense.gov/2020/Aug/27/2002485420/1366/740/0/200826-M-ZF985-1022.JPG',
-                                        video: {"results":{"id":"video:764316","type":"video","title":"Camp Lejeune Honors the history of Montford Point Marines","description":"Retired United States Marine Corps Col. Grover Lewis III and National Monument Director for the National Montford Point Marine Association Mr. Houston Shinal speak on the history and advancement of African Americans in the Marine Corps at the Montford Point Marines Memorial on Marine Corps Base Camp Lejeune, N.C., August 17, 2020. The Montford Point Marines are a group of 20,000 African Americans that broke racial barriers in the Marine Corps during WWII. The impact of their efforts altered the history of the Marine Corps as they fought through pain and discrimination, but failure was not an option for this group of Marines. (U.S. Marine Corps Video by Cpl. Stephanie Corona-Morales)","keywords":"MCIEAST, Montford point, MCB Camp Lejeune, lejeune memorial gardens, CommStrat","date_published":"2020-08-26T08:48:16-04:00","date":"2020-08-17T00:00:00-04:00","category":"Video Productions","unit_id":"5103","unit_name":"Marine Corps Installations East","branch":"Marines","timestamp":"2020-08-26T16:04:55-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/764316.jpg","url":"https:\/\/www.dvidshub.net\/video\/764316\/camp-lejeune-honors-history-montford-point-marines","credit":[{"id":1498760,"name":"Stephanie CoronaMorales","rank":"Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1498760"}],"location":{"city":"Camp Lejeune","state":"North Carolina","country":"United States","state_abbreviation":"NC","country_abbreviation":"US"},"time_start":0,"virin":"200817-M-GP284-001","duration":182,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":3812851,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":12502009,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":43416062,"bitrate":1763},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":66628741,"bitrate":2749},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":144989174,"bitrate":6185},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683.mp4","type":"video\/mp4","height":1080,"width":1920,"size":195872978,"bitrate":8449}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/764316.m3u8?api_key=key-5058b7236d7d4","trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/764316\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:764316","type":"video","title":"Camp Lejeune Honors the history of Montford Point Marines","description":"Retired United States Marine Corps Col. Grover Lewis III and National Monument Director for the National Montford Point Marine Association Mr. Houston Shinal speak on the history and advancement of African Americans in the Marine Corps at the Montford Point Marines Memorial on Marine Corps Base Camp Lejeune, N.C., August 17, 2020. The Montford Point Marines are a group of 20,000 African Americans that broke racial barriers in the Marine Corps during WWII. The impact of their efforts altered the history of the Marine Corps as they fought through pain and discrimination, but failure was not an option for this group of Marines. (U.S. Marine Corps Video by Cpl. Stephanie Corona-Morales)","keywords":"MCIEAST, Montford point, MCB Camp Lejeune, lejeune memorial gardens, CommStrat","date_published":"2020-08-26T08:48:16-04:00","date":"2020-08-17T00:00:00-04:00","category":"Video Productions","unit_id":"5103","unit_name":"Marine Corps Installations East","branch":"Marines","timestamp":"2020-08-26T16:04:55-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/764316.jpg","url":"https:\/\/www.dvidshub.net\/video\/764316\/camp-lejeune-honors-history-montford-point-marines","credit":[{"id":1498760,"name":"Stephanie CoronaMorales","rank":"Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1498760"}],"location":{"city":"Camp Lejeune","state":"North Carolina","country":"United States","state_abbreviation":"NC","country_abbreviation":"US"},"time_start":0,"virin":"200817-M-GP284-001","duration":182,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":3812851,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":12502009,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":43416062,"bitrate":1763},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":66628741,"bitrate":2749},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":144989174,"bitrate":6185},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683.mp4","type":"video\/mp4","height":1080,"width":1920,"size":195872978,"bitrate":8449}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/764316.m3u8?api_key=key-5058b7236d7d4","trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954683\/DOD_107954683-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/764316\/900w_q95.jpg","width":900,"height":506}}}.results : {}
-                                    });
-                                    
-                                                                                                                                   }
-                            </script>
-                            
-                            
-                            <span class="extra-links"><span class="slideLink"><a class="link" href="https://www.marines.mil/News/News-Display/Article/2326763/montford-point-marines-honored-on-the-78th-anniversary/" target="_self"><span>Read Story</span></a></span></span>
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
     </div>
     <div class="pager-circles light" id="toprotatorfull-pager">
         <div class="wrapper">
@@ -784,8 +758,8 @@ $('#marineSearch').keydown(function (e) {
     <div class="pager-section light mobile-background">
         <div class="container">
             <div class="row">
-                <a href="" class="col-6 previous text dark" id="toprotatorfull-prev">&xlarr; Previous <span class="text light">Honoring History </span></a>
-                <a href="" class="col-6 next text dark" id="toprotatorfull-next"><span class="text light">Unload, Show Clear</span> Next &xrarr;</a>
+                <a href="" class="col-6 previous text dark" id="toprotatorfull-prev">&xlarr; Previous <span class="text light">The Voice </span></a>
+                <a href="" class="col-6 next text dark" id="toprotatorfull-next"><span class="text light">Greatest Generation</span> Next &xrarr;</a>
             </div>
         </div>
     </div>
@@ -1891,6 +1865,50 @@ $('#marineSearch').keydown(function (e) {
                         
                         
                         <div class="carousel-item active">
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2335714/change-1-to-the-fiscal-year-2021-fy21-selective-retention-bonus-srb-program-and" >
+                                <h6 class="text-left">CHANGE 1 TO THE FISCAL YEAR 2021 (FY21) SELECTIVE RETENTION BONUS (SRB) PROGRAM AND FY21 BROKEN SERVICE SRB (BSSRB) PROGRAM</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <p>9/03/2020 | 509/20</p>
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
+                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2335554/soliciting-nominations-for-the-fy21-national-security-space-institute-nssi-cour" >
+                                <h6 class="text-left">SOLICITING NOMINATIONS FOR THE FY21 NATIONAL SECURITY SPACE INSTITUTE (NSSI) COURSES</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <p>9/03/2020 | 508/20</p>
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
                             <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2335066/labor-day-message-2020" >
                                 <h6 class="text-left">LABOR DAY MESSAGE 2020</h6>
                                 <!--[comment:news]-->
@@ -1968,50 +1986,6 @@ $('#marineSearch').keydown(function (e) {
                                 <!--[comment:messages]-->
                                 
                                 <p>9/02/2020 | 505/20</p>
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2333373/fiscal-year-2021-selected-marine-corps-reserve-lateral-move-career-progression" >
-                                <h6 class="text-left">FISCAL YEAR 2021 SELECTED MARINE CORPS RESERVE LATERAL MOVE, CAREER PROGRESSION MILITARY OCCUPATIONAL SPECIALTY (MOS) AND MOS PROFICIENCY TRAINING PROGRAMS</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <p>9/02/2020 | 504/20</p>
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marines.mil/News/Messages/Messages-Display/Article/2331480/fiscal-year-2020-copernicus-award-nomination" >
-                                <h6 class="text-left">FISCAL YEAR 2020 COPERNICUS AWARD NOMINATION</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <p>9/01/2020 | 503/20</p>
                                 
                                 <!--[comment:in the news]-->
                                 
@@ -2158,6 +2132,25 @@ OUR MOBILE APP</h1>
       </div>
     </div>
     <div class="view">
+      
+      <div class="item" id="explore-413-793" data-id="793" data-src="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG" data-title="Rounds Downrange" data-byline="" data-link="/photos?igphoto=2002490857">
+        <a href="/photos?igphoto=2002490857" class="overlay dark"></a>
+        <img src="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG" alt="A U.S. Marine fires an M4 carbine during a joint service range in Zambrano, Honduras, Aug. 26." />
+        <div class="caption-section transparent">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <h4 class="title light">Rounds Downrange</h4>
+                <p class="text light author"></p>
+                <aside>
+                  <a href="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG" class="download-link" download="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG"><span class="text light">Download</span></a>
+                  <a href="/photos?igphoto=2002490857" class="details-link" title="Rounds Downrange"><span class="text light">Details</span></a>
+                </aside>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <div class="item" id="explore-413-792" data-id="792" data-src="https://media.defense.gov/2020/Sep/02/2002489868/1366/740/0/200827-M-JD525-0011.JPG" data-title="Bullet Rain" data-byline="" data-link="/photos?igphoto=2002489868">
         <a href="/photos?igphoto=2002489868" class="overlay dark"></a>
@@ -2361,25 +2354,6 @@ OUR MOBILE APP</h1>
                 <aside>
                   <a href="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG" class="download-link" download="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG"><span class="text light">Download</span></a>
                   <a href="/photos?igphoto=2002480839" class="details-link" title="Find the Adversary"><span class="text light">Details</span></a>
-                </aside>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="item" id="explore-413-770" data-id="770" data-src="https://media.defense.gov/2020/Aug/17/2002480075/1366/740/0/200814-M-BR906-1007.JPG" data-title="Always Accurate" data-byline="" data-link="/photos?igphoto=2002480075">
-        <a href="/photos?igphoto=2002480075" class="overlay dark"></a>
-        <img src="https://media.defense.gov/2020/Aug/17/2002480075/1366/740/0/200814-M-BR906-1007.JPG" alt="U.S. Marines fire at their targets with M27 Infantry Automatic Rifles during a short-distance range as part of their annual training on Camp Grayling, Mich., Aug. 14." />
-        <div class="caption-section transparent">
-          <div class="container">
-            <div class="row">
-              <div class="col-12">
-                <h4 class="title light">Always Accurate</h4>
-                <p class="text light author"></p>
-                <aside>
-                  <a href="https://media.defense.gov/2020/Aug/17/2002480075/1366/740/0/200814-M-BR906-1007.JPG" class="download-link" download="https://media.defense.gov/2020/Aug/17/2002480075/1366/740/0/200814-M-BR906-1007.JPG"><span class="text light">Download</span></a>
-                  <a href="/photos?igphoto=2002480075" class="details-link" title="Always Accurate"><span class="text light">Details</span></a>
                 </aside>
               </div>
             </div>
@@ -2800,40 +2774,31 @@ OUR MOBILE APP</h1>
                 
                 <li class="feed-item">
                     <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301618878582321155' target='_blank' class='DGovTwitterText'>.@USMCSgtMaj presents the Junior Enlisted Performance Evaluation System or JEPES. This system changes the way that… https://t.co/3FR0J0CfW3</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">15 hours ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301553091381284875' target='_blank' class='DGovTwitterText'>Slow is Smooth
+
+Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck of the @usnavy's… https://t.co/l2KMnETNLI</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">20 hours ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301279658168774658' target='_blank' class='DGovTwitterText'>Marine Barracks Washington holds this year’s only Sunset Parade at the U.S. Marine Corps War Memorial as we commemo… https://t.co/iaOoE95BVB</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">4 hours ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301219902083211264' target='_blank' class='DGovTwitterText'>Join us to honor the service and sacrifice of our nation’s Greatest Generation who fought in #WWII75 as we mark 75… https://t.co/zkm1AgaKZL</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">8 hours ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301155375773876226' target='_blank' class='DGovTwitterText'>As we commemorate today 75 years since the end of #WWII75 in the Pacific, we’re forever indebted to our nation’s Gr… https://t.co/OJKu0r4HHQ</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">12 hours ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1300919109505482752' target='_blank' class='DGovTwitterText'>RT @PacificMarines: After fighting together in World War II, the U.S. remains committed to our mutual defense treaty with #Australia and to…</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
                             <span class="feed-age">1 day ago</span>
@@ -2844,7 +2809,18 @@ OUR MOBILE APP</h1>
                 
                 <li class="feed-item">
                     <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1300812664382402560' target='_blank' class='DGovTwitterText'>Effective today, photographs are not authorized information for promotion boards and selection processes pertaining… https://t.co/GyvFfNZrpn</a></div>
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301219902083211264' target='_blank' class='DGovTwitterText'>Join us to honor the service and sacrifice of our nation’s Greatest Generation who fought in #WWII75 as we mark 75… https://t.co/zkm1AgaKZL</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">1 day ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301155375773876226' target='_blank' class='DGovTwitterText'>As we commemorate today 75 years since the end of #WWII75 in the Pacific, we’re forever indebted to our nation’s Gr… https://t.co/OJKu0r4HHQ</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
                             <span class="feed-age">1 day ago</span>
@@ -3183,23 +3159,23 @@ OUR MOBILE APP</h1>
 <!-- DVIDS Video Analytics -->
 <script type="text/javascript" src="/DesktopModules/DVIDSVideoPlayer/Components/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
 <script type="text/javascript">
-    ANALYTICSLIBRARY.init(["765705", "1587"]);
+    ANALYTICSLIBRARY.init(["766085", "750"]);
     ANALYTICSLIBRARY.loadAnalyticsParam();
 </script>
 <!-- End DVIDS Video Analytics -->
 
 <div class="DVPPlayerBackground">
     <div class="DVPPlayer">
-        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/765705.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:765705&Format=srt' srclang='en'></video>
+        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/766085.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:766085&Format=' srclang='en'></video>
     </div>
 </div>
 
 <script type="text/javascript">
     var dvpCCEnabled = false;
     var myPlayer = null;
-    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=765705';
-    var gaTitle = 'Motivated Mortars';
-    var gaID = '765705';
+    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=766085';
+    var gaTitle = 'Mike Company Motivational Run';
+    var gaID = '766085';
     var playEventAlreadyTriggered = false;
     var debug = false;
 
@@ -3209,7 +3185,7 @@ OUR MOBILE APP</h1>
         var videoHasPlayed = false;
         var restartTimer = 0;
         var captionsSelector = null;
-        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734-1920x1080-6221k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107970734/DOD_107970734.mp4"}];
+        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1280x720-2765k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089.mp4"}];
         var currentVideoHeight = 576;
         var playEventButtonTriggered = false;
 
@@ -3555,9 +3531,21 @@ OUR MOBILE APP</h1>
                             <div class="DVIDSCarouselImgTitle"><div><span></span></div></div>
                             <div class="DVIDSCarousel royalSlider rsDefault">
                                 
-                                <div class="DVIDSCarouselItem Selected" data-title="Motivated Mortars" data-id="video:765705">
+                                <div class="DVIDSCarouselItem Selected" data-title="Mike Company Motivational Run" data-id="video:766085">
                                     <div class="DVIDSCarouselImgWrapper Selected">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766085/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Labor Day Safety Brief" data-id="video:766109">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766109/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Mike Company Platoon introductions" data-id="video:766089">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766089/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3567,39 +3555,21 @@ OUR MOBILE APP</h1>
                                     </div>
                                 </div>
                                 
+                                <div class="DVIDSCarouselItem" data-title="Motivated Mortars" data-id="video:765705">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
                                 <div class="DVIDSCarouselItem" data-title="2nd ANGLICO’s Basic Course" data-id="video:765723">
                                     <div class="DVIDSCarouselImgWrapper">
                                         <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765723/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Cyber Games 2020 Trailer" data-id="video:765537">
+                                <div class="DVIDSCarouselItem" data-title="MCMWTC Commander Addresses Firefighters and Marines Combating Slink Fire" data-id="video:765866">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765537/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="Junior Enlisted Performance Evaluation System" data-id="video:765604">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765604/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="Marines, Australian soldiers learn MCMAP together" data-id="video:765451">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765451/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 1" data-id="video:765527">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765527/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 2" data-id="video:765526">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765526/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765866/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3609,9 +3579,15 @@ OUR MOBILE APP</h1>
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="26th Marine Expeditionary Unit conducts Change of Command Ceremony" data-id="video:765436">
+                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 2" data-id="video:765526">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2008/765436/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765526/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 1" data-id="video:765527">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765527/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3676,7 +3652,7 @@ OUR MOBILE APP</h1>
             $(".DVIDSCarouselImgTitle span").html(title);
         }
 
-        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Motivated Mortars<br />Sept. 2, 2020&nbsp;|&nbsp;0:28</div>")
+        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Mike Company Motivational Run<br />Sept. 3, 2020&nbsp;|&nbsp;3:34</div>")
         SetCarouselTitle();
     });
 </script>
@@ -3773,6 +3749,28 @@ OUR MOBILE APP</h1>
                         
                         
                         <div class="carousel-item active">
+                            <a href="https://www.thesunchronicle.com/foxboro_reporter/news/local_news/two-of-towns-remaining-wwii-veterans-honored/article_b72513ee-8119-5aa3-8145-4584b122fe13.html"  target="_blank" rel="noopener" >
+                                <h6 class="text-left">Two of town&#39;s remaining WWII veterans honored</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <p>9/03/2020 - https://www.thesunchronicle.com/foxboro_reporter/news/local_news/two-of-towns-remaining-wwii-veterans-honored/article_b72513ee-8119-5aa3-8145-4584b122fe13.html</p>
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
                             <a href="https://www.marinecorpstimes.com/news/your-marine-corps/2020/09/01/left-of-bang-marine-eod-unit-trains-on-wwii-ordnance-in-pacific/"  target="_blank" rel="noopener" >
                                 <h6 class="text-left">Left of bang: Marine EOD unit trains on WWII ordnance in Pacific</h6>
                                 <!--[comment:news]-->
@@ -3852,28 +3850,6 @@ OUR MOBILE APP</h1>
                                 <!--[comment:in the news]-->
                                 
                                 <p>8/28/2020 - https://www.marinecorpstimes.com/news/your-marine-corps/2020/08/26/marine-corps-officially-removes-photo-requirements-for-promotions-packages/</p>
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marinecorpstimes.com/news/your-military/2020/08/27/social-distancing-at-sea-during-the-worlds-largest-naval-exercise/"  target="_blank" rel="noopener" >
-                                <h6 class="text-left">Social distancing at sea, during the world’s largest naval exercise</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <p>8/27/2020 - https://www.marinecorpstimes.com/news/your-military/2020/08/27/social-distancing-at-sea-during-the-worlds-largest-naval-exercise/</p>
                                 
                                 <!--[comment:special feature]-->
                                 
