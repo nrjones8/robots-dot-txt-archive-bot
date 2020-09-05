@@ -17,38 +17,17 @@
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
 <div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="OPA3ahpvWBN7iHvObE2dHyE3lAyVOlBPTbqiO1fw+XqqNjKD2opG8Gh7NkLULGOoR3SjYgLp/mK7CzbZUAm4Qan1S02mVQj8xtf2Zd3c9mI8NFwMJAZZsuK7DsS+CV5uj+Gzqty68NB0GfV4qczP02+jxDzUInf7NfYfmsg8EKr/VjbVVar+Sy791ET2b07iymtMuBq9Hm2ZqKhKACFXkTghiZCRl7nqzjehmqXzurq220N3wvNPht8z+5Yl+LqaOSklW6KW/1E78SsX69YGIxRsakkN4/Qqx9W9IrKz53ZTsgVtDJolD6LqiVPn4NV05dbNqLywmd8HwpnOhGag4+zDDfpDrwHs+KzbdsLfTkcIHMSAvShYH/xi4tCEDU9NN1fXAPrK2tVTXRZLPLW6m1nwkqvLEpAnWKLEPGvYP9huMViTgWAQ8gDj5gYNvbANn1hOGXLNciauWxDQ0XRpKcptyzETmTF5svTh5Oe6VX6OFRpUSWKzlJ8BYa9MpzC1orN7rOr+Z2xfZI98dsrfz2eRSc8hN7IApvTTGKl88ouzFYJ56EBtffyg6ANEfLDvmoI2moSpzlwU9Ltaawi2vpeMZbhJBzUujLLiSKafu0OPO5uen+ltfdyhIN53/dJhGIYQ2ZOhYHpD+ZREtbLBnzEmNCfzipOzTVJSVz+h+c5BqSquJUTHERfKxdIsVNoXBfv+jXNAdz9xEADrbqEj0qtVlwEeY9ZUExLu+8juJA4e+89lwlEFYY3+PhEjv54PVVTDN4QBT8NlCWfg+126JzKM3lGG5DFR7pKP4jqDRJiZqzjts3IXPwsSDqmmEAH7xuHfyBWSWzymQLmEi80BKBUz+U24Kkh21zlMAIpz/C9BVfOgDT5HKvyuilQtalULtXbvHEOX5Oj1k7DWwjWOYLCICu7rAjW4gaSGnl5gX9RmHSmxpP2WiZDeGi7o8HvqHlmaaUIKSXohiVcmtyLBtgdPL7tMApsor3hNXHFPHmmdTrVgoJbymD9lONaioWZmapZt4BY43LivXiQgW31BqthpdpAiltjZINWbuGkdjhPad29PVmzSMyGlrqyXfq9qM/KYE8ABe09vJ3FwmbGwc0XrNIwfU/V+3uXkbSv1F3+q+TtOVNBrKAo37p86V6eQqPF/Us8s3pV/i1y7zlOQZzFkJMOXDs8PtnBHZ73xKtDyYUPY87jSXX3DxPODg3gXwZ7anv0B94lPoFIWvITOSHee5Qz6FWgic7PwSfCpKQ53TY4G655VGtUFiGcuexXx8PztzCGBatawauUVmutTrJquibBo8u7akKznPTHD6trdKjKDY7KzAmuDUF7fK2WrhJyuav75Wu7ZDnTgX9isrY0O9I69dIBMzeEfVA==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="kkIMQGMAgzytdFzfWGr/9GCrJTDHI+n26ccRXOy75UvapnCSl0KkETslCgHQ2OD05lYo7SGDGin9xsdWBNR1HvhLgfIsZYkHP7nbK0h1jEU9iR8I8MLD7EHWPpz2XRztgGMQqvZj29czoHHJ87IWOA7bWiMroquGdeimoLtLw6tmCsWI1t5MYaahFQKKXPdUyOTDPg5MB7COL+Z7Rjkazh/STsewlctDypkSxy9LwpXdgeDeTM0d96s0MGFLmgnCtXfri/Mkpn4fTS89/AcUJaR3mGyuUSsHp8ZBLYGv02Jq/Jzsy7WVONuTLoJCsozQ638Fh1nr8uqQr8G94aB9YgHu9sdV9q34g9i3znRncK3XCdiESXKmxeoyE7yDBBlqDq2l+mVP5kt+m+JaT+Pua0gIZACPatZjYzifuw4zD0gc59Fn4qpCsXjbsNa17QawDKLA8sAu0RoMWyoF6iznVRt0cMhS9NDlT2Fr0m0V1uFzkaaxvzSxbDnqBRyRlXcg6h3C74qtEXbApz5v2pymYaeB68DV0JRlb7g1P34BF0cXQlTp/hAgFFYlNfoTsIkWndmpgNVk2uv8FadHUPjuzP8HDbR4GpOw5gYx50tV8dra1TfN+hkjtLY5Dilm5Qjud+08w4Gok2NgKsZ2gTQ0ZO5xbhxYGXlcy4iC7gdRGbhbpCCseCuK8IK/Rt1rXkf1os5PzTeQcaVsD3QWhaZVgel8AdENvmcld1H2lA3HZOmuft8NwCceKdcBKWCVwNrgYip7sVnkba7e1ZAWihw48UF/g010O3IvP18Ql7Pe5hcmklHyTWAC6dtLQWeqs01FWLdi8mgb1umtqagwVwzj714/kVquUhOiBGvd0arGhNRncmB7RwM68AyfspbgwLBSEH1sNO+d8whVH645Ku2IX82tN8xPb2kU2YfYbnm2nMnWd0xDxd65X+3xKE2euY2hyaQQIplA+4VR6HevuPQxPIU5GreIm/jZX91UWu7H72HP0jJ2y8wxPQWu0Jor2riEWFyOSJsRnQuk6vzOgQ/68fsmDVq16rhwP7/bItbdpCFOakAUq6/zn05qJn7MiA+qzAAM4S9UPnFcEZUaCMhxKVikGJXgUu6kkuoBv2HRCtvgc/BHKPC9ZaWmEI2/nO4MrsS/E/xiFSEIXrk3g6UxKhlHZPbZiEu+nbfUOiHXZ0+s90J2GtAXDzX15gAL44Bh9ceX4KL6bt8vlqk7AAx7xOM70FfvF4xSQnLoeiXUNFdu5Q9RI+Rqo+Ch7484xIzxkjZH7A2XSRmfzaQKHbQ0HK8ScuPlODY2gAykXvJhlQViUyH90LrM2rWL4g+jI2N0t7GYfMCzCQBfXiujh88b/0mgjEdPEiSeSyDSZg==" />
 </div>
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['Form'];
-if (!theForm) {
-    theForm = document.Form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
 
-
-<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637100682046795651" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffce034dab" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffce034dab" type="text/javascript"></script>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="9XNXNAQ6QYapOsZp8NfhMpxSCAkPkwxvOyT9bM/9MOEo5mRKpPECN4doGDKCtiIYQedgBt9PXn7Mg5OXVZoKwY+IShGvPyafbY072Ef7Q+VniXEQ" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="HZAHEcQ4IyCiWHTF+/qiTuYlmZ6ezit9TiSOYm89pwUisTwp1JcdORpOWiJhuQY/1blQVP7H3rPhq0CCDIgaBVwwWdTihnW1YJxlTJEKYTxrhe7/" />
 </div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -2807,7 +2786,7 @@ Landing Craft, Air Cushion 30 with the @31stMeu arrives at White Beach Naval Bas
 The MEU, part of… https://t.co/khtOi8jle5</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 hour ago</span>
+                            <span class="feed-age">12 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2820,7 +2799,7 @@ The MEU, part of… https://t.co/khtOi8jle5</a></div>
 Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japan. The MEU and amphibious… https://t.co/saDXAiVuS6</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">9 hours ago</span>
+                            <span class="feed-age">20 hours ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -3581,12 +3560,6 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Labor Day Safety Brief" data-id="video:766109">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766109/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
                                 <div class="DVIDSCarouselItem" data-title="Mike Company Platoon introductions" data-id="video:766089">
                                     <div class="DVIDSCarouselImgWrapper">
                                         <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766089/200w_q95.jpg')"></div>
@@ -3614,6 +3587,12 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                                 <div class="DVIDSCarouselItem" data-title="Day n&#39; Night | Marines train to operate in austere environments" data-id="video:765793">
                                     <div class="DVIDSCarouselImgWrapper">
                                         <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765793/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Labor Day Safety Brief" data-id="video:766109">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766109/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
