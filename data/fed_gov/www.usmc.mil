@@ -16,14 +16,40 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="qf2DDmbzzNk85MSO0Tsh7GolGwhVCDrrEqt4+Ce64iVlkkKYiH61wHSjFIav0S8eHfsFQQAvM8z6QK/nlrZ3hBKQvph5yumFeso9Vm4mAoDDaqyj2M9XHOq8pW9LH2M7xo9FCzM6p3XlAN1PUxvNSkV5mBqQvgYZRHOwf6+GvZ3AqmMs/a2uYUT+bvESFhawwjJyjOA5A2aNdJJW3lwyRQibqOW2/lZAoP1ZWfVBX27wbrvS2r9V8hPsyetNJ04tuZY+1jYL91P0iD7v600z7/j+1FJP9AKir5N5arIrtzhBueMCZeaN3LOI+irNY2hd4v4IEm9ENTRYnwZ1NqA2oRsQPTywwQFm1UEiIn9Kg9YqDNisWOkYBs83Fh+ZW0MCNEhhEC6LMlCyRaBrZ98Eqn5xJ0IhIrit+GTpsivkKlN9liVJl5MvTetF80RHPoX5RqbPirKZG8BKYHcFaqAWj/mcQXsg8hNljRnpjS2YeMRvuADrJFs8UJJg2DzVNoZXFQdZSqFD0gA/78QNFIxbQIhauA3R0WRBmMIGP86x83xENED8WVZHZApnlKqnY68vLQFSCt6GdC3o+ufFmrx4iHhPCXhPwkjzzKTEaf+UKLqDakEl5gBIUJeudfTwkY0cgeiX2/6wocgEvV7pOSOnlf2J6RPmKCUbQbmh7WTV7UYKXXDWPcmq7V1AvO5wSq78qjCLl2cMFiaj0VsSe/1yig9A7KsgrRjLbmroDtYgfjx6cSLPwW7TModvLLz5f/G6SBLR30z7ui75DGVsMM6m9lr89NKjufVGfK0A9NeNGmq1UScJfqnfrN6q8j6VaLWRqXIooIocdmvNfu9iQQpSMxR0JcHmM3iskPTK+DCpN30JzjRS6/pOiFIkJ/xKY3k7hOfVaFpJJP+i1/91XLS3Ru/xHkLMnsAsj4+jARADF42WDTWew+YEDWl4QoBYXHEH7PL5SPqz0JYV/ymWDAdisq6orsTIxwr7rADknTIgvJUeugT6eWpllDTbJgiMO0Y2D3QSnfuOe19yqIriE00il9+0x5YBMD6QKUJ4kKydiNi+F/1E5TBWl94Lf+nuQCU5SjWez4pQcHioAReGM9XjB6t6Er+Eko/NEgtMZjkVzF6MzmPjqNf3EBTeW7vPyBTzTmQBm0aU5okCXJH/Dyg0OFCaPE3M8dB3YEI6PutcJ5SXjaxDR7iOyYNyCHn+F53kNLzMG3W6x2GSS1k1JK9E6hydkzu+WMQKKLnQ8YS6rwKRVQAJnXf+sjh+jLHcxpojXf2Cty507ZUwjH4D5tEGzPGh68Rzxl9VI5Qxtn50hQh1uYw6yticIh4UZkajGOatY+aELyKLPV+URpZkH3aq1ND0AqEvnKyXWZ8SjQ==" />
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="OPA3ahpvWBN7iHvObE2dHyE3lAyVOlBPTbqiO1fw+XqqNjKD2opG8Gh7NkLULGOoR3SjYgLp/mK7CzbZUAm4Qan1S02mVQj8xtf2Zd3c9mI8NFwMJAZZsuK7DsS+CV5uj+Gzqty68NB0GfV4qczP02+jxDzUInf7NfYfmsg8EKr/VjbVVar+Sy791ET2b07iymtMuBq9Hm2ZqKhKACFXkTghiZCRl7nqzjehmqXzurq220N3wvNPht8z+5Yl+LqaOSklW6KW/1E78SsX69YGIxRsakkN4/Qqx9W9IrKz53ZTsgVtDJolD6LqiVPn4NV05dbNqLywmd8HwpnOhGag4+zDDfpDrwHs+KzbdsLfTkcIHMSAvShYH/xi4tCEDU9NN1fXAPrK2tVTXRZLPLW6m1nwkqvLEpAnWKLEPGvYP9huMViTgWAQ8gDj5gYNvbANn1hOGXLNciauWxDQ0XRpKcptyzETmTF5svTh5Oe6VX6OFRpUSWKzlJ8BYa9MpzC1orN7rOr+Z2xfZI98dsrfz2eRSc8hN7IApvTTGKl88ouzFYJ56EBtffyg6ANEfLDvmoI2moSpzlwU9Ltaawi2vpeMZbhJBzUujLLiSKafu0OPO5uen+ltfdyhIN53/dJhGIYQ2ZOhYHpD+ZREtbLBnzEmNCfzipOzTVJSVz+h+c5BqSquJUTHERfKxdIsVNoXBfv+jXNAdz9xEADrbqEj0qtVlwEeY9ZUExLu+8juJA4e+89lwlEFYY3+PhEjv54PVVTDN4QBT8NlCWfg+126JzKM3lGG5DFR7pKP4jqDRJiZqzjts3IXPwsSDqmmEAH7xuHfyBWSWzymQLmEi80BKBUz+U24Kkh21zlMAIpz/C9BVfOgDT5HKvyuilQtalULtXbvHEOX5Oj1k7DWwjWOYLCICu7rAjW4gaSGnl5gX9RmHSmxpP2WiZDeGi7o8HvqHlmaaUIKSXohiVcmtyLBtgdPL7tMApsor3hNXHFPHmmdTrVgoJbymD9lONaioWZmapZt4BY43LivXiQgW31BqthpdpAiltjZINWbuGkdjhPad29PVmzSMyGlrqyXfq9qM/KYE8ABe09vJ3FwmbGwc0XrNIwfU/V+3uXkbSv1F3+q+TtOVNBrKAo37p86V6eQqPF/Us8s3pV/i1y7zlOQZzFkJMOXDs8PtnBHZ73xKtDyYUPY87jSXX3DxPODg3gXwZ7anv0B94lPoFIWvITOSHee5Qz6FWgic7PwSfCpKQ53TY4G655VGtUFiGcuexXx8PztzCGBatawauUVmutTrJquibBo8u7akKznPTHD6trdKjKDY7KzAmuDUF7fK2WrhJyuav75Wu7ZDnTgX9isrY0O9I69dIBMzeEfVA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffce034dab" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffce034dab" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="zyO9kTporp1sd7f/6xGkpoUqKdOoIYMB41JNfmpJqcQEipghhamgCbgYfF/KH+5hX/fJZrBrdzIRTJZHeWEYVZk5qHmHLzWsHZGGrKkz4Vg/bRJM" /><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
+<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637100682046795651" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoIPwj5GOk3TR5augpKmPw8xdswry0NlhwxeEcc7D_gPqWJv5JgBa7qA48dHAsMNuzz0VcdntDsO0j0y5pku6M_QAIJ7gQUgiznVNqbg23t7-sgNTCd8mM_u5r5cCOXs6BV4CJAj0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="9XNXNAQ6QYapOsZp8NfhMpxSCAkPkwxvOyT9bM/9MOEo5mRKpPECN4doGDKCtiIYQedgBt9PXn7Mg5OXVZoKwY+IShGvPyafbY072Ef7Q+VniXEQ" />
+</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr749$ViewArticle$UpdatePanel1','dnn_ctr749_ViewArticle_UpdatePanel1'], [], [], 90, '');
@@ -509,6 +535,98 @@ $('#marineSearch').keydown(function (e) {
 <div class="dma-slideshow toprotatorfull" id="toprotatorfull-410">
     <div class="slides">
         
+        <div class="slide" data-id="797" data-imagetitle="The Place, The Legend, The Man" data-imagecaption="Bishopville, S.C., honored retired Major James “Jim” Capers Jr., with a plaque titled “The Place, The Legend, The Man” at the town’s Memorial Park. " data-image="https://media.defense.gov/2020/Sep/04/2002491373/1366/740/0/200829-M-QQ799-0002.JPG"
+              data-width="1110" data-height="740">
+            <div id="slide-image" class="slideshow-img-holder" alt="Bishopville, S.C., honored retired Major James “Jim” Capers Jr., with a plaque titled “The Place, The Legend, The Man” at the town’s Memorial Park. "></div>
+            <div class="overlay">
+                
+                <a class='video-overlay light video-trigger' href='#' data-load="videomodal797">
+                    <button></button>
+                    <span>Play</span>
+                </a>
+                
+            </div>
+            <div class="caption-section transparent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h4 class="title light underline" id="toprotatorfull-number-title" >01</h4>
+                            <a href="/news/marines-tv?videoid=766131" target="_self"><h1 class="title light mouseover" id="toprotatorfull-title" >The Place, The Legend, The Man</h1></a>
+                            <p class="description text light" id="toprotatorfull-description" >Bishopville, S.C., honored retired Major James “Jim” Capers Jr., with a plaque titled “The Place, The Legend, The Man” at the town’s Memorial Park. </p>
+                            <aside class="text dark decorated" id="toprotatorfull-aside-links" >
+                            
+                            
+                            
+                            
+                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal797"><span>Watch Video</span></a></span>
+                            <script type="text/javascript">
+                                if (!VideoObjectsArray[797]) {
+                                    
+                                    VideoObjectsArray.push({
+                                        slideid: 797,
+                                        format: 'dvids',
+                                        poster: 'https://media.defense.gov/2020/Sep/04/2002491373/1366/740/0/200829-M-QQ799-0002.JPG',
+                                        video: {"results":{"id":"video:766131","type":"video","title":"The Place, The Legend, The Man","description":"Bishopville, S.C., honored its hometown hero, Aug. 29, retired Major James \u201cJim\u201d Capers Jr. during a \u201cParade of Heroes\u201d there and with a plaque titled \u201cThe Place, The Legend, The Man\u201d at the town\u2019s Memorial Park. Capers is the recipient of a Silver Star, two Bronze Stars with \u201cV\u201d for valor, and three Purple Hearts. Most notably for his time in Vietnam, he is one of the most decorated Marines in Force Reconnaissance history. He became the first African American to command a Marine Reconnaissance company and to receive a battlefield commission. (U.S. Marine Corps video by Sgt. Aaron Patterson)","keywords":"Vietnam War","date_published":"2020-09-04T10:06:12-04:00","date":"2020-08-29T00:00:00-04:00","category":"Package","unit_id":"508","unit_name":"Communication Directorate","branch":"Marines","timestamp":"2020-09-04T10:46:26-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2009\/766131.jpg","url":"https:\/\/www.dvidshub.net\/video\/766131\/place-legend-man","credit":[{"id":1191761,"name":"Aaron Patterson","rank":"Sgt.","url":"https:\/\/www.dvidshub.net\/portfolio\/1191761"}],"location":{"city":"Bishopville","state":"South Carolina","country":"United States","state_abbreviation":"SC","country_abbreviation":"US"},"time_start":0,"virin":"200829-M-QH615-675","duration":69,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1432212,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4749967,"bitrate":448},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":16450821,"bitrate":1769},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":25239455,"bitrate":2754},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":53841798,"bitrate":6065},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551.mp4","type":"video\/mp4","height":2160,"width":3840,"size":84051278,"bitrate":9595}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/766131.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:766131&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:766131&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2009\/766131\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:766131","type":"video","title":"The Place, The Legend, The Man","description":"Bishopville, S.C., honored its hometown hero, Aug. 29, retired Major James \u201cJim\u201d Capers Jr. during a \u201cParade of Heroes\u201d there and with a plaque titled \u201cThe Place, The Legend, The Man\u201d at the town\u2019s Memorial Park. Capers is the recipient of a Silver Star, two Bronze Stars with \u201cV\u201d for valor, and three Purple Hearts. Most notably for his time in Vietnam, he is one of the most decorated Marines in Force Reconnaissance history. He became the first African American to command a Marine Reconnaissance company and to receive a battlefield commission. (U.S. Marine Corps video by Sgt. Aaron Patterson)","keywords":"Vietnam War","date_published":"2020-09-04T10:06:12-04:00","date":"2020-08-29T00:00:00-04:00","category":"Package","unit_id":"508","unit_name":"Communication Directorate","branch":"Marines","timestamp":"2020-09-04T10:46:26-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2009\/766131.jpg","url":"https:\/\/www.dvidshub.net\/video\/766131\/place-legend-man","credit":[{"id":1191761,"name":"Aaron Patterson","rank":"Sgt.","url":"https:\/\/www.dvidshub.net\/portfolio\/1191761"}],"location":{"city":"Bishopville","state":"South Carolina","country":"United States","state_abbreviation":"SC","country_abbreviation":"US"},"time_start":0,"virin":"200829-M-QH615-675","duration":69,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1432212,"bitrate":112},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4749967,"bitrate":448},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":16450821,"bitrate":1769},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":25239455,"bitrate":2754},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":53841798,"bitrate":6065},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551.mp4","type":"video\/mp4","height":2160,"width":3840,"size":84051278,"bitrate":9595}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/766131.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:766131&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:766131&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2009\/DOD_107974551\/DOD_107974551-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2009\/766131\/900w_q95.jpg","width":900,"height":506}}}.results : {}
+                                    });
+                                    
+                                                                                                                                   }
+                            </script>
+                            
+                            
+                            <span class="extra-links"></span>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="slide" data-id="795" data-imagetitle="Military Justice" data-imagecaption="The Marine Corps is ensuring Marines are taken care of and has added another volume to the Legal Support and Administration Manual. " data-image="https://media.defense.gov/2020/Jun/05/2002491294/1366/740/0/200527-F-HP405-1002.JPG"
+              data-width="1124" data-height="740">
+            <div id="slide-image" class="slideshow-img-holder" alt="The Marine Corps is ensuring Marines are taken care of and has added another volume to the Legal Support and Administration Manual. "></div>
+            <div class="overlay">
+                
+                <a class='video-overlay light video-trigger' href='#' data-load="videomodal795">
+                    <button></button>
+                    <span>Play</span>
+                </a>
+                
+            </div>
+            <div class="caption-section transparent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h4 class="title light underline" >02</h4>
+                            <a href="/news/marines-tv?videoid=764286" target="_self"><h1 class="title light mouseover" >Military Justice</h1></a>
+                            <p class="description text light" >The Marine Corps is ensuring Marines are taken care of and has added another volume to the Legal Support and Administration Manual. </p>
+                            <aside class="text dark decorated" >
+                            
+                            
+                            
+                            
+                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal795"><span>Watch Video</span></a></span>
+                            <script type="text/javascript">
+                                if (!VideoObjectsArray[795]) {
+                                    
+                                    VideoObjectsArray.push({
+                                        slideid: 795,
+                                        format: 'dvids',
+                                        poster: 'https://media.defense.gov/2020/Jun/05/2002491294/1366/740/0/200527-F-HP405-1002.JPG',
+                                        video: {"results":{"id":"video:764286","type":"video","title":"Marine Minute: Military Justice","description":"The Marine Corps is ensuring Marines are taken care of by enforcing its high standards and has added another volume to the Legal Support and Administration Manual (LSAM). Recent additions to the LSAM or Marine Corps Order 5800.16 ensures that justice is a top priority and addresses matters related to military justice including trial counsel qualifications, case analysis, additional requirements for special victim cases, guidance for seeking investigative subpoenas and warrants, and post-trial processing.  (U.S. Marine Corps video by Lance Cpl. Fernando Moreno)","keywords":"VMM, DMAMPROD, DMAVMM, USMCNews, LSAM","date_published":"2020-09-02T09:12:30-04:00","date":"2020-08-21T00:00:00-04:00","category":"Package","unit_id":"637","unit_name":"Defense Media Activity - Marines","branch":"Marines","timestamp":"2020-09-03T21:03:20-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/764286.jpg","url":"https:\/\/www.dvidshub.net\/video\/764286\/marine-minute-military-justice","credit":[{"id":1606576,"name":"Fernando Moreno","rank":"Lance Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1606576"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200821-M-DG494-792","duration":59,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1249161,"bitrate":113},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4047596,"bitrate":441},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":13972141,"bitrate":1751},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":21494383,"bitrate":2738},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":46374638,"bitrate":6108},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297.mp4","type":"video\/mp4","height":1080,"width":1920,"size":66115517,"bitrate":8818}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/764286.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:764286&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:764286&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/764286\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:764286","type":"video","title":"Marine Minute: Military Justice","description":"The Marine Corps is ensuring Marines are taken care of by enforcing its high standards and has added another volume to the Legal Support and Administration Manual (LSAM). Recent additions to the LSAM or Marine Corps Order 5800.16 ensures that justice is a top priority and addresses matters related to military justice including trial counsel qualifications, case analysis, additional requirements for special victim cases, guidance for seeking investigative subpoenas and warrants, and post-trial processing.  (U.S. Marine Corps video by Lance Cpl. Fernando Moreno)","keywords":"VMM, DMAMPROD, DMAVMM, USMCNews, LSAM","date_published":"2020-09-02T09:12:30-04:00","date":"2020-08-21T00:00:00-04:00","category":"Package","unit_id":"637","unit_name":"Defense Media Activity - Marines","branch":"Marines","timestamp":"2020-09-03T21:03:20-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/764286.jpg","url":"https:\/\/www.dvidshub.net\/video\/764286\/marine-minute-military-justice","credit":[{"id":1606576,"name":"Fernando Moreno","rank":"Lance Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1606576"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200821-M-DG494-792","duration":59,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1249161,"bitrate":113},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4047596,"bitrate":441},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":13972141,"bitrate":1751},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":21494383,"bitrate":2738},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":46374638,"bitrate":6108},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297.mp4","type":"video\/mp4","height":1080,"width":1920,"size":66115517,"bitrate":8818}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/764286.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:764286&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:764286&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107954297\/DOD_107954297-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/764286\/900w_q95.jpg","width":900,"height":506}}}.results : {}
+                                    });
+                                    
+                                                                                                                                   }
+                            </script>
+                            
+                            
+                            <span class="extra-links"></span>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
         <div class="slide" data-id="794" data-imagetitle="Be There" data-imagecaption="Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month." data-image="https://media.defense.gov/2020/Mar/13/2002264191/1366/740/0/200311-M-IP473-1130.JPG"
               data-width="1110" data-height="740">
             <div id="slide-image" class="slideshow-img-holder" alt="Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month."></div>
@@ -524,10 +642,10 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" id="toprotatorfull-number-title" >01</h4>
-                            <a href="/news/marines-tv?videoid=765697" target="_self"><h1 class="title light mouseover" id="toprotatorfull-title" >Be There</h1></a>
-                            <p class="description text light" id="toprotatorfull-description" >Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month.</p>
-                            <aside class="text dark decorated" id="toprotatorfull-aside-links" >
+                            <h4 class="title light underline" >03</h4>
+                            <a href="/news/marines-tv?videoid=765697" target="_self"><h1 class="title light mouseover" >Be There</h1></a>
+                            <p class="description text light" >Professional Wrestler and entertainer John Cena with a message for our troops in support of Suicide Prevention Month.</p>
+                            <aside class="text dark decorated" >
                             
                             
                             
@@ -570,7 +688,7 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" >02</h4>
+                            <h4 class="title light underline" >04</h4>
                             <a href="/news/marines-tv?videoid=765681" target="_self"><h1 class="title light mouseover" >Greatest Generation</h1></a>
                             <p class="description text light" >U.S. Marines read an open letter to World War II veterans to commemorate the 75th anniversary of the end of the war in the Pacific.</p>
                             <aside class="text dark decorated" >
@@ -616,7 +734,7 @@ $('#marineSearch').keydown(function (e) {
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h4 class="title light underline" >03</h4>
+                            <h4 class="title light underline" >05</h4>
                             <a href="/news/marines-tv?videoid=765222" target="_self"><h1 class="title light mouseover" >Unload, Show Clear</h1></a>
                             <p class="description text light" >U.S. Marines assigned to Task Force Ellis, I Marine Expeditionary Force, conduct a live fire training exercise aboard Naval Base, Guam.</p>
                             <aside class="text dark decorated" >
@@ -633,98 +751,6 @@ $('#marineSearch').keydown(function (e) {
                                         format: 'dvids',
                                         poster: 'https://media.defense.gov/2020/Aug/17/2002488886/1366/740/0/200814-M-BR906-1003.JPG',
                                         video: {"results":{"id":"video:765222","type":"video","title":"Task Force Ellis | Live Fire Range","description":"U.S. Marines assigned to Task Force Ellis, I Marine Expeditionary Force, conduct a live fire training exercise at Naval Base, Guam on August 12, 2020. Task Force Ellis, comprised of U.S. Marines and Sailors from I Marine Expeditionary Force (MEF), deployed aboard the USS Comstock (LSD 45) to the Indo-Pacific to conduct theater security cooperation activities from July to November 2020.\r\n(U.S. Marine Corps photo by Sgt. Manuel A. Serrano)","keywords":"deployed, Guam, forward deployed, Marines, Indo-Pacific, USINDOPACOM, Task Force Ellis, MARFORCPAC","date_published":"2020-09-01T00:09:31-04:00","date":"2020-08-12T00:00:00-04:00","category":"Video Productions","unit_id":"404","unit_name":"I Marine Expeditionary Force","branch":"Marines","timestamp":"2020-09-01T07:17:56-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765222.jpg","url":"https:\/\/www.dvidshub.net\/video\/765222\/task-force-ellis-live-fire-range","credit":[{"id":1340472,"name":"Manuel Serrano","rank":"Sgt.","url":"https:\/\/www.dvidshub.net\/portfolio\/1340472"}],"location":{"city":"","state":"","country":"Guam","country_abbreviation":"GU"},"time_start":1.37637,"virin":"200812-M-SH393-0001","duration":88,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1825510,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":6017783,"bitrate":439},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":20925718,"bitrate":1751},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":32172853,"bitrate":2733},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":69719992,"bitrate":6123},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867.mp4","type":"video\/mp4","height":1080,"width":1920,"size":103147874,"bitrate":9173}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765222.m3u8?api_key=key-5058b7236d7d4","trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765222\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:765222","type":"video","title":"Task Force Ellis | Live Fire Range","description":"U.S. Marines assigned to Task Force Ellis, I Marine Expeditionary Force, conduct a live fire training exercise at Naval Base, Guam on August 12, 2020. Task Force Ellis, comprised of U.S. Marines and Sailors from I Marine Expeditionary Force (MEF), deployed aboard the USS Comstock (LSD 45) to the Indo-Pacific to conduct theater security cooperation activities from July to November 2020.\r\n(U.S. Marine Corps photo by Sgt. Manuel A. Serrano)","keywords":"deployed, Guam, forward deployed, Marines, Indo-Pacific, USINDOPACOM, Task Force Ellis, MARFORCPAC","date_published":"2020-09-01T00:09:31-04:00","date":"2020-08-12T00:00:00-04:00","category":"Video Productions","unit_id":"404","unit_name":"I Marine Expeditionary Force","branch":"Marines","timestamp":"2020-09-01T07:17:56-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765222.jpg","url":"https:\/\/www.dvidshub.net\/video\/765222\/task-force-ellis-live-fire-range","credit":[{"id":1340472,"name":"Manuel Serrano","rank":"Sgt.","url":"https:\/\/www.dvidshub.net\/portfolio\/1340472"}],"location":{"city":"","state":"","country":"Guam","country_abbreviation":"GU"},"time_start":1.37637,"virin":"200812-M-SH393-0001","duration":88,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1825510,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":6017783,"bitrate":439},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":20925718,"bitrate":1751},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":32172853,"bitrate":2733},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":69719992,"bitrate":6123},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867.mp4","type":"video\/mp4","height":1080,"width":1920,"size":103147874,"bitrate":9173}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765222.m3u8?api_key=key-5058b7236d7d4","trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965867\/DOD_107965867-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765222\/900w_q95.jpg","width":900,"height":506}}}.results : {}
-                                    });
-                                    
-                                                                                                                                   }
-                            </script>
-                            
-                            
-                            <span class="extra-links"></span>
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="slide" data-id="787" data-imagetitle="Immediate Action Updates" data-imagecaption="MARADMIN 491/20 provides information about the removal of photographs from consideration by promotion boards and selection process. " data-image="https://media.defense.gov/2020/Aug/31/2002487623/1366/740/0/160303-M-SW506-009.JPG"
-              data-width="1110" data-height="740">
-            <div id="slide-image" class="slideshow-img-holder" alt="MARADMIN 491/20 provides information about the removal of photographs from consideration by promotion boards and selection process. "></div>
-            <div class="overlay">
-                
-                <a class='video-overlay light video-trigger' href='#' data-load="videomodal787">
-                    <button></button>
-                    <span>Play</span>
-                </a>
-                
-            </div>
-            <div class="caption-section transparent">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h4 class="title light underline" >04</h4>
-                            <a href="/news/marines-tv?videoid=765172" target="_self"><h1 class="title light mouseover" >Immediate Action Updates</h1></a>
-                            <p class="description text light" >MARADMIN 491/20 provides information about the removal of photographs from consideration by promotion boards and selection process. </p>
-                            <aside class="text dark decorated" >
-                            
-                            
-                            
-                            
-                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal787"><span>Watch Video</span></a></span>
-                            <script type="text/javascript">
-                                if (!VideoObjectsArray[787]) {
-                                    
-                                    VideoObjectsArray.push({
-                                        slideid: 787,
-                                        format: 'dvids',
-                                        poster: 'https://media.defense.gov/2020/Aug/31/2002487623/1366/740/0/160303-M-SW506-009.JPG',
-                                        video: {"results":{"id":"video:765172","type":"video","title":"Marine Minute: Immediate Action Updates","description":"The Marine Corps recently released MARADMIN 491\/20 on Aug. 26, 2020. MARADMIN 491\/20 provides information about the removal of photographs from consideration by promotion boards and selection process pertaining to assignment, training, education, and command. (U.S. Marine Corps video by Lance Cpl. Mellizza Bonjoc)","keywords":"photographs, DMAMVMM, DMAMPROD, USMCNews, COVID-19, MARDMACOVID19, Immediate Action Updates, MARADMIN 491\/20, promotion board photos","date_published":"2020-08-31T08:36:40-04:00","date":"2020-08-28T00:00:00-04:00","category":"Package","unit_id":"637","unit_name":"Defense Media Activity - Marines","branch":"Marines","timestamp":"2020-08-31T08:42:44-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765172.jpg","url":"https:\/\/www.dvidshub.net\/video\/765172\/marine-minute-immediate-action-updates","credit":[{"id":1619147,"name":"Mellizza Bonjoc","rank":"Lance Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1619147"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200828-M-JX937-338","duration":59,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1239447,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4073023,"bitrate":445},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":14186694,"bitrate":1779},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":21706267,"bitrate":2765},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":47154007,"bitrate":6210},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158.mp4","type":"video\/mp4","height":1080,"width":1920,"size":73392049,"bitrate":9794}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765172.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765172&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765172&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765172\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:765172","type":"video","title":"Marine Minute: Immediate Action Updates","description":"The Marine Corps recently released MARADMIN 491\/20 on Aug. 26, 2020. MARADMIN 491\/20 provides information about the removal of photographs from consideration by promotion boards and selection process pertaining to assignment, training, education, and command. (U.S. Marine Corps video by Lance Cpl. Mellizza Bonjoc)","keywords":"photographs, DMAMVMM, DMAMPROD, USMCNews, COVID-19, MARDMACOVID19, Immediate Action Updates, MARADMIN 491\/20, promotion board photos","date_published":"2020-08-31T08:36:40-04:00","date":"2020-08-28T00:00:00-04:00","category":"Package","unit_id":"637","unit_name":"Defense Media Activity - Marines","branch":"Marines","timestamp":"2020-08-31T08:42:44-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765172.jpg","url":"https:\/\/www.dvidshub.net\/video\/765172\/marine-minute-immediate-action-updates","credit":[{"id":1619147,"name":"Mellizza Bonjoc","rank":"Lance Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1619147"}],"location":{"city":"","state":"","country":"United States","country_abbreviation":"US"},"time_start":0,"virin":"200828-M-JX937-338","duration":59,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":1239447,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":4073023,"bitrate":445},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":14186694,"bitrate":1779},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":21706267,"bitrate":2765},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":47154007,"bitrate":6210},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158.mp4","type":"video\/mp4","height":1080,"width":1920,"size":73392049,"bitrate":9794}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765172.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765172&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765172&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107965158\/DOD_107965158-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765172\/900w_q95.jpg","width":900,"height":506}}}.results : {}
-                                    });
-                                    
-                                                                                                                                   }
-                            </script>
-                            
-                            
-                            <span class="extra-links"><span class="slideLink"><a class="link" href="https://www.marines.mil/News/Messages/Messages-Display/Article/2324766/removal-of-photographs-from-consideration-by-promotion-boards-and-selection-pro/" target="_self"><span>MARADMIN</span></a></span></span>
-                            </aside>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-        <div class="slide" data-id="786" data-imagetitle="The Voice " data-imagecaption="Today, we celebrate Master Gunnery Sgt. Peter Wilson&#39;s 30 years of honorable and dedicated service to &quot;The Presidents Own,&quot; U.S. Marine Band." data-image="https://media.defense.gov/2020/Aug/28/2002486527/1366/740/0/180406-F-PN714-071.JPG"
-              data-width="1060" data-height="740">
-            <div id="slide-image" class="slideshow-img-holder" alt="Today, we celebrate Master Gunnery Sgt. Peter Wilson&#39;s 30 years of honorable and dedicated service to &quot;The Presidents Own,&quot; U.S. Marine Band."></div>
-            <div class="overlay">
-                
-                <a class='video-overlay light video-trigger' href='#' data-load="videomodal786">
-                    <button></button>
-                    <span>Play</span>
-                </a>
-                
-            </div>
-            <div class="caption-section transparent">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <h4 class="title light underline" >05</h4>
-                            <a href="/news/marines-tv?videoid=765098" target="_self"><h1 class="title light mouseover" >The Voice </h1></a>
-                            <p class="description text light" >Today, we celebrate Master Gunnery Sgt. Peter Wilson's 30 years of honorable and dedicated service to "The Presidents Own," U.S. Marine Band.</p>
-                            <aside class="text dark decorated" >
-                            
-                            
-                            
-                            
-                            <span class="video-url"><a href="#" class="video-trigger" data-load="videomodal786"><span>Watch Video</span></a></span>
-                            <script type="text/javascript">
-                                if (!VideoObjectsArray[786]) {
-                                    
-                                    VideoObjectsArray.push({
-                                        slideid: 786,
-                                        format: 'dvids',
-                                        poster: 'https://media.defense.gov/2020/Aug/28/2002486527/1366/740/0/180406-F-PN714-071.JPG',
-                                        video: {"results":{"id":"video:765098","type":"video","title":"Master Gunnery Sgt. Peter Wilson Retirement (Feature)","description":"Today, we celebrate Master Gunnery Sgt. Peter Wilson's 30 years of honorable and dedicated service to \"The Presidents Own,\" U.S. Marine Band and his 25 years serving as \"The Voice\" of Marine Barracks Washington. \r\n\r\nSemper Fi, Master Guns!","keywords":"violin, retirement, 30 years, goat, Marine barracks, Marine Band, Washington D.C., Marine Barracks Washington, 8th & I, MBW, The Voice, The President's Own, Peter Wilson, Sousa, The White House, Marine Chamber Orchestra, Greatest of all time, Sousa Band Hall","date_published":"2020-08-28T09:07:12-04:00","date":"2020-08-25T00:00:00-04:00","category":"Package","unit_id":"1547","unit_name":"Marine Barracks Washington, 8th & I","branch":"Marines","timestamp":"2020-08-28T09:52:28-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765098.jpg","url":"https:\/\/www.dvidshub.net\/video\/765098\/master-gunnery-sgt-peter-wilson-retirement-feature","credit":[{"id":1487401,"name":"Jason Kolela","rank":"Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1487401"}],"location":{"city":"Washington","state":"District of Columbia","country":"United States","state_abbreviation":"DC","country_abbreviation":"US"},"time_start":0,"virin":"200825-M-GN436-001","duration":250,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":5228907,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":17249656,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":59991741,"bitrate":1769},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":92226427,"bitrate":2764},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":200529868,"bitrate":6218},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211.mp4","type":"video\/mp4","height":1080,"width":1920,"size":313693834,"bitrate":9865}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765098.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765098&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765098&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765098\/900w_q95.jpg","width":900,"height":506}}} ? {"results":{"id":"video:765098","type":"video","title":"Master Gunnery Sgt. Peter Wilson Retirement (Feature)","description":"Today, we celebrate Master Gunnery Sgt. Peter Wilson's 30 years of honorable and dedicated service to \"The Presidents Own,\" U.S. Marine Band and his 25 years serving as \"The Voice\" of Marine Barracks Washington. \r\n\r\nSemper Fi, Master Guns!","keywords":"violin, retirement, 30 years, goat, Marine barracks, Marine Band, Washington D.C., Marine Barracks Washington, 8th & I, MBW, The Voice, The President's Own, Peter Wilson, Sousa, The White House, Marine Chamber Orchestra, Greatest of all time, Sousa Band Hall","date_published":"2020-08-28T09:07:12-04:00","date":"2020-08-25T00:00:00-04:00","category":"Package","unit_id":"1547","unit_name":"Marine Barracks Washington, 8th & I","branch":"Marines","timestamp":"2020-08-28T09:52:28-04:00","image":"https:\/\/cdn.dvidshub.net\/media\/frames\/video\/2008\/765098.jpg","url":"https:\/\/www.dvidshub.net\/video\/765098\/master-gunnery-sgt-peter-wilson-retirement-feature","credit":[{"id":1487401,"name":"Jason Kolela","rank":"Cpl.","url":"https:\/\/www.dvidshub.net\/portfolio\/1487401"}],"location":{"city":"Washington","state":"District of Columbia","country":"United States","state_abbreviation":"DC","country_abbreviation":"US"},"time_start":0,"virin":"200825-M-GN436-001","duration":250,"aspect_ratio":"16:9","files":[{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-256x144-111k.mp4","type":"video\/mp4","height":144,"width":256,"size":5228907,"bitrate":111},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-512x288-442k.mp4","type":"video\/mp4","height":288,"width":512,"size":17249656,"bitrate":442},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1024x576-1769k.mp4","type":"video\/mp4","height":576,"width":1024,"size":59991741,"bitrate":1769},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1280x720-2765k.mp4","type":"video\/mp4","height":720,"width":1280,"size":92226427,"bitrate":2764},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-1920x1080-6221k.mp4","type":"video\/mp4","height":1080,"width":1920,"size":200529868,"bitrate":6218},{"src":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211.mp4","type":"video\/mp4","height":1080,"width":1920,"size":313693834,"bitrate":9865}],"hls_url":"https:\/\/api.dvidshub.net\/hls\/video\/765098.m3u8?api_key=key-5058b7236d7d4","closed_caption_urls":{"srt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765098&format=srt&api_key=key-5058b7236d7d4","webvtt":"https:\/\/api.dvidshub.net\/closed-captions\/get?asset_id=video:765098&format=webvtt&api_key=key-5058b7236d7d4"},"trick_mode_urls":{"bif-240":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-240.bif","bif-320":"https:\/\/cdn.dvidshub.net\/media\/video\/2008\/DOD_107964211\/DOD_107964211-320.bif"},"thumbnail":{"url":"https:\/\/cdn.dvidshub.net\/media\/thumbs\/frames\/video\/2008\/765098\/900w_q95.jpg","width":900,"height":506}}}.results : {}
                                     });
                                     
                                                                                                                                    }
@@ -758,8 +784,8 @@ $('#marineSearch').keydown(function (e) {
     <div class="pager-section light mobile-background">
         <div class="container">
             <div class="row">
-                <a href="" class="col-6 previous text dark" id="toprotatorfull-prev">&xlarr; Previous <span class="text light">The Voice </span></a>
-                <a href="" class="col-6 next text dark" id="toprotatorfull-next"><span class="text light">Greatest Generation</span> Next &xrarr;</a>
+                <a href="" class="col-6 previous text dark" id="toprotatorfull-prev">&xlarr; Previous <span class="text light">Unload, Show Clear</span></a>
+                <a href="" class="col-6 next text dark" id="toprotatorfull-next"><span class="text light">Military Justice</span> Next &xrarr;</a>
             </div>
         </div>
     </div>
@@ -1567,7 +1593,58 @@ $('#marineSearch').keydown(function (e) {
             <div id="c4" class="mob-slider">
                 
 
-<div class="item container" style="visibility:hidden" id="fs-mob-2334443" data-id="2334443" data-pos="0" data-img="https://media.defense.gov/2020/Sep/02/2002489866/780/780/0/200831-M-HO284-0316.JPG[">
+<div class="item container" style="visibility:hidden" id="fs-mob-2337196" data-id="2337196" data-pos="0" data-img="https://media.defense.gov/2020/Sep/04/2002491373/780/780/0/200829-M-QQ799-0002.JPG[">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2337196/the-place-the-legend-the-man"><h3>The Place, The Legend, The Man</h3></a>
+        <div class="icons acat-gold">
+            
+<span class="acat acat-16913-img icon" title="Core Values"></span>
+
+        </div>
+    </div>
+    <p>
+        The residents of Bishopville, a small South Carolina town, filled the streets, Aug. 29, for a special celebration honoring their hometown hero. The motto “Heritage, History, Home,” proudly painted on the Main Street mural perfectly embodied the town’s spirit as everyone gathered for the return of retired Major James “Jim” Capers Jr. Maj. Capers, described by his comrades as the “utmost Marine”, is the recipient of a Silver Star, two Bronze Stars with “V” for valor, and three Purple Hearts...
+    </p>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2337196/the-place-the-legend-the-man' >continue reading</a>
+    </p>
+</div>
+
+<div class="item container" style="visibility:hidden" id="fs-mob-2337056" data-id="2337056" data-pos="1" data-img="https://media.defense.gov/2020/Sep/03/2002491293/780/780/0/200814-M-MP127-1532.JPG[">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2337056/us-australian-militaries-demonstrate-rapid-long-distance-airstrike-capabilities"><h3>U.S., Australian militaries demonstrate rapid, long-distance airstrike capabilities</h3></a>
+        <div class="icons acat-gold">
+            
+<span class="acat acat-16725-img icon" title="Education and Training"></span>
+
+        </div>
+    </div>
+    <p>
+        The U.S. Marine Corps, Air Force and Australian Defence Force took a major step toward multinational interoperability as a combined task force during a major training scenario throughout August. The scenario focused on a small naval expeditionary force’s ability to rapidly deploy, integrate with foreign partners, coordinate airstrikes and call for close air support on targets within contested environments...
+    </p>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2337056/us-australian-militaries-demonstrate-rapid-long-distance-airstrike-capabilities' >continue reading</a>
+    </p>
+</div>
+
+<div class="item container" style="visibility:hidden" id="fs-mob-2336189" data-id="2336189" data-pos="2" data-img="https://media.defense.gov/2020/Sep/03/2002490874/780/780/0/200821-M-IP473-1012.JPG[">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2336189/crisis-response-clb-31-31st-meu-prepare-ncos-to-lead-the-way"><h3>Crisis response: CLB-31, 31st MEU prepare NCO&#39;s to lead the way</h3></a>
+        <div class="icons acat-gold">
+            
+<span class="acat acat-16725-img icon" title="Education and Training"></span>
+
+        </div>
+    </div>
+    <p>
+        U.S. Marines with Combat Logistics Battalion 31, 31st Marine Expeditionary Unit, attend a class about the CLB’s role in non-combatant evacuation operations and humanitarian assistance and disaster relief aboard USS New Orleans (LPD 18). The non-commissioned officers in attendance learned the key components of NEO and HADR missions, as well as how the command uses the rapid response planning process to launch teams for quick action.
+    </p>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2336189/crisis-response-clb-31-31st-meu-prepare-ncos-to-lead-the-way' >continue reading</a>
+    </p>
+</div>
+
+<div class="item container" style="visibility:hidden" id="fs-mob-2334443" data-id="2334443" data-pos="3" data-img="https://media.defense.gov/2020/Sep/02/2002489866/780/780/0/200831-M-HO284-0316.JPG[">
     <div class="left-title">
         <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2334443/marine-corps-activates-network-activity-ncr-to-provide-unity-of-command-and-eff"><h3>Marine Corps Activates Network Activity - NCR to Provide Unity of Command and Effort to the Enterprise Network</h3></a>
         <div class="icons acat-gold">
@@ -1581,57 +1658,6 @@ $('#marineSearch').keydown(function (e) {
     </p>
     <p>
         <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2334443/marine-corps-activates-network-activity-ncr-to-provide-unity-of-command-and-eff' >continue reading</a>
-    </p>
-</div>
-
-<div class="item container" style="visibility:hidden" id="fs-mob-2331490" data-id="2331490" data-pos="1" data-img="https://media.defense.gov/2020/Sep/01/2002488354/780/780/0/200825-M-TR039-2236.JPG[">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2331490/emergency-responders-adopt-lexipol"><h3>Emergency responders adopt Lexipol</h3></a>
-        <div class="icons acat-gold">
-            
-<span class="acat acat-16912-img icon" title="Force Design"></span>
-
-        </div>
-    </div>
-    <p>
-        A time consuming, oftentimes tedious, but absolutely vital task necessary to keep Marine Corps Fire and Emergency Services operating aboard Marine Corps Logistics Base Barstow, California is now being pushed into the computer age by a new type of knowledge management system specific to the emergency services community. “Lexipol knowledge management system allows members of fire and police departments to stay on top of new state and federal legislation, case law and evolving best practices affecting their agencies,” said Ryan Tworek, deputy fire chief, MCLB Barstow Fire and Emergency Services...
-    </p>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2331490/emergency-responders-adopt-lexipol' >continue reading</a>
-    </p>
-</div>
-
-<div class="item container" style="visibility:hidden" id="fs-mob-2330371" data-id="2330371" data-pos="2" data-img="https://media.defense.gov/2020/Aug/31/2002487674/780/780/0/200820-M-ZF985-1048.JPG[">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2330371/marine-corps-association-and-foundations-recognizes-six-exceptional-leaders-dur"><h3>Marine Corps Association and Foundations recognizes six exceptional leaders during 10th annual Wounded Warrior Leadership awards</h3></a>
-        <div class="icons acat-gold">
-            
-<span class="acat acat-16913-img icon" title="Core Values"></span>
-
-        </div>
-    </div>
-    <p>
-        The Marine Corps Association and Foundation recognized six exceptional leaders within Wounded Warrior Regiment during the 10th annual Wounded Warrior Leadership Awards ceremony at the Marston Pavilion on Marine Corps Base Camp Lejeune, North Carolina, Aug. 20, 2020. Individuals were chosen within WWR for their professionalism, exceptional leadership and achievements during the previous fiscal year. WWR supports the recovery and non-medical care of wounded, ill and injured Marines, Sailors attached to Marine units and their family members...
-    </p>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2330371/marine-corps-association-and-foundations-recognizes-six-exceptional-leaders-dur' >continue reading</a>
-    </p>
-</div>
-
-<div class="item container" style="visibility:hidden" id="fs-mob-2329090" data-id="2329090" data-pos="3" data-img="https://media.defense.gov/2020/Aug/28/2002486850/780/780/0/200827-M-VG714-530.JPG[">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2329090/future-cyberspace-operators-20-interns-take-up-cyberwarfare-summer-internship"><h3>Future Cyberspace Operators: 20 Interns Take Up Cyberwarfare Summer Internship</h3></a>
-        <div class="icons acat-gold">
-            
-<span class="acat acat-16725-img icon" title="Education and Training"></span>
-
-        </div>
-    </div>
-    <p>
-        The Marines are looking for the best and brightest minds to lead cyberspace operators in defense of the Nation. Nineteen U.S. Naval Academy Midshipmen and one Marine sergeant with the Marine Corps Enlisted Commissioning Education Program from The Citadel joined Marine Corps Forces Cyberspace Command for a summer internship at Fort George G. Meade, Maryland. The interns, hosted in two waves to mitigate the spread of COVID-19, were divided into small teams and embedded with seven of MARFORCYBER’s cyber mission force teams from 22 June to 14 August...
-    </p>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2329090/future-cyberspace-operators-20-interns-take-up-cyberwarfare-summer-internship' >continue reading</a>
     </p>
 </div>
 
@@ -1663,6 +1689,57 @@ $('#marineSearch').keydown(function (e) {
             <div class="tab-content col-lg-7 col-xl-7" data-aos="fade" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-duration="1000" data-aos-delay="200" data-aos-once="true">
                 
     
+<div class="tab-pane" id="tabc-2337196" style="display:none">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2337196/the-place-the-legend-the-man"><h3>The Place, The Legend, The Man</h3></a>
+        <div class="acat-gold">
+            
+<span class="acat acat-16913-img icon" title="Core Values"></span>
+
+        </div>
+    </div>
+    <div class="summary-two-paragraphs">
+        The residents of Bishopville, a small South Carolina town, filled the streets, Aug. 29, for a special celebration honoring their hometown hero. The motto “Heritage, History, Home,” proudly painted on the Main Street mural perfectly embodied the town’s spirit as everyone gathered for the return of retired Major James “Jim” Capers Jr. Maj. Capers, described by his comrades as the “utmost Marine”, is the recipient of a Silver Star, two Bronze Stars with “V” for valor, and three Purple Hearts...
+    </div>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2337196/the-place-the-legend-the-man' >continue reading</a>
+    </p>
+</div>
+    
+<div class="tab-pane" id="tabc-2337056" style="display:none">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2337056/us-australian-militaries-demonstrate-rapid-long-distance-airstrike-capabilities"><h3>U.S., Australian militaries demonstrate rapid, long-distance airstrike capabilities</h3></a>
+        <div class="acat-gold">
+            
+<span class="acat acat-16725-img icon" title="Education and Training"></span>
+
+        </div>
+    </div>
+    <div class="summary-two-paragraphs">
+        The U.S. Marine Corps, Air Force and Australian Defence Force took a major step toward multinational interoperability as a combined task force during a major training scenario throughout August. The scenario focused on a small naval expeditionary force’s ability to rapidly deploy, integrate with foreign partners, coordinate airstrikes and call for close air support on targets within contested environments...
+    </div>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2337056/us-australian-militaries-demonstrate-rapid-long-distance-airstrike-capabilities' >continue reading</a>
+    </p>
+</div>
+    
+<div class="tab-pane" id="tabc-2336189" style="display:none">
+    <div class="left-title">
+        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2336189/crisis-response-clb-31-31st-meu-prepare-ncos-to-lead-the-way"><h3>Crisis response: CLB-31, 31st MEU prepare NCO&#39;s to lead the way</h3></a>
+        <div class="acat-gold">
+            
+<span class="acat acat-16725-img icon" title="Education and Training"></span>
+
+        </div>
+    </div>
+    <div class="summary-two-paragraphs">
+        U.S. Marines with Combat Logistics Battalion 31, 31st Marine Expeditionary Unit, attend a class about the CLB’s role in non-combatant evacuation operations and humanitarian assistance and disaster relief aboard USS New Orleans (LPD 18). The non-commissioned officers in attendance learned the key components of NEO and HADR missions, as well as how the command uses the rapid response planning process to launch teams for quick action.
+    </div>
+    <p>
+        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2336189/crisis-response-clb-31-31st-meu-prepare-ncos-to-lead-the-way' >continue reading</a>
+    </p>
+</div>
+    
 <div class="tab-pane" id="tabc-2334443" style="display:none">
     <div class="left-title">
         <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2334443/marine-corps-activates-network-activity-ncr-to-provide-unity-of-command-and-eff"><h3>Marine Corps Activates Network Activity - NCR to Provide Unity of Command and Effort to the Enterprise Network</h3></a>
@@ -1680,57 +1757,6 @@ $('#marineSearch').keydown(function (e) {
     </p>
 </div>
     
-<div class="tab-pane" id="tabc-2331490" style="display:none">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2331490/emergency-responders-adopt-lexipol"><h3>Emergency responders adopt Lexipol</h3></a>
-        <div class="acat-gold">
-            
-<span class="acat acat-16912-img icon" title="Force Design"></span>
-
-        </div>
-    </div>
-    <div class="summary-two-paragraphs">
-        A time consuming, oftentimes tedious, but absolutely vital task necessary to keep Marine Corps Fire and Emergency Services operating aboard Marine Corps Logistics Base Barstow, California is now being pushed into the computer age by a new type of knowledge management system specific to the emergency services community. “Lexipol knowledge management system allows members of fire and police departments to stay on top of new state and federal legislation, case law and evolving best practices affecting their agencies,” said Ryan Tworek, deputy fire chief, MCLB Barstow Fire and Emergency Services...
-    </div>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2331490/emergency-responders-adopt-lexipol' >continue reading</a>
-    </p>
-</div>
-    
-<div class="tab-pane" id="tabc-2330371" style="display:none">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2330371/marine-corps-association-and-foundations-recognizes-six-exceptional-leaders-dur"><h3>Marine Corps Association and Foundations recognizes six exceptional leaders during 10th annual Wounded Warrior Leadership awards</h3></a>
-        <div class="acat-gold">
-            
-<span class="acat acat-16913-img icon" title="Core Values"></span>
-
-        </div>
-    </div>
-    <div class="summary-two-paragraphs">
-        The Marine Corps Association and Foundation recognized six exceptional leaders within Wounded Warrior Regiment during the 10th annual Wounded Warrior Leadership Awards ceremony at the Marston Pavilion on Marine Corps Base Camp Lejeune, North Carolina, Aug. 20, 2020. Individuals were chosen within WWR for their professionalism, exceptional leadership and achievements during the previous fiscal year. WWR supports the recovery and non-medical care of wounded, ill and injured Marines, Sailors attached to Marine units and their family members...
-    </div>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2330371/marine-corps-association-and-foundations-recognizes-six-exceptional-leaders-dur' >continue reading</a>
-    </p>
-</div>
-    
-<div class="tab-pane" id="tabc-2329090" style="display:none">
-    <div class="left-title">
-        <a class="featureTitle" href="https://www.marines.mil/News/News-Display/Article/2329090/future-cyberspace-operators-20-interns-take-up-cyberwarfare-summer-internship"><h3>Future Cyberspace Operators: 20 Interns Take Up Cyberwarfare Summer Internship</h3></a>
-        <div class="acat-gold">
-            
-<span class="acat acat-16725-img icon" title="Education and Training"></span>
-
-        </div>
-    </div>
-    <div class="summary-two-paragraphs">
-        The Marines are looking for the best and brightest minds to lead cyberspace operators in defense of the Nation. Nineteen U.S. Naval Academy Midshipmen and one Marine sergeant with the Marine Corps Enlisted Commissioning Education Program from The Citadel joined Marine Corps Forces Cyberspace Command for a summer internship at Fort George G. Meade, Maryland. The interns, hosted in two waves to mitigate the spread of COVID-19, were divided into small teams and embedded with seven of MARFORCYBER’s cyber mission force teams from 22 June to 14 August...
-    </div>
-    <p>
-        <a class="red-link" href='https://www.marines.mil/News/News-Display/Article/2329090/future-cyberspace-operators-20-interns-take-up-cyberwarfare-summer-internship' >continue reading</a>
-    </p>
-</div>
-    
 
             </div>
             <div class="tab-menu col">
@@ -1738,23 +1764,23 @@ $('#marineSearch').keydown(function (e) {
 <ul class="nav nav-tabs">
     
     <li class="presentation">
-        <a class="fs-tab slide-in preload-adash-fs-2334443" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="700" id="fs-tab-2334443" data-pos="0" data-image="https://media.defense.gov/2020/Sep/02/2002489866/780/780/0/200831-M-HO284-0316.JPG" data-toggle="tab" role="tab" href="#tabc-2334443">Marine Corps Activates Network Activity - NCR to Provide Unity of Command and Effort to the Enterprise Network <span class="number">01</span></a>
+        <a class="fs-tab slide-in preload-adash-fs-2337196" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="700" id="fs-tab-2337196" data-pos="0" data-image="https://media.defense.gov/2020/Sep/04/2002491373/780/780/0/200829-M-QQ799-0002.JPG" data-toggle="tab" role="tab" href="#tabc-2337196">The Place, The Legend, The Man <span class="number">01</span></a>
+        <style>.preload-adash-fs-2337196 { background: url(https://media.defense.gov/2020/Sep/04/2002491373/780/780/0/200829-M-QQ799-0002.JPG) no-repeat -9999px -9999px !important; }</style>
+    </li>
+    
+    <li class="presentation">
+        <a class="fs-tab slide-in preload-adash-fs-2337056" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="800" id="fs-tab-2337056" data-pos="1" data-image="https://media.defense.gov/2020/Sep/03/2002491293/780/780/0/200814-M-MP127-1532.JPG" data-toggle="tab" role="tab" href="#tabc-2337056">U.S., Australian militaries demonstrate rapid, long-distance airstrike capabilities <span class="number">02</span></a>
+        <style>.preload-adash-fs-2337056 { background: url(https://media.defense.gov/2020/Sep/03/2002491293/780/780/0/200814-M-MP127-1532.JPG) no-repeat -9999px -9999px !important; }</style>
+    </li>
+    
+    <li class="presentation">
+        <a class="fs-tab slide-in preload-adash-fs-2336189" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="900" id="fs-tab-2336189" data-pos="2" data-image="https://media.defense.gov/2020/Sep/03/2002490874/780/780/0/200821-M-IP473-1012.JPG" data-toggle="tab" role="tab" href="#tabc-2336189">Crisis response: CLB-31, 31st MEU prepare NCO&#39;s to lead the way <span class="number">03</span></a>
+        <style>.preload-adash-fs-2336189 { background: url(https://media.defense.gov/2020/Sep/03/2002490874/780/780/0/200821-M-IP473-1012.JPG) no-repeat -9999px -9999px !important; }</style>
+    </li>
+    
+    <li class="presentation">
+        <a class="fs-tab slide-in preload-adash-fs-2334443" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="1000" id="fs-tab-2334443" data-pos="3" data-image="https://media.defense.gov/2020/Sep/02/2002489866/780/780/0/200831-M-HO284-0316.JPG" data-toggle="tab" role="tab" href="#tabc-2334443">Marine Corps Activates Network Activity - NCR to Provide Unity of Command and Effort to the Enterprise Network <span class="number">04</span></a>
         <style>.preload-adash-fs-2334443 { background: url(https://media.defense.gov/2020/Sep/02/2002489866/780/780/0/200831-M-HO284-0316.JPG) no-repeat -9999px -9999px !important; }</style>
-    </li>
-    
-    <li class="presentation">
-        <a class="fs-tab slide-in preload-adash-fs-2331490" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="800" id="fs-tab-2331490" data-pos="1" data-image="https://media.defense.gov/2020/Sep/01/2002488354/780/780/0/200825-M-TR039-2236.JPG" data-toggle="tab" role="tab" href="#tabc-2331490">Emergency responders adopt Lexipol <span class="number">02</span></a>
-        <style>.preload-adash-fs-2331490 { background: url(https://media.defense.gov/2020/Sep/01/2002488354/780/780/0/200825-M-TR039-2236.JPG) no-repeat -9999px -9999px !important; }</style>
-    </li>
-    
-    <li class="presentation">
-        <a class="fs-tab slide-in preload-adash-fs-2330371" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="900" id="fs-tab-2330371" data-pos="2" data-image="https://media.defense.gov/2020/Aug/31/2002487674/780/780/0/200820-M-ZF985-1048.JPG" data-toggle="tab" role="tab" href="#tabc-2330371">Marine Corps Association and Foundations recognizes six exceptional leaders during 10th annual Wounded Warrior Leadership awards <span class="number">03</span></a>
-        <style>.preload-adash-fs-2330371 { background: url(https://media.defense.gov/2020/Aug/31/2002487674/780/780/0/200820-M-ZF985-1048.JPG) no-repeat -9999px -9999px !important; }</style>
-    </li>
-    
-    <li class="presentation">
-        <a class="fs-tab slide-in preload-adash-fs-2329090" data-aos="fade-up" data-aos-easing="cubic-bezier(0.0, 0.0, 0.2, 1)" data-aos-once="true" data-aos-duration="1000" id="fs-tab-2329090" data-pos="3" data-image="https://media.defense.gov/2020/Aug/28/2002486850/780/780/0/200827-M-VG714-530.JPG" data-toggle="tab" role="tab" href="#tabc-2329090">Future Cyberspace Operators: 20 Interns Take Up Cyberwarfare Summer Internship <span class="number">04</span></a>
-        <style>.preload-adash-fs-2329090 { background: url(https://media.defense.gov/2020/Aug/28/2002486850/780/780/0/200827-M-VG714-530.JPG) no-repeat -9999px -9999px !important; }</style>
     </li>
     
 </ul>
@@ -2133,6 +2159,25 @@ OUR MOBILE APP</h1>
     </div>
     <div class="view">
       
+      <div class="item" id="explore-413-796" data-id="796" data-src="https://media.defense.gov/2020/Sep/04/2002491302/1366/740/0/200902-M-UR048-1037.JPG" data-title="Celebrating Service" data-byline="" data-link="/photos?igphoto=2002491302">
+        <a href="/photos?igphoto=2002491302" class="overlay dark"></a>
+        <img src="https://media.defense.gov/2020/Sep/04/2002491302/1366/740/0/200902-M-UR048-1037.JPG" alt="Marines with “The Commandant’s Own,” U.S. Marine Drum and Bugle Corps perform during a Sunset Parade at the Marine Corps War Memorial, Arlington, Virginia, Sept. 2." />
+        <div class="caption-section transparent">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <h4 class="title light">Celebrating Service</h4>
+                <p class="text light author"></p>
+                <aside>
+                  <a href="https://media.defense.gov/2020/Sep/04/2002491302/1366/740/0/200902-M-UR048-1037.JPG" class="download-link" download="https://media.defense.gov/2020/Sep/04/2002491302/1366/740/0/200902-M-UR048-1037.JPG"><span class="text light">Download</span></a>
+                  <a href="/photos?igphoto=2002491302" class="details-link" title="Celebrating Service"><span class="text light">Details</span></a>
+                </aside>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
       <div class="item" id="explore-413-793" data-id="793" data-src="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG" data-title="Rounds Downrange" data-byline="" data-link="/photos?igphoto=2002490857">
         <a href="/photos?igphoto=2002490857" class="overlay dark"></a>
         <img src="https://media.defense.gov/2020/Sep/03/2002490857/1366/740/0/200826-M-EH454-1057.JPG" alt="A U.S. Marine fires an M4 carbine during a joint service range in Zambrano, Honduras, Aug. 26." />
@@ -2335,25 +2380,6 @@ OUR MOBILE APP</h1>
                 <aside>
                   <a href="https://media.defense.gov/2020/Aug/21/2002481834/1366/740/0/200818-M-SQ016-1164.JPG" class="download-link" download="https://media.defense.gov/2020/Aug/21/2002481834/1366/740/0/200818-M-SQ016-1164.JPG"><span class="text light">Download</span></a>
                   <a href="/photos?igphoto=2002481834" class="details-link" title="Launch It"><span class="text light">Details</span></a>
-                </aside>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      <div class="item" id="explore-413-772" data-id="772" data-src="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG" data-title="Find the Adversary" data-byline="" data-link="/photos?igphoto=2002480839">
-        <a href="/photos?igphoto=2002480839" class="overlay dark"></a>
-        <img src="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG" alt="A U.S. Marine scans a road for notional enemies during a Marine Corps Combat Readiness Evaluation on Marine Corps Base Camp Pendleton, Calif., Aug. 12." />
-        <div class="caption-section transparent">
-          <div class="container">
-            <div class="row">
-              <div class="col-12">
-                <h4 class="title light">Find the Adversary</h4>
-                <p class="text light author"></p>
-                <aside>
-                  <a href="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG" class="download-link" download="https://media.defense.gov/2020/Aug/20/2002480839/1366/740/0/200812-M-AH667-011.JPG"><span class="text light">Download</span></a>
-                  <a href="/photos?igphoto=2002480839" class="details-link" title="Find the Adversary"><span class="text light">Details</span></a>
                 </aside>
               </div>
             </div>
@@ -2774,10 +2800,38 @@ OUR MOBILE APP</h1>
                 
                 <li class="feed-item">
                     <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1302031451521781766' target='_blank' class='DGovTwitterText'>Ship to Shore
+
+Landing Craft, Air Cushion 30 with the @31stMeu arrives at White Beach Naval Base.
+
+The MEU, part of… https://t.co/khtOi8jle5</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">1 hour ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301919207190196224' target='_blank' class='DGovTwitterText'>All Aboard
+
+Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japan. The MEU and amphibious… https://t.co/saDXAiVuS6</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">9 hours ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301618878582321155' target='_blank' class='DGovTwitterText'>.@USMCSgtMaj presents the Junior Enlisted Performance Evaluation System or JEPES. This system changes the way that… https://t.co/3FR0J0CfW3</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">15 hours ago</span>
+                            <span class="feed-age">1 day ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2790,7 +2844,7 @@ OUR MOBILE APP</h1>
 Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck of the @usnavy's… https://t.co/l2KMnETNLI</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">20 hours ago</span>
+                            <span class="feed-age">1 day ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2801,29 +2855,7 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301279658168774658' target='_blank' class='DGovTwitterText'>Marine Barracks Washington holds this year’s only Sunset Parade at the U.S. Marine Corps War Memorial as we commemo… https://t.co/iaOoE95BVB</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 day ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301219902083211264' target='_blank' class='DGovTwitterText'>Join us to honor the service and sacrifice of our nation’s Greatest Generation who fought in #WWII75 as we mark 75… https://t.co/zkm1AgaKZL</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 day ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301155375773876226' target='_blank' class='DGovTwitterText'>As we commemorate today 75 years since the end of #WWII75 in the Pacific, we’re forever indebted to our nation’s Gr… https://t.co/OJKu0r4HHQ</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 day ago</span>
+                            <span class="feed-age">2 days ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -3159,23 +3191,23 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
 <!-- DVIDS Video Analytics -->
 <script type="text/javascript" src="/DesktopModules/DVIDSVideoPlayer/Components/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
 <script type="text/javascript">
-    ANALYTICSLIBRARY.init(["766085", "750"]);
+    ANALYTICSLIBRARY.init(["766133", "257"]);
     ANALYTICSLIBRARY.loadAnalyticsParam();
 </script>
 <!-- End DVIDS Video Analytics -->
 
 <div class="DVPPlayerBackground">
     <div class="DVPPlayer">
-        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/766085.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:766085&Format=' srclang='en'></video>
+        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/766133.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:766133&Format=srt' srclang='en'></video>
     </div>
 </div>
 
 <script type="text/javascript">
     var dvpCCEnabled = false;
     var myPlayer = null;
-    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=766085';
-    var gaTitle = 'Mike Company Motivational Run';
-    var gaID = '766085';
+    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=766133';
+    var gaTitle = 'Holiday Safety Brief';
+    var gaID = '766133';
     var playEventAlreadyTriggered = false;
     var debug = false;
 
@@ -3185,7 +3217,7 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
         var videoHasPlayed = false;
         var restartTimer = 0;
         var captionsSelector = null;
-        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089-1280x720-2765k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974089/DOD_107974089.mp4"}];
+        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1920x1080-6221k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598.mp4"}];
         var currentVideoHeight = 576;
         var playEventButtonTriggered = false;
 
@@ -3531,9 +3563,21 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                             <div class="DVIDSCarouselImgTitle"><div><span></span></div></div>
                             <div class="DVIDSCarousel royalSlider rsDefault">
                                 
-                                <div class="DVIDSCarouselItem Selected" data-title="Mike Company Motivational Run" data-id="video:766085">
+                                <div class="DVIDSCarouselItem Selected" data-title="Holiday Safety Brief" data-id="video:766133">
                                     <div class="DVIDSCarouselImgWrapper Selected">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766085/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766133/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Robert Jones Moto Run" data-id="video:766150">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766150/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Mike Company Graduation" data-id="video:766180">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766180/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3549,45 +3593,33 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Thank you, Greatest Generation" data-id="video:765681">
+                                <div class="DVIDSCarouselItem" data-title="Top Gun Challenge" data-id="video:766140">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765681/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766140/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="LOGCOM Look @ Sentinel Surveillance Testing (SST)" data-id="video:766170">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766170/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Mike Company Motivational Run" data-id="video:766085">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766085/200w_q95.jpg')"></div>
+                                    </div>
+                                </div>
+                                
+                                <div class="DVIDSCarouselItem" data-title="Day n&#39; Night | Marines train to operate in austere environments" data-id="video:765793">
+                                    <div class="DVIDSCarouselImgWrapper">
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765793/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
                                 <div class="DVIDSCarouselItem" data-title="Motivated Mortars" data-id="video:765705">
                                     <div class="DVIDSCarouselImgWrapper">
                                         <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="2nd ANGLICO’s Basic Course" data-id="video:765723">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765723/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="MCMWTC Commander Addresses Firefighters and Marines Combating Slink Fire" data-id="video:765866">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765866/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="We Are Projectors" data-id="video:765625">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765625/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 2" data-id="video:765526">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765526/200w_q95.jpg')"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="DVIDSCarouselItem" data-title="JEPES Instructional Video 1" data-id="video:765527">
-                                    <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765527/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3652,7 +3684,7 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
             $(".DVIDSCarouselImgTitle span").html(title);
         }
 
-        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Mike Company Motivational Run<br />Sept. 3, 2020&nbsp;|&nbsp;3:34</div>")
+        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Holiday Safety Brief<br />Sept. 4, 2020&nbsp;|&nbsp;1:01</div>")
         SetCarouselTitle();
     });
 </script>
@@ -3749,6 +3781,28 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                         
                         
                         <div class="carousel-item active">
+                            <a href="https://www.marinecorpstimes.com/news/your-marine-corps/2020/09/03/corps-ditching-procons-for-new-evaluation-system-for-junior-marines/"  target="_blank" rel="noopener" >
+                                <h6 class="text-left">Corps ditching pro/cons for new junior Marine evaluation system</h6>
+                                <!--[comment:news]-->
+                                
+                                <!--[comment:press release]-->
+                                
+                                <!--[comment:publication]-->
+                                
+                                <!--[comment:messages]-->
+                                
+                                <!--[comment:in the news]-->
+                                
+                                <p>9/04/2020 - https://www.marinecorpstimes.com/news/your-marine-corps/2020/09/03/corps-ditching-procons-for-new-evaluation-system-for-junior-marines/</p>
+                                
+                                <!--[comment:special feature]-->
+                                
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="carousel-item ">
                             <a href="https://www.thesunchronicle.com/foxboro_reporter/news/local_news/two-of-towns-remaining-wwii-veterans-honored/article_b72513ee-8119-5aa3-8145-4584b122fe13.html"  target="_blank" rel="noopener" >
                                 <h6 class="text-left">Two of town&#39;s remaining WWII veterans honored</h6>
                                 <!--[comment:news]-->
@@ -3828,28 +3882,6 @@ Force Reconnaissance Marines with the @31stMeu combat glide from the flight deck
                                 <!--[comment:in the news]-->
                                 
                                 <p>8/31/2020 - http://www.thecourierexpress.com/news/brady-twp-bridge-dedicated-in-honor-of-vietnam-veteran/article_111437d3-d74f-5568-96ae-58b7849fc117.html</p>
-                                
-                                <!--[comment:special feature]-->
-                                
-                            </a>
-                        </div>
-                        
-                        
-                        
-                        <div class="carousel-item ">
-                            <a href="https://www.marinecorpstimes.com/news/your-marine-corps/2020/08/26/marine-corps-officially-removes-photo-requirements-for-promotions-packages/"  target="_blank" rel="noopener" >
-                                <h6 class="text-left">Marine Corps officially removes photo requirements for promotion packages</h6>
-                                <!--[comment:news]-->
-                                
-                                <!--[comment:press release]-->
-                                
-                                <!--[comment:publication]-->
-                                
-                                <!--[comment:messages]-->
-                                
-                                <!--[comment:in the news]-->
-                                
-                                <p>8/28/2020 - https://www.marinecorpstimes.com/news/your-marine-corps/2020/08/26/marine-corps-officially-removes-photo-requirements-for-promotions-packages/</p>
                                 
                                 <!--[comment:special feature]-->
                                 
