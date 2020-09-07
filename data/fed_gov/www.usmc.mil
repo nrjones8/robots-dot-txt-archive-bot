@@ -17,29 +17,8 @@
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
 <div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xJgDSZhXrtfgcIPMWQMuI1kWFuwzZSSZv5Xzga0jc1ICFwGhQBkXA+8qmUSA8H/OPJnJDn7psLUebkByFpftDPmF5km8nCf6ZVqcnrt9wQ0z5zDuMK08U+iysNr6lmYspUxdtTpcTkznMq6yvnBN1Eup4GCXj/ZAZ1MP5a6CqoLdUuGZT8MYsSk3JYU9t+x+ZjEYFsCmcuZTd6SjqsTNitTX2wU7wef7euG5m9Y98LuxLhNiHLpf9Eof7Mm+a0UpPKhVanRvwIhx8L/Q/j8FYD7rzPCoEr6nqlzUnkBSKB/iNuJFPgqg0FFjoefEKJslBojEUqpVthcgaITRKyiTnOcWYyQw3nXGULObK1OwTWsSNlrWzbtYDr5aaMxvNn7ZejbeUmcn/a3m7CgV30WL7q2Ue50zc+nJqH6rc+SUOz5SQfK/kmrLrKp/3UJ1FtA93CrhAqzIAFNStcdLqRGRHOvHoHCwy7uEcFuOyQVFekc7jiLWFw/j31VgGfaLa2BQosp+0amhYWm4evns07kji8rUKgyOGUG+vpUU5Thn39AWTUy0BTArLFuFsyUGPC7kPQCiHreCCIX6lWEo8A2GpD+cytkkZb8ny1Y4Gl8LZpdQijR+WmHgM9eUGdi0FK7bUMae8gESeN9e0hPPp6UsheegJwWlqn+sS4b4+oRPJMQsL2F5kUA3q2/ZVx8FsT13k1SjLmq3FfdU2sS3MGJSjE8uvUwOqJ0QRipJlepM+elGtOiQtLm/FkILBwiic7UI9cEKxTvvRMtsSnX1yKKf0iEY9o5ewLWAExr0RZZM59PjMghofr7etfJIROlhxxGXHbqib9iyTNQmVyE0mnT3KfxV6ptKWFzUlpb/QqKdq+zT81+9DvnWspXWvtnGLbjzg32ja9hd/BHnXFLxXl9+FW+pJlcFMHsfQbAhmj0r01U29PfNuoSijk1yiLHOqHWOI4so886S16Hn45e66ehPO4fMxqmZF3JdtaZnn8PewruVXlW36TjfxjSagThboIceAh68vKC/B7AL2IfoR63hif3Km02jwpEsiVuqnAzhhTXx2rIedDP90/fh+YmCe3p2f1C1efvxuV+NoRk4Pu8oR0hLB8/F+k5t8V6m9oQBqAXwYMLT7LH4LDi2RqTGHSkeAa/s2TVLKcBdXAbGKP7pl9EBYfv4reAF2GZlE14K2Hgj+9kHIsdNoVCcwR1kcLTK9QnH5ONWYRhdhNQotq/7lXK8Z1KDnmC9AcEjFxDaXY2jdtaolby7IvJK5oKRsRRFlfEi29PumuqlLYDe5pEjuWxsLpbg94c63NRxDK6qvm77R7J4q5UzDEw7HvY6X+WiWeAQAHjX7HT6nCSYOXGrhh8ROR4YEJNt2RP8lw==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="0z5uUOzWH8ud+/QvBJdccs2ZaZUWAIuDOH3lrPIHqbnhwldhMidT+SasbVWbv9Kprut3h5IqD1Jirg7AKDteF4m0t7/cI1HQI77IWBrXrvt2MOOO75WqPJONeAhsVXneaUgaFqnEZsiMkeoq3Puvghc2xs/ppTubSlbwuEhxLfzlFri2xZbWixIzS2v7cp2BzzWuUSKSVL+ASMD3mrrA7+ui7TYrVwKidqcITkYCgpkUBrvb1KlwPWkz4WwTd6EKPfm2m4MhmEwSDJJWHF80I+YdizM5jBSyMFVvLNxZY3I7YFgIjYo8KszZxbtC6lyStoqhGUj4Ui29Bxd+lvHgvJ0XV27Rs5/j/QnLQ1Ox0P+x1polh6FDJeeO4UUH16Q99BbsAroXDjni6EXFAOXRZnW5PkcMVWjeSwYgXe5BJ0bvI+kS0V4xMoflU+tO75mB3NknLg+QVM/f33PgSRiPX8DQnZNIVefW8V5LEOIXtFQwRB7p3/IsxqfyW+cICzxyhXXGrEjFPMVTpnpkCQwt3XWxsL3lgGCW1ixck/2iWZfM1CtMNQN+R7dHVSv1bMkYMy1d4Az2E6wzR51FlnW9Y5E6fKsbWLjEg9mYlpB7UuZYmbEDTtyZ1ab6yZt7UEv76lSIcbAR4aIPl6azYtFPDyJn3VaTf5TtBTTBckExzoAK4ARJBI6kTmngOOsz/Nfmzoe7NUZPOpgJRisRImr6eYfxFLJWXAODsgt6PEVr7GZHwH4DDDLvdcOX/gBUNLbNgavaKAKDqpLmIOo/dAzu2iiVFYjcuIQqJTMFMcr9Hm8Cxxd7AhxrDKEJBKh5ELnAHtvs2eedR0vvwzE82ge9ZW7R/YJ2+CXQbjhHqm7Sa0+ATlt4rboCasvKBaQh1mk9PsIVglJT/ItzpgZTOOUAloLTa5kBG9rUyCF7/3iVvPAM3Q/ziROU8ewFvxLwHn9e8kWBHhhqTqsAEQxS6SOg04+O/s9bMcL+U1vKYFUBcE3wxyAX8Ah6B7hDR+fELlmt7yTRHumaH2TgdePjOpJwqJSxM9kaIuxwSdl888VSmG5ppG/3RmDXWX3WPstGYlBSTMvf09MlZxkXDor+IYaNBBw1K5BEjMvzI3FHx6DgswWvjeeL9Gy7xJPZyKsfHj7HhoBNNtRDBjdmBlItNOyy7Cs11I4z8gDAKHCuhJOhOYHrVeI8WXgTfI4hoPxGUqZrbxWc/h5Mn3+/NvaZH/o7aok27LTeXIRjLIXvsMVCVRUBg+KU5lZwG31awaAentFNhnmz89optS+JqKMZpbLxIKqLiqHJPHRT73cSa7pYyTMob4l0nBj1MMA/E5JE4I8z+aKGfk9z9ujp4biH8cULuxy2unxNSIf7VlsGIQ==" />
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['Form'];
-if (!theForm) {
-    theForm = document.Form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=pynGkmcFUV2pxyH5Fip4SwVxMFI6ytKJNbT_mGrLdk8waGTczC05KFlDw8k1&amp;t=637290613350350503" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=NJmAwtEo3IqPxlnNO4M0v0H72wMtigcf5uyE3l4RRLoB2JZKrP4j6ch0stZ4ioXL5MMkGBcvWv12YLeatBjZtObQuPq_wprAsSiWiEDqhjaPDUSqBtoRJPL5MUjmwu7CV54J7A2&amp;t=ffffffffce034dab" type="text/javascript"></script>
@@ -48,7 +27,7 @@ function __doPostBack(eventTarget, eventArgument) {
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
 	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dxYFsm1rPwZemcZrK8TRL9iEQe2g+4xHBu7M5yAyV3AxxQj6Z4qSRpsdkeiWPaDJXm73ccr7+Dc5ipTpkat86sOCjxranLsAl9Y6jIPh0wVmT1IF" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XQB5VZ5iYZ163nU++hhUAaCUzPuAdUpZ8v7pp2JIjKyuPbHjlYvyPPmVFBPBvFMRg1SRtzQK5vXs02VjBJkRoRkYrXIDrsVCKGZvTSZ45esDoUza" />
 </div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=735" type="text/javascript"></script><script src="/Portals/_default/skins/marinestheme/Resources/js/skin.build.js?cdv=735" type="text/javascript"></script><script src="/js/dnncore.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/jquery-inview/jquery.inview.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=735" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/DynamicAnalytics/DynamicAnalytics.js?cdv=735" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=735" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=735" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -2800,12 +2779,25 @@ OUR MOBILE APP</h1>
                 
                 <li class="feed-item">
                     <div class="feed-content">
+                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1302638568632913928' target='_blank' class='DGovTwitterText'>The Place, The Legend, The Man. 
+
+Get to know one of the most decorated Marines in Force Reconnaissance history, re… https://t.co/zb7TrPGxUN</a></div>
+                        <div class="SlideshowInfo">
+                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
+                            <span class="feed-age">8 hours ago</span>
+                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="feed-item">
+                    <div class="feed-content">
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1302369937177153538' target='_blank' class='DGovTwitterText'>No Light, No Problem
 
 A tank crew member assigned to Task Force Ellis, @1stMEF prepares to extract a simulated casu… https://t.co/50S0oqxrOI</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">13 hours ago</span>
+                            <span class="feed-age">1 day ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2818,7 +2810,7 @@ A tank crew member assigned to Task Force Ellis, @1stMEF prepares to extract a s
 After a challenging 55-day course, Marine Corps history has taken flight with Capt. Shaneka… https://t.co/8e7uSzG73y</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">20 hours ago</span>
+                            <span class="feed-age">1 day ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2833,7 +2825,7 @@ Landing Craft, Air Cushion 30 with the @31stMeu arrives at White Beach Naval Bas
 The MEU, part of… https://t.co/khtOi8jle5</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 day ago</span>
+                            <span class="feed-age">2 days ago</span>
                             <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
                         </div>
                     </div>
@@ -2844,17 +2836,6 @@ The MEU, part of… https://t.co/khtOi8jle5</a></div>
                         <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301919207190196224' target='_blank' class='DGovTwitterText'>All Aboard
 
 Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japan. The MEU and amphibious… https://t.co/saDXAiVuS6</a></div>
-                        <div class="SlideshowInfo">
-                            <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
-                            <span class="feed-age">1 day ago</span>
-                            <span class="feed-follow"><a href="https://www.twitter.com/usmc" >Follow @usmc</a></span>
-                        </div>
-                    </div>
-                </li>
-                
-                <li class="feed-item">
-                    <div class="feed-content">
-                        <div class="linked-desc"><a href='https://twitter.com/10126672/statuses/1301618878582321155' target='_blank' class='DGovTwitterText'>.@USMCSgtMaj presents the Junior Enlisted Performance Evaluation System or JEPES. This system changes the way that… https://t.co/3FR0J0CfW3</a></div>
                         <div class="SlideshowInfo">
                             <span class="feed-name"><a href="https://www.twitter.com/usmc" >@usmc</a></span>
                             <span class="feed-age">2 days ago</span>
@@ -3193,23 +3174,23 @@ Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japa
 <!-- DVIDS Video Analytics -->
 <script type="text/javascript" src="/DesktopModules/DVIDSVideoPlayer/Components/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
 <script type="text/javascript">
-    ANALYTICSLIBRARY.init(["766150", "1587"]);
+    ANALYTICSLIBRARY.init(["766133", "257"]);
     ANALYTICSLIBRARY.loadAnalyticsParam();
 </script>
 <!-- End DVIDS Video Analytics -->
 
 <div class="DVPPlayerBackground">
     <div class="DVPPlayer">
-        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/766150.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:766150&Format=srt' srclang='en'></video>
+        <video id='videoPlayer531' preload='none' controls='controls=' src='https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1024x576-1769k.mp4' poster='https://cdn.dvidshub.net/media/frames/video/2009/766133.jpg' crossorigin="anonymous" playsinline><track id="DVIDSCaptions" kind='subtitles' src='/desktopmodules/sharedlibrary/handlers/dvidscaption.ashx?PortalId=1&AssetId=video:766133&Format=srt' srclang='en'></video>
     </div>
 </div>
 
 <script type="text/javascript">
     var dvpCCEnabled = false;
     var myPlayer = null;
-    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=766150';
-    var gaTitle = 'Robert Jones Moto Run';
-    var gaID = '766150';
+    var gaUrl = 'https://www.marines.mil/News/MarinesTV?videoid=766133';
+    var gaTitle = 'Holiday Safety Brief';
+    var gaID = '766133';
     var playEventAlreadyTriggered = false;
     var debug = false;
 
@@ -3219,7 +3200,7 @@ Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japa
         var videoHasPlayed = false;
         var restartTimer = 0;
         var captionsSelector = null;
-        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934-1920x1080-6221k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974934/DOD_107974934.mp4"}];
+        var videoFilesObj = [{height: 144,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-256x144-111k.mp4"},{height: 288,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-512x288-442k.mp4"},{height: 576,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1024x576-1769k.mp4"},{height: 720,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1280x720-2765k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598-1920x1080-6221k.mp4"},{height: 1080,src: "https://cdn.dvidshub.net/media/video/2009/DOD_107974598/DOD_107974598.mp4"}];
         var currentVideoHeight = 576;
         var playEventButtonTriggered = false;
 
@@ -3565,15 +3546,15 @@ Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japa
                             <div class="DVIDSCarouselImgTitle"><div><span></span></div></div>
                             <div class="DVIDSCarousel royalSlider rsDefault">
                                 
-                                <div class="DVIDSCarouselItem Selected" data-title="Robert Jones Moto Run" data-id="video:766150">
+                                <div class="DVIDSCarouselItem Selected" data-title="Holiday Safety Brief" data-id="video:766133">
                                     <div class="DVIDSCarouselImgWrapper Selected">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766150/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766133/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Holiday Safety Brief" data-id="video:766133">
+                                <div class="DVIDSCarouselItem" data-title="Robert Jones Moto Run" data-id="video:766150">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766133/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766150/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3619,9 +3600,9 @@ Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japa
                                     </div>
                                 </div>
                                 
-                                <div class="DVIDSCarouselItem" data-title="Motivated Mortars" data-id="video:765705">
+                                <div class="DVIDSCarouselItem" data-title="V 2/2FEX" data-id="video:766127">
                                     <div class="DVIDSCarouselImgWrapper">
-                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/765705/200w_q95.jpg')"></div>
+                                        <div style="width:200px;background-image:url('https://cdn.dvidshub.net/media/thumbs/frames/video/2009/766127/200w_q95.jpg')"></div>
                                     </div>
                                 </div>
                                 
@@ -3686,7 +3667,7 @@ Marines with the @31stMeu embark the @USNavy’s #USSGermantown in Okinawa, Japa
             $(".DVIDSCarouselImgTitle span").html(title);
         }
 
-        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Robert Jones Moto Run<br />Sept. 4, 2020&nbsp;|&nbsp;0:57</div>")
+        $(".mejs__layers").append("<div class='mejs__layer video-overlay'>Holiday Safety Brief<br />Sept. 4, 2020&nbsp;|&nbsp;1:01</div>")
         SetCarouselTitle();
     });
 </script>
