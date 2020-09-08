@@ -14,40 +14,14 @@
 <body id="Body">
     
     <form method="post" action="/" id="Form" enctype="multipart/form-data">
-<div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['Form'];
-if (!theForm) {
-    theForm = document.Form;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
 
 
-<script src="/WebResource.axd?d=pynGkmcFUV0JwCJq02pBM5hu37VK52ATsgnYFxg-XxWGX0LYJ3mbwraaWwM1&amp;t=637100682046795651" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=NJmAwtEo3IrZZmhJbgLN7n1FwhuTJbajvmySO9QBr6i6zzzRyl6QF-8j0H4S-sD0hixqDz0d-Vujdi3MvDRr6hXBsdDKcKa7NksbEQY7g6k3ZSEstlgnEP2q9p_Nl5yEr2VDGw2&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=dwY9oWetJoIvUjxxH4p9bCJMmUDv-qgwxoAeD0W0JDFhvrbEUP41TpnqX4tfMCTuBVtMAY5BK7CMtCDqlACCH4GKtxFEd7YXvMw-KQEYwFXFhcauGEnIF2TD_CxRkDQLLPMbFuQe5XPVhKch0&amp;t=ffffffffecf19baa" type="text/javascript"></script>
-<div class="aspNetHidden">
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
-	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="Dse/ijM44Bumxjh1s3WaAJOzCRG6DhtHpUUIeU1wnHF41UuFbkCumE6Rhn/a6pi5I/68ef8DJUJ0B7haKfW87dTwuNy8bCIkKgx3GrCu/0AIQSNHJf3p0IZmnr7W0Nk59o0BWQ==" />
-</div><script src="/js/dnn.js?cdv=3073" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=3073" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073" type="text/javascript"></script><script src="/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=3073" type="text/javascript"></script><script src="/js/dnncore.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3073" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3073" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=3073" type="text/javascript"></script><script src="/Resources/Shared/Scripts/dnn.jquery.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3073" type="text/javascript"></script><script src="/DesktopModules/TanLDResponsiveHtmlTabs/js/zozo.tabs.min.js?cdv=3073" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3IrZZmhJbgLN7n1FwhuTJbajvmySO9QBr6i6zzzRyl6QF-8j0H4S-sD0hixqDz0d-Vujdi3MvDRr6hXBsdDKcKa7NksbEQY7g6k3ZSEstlgnEP2q9p_Nl5yEr2VDGw2&amp;t=ffffffffce034dab" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoIvUjxxH4p9bCJMmUDv-qgwxoAeD0W0JDFhvrbEUP41TpnqX4tfMCTuBVtMAY5BK7CMtCDqlACCH4GKtxFEd7YXvMw-KQEYwFXFhcauGEnIF2TD_CxRkDQLLPMbFuQe5XPVhKch0&amp;t=ffffffffce034dab" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="KrNqX8rQfOfG10MjbZ3j+SK7vHoXND7nim/CH28uT19Lv3e9MEpJXBTG6wG38fpy7K1mOu7TOH4lOpUQs2dTi0okM1jtj6sD5n7Z9CSGqDdIQNMxbsuWoyepZ1Jrgjt/x+CT4g==" /><script src="/js/dnn.js?cdv=3073" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=3073" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073" type="text/javascript"></script><script src="/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=3073" type="text/javascript"></script><script src="/js/dnncore.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3073" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3073" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=3073" type="text/javascript"></script><script src="/Resources/Shared/Scripts/dnn.jquery.js?cdv=3073" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3073" type="text/javascript"></script><script src="/DesktopModules/TanLDResponsiveHtmlTabs/js/zozo.tabs.min.js?cdv=3073" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
@@ -779,6 +753,36 @@ Click title for more information.
             </div>
             <div class="DGovFeedThird">
                 <div>
+                    <a href="https://twitter.com/972589488/statuses/1302955602767945728" target="_blank" class="DGovPostTitle"></a>
+                </div>
+                <div><a href="https://twitter.com/search?q=%23InsiderThreats" target="_blank">#InsiderThreats</a> may be difficult to discover, but the ability to recognize concerning behavior is easy. Here are a… <a href="https://t.co/zTYkg3T9nx" target="_blank">https://t.co/zTYkg3T9nx</a></div>
+            </div>
+        </div>
+        
+        <div class="DGovFeedSep"></div>
+
+        
+        <div class="DGovFeedItem">
+            <div class="DGovFeedFirst">
+                <img src="/DesktopModules/SocialMediaFeed/Templates/JCS/Images/twitter-bird-white-on-blue.png" alt="Twitter" />
+            </div>
+            <div class="DGovFeedThird">
+                <div>
+                    <a href="https://twitter.com/972589488/statuses/1302940193712939008" target="_blank" class="DGovPostTitle"></a>
+                </div>
+                <div>Happy <a href="https://twitter.com/search?q=%23LaborDay" target="_blank">#LaborDay</a> to all our service members and <a href="https://twitter.com/DeptofDefense" target="_blank">@DeptofDefense</a> employees serving around the world. <a href="https://t.co/Z9qUBaJ03B" target="_blank">https://t.co/Z9qUBaJ03B</a> <a href='https://twitter.com/972589488/statuses/1302940193712939008' target='_blank'><img src=https://pbs.twimg.com/media/EhT5M5_X0AITI4Z.jpg></a></div>
+            </div>
+        </div>
+        
+        <div class="DGovFeedSep"></div>
+
+        
+        <div class="DGovFeedItem">
+            <div class="DGovFeedFirst">
+                <img src="/DesktopModules/SocialMediaFeed/Templates/JCS/Images/twitter-bird-white-on-blue.png" alt="Twitter" />
+            </div>
+            <div class="DGovFeedThird">
+                <div>
                     <a href="https://twitter.com/972589488/statuses/1301913613452693504" target="_blank" class="DGovPostTitle"></a>
                 </div>
                 <div><a href="https://twitter.com/search?q=%23DYK" target="_blank">#DYK</a> that security clearances are just one determination the <a href="https://twitter.com/search?q=%23DoDCAF" target="_blank">#DoDCAF</a> makes? DoD CAF also adjudicates suitability, f… <a href="https://t.co/wfPAfXgXi6" target="_blank">https://t.co/wfPAfXgXi6</a></div>
@@ -1045,36 +1049,6 @@ Click title for more information.
         <div class="DGovFeedSep"></div>
 
         
-        <div class="DGovFeedItem">
-            <div class="DGovFeedFirst">
-                <img src="/DesktopModules/SocialMediaFeed/Templates/JCS/Images/twitter-bird-white-on-blue.png" alt="Twitter" />
-            </div>
-            <div class="DGovFeedThird">
-                <div>
-                    <a href="https://twitter.com/972589488/statuses/1299316587846086660" target="_blank" class="DGovPostTitle"></a>
-                </div>
-                <div><a href="https://twitter.com/search?q=%23DCSA" target="_blank">#DCSA</a> <a href="https://twitter.com/search?q=%23Counterintelligence" target="_blank">#Counterintelligence</a> mission is the federal government’s strongest link between the nation’s industrial base,… <a href="https://t.co/MUcgBRut7E" target="_blank">https://t.co/MUcgBRut7E</a></div>
-            </div>
-        </div>
-        
-        <div class="DGovFeedSep"></div>
-
-        
-        <div class="DGovFeedItem">
-            <div class="DGovFeedFirst">
-                <img src="/DesktopModules/SocialMediaFeed/Templates/JCS/Images/twitter-bird-white-on-blue.png" alt="Twitter" />
-            </div>
-            <div class="DGovFeedThird">
-                <div>
-                    <a href="https://twitter.com/972589488/statuses/1299014878154420224" target="_blank" class="DGovPostTitle"></a>
-                </div>
-                <div>Join us and be part of the conversation at the upcoming Insider Threat Virtual Security Conference Thursday, Septem… <a href="https://t.co/3B7iO5Sqj5" target="_blank">https://t.co/3B7iO5Sqj5</a></div>
-            </div>
-        </div>
-        
-        <div class="DGovFeedSep"></div>
-
-        
     </div>
 </div>
 <script type="text/javascript">
@@ -1120,7 +1094,7 @@ Click title for more information.
     <div class="DGovPanelTwitter">
         <a href="https://www.twitter.com/DCSAgov" target="_blank"><img src="/DesktopModules/SocialMediaFeed/Templates/JCS/Images/twitter-bird-white-on-blue.png" alt="Twitter"/></a>
         <div class="DGovPanelSocialStats">
-            <div class="DGovPanelSocialText">6,806</div>
+            <div class="DGovPanelSocialText">6,822</div>
             <a href="https://twitter.com/intent/follow?screen_name=DCSAgov" class="DGovPanelTwitterFollow" target="_blank"><img src="/DesktopModules/SocialMediaFeed/Templates/AirForce/Images/FollowUs.png" alt="Follow Us" /></a>
         </div>
     </div>
@@ -1213,7 +1187,7 @@ Click title for more information.
         <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`6310`}" />
         <script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=3073" type="text/javascript"></script>
     </form>
-    <!--CDF(Javascript|/js/dnncore.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=3073|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=3073|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/DOD2/skin.css?cdv=3073|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/containers/dod2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SocialMediaFeed/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/SocialMediaFeed/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/91/portal.css?cdv=3073|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3073|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=3073|DnnBodyProvider|12)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/desktopmodules/SocialMediaFeed/Templates/DGov/template.css?cdv=3073|DnnPageHeaderProvider|11)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=3073|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=3073|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/Shared/Scripts/dnn.jquery.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=3073|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=3073|DnnPageHeaderProvider|5)-->
+    <!--CDF(Javascript|/js/dnncore.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=3073|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=3073|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/DOD2/skin.css?cdv=3073|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/containers/dod2/container.css?cdv=3073|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SocialMediaFeed/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/SocialMediaFeed/module.css?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/91/portal.css?cdv=3073|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3073|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=3073|DnnBodyProvider|12)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=3073|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Css|/desktopmodules/SocialMediaFeed/Templates/DGov/template.css?cdv=3073|DnnPageHeaderProvider|11)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=3073|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=3073|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/Shared/Scripts/dnn.jquery.js?cdv=3073|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3073|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=3073|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=3073|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_02_01/jquery.js?cdv=3073|DnnPageHeaderProvider|5)-->
     
 </body>
 </html>
