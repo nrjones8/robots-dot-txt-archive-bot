@@ -14,7 +14,7 @@ def get_domain_data():
 
 def get_and_save_robots_txt(domain_dict):
     domain = domain_dict['domain']
-    site_type = domain_dict['site_type']
+    site_type = domain_dict['source']
 
     fname = 'data/{}/{}'.format(site_type, domain)
     cleaned_fname = 'data/cleaned/{}/{}'.format(site_type, domain)

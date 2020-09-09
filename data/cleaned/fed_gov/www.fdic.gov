@@ -1,8 +1,0 @@
-# robots.txt for www.fdic.gov
-# Jun 26, 2018
-User-agent: *
-Disallow: /_vti_bin/  #bypassed to eliminate crawlers for getting into image maps
-Disallow: /retiree/   #bypassed to eliminate crawlers for getting into retiree pages
-Disallow: /prototypes/ #Do not crawl the prototypes folder
-Disallow: /test/ #Do not crawl the test folder
-Sitemap: https://www.fdic.gov/sitemap_index.xml
