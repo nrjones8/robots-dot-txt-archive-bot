@@ -1,0 +1,9 @@
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function setCurrent() on null in /home/powwow/gst/includes/GST_Dispatch.class.php:534
+Stack trace:
+#0 /home/powwow/gst/includes/GST_Dispatch.class.php(776): GST_Dispatch-&gt;_start()
+#1 /home/powwow/gst/page.php(1450): GST_Dispatch-&gt;__construct()
+#2 /home/powwow/gst/index.php(24): include('/home/powwow/gs...')
+#3 /home/powwow/public_html/sites/lafollettetn/index.php(3): require_once('/home/powwow/gs...')
+#4 {main}
+  thrown in <b>/home/powwow/gst/includes/GST_Dispatch.class.php</b> on line <b>534</b><br />

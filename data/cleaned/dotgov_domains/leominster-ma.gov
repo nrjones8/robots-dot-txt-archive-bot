@@ -1,0 +1,42 @@
+# Robots File for leominster-ma.gov/
+User-agent: *
+# Root pages
+Disallow: /styles.asp
+Disallow: /vpn.asp
+# Staging and internal folders
+Disallow: /test/
+Disallow: /training/
+Disallow: /users/
+Disallow: /widgets/
+Disallow: /Widget_Layouts/
+# Don't index javascripts or stylesheets
+Disallow: /*.js$
+Disallow: /*.css$
+# Don't index these folders
+Disallow: /*aspnet*/
+Disallow: /*private*/
+Disallow: /admin/
+Disallow: /aspnet*/
+Disallow: /cals/
+Disallow: /civica/
+Disallow: /custom/
+Disallow: /documents/
+Disallow: /dtSearch/
+Disallow: /faqs/
+Disallow: /flash/
+Disallow: /forms/
+Disallow: /forum/
+Disallow: /galleries/
+Disallow: /google_rfi/ 
+Disallow: /home_nav/ 
+Disallow: /infoguide/
+Disallow: /webalizer/ 
+# Updated 091009 to comply with WAC recommendation
+Disallow: /inc/
+Disallow: /mockup/
+Disallow: /navdata/
+Disallow: /search/
+Disallow: /swfs/
+Disallow: /templates/
+Disallow: /ute/
+Disallow: groupcommon.asp

@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<!--[if lt IE 9]>
+<script src="https://www.hancockcounty-il.gov/wp-content/themes/govpress/js/html5.js"></script>
+<![endif]-->
+<title>Hancock County, Illinois</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Hancock County, Illinois &raquo; Feed" href="https://www.hancockcounty-il.gov/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hancock County, Illinois &raquo; Comments Feed" href="https://www.hancockcounty-il.gov/comments/feed/" />
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.2.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var em_version         = '6.2.2';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-161538283-2';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-161538283-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.hancockcounty-il.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='jrsm-css-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/jquery-responsive-select-menu/jrsm.css?ver=5.5.1' type='text/css' media='all' />
+<style id='jrsm-css-inline-css' type='text/css'>
+
+		@media (max-width: 320px) {
+			
+			.jquery #menu-icon ul {
+				display: none !important;
+			}
+
+			.jquery-responsive-select-menu {
+				display: inline-block;
+		    	max-width: 100%;
+			}
+
+		}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.hancockcounty-il.gov/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=4.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.981' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.62' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.62' type='text/css' media='all' />
+<link rel='stylesheet' id='govpress-style-css'  href='https://www.hancockcounty-il.gov/wp-content/themes/hancock-county/style.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://www.hancockcounty-il.gov/wp-content/themes/govpress/fonts/font-awesome/font-awesome.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='govpress-open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C400%2C600%2C700%2C300&#038;subset=latin%2Clatin-ext' type='text/css' media='screen' />
+<link rel='stylesheet' id='slb_core-css'  href='https://www.hancockcounty-il.gov/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.8.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' id='jrsm-jquery-js-extra'>
+/* <![CDATA[ */
+var jrsm_params = {"containers":"#menu-icon","width":"320","firstItem":"\u21d2 Navigation","indent":">>","showCurrentPage":"1","hideEmptyLinks":"","disableEmptyLinks":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/jquery-responsive-select-menu/jrsm-jquery.js?ver=5.5.1' id='jrsm-jquery-js'></script>
+<script type='text/javascript' id='exactmetrics-frontend-script-js-extra'>
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.hancockcounty-il.gov","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.2.2' id='exactmetrics-frontend-script-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.hancockcounty-il.gov/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/dist/dom-ready.min.js?ver=db63eb2f693cb5e38b083946b14f0684' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/dist/i18n.min.js?ver=bb7c3c45d012206bfcd73d6a31f84d9e' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/dist/a11y.min.js?ver=13971b965470c74a60fa32d392c78f2f' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/www.hancockcounty-il.gov\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/www.hancockcounty-il.gov\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/www.hancockcounty-il.gov\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","google_maps_api":"AIzaSyDc4TKH2WV8Vt71xv8Yc4fjchc_djP0xQk","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/www.hancockcounty-il.gov\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.981' id='events-manager-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3' id='sumoselect-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.3.2' id='jquery-mobile-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.62' id='mCustomScrollbar-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1' id='jquery-fullscreen-js'></script>
+<script type='text/javascript' id='bwg_frontend-js-extra'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"https:\/\/www.hancockcounty-il.gov\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.62' id='bwg_frontend-js'></script>
+<link rel="https://api.w.org/" href="https://www.hancockcounty-il.gov/wp-json/" /><link rel="alternate" type="application/json" href="https://www.hancockcounty-il.gov/wp-json/wp/v2/pages/60" /><meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://www.hancockcounty-il.gov/" />
+<link rel='shortlink' href='https://www.hancockcounty-il.gov/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.hancockcounty-il.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hancockcounty-il.gov%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.hancockcounty-il.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.hancockcounty-il.gov%2F&#038;format=xml" />
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style>.fullcalendar thead tr td {
+    text-align: center!important;
+}
+
+.fullcalendar thead tr {
+    color: #fff;
+    background-color: #1c3862;
+}
+
+#em-calendar-188 tbody td:nth-child(odd) {
+    background-color: #EEE;
+}
+
+.fullcalendar td {
+    border: none!important;
+}
+
+.fullcalendar tbody td {
+    border: 1px solid #444!important;
+}
+
+.fullcalendar thead a {
+    color: #fff!important;
+}</style><!-- Custom Styling -->
+<style type="text/css">
+#site-navigation, #hero-widgets, #secondary .widget-title, #home-page-featured .widget-title, .site-footer { background:#1c3862 }
+#content a { color:#ff0000 }
+#menu-icon a, .menu-icon-container a:before { color:#ff0000 }
+button, .button, input[type="button"], input[type="reset"], input[type="submit"] { background: #ff0000 }\n#content a:hover, #content a:focus, #content a:active { color:#1c3862 }
+#menu-icon a:hover, #menu-icon a:focus, #menu-icon a:active { color:#1c3862 }
+</style>
+</head>
+
+<body class="home page-template page-template-templates page-template-home-page page-template-templateshome-page-php page page-id-60 govpress layout-single-column">
+<div id="page" class="hfeed site">
+
+	
+	<nav id="site-navigation" class="main-navigation" role="navigation">
+		<div class="col-width">
+			<h1 class="menu-toggle">Menu</h1>
+			<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+			<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="nav-menu"><li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-28"><a href="/" aria-current="page">Home</a></li>
+<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-115"><a title="Hancock County Board Information" href="https://www.hancockcounty-il.gov/board/">County Government</a>
+<ul class="sub-menu">
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://www.hancockcounty-il.gov/board/board-meetings/">Agenda &#038; Minutes</a></li>
+	<li id="menu-item-180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a title="Hancock County Calendar of Events" href="https://www.hancockcounty-il.gov/events/">Calendar</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.hancockcounty-il.gov/board/board-committees/">County Board Committees</a></li>
+	<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="https://www.hancockcounty-il.gov/board-members/">County Board Members</a></li>
+	<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="https://www.hancockcounty-il.gov/county-finances/">County Finances</a></li>
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://www.hancockcounty-il.gov/hancock-county-officials/">Officials</a></li>
+</ul>
+</li>
+<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-613"><a href="https://www.hancockcounty-il.gov/courts/">Courts</a>
+<ul class="sub-menu">
+	<li id="menu-item-200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200"><a href="/circuit-clerk/">Circuit Clerk</a></li>
+	<li id="menu-item-646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-646"><a href="http://www.9thjudicial.org/Hancock/hancock.html">Circuit Court</a></li>
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://www.hancockcounty-il.gov/legal/">Probation</a></li>
+	<li id="menu-item-624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-624"><a href="https://www.hancockcounty-il.gov/public-defender/">Public Defender</a></li>
+	<li id="menu-item-199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199"><a href="/state-attorney/">State&#8217;s Attorney</a></li>
+</ul>
+</li>
+<li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-615"><a href="https://www.hancockcounty-il.gov/health-safety/">Health &#038; Safety</a>
+<ul class="sub-menu">
+	<li id="menu-item-599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-599"><a href="https://www.hancockcounty-il.gov/ambulance-services/">Ambulance Services</a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="https://www.hancockcounty-il.gov/animal-control/">Animal Control</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="https://www.hancockcounty-il.gov/county-coroner/">Coroner</a></li>
+	<li id="menu-item-1795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1795"><a href="https://www.hancockcounty-il.gov/emergency-services-disaster-agency/">Emergency Services &#038; Disaster Agency</a></li>
+	<li id="menu-item-642" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-642"><a href="http://www.hancockcountyhealth.info/">Health Department</a></li>
+	<li id="menu-item-185" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-185"><a href="/highway/">Highway Department</a></li>
+	<li id="menu-item-648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-648"><a href="http://www.mhcwi.org/">Mental Health Centers</a></li>
+	<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637"><a href="https://www.hancockcounty-il.gov/public-transportation/">Public Transportation System</a></li>
+	<li id="menu-item-1913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1913"><a href="/sheriff/">Sheriff&#8217;s Office</a></li>
+</ul>
+</li>
+<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-614"><a href="https://www.hancockcounty-il.gov/taxes-property/">Taxes &#038; Property</a>
+<ul class="sub-menu">
+	<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a href="/county-clerk/">County Clerk</a></li>
+	<li id="menu-item-184" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184"><a href="/treasurer/">County Treasurer</a></li>
+	<li id="menu-item-206" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206"><a href="/assessments/">Supervisor of Assessments</a></li>
+</ul>
+</li>
+<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-543"><a href="https://www.hancockcounty-il.gov/about-us/">Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-1919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1919"><a href="https://www.hancockcounty-il.gov/election/">Election</a></li>
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="https://www.hancockcounty-il.gov/employment/">Employment</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href="https://www.hancockcounty-il.gov/foia/">FOIA</a></li>
+	<li id="menu-item-1881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1881"><a href="https://www.hancockcounty-il.gov/history-2/">History</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://www.hancockcounty-il.gov/gallery/">Image Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="https://www.hancockcounty-il.gov/board/contact-us/">Contact Us</a></li>
+<li class=" astm-search-menu is-menu is-dropdown menu-item"><a title="" href="#"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5" focusable="false" aria-label="Search">
+						<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form  class="is-search-form is-form-style is-form-style-3 is-form-id-0 " action="https://www.hancockcounty-il.gov/" method="get" role="search" ><label><input  type="search" name="s" value="" class="is-search-input" placeholder="Search here..." autocomplete="off" /></label><button type="submit" class="is-search-submit"><span class="is-search-icon"><svg focusable="false" aria-label="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24px"><path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></span></button></form><div class="search-close"></div></li></ul></div>		</div>
+	</nav><!-- #site-navigation -->
+
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding col-width">
+							<a href="https://www.hancockcounty-il.gov/" rel="home">
+					<img src="https://www.hancockcounty-il.gov/wp-content/uploads/2015/03/Hancock-County-Illinois-Logo-1.png" width="960" height="400" alt="">
+				</a>
+						<h1 class="site-title"><a href="https://www.hancockcounty-il.gov/" rel="home">Hancock County, Illinois</a></h1>
+			<h2 class="site-description"></h2>
+		</div>
+	</header><!-- #masthead -->
+
+	
+
+
+	<div class="col-width">
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<div id="main" class="site-main" role="main">
+
+			
+				<article id="post-60" class="post-60 page type-page status-publish hentry">
+					<header class="entry-header">
+						<h1 class="entry-title">Welcome to Hancock County, Illinois</h1>
+					</header><!-- .entry-header -->
+
+											<div class="entry-content">
+							<h1 style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">ATTENTION</span></span> </strong></h1>
+<p><strong>On Friday, March 20<sup>th</sup>, Governor Pritzker issued Executive Order 2020-10, which can be viewed <a href="https://www.hancockcounty-il.gov/wp-content/uploads/2020/03/EO-2020-10.pdf" target="_blank" rel="noopener noreferrer">here</a>, requiring all Illinoisans to stay in their homes to prevent the further spread of COVID-19.  You can view answers to frequently asked questions about the order <a href="https://www.hancockcounty-il.gov/sheriff/wp-content/uploads/sites/2/2020/03/Stay-at-Home-FAQs.pdf" target="_blank" rel="noopener noreferrer">here</a>.</strong></p>
+<p>&nbsp;</p>
+<p>As it pertains to essential functions of the Hancock County Courthouse. The Hancock County Health Department in coordination with the Centers for Disease Control and Prevention advises that we should minimize contact to mitigate the spread of COVID-19 coronavirus. The Ninth Judicial Circuit has released an administrative order which you can review by clicking <a href="https://www.hancockcounty-il.gov/wp-content/uploads/2020/03/Administrative-Order.pdf" target="_blank" rel="noopener noreferrer">here.</a></p>
+<p>Effective Tuesday, March 17, 2020, the Hancock County Courthouse will remain open; however, it is requested that you contact all county offices by telephone before coming in person. You can find the telephone number for each county office on the Contact Us page by clicking <a href="https://www.hancockcounty-il.gov/board/contact-us/" target="_blank" rel="noopener noreferrer">here. </a></p>
+<p>Effective Wednesday, March 18, 2020, anyone entering or exiting the courthouse will be required to go through the East entrance doors.  The following questions will be asked of anyone entering the courthouse:</p>
+<ul>
+<li>Have you been to the following countries within the last 21 days:  China, South Korea, Italy, Japan, Iran; or</li>
+<li>Reside or have close contact with anyone who has been in one of those countries listed above within the last 21 days; or</li>
+<li>Have been directed to quarantine, isolate or self-monitor at home for the coronavirus by any medical provider; or</li>
+<li>Have been diagnosed with, or have had close contact with anyone diagnosed with, COVID-19; or</li>
+<li>Have flu-like symptoms including, fever, cough or shortness of breath.</li>
+</ul>
+<p>This will remain in effect until further order of the court.  Thank you for your cooperation and understanding during this time.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+													</div><!-- .entry-content -->
+					
+					
+
+				</article><!-- #post-## -->
+
+			
+							<div id="home-page-featured" class="widget-area clear">
+					<div class="section-wrap">
+											</div>
+				</div>
+			
+		</div><!-- #main -->
+	</div><!-- #primary -->
+
+
+
+		</div><!-- #content -->
+	</div><!-- .col-width -->
+
+	
+
+	
+	<footer class="site-footer no-widgets" role="contentinfo">
+		<div class="col-width">
+							Copyright &copy; 2020 <a href="/">Hancock County Illinois</a> &nbsp;-&nbsp;Design by <a href="https://nuggetweb.com/">NuggetWeb.com</a>
+					</div><!-- .col-width -->
+	</footer><!-- .site-footer -->
+</div><!-- #page -->
+
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.hancockcounty-il.gov\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/themes/govpress/js/combined-min.js?ver=1.5.2' id='govpress-theme-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=4.5.5' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='https://www.hancockcounty-il.gov/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+
+</body>
+</html>

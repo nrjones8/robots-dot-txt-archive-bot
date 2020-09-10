@@ -1,0 +1,1542 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head id="Head1"><meta charset="UTF-8" /><link href="/DefaultContent/Default/bootstrap.v3.4.1.min.css" rel="stylesheet"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" /><title>
+	
+    City of Kenmore Washington | Home
+
+</title>
+    <meta name="viewport" content="width=device-width" />
+    
+    <link href="/DefaultContent/Default/StyleBundleDesignTheme.cssbnd?v=AL62ACeuPhR--6BCwZUxKBkNhz8km_oJtouvkl_qj5I1" rel="stylesheet"/>
+<link href="/Project/Contents/Main/StyleBundleDesignTheme.cssbnd?v=Y6EZI8gNSZpV5KaAHDlOB0kO9CmzE7m8t9l994ZaZN41" rel="stylesheet"/>
+<link href="/Areas/Admin/Content/StyleBundleFrontendExtra.cssbnd?v=acwZKNE3RPD1pekbX4Wz3QDE28KLfvHqhg0VPeQSJxg1" rel="stylesheet"/>
+<link href="/DefaultContent/Default/Print.cssbnd?v=47rmsGcOk4CIHfb2HDg7t9s31eiFEWHej5QI1ytFlII1" rel="stylesheet" media="print" />
+<link href="/Project/Contents/Main/Print.cssbnd?v=jfhfKsMmxQr_xKAfv9Fj6qRlRX7gMoxJTHKVE6DLWuo1" rel="stylesheet" media="print" />
+<script src="/Scripts/ScriptBundleFAllInOne.jsbnd?v=ET8AINmpgh1tIVH_Bm1Ar8A4J2PObvcBL28D_8_oq841"></script>
+
+<script>
+    function handleExternalURL() { };
+</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Kenmore, WA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"City of Kenmore Washington","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ii84c1F2N3JyRHFpL2Q1VmtubC80dkE9PSJ9.MxkoBC8lUBdcFsRoyCzsdk5BHaAkP88r77__aE1M0CMk_xA-9sL0cBRdA9S_pqwXAoIk1fXF8y15YUkS9W4RVvafhSyzpJGy.I1-q4eaK5hCXJafmLradtg.qurFE0dZj0tJjEBO24MNSgCU_zT2EsquDyVkMgjqvs4CZ59FDmlPwXN_LJ6PN9OcNGFFCOKXc1jd8nd3bgbZOn1rOp1hcgusV6pkd0KhCOvAFJpYltWzJ1_8fVTcxgW5GdS-SohSQMrag2DDJPhU1gufYX3igwJN6KNPw-hihYh_V-np_1kehJ7t8zX5rck81ZpugGf0Af9GnYypAUWU80JDe9A08cwAtGIW0xKhmbU.UCGR_ATHfAiXvm39ycI3bZlT8UjMfSNw6SnfXpUnfok";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+
+    <script type="text/javascript">
+        // added the htmlEncode and htmlDecode method to fixed the js load order issue.
+        $.extend($, {
+            htmlEncode: function (html) {
+                var temp = document.createElement("div");
+                (temp.textContent != undefined) ? (temp.textContent = html) : (temp.innerText = html);
+                var output = temp.innerHTML;
+                temp = null;
+                return output;
+            },
+            htmlDecode: function (text) {
+                var temp = document.createElement("div");
+                temp.innerHTML = text;
+                var output = temp.innerText || temp.textContent;
+                temp = null;
+                return output;
+            }
+        });    
+        $(function () {
+            //script for view full site button, placed here to keep firefox for mobile devices happy
+            var viewFullElement = document.getElementById("view-full");           
+            if (viewFullElement) {
+                viewFullElement.innerHTML = "View Full Site";
+                viewFullElement.className = "mobile_only fullsite";
+            }
+        });
+    </script>
+    
+
+    <!--[if lt IE 9]>
+        <script src="/Scripts/ScriptBundleOthers.jsbnd?v=3Q7FhTQfRrKx8h7Kvdbh9bBluzlNlXKsFAERd4g8_TY1"></script>
+
+	<![endif]-->
+
+    
+    <link id="active_font" rel="stylesheet" type="text/css" href="/Project/Contents/Main/x-small.css">
+    
+    <link rel="Shortcut Icon" href="/favicon.ico" />
+
+    
+    
+
+<!-- Google Universal Analytics -->
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-35119909-1', 'auto');
+    ga('require', 'displayfeatures');
+    //TFS 21771, Enhanced Link Attribution, https://developers.google.com/analytics/devguides/collection/analyticsjs/enhanced-link-attribution
+    ga('require', 'linkid'); 
+    ga('set', 'dimension1', 'Home, ID:1');
+    ga('set', 'dimension2', '2020');
+    ga('send', 'pageview');
+</script>
+<!-- End Google Universal Analytics -->
+
+      
+    
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    
+
+    <script>
+        $(function () {
+            $.frontendSessionManager({
+                virtualApplicationPath:"/",
+                backendUserLogin: false,
+                frontendUserLogin: false,
+                sessionTimeoutInMinutes:30,
+                timeToAlertBeforeSessionTimeoutInMinutes:5,
+                extendSessionTimeoutPath:"Home/FrontEndExtendSessionTimeout"
+            }).setTimerForSessionExpiration();
+        });
+    </script>
+    
+
+    <script data-account="eDQE0jURcM" src="https://cdn.userway.org/widget.js"></script>
+<meta name="google-site-verification" content="TJlB0m9GsUwMZ3IkKG_a08cD3yJ4in17M09_c3M6W-o" /></head>
+
+<body class="front_end_body site_standardsitetemplate ">    
+    <link href="/DefaultContent/Default/StyleBundleAngularLib.cssbnd?v=sED2Qjf38ysQJYZW_ZvZj-7IGXKm4NOJhdA51oOtG5A1" rel="stylesheet"/>
+
+
+
+<script>
+    window.frontendCommonConfig = {
+        loginPage: 'https://www.kenmorewa.gov/sys/sso/login',
+        popupLoginPage: '/sys/sso/popuplogin',
+        photoBaseUrlForPeople: 'https://www.kenmorewa.gov/sys/sso/ShowProfilePhoto?id=',
+        photoBaseUrl: 'https://www.kenmorewa.gov/Home/ShowPublishedImage/',
+        token: window.visionApps ? window.visionApps.token : '',
+        cmsUserLogged: false,
+        anonymousAvatar: 'https://www.kenmorewa.gov/DefaultContent/Default/_gfx/anonymous.png',
+        loginUser: {
+            name: '',
+            avatar: '',
+            userID: null,
+            firstName: '',
+            lastName: '',
+            imageID: null,
+            email: '',
+        }
+    };
+</script>
+
+
+<script>
+    //It's before the AngularJSLib Loading, which might be update in the AngularJSLib bundle.
+    window.viPredefinedModules = [];
+</script>
+<script src="/Scripts/ScriptBundleAngularLib.jsbnd?v=sURwSkcOHJQpcY2cGERJZZKd_ETegEw2fpY0PP0VNds1"></script>
+
+
+<script>
+    (function (window, angular) {
+
+        $("body").attr("ng-app", "vi.cms");
+        
+        window.viCurrentModule = angular.module("vi.cms", window.viPredefinedModules || []);
+    })(window, angular);
+</script>
+    
+    <script src="/Scripts/frontendCoreBundle.jsbnd?v=9WJe86WS0Lx1FvpIFcUM13y3sMmE_Klcvlh8dCOTlBY1"></script>
+
+
+    
+    <!--stopindex-->
+    <noscript>
+        <div class="noscript_alert"><span>Please enable JavaScript in your browser for a better user experience.</span></div>
+    </noscript>
+    <!--startindex-->
+    <div class="vi-temp-message-container" style="display:none;"></div>
+        
+    
+    
+<!--stopindex-->
+<div class="alert_container">
+    <a class="hide" id="alert_controls" data-action="/Home/SetTopTipCookie">Show/Hide</a>
+    <div class="important_alert_wrapper ">
+        <div class="alert_right">
+            <div class="important_alert"><h1>Important Updates: Find out more about city services impacted by the COVID-19 pandemic <a href="/our-city/covid-19-pandemic">here</a>.</h1></div>
+        </div>
+    </div>
+</div>
+<!--startindex-->
+
+
+<div class="sitewrapper  site_template mainSpan_wrapper_home">
+    <div class="mainSpan" id="mainSpan_wrapper_Screen">
+        <!--stopindex-->
+        <div id="skipnav" tabindex="-1">
+            <a href="#sitebody" tabindex="-1">
+                <img alt="Skip to page body" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="Home" href="/home" tabindex="-1">
+                <img alt="Home" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="Our City" href="/our-city" tabindex="-1">
+                <img alt="Our City" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="Services" href="/services" tabindex="-1">
+                <img alt="Services" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="Government" href="/government" tabindex="-1">
+                <img alt="Government" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="Business" href="/business" tabindex="-1">
+                <img alt="Business" src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+            <a title="I Want To..." href="/i-want-to" tabindex="-1">
+                <img alt="I Want To..." src="/DefaultContent/Default/_gfx/spacer.gif" /></a>
+            
+        </div>
+        <!--startindex-->
+
+        <header id="siteheader" class="">
+            <!--stopindex-->
+			<h1 class="wcag_only">City of Kenmore Washington</h1>
+            <a id="home_link" href="/home">Home</a>
+            
+            <a class="menu_trigger mobile_only" href="javascript:void(0);">Menu</a>
+            
+            <!--startindex-->
+            
+<div id="headercolumn" class="site_template_column  header_column   " >
+
+                <!--stopindex-->
+                  
+
+<div id="top_nav">
+		<a href="/our-city/calendar" target="_self">Calendar</a>		
+		<a href="/our-city/city-news" target="_self">City News</a>		
+		<a href="/i-want-to/stay-informed" target="_self">Stay Informed</a>		
+		<a href="/our-city/contact-us" target="_self">Contact Us</a>		
+</div>
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                
+<div class="search_overlay"></div>
+<a href="javascript:void(0);" class="search-trigger hidden-xs">Search</a>
+<div class="top_search">
+    <a class="close_search" href="javascript:void(0);">CLOSE</a>
+    <div class="search_block">
+        <div id="searchbox" class="clearfix">
+            <label style="display: none;" for="search_text">Search</label>
+            <input title="Search..." id="search_text" placeholder="Search..." type="text">
+            <a href="javascript:void(0);">Go</a>
+        </div>
+
+            <div class="top_links">
+                <!--<h2>Search Box - Custom Content</h2>-->
+                <ul>
+                		<li><a href="/#" target="_self"><span class="link-text">Employment</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Parks</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Fire</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Police</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">City Council</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Development Services</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Permits</span></a></li>
+                		<li><a href="/#" target="_self"><span class="link-text">Report a Concern</span></a></li>
+                </ul>
+            </div>
+        
+    </div>
+</div>
+
+
+<script>
+
+    $(function () {
+       
+        $("#searchbox input").keydown(function (e) {
+            if (e.keyCode == 13) {
+                $("#searchbox a").click();
+            }
+        });
+        $("#searchbox a").click(function () {
+            var keyWord = $("#searchbox input#search_text").val();
+            if (keyWord.length <= 0) { return false; }
+            keyWord  = keyWord.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+            keyWord = encodeURIComponent(keyWord.replace("<"," ").replace(">"," ") );
+            var link = '/our-city/advanced-components/misc-pages/search';
+            if (link.indexOf("?") >= 0 )
+                link = link + "&q=" + keyWord;
+            else
+                link = link + "?q=" + keyWord;
+            if ('False' == 'True') {
+                window.top.location.href = link;
+                return false;
+            } else {
+                window.location.href = link;
+            }            
+        });
+    });
+</script>
+                <!--startindex-->
+            
+
+</div>
+
+        </header>
+
+        
+
+<div class="homepagelayout clearfix" id="sitebody">
+    
+<div id="ColumnUserControl1" class="column   top_col clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="189"WidgetStart!!-->    
+
+                <!--stopindex-->
+                <div class=" main_menu_widget"><link href="/DefaultContent/Default/StyleBundleMegaMenuDropDown.cssbnd?v=CD_eN-fYJU8KKPigt6x-Ey-z8_WTsoZ7bqx2pLTZtXU1" rel="stylesheet"/>
+<link href="/Project/Contents/Main/StyleBundleMegaMenuDropDown.cssbnd?v=eQMwmde467Ddxh1dDgKi1Nx-8okU2omsZL_zz2ylqaw1" rel="stylesheet"/>
+<nav class="regularmegamenu mainnav" id="menuContainer_189_603_11"><ul class="dropdownmenu clearfix"><li class="megamenu_first" id="dropdownrootitem1"><a class="dropdownrootitem1" href="/home" title="Home" data-navid="1" target="_self">Home</a></li><li class="megamenu_first" id="dropdownrootitem2"><a class="dropdownrootitem2" title="Our City" data-navid="2">Our City</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/about-kenmore" title="About Kenmore" data-navid="101" target="_self">About Kenmore</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/city-data-demographics" title="City Data &amp; Demographics " data-navid="109" target="_self">City Data &amp; Demographics</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/city-hall" title="City Hall" data-navid="155" target="_self">City Hall</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/economic-development" title="Economic Development" data-navid="376" target="_self">Economic Development</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/history" title="History of Kenmore" data-navid="107" target="_self">History</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/schools-universities" title="Schools &amp; Universities" data-navid="110" target="_self">Schools &amp; Universities</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/about-kenmore/state-of-the-city" title="State of the City" data-navid="378" target="_self">State of the City</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/arts-culture" title="Arts &amp; Culture" data-navid="106" target="_self">Arts &amp; Culture</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/calendar" title="Calendar" data-navid="102" target="_self">Calendar</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/census-2020" title="Census 2020" data-navid="375" target="_self">Census 2020</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/city-news" title="City News" data-navid="301" target="_self">City News</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/current-projects" title="Current Projects" data-navid="295" target="_self">Current Projects</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/current-projects/walkways-and-waterways" title="Walkways and Waterways" data-navid="302" target="_self">Walkways and Waterways</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/current-projects/completed-projects" title="Completed Projects" data-navid="297" target="_self">Completed Projects</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/covid-19-pandemic" title="COVID-19 Pandemic" data-navid="336" target="_self">COVID-19 Pandemic</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/city-parks-trails" title="City Parks &amp; Trails" data-navid="103" target="_self">City Parks &amp; Trails</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/hangar-at-town-square" title="Hangar at Town Square" data-navid="403" target="_blank">Hangar at Town Square</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/map-and-directions" title="Map and Directions" data-navid="124" target="_self">Map and Directions</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/recreation" title="Recreation" data-navid="104" target="_self">Recreation</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/special-events" title="Special Events" data-navid="111" target="_self">Special Events</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/our-city/special-events/sponsorship" title="Sponsorship" data-navid="395" target="_self">Sponsorship</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/volunteer-programs" title="Volunteer Programs" data-navid="105" target="_self">Volunteer Programs</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/where-s-the-fun" title="Where's the Fun?!" data-navid="294" target="_self">Where's the Fun?!</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/contact-us" title="Contact Us" data-navid="122" target="_self">Contact Us</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/our-city/faq" title="Frequently Asked Questions - Life in Kenmore" data-navid="123" target="_self">FAQ</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem3"><a class="dropdownrootitem3" title="Services" data-navid="5">Services</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/animal-services-pet-licensing" title="Animal Services &amp; Pet Licensing" data-navid="91" target="_self">Animal Services &amp; Pet Licensing</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/battery-light-bulb-recycling" title="Battery &amp; Light Bulb Recycling" data-navid="360" target="_self">Battery &amp; Light Bulb Recycling</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/code-compliance" title="Code Compliance" data-navid="92" target="_self">Code Compliance</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/community-resources" title="Community Resources" data-navid="68" target="_self">Community Resources</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/emergency-preparedness" title="Emergency Preparedness" data-navid="71" target="_self">Emergency Preparedness</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/services/emergency-preparedness/alert-northshore" title="Sign Up for Alert Northshore - Emergency Management Notifications" data-navid="93" target="_self">Alert Northshore</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/facility-rentals" title="Facility Rentals" data-navid="69" target="_self">Facility Rentals</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/permit-services" title="Permit Services" data-navid="342" target="_self">Permit Services</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/prescription-drug-drop-off" title="Prescription Drug Drop-Off" data-navid="85" target="_self">Prescription Drug Drop-Off</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/public-safety" title="Public Safety" data-navid="70" target="_self">Public Safety</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/services/public-safety/court-services" title="Court Services" data-navid="283" target="_self">Court Services</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/public-safety/kenmore-police-department" title="Kenmore Police Department" data-navid="88" target="_self">Kenmore Police Department</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/public-safety/northshore-fire-department" title="Northshore Fire Department" data-navid="87" target="_blank">Northshore Fire Department</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/services/public-safety/north-sound-radar-program" title="North Sound Radar Program" data-navid="326" target="_self">North Sound Radar Program</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/services/target-zero-initiative" title="Target Zero Initiative" data-navid="67" target="_self">Target Zero Initiative</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/services/utilities" title="Utilities" data-navid="77" target="_self">Utilities</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/services/utilities/non-city-services" title="Non-City Services" data-navid="285" target="_self">Non-City Services</a></li></ul></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem4"><a class="dropdownrootitem4" title="Government" data-navid="3">Government</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/government/city-council" title="City Council" data-navid="161" target="_self">City Council</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/city-council-meetings" title="City Council Meetings" data-navid="398" target="_self">City Council Meetings</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/city-document-center" title="City Document Center" data-navid="154" target="_blank">City Document Center</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/government/departments" title="City Departments" data-navid="158" target="_self">Departments</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/city-manager-s-office" title="City Manager's Office" data-navid="178" target="_self">City Manager's Office</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/community-development" title="Community Development" data-navid="182" target="_self">Community Development</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/community-development/planning-commission" title="Planning Commission" data-navid="175" target="_self">Planning Commission</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/development-services" title="Development Services" data-navid="179" target="_self">Development Services</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/development-services/codes-resources" title="Codes &amp; Resources" data-navid="197" target="_self">Codes &amp; Resources</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/development-services/permits" title="Permits &amp; Inspections" data-navid="194" target="_self">Permits</a></li><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/development-services/planning" title="Planning" data-navid="195" target="_self">Planning</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/finance-administration" title="Finance &amp; Administration" data-navid="180" target="_self">Finance &amp; Administration</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/finance-administration/city-clerk" title="City Clerk" data-navid="156" target="_self">City Clerk</a></li></ul></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/kenmore-police-department" title="Kenmore Police Department" data-navid="183" target="_self">Kenmore Police Department</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/departments/public-works" title="Public Works" data-navid="184" target="_self">Public Works</a><ul class="megamenu_level2"><li class="megamenu_level3"><a class="megamenu_level3" href="/government/departments/public-works/surface-water-maps-gis" title="Surface Water Maps (GIS)" data-navid="280" target="_blank">Surface Water Maps (GIS)</a></li></ul></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/government/financial-sustainability-plan-task-force" title="Financial Sustainability Plan Task Force" data-navid="397" target="_self">Financial Sustainability Plan Task Force</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/kenmore-municipal-code" title="Kenmore Municipal Code" data-navid="160" target="_self">Kenmore Municipal Code</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/legislative-congressional-districts" title="Legislative &amp; Congressional Districts" data-navid="157" target="_self">Legislative &amp; Congressional Districts</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/staff-directory" title="City Staff Directory" data-navid="151" target="_self">Staff Directory</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/transparency" title="Transparency" data-navid="152" target="_self">Transparency</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/government/transparency/public-records-requests" title="Public Records Requests" data-navid="153" target="_self">Public Records Requests</a></li></ul></li><li class="megamenu_level1"><a class="megamenu_level1" href="/government/title-vi-program" title="Title VI Program" data-navid="187" target="_self">Title VI Program</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/government/working-with-the-city" title="Working with the City" data-navid="370" target="_self">Working with the City</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/government/working-with-the-city/job-opportunties" title="Job Opportunities" data-navid="371" target="_self">Job Opportunties</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/government/working-with-the-city/bids-and-rfps" title="Bids and RFPs" data-navid="372" target="_self">Bids and RFPs</a></li></ul></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem5"><a class="dropdownrootitem5" title="Business" data-navid="4">Business</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/bothell-kenmore-chamber-of-commerce" title="Bothell Kenmore Chamber of Commerce" data-navid="377" target="_blank">Bothell Kenmore Chamber of Commerce</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/business/kenmore-business-directory" title="Kenmore Business Directory" data-navid="402" target="_self">Kenmore Business Directory (FindKenmore.org)</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/business/business-events-seminars" title="Business Events &amp; Seminars" data-navid="60" target="_self">Business Events &amp; Seminars</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/business-registration-licenses" title="General Business Registration and Regulatory Business Licenses" data-navid="62" target="_self">Business Registration &amp; Licenses</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/business/covid-19-business-resources" title="COVID-19 Business Resources" data-navid="299" target="_self">COVID-19 Business Resources</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/business/economic-development" title="Economic Development" data-navid="337" target="_self">Economic Development</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/kenmore-business-alliance" title="Kenmore Business Alliance" data-navid="61" target="_blank">Kenmore Business Alliance</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/business/kenmore-business-incubator-and-business-services" title="Kenmore Business Incubator and Business Services" data-navid="64" target="_self">Kenmore Business Incubator and Business Services</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/business/relocate-launch-your-business" title="Relocate/Launch Your Business in Kenmore" data-navid="63" target="_self">Relocate/Launch Your Business</a></li></ul></div></div></li><li class="megamenu_first" id="dropdownrootitem6"><a class="dropdownrootitem6" title="I Want To..." data-navid="6">I Want To...</a><div class="megamenu_container widthcontainer4col"><div class="inner_container"><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/apply-for" title="Apply For..." data-navid="321" target="_self">Apply For...</a><ul class="megamenu_level1"><li class="megamenu_level2"><a class="megamenu_level2" href="/i-want-to/apply-for/business-solicitor-license" title="Business | Solicitor License" data-navid="341" target="_self">Business | Solicitor License</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/i-want-to/apply-for/building-permit-forms" title="Building Permit/Forms" data-navid="322" target="_self">Building Permit/Forms</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/i-want-to/apply-for/city-jobs" title="City Jobs" data-navid="331" target="_self">City Jobs</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/i-want-to/apply-for/franchise-utility-permit" title="Franchise Utility Permit" data-navid="335" target="_self">Franchise Utility Permit</a></li><li class="megamenu_level2"><a class="megamenu_level2" href="/i-want-to/apply-for/pet-license" title="Pet License" data-navid="332" target="_self">Pet License</a></li></ul></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/attend-an-event" title="Attend an Event" data-navid="330" target="_self">Attend an Event</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/find-surface-water-gis-maps" title="Find Surface Water (GIS) Maps" data-navid="374" target="_self">Find GIS Maps</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/register-my-business" title="Register My Business" data-navid="66" target="_self">Register My Business</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/rent-a-facility" title="Rent a Facility" data-navid="329" target="_self">Rent a Facility</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/report-a-concern" title="Report a Concern" data-navid="72" target="_self">Report a Concern</a></li><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/request-a-public-record" title="Request a Public Record" data-navid="333" target="_self">Request a Public Record</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/stay-informed" title="Stay Informed" data-navid="296" target="_self">Stay Informed</a></li></ul><ul class="megamenu_column"><li class="megamenu_level1"><a class="megamenu_level1" href="/i-want-to/volunteer" title="Volunteer" data-navid="334" target="_self">Volunteer</a></li></ul></div></div></li></ul><script>
+$(function () {
+ var menuContainer = $('#menuContainer_189_603_11');
+ menuContainer.find('.dropdownmenu>li>a[data-navid="1"]').closest('li').addClass('active');
+});
+</script></nav></div>
+
+
+<script>
+    /**********************************************************
+    Dropdown Menu delay disappearance on mouse out
+    *********************************************************/
+    /*javascript to delay the disappearance of the menu when the user mouses out.  Uses jquery library.*/
+    $(function () {
+        
+
+        var timer = null;
+        var delay = 800; //change this number for shorter or longer delay
+
+        
+        //using megamenu
+        var dropdowncontainer = '>.megamenu_container';
+        var activePage = $(".mainnav .dropdownmenu > li.active");
+        $(".mainnav > .dropdownmenu > li").hoverIntent(
+
+            //what happens on hover over
+            function () {
+                 //end timer and stop hiding if they are mousing back in.
+                 if (timer != null) {
+                     clearTimeout(timer);
+                     timer = null;
+                 }
+                 // Find the hovered menu's sub-menu
+                 var $menu = $(this);
+                 var $submenu = $(this).find(dropdowncontainer);
+
+                 // hide any other submenus that are open
+                 $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                 $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+
+                 // show current menu
+                 $submenu.css('display', 'block');
+                 $menu.addClass('active');
+             },
+
+            //what happens on mouse out
+            function () {
+                var $submenu = $(this).find(dropdowncontainer);
+                var $menu = $(this);
+                // delay disappearance
+                var mouseDelay = $(this).data("mouseDelay") || delay;
+                clearTimeout(timer);
+                timer = setTimeout(function () {
+                    $submenu.css('display', 'none'); $menu.not(activePage).removeClass('active');
+                    clearTimeout(timer); timer = null;
+                }, mouseDelay);
+            }
+        );
+
+
+        $('body').bind('keyup', function (event) {
+            if (event.keyCode == 9) {
+                // Find the hovered menu's sub-menu
+                var $menu = $(event.target).closest('li');
+                if ($menu.hasClass('megamenu_first')) {
+                    var $submenu = $menu.find(dropdowncontainer);
+
+                    // hide any other submenus that are open
+                    $('.mainnav > .dropdownmenu>li' + dropdowncontainer).not($submenu).css('display', 'none');
+                    $('.mainnav > .dropdownmenu li.active').not($menu).not(activePage).removeClass('active');
+
+                    // show current menu
+                    $submenu.css('display', 'block');
+                    $menu.addClass('active');
+                }
+            }
+        });
+
+        
+    });
+</script>
+
+<script>
+    //$(function () 
+    {
+        var menuContainerID = "menuContainer_189_603_11";
+        var menuContainer = $("#" + menuContainerID);
+        
+        function isIE(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE ") > -1 || userAgent.indexOf("Trident/") > -1;
+        }
+
+        function isIE9(userAgent) {
+            userAgent = userAgent || navigator.userAgent;
+            return userAgent.indexOf("MSIE 9") > -1;
+        }
+
+        function isTouchScreenEvent(event) {
+            var _isTouchScreen = false;
+            if ("ontouchstart" in window) {
+                _isTouchScreen = true;
+            } else if ("onpointerdown" in window) {
+                _isTouchScreen = event.originalEvent.pointerType == "touch";
+            } else if (window.MSPointerEvent) {
+                _isTouchScreen = event.originalEvent.pointerType == event.originalEvent.MSPOINTER_TYPE_TOUCH; // 2 ; http://blogs.msdn.com/b/ie/archive/2011/09/20/touch-input-for-ie10-and-metro-style-apps.aspx
+            } else {
+            }
+            return _isTouchScreen;
+        }
+
+        var _isIE = isIE();
+        var _isIE9 = isIE9();
+        var isMegaMenu = $('.megamenu_first', menuContainer).length > 0;
+        var currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+
+        $(function () {
+            if (currentMenu.length == 0)
+                currentMenu = $('> ul.dropdownmenu > li.active', menuContainer);
+        });
+
+        if (("ontouchstart" in window   // Chrome & Safari (IOS) && Firefox
+         || "onpointerdown" in window   // IE 11 
+         || window.MSPointerEvent       // IE 10
+         ) && ($(window).width() > 648)) {
+            var eventName = "ontouchstart" in window ? "touchstart"
+                          : "onpointerdown" in window ? "pointerdown"
+                          : window.MSPointerEvent ? "MSPointerDown"
+                          : "";
+            if (eventName.length > 0) {
+                $('> ul.dropdownmenu  li>a[data-navid]', menuContainer).bind(eventName, function (event) {
+
+                    if (isTouchScreenEvent(event) == false) {
+                        return true;
+                    }
+
+                    var currentLevelAnchor = $(this);
+                    var currentLeveLi = currentLevelAnchor.closest("li");
+                    var firstLevelLi = currentLevelAnchor.closest("li[id^='dropdownrootitem']");
+                    var firstLevelAnchor = firstLevelLi.find(">a[data-navid]");
+                    var inFirstLevel = currentLevelAnchor[0] == firstLevelAnchor[0];
+
+                    var hasSubMenu = currentLevelAnchor.next("ul,div").length > 0;
+                    if (hasSubMenu) {
+                        $(this).closest("li").data("mouseDelay", 1);
+
+                        // Menu is not selected
+                        if (!firstLevelLi.hasClass('touch-active')) {
+                            if ($(this).attr("href")) {
+                                $(this).attr("data-href", $(this).attr("href"));
+                                $(this).attr("href", "javascript:void(0);");
+                            }
+                            $(menuContainer).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+
+                            firstLevelLi.addClass('touch-active active');
+                            currentLevelAnchor.addClass('touch-active active');
+                            currentMenu.addClass("active");
+
+                            $(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');
+                            $(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                            $('> ul.dropdownmenu > li:not(.touch-active) > a[data-navid]', menuContainer).next().css('display', 'none');
+                            $('> ul.dropdownmenu > li.touch-active > a[data-navid]', menuContainer).next().css('display', 'block');
+
+                            event.preventDefault();
+                        }
+                            // Menu is selected
+                        else {
+                            if (inFirstLevel) {
+                                // non clickable
+                                if (currentLevelAnchor.attr('href') == undefined) {
+                                    //has class touch-active and no link
+                                    removeClassAndHideMenu();
+                                    event.preventDefault();
+                                } else if ($(this).attr("data-href")) { //clickable, but href have been moved to data.
+                                    $(this).attr("href", $(this).attr("data-href"));
+                                }
+                            }
+                            else {
+                                if (isMegaMenu)
+                                    return true;
+
+                                if (!currentLeveLi.hasClass('touch-active')) {
+                                    if ($(this).attr("href")) {
+                                        $(this).attr("data-href", $(this).attr("href"));
+                                        $(this).attr("href", "javascript:void(0);");
+                                    }
+                                    $(firstLevelLi).find('.touch-active').removeClass('touch-active').not(currentMenu).removeClass('active');
+                                    currentLeveLi.parent().children("li._current").removeClass("_current");
+                                    currentLeveLi.addClass('touch-active active _current');
+
+                                    currentLevelAnchor.addClass('touch-active active');
+
+                                    //$(' li:not(.touch-active)', menuContainer).not(firstLevelLi).removeClass('_current');    
+                                    //$(' li:not(.touch-active) li', menuContainer).not(currentLeveLi).removeClass('_current');
+
+                                    $(' li:not(.touch-active) > a[data-navid]', currentLeveLi.parent()).next().css('display', 'none');
+                                    $('> li.touch-active > a[data-navid]', currentLeveLi.parent()).next().css('display', 'block');
+
+                                    event.preventDefault();
+                                } else {
+                                    if (currentLevelAnchor.attr('href') == undefined) {
+                                        //has class touch-active and no link
+                                        removeClassAndHideMenu();
+                                        event.preventDefault();
+                                    } else if ($(this).attr("data-href")) {
+                                        $(this).attr("href", $(this).attr("data-href"));
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                });
+            }
+        }
+
+
+
+        function removeClassAndHideMenu() {
+            $(menuContainer).find('a.touch-active, li.touch-active').removeClass('touch-active active');
+            $('> ul.dropdownmenu > li > a[data-navid]', menuContainer).next().css('display', 'none');
+            // If we don't change the menu item, we should keep the old one.
+            if ($('> ul.dropdownmenu > li.active', menuContainer).length == 0) {
+                currentMenu.addClass("active");
+            }
+        }
+
+        $('body').bind(eventName, function (event) {
+            if (isTouchScreenEvent(event) == false) {
+                return true;
+            }
+            if (!$(event.target).closest('li.touch-active').length) {
+                removeClassAndHideMenu();
+            }
+        });
+    }
+    //);
+</script>
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+    <div class="home_item2">
+        
+<div id="ColumnUserControl2" class="column   home_collage clearfix flexslider  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="190"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+<ul class="slides clearfix">
+		<li>
+<a  target="_self" title="CITY HALL IS CLOSED TO THE PUBLIC
+">
+    <img src="/Home/ShowPublishedImage/278/637096236372030000" alt="1">
+</a>
+    <div class="container">
+        <div class="slide_content sr">
+            <h2 class="slide_title"><a  target="_self">CITY HALL IS CLOSED TO THE PUBLIC
+</a></h2>
+                    <p class="slide_description">
+                Phones will be answered Monday-Thursday from 10am-2pm at 
+425-398-8900
+                
+            </p>
+        </div>
+    </div>
+</li>
+		<li>
+<a  target="_self" title="CITY HALL IS CLOSED TO THE PUBLIC">
+    <img src="/Home/ShowPublishedImage/280/637096236377030000" alt="2">
+</a>
+    <div class="container">
+        <div class="slide_content sr">
+            <h2 class="slide_title"><a  target="_self">CITY HALL IS CLOSED TO THE PUBLIC</a></h2>
+                    <p class="slide_description">
+                Phones will be answered Monday-Thursday from 10am-2pm at 425-398-8900
+                
+            </p>
+        </div>
+    </div>
+</li>
+		<li>
+<a  target="_self" title="CITY HALL IS CLOSED TO THE PUBLIC">
+    <img src="/Home/ShowPublishedImage/282/637096236382370000" alt="3">
+</a>
+    <div class="container">
+        <div class="slide_content sr">
+            <h2 class="slide_title"><a  target="_self">CITY HALL IS CLOSED TO THE PUBLIC</a></h2>
+                    <p class="slide_description">
+                Phones will be answered Monday-Thursday from 10am-2pm at 425-398-8900
+                
+            </p>
+        </div>
+    </div>
+</li>
+		<li>
+<a  target="_self" title="CITY HALL IS CLOSED TO THE PUBLIC
+Receptionists are on site to answer phone calls from 10am - 2pm on Mondays and Wednesdays">
+    <img src="/Home/ShowPublishedImage/284/637096236387830000" alt="4">
+</a>
+    <div class="container">
+        <div class="slide_content sr">
+            <h2 class="slide_title"><a  target="_self">CITY HALL IS CLOSED TO THE PUBLIC
+Receptionists are on site to answer phone calls from 10am - 2pm on Mondays and Wednesdays</a></h2>
+                    <p class="slide_description">
+                Phones will be answered Monday-Thursday from 10am-2pm at 425-398-8900
+                
+            </p>
+        </div>
+    </div>
+</li>
+</ul>
+<div class="flex-control-nav-container"></div>
+<script>
+	$(function() {
+      if($('.home_collage').data('flexslider')) {
+    		$('.home_collage').removeData("flexslider");
+      }
+     $('.home_collage').flexslider({
+   		//uncomment if using slideshow: true
+        //pausePlay: true,
+        directionNav: true,
+	    controlNav: false,
+	    smoothHeight: true,
+	    animation: "fade",
+	    slideshow: false,
+        prevTitle: "Click to tab to the left",
+        nextTitle: "Click to tab to the right",
+	    slideshowSpeed: 7*1000,
+	    controlsContainer: $(".flex-control-nav-container")
+	 });
+        	
+	});
+</script>
+<noscript>
+	
+<a  target="_self" title="CITY HALL IS CLOSED TO THE PUBLIC
+">
+    <img src="/Home/ShowPublishedImage/278/637096236372030000" alt="1">
+</a>
+    <div class="container">
+        <div class="slide_content sr">
+            <h2 class="slide_title"><a  target="_self">CITY HALL IS CLOSED TO THE PUBLIC
+</a></h2>
+                    <p class="slide_description">
+                Phones will be answered Monday-Thursday from 10am-2pm at 
+425-398-8900
+                
+            </p>
+        </div>
+    </div>
+
+</noscript>
+ 
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+    </div>
+    <div class="home_item3">
+        <div class="container">
+            
+<div id="ColumnUserControl3" class="column   home_buttons clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="191"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+    <ul class="buttons-list">    
+		    <li class="buttons-list-item sr" data-src='/Home/ShowPublishedImage/258/637096228736030000' data-hover-src='/Home/ShowPublishedImage/260/637096228740730000' >
+                
+
+<a class="button-link" href='/government/city-council' target="_self">
+    <img class="button-img" src="/Home/ShowPublishedImage/258/637096228736030000" alt="1" />
+    <span class="button-text">City Council</span>
+</a>
+            </li>
+		    <li class="buttons-list-item sr" data-src='/Home/ShowPublishedImage/262/637096228745730000' data-hover-src='/Home/ShowPublishedImage/264/637096228750730000' >
+                
+
+<a class="button-link" href='/government/departments/development-services/permits' target="_self">
+    <img class="button-img" src="/Home/ShowPublishedImage/262/637096228745730000" alt="2" />
+    <span class="button-text">Permits</span>
+</a>
+            </li>
+		    <li class="buttons-list-item sr" data-src='/Home/ShowPublishedImage/266/637096228755730000' data-hover-src='/Home/ShowPublishedImage/268/637096228760900000' >
+                
+
+<a class="button-link" href='/our-city/where-s-the-fun' target="_self">
+    <img class="button-img" src="/Home/ShowPublishedImage/266/637096228755730000" alt="3" />
+    <span class="button-text">Where's the Fun?!</span>
+</a>
+            </li>
+		    <li class="buttons-list-item sr" data-src='/Home/ShowPublishedImage/270/637096228766200000' data-hover-src='/Home/ShowPublishedImage/272/637096228771370000' >
+                
+
+<a class="button-link" href='/i-want-to/report-a-concern' target="_self">
+    <img class="button-img" src="/Home/ShowPublishedImage/270/637096228766200000" alt="4" />
+    <span class="button-text">Comments & Concerns</span>
+</a>
+            </li>
+		    <li class="buttons-list-item sr" data-src='/Home/ShowPublishedImage/274/637096228776500000' data-hover-src='/Home/ShowPublishedImage/276/637096228781830000' >
+                
+
+<a class="button-link" href='/our-city/current-projects' target="_self">
+    <img class="button-img" src="/Home/ShowPublishedImage/274/637096228776500000" alt="5" />
+    <span class="button-text">Current Projects</span>
+</a>
+            </li>
+    </ul>
+
+    <script>
+       
+        $(function () {
+            $(".home_buttons li")
+            .mouseover(function () {
+                $(this).find("img").attr("src", $(this).attr("data-hover-src"));
+            })
+            .mouseout(function () {
+                $(this).find("img").attr("src", $(this).attr("data-src"));
+            });
+        })
+                            
+    </script>
+	 
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+        </div>
+    </div>
+    <div class="home_item4">
+        <div class="container">
+            
+<div id="ColumnUserControl4" class="column   home_spotlight clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="192"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+    <!--<h2 class="spotlight_header">In The Spotlight</h2>-->
+    <div class="flexslider">
+        <ul class="slides">
+        	    <li>
+                    <div class="image_frame"><img src="/Home/ShowPublishedImage/1637/637328458284270000" alt="Hank Newspaper (Spotlight page)" /></div>
+                    <h2>eNews: Balancing Act Budget Tool | Update on ADU Code | Free Masks</h2>
+                    <p></p>
+                        <a href="/?splash=https%3a%2f%2flnks.gd%2f2%2fL8j8wZ&____isexternal=true" target="_blank" class="box_bottomlink">See More</a>
+            	</li>
+        	    <li>
+                    <div class="image_frame"><img src="/Home/ShowPublishedImage/1299/637273826171230000" alt="Flyaway 5k - Square" /></div>
+                    <h2>Flyaway 5K Virtual Run</h2>
+                    <p></p>
+                        <a href="/our-city/special-events" target="_self" class="box_bottomlink">See More</a>
+            	</li>
+        	    <li>
+                    <div class="image_frame"><img src="/Home/ShowPublishedImage/1367/637275790695030000" alt="kenmore quarterly cover summer 2020- square" /></div>
+                    <h2>Kenmore Quarterly News: Summer 2020</h2>
+                    <p></p>
+                        <a href="https://en.calameo.com/read/00627736983cef5cfc44f" target="_blank" class="box_bottomlink">See More</a>
+            	</li>
+        </ul>
+    </div>
+    <script>
+        $(function(){
+            $('.home_spotlight').flexslider({
+                controlNav: false,
+                directionNav: true
+            });
+        })
+    </script>
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+        </div>
+    </div>
+    <div class="home_item5">
+        <div class="container">
+        
+<div id="ColumnUserControl9" class="column   home_news clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="193"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+<h2>News</h2>
+
+<div class="slick_content">
+      
+
+
+<div class="item">
+	<a href="/Home/Components/News/News/64/301" class="news-item">
+			<div class="image_frame"><img alt="Press Release: Kenmore’s Financial Sustainability Plan Task Force will present recommendations to City Council to balance Kenmore’s budget  for the next six years" src="/Home/ShowPublishedImage/1607/637321588719730000"/></div>
+		<div class="item_info">
+            <p class="box_item_title">Press Release: Kenmore’s Financial Sustainability Plan Task Force will present recommendations to City Council to balance Kenmore’s budget  for the next six years</p>
+            <p class="box_item_summary">At the end of August, Kenmore’s Financial Sustainability Plan Task Force completed months of work of considering data and public input to develop a plan to balance the City of Kenmore’s budget for the next six years.</p>
+        </div>
+    </a>
+</div>
+
+
+<div class="item">
+	<a href="/Home/Components/News/News/62/301" class="news-item">
+			<div class="image_frame"><img alt="Press Release: Kenmore City Council Will Hold Public Hearing Regarding Removal of Restrictive Covenant at Squire’s Landing Park to Allow Proposed Active Recreation Improvements" src="/Home/ShowPublishedImage/1645/637330259449400000"/></div>
+		<div class="item_info">
+            <p class="box_item_title">Press Release: Kenmore City Council Will Hold Public Hearing Regarding Removal of Restrictive Covenant at Squire’s Landing Park to Allow Proposed Active Recreation Improvements</p>
+            <p class="box_item_summary"></p>
+        </div>
+    </a>
+</div>
+
+
+<div class="item">
+	<a href="/Home/Components/News/News/60/301" class="news-item">
+			<div class="image_frame"><img alt="Press Release: City Manager Halts Acquisition Process of Property Located at 7023 NE 175th Street" src="/Home/ShowPublishedImage/1645/637330259449400000"/></div>
+		<div class="item_info">
+            <p class="box_item_title">Press Release: City Manager Halts Acquisition Process of Property Located at 7023 NE 175th Street</p>
+            <p class="box_item_summary">Public Works Facility Search Continues</p>
+        </div>
+    </a>
+</div>
+
+</div>
+
+<a href="/our-city/city-news" class="box_bottomlink">All News</a>
+
+<script>
+    $(function(){
+        
+        $('.home_news .slick_content').slick({
+        dots: false,
+        infinite: false,
+        speed: 500,
+        slidesToShow: 3,
+        slidesToScroll: 3,
+        arrows: true,
+        responsive: [{
+            breakpoint: 992,
+            settings: {
+                slidesToShow: 3,
+                slidesToScroll: 3
+            }
+        }, {
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        },
+
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }]
+    });
+
+    })
+    
+</script>
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+        </div>
+    </div>
+    <div class="home_item6">
+        <div class="container">
+        
+<div id="ColumnUserControl5" class="column   home_events clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="269"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+<h2>Events</h2>
+
+  
+ 
+
+	<div class="slick_content">
+	 
+                <div class="slick_multiple_items item"> 
+
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/152/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">12</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Kenmore Fly Away 5K</p>
+            <p class="box_item_summary">All Day</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/347/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">16</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Business Acceleration Training Session 1</p>
+            <p class="box_item_summary">06:00 PM - 08:00 PM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/159/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">19</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council - 3rd Saturday</p>
+            <p class="box_item_summary">08:00 AM - 09:00 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/349/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">23</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Business Acceleration Training Session 2</p>
+            <p class="box_item_summary">06:00 PM - 08:00 PM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/351/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">30</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Business Acceleration Training Session 3</p>
+            <p class="box_item_summary">06:00 PM - 08:00 PM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/161/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Oct</div>
+            <div class="datebox-number">05</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>        	        </div> 
+                <div class="slick_multiple_items item"> 
+
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/353/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Oct</div>
+            <div class="datebox-number">07</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Business Acceleration Training Session 4</p>
+            <p class="box_item_summary">06:00 PM - 08:00 PM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/140/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">02</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/283/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">11</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">VETERANS DAY - City Hall Closed</p>
+            <p class="box_item_summary">All Day</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/285/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">26</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">THANKSGIVING - City Hall Closed</p>
+            <p class="box_item_summary">All Day - until Nov, 27</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/170/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Dec</div>
+            <div class="datebox-number">07</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/287/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Dec</div>
+            <div class="datebox-number">25</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">CHRISTMAS - City Hall Closed</p>
+            <p class="box_item_summary">All Day</p>
+        </div>
+    </a>
+</div>        	        </div> 
+                <div class="slick_multiple_items item"> 
+
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/168/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Jan</div>
+            <div class="datebox-number">04</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/165/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Feb</div>
+            <div class="datebox-number">01</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/174/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Mar</div>
+            <div class="datebox-number">01</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/176/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Apr</div>
+            <div class="datebox-number">05</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/182/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">May</div>
+            <div class="datebox-number">03</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/190/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Jun</div>
+            <div class="datebox-number">07</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>        	        </div> 
+                <div class="slick_multiple_items item"> 
+
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/187/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Jul</div>
+            <div class="datebox-number">05</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>
+
+<div class="item">
+    <a href="/Home/Components/Calendar/Event/185/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Aug</div>
+            <div class="datebox-number">02</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Virtual Coffee With Council</p>
+            <p class="box_item_summary">07:30 AM - 08:30 AM</p>
+        </div>
+    </a>
+</div>	   	        </div> 
+	</div>
+	<a class="box_bottomlink" href="/our-city/advanced-components/list-detail-pages/calendar-meeting-list">All Events</a>
+
+
+
+<script>
+    $(function(){
+        $('.home_events .slick_content').slick({
+        dots: false,
+        infinite: false,
+        speed: 500,
+         slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true,
+        prevArrow:"<button class='slick-prev slick-arrow'><span>Previous</span></button>",
+        nextArrow:"<button class='slick-next slick-arrow'><span>Next</span></button>",
+        responsive: [{
+            breakpoint: 1020,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }, {
+            breakpoint: 720,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        },
+        
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }, {
+            breakpoint: 540,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }, {
+            breakpoint: 365,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }]
+    });
+    
+    $('.home_events .slick-arrow').hover(function(){
+        $(this).removeClass('hoverout');
+        $(this).addClass('hover');
+    },function(){
+         $(this).removeClass('hover');
+        $(this).addClass('hoverout');
+    })
+    
+    })
+</script>
+
+<script type="text/javascript">
+    $(function() {
+        
+    })
+</script>
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+        </div>
+    </div>
+    <div class="home_item7">
+        <div class="container">
+        
+<div id="ColumnUserControl11" class="column   home_data clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="270"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+<div class="home-data-container">
+<h2 class="home-data-header">KENMORE BY THE NUMBERS</h2>
+
+<div class="home-data-content clearfix">    
+	    <div class="home-data-box animate">
+            
+
+ 
+<div class="data-image-frame">
+    <img src="/Home/ShowPublishedImage/294/637099021566430000" alt="one" class="data-image">
+</div>
+<a href='/home' target="_self" title="23,320 Population" class="data-link">
+    <p class="data-number">
+        <span class="data-count" data-end="23320">0</span>
+    </p>
+    <p class="data-desc">Population</p>
+</a>
+
+        </div>
+	    <div class="home-data-box animate">
+            
+
+ 
+<div class="data-image-frame">
+    <img src="/Home/ShowPublishedImage/298/637099021576600000" alt="two" class="data-image">
+</div>
+<a href='/home' target="_self" title="81.7%
+ Census Self-Response " class="data-link">
+    <p class="data-number">
+        <span class="data-count" data-end="81.7">0</span>%
+
+    </p>
+    <p class="data-desc">Census Self-Response </p>
+</a>
+
+        </div>
+	    <div class="home-data-box animate">
+            
+
+ 
+<div class="data-image-frame">
+    <img src="/Home/ShowPublishedImage/296/637099021571900000" alt="three" class="data-image">
+</div>
+<a href='/home' target="_self" title="11,946 Employed" class="data-link">
+    <p class="data-number">
+        <span class="data-count" data-end="11946">0</span>
+    </p>
+    <p class="data-desc">Employed</p>
+</a>
+
+        </div>
+</div>
+
+
+<script>
+    $(document).ready(function ()
+        {
+        
+        function isScrolledIntoView(el) {
+            var elemTop = el.getBoundingClientRect().top;
+            var elemBottom = el.getBoundingClientRect().bottom;
+        
+            var isVisible = (elemTop >= 0) && (elemBottom <= window.innerHeight);
+            return isVisible;
+        }
+        var scrollEventHandler = function() {
+	        if(isScrolledIntoView(document.getElementsByClassName('data-link')[0])) {
+  	        function commaSeparateNumber(val) {
+                while (/(\d+)(\d{3})/.test(val.toString())) {
+                    val = val.toString().replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1,");
+                }
+                return val;
+            }
+        
+            var flag = 0;
+        
+            //boxes
+            $(".home-data-box").addClass("animate");
+    
+            //counter
+            $('.data-count').each(function () {
+                var $this = $(this),
+                  countTo = $this.attr('data-end');
+                $({ countNum: $this.text() }).animate({ countNum: countTo }, {
+                    duration: 4000,
+                    easing: 'swing',
+                    step: function () {
+                        $this.text(Math.floor(this.countNum));
+                    },
+                    complete: function () {
+                        $this.text(commaSeparateNumber(this.countNum));
+                        flag = 1;
+                    }
+                });
+            });
+            unbindScrollEventHandler();
+        } 
+    }
+    
+    function unbindScrollEventHandler() {
+	    $(document).unbind('scroll', scrollEventHandler);
+    }
+    $(window).load(scrollEventHandler);
+    $(document).scroll(scrollEventHandler);
+});
+</script>
+</div> 
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+       </div>
+    </div>
+    <div class="home_item_mobile"> 
+        
+<div id="ColumnUserControl13" class="column   home_mobile_buttons clearfix  "  >
+    <!--!!WidgetStart, vi-orderdata="0"  vi-hideonmobile="false" vi-widgetinstancedata="196"WidgetStart!!-->    
+
+                <!--stopindex-->
+                
+
+
+    <ul class="mobile-buttons-list">
+        <!--empty <li>s needed to create desired alignment of last row when not full--->
+        <li class="mobile-buttons-item"></li>
+        <li class="mobile-buttons-item"></li>
+        <li class="mobile-buttons-item"></li>
+        <li class="mobile-buttons-item"></li>
+        <li class="mobile-buttons-item"></li>
+        <li class="mobile-buttons-item"></li>
+    </ul>
+	
+
+
+
+
+                
+                <!--startindex-->
+                <!--!!WidgetEnd-->
+
+    
+</div>
+
+    </div>
+    <script src="/Project/Contents/Main/scripts/slick.min.js"></script>
+
+    <script src="/Project/Contents/Main/scripts/scrollreveal.min.js"></script>
+
+    <script src="/Project/Contents/Main/homelayout_scripts.js"></script>
+   
+    <script src="/Project/Contents/Main/bootstrap/bootstrap.min.js"></script>
+   
+</div>
+
+        <footer id="page_footer" class="">
+            <!--stopindex-->
+            
+<div id="footercolumn" class="site_template_column  footer_column   " >
+
+                <!--stopindex-->
+                  
+
+    <div class="footer_address">
+	   
+               <h2>City of Kenmore</h2>
+<a href="/our-city/map-and-directions">18120 68th Ave NE<br>
+Kenmore, WA 98028</a><a href="/our-city/map-and-directions"><br>
+</a><a href="/our-city/map-and-directions">425-398-8900</a>         
+                    </div>
+	   
+ 
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                  
+
+<div class="footer_nav">
+		<a href="/our-city/map-and-directions" target="_self">Map and Directions</a>		
+		<a href="/government/departments/finance-administration/working-with-the-city/job-opportunities" target="_self">Apply For Jobs</a>		
+		<a href="/our-city/terms-of-use" target="_self">Terms of Use</a>		
+		<a href="/our-city/sitemap" target="_self">Site Map</a>		
+		<a href="/our-city/calendar" target="_self">City Calendar</a>		
+		<a href="/government/city-council" target="_self">Connect with City Council</a>		
+		<a href="/i-want-to/report-a-concern" target="_self">Report a Concern</a>		
+		<a href="/business/relocate-launch-your-business" target="_self">Relocate Your Business</a>		
+		<a href="/our-city/about-kenmore/city-data-demographics" target="_self">Data and Demographics</a>		
+		<a href="/government/staff-directory" target="_self">Staff Directory</a>		
+</div>
+                <!--startindex-->
+            
+
+                <!--stopindex-->
+                
+
+<div class="social_icons">
+
+            <a href="/?splash=https%3a%2f%2fwww.facebook.com%2fkenmorewa%2f&____isexternal=true" target="_self" title="" data-src='/Home/ShowPublishedImage/242/637096220817200000' data-hover-src='/Home/ShowPublishedImage/244/637096220822500000'>
+                <img src="/Home/ShowPublishedImage/242/637096220817200000" alt="footer-fb">
+            </a>
+            <a href="/?splash=https%3a%2f%2ftwitter.com%2fkenmorewa&____isexternal=true" target="_self" title="" data-src='/Home/ShowPublishedImage/254/637096220847030000' data-hover-src='/Home/ShowPublishedImage/256/637096220852200000'>
+                <img src="/Home/ShowPublishedImage/254/637096220847030000" alt="footer-tw">
+            </a>
+            <a href="/?splash=https%3a%2f%2fwww.instagram.com%2fcityofkenmorewa%2f&____isexternal=true" target="_self" title="" data-src='/Home/ShowPublishedImage/246/637096220827370000' data-hover-src='/Home/ShowPublishedImage/248/637096220832200000'>
+                <img src="/Home/ShowPublishedImage/246/637096220827370000" alt="footer-ig">
+            </a>
+            <a href="/?splash=https%3a%2f%2fnextdoor.com%2fagency-detail%2fwa%2fkenmore%2fcity-of-kenmore%2f&____isexternal=true" target="_self" title="" data-src='/Home/ShowPublishedImage/250/637096220837030000' data-hover-src='/Home/ShowPublishedImage/252/637096220842200000'>
+                <img src="/Home/ShowPublishedImage/250/637096220837030000" alt="footer-nd">
+            </a>
+            <a href="/?splash=https%3a%2f%2fwww.youtube.com%2fchannel%2fUC5M2Jyz38UIea_Q-RKXE0og&____isexternal=true" target="_self" title="" data-src='/Home/ShowPublishedImage/1478/637287512841970000' data-hover-src='/Home/ShowPublishedImage/1480/637287512846330000'>
+                <img src="/Home/ShowPublishedImage/1478/637287512841970000" alt="footer-yt@2x">
+            </a>
+</div>
+
+    <script>
+        $(function () {
+            $(".social_icons a")
+            .mouseover(function () {
+                $(this).find("img").attr("src", $(this).attr("data-hover-src"));
+            })
+            .mouseout(function () {
+                $(this).find("img").attr("src", $(this).attr("data-src"));
+            });
+        })
+    </script>
+
+<p class="footer_copyright">Created By <a href="//www.granicus.com/">Granicus</a> - Connecting People and Government</p>
+                <!--startindex-->
+            
+
+</div>
+
+            <!--startindex-->
+        </footer>
+        
+    </div>
+</div>
+
+<script src="/Project/Contents/Main/mobile_nav_scripts.js" type="text/javascript"></script>
+
+<script src="/Project/Contents/Main/sitelayout_scripts.js" type="text/javascript"></script>
+    
+    <script>
+        $(function () {
+            $(".reComment[comment]").removeClass("reComment")
+                                    .removeAttr("comment")
+                                    .removeAttr("author")
+                                    .removeAttr("title")
+                                    .removeAttr("timestamp");
+        })
+    </script>
+    
+
+    
+
+    <script src="/Scripts/ScriptBundleVisionFrontend.jsbnd?v=WWNJZ9SaVFlWLPpRUbGvj_UUtP7tjoMCKedJt4g5z3s1"></script>
+
+
+    
+    
+    <script>
+        try { manualRenderMobile(); } catch (err) {}
+    </script>
+    
+    
+    <script src="/Scripts/Components/ScriptsFEBundle.jsbnd?v=DfCheCkfQMyVRQ54roqWjDiD8YP5vK1eHdrpyN5Pqmo1"></script>
+
+    <script>
+        $(function() {
+            var sitewrapper = $(".sitewrapper");
+            if(sitewrapper.length && !sitewrapper.hasClass("")) {
+                sitewrapper.addClass("");
+            }          
+        });
+    </script>   
+
+
+    
+</body>
+</html>

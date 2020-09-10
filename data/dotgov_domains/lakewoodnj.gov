@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/township.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>: Township of Lakewood</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<script src="/includes/jquery.js" type="text/javascript"></script>
+<script src="/includes/slider.js" type="text/javascript"></script>
+<script src="/includes/jquery.expander.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  $('div.text').expander({
+    slicePoint:       650,  // default is 100
+    expandText:         'Read More', // default is 'read more...'
+    collapseTimer:    0, // re-collapses after 5 seconds; default is 0, so no re-collapsing
+    userCollapseText: '&laquo; Less'  // default is '[collapse expanded text]'
+  });
+  
+  $('div.expandable p').expander({
+    slicePoint:       150,  // default is 100
+    expandText:         '<div>Read More</div>', // default is 'read more...'
+    collapseTimer:    0, // re-collapses after 5 seconds; default is 0, so no re-collapsing
+    userCollapseText: 'Less'  // default is '[collapse expanded text]'
+  });
+  
+});
+</script>
+
+<!-- InstanceEndEditable -->
+<link href="https://www.duvys.com/css/reset-min.css" rel="stylesheet" type="text/css" />
+<link href="/style.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+<link href="/style-ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<div class="topblue"></div>
+<div class="mainbg"><div class="wrapper">
+	    <!--[if lt IE 7]>
+     <div class="iemessage"><h2>Time to upgrade your browser</h2>
+      If you're reading this, you're surfing using Internet Explorer 6, an eight-year-old browser that cannot cope with the demands of the modern internet. For the best web experience, we strongly recommend upgrading to <a href="http://www.getfirefox.com/">Firefox</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, or a more recent version of <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer</a>.
+</div>
+<![endif]--><div id="top"><script language='JavaScript' type="text/javascript">
+	function toggleField(el,isBlur){
+	
+	origValue = el.value;
+
+	if(el.id == el.value){
+		el.value = '';
+	} else {
+		el.value = origValue;
+	}
+
+	if(el.value == '' && isBlur){
+		el.value = el.id;
+	}
+
+	}
+</script>
+<div class="logo"><a href="https://www.lakewoodnj.gov/index.php"><img src="/images/logo_lakewood-township.gif" width="414" height="111" alt="Township of Lakewood" /></a></div>
+<div class="right">
+	<div class="search">
+	<form id="cse-search-box" action="search.php"  onsubmit="return submitQuery()">
+<input type="hidden" name="cx" value="006523803227150620750:4qshycrauim" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input name="q" type="text" id="Search" class="textfield" placeholder="Search">
+</form>
+
+    	</div>
+    <div id="nav"><!--div class="survey"><a href="https://www.surveymonkey.com/r/ZJS9P36" target="_blank">Take our Survey</a></div--><ul><li><a href="https://www.lakewoodnj.gov/index.php">Home</a></li>
+<li class="buttonon"><a href="https://www.lakewoodnj.gov/departments.php">Departments</a></li>
+<li><a href="https://www.lakewoodnj.gov/visitors.php">Visitors</a></li>
+<li><a href="https://www.lakewoodnj.gov/news.php">News/Events</a></li>
+<li><a href="https://www.lakewoodnj.gov/resources.php">Resources</a></li>
+<li><a href="https://www.lakewoodnj.gov/contactlt.php">Contact</a></li></li></div>
+</div></div>
+    <div id="center"><!-- InstanceBeginEditable name="center" -->
+ 
+   
+<div id="deptdetail">
+   <div class="deppad">
+  
+       <h1 class="error"> No Listing Found</h1>
+ 
+
+     </div>
+ </div><!-- InstanceEndEditable --></div>
+    <div id="footer"><div class="links">
+<div class="column"><div class="title"><a href="/departments.php">Departments</a></div>
+<a href="/section/government">Government</a><br />
+<a href="/section/emergency">Emergency Services</a><br />
+<a href="/section/construction">Planning/Construction</a><br />
+<a href="/section/economic">Economic Development</a><br />
+<a href="/department/public_works">Public Works Department</a><br />
+<a href="/department/municipal_court">Municipal Court</a><br />
+&nbsp;</div>
+<div class="column"><div class="title titlecenter"><a href="/visitors.php">Visitors</a></div>
+<div class="subcol"><a href="/visitors.php">Visitors Information</a><br />
+<a href="/history.php">History of Lakewood</a><br />
+<a href="/images/pdf/visitor_guide.pdf">Download Visitor Guide</a><br />
+<a href="/education.php">Education</a><br />
+<a href="/parks.php">Parks & Recreation</a><br />
+</div>
+<div class="subcol"><a href="/health.php">Health</a><br />
+<a href="/travel.php">Travel</a><br />
+<a href="/cultural_historical.php">Cultural & Historical</a><br />
+<a href="/faith.php">Faith & Spirituality</a><br />
+<a href="/music.php">Music & Performance</a><br />&nbsp;
+</div>
+</div>
+<div class="column"><div class="title"><a href="/news.php">News</a></div>
+  <a href="/news.php">News</a><br />
+  <a href="/news.php">Calendar</a><br />
+  <a href="/news.php#press">Press Releases</a><br />
+   <a href="/news.php#press">Legal Notices</a><br />
+   <a href="/news.php#press">Local Events</a><br />
+   </div>
+<div class="column noborder">
+  <div class="title titlecenter"><a href="/resources.php">Resources</a></div>
+<div class="subcol"><a href="/forms.php">Downloads Center</a><br />
+<a href="/faq.php">Frequently Asked Questions</a><br />
+<a href="/business_detail.php">Assistance for Businesses</a><br />
+<a href="/business_detail.php#directory">Businesses in Lakewood</a><br />
+<a href="/business_detail.php#commerce">Chamber of Commerce</a><br />
+<a href="/business_detail.php#industrial">Lakewood Industrial Parks</a><br />
+<a href="/forms.php#clerk">Applications & Permits</a><br />
+<a href="/resource-financial.php">Financial Resources</a><br />
+</div>
+<div class="subcol">
+<!--a href="/images/pdf/township_ordinances.pdf" target="_blank">Township Ordinances</a><br /-->
+
+<a href="/resource-community.php">Community Resources</a><br />
+<a href="/maps.php">Township Maps</a><br />
+<a href="/voting_districts.php">Voting Districts</a><br />
+<a href="/newsletter.php">Lakewood Newsletter</a><br />
+<a href="/contactlt.php#phonenumbers">Phone Numbers & Links</a><br />
+<a target="_blank" href="https://ecode360.com/35457743" >Township Code </a><br />
+<a target="_blank" href="https://ecode360.com/LA4064" style="line-height:12px;">Unified Development<br />Ordinance – Chap. 18 </a><br />
+<a target="_blank" href="https://clerkshq.com/lakewood-nj" >Board of Health Code</a><br />
+<a target="_blank" href="https://clerkshq.com/lakewood-nj" style="line-height:12px;">
+Ordinances Pending<br />Codification</a></div> 
+</div>
+<div class="clear"></div>
+<div class="disclaimer" align="center"><a href="/disclaimer.php">Website Disclaimer</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href="/contactlt.php">Contact Us</a>&nbsp; &nbsp;|&nbsp; &nbsp;<a href="/search.php">Search</a></div>
+  </div>
+<div class="info"><div class="title">Lakewood Township</div>Phone: 732-364-2500<br />
+Fax: 732-901-3647<br />
+Hours: Mon - Fri 9 AM - 5 PM<br /><br />
+Municipal Building<br />
+231 Third Street<br />
+Lakewood, NJ 08701
+</div></div>
+    <div id="copy">&copy; 2020 <a href="https://www.lakewoodnj.gov//">Lakewood Township</a> All Rights Reserved &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.duvys.com" target="_blank">Website by Duvys Media</a>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5059860-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- POPUP INVITATION -->
+<!--script>(function(t,e,s,o){var n,a,c;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),a=n[n.length-1],c=e.createElement(s),c.type="text/javascript",c.async=!0,c.id=o,c.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd5Hh2nmgQJGCR_2B0s5cmAqygBrTYCjalktoGMfpi_2FAG8o.js"].join(""),a.parentNode.insertBefore(c,a))})(window,document,"script","smcx-sdk");</script-->
+<!-- POPUP SURVEY -->
+<!--script>(function(t,e,s,o){var n,c,l;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),c=n[n.length-1],l=e.createElement(s),l.type="text/javascript",l.async=!0,l.id=o,l.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd5dFZUMlginjfQBvO6uA4_2BswNyhY_2FKzVdqD_2BTivmhboq.js"].join(""),c.parentNode.insertBefore(l,c))})(window,document,"script","smcx-sdk");</script--></div>
+</div></div>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head">
+<!--**********************************************************************************-->
+<!-- DotNetNuke - http://www.dotnetnuke.com                                          -->
+<!-- Copyright (c) 2002-2012                                                          -->
+<!-- by DotNetNuke Corporation                                                        -->
+<!--**********************************************************************************-->
+<title>
+	Connersville Community
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><meta content="text/javascript" http-equiv="Content-Script-Type" /><meta content="text/css" http-equiv="Content-Style-Type" /><meta id="MetaKeywords" name="KEYWORDS" content=",DotNetNuke,DNN" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2020 by DotNetNuke Corporation" /><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " /><meta id="MetaAuthor" name="AUTHOR" content="Connersville Community" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><style id="StylePlaceholder" type="text/css"></style><link href="/Portals/_default/default.css?cdv=65" type="text/css" rel="stylesheet"/><link href="/DesktopModules/UltraMediaGallery/module.css?cdv=65" type="text/css" rel="stylesheet"/><link href="/DesktopModules/Reports/module.css?cdv=65" type="text/css" rel="stylesheet"/><link href="/Portals/0/Skins/CC-2012/skin.css?cdv=65" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DarkKnight/container.css?cdv=65" type="text/css" rel="stylesheet"/><link href="/Portals/0/portal.css?cdv=65" type="text/css" rel="stylesheet"/><script src="/Resources/Shared/Scripts/jquery/jquery.min.js?cdv=65" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery-ui.min.js?cdv=65" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="/DesktopModules/UltraMediaGallery/css/SliderMaster/core.css"></link><link rel="stylesheet" type="text/css" href="/DesktopModules/UltraMediaGallery/css/SliderMaster/ui.css"></link><link rel='SHORTCUT ICON' href='/Portals/0/favicon.ico' type='image/x-icon' />     
+        
+			    <script type="text/javascript">
+			      var _gaq = _gaq || [];
+			      _gaq.push(['_setAccount', 'UA-6029002-1']);
+			      _gaq.push(['_trackPageview']);
+			 
+			      (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			      })();
+			    </script>
+        
+		  <link rel="stylesheet" type="text/css" href="superfish.css"></link><link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2012.2.724.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a3fe22950-1961-4f26-b9d4-df0df7356bf6%3a45085116%3a27c5704c" type="text/css" rel="stylesheet" /></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="" />
+<input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/DesktopModules/UltraMediaGallery/Scripts/jquery.slidermaster.js" type="text/javascript"></script><script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.hoverIntent)) document.write(unescape('%3Cscript src="/Portals/0/Skins/CC-2012/Superfish/hoverIntent.js" type="text/javascript"%3E%3C/script%3E'));</script><script type="text/javascript">if (!(window.jQuery && window.jQuery.fn && window.jQuery.fn.superfish)) document.write(unescape('%3Cscript src="/Portals/0/Skins/CC-2012/Superfish/superfish.js" type="text/javascript"%3E%3C/script%3E'));</script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a2d39c544-8ec0-4a2c-bc21-04e23af02570%3aea597d4b%3ab25378d2%3bTelerik.Web.UI%2c+Version%3d2012.2.724.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a3fe22950-1961-4f26-b9d4-df0df7356bf6%3a16e4e7cd%3af7645509%3aed16cbdc" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="KrijJLiMV7SHsbXxSjR3DvYQRtfAXWACFVmWMM3pdu7jhOGRlJzB9XQsmhY6HuEpf1/s3egqsn2Qntr0VxilXFtJOyZaKkSTHgdka4zi7hcBx9e5S9SGhNoznpNeNIHHmat9VaO2GmECWkstbKXECgnPAn6RCDFcoHU/ARfZhh0ArXs0TkJs4HxB8Vo=" />
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr442$dnn$ctr442$UltraPhotoGallery_UPPanel','dnn_ctr442_dnn$ctr442$UltraPhotoGallery_UPPanel'], [], [], 90, '');
+//]]>
+</script>
+
+        <script src="/js/dnn.modalpopup.js?cdv=65" type="text/javascript"></script><script src="/js/dnncore.js?cdv=65" type="text/javascript"></script>
+        
+        
+
+<script>
+
+    $(function () {
+        var ViewportHeight = $(window).height();
+        var Pinned = false;
+        var DashboardHeight = $('.CSK_Dashboard').height();
+        var TopOffset = (ViewportHeight / 2) - (DashboardHeight / 2);
+        $('.CSK_Dashboard').css("top", TopOffset);
+        $('.CSK_Dashboard_Handle').css("top", (DashboardHeight / 2) - 20);
+
+        $('.CSK_Dashboard h1 a').click(function () {
+            if (Pinned)
+            {
+                $('.CSK_Dashboard h1 a').css('backgroundPosition', 'right 2px');
+                Pinned = false;
+            }
+            else
+            {
+                $('.CSK_Dashboard h1 a').css('backgroundPosition', 'left top');
+                Pinned = true;
+            }
+
+
+        });
+
+        $('.CSK_Dashboard').hover(
+            function () {
+                $('.CSK_Dashboard').stop().animate({ right: 0 }, 300);
+                $('.CSK_Dashboard_Handle').animate({ width: 0, left: 0 }, 300);
+                $('.CSK_Dashboard_Handle').css('borderLeftWidth', '0');
+                $('.CSK_Dashboard_Handle').css('borderRightWidth', '0');
+
+            },
+            function () {
+
+                if (!Pinned) {
+                    $('.CSK_Dashboard').stop().animate({ right: -300 }, 300);
+                    $('.CSK_Dashboard_Handle').stop().animate({ width: 40, left: -42 }, 300);
+                    $('.CSK_Dashboard_Handle').css('borderLeftWidth', 1);
+                    $('.CSK_Dashboard_Handle').css('borderRightWidth', 1);
+                }
+            }
+        );
+
+
+    });
+
+    //$('#CSK_Dashboard')
+
+</script>
+
+<style>
+    .CSK_Dashboard {
+        position: fixed;
+        width: 276px;
+        z-index: 20000000;
+        right: -300px;
+        background: #f1f1f1;
+        border: 1px solid #d1d1d1;
+        border-left: 1px solid #d1d1d1;
+        border-right: medium none;
+        padding: 12px;
+    }
+
+        .CSK_Dashboard h1 {
+            border-bottom: 1px dotted #D1D1D1;
+            font-size: 22px;
+            line-height: normal;
+            margin: 0 0 6px;
+            padding: 0 0 3px;
+        }
+
+            .CSK_Dashboard h1 a {
+                background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAB50RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNS4xqx9I6wAAABZ0RVh0Q3JlYXRpb24gVGltZQAxMS8zMC8xMsS1xvcAAAH2SURBVEiJvdU9aBRRFAXgbzcmxMSIUZJGtLKyEatgYVRsdgorsYiNdoKInVooiEUgmEoCgoJFKi1EweZ1qQLiDwixtBFB8C+bxMRkyWZ3LOatbhKdDQp7mjfz5p455953504hTVOQJMkNnMJHdCOEECZsAYt3DqpX5tVWV6il6lXSOivzCy68L51F3+ShF/cGx8qbuIU0TSVJsg9TeI3T6MQXHAghLOaJz4/uNjI9tBP9kbcdPejAMG7hDY6EENKN/G1x3Y9XeIszcW9XfGmugZHpocu4HmNTFKN4oSmsEx48nbK2OKuyvOT7XFn507dfBroiYTiSxZd15olHlDDYIqaK7sf3x/tRj1o1lIsxoCeKrTSRirJytkIFq1jLifmKS7L+eocPsmM53qhAjyzjWhOpI+63wl48wQyORkM1WVVPohcDuItHsgoU41puGChGsWYDjbNshWc4FxNY8PvYmvugE8shhB8byQ0Dh3EiumrGMTzPUw8hjCZJMilr5K6YSE9MYAbX5BxPoVQqXcWY9V3bwCrOhxAe5pnIQ5IkV9CHm3/7DHfgZbyuyhpmQFa2aiT/M0II43nPC41JGN324iImQgiV/xHeKoob7vfgtmyotAUbDdSxZHMzts1AUfYj+lNDtsVAHZ+tnwdtNTArGypz7TLwE0Ynk4hMbpBMAAAAAElFTkSuQmCC);
+                background-position: right 2px;
+                display: block;
+                float: right;
+                height: 16px;
+                margin-top: 6px;
+                overflow: hidden;
+                width: 16px;
+                outline:none!important;
+            }
+
+        .CSK_Dashboard h2 {
+            font-size: 16px;
+            line-height: normal;
+            margin: 0 0 3px;
+            padding: 0;
+        }
+
+    .CSK_Dashboard_Handle {
+        position: absolute;
+        height: 40px;
+        width: 40px;
+        left: -42px;
+        background: #f1f1f1;
+        border: 1px solid #d1d1d1;
+        border-right: 1px solid #d1d1d1;
+        background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABZ0RVh0Q3JlYXRpb24gVGltZQAwOC8xOC8wOaw6EPwAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzQGstOgAAABmklEQVRYhc2XzU3DQBCFvyAQR9IBdBCXYG7MCTogdOAbR5wKgAowHSSnuYYOcAfQATmBxCEcvJaSidfxz0bmSZa8M96dp5m3s+vRer1mSBwNGv0/EDgOtZCIxMATMAFmqpo2mTcKoQERmQIvbpiratR0bu8SiMh4IzjA3PgjEZnjQQgNTM34xowz4No3OYQGxmY8cSWJgJhCE16EIPBVYXupsFUiRAnmwO+eb14PSeACOKnx50ByEAJuB2Qe9wqYAbGqVpUJ6K+BBDg3toWq2p3gRecMiEgEPBjzipp0ByVA0XYtUlX9aLNIp1YsIgnwaMytWnCJ1hlwwksrXNO2a3UiQJH6M2N7VtX3gxNwR+6tMX9SnZHwBKje80ndPt+HWhG6eifusWkHeFPVuGtwqGlELvgS/2n2TUfhbaKuBOX1qsvcIASs2CxO2b18tEaTsyCnKMUPcG989jISnMBWdxORK7bL0ln9JepKsGBXZEszzvoS8GbAc6TGG+93ffZ/icZKFpGUIv05cKmqWd/gEOjHpA8G/zccnMAfH35qGhbzM9UAAAAASUVORK5CYII=);
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .CSK_Dashboard ul {
+        margin: 0 0 12px;
+        padding: 0;
+    }
+
+        .CSK_Dashboard ul li {
+            list-style-type: none;
+            line-height: 1.4em;
+            font-weight: bold;
+        }
+
+            .CSK_Dashboard ul li span {
+                font-weight: normal;
+            }
+
+            .CSK_Dashboard ul li a, .CSK_Dashboard ul li a:link, .CSK_Dashboard ul li a:hover, .CSK_Dashboard ul li a:visited, .CSK_Dashboard ul li a:active {
+                color: #333;
+            }
+</style>
+
+ 
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<div class="Wrapper">
+	<div id="Header">
+		
+			<img width="1000" height="155" src="/Portals/0/Banner/Banner.jpg" />
+		
+	</div>
+	<div id="Menu">
+		<!-- DDRmenu v02.00.01 - Superfish template --><script type="text/javascript">
+			jQuery(function($) {
+				$("#dnn_TopNav").superfish(
+					{onShow:function() { if ($.browser.msie) this[0].style.removeAttribute('filter'); },MenuStyle:"Superfish"}
+				);
+			});
+		</script><ul class="TopNav sf-menu" id="dnn_TopNav">
+  <li class="current"><a href="http://connersvillecommunity.com/">Home</a></li>
+  <li><a href="http://connersvillecommunity.com/City_of_Connersville">City of Connersville</a><ul>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/Mayor_of_Connersville">Mayor of Connersville</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/Board_of_Public_Works_Safety">Board of Public Works &amp; Safety</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Clerk_Treasurer">City Clerk/Treasurer</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Council">City Council</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments">City Departments</a><ul>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Airport_Mettel_Field">Airport/Mettel Field</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/EMS_First_Aid_Unit">EMS/First Aid Unit</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Fire_Department">Fire Department</a><ul>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Fire_Department/Sparky_the_Fire_Dog">Sparky the Fire Dog</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation">Parks &amp; Recreation</a><ul>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/John_H_Miller_Center">John H. Miller Center</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Roberts_Park_Enclosed_Facilities">Roberts Park Enclosed Facilities</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Roberts_Park_Open_Air_Facilities">Roberts Park Open Air Facilities</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Roberts_Park_Family_Aquatic_Center">Roberts Park Family Aquatic Center</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Roberts_Building">Roberts Building</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Roberts_Bark_Park">Roberts Bark Park</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation/Park_Staff">Park Staff</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Police_Department">Police Department</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Street_Department">Street Department</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Transfer_Station_Recycling_Center">Transfer Station &amp; Recycling Center</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities">Connersville Utilities</a><ul>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Education">Education</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Ordinances">Ordinances</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Forms">Forms</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Water">Water</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Stormwater">Stormwater</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Sewer">Sewer</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Personnel">Personnel</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Cross_Connection">Cross Connection</a></li>
+              <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities/Wellhead">Wellhead</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/Forms">Forms</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/ADA_Transition_Plan">ADA Transition Plan</a></li>
+      <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Meeting_Agendas">City Meeting Agendas</a></li>
+    </ul>
+  </li>
+  <li><a href="http://connersvillecommunity.com/Fayette_County">Fayette County</a><ul>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/County_Commissioners">County Commissioners</a></li>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/County_Council">County Council</a></li>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System">Justice System</a><ul>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Circuit_Court">Circuit Court</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Superior_Court">Superior Court</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/County_Clerk">County Clerk</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Prosecutor">Prosecutor</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Attorneys">Attorneys</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Community_Corrections">Community Corrections</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/CASA">CASA</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Probation">Probation</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Victims_Assistance">Victim's Assistance</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/Jail">Jail</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Justice_System/County_Sheriff">County Sheriff</a></li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/911_Dispatch">911/Dispatch</a></li>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments">County Departments</a><ul>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Animal_Shelter">Animal Shelter</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Area_Planning">Area Planning</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Assessor">Assessor</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Auditor">Auditor</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Coroner">Coroner</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/County_Highway_Department">County Highway Department</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/County_Treasurer">County Treasurer</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Health_Department">Health Department</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Purdue_Extension_Office_4H">Purdue Extension Office / 4H</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Recorder">Recorder</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Soil_Water">Soil &amp; Water</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Surveyor">Surveyor</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Veterans">Veterans</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Emergency_Management">Emergency Management</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/County_Departments/Information_Technology">Information Technology</a></li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Fayette_County/Forms">Forms</a><ul>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Forms/Judicial_Forms">Judicial Forms</a></li>
+          <li><a href="http://connersvillecommunity.com/Fayette_County/Forms/Area_Planning_Forms">Area Planning Forms</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="http://connersvillecommunity.com/Community">Community</a><ul>
+      <li><a href="http://connersvillecommunity.com/Community/Churches">Churches</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Education">Education</a><ul>
+          <li><a href="http://connersvillecommunity.com/Community/Education/Accredited_Schools">Accredited Schools</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Education/College_University_Trade_School">College, University, Trade School</a></li>
+          <li><a href="http://www.2thelink.com">Continuing Education</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Education/Private_Schools">Private Schools</a></li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Community/Healthcare">Healthcare</a><ul>
+          <li><a href="http://connersvillecommunity.com/Community/Healthcare/Community_Free_Clinic">Community Free Clinic</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Healthcare/Hospitals">Hospitals</a><ul>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Hospitals/Fayette_Regional_Health_System">Fayette Regional Health System</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Hospitals/Whitewater_Valley_Medical_Center">Whitewater Valley Medical Center</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/Community/Healthcare/Home_Health_Care">Home Health Care</a><ul>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Home_Health_Care/Advantage_Home_Health_Care">Advantage Home Health Care</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Home_Health_Care/Best_Home_Health_Care">Best Home Health Care</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/Community/Healthcare/Nursing_Homes">Nursing Homes</a><ul>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Nursing_Homes/Carolton_Manor">Carolton Manor</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Nursing_Homes/Heritage_House">Heritage House</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Nursing_Homes/Hickory_Creek">Hickory Creek</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Nursing_Homes/Lincoln_Center">Lincoln Center</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/Community/Healthcare/Rehabilitation">Rehabilitation</a><ul>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Rehabilitation/FRHS_HealthWorks_Rehabilitation">FRHS HealthWorks Rehabilitation</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Rehabilitation/Heritage_House_Rehabilitation">Heritage House Rehabilitation</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Rehabilitation/Lincoln_Center_Rehabilitation">Lincoln Center Rehabilitation</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/Healthcare/Rehabilitation/Whitewater_Valley_Rehabilitation">Whitewater Valley Rehabilitation</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Community/Local_Utilities">Local Utilities</a><ul>
+          <li><a href="http://www.call811.com/">811</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Local_Utilities/Cable_Television_Internet_Phone">Cable Television, Internet &amp; Phone</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Local_Utilities/Electricity">Electricity</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/Local_Utilities/Gas">Gas</a></li>
+          <li><a href="http://connersvillecommunity.com/City_of_Connersville/City_Departments/Connersville_Utilities">Water</a></li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Community/State_Federal_Links">State &amp; Federal Links</a><ul>
+          <li><a href="http://connersvillecommunity.com/Community/State_Federal_Links/Federal">Federal</a><ul>
+              <li><a href="http://www.whitehouse.gov/">President of the United States</a></li>
+              <li><a href="http://coats.senate.gov">US Senator Dan Coats</a></li>
+              <li><a href="http://donnelly.senate.gov">US Senator Joe Donnelly</a></li>
+              <li><a href="http://messer.house.gov">US Representative Luke Messer</a></li>
+              <li><a href="http://connersvillecommunity.com/Community/State_Federal_Links/Federal/US_Department_of_Agriculture">US Department of Agriculture</a></li>
+            </ul>
+          </li>
+          <li><a href="http://connersvillecommunity.com/Community/State_Federal_Links/State">State</a><ul>
+              <li><a href="http://www.in.gov/gov/">Governor of the State of Indiana</a></li>
+              <li><a href="http://www.in.gov/legislative/senate_republicans/homepages/s42/">State Senator Jean Leising</a></li>
+              <li><a href="http://www.in.gov/legislative/house_republicans/homepages/r55/">State Representative Cindy Ziemke</a></li>
+              <li><a href="http://www.in.gov/legislative/">Indiana State Legislature</a></li>
+              <li><a href="http://www.in.gov/bmv/">Indiana Bureau of Motor Vehicles</a></li>
+              <li><a href="http://www.in.gov/dnr">Indiana Department of Natural Resources</a></li>
+              <li><a href="http://www.in.gov/isp/">Indiana State Police</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li><a href="http://www.tourconnersville.org">Tourism</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/TV3">TV3</a><ul>
+          <li><a href="http://connersvillecommunity.com/Community/TV3/TV3_Programs">TV3 Programs</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/TV3/TV3_Video_Archives">TV3 Video Archives</a></li>
+          <li><a href="http://connersvillecommunity.com/Community/TV3/Order_DVDs">Order DVDs</a></li>
+        </ul>
+      </li>
+      <li><a href="http://connersvillecommunity.com/Community/Job_Opportunities">Job Opportunities</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Volunteer_Opportunities">Volunteer Opportunities</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Farmers_Market">Farmers Market</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Master_Gardeners">Master Gardeners</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Birdtown_Resources">Birdtown Resources</a></li>
+      <li><a href="http://connersvillecommunity.com/Community/Trails">Trails</a></li>
+    </ul>
+  </li>
+  <li><a href="http://connersvillecommunity.com/Economic_Development">Economic Development</a><ul>
+      <li><a href="http://www.edgconnersville.com">Connersville EDG</a></li>
+      <li><a href="http://www.in.gov/dwd/">Work One</a></li>
+      <li><a href="http://www.connersvillechamber.com">Chamber of Commerce</a></li>
+    </ul>
+  </li><br style="clear:both;"></ul>
+	</div>
+	<div class="ContentWrapper">
+		<div id="LeftCol">
+			<div class="SearchBox">
+				<span id="dnn_dnnSearch_ClassicSearch">
+  
+  
+  <input name="dnn$dnnSearch$txtSearch" type="text" maxlength="255" size="20" id="dnn_dnnSearch_txtSearch" class="NormalTextBox" onkeydown="return __dnn_KeyDown(&#39;13&#39;, &#39;javascript:__doPostBack(%27dnn$dnnSearch$cmdSearch%27,%27%27)&#39;, event);" />&nbsp;
+  <a id="dnn_dnnSearch_cmdSearch" class="SearchButton" href="javascript:__doPostBack(&#39;dnn$dnnSearch$cmdSearch&#39;,&#39;&#39;)">Search</a>
+</span>
+
+
+
+			</div>
+			<!-- DDRmenu v02.00.01 - [SKIN]/LeftNav template --><a class="sidenavroot" href=""></a><ul class="LeftNav">
+  <li class="first"><a href="http://connersvillecommunity.com/City_of_Connersville">City of Connersville</a></li>
+  <li class=""><a href="http://connersvillecommunity.com/Fayette_County">Fayette County</a></li>
+  <li class=""><a href="http://connersvillecommunity.com/Community">Community</a></li>
+  <li class=" last"><a href="http://connersvillecommunity.com/Economic_Development">Economic Development</a></li>
+</ul>
+			<div id="dnn_SidebarPane" class="SidebarPane"><div class="DnnModule DnnModule-DNN_Reports DnnModule-435"><a name="435"></a>
+<div class="BlueTitle">
+	<div class="Title">
+		<span id="dnn_ctr435_dnnTITLE1_titleLabel" class="Head">Community Calendar</span>
+
+
+
+	</div>
+	<div class="Content">		 
+		<div id="dnn_ctr435_ContentPane" class=""><!-- Start_Module_435 --><div id="dnn_ctr435_ModuleContent" class="DNNModuleContent ModDNNReportsC">
+	
+
+
+</div><!-- End_Module_435 --></div>
+	</div>
+</div>
+
+</div></div>
+		</div>
+		<div id="RightCol">
+			<div id="dnn_ContentPane" class="ContentPane"><div class="DnnModule DnnModule-BizModules-UltraPhotoGallery DnnModule-442"><a name="442"></a>
+<div class="Invisible"><div id="dnn_ctr442_ContentPane"><!-- Start_Module_442 --><div id="dnn_ctr442_ModuleContent" class="DNNModuleContent ModBizModulesUltraPhotoGalleryC">
+	<div id="dnn_ctr442_UltraPhotoGallery_Prog" class="RadAjax RadAjax_Default" style="display:none;">
+		<div class="raDiv">
+
+		</div><div class="raColor raTransp">
+
+		</div>
+	</div><div id="dnn_ctr442_dnn$ctr442$UltraPhotoGallery_UPPanel">
+		<div id="dnn_ctr442_UltraPhotoGallery_UP">
+			<!-- 2012.2.724.35 -->
+
+<div class='UMGViewer'>
+
+     <span id="slider442" class="nivoFrame1"><span class="nivoFrame2"><span class="nivoFrame3"><span class="nivoFrame4">
+
+			<div class="nivoSlider">
+				<div class="sliderMain" style="width: 618px; height: 252px;">
+                <a href='http://connersvillecommunity.com/Community/TV3'>
+<img src='/Portals/0/UltraPhotoGallery/442/1/3.TV3WebBanner.png' alt='TV3WebBanner' title='TV3WebBanner'>
+</a>
+<img src='/Portals/0/UltraPhotoGallery/442/1/3.ParkBridge.jpg' alt='ParkBridge' title='ParkBridge'>
+<a href='http://connersvillecommunity.com/City_of_Connersville/City_Departments/Parks_Recreation'>
+<img src='/Portals/0/UltraPhotoGallery/442/1/3.ParksBridgeWeb.png' alt='ParksBridgeWeb' title='ParksBridgeWeb'>
+</a>
+<img src='/Portals/0/UltraPhotoGallery/442/1/3.MaryGray001.jpg' alt='MaryGray001' title='MaryGray001'>
+<a href='http://connersvillecommunity.com/Fayette_County'>
+<img src='/Portals/0/UltraPhotoGallery/442/1/3.FayetteCountyOffices.png' alt='FayetteCountyOffices' title='FayetteCountyOffices'>
+</a>
+
+				</div>
+            </div>
+
+			<div class="dataholder">
+                
+			</div>
+
+
+	 </span></span></span></span>
+
+<script type="text/javascript">
+    jQuery(window).load(function() {
+        jQuery('#slider442').nivoSlider({
+            effect:'random',animSpeed:500,pauseTime:5000,pauseOnHover:true,directionNav: 'standard',directionNavHide: 'always',quickNav: 'none',quickNavHide: 'always',countDown: 'none',frame: 'none',caption: 'none',controlBar: 'none',overlay: 'none',mediaControlBar: true,videoAutoStart: false,modulePath: '/DesktopModules/UltraMediaGallery/', slices:15, boxCols: 8, boxRows: 4
+        });
+    });
+</script></div>
+<div id="dnn_ctr442_UltraPhotoGallery_pnlFooter" style="display:none;">
+				
+	<div style="text-align:center; line-height:24px;">
+	    <a title="DotNetNuke gallery module" href="http://www.bizmodules.net/" target="_blank" style="font-family:Tahoma, Arial; color:#ccc; font-size:9px;">
+	    Ultra Media Gallery 8</a>
+	</div>
+
+			</div>
+
+		</div>
+	</div>
+</div><!-- End_Module_442 --></div></div></div></div>
+			<div class="ContentMiddleWrapper">
+				<div id="dnn_LeftPane" class="LeftPane"><div class="DnnModule DnnModule-DNN_Reports DnnModule-440"><a name="440"></a>
+<div class="RedTitle">
+	<div class="Title">
+		<span id="dnn_ctr440_dnnTITLE1_titleLabel" class="Head">News</span>
+
+
+
+	</div>
+	<div class="Content">		 
+		<div id="dnn_ctr440_ContentPane" class=""><!-- Start_Module_440 --><div id="dnn_ctr440_ModuleContent" class="DNNModuleContent ModDNNReportsC">
+	
+
+<ul class="HomeNewsList"><li class="HomeNewsItem"><div class="ItemWrapper"><a class="ItemTitle" href="http://connersvillecommunity.com/News/EntryId/75/ADA-Complaint-Form">ADA Complaint Form</a><span class="ItemDate">08/17/2020</span><div class="ItemSummary">The American's with Disabilities Act (ADA) prohibits discrimination on the basis of disability in State and local government, public accommodations, commercial facilities, transportation, and telecommunications. <a href="/Portals/0/Documents/ADA Complaint Form.pdf" target="_blank">THIS FORM</a> may be used to file a complaint with the City of Connersville for alleged violations of ADA. If you need assistance completing this form, please contact us by phone at (765) 825-2158 or TTY by dialing 711.  You are not required to use this form. You may write a letter with the same information, sign it and return to the address printed above. All items in bold must be completed for your complaint to be investigated. Failure to provide complete information may impair the investigation of your complaint.…
+						
+						<span><a class="ReadMore" href="http://connersvillecommunity.com/News/EntryId/75/ADA-Complaint-Form">Read More</a></span><br style="clear:both;" /></div></div></li><li class="HomeNewsItem Alt"><div class="ItemWrapper"><a class="ItemTitle" href="http://connersvillecommunity.com/News/EntryId/74/Mayor-Franks-Response-to-Governors-Mask-Executive-Order">Mayor Franks Response to Governor's Mask Executive Order</a><span class="ItemDate">07/24/2020</span><div class="ItemSummary"><a href="/Portals/0/Documents/Release072420.pdf" target="_blank">Mayor Frank Press Release</a>…
+						
+						<span><a class="ReadMore" href="http://connersvillecommunity.com/News/EntryId/74/Mayor-Franks-Response-to-Governors-Mask-Executive-Order">Read More</a></span><br style="clear:both;" /></div></div></li><li class="HomeNewsItem"><div class="ItemWrapper"><a class="ItemTitle" href="http://connersvillecommunity.com/News/EntryId/73/2020-Primary-Election-Results">2020 Primary Election Results</a><span class="ItemDate">06/03/2020</span><div class="ItemSummary">Election Results for the 2020 Fayette County Primary Election<br>
+Click <a href="/Portals/0/Documents/Elections/2020PrimaryResults.pdf" target="_blank">HERE</a> for Complete Results…
+						
+						<span><a class="ReadMore" href="http://connersvillecommunity.com/News/EntryId/73/2020-Primary-Election-Results">Read More</a></span><br style="clear:both;" /></div></div></li><li class="HomeNewsItem Alt"><div class="ItemWrapper"><a class="ItemTitle" href="http://connersvillecommunity.com/News/EntryId/72/Senator-Braun-CARES-Act-Information">Senator Braun CARES Act Information</a><span class="ItemDate">04/03/2020</span><div class="ItemSummary"><a href="/Portals/0/Documents/COVID/Braun_ForWorkers_PaidLeave_FamilyLeave_0402020.pdf" target="_blank">Workers Information</a><br>
+<a href="/Portals/0/Documents/COVID/Braun_ForEmployers_PaidLeave_FamilyLeave_040220.pdf" target="_blank">Employers Information</a><br>
+<a href="/Portals/0/Documents/COVID/Braun_CaresAct_Housing_040220.pdf" target="_blank">Housing Information</a><br>
+<br>…
+						
+						<span><a class="ReadMore" href="http://connersvillecommunity.com/News/EntryId/72/Senator-Braun-CARES-Act-Information">Read More</a></span><br style="clear:both;" /></div></div></li><li class="HomeNewsItem"><div class="ItemWrapper"><a class="ItemTitle" href="http://connersvillecommunity.com/News/EntryId/71/COVID-19-CARES-ACT-Assistance-for-Small-Businesses">COVID-19 CARES ACT Assistance for Small Businesses</a><span class="ItemDate">04/03/2020</span><div class="ItemSummary"><a href="https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses">https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses</a><br>…
+						
+						<span><a class="ReadMore" href="http://connersvillecommunity.com/News/EntryId/71/COVID-19-CARES-ACT-Assistance-for-Small-Businesses">Read More</a></span><br style="clear:both;" /></div></div></li></ul>
+</div><!-- End_Module_440 --></div>
+	</div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-438"><a name="438"></a>
+<div class="LightBlueTitle">
+	<div class="Title">
+		<span id="dnn_ctr438_dnnTITLE1_titleLabel" class="Head">Forms</span>
+
+
+
+	</div>
+	<div class="Content">		 
+		<div id="dnn_ctr438_ContentPane" class=""><!-- Start_Module_438 --><div id="dnn_ctr438_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr438_HtmlModule_lblContent" class="Normal">
+	<p><a href="/Fayette_County/Forms/Area_Planning_Forms">APC Forms</a><br>
+<a href="/City_of_Connersville/Forms">City Forms</a><br>
+<a href="http://www.amlegal.com/codes/client/connersville_in/" target="_blank">City Ordinances</a><br>
+<a href="/City_of_Connersville/City_Meeting_Agendas">Meeting Agendas</a><br>
+<a name="" href="/Fayette_County/Forms/Judicial_Forms">Judicial Forms</a><br>
+<br>
+<br>
+</p>
+</div>
+
+</div><!-- End_Module_438 --></div>
+	</div>
+</div>
+
+</div></div>
+				<div class="ContentRightWrapper">
+					<div id="dnn_SmallLeftPane" class="SmallLeftPane DNNEmptyPane"></div>
+					<div id="dnn_SmallRightPane" class="SmallRightPane DNNEmptyPane"></div>
+					<div id="dnn_RightPane" class="RightPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-439"><a name="439"></a>
+<div class="BlueTitle">
+	<div class="Title">
+		<span id="dnn_ctr439_dnnTITLE1_titleLabel" class="Head"> </span>
+
+
+
+	</div>
+	<div class="Content">		 
+		<div id="dnn_ctr439_ContentPane" class=""><!-- Start_Module_439 --><div id="dnn_ctr439_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr439_HtmlModule_lblContent" class="Normal">
+	<a href="/LinkClick.aspx?link=%2fCity_of_Connersville%2fCity_Departments%2fConnersville_Utilities&amp;tabid=85&amp;portalid=0&amp;mid=439" target="_self" title="Pay your Connersville Utilities Water/Sewer Bill here!"><img src="/portals/0/Images/Utilities/payonline.jpg" width="300" height="100"></a><br>
+<br>
+<a href="/LinkClick.aspx?link=%2fFayette_County%2fJustice_System%2fCounty_Clerk&amp;tabid=85&amp;portalid=0&amp;mid=439" target="_self" title="Click Here for Absentee Voting Application!"><img src="/portals/0/Images/vote-2020-buttonsm.jpg" style="border-width: 2px; border-style: solid;"></a><br>
+<p>
+<br>
+<a target="_blank" href="/LinkClick.aspx?link=https%3a%2f%2ffayrdc911.regroup.com%2fsignup&amp;tabid=85&amp;portalid=0&amp;mid=439"><img src="/portals/0/Images/citizen-alert-civic-ready.jpg" style="width: 300px; height: 98px;"></a></p>
+<p><a target="_self" href="/LinkClick.aspx?link=%2fCommunity%2fJob_Opportunities&amp;tabid=85&amp;portalid=0&amp;mid=439"><img src="/portals/0/Images/job-oppurtunity-button.jpg" style="width: 300px; height: 98px;"></a><br>
+<br>
+<a href="/LinkClick.aspx?link=%2fCommunity%2fVolunteer_Opportunities&amp;tabid=85&amp;portalid=0&amp;mid=439"><img style="width: 300px; height: 98px;" src="/portals/0/Volunteer-Opportunities.png"></a><br>
+<br>
+<a href="/Portals/0/Graphics/IOTD_HTGIndianaLogo_angle_FullColorTM.png" target="_blank"><img src="/portals/0/Graphics/IOTD_HTGIndianaLogo_angle_FullColorTM.png" style="width: 300px; height: 98px;"></a></p>
+<link rel="stylesheet" type="text/css" media="screen" href="http://img.weather.weatherbug.com/Style/stickers/v2/Stickers_125x125.css">
+</div>
+
+</div><!-- End_Module_439 --></div>
+	</div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-427"><a name="427"></a>
+<div class="AccentTitle">
+	<div class="Title">
+		<span id="dnn_ctr427_dnnTITLE1_titleLabel" class="Head">Join us on Facebook and Twitter!</span>
+
+
+
+	</div>
+	<div class="Content">		 
+		<div id="dnn_ctr427_ContentPane" class=""><!-- Start_Module_427 --><div id="dnn_ctr427_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr427_HtmlModule_lblContent" class="Normal">
+	<div style="margin-bottom: 16px;">
+<div data-header="true" data-stream="false" data-show-faces="false" data-width="300" data-href="http://www.facebook.com/ConnersvilleGOV" class="fb-like-box"></div>
+</div>
+<a data-size="large" data-lang="en" data-show-count="true" data-width="300px" class="twitter-follow-button" href="https://twitter.com/ConnersvilleGOV">Follow @ConnersvilleGOV</a><br>
+<a href="https://www.facebook.com/ConnersvilleGov/" target="_blank"><img src="/portals/0/Graphics/facebook-icon.png" style="width: 50px; height: 50px;"></a><br>
+</div>
+
+</div><!-- End_Module_427 --></div>
+	</div>
+</div>
+
+</div></div>
+					<br style="clear:both;" />
+				</div>
+			</div>
+		</div>
+		<br style="clear:both;" />
+	</div>
+	<div id="Footer">
+		<div id="dnn_FooterLeftPane" class="FooterLeft DNNEmptyPane"></div>
+		<!-- DDRmenu v02.00.01 - [SKIN]/BottomNav template --><a class="sidenavroot" href=""></a><ul class="BottomNav">
+  <li class="first selected"><a href="http://connersvillecommunity.com/">Home</a></li>
+       | 
+    <li class=""><a href="http://connersvillecommunity.com/City_of_Connersville">City of Connersville</a></li>
+       | 
+    <li class=""><a href="http://connersvillecommunity.com/Fayette_County">Fayette County</a></li>
+       | 
+    <li class=""><a href="http://connersvillecommunity.com/Community">Community</a></li>
+       | 
+    <li class=""><a href="http://connersvillecommunity.com/Economic_Development">Economic Development</a></li>
+       | 
+    <li class=" last"><a href="http://connersvillecommunity.com/Contact">Contact</a></li>
+</ul>
+		<div class="FooterRight">website by <a href="http://cskern.com/" target="_blank">CSKern</a> | <a id="dnn_dnnLOGIN_loginLink" title="Login" class="SkinObject" onclick="return dnnModal.show(&#39;http://connersvillecommunity.com/login?returnurl=%252f&amp;popUp=true&#39;,/*showReturn*/true,300,650,true,&#39;&#39;)" href="http://connersvillecommunity.com/login?returnurl=%2f">Login</a>
+<!--close loginGroup--><span id="dnn_FooterRightPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-441"><a name="441"></a>
+<div class="Invisible"><div id="dnn_ctr441_ContentPane"><!-- Start_Module_441 --><div id="dnn_ctr441_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr441_HtmlModule_lblContent" class="Normal">
+	
+</div>
+
+</div><!-- End_Module_441 --></div></div></div></span></div>
+		<br style="clear:both;" />
+	</div>
+</div>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+        
+    
+<script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js" ></script>
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('StylesheetManager_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Web.UI, Version=2012.2.724.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en-US:3fe22950-1961-4f26-b9d4-df0df7356bf6:45085116:27c5704c';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Default","transparency":0,"uniqueID":"dnn$ctr442$UltraPhotoGallery_Prog","zIndex":90000}, null, null, $get("dnn_ctr442_UltraPhotoGallery_Prog"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"dnn_ctr442_UltraPhotoGallery_Prog","styles":[],"uniqueID":"dnn$ctr442$UltraPhotoGallery_UP"}, null, null, $get("dnn_ctr442_UltraPhotoGallery_UP"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+
+
+</html>

@@ -1,0 +1,61 @@
+User-agent: *
+Disallow: /data/dataset/show
+Disallow: /transparency/data/dataset/show
+# 10.19.11 - added by Chris Lim
+Disallow: /graffiti/pdf/psa/2011/PSA-Rules.pdf
+Disallow: /graffiti/pdf/psa/2011/PSA-Waiver.pdf
+Disallow: /graffiti/pdf/psa/2011/PSA-Registration-Form.pdf
+Disallow: /graffiti/pdf/psa/2011/PSA-Application-Packet.pdf
+# 10.19.11 - added by Chris Lim
+Disallow: /privacyinfo
+Disallow: /planning/building/activity-archive
+Disallow: /checkreferrer
+Disallow: /human/benefits/ExitSurvey
+Disallow: /emergency
+Disallow: /Emergency.aspx
+Disallow: /em-content.txt
+Disallow: /neighborhoods/forms
+Disallow: /transtest
+Disallow: /evetcaltest
+Disallow: /planning/2008-0909
+Disallow: /human/ccstudy
+Disallow: /CPRC/Secure
+Disallow: /human/dev
+Disallow: /human/dev/Benefits
+Disallow: /human/jobline
+Disallow: /human/wellness/testmedia
+Disallow: /museum/forms
+Disallow: /park_rec/forms
+# 02.20.13 - added by Chris Lim
+Disallow: /sg/
+Disallow: /sg/Stompinggrounds.pdf
+# 09.26.13 - added by John Botta
+Disallow: /human/old_HumanFiles
+Disallow: /human/benefits/old_BenefitFiles
+Disallow: /human/comp/old_CompFiles
+Disallow: /human/labor/old_LaborFiles
+Disallow: /human/m3p/old_M3PFiles
+Disallow: /human/wellness/Old_WellnessFiles
+Disallow: /human/workerscomp/old_WorkCompFiles
+Disallow: /cmblog/
+# 06.22.15 - added by Nghi Quach
+Disallow: /gsm/
+Disallow: /press/2011-CityofRiverside-StyleGuide.pdf
+# 08.05.15 - added by Nghi Quach
+Disallow: /city_clerk/ecomment.asp
+Disallow: /manager/admin-manual
+
+################################################################################
+# 11.13.2009
+# /planning/2008-0909/  - added by clim, 11.13.2009. directory moved to: /planning/gp2025program/
+# made changes to syntax according to robots.txt syntax checker (added trailing slash)
+# /CPRC/Secure/ Added by John Botta 11.13.2011 sub folder of cprc.
+#/human/dev/ Added by John Botta 02.03.12
+#/human/dev/Benefits/ Added by John Botta 02.03.12
+#/human/jobline/ Added by John Botta 03.30.12
+#/human/wellness/testmedia/ Added by john Botta 06.20.12 
+#/cmblog/ Added by john Botta 06.17.14
+#################################################################################
+# bot entries
+User-agent: watrhubcrawler
+Disallow: /

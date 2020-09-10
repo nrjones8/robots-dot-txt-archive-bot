@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /event
+Disallow: /events/
+Allow: /wp-admin/admin-ajax.php
+User-agent: Baiduspider
+Disallow: /
+Crawl-delay: 11
+Request-rate: 1/10

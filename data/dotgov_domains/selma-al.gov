@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width">
+		<meta name='robots' content='noindex,follow' />
+	<title>Blacklisted</title>
+	<style type="text/css">
+		html {
+			background: #f1f1f1;
+		}
+		body {
+			background: #fff;
+			color: #444;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+			margin: 2em auto;
+			padding: 1em 2em;
+			max-width: 700px;
+			-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+			box-shadow: 0 1px 3px rgba(0, 0, 0, 0.13);
+		}
+		h1 {
+			border-bottom: 1px solid #dadada;
+			clear: both;
+			color: #666;
+			font-size: 24px;
+			margin: 30px 0 0 0;
+			padding: 0;
+			padding-bottom: 7px;
+		}
+		#error-page {
+			margin-top: 50px;
+		}
+		#error-page p,
+		#error-page .wp-die-message {
+			font-size: 14px;
+			line-height: 1.5;
+			margin: 25px 0 20px;
+		}
+		#error-page code {
+			font-family: Consolas, Monaco, monospace;
+		}
+		ul li {
+			margin-bottom: 10px;
+			font-size: 14px ;
+		}
+		a {
+			color: #0073aa;
+		}
+		a:hover,
+		a:active {
+			color: #006799;
+		}
+		a:focus {
+			color: #124964;
+			-webkit-box-shadow:
+				0 0 0 1px #5b9dd9,
+				0 0 2px 1px rgba(30, 140, 190, 0.8);
+			box-shadow:
+				0 0 0 1px #5b9dd9,
+				0 0 2px 1px rgba(30, 140, 190, 0.8);
+			outline: none;
+		}
+		.button {
+			background: #f7f7f7;
+			border: 1px solid #ccc;
+			color: #555;
+			display: inline-block;
+			text-decoration: none;
+			font-size: 13px;
+			line-height: 2;
+			height: 28px;
+			margin: 0;
+			padding: 0 10px 1px;
+			cursor: pointer;
+			-webkit-border-radius: 3px;
+			-webkit-appearance: none;
+			border-radius: 3px;
+			white-space: nowrap;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing:    border-box;
+			box-sizing:         border-box;
+
+			-webkit-box-shadow: 0 1px 0 #ccc;
+			box-shadow: 0 1px 0 #ccc;
+			vertical-align: top;
+		}
+
+		.button.button-large {
+			height: 30px;
+			line-height: 2.15384615;
+			padding: 0 12px 2px;
+		}
+
+		.button:hover,
+		.button:focus {
+			background: #fafafa;
+			border-color: #999;
+			color: #23282d;
+		}
+
+		.button:focus {
+			border-color: #5b9dd9;
+			-webkit-box-shadow: 0 0 3px rgba(0, 115, 170, 0.8);
+			box-shadow: 0 0 3px rgba(0, 115, 170, 0.8);
+			outline: none;
+		}
+
+		.button:active {
+			background: #eee;
+			border-color: #999;
+			-webkit-box-shadow: inset 0 2px 5px -3px rgba(0, 0, 0, 0.5);
+			box-shadow: inset 0 2px 5px -3px rgba(0, 0, 0, 0.5);
+		}
+
+			</style>
+</head>
+<body id="error-page">
+	<div class="wp-die-message"><!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='utf-8' />
+		<meta name='viewport' content='width=device-width, initial-scale=1' />
+		<meta http-equiv="cache-control" content="no-cache">
+		<meta http-equiv="cache-control" content="private">
+		<meta http-equiv="cache-control" content="max-age=0, must-revalidate">
+		<meta http-equiv="cache-control" content="max-age=0, proxy-revalidate">
+		<meta http-equiv="expires" content="0" />
+		<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+		<meta http-equiv="pragma" content="no-cache" />
+
+	  <!--[if lt IE 9]>
+	  <script src='http://html5shiv.googlecode.com/svn/trunk/html5.js'></script>
+	  <![endif]-->
+	<style>
+		html{font-size: 14pt;}
+		h1{text-align:center}
+		h1.main{margin-top: 1em;margin-bottom: 3em;}
+		div.container {text-align:center;}
+		div.container p.js_notice{width: 60%; display: inline-block;}
+		div.footer {color: #666; text-align: center;}
+		div.footer a {color: #666; vertical-align:bottom; text-align: center;}
+
+		@media (max-width: 600px) {
+		}
+
+		.spinner {
+			margin-left: auto;
+			margin-right: auto;
+			width: 70px;
+			text-align: center;
+		}
+
+		.spinner > div {
+			width: 14px;
+			height: 14px;
+			background-color: #333;
+
+			border-radius: 100%;
+			display: inline-block;
+			-webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+			animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+		}
+
+		.spinner .bounce1 {
+			-webkit-animation-delay: -0.32s;
+			animation-delay: -0.32s;
+		}
+
+		.spinner .bounce2 {
+			-webkit-animation-delay: -0.16s;
+			animation-delay: -0.16s;
+		}
+
+		@-webkit-keyframes sk-bouncedelay {
+			0%, 80%, 100% { -webkit-transform: scale(0) }
+			40% { -webkit-transform: scale(1.0) }
+		}
+
+		@keyframes sk-bouncedelay {
+			0%, 80%, 100% {
+				-webkit-transform: scale(0);
+				transform: scale(0);
+			} 40% {
+				  -webkit-transform: scale(1.0);
+				  transform: scale(1.0);
+			  }
+		}
+	</style>
+	<script>
+		var ct_date = new Date;
+
+		function set_spamFireWallCookie(cookie_name, cookie_value) {
+			var date = new Date;
+			date.setDate(date.getDate() + 30);
+			document.cookie = cookie_name + '=' + escape(cookie_value) + '; path=/; expires=' + date.toUTCString() + '; samesite=lax';
+			return null;
+		}
+
+		function get_current_url() {
+			document.write(window.location.href);
+			return null;
+		}
+	</script>
+</head>
+
+<body>
+    <div class='container'>
+        <h1 class='main'>SpamFireWall is activated for your IP <a href='https://cleantalk.org/blacklists/194.59.251.29' target='_blank'>194.59.251.29</a></h1>
+
+		<h3> </h3>
+		<h3> </h3>
+
+		<h2></h2>
+		
+        <div id='js_info'><br />To continue working with web site, please make sure that you have enabled JavaScript.</div>
+
+        <div id='js_passed'>
+			<h3>Please click the link below to pass the protection,</h3>
+			<a href='/robots.txt'><script>get_current_url();</script></a>
+			<br />
+			<p class='js_notice'>Or you will be automatically redirected to the requested page after 3 seconds.</p>
+			<br />
+			<div class="spinner">
+				<div class="bounce1"></div>
+				<div class="bounce2"></div>
+				<div class="bounce3"></div>
+			</div>
+			<p>The page was generated at&nbsp;Thu, 10 Sep 2020 03:13:18</p>
+			<p>Browser time <span id='curr_date'></span></p>
+        </div>
+
+    </div>
+	<div style='position: relative; line-height: 8px; text-align: center;'>
+		<p style="margin: 0; display: inline-block; font-size: 10px; color: gray;">256422, </p>
+		<p style="margin: 0; display: inline-block; font-size: 10px; color: gray;">selma-al.gov</p>
+	</div>
+    <div class='footer'>
+		<a href='https://cleantalk.org' target='_blank'></a>
+    </div>
+    <script type='text/javascript'>
+		var reload_timeout = 3000;
+		document.getElementById('js_info').style.display = 'none';
+		document.getElementById('js_passed').style.display = 'block';
+		document.getElementById('curr_date').innerHTML = ct_date.toGMTString();
+		set_spamFireWallCookie('ct_sfw_pass_key','cfed30935480c788f7e463872dddae4b0');
+		set_spamFireWallCookie('apbct_antibot','afcc3a5074facd5c76cc10803668fbed');
+		set_spamFireWallCookie('ct_sfw_passed','1');
+
+		if(location.search.search('debug=1') === -1) {
+			setTimeout(function(){
+				window.location.href = window.location.origin + window.location.pathname + '?sfw=pass' + Math.round(ct_date.getTime()/1000);
+			}, reload_timeout);
+		}
+    </script>
+	
+</body>
+</html></div></body>
+</html>
+	

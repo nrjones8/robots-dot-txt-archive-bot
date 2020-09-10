@@ -1,0 +1,746 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	Ecorse, MI - Page Not Found
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<script type="text/javascript" src=" /CMSScripts/Custom/jquery.js"></script>
+<script type="text/javascript" src=" /CMSScripts/Custom/jquery.flexslider.js"></script>
+<script type="text/javascript" src=" /CMSScripts/Custom/TAG.SlideRotatingBanner.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" charset="utf-8"></script>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:600,400' rel='stylesheet' type='text/css'/>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:600,400' rel='stylesheet' type='text/css'/>
+
+<meta name="google-site-verification" content="FjpIGcl0A3u8QAcY_Uklgt_0wEZSIjFYH1L5gGYLluU" />
+<meta name="google-site-verification" content="FjpIGcl0A3u8QAcY_Uklgt_0wEZSIjFYH1L5gGYLluU" />
+<meta http-equiv="Last-Modified" content="Thu, 15 Dec 2016 16:24:18 GMT"/>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<script src="https://use.typekit.net/bkj8uvw.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-594ae6f8103564b9"></script>
+
+<script type="text/javascript">
+var currWeather = {};
+
+$(document).ready(function() {
+		currWeather = getLocationAndWeather('imperial');
+		$('.scale-btn').click(switchScale);
+});
+
+function switchScale() {
+		if ($('.scale-btn>h1').text() === 'C') {
+				$('.scale-btn>h1').text('F');
+				$('.scale-btn').blur();
+				getLocationAndWeather('imperial');
+		} else {
+				getLocationAndWeather('metric');
+		}
+}
+
+function getLocationAndWeather(scale) {
+
+	return getWeather({
+	
+	}, scale);
+}
+
+function getWeather(location, scale) {
+		var weather = {};
+		console.log(location);
+
+		$.getJSON('https://api.openweathermap.org/data/2.5/weather?q=Highland Park, MI, USA', {
+				APPID: '75357d13c59a5fffb1789794af47caf5',
+
+				units: scale
+		}, function(results) {
+				console.log(results);
+				var wthr = {
+						city: results['name'],
+						wind_speed: (parseFloat(results['wind']['speed']) * 2.2369362920544).toFixed(1),
+						type: results['weather'][0]['main'],
+						humidity: results['main']['humidity'],
+						temp: results['main']['temp']
+				};
+				setWeatherNodes(wthr, scale);
+				return wthr;
+		});
+}
+
+function setWeatherNodes(weather, scale) {
+		$('.mdl-card__title-text').text(weather['city']);
+		$('#type').text(weather['type']);
+		$('#humidity').text('Humidity: ' + weather['humidity'] + '%');
+		
+		var spdUnit = 'm/s';
+		if(scale === 'imperial')
+			spdUnit = 'mph';
+		$('#wind').text('Wind: ' + weather['wind_speed'] + spdUnit);
+			
+		$('.temperature').contents().filter(function() {
+				return this.nodeType === Node.TEXT_NODE;
+		})[0].nodeValue = parseInt(weather['temp']) + '\u00B0';
+	
+		setWeatherTypeNodes(weather['type']);
+}
+
+function setWeatherTypeNodes(wType) {
+	var bgUrls = {
+		
+	};
+	var icons = {
+		Clear: ['wi800', '#636363'],
+		Rain: ['wi500', '#636363'],
+		Drizzle: ['wi301', '#636363'],
+		Clouds: ['wi801', '#636363'],
+		Mist: ['wi701', '#636363'],
+		Fog: ['wi741', '#636363'],
+		Thunderstorm: ['wi200', '#636363'],
+		Snow: ['wi600', '#636363'],
+		Hail: ['wi906', '#636363'],
+		Haze: ['wi721', '#636363']
+	};
+	
+	
+	console.log(wType);
+	console.log(bgUrls[wType]);
+	
+	
+	//Change the icon
+	$('.weather-icon').removeClass('wi-sunny wi-rain wi-cloudy wi-fog wi-thunderstorm wi-snow wi-storm-showers wi-hail');
+	$('.weather-icon').addClass(icons[wType][0]);
+	$('.weather-icon').css({'color': icons[wType][1]});
+}
+</script>
+
+<script type="text/javascript">
+function send (user,domain,args)
+{
+    var url = 'mail' + 'to:' + user + '@' + domain ;
+    if (typeof args != 'undefined')
+        url += '?' + args;
+    location.href = url;
+}
+</script>
+
+
+<!-- Basic Page Needs
+  ================================================== -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="description" content="City of Ecorse, Michigan"/>
+	<meta name="author" content=""/>
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!--[if lte IE 8]>
+    <div style="color: red; font-size: 20pt;">NOTE: This website does not support Internet Explorer versions 8 or earlier. Please update your browser to version 9 or newer. We apologize for the inconvenience.</div>
+<![endif]-->
+
+
+<!-- Skeleton CSS
+  ================================================== -->
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Base.css" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Main.css" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Skeleton.css" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Layout.css" type="text/css" rel="stylesheet"/>
+
+<!-- Print CSS
+  ================================================== -->
+<link rel="stylesheet" href="/CMSPages/GetResource.ashx?stylesheetname=PrinterStyles.css" type="text/css" media="print" />
+
+<!-- NAV CSS
+  ================================================== -->
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Nav.css" type="text/css" rel="stylesheet"/>
+
+<!-- EXTRA CSS
+  ================================================== -->
+<link href="/CMSPages/GetResource.ashx?stylesheetname=Extra" type="text/css" rel="stylesheet"/>
+
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!-- Google 
+	================================================== -->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'/>
+		
+<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="/App_Themes/WebsiteFiles/images/favicon.ico"/>
+	<link rel="apple-touch-icon" href="/App_Themes/WebsiteFiles/images/apple-touch-icon.png"/>
+	<link rel="apple-touch-icon"  href="/App_Themes/WebsiteFiles/images/apple-touch-icon-72x72.png"/>
+	<link rel="apple-touch-icon"  href="/App_Themes/WebsiteFiles/images/apple-touch-icon-114x114.png"/>
+
+<script type="text/javascript" src="/CMSScripts/Custom/CmsMegaMenu.js"></script>
+ 
+<script type="text/javascript">
+ 
+jQuery(window).load(function () { 
+  //var QlHeight  = jQuery('#sidelink > #menuElem .sideql').height(); //7 jul 2015
+  //jQuery('#sidelink > #menuElem').css('padding-bottom',QlHeight ); //7jul 2015
+    jQuery( '#navigation3 li' ).each(function( index ) { 
+if( jQuery(this).hasClass('mainSubMenuLayer'))
+{  
+ var Mm4Height  = jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL > .MegaMenuDiv4').height();
+  var UlHeight = jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL').height() ; 
+ 
+  if(Mm4Height > UlHeight)
+    { 
+      jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL').height(jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL > .MegaMenuDiv4').height() );
+    }
+  else
+    {
+       
+      jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL > .MegaMenuDiv4').height(jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL').height() );
+    }
+//jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL > .MegaMenuDiv4').height(jQuery(this).find('ul.innerSubMenuLayer.CMSListMenuUL').height() );
+//$(this).find('ul.innerSubMenuLayer.CMSListMenuUL').css('overflow', 'hidden');
+} 
+});
+});
+</script>
+
+ 
+<link href="/favicons/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/favicons/favicon.ico" type="image/x-icon" rel="icon"/>
+<link href="/CMSPages/GetResource.ashx?_transformations=4897" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?_webparts=677;1577" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR Unknown ENUS ContentBody" >
+    
+    <form method="post" action="/robots.txt" id="form">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HTfp/s2aEmWZgSKNE2eTufLOMRoBYalNalqAy18NTV8H2jsq/eqXaAGzU5nhUlcR6GgUQCib3doxQZIS53VrRIP9+0kvpl6cyeYty/x0PLb21kSrt5W9UXc2R/jxh/DlfucAgmYQEddXg2NgLM9vi1Kx3TI+TerTJUL8Q2x2/QAfjSwUKupNPhhds8lVpzwtVa228a+4WG+RZX/PWnxhmrohM/AA4US1acb1Tzd2ZmjrmSrRrwMHLMVqvNnrIQoiOwiHScn/7hu73EN6f+wkGHh/Jh2HIhvb3GCuk5SkA1KzEPQOZ6JQDt45YG+pnnF0FQpz1/wEALfD9PGKX30FMygX+fDou3r6k3ewnVApRoy1TjAokpFiGppjFpwnmoQ1yzc3dAGfbXsh5bMm9kPT6VL/Xt2cAUfb2DGzWywhM467juU5wUh8wQM3Yw848RUSW3+YfMfL5DeVICm76EydVh4yJU+/TREOU3gTJeylTCrMucZjOhl8ytGGqL08Fn4mvvaE6clUbpmGD9VuRQDIotkMEF5h50yEXXoA/LNZammRX1AP4rmc4ZnnsLuhuKr2kWoKE9A9Z5vlXKfYt7jfk+krZkOECA4qKKd+XHhcZwJlKB9aCp6oVEkhgXwtmov4guI6g6F10LkvWPlqF/8z+5bgOwDVJIO0TDBqwY61QewrnIs5i9xg0Vt9dxxp5O+v2naV6DtwpLz3r9lObjezOQ031aI+lJAAGeVlEZz/qiKG3u1O64lD4TxmFQKYDOp1jl2enYcnIRTUmFC4qz93ParFOi+7t7behxLPHmmwSIwa34yd5WQv3Zx9UXS5q05k" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvtmbuBdGJu0G2Qt2G2sL0nqm0NujCxMB0qRWRG5gvnmDBFjNtP7FkH80CzCbTNfVhMbBOjdndkegKU8_lGxxyfE6UVWG8o4lBk6rvMrtEcMrZoEhTUspUQ-f_fpanAJAxx69PEJNcwS601-3lcSi5vw1&amp;t=ffffffffe6d5a9ac" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<p><a href="#skiptocontent"><img class="clear" src="/App_Themes/WebsiteFiles/images/clear.gif" alt="Skip To Content" width="1" height="1"/></a></p>
+<p><a name="Top"></a></p>
+<div class="emergency notification"><div id="emergnotification">
+<div id="emergencynotification">
+  <img alt="Emergency Notification Icon" id="emergencyicon" src="/App_Themes/WebsiteFiles/images/icon-emergencynotification.png" style="vertical-align:middle" />
+  <a href='/Emergency-Notification.aspx'>CITY HALL OPEN TUES AND THURS ONLY 8:30-4:30</a>
+  </div>
+
+</div></div>
+<div class="container">
+<div id="noprint">
+<div class="five columns masterweather"><div id="weather"><div class="icon-temp" div=""><icon class="weather-icon wi"></icon> <h9 class="temperature"> <h9>F</h9> </h9></div>
+
+<div id="weathertext"><a href="http://www.accuweather.com/en/us/ecorse-mi/48229/weather-forecast/333739" target="_blank">Ecorse, MI</a></div>
+</div><div id="currentTime"><br />
+<script type="text/javascript">
+window.onload = function() {
+
+  clock();  
+
+    function clock() {
+    var now = new Date();
+    var TwentyFourHour = now.getHours();
+    var hour = now.getHours();
+    var min = now.getMinutes();
+    var mid = 'pm';
+    if (min < 10) {
+      min = "0" + min;
+    }
+
+    if (hour > 12) {
+      hour = hour - 12;
+    }
+      
+    if(hour==0){ 
+      hour=12;
+    }
+
+    if(TwentyFourHour < 12) {
+       mid = 'am';
+    }
+      
+    document.getElementById('currentTime').innerHTML = hour+':'+min + mid ;
+    setTimeout(clock, 1000);
+
+  }
+  
+
+  
+}
+
+</script></div>
+</div>
+<div class="six columns masterlogo"><div id="masterlogo"><div id="logo" style="text-align: center;"><a href="/Home.aspx"><img alt="Ecorse, Michigan" class="img-ql-logo" src="/App_Themes/WebsiteFiles/images/Logo.png" /></a></div>
+</div>
+</div>
+<div class="five columns mastersearch"><div id="mastersearch"><div id="p_lt_ctl01_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl01_SmartSearchBox_txtWord" id="p_lt_ctl01_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl01$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl01_SmartSearchBox_txtWord" class="form-control" />
+    <input type="submit" name="p$lt$ctl01$SmartSearchBox$btnSearch" value="Search" id="p_lt_ctl01_SmartSearchBox_btnSearch" class="btn btn-default" />
+    
+    <div id="p_lt_ctl01_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+<div id="facebook"><a href="https://www.facebook.com/cityofecorse" target="_blank"><img alt="Facebook" class="img-ql-logo" src="/App_Themes/WebsiteFiles/images/Facebook.png" /></a></div></div>
+</div>
+</div>
+  <div id="noprint">
+<!--TechAffinity Menu Code START -->
+      <div class="clear"></div>
+      <div class="mobile-menu">
+      <a href="javascript:void(0);">Menu
+      <span></span>
+      </a>
+      </div> 
+<!--TechAffinity Menu Code END-->   
+   <div class="sixteen columns primarynav"><div id="navigation3">
+	<ul id="menuElem" class="brown mainSubMenuLayer CMSListMenuUL">
+		<li class="brown mainSubMenuLayer CMSListMenuLI">
+			<a class="brown mainSubMenuLayer CMSListMenuLink" href="/Government.aspx">Government</a>
+			<ul class=" innerSubMenuLayer CMSListMenuUL">
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Agendas-and-Minutes.aspx" style="section:1">Agendas and Minutes</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Government/Boards-and-Commissions.aspx" style="section:1">Boards and Commissions</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Government/City-Council.aspx" style="section:2">City Council</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Meeting-Dates-and-Times.aspx" style="section:2">Meeting Dates and Times</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;/Government/Title-VI-Non-Discrimination-Plan/TitleVINonDiscriminationPlan.aspx&#39;); return false;" href="/Government/Title-VI-Non-Discrimination-Plan.aspx" style="section:3">Title VI Non-Discrimination Plan</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Government/Transition-Advisory-Board.aspx" style="section:3">Transition Advisory Board</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Government/Featured.aspx">Featured</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx">Calendar</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Government/Featured/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx">Forms &amp; Permits</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li class="brown mainSubMenuLayer CMSListMenuLI">
+			<a class="brown mainSubMenuLayer CMSListMenuLink" href="/Departments.aspx">Departments</a>
+			<ul class=" innerSubMenuLayer CMSListMenuUL">
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/25th-District-Court.aspx" style="section:1">25th District Court</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Animal-Control.aspx" style="section:1">Animal Control</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Assessor.aspx" style="section:1">Assessor</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Attorney.aspx" style="section:1">Attorney</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/City-Clerk.aspx" style="section:1">City Clerk</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Departments/City-Clerk/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/City-Clerk/Zoning-Ordinance.aspx">Zoning Ordinance</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/City-Administrator.aspx" style="section:1">City Administrator</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Community-Development.aspx" style="section:1">Community Development</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Community-Development/CDBG-Housing-Rehab.aspx">CDBG Housing Rehab</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;/Departments/Community-Development/Proposed-Master-Plan/ECORSE-MasterPlan-Maps.aspx &#39;); return false;" href="/Departments/Community-Development/Proposed-Master-Plan.aspx">Master Plan</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Community-Development/Surplus-Property-List.aspx">Surplus Property List</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Community-Development/Zoning-Ordinance.aspx">Zoning Ordinance</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Controller.aspx" style="section:2">Controller</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Housing-Department.aspx" style="section:2">Housing</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources.aspx" style="section:2">Human Resources</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Information-Technology.aspx" style="section:2">Information Technology</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Parks-and-Recreation.aspx" style="section:2">Parks and Recreation</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Parks-and-Recreation/Little-League-Forms.aspx">Little League Forms 2020</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Parks-and-Recreation/Parks-and-Facilities.aspx">Parks and Facilities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Parks-and-Recreation/Parks-and-Recreation-Plan.aspx">Parks and Recreation Plan</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Public-Safety.aspx" style="section:3">Public Safety</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Public-Safety/Fire-Department.aspx">Fire Department</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Public-Services.aspx" style="section:3">Public Services</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Public-Services/Building-and-Engineering-Department.aspx">Building Department</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Public-Services/Department-of-Public-Works.aspx">Department of Public Works</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Public-Services/Engineering.aspx">Engineering</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Public-Services/Water-Sewer-Department.aspx">Water &amp; Sewer Department</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Senior-Center.aspx" style="section:3">Senior Center</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Treasurer.aspx" style="section:3">Treasurer</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Featured-(1).aspx">Featured</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx">Calendar</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Departments/Featured-(1)/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx">Forms &amp; Permits</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li class="brown mainSubMenuLayer CMSListMenuLI">
+			<a class="brown mainSubMenuLayer CMSListMenuLink" href="/Community.aspx">Community</a>
+			<ul class=" innerSubMenuLayer CMSListMenuUL">
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Community/Census.aspx" style="section:1">Census</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Community/Library.aspx" style="section:1">Library</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Departments/Parks-and-Recreation/Parks-and-Facilities.aspx" style="section:2">Parks and Facilities</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Community/Restaurants-of-Ecorse.aspx" style="section:3">Restaurants of Ecorse</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Community/Featured-(1).aspx">Featured</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx">Calendar</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Community/Featured-(1)/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx">Forms &amp; Permits</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li class="brown mainSubMenuLayer CMSListMenuLI">
+			<a class="brown mainSubMenuLayer CMSListMenuLink" href="/https/reviews-wxyz-com.aspx">Reference</a>
+			<ul class=" innerSubMenuLayer CMSListMenuUL">
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Bids-and-Proposals.aspx" style="section:1">Bids and Proposals</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Agendas-and-Minutes.aspx" style="section:1">Agendas and Minutes</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx" style="section:1">Calendar</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx" style="section:1">Forms and Permits</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/https/reviews-wxyz-com-1.aspx" style="section:2">Links</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Meeting-Dates-and-Times.aspx" style="section:2">Meeting Dates and Times</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Site-Map.aspx" style="section:3">Site Map</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Site-Use-Policy.aspx" style="section:3">Site Use Policy</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Reference/Featured-(1).aspx">Featured</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx">Calendar</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Reference/Featured-(1)/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx">Forms &amp; Permits</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li class="brown mainSubMenuLayer CMSListMenuLI">
+			<a class="brown mainSubMenuLayer CMSListMenuLink" href="/Contact-Us.aspx">Contact Us</a>
+			<ul class=" innerSubMenuLayer CMSListMenuUL">
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Contact-Us/Directory.aspx" style="section:1">Directory</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:2">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Contact-Us/Local-Franchise-Authority.aspx" style="section:2">Local Franchise Authority</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:3">
+					<a class=" innerSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://seeclickfix.com/web_portal/mS9aCXSa2REb34ef1phxz1qd/report/location&#39;); return false;" href="/Contact-Us/Report-a-Problem.aspx" style="section:3">SeeClickFix</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI" style="section:1">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Contact-Us/DivDat-Tax-and-Water-Payments.aspx" style="section:1">Online Tax and Water Payments</a>
+				</li>
+				<li class=" innerSubMenuLayer CMSListMenuLI">
+					<a class=" innerSubMenuLayer CMSListMenuLink" href="/Contact-Us/Featured-(1).aspx">Featured</a>
+					<ul class=" innerSecondSubMenuLayer CMSListMenuUL">
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Calendar.aspx">Calendar</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" onclick="window.open(&#39;https://library.municode.com/mi/ecorse/codes/code_of_ordinances&#39;); return false;" href="/Contact-Us/Featured-(1)/City-Codes.aspx">City Codes</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Departments/Human-Resources/Employment-Opportunities.aspx">Employment Opportunities</a>
+						</li>
+						<li class=" innerSecondSubMenuLayer CMSListMenuLI">
+							<a class=" innerSecondSubMenuLayer CMSListMenuLink" href="/Reference/Forms-and-Permits.aspx">Forms &amp; Permits</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+
+	</ul>
+
+
+</div></div></div>
+</div>
+<div class="sixteen columns image"><div id="image"><img class="scale-with-grid"><br />
+<script language="JavaScript" type="text/javascript">
+<!--
+function random_imglink(){
+var myimages=new Array()
+myimages[1]="/App_Themes/WebsiteFiles/images/bg-image.jpg"
+
+var ry=Math.floor(Math.random()*myimages.length)
+if (ry==0)
+ry=1
+document.write('<img class="scale-with-grid" alt="Section Banner" src="'+myimages[ry]+'" border=0>')
+}
+random_imglink()
+//-->
+</script></script></div></div>
+<div class="container">
+  <div id="skiptocontent">
+  <div id="content">
+
+<div class="interiorbackground">
+<div class="container">
+<div class="three columns interiorside"><div id="interiorside"><div id="spacer"></div></div></div>
+<div class="thirteen columns interiorcontent"><div id="interiorcontent"><div id="breadcrumbs">
+</div><H1>Page Not Found
+
+
+
+</H1><div id="interiorcontenttext">Please note that our website has undergone changes, and the page you are looking for is no longer available at this specific web address. The page more than likely still exists in the website, however, the URL has changed. &nbsp;We are sorry for any inconvenience. &nbsp;<br />
+<br />
+Please use the menus to find the page you are looking for and please update your bookmarks!<br />
+<br />
+<a href="/Home.aspx">Or click here to go to the home page</a>.
+
+
+
+</div>
+</div></div>
+</div>
+</div>
+</div></div>
+  <div class="sixteen columns footer"><div id="footer"><div><div style="float: left;width: 50%;height: 187px;"><div id="footerleft"><div id="footertext">Albert B. Buday Civic Center&nbsp; |&nbsp; 3869 West Jefferson&nbsp; |&nbsp; Ecorse, MI 48229<br />
+<a href="tel:313-386-2520"><span style="color:#FFFFFF;text-decoration: none;">313-386-2520</span></a>&nbsp; |&nbsp; 313-386-1340&nbsp;Fax&nbsp;<br />
+City Hall Office Hours&nbsp; |&nbsp; Tuesdays &amp; Thursdays | 8:30am - 4:30pm<br />
+Call in for Building Department until further notice<br />
+25th District Court Hours&nbsp; |&nbsp; Monday - Friday | 9:00am - 4:00pm</div>
+
+<div id="footermenu"><a href="/Home.aspx">Home</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="/Site-Map.aspx">Site Map</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="/Site-Use-Policy.aspx">Site Use Policy</a></div>
+
+
+
+
+</div></div><div style="float: right;width: 50%;"><div id="footerright"><div id="footerlogo"><a href="/Home.aspx"><img alt="Ecorse, Michigan" src="/App_Themes/WebsiteFiles/images/footerlogo.png" /></a></div>
+<div id="credentials"><a href="http://muniweb.com/"><img alt="muniweb" src="/App_Themes/WebsiteFiles/images/muniweb.png" /></a><br />
+&nbsp;</div>
+
+<div id="copyright">Copyright &copy; 2020. All Rights Reserved</div>
+
+
+
+
+</div></div><div style="clear: both;"></div></div></div></div></div>
+
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-103231604-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script></form>
+</body>
+</html>

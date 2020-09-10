@@ -1,0 +1,136 @@
+# Robots File for www.SantaBarbaraCA.gov
+# Updated 5/13/2020 by SNelson
+Sitemap: https://www.santabarbaraca.gov/sitemap.xml
+
+User-agent: *
+
+# Temporary Disallows
+# Root System Folders
+Disallow: /*/act_default.asp
+Disallow: /*/groupcommon.asp
+Disallow: /*aspnet*/
+Disallow: /*private*/
+Disallow: /aspnet*/
+# Root pages
+Disallow: /403.asp
+Disallow: /404.asp
+Disallow: /500.asp
+Disallow: /501.asp
+Disallow: /502.asp
+Disallow: /robots.txt
+Disallow: /styles.asp
+# Main website folders
+Disallow: /SBDocuments/Civica_CMS/
+Disallow: /SBDocuments/advisory_groups/civica_cms/
+Disallow: /business/business_license/additional/
+Disallow: /contact/parks/default.asp/
+Disallow: /gov/brdcomm/dm/historic/members/
+Disallow: /gov/cityhall/holidays/
+Disallow: /gov/depts/adminsvs/hr/jobs/
+Disallow: /gov/depts/adminsvs/is/remotesupport/
+Disallow: /gov/depts/airport/
+Disallow: /gov/depts/finance/ess/
+Disallow: /gov/depts/fire/sop/
+Disallow: /gov/depts/flysba/
+Disallow: /gov/depts/lib/myaccount/test/
+Disallow: /gov/depts/pw/dtp/sbdtp/
+Disallow: /gov/depts/pw/engineering/traffic/
+Disallow: /government/jobs/
+Disallow: /resident/water/
+Disallow: /services/community/charity/
+Disallow: /services/planning/parcel/
+# Staging and internal folders
+Disallow: /layouts/
+Disallow: /test/
+Disallow: /training/
+Disallow: /users/
+Disallow: /widget_layouts/
+Disallow: /widgets/
+# Special files and folders within the main site
+Disallow: /gov/depts/finance/accounting/escheatment.asp
+Disallow: /Government/Departments/PW/DesalSum.htm
+Disallow: /VPNDocs/
+Disallow: /gov/arts_comm_prom/underpass.asp
+Disallow: /gov/cityhall/holidays.asp
+Disallow: /gov/cityhall/infrastructure/default.asp
+Disallow: /gov/depts/finance/budget/AwardAdopted.asp
+Disallow: /gov/depts/finance/budget/adopted_gfoa.asp
+Disallow: /gov/depts/finance/budget/gfoa/
+Disallow: /gov/depts/parksrec/RFP3874.asp
+Disallow: /gov/depts/parksrec/golf/
+Disallow: /gov/depts/parksrec/recreation/adults/sports.asp
+Disallow: /gov/depts/parksrec/recreation/events/parkrec/artsandcraftsshow.asp
+Disallow: /gov/depts/police/ac/
+Disallow: /gov/depts/police/ac/officer1/default.asp
+Disallow: /gov/depts/police/ac/officer2/default.asp
+Disallow: /gov/depts/police/ac/officer3/default.asp
+Disallow: /gov/depts/pw/engineering/mcp/default.asp
+Disallow: /gov/depts/pw/engineering/mdp.asp
+Disallow: /gov/depts/pw/resources/conservation/reportwater/act_default.asp
+Disallow: /gov/depts/pw/resources/system/docs/stage2restrictions.asp
+Disallow: /gov/depts/pw/transpark/dtparking.asp
+Disallow: /gov/depts/pw/transpark/master_plans/1998_bmp_archive.asp
+Disallow: /gov/vote/district_elections.asp
+Disallow: /sbdocuments/Advisory_Groups/Z-Test_Folder/Current/03_Staff_Reports/2018-02-16_C_-_Granicus_LiveManager.pdf
+Disallow: /sbdocuments/Civica_CMS/02_Instruction_Documents/2018-05-09_Civica_CMS_-_Quick_Start_Guide_for_Content_Editors.docx
+Disallow: /sbdocuments/Training/Instructor/Current/2017-02-05_Staff_Report_-_New_Commissions.pdf
+Disallow: /services/community/mpe/default.asp
+Disallow: /services/construction/map.asp
+Disallow: /services/home/parcel/default.asp
+Disallow: /services/planning/mpe/climate.asp
+# Specific PDFs that need to be removed from search
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=12068
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=159201
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=160431
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=170151
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=173923
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=18429
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=19371
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=33828
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=34103
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=34347
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=34795
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=38462
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=38512
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=40793
+Disallow: /civicax/filebank/blobdload.aspx?blobid=17265
+Disallow: /civicax/filebank/blobdload.aspx?blobid=17327
+Disallow: /civicax/filebank/blobdload.aspx?blobid=185199
+Disallow: /civicax/filebank/blobdload.aspx?blobid=187479
+Disallow: /civicax/filebank/blobdload.aspx?blobid=19371
+Disallow: /civicax/filebank/blobdload.aspx?blobid=208858
+Disallow: /civicax/filebank/blobdload.aspx?blobid=208950
+Disallow: /civicax/filebank/blobdload.aspx?blobid=208951
+Disallow: /civicax/filebank/blobdload.aspx?blobid=211260
+Disallow: /civicax/filebank/blobdload.aspx?blobid=211261
+Disallow: /civicax/filebank/blobdload.aspx?blobid=27212
+Disallow: /civicax/filebank/blobdload.aspx?blobid=34346
+Disallow: /civicax/filebank/blobdload.aspx?blobid=38512
+Disallow: /documents/ES/Autopay%20App.pdf
+# Don't index these folders
+Disallow: /admin/
+Disallow: /cals/
+Disallow: /civica/
+Disallow: /crm/
+Disallow: /documents/
+Disallow: /dtSearch/
+Disallow: /faqs/
+Disallow: /flash/
+Disallow: /forms/
+Disallow: /forum/
+Disallow: /galleries/
+Disallow: /google_rfi/ 
+Disallow: /gov/vote/archive/
+Disallow: /home_nav/ 
+Disallow: /inc/
+Disallow: /infoguide/
+Disallow: /portal/
+Disallow: /webalizer/
+# Updated 091009 to comply with WAC recommendation
+Disallow: /gov/depts/parksrec/embed.asp
+Disallow: /gov/depts/pw/resources/dropcountr.asp
+Disallow: /mockup/
+Disallow: /search/
+Disallow: /swfs/
+Disallow: /templates/
+Disallow: /ute/

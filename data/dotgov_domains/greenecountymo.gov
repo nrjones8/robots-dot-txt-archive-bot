@@ -1,0 +1,20 @@
+# robots.txt for http://www.greenecountymo.gov/
+#
+# exclude some access-controlled areas
+User-agent: *
+
+Disallow: /about/public_access
+Disallow: /archives/probate_item.php
+Disallow: /assessor/beacon
+Disallow: /assessor/graphics
+Disallow: /assessor/business
+Disallow: /assessor/online
+Disallow: /circuit_clerk
+Disallow: /spane
+Disallow: /collector/pay_taxes
+Disallow: /collector/util
+Disallow: /e911/admin
+#Disallow: /files
+Disallow: /gcmedia
+Disallow: /highway/employee
+Disallow: /recorder/subscribers

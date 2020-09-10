@@ -1,0 +1,40 @@
+
+User-agent: *
+#Crawl-delay: 30
+#Disallow:  /
+Disallow: /wp-admin
+
+
+
+
+# Directories
+Disallow: /cgi-bin
+Disallow: /databases
+Disallow: /patterns
+Disallow: /sites
+
+
+# Files
+Disallow: /documentation.md
+Disallow: /gotourback.sh
+Disallow: /license.txt
+Disallow: /mysql.config
+Disallow: /package.json
+Disallow: /readme.html
+Disallow: /README.md
+Disallow: /webpack.config.js
+Disallow: /wp-activate.php
+Disallow: /wp-blog-header.php
+Disallow: /wp-comments.post.php
+Disallow: /wp-config-sample.php
+Disallow: /wp-config.php
+Disallow: /wp-cron.php
+Disallow: /wp-links-opml.php
+Disallow: /wp-load.php
+Disallow: /wp-login.php
+Disallow: /wp-mail.php
+Disallow: /wp-settings.php
+Disallow: /wp-signup.php
+Disallow: /wp-trackback.php
+Disallow: /xmlrpc.php
+

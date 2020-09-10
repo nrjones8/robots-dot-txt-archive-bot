@@ -1,0 +1,708 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="//www.gatlinburgtn.gov/index.php"/>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Metadata Area Starts -->
+	
+
+ 
+
+	
+	
+
+	<title>Welcome to Gatlinburg, TN</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content="Welcome to Gatlinburg, TN"/>
+	<meta name="robots" content="index, follow">
+<!-- Metadata Area Ends -->
+
+	
+<!-- // BEG of /plugins/setup/setup.before_endhead.template_include.jsp \\ -->
+<!-- // BEG of /plugins/setup/setup.before_endhead.common_include.jsp \\ -->
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+
+
+<!-- // BEG of setup.before_endhead.common javascript \\ -->
+<script type="text/javascript">
+
+<!-- // BEG of /plugins/general/general.revize_login.js \\ -->
+function revizelogin()
+{
+	var loginSpan = document.getElementById('revize-login');
+	//var loginSpan = document.getElementById('powered-by-revize-link');
+	if (!loginSpan) return;
+
+	var color,styleElement;
+	var selector1 = "#revize-login a";
+	var rule1 = "text-decoration:none !important;color:";
+	var selector2 = "#revize-login a:hover";
+	var rule2 = "text-decoration:underline !important";
+	if (document.all)
+	{
+		color = loginSpan.currentStyle.color;
+		styleElement = document.createStyleSheet();
+		styleElement.addRule(selector1 , rule1+color+' !important')
+		styleElement.addRule(selector2 , rule2)
+	}
+	else
+	{
+		color =  document.defaultView.getComputedStyle(loginSpan,'').getPropertyValue('color');
+		styleElement = document.createElement("style");
+		document.getElementsByTagName("head")[0].appendChild(styleElement);
+		styleElement = document.styleSheets[document.styleSheets.length-1];
+		styleElement.insertRule(selector1 + ' {' + rule1+color + ' !important}',0);
+		styleElement.insertRule(selector2 + ' {' + rule2 + '}',0);
+	}
+}
+if (typeof window.addEventListener != "undefined")
+	window.addEventListener("load", revizelogin, false);
+else if (typeof window.attachEvent != "undefined")
+	window.attachEvent("onload", revizelogin);
+<!-- \\ END of /plugins/general/general.revize_login.js // -->
+
+<!-- // BEG of /plugins/setup/setup.common_endhead.js \\ -->
+// Javascript included on all pages
+<!-- \\ END of /plugins/setup/setup.common_endhead.js // -->
+
+</script>
+<!-- \\ END of setup.before_endhead.common javascript // -->
+<!-- \\ END of /plugins/setup/setup.before_endhead.common_include.jsp // -->
+
+
+<!-- \\ END of /plugins/setup/setup.before_endhead.template_include.jsp // -->
+    <!--Files For Photo Gallery Starts-->
+	<link rel="stylesheet" href="/revize/plugins/revize_photo_gallery/css/isotope.css">
+	<link rel="stylesheet" href="/revize/plugins/revize_photo_gallery/css/prettyPhoto.css">
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> 
+
+ 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="/revize/plugins/revize_photo_gallery/js/jquery.prettyPhoto.js"></script>
+	<script src="/revize/plugins/revize_photo_gallery/js/jquery.isotope.min.js"></script>
+	<script src="/revize/plugins/revize_photo_gallery/js/isotope-custom.js"></script> 
+<!--Files For Photo Gallery Ends-->	<link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:400i|Open+Sans:400,700|Roboto:700">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+	<!-- Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+<!--Photo Gallery-->
+	<link rel="stylesheet" href="/revize/plugins/revize_photo_gallery/css/isotope.css">
+	<link rel="stylesheet" href="/revize/plugins/revize_photo_gallery/css/prettyPhoto.css">
+	<script src="/revize/plugins/revize_photo_gallery/js/jquery.prettyPhoto.js"></script>
+	<script src="/revize/plugins/revize_photo_gallery/js/jquery.isotope.min.js"></script>
+	<script src="/revize/plugins/revize_photo_gallery/js/isotope-custom.js"></script>
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms9.revize.com'
+
+RZ.pagetemplatename = 'photo_gallery'
+RZ.pagetemplateid = '3'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '557';
+
+RZ.pageid = 'links-557';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '557';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=557';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=557';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '557';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '557';
+RZ.editrecordversion = '';
+RZ.editversion = '';		//same as editrecordversion
+RZ.editaction = '';
+
+//----- Permission data
+RZ.page_roles = ''
+RZ.page_users = '16d5efed05b041786d1d6912fa9e27f20e02a671bce254302837f55798b439c1|ac32362ec367a048542f30b26f87107bd78c83403deee73c643a46f46dd3b207|eb1850883b4c24b08112b7d468dfaef179abd15dec50ef319e171683ebb47352'
+RZ.page_key = 'photo_gallery[557]'
+RZ.parent_key = 'index[]'
+RZ.inherit_key = 'index[]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'gatlinburg'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'https://cms9.revize.com/revize/gatlinburg';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+//----- Field values from webspace_config module
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.calendar_options = "max_events=6";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-160165617-1";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "hide_text=yes";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'Production';
+RZ.jsversion = 1.2//--><!]]></script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+ 
+<header>
+	<a href="not_found/index.php#main" id="skip" tabindex="0">SKIP TO CONTENT</a>
+
+	<div class="container">
+    
+<!-- Logo Area Starts -->
+		<a href="./" id="logo" class="clearfix">
+			<img src="./_assets_/images/inner-logo.png" alt="Logo">
+		</a><!-- /.logo -->
+<!-- Logo Area Ends -->
+
+		<div id="toggles" class="hidden-lg hidden-md">
+			<div tabindex="0" id="search-toggle-mobile" class="fa fa-search"></div>
+			<div tabindex="0" id="nav-toggle" class="fa fa-bars"></div>	
+		</div><!-- /#toggles -->
+
+<!--Top Navigation Area Starts-->
+		<nav>
+            
+<!-- // BEG of topnav_template v05-10-2011 \\ -->
+
+
+
+
+<!-- // BEG of  /plugins/menus/menus_topnav_list_include.jsp \\ --> 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-4"><a class="menuA level0 menuDisplay" href="index.php" target="_self">home</a></li>
+	<li class="menuLI level0 menuDisplay li-33 children"><a class="menuA level0 menuDisplay" href="departments/index.php" target="_self">Departments</a>
+		<ul class="menuUL level1 menuHidden ul-46">
+			<li class="menuLI level1 menuHidden li-46 children"><a class="menuA level1 menuHidden" href="departments/planning/index.php" target="_self">Building & Planning</a>
+				<ul class="menuUL level2 menuHidden ul-399">
+					<li class="menuLI level2 menuHidden li-399"><a class="menuA level2 menuHidden" href="departments/planning/planning_documents___information.php" target="_self">Planning Documents & Information</a></li>
+					<li class="menuLI level2 menuHidden li-400"><a class="menuA level2 menuHidden" href="departments/planning/codes_and_permits/index.php" target="_self">Codes And Permits</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-39"><a class="menuA level1 menuHidden" href="departments/building_maintenance/index.php" target="_self">Building Maintenance</a></li>
+			<li class="menuLI level1 menuHidden li-40"><a class="menuA level1 menuHidden" href="https://www.gatlinburg.com/plan/meetings-conventions/the-convention-center/" target="_new">Convention Center</a></li>
+			<li class="menuLI level1 menuHidden li-41"><a class="menuA level1 menuHidden" href="departments/finance/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-42 children"><a class="menuA level1 menuHidden" href="departments/fire/index.php" target="_self">Fire</a>
+				<ul class="menuUL level2 menuHidden ul-395">
+					<li class="menuLI level2 menuHidden li-395"><a class="menuA level2 menuHidden" href="departments/fire/information.php" target="_self">Information</a></li>
+					<li class="menuLI level2 menuHidden li-396"><a class="menuA level2 menuHidden" href="departments/fire/administration.php" target="_self">Administration</a></li>
+					<li class="menuLI level2 menuHidden li-397"><a class="menuA level2 menuHidden" href="departments/fire/fire_prevention.php" target="_self">Fire Prevention</a></li>
+					<li class="menuLI level2 menuHidden li-398"><a class="menuA level2 menuHidden" href="departments/fire/medical_services.php" target="_self">Medical Services</a></li>
+					<li class="menuLI level2 menuHidden li-705"><a class="menuA level2 menuHidden" href="departments/fire/firewise.php" target="_self">Firewise Community Information</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-43"><a class="menuA level1 menuHidden" href="https://www.gatlinburg.com/to-do/attractions/outdoors/outdoor-activities/golf/" target="_new">Golf</a></li>
+			<li class="menuLI level1 menuHidden li-44"><a class="menuA level1 menuHidden" href="http://www.gatlinburgtrolley.org/" target="_new">Mass Transit</a></li>
+			<li class="menuLI level1 menuHidden li-45"><a class="menuA level1 menuHidden" href="departments/parking/index.php" target="_self">Parking</a></li>
+			<li class="menuLI level1 menuHidden li-47 children"><a class="menuA level1 menuHidden" href="departments/police/index.php" target="_self">Police</a>
+				<ul class="menuUL level2 menuHidden ul-402">
+					<li class="menuLI level2 menuHidden li-402"><a class="menuA level2 menuHidden" href="departments/police/information.php" target="_self">Information</a></li>
+					<li class="menuLI level2 menuHidden li-403"><a class="menuA level2 menuHidden" href="departments/police/administration.php" target="_self">Administration</a></li>
+					<li class="menuLI level2 menuHidden li-404"><a class="menuA level2 menuHidden" href="departments/police/investigations.php" target="_self">Investigations</a></li>
+					<li class="menuLI level2 menuHidden li-405"><a class="menuA level2 menuHidden" href="departments/police/patrol.php" target="_self">Patrol</a></li>
+					<li class="menuLI level2 menuHidden li-406"><a class="menuA level2 menuHidden" href="departments/police/communications.php" target="_self">Communications</a></li>
+					<li class="menuLI level2 menuHidden li-407"><a class="menuA level2 menuHidden" href="departments/police/jail.php" target="_self">Jail</a></li>
+					<li class="menuLI level2 menuHidden li-408"><a class="menuA level2 menuHidden" href="departments/police/services.php" target="_self">Services</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-48 children"><a class="menuA level1 menuHidden" href="departments/recreation/index.php" target="_self">Recreation</a>
+				<ul class="menuUL level2 menuHidden ul-409">
+					<li class="menuLI level2 menuHidden li-409"><a class="menuA level2 menuHidden" href="departments/recreation/community_center/index.php" target="_self">Community Center</a></li>
+					<li class="menuLI level2 menuHidden li-410"><a class="menuA level2 menuHidden" href="departments/recreation/outdoor_activities.php" target="_self">Outdoor Activities</a></li>
+					<li class="menuLI level2 menuHidden li-411"><a class="menuA level2 menuHidden" href="departments/recreation/trout_farm.php" target="_self">Trout Farm</a></li>
+					<li class="menuLI level2 menuHidden li-412"><a class="menuA level2 menuHidden" href="departments/recreation/landscape___beautification.php" target="_self">Landscape & Beautification</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-49 children"><a class="menuA level1 menuHidden" href="departments/sanitation/index.php" target="_self">Sanitation</a>
+				<ul class="menuUL level2 menuHidden ul-413">
+					<li class="menuLI level2 menuHidden li-413"><a class="menuA level2 menuHidden" href="departments/sanitation/streets_sanitation.php" target="_self">Streets Sanitation</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-50"><a class="menuA level1 menuHidden" href="departments/service_center/index.php" target="_self">Service Center</a></li>
+			<li class="menuLI level1 menuHidden li-52 children"><a class="menuA level1 menuHidden" href="departments/utilities/index.php" target="_self">Utilities</a>
+				<ul class="menuUL level2 menuHidden ul-414">
+					<li class="menuLI level2 menuHidden li-414"><a class="menuA level2 menuHidden" href="departments/utilities/administrative_staff.php" target="_self">Administrative Staff</a></li>
+					<li class="menuLI level2 menuHidden li-415"><a class="menuA level2 menuHidden" href="departments/utilities/water_quality.php" target="_self">Water Quality</a></li>
+					<li class="menuLI level2 menuHidden li-416"><a class="menuA level2 menuHidden" href="departments/utilities/call_before_you_dig.php" target="_self">Call Before You Dig</a></li>
+					<li class="menuLI level2 menuHidden li-417"><a class="menuA level2 menuHidden" href="departments/utilities/developer_information.php" target="_self">Developer Information</a></li>
+					<li class="menuLI level2 menuHidden li-418"><a class="menuA level2 menuHidden" href="https://sces.net/" target="_new">Electric Service</a></li>
+					<li class="menuLI level2 menuHidden li-419"><a class="menuA level2 menuHidden" href="http://www.scudgas.org/" target="_new">Natural Gas Service</a></li>
+					<li class="menuLI level2 menuHidden li-420"><a class="menuA level2 menuHidden" href="http://www.seviercountytn.org/water-department.html" target="_new">Sevier County Water</a></li>
+					<li class="menuLI level2 menuHidden li-421"><a class="menuA level2 menuHidden" href="http://www.wcud.org/" target="_new">Webb Creek Utility District</a></li>
+					<li class="menuLI level2 menuHidden li-422"><a class="menuA level2 menuHidden" href="http://www.uiwater.com/tennessee" target="_new">Tennessee Water Service</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-34 children"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a>
+		<ul class="menuUL level1 menuHidden ul-309">
+			<li class="menuLI level1 menuHidden li-309"><a class="menuA level1 menuHidden" href="residents/black_bear_management_program/index.php" target="_self">Black Bear Management Program</a></li>
+			<li class="menuLI level1 menuHidden li-311"><a class="menuA level1 menuHidden" href="departments/planning/codes_and_permits/index.php" target="_self">Building Permits & Codes</a></li>
+			<li class="menuLI level1 menuHidden li-310"><a class="menuA level1 menuHidden" href="departments/recreation/community_center/index.php" target="_self">Community Center</a></li>
+			<li class="menuLI level1 menuHidden li-312"><a class="menuA level1 menuHidden" href="http://golf.gatlinburg.com/" target="_new">Golf Course</a></li>
+			<li class="menuLI level1 menuHidden li-313 children"><a class="menuA level1 menuHidden" href="residents/information/index.php" target="_self">General Information</a>
+				<ul class="menuUL level2 menuHidden ul-392">
+					<li class="menuLI level2 menuHidden li-392"><a class="menuA level2 menuHidden" href="residents/information/flood_information.php" target="_self">Flood Information</a></li>
+					<li class="menuLI level2 menuHidden li-393"><a class="menuA level2 menuHidden" href="residents/information/storm_water_information.php" target="_self">Storm Water Information</a></li>
+					<li class="menuLI level2 menuHidden li-394"><a class="menuA level2 menuHidden" href="residents/information/street_information.php" target="_self">Street Information</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-314"><a class="menuA level1 menuHidden" href="http://annaporterpl.org/" target="_new">Library</a></li>
+			<li class="menuLI level1 menuHidden li-315"><a class="menuA level1 menuHidden" href="residents/parking/index.php" target="_self">Parking</a></li>
+			<li class="menuLI level1 menuHidden li-316"><a class="menuA level1 menuHidden" href="departments/recreation/outdoor_activities.php" target="_self">Parks & Recreation</a></li>
+			<li class="menuLI level1 menuHidden li-317"><a class="menuA level1 menuHidden" href="residents/peg_video_channel/index.php" target="_self">PEG Video Channel</a></li>
+			<li class="menuLI level1 menuHidden li-318"><a class="menuA level1 menuHidden" href="residents/recycling/index.php" target="_self">Recycling</a></li>
+			<li class="menuLI level1 menuHidden li-319"><a class="menuA level1 menuHidden" href="residents/tree_trimming_and_removal/index.php" target="_self">Tree Trimming and Removal</a></li>
+			<li class="menuLI level1 menuHidden li-320"><a class="menuA level1 menuHidden" href="http://www.gatlinburgtrolley.org/" target="_new">Trolleys</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-53"><a class="menuA level0 menuDisplay" href="http://www.gatlinburg.com/" target="_new">Visitors</a></li>
+	<li class="menuLI level0 menuDisplay li-36 children"><a class="menuA level0 menuDisplay" href="gatlinburg_government/index.php" target="_self">Gatlinburg Government</a>
+		<ul class="menuUL level1 menuHidden ul-54">
+			<li class="menuLI level1 menuHidden li-54 children"><a class="menuA level1 menuHidden" href="gatlinburg_government/boards_and_committees/index.php" target="_self">Boards and Committees</a>
+				<ul class="menuUL level2 menuHidden ul-381">
+					<li class="menuLI level2 menuHidden li-381"><a class="menuA level2 menuHidden" href="gatlinburg_government/city_commission/index.php" target="_self">Gatlinburg City Commission</a></li>
+					<li class="menuLI level2 menuHidden li-382"><a class="menuA level2 menuHidden" href="gatlinburg_government/boards_and_committees/municipal_regional_planning_commission.php" target="_self">Municipal Regional Planning Commission</a></li>
+					<li class="menuLI level2 menuHidden li-383"><a class="menuA level2 menuHidden" href="gatlinburg_government/boards_and_committees/environmental_design_review_board.php" target="_self">Environmental Design Review Board</a></li>
+					<li class="menuLI level2 menuHidden li-384"><a class="menuA level2 menuHidden" href="gatlinburg_government/boards_and_committees/municipal_board_of_zoning_appeals.php" target="_self">Municipal Board of Zoning Appeals</a></li>
+					<li class="menuLI level2 menuHidden li-385"><a class="menuA level2 menuHidden" href="gatlinburg_government/boards_and_committees/regional_board_of_zoning_appeals.php" target="_self">Regional Board of Zoning Appeals</a></li>
+					<li class="menuLI level2 menuHidden li-386"><a class="menuA level2 menuHidden" href="gatlinburg_government/boards_and_committees/board_of_appeals.php" target="_self">Board of Appeals</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-55 children"><a class="menuA level1 menuHidden" href="gatlinburg_government/city_commission/index.php" target="_self">City Commission</a>
+				<ul class="menuUL level2 menuHidden ul-387">
+					<li class="menuLI level2 menuHidden li-387"><a class="menuA level2 menuHidden" href="gatlinburg_government/city_commission/minutes_and_agendas.php" target="_self">Minutes And Agendas</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-56"><a class="menuA level1 menuHidden" href="gatlinburg_government/city_manager/index.php" target="_self">City Manager</a></li>
+			<li class="menuLI level1 menuHidden li-57"><a class="menuA level1 menuHidden" href="gatlinburg_government/public_accessibility/index.php" target="_self">Public Accessibility</a></li>
+			<li class="menuLI level1 menuHidden li-58 children"><a class="menuA level1 menuHidden" href="gatlinburg_government/purchasing/index.php" target="_self">Purchasing</a>
+				<ul class="menuUL level2 menuHidden ul-388">
+					<li class="menuLI level2 menuHidden li-388"><a class="menuA level2 menuHidden" href="gatlinburg_government/purchasing/vendors.php" target="_self">Vendors</a></li>
+					<li class="menuLI level2 menuHidden li-389"><a class="menuA level2 menuHidden" href="https://vrapp.vendorregistry.com/Bids/View/BidsList?BuyerId=07fd2c95-31ac-4e7c-966d-b69d22b9627e" target="_new">Vendor Registration</a></li>
+					<li class="menuLI level2 menuHidden li-390"><a class="menuA level2 menuHidden" href="gatlinburg_government/purchasing/bids.php" target="_self">Bids</a></li>
+					<li class="menuLI level2 menuHidden li-391"><a class="menuA level2 menuHidden" href="gatlinburg_government/purchasing/bid_results.php" target="_self">Bid Results</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-59"><a class="menuA level1 menuHidden" href="https://www.comptroller.tn.gov/office-functions/open-records-counsel/office-of-open-records-counsel/policies---guidelines.html" target="_new">TN Open Records Info</a></li>
+			<li class="menuLI level1 menuHidden li-667"><a class="menuA level1 menuHidden" href="https://www.gatlinburgtn.gov/planning/planning%20files/Municipal%20Zoning%20Ordinances.pdf" target="_new">Municipal Zoning Ordinance</a></li>
+			<li class="menuLI level1 menuHidden li-688"><a class="menuA level1 menuHidden" href="https://www.mtas.tennessee.edu/code/municipal-code-gatlinburg" target="_new">Municipal Code</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-37 children"><a class="menuA level0 menuDisplay" href="i_want_to/index.php" target="_self">I Want To</a>
+		<ul class="menuUL level1 menuHidden ul-374">
+			<li class="menuLI level1 menuHidden li-374"><a class="menuA level1 menuHidden" href="i_want_to/apply_for_a_job.php" target="_self">Apply For A Job</a></li>
+			<li class="menuLI level1 menuHidden li-375"><a class="menuA level1 menuHidden" href="i_want_to/contact_city_hall.php" target="_self">Contact City Hall</a></li>
+			<li class="menuLI level1 menuHidden li-376"><a class="menuA level1 menuHidden" href="https://gatlinburg-tn.mygovonline.com/publicservices/privilege-tax/login" target="_new">File Monthly Privilege Taxes</a></li>
+			<li class="menuLI level1 menuHidden li-377"><a class="menuA level1 menuHidden" href="i_want_to/pay_my_bill.php" target="_self">Pay My Bill</a></li>
+			<li class="menuLI level1 menuHidden li-378"><a class="menuA level1 menuHidden" href="i_want_to/request_public_records.php" target="_self">Request Public Records</a></li>
+			<li class="menuLI level1 menuHidden li-379"><a class="menuA level1 menuHidden" href="calendar_app/index.html" target="_new">View Calendar</a></li>
+			<li class="menuLI level1 menuHidden li-380"><a class="menuA level1 menuHidden" href="https://gatlinburg-tn.mygovonline.com/mod.php?mod=propertytax&mode=public_lookup" target="_new">View Property Taxes</a></li>
+			<li class="menuLI level1 menuHidden li-1027"><a class="menuA level1 menuHidden" href="i_want_to/apply_for_a_tourist_residency_permit.php" target="_self">Apply for a Tourist Residency Permit</a></li>
+		</ul>
+	</li>
+</ul>
+<!-- \\ END of /plugins/menus/menus_topnav_list_include.jsp // -->
+
+<!-- \\ END of topnav_template // -->
+
+
+
+		</nav>
+<!--Top Navigation Area Ends-->
+
+<!--Social Area Starts-->
+		<div class="social-links hidden-sm hidden-xs">
+                          
+
+
+
+ 
+	<a href="http://www.twitter.com/GatlinburgCity" class="fa fa-twitter"></a>
+
+  
+	<a href="http://www.facebook.com/CityofGatlinburg/" class="fa fa-facebook"></a> 
+
+		</div><!-- /.social-links -->
+<!--Social Area Starts-->
+
+		<div tabindex="0" id="search-toggle" class="fa fa-search"></div>
+        
+<!--Search Area Starts-->
+		<div id="search">
+			<form class="search-form" method="get" action="search.php">
+				<label class="fa fa-search" for="search-input"></label>
+				<input name="q" class="form-control search-input" placeholder="Enter search terms..." type="search" id="search-input">
+				<button><i class="fa fa-search"></i></button>
+			</form><!-- /.search-form -->
+		</div><!-- /#search -->
+<!--Search Area Ends-->
+
+	</div><!-- /.container -->
+</header><!-- /.clearfix -->
+
+<section id="slider">
+
+    
+<!--Slider Wrap Starts--> 
+		
+<div class="sliderbtn">
+  	
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+    RZ.module = 'banner';
+    RZ.nexturl = "editforms/slider-editlist.jsp?pageid=557";
+    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+    RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
+    RZ.caption = '';
+    RZ.options = '';
+    if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+    
+</div>
+                      
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+    
+     
+     
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('banner','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+<ul class="bxslider">
+    <li style="background: url('_assets_%2Fimages%2Finner-hero.jpg') center no-repeat; background-size: cover;"></li>
+</ul><!-- /.bxslider -->
+<!--Slider Wrap Ends--> 
+
+	<div class="container">
+    
+<!--Page Title Wrap Starts-->
+		
+		<h1 id="page-title">404. The page/URL requested wasn't found on this page.</h1>
+<!--Page Title Wrap Ends-->
+
+<!--Breadcrumb Wrap Starts-->
+		<nav id="breadcrumbs">
+			<p>
+				<a href="./">Home</a> &nbsp;&nbsp;not&nbsp;found
+			</p>
+		</nav><!-- /#breadcrumbs -->
+<!--Breadcrumb Wrap Ends-->
+
+	</div><!-- /.container -->
+</section><!-- /#slider -->
+
+<main id="main">
+	<div class="container">
+		<article id="entry">
+            
+<!--Page Title Wrap Starts-->    
+             
+<!--Page Title Wrap Ends-->
+
+<!--Center Content Area Starts-->
+			<div id="post">				
+                <div class="editcenterBtns">
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'freeform';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/freeform-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                    RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
+                    RZ.set = 'freeform.pageid=links-557';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.module = 'freeform';
+                    RZ.recordid = '';
+                    RZ.nexturl = "editforms/metadata-editform.jsp";
+                    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+                    RZ.img = '<img src="images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
+                    RZ.set = 'freeform.pageid=links-557';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('editform');
+                    </script>
+                    
+                    
+                    
+                    <script language="JavaScript" type="text/JavaScript">
+                    RZ.nexturl = '';
+                    RZ.img = '<img src="images/edit/permissions.jpg" alt="Permissions" border="0" />';
+                    RZ.options = '';
+                    if (typeof RZaction != 'undefined') RZaction('permissions');
+                    </script>
+                    
+                </div>                            
+                
+              <!--Photo Gallery Starts-->
+
+	<div class="photobtn">
+	  
+	
+	
+	<script language="JavaScript" type="text/JavaScript">
+	RZ.module = 'revize_photo_gallery';
+	RZ.nexturl = "/revize/plugins/revize_photo_gallery/revize_photo_gallery-editlist.jsp?placement=links-557";
+	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+	RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
+	RZ.set = "revize_photo_gallery.placement=links-557";
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('editlist');
+	</script>
+	
+	</div>
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(2)
+</script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('revize_photo_gallery','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['revize_photo_gallery_2']={field:'seq_no',seq:'1.00'};
+</script>
+
+
+<div id="photo-galley">
+	<div class="main-isotope clearfix">
+	  <div class="isotope-wrap">
+	    <div id="isotope-container" class="clearfix">
+	      
+	      </div><!-- end #isotope-container -->
+	    </div><!-- end isotope-wrap -->
+	  </div><!-- main -->
+</div><!-- photo gallery -->
+
+<!--Photo Gallery Ends-->
+
+          </div><!-- /#post -->
+<!--Center Content Area Ends-->
+
+		</article><!-- /#entry -->
+	</div><!-- /.container -->
+</main>
+
+<!--Footer Area Starts-->
+<footer>
+	<section id="top-footer">
+		<div class="container">
+
+<!--Footer Contact Area Starts-->
+			<section id="contact">
+				<div id="footer-logo" style="background:url('./_assets_/images/footer-logo.png') center no-repeat;background-size:cover;"></div>
+				<div id="contact-info">              	
+                                          
+
+
+ 
+<span>contact city hall</span><span>1230 East Parkway</span><span>Gatlinburg, TN 37738</span><span>(865) 436-1400</span>
+				</div>
+			</section><!-- /.#contact -->
+<!--Footer Contact Area Ends-->
+
+		</div><!-- /.container -->
+	</section><!-- /#top-footer -->
+		
+<!--Copyright and Login Area Starts-->
+	<section id="revize-logo">
+		<div class="container">
+                          
+
+
+  <span><span>&copy; 2020 Gatlinburg TN. All Rights reserved.</span>
+<div>&nbsp;</div>
+<span id="revize-login" class="v06-11-2011"></span></span>
+            <!-- // BEG of /plugins/general/general.revize_login.include.jsp \\ -->
+<span id="revize-login" class="v06-11-2011"><span class="powered-by-revize">Powered By
+<a id="powered-by-revize-link" style="color:inherit;text-decoration:none"
+target="_blank" href="http://www.revize.com">Revize</a>
+</span><a id="revize-login-link" style="color:inherit;text-decoration:none"
+href="https://cms9.revize.com/revize/security/index.jsp?webspace=gatlinburg&filename=/not_found/index.php">Login</a></span>
+<!-- \\ END of /plugins/general/general.revize_login.include.jsp // -->
+		</div><!-- /.container -->
+	</section><!-- /#revize-logo -->
+<!--Copyright and Login Area Ends-->
+
+</footer>
+<!--Footer Area Ends-->
+
+<!-- Share widget make into an include file -->
+
+<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal">
+	<i class="fa fa-share-alt"></i>
+	<span>Share</span>
+</button>
+
+<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel">Share this page</h4>
+			</div>
+			<div class="modal-body">
+				<div class="copylink">
+					<p>Copy and paste this code into your website.</p>
+					<pre>&lt;a href="http://www.gatlinburgtn.gov/robots.txt">Your Link Name&lt;/a&gt;</pre>
+				</div><!-- /.copylink -->
+				<div class="share-btns">
+					<p>Share this page on your favorite Social network</p>
+					<div class="row">
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.gatlinburgtn.gov/robots.txt" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-facebook"></i> Facebook
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.twitter.com/home?status=http://www.gatlinburgtn.gov/robots.txt" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-twitter"></i> Twitter
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.plus.google.com/share?url=http://www.gatlinburgtn.gov/robots.txt" class="btn-google" onclick="return !window.open(this.href, 'google ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-google-plus"></i> Google Plus
+							</a>
+						</div>
+						<div class="col-md-3 col-xs-6">
+							<a href="https://www.reddit.com/submit?url=http://www.gatlinburgtn.gov/robots.txt" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+							target="_blank">
+								<i class="fa fa-reddit"></i> Reddit
+							</a>
+						</div>
+					</div><!-- /.row -->
+				</div><!-- /.share-btns -->
+				<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+			</div><!-- /.modal-body -->
+		</div>
+	</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<!-- Share widget make into an include file -->
+
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+
+<!--Goole Analytics Code Area Starts-->
+<!--Goole Analytics Code Area Ends-->
+
+<!-- // BEG of /plugins/setup/setup.before_endbody.template_include.jsp \\ -->
+<!-- // BEG of /plugins/setup/setup.before_endbody.common_include.jsp \\ -->
+<!-- \\ END of /plugins/setup/setup.before_endhead.common_include.jsp // -->
+<!-- // BEG of google.analytics_before_endbody.template_include.jsp  \\ -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-160165617-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- \\ END of google.analytics_before_endbody.template_include.jsp // -->
+
+<!-- \\ END of /plugins/setup/setup.before_endbody.template_include.jsp // -->
+</body>
+</html>

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /test/
+Disallow: /rebuild/
+Disallow: /a/
+Disallow: /admin/
+Disallow: admin.php
+Disallow: /l/
+Disallow: /legend/
+Disallow: legend.php
+Disallow: /functions/
+Disallow: /jscripts/
+Disallow: /modules/
+Disallow: /_archive/

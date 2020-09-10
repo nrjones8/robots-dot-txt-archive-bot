@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /clerk/ArchiveSearch/
+Disallow: /scripts/
+Disallow: /App_Code/
+Disallow: /App_WebReferences/
+Disallow: /Bin/
+Disallow: /webReports/
+Disallow: /Dev/
+Disallow:/Parksandrec/ContactHandler/
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot 
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-Agent: YandexDirect
+Disallow: /
+User-Agent: Bingbot
+Crawl-Delay:   20
+User-Agent: GoogleBot
+Crawl-Delay:   20
+User-agent: Yandex
+Crawl-delay: 300    # sets a 300 second time-out
+ 
