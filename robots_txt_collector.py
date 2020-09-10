@@ -1,6 +1,8 @@
 import csv
-import requests
+import multiprocessing as mp
 import os
+import requests
+
 
 from bs4 import BeautifulSoup
 
@@ -48,10 +50,12 @@ def get_and_save_robots_txt(domain_dict):
 
 def main():
     domains = get_domain_data()
-    for domain_data in domains:
-        get_and_save_robots_txt(domain_data)
-
+    cpu_count = mp.cpu_count()
+    print('Has {} CPUs, using them all'.format(cpu_count))
+    with mp.Pool(cpu_count) as p:
+        p.map(get_and_save_robots_txt, domains)
     print('All done.')
+
 
 if __name__ == '__main__':
     main()
