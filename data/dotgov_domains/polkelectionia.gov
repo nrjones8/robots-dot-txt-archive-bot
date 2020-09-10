@@ -1,0 +1,253 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Polk County Elections - Elections</title>
+    <link rel="icon" type="image/png" href="https://cdn.polkcountyiowa.gov/favicon.ico" />
+    
+
+    <link rel="stylesheet" href="https://cdn.polkcountyiowa.gov/lib/bootstrap/4.3.1/css/bootstrap.min.css"
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdn.polkcountyiowa.gov/lib/dataTables/1.10.18.b4/css/dataTables.min.css"
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/css/select2.min.css"
+          integrity="sha256-xJOZHfpxLR/uhh1BwYFS5fhmOAdIRQaiOul5F/b7v3s="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.1.2/css/tempusdominus-bootstrap-4.min.css"
+          integrity="sha256-XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.5/css/bootstrap-select.min.css"
+          integrity="sha256-+vXzuS+2WfIRKsWKhx57m2MxXLm1lWxXWMvRYvV8EmI="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/4.0.0-alpha.1/css/bootstrap-switch.min.css"
+          integrity="sha256-PwDS0S15XXaOu2MhLMr6KMPgu0/PFIckG7W67NMb7q0="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="/css/fullcalendar/fullcalendar.min.css?v=kmZk3zoLoXNBZXWCjOeCVXqFJgBb_eMU_UyRwCV8W-E" />
+    <link rel="stylesheet" href="/css/Animate/animate.min.css?v=4LWMVOE7IwKeDj3r6SQJ-4h-w03H1Hh7FwybWFzBq5I" />
+    <link rel="stylesheet" href="/css/loadLab/triple-spinner.min.css?v=vWbpEZCubz_n6avUKESPyJ0KtXUe88gXWU2GB0UiRck" />
+    <link rel="stylesheet" href="/css/theme/bootstrap.min.css?v=znzUO6jzIYqyyrb5BzeVjohsHX9KDMBeXo6_TGwSQMo" />
+    <link rel="stylesheet" href="/css/site.min.css?v=Fc7-7zlPUFyvk_U8ca0XezSNOfCL5YWNd2OjDVOXdHQ" />
+
+
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-6jHF7Z3XI3fF4XZixAuSu0gGKrXwoX/w3uFPxC56OtjChio7wtTGJWRW53Nhx6Ev"
+      crossorigin="anonymous" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdn.datatables.net/rowreorder/1.2.6/css/rowReorder.dataTables.min.css" />
+    
+    
+    
+        <link rel="stylesheet" href="/css/theme/background.min.css?v=UUu3SAhjIgHlRogP42gAeJZFOT4iyqR84wbQD88uPSE" />
+    
+
+</head>
+<body>
+    <nav class="navbar navbar-expand-xl navbar-dark bg-primary sticky-top">
+        <a class="navbar-brand d-flex align-items-center" target="_blank"
+           href="https://www.polkcountyiowa.gov/county-auditor/election/news-and-announcements/2020-presidential-general-election-tuesday-november-3/">
+            <img class="d-inline-block navbar-logo mr-2 d-sm-none" src="/images/auditor-logo.png" alt="Polk County Auditor" />
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav ml-auto">
+            </ul>
+            
+
+    <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item"><a class="nav-link" href="/Account/Login">Log in</a></li>
+    </ul>
+
+        </div>
+    </nav>
+
+    <main class="container pt-2">
+        
+<div id="loading-spinner"
+     class="triple-spinner"
+     style="position: fixed; top: 50%; left: 50%; z-index: 9999; margin-left: -75px; margin-top: -75px; display: none;">
+</div>
+            
+<div id="alertsArea">
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="container text-center">
+            <a class="align-items-center d-none d-sm-inline-flex" target="_blank"
+               href="https://www.polkcountyiowa.gov/county-auditor/election/news-and-announcements/2020-presidential-general-election-tuesday-november-3/">
+                <img style="max-width: 175px;" class="mb-2 d-none d-sm-inline-flex" src="/images/auditor-logo.png" alt="Polk County Auditor" />
+            </a>
+            <h2 class="text-white"><b>Polk County Elections</b></h2>
+        </div>
+    </div>
+</div>
+<div class="row d-flex justify-content-center">
+    <div class="col-sm-12 col-md-8 col-lg-6">
+        <div class="container">
+            <div class="text-white">
+                <p>2020 PRESIDENTIAL GENERAL ELECTION&nbsp; - Tuesday, November 3rd.</p>
+
+<p><a href="https://gisp1.polkcountyiowa.gov/portal/apps/webappviewer/index.html?id=cc890265d4064db8af5b8633c835f449"><strong>Polk County Online Map - Elected Officials</strong></a></p>
+
+<p><strong><span style="font-size:16px">ATTENTION VOTERS:&nbsp; </span></strong></p>
+
+<p><span style="font-size:16px">All Polk County Registered Voters have been mailed an&nbsp;<strong><a href="https://www.polkcountyiowa.gov/media/ea5hxe2t/absentee2020.pdf">ABSENTEE BALLOT REQUEST FORM</a>&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px">View your Absentee Status:&nbsp;</span></p>
+
+<p><span style="font-size:16px">&nbsp;<strong><a href="https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search">TRACK ABSENTEE BALLOT REQUEST &amp; BALLOT</a></strong></span></p>
+
+<p><span style="font-size:16px">General Election Ballots will be mailed out starting Monday, October 5th.&nbsp;</span></p>
+
+<p><span style="font-size:16px">Deadline to submit an Absentee Ballot Request&nbsp;by Mail is Saturday, October 24th.</span></p>
+
+<p><a href="https://www.polkcountyiowa.gov/county-auditor/election/news-and-announcements/presidential-general-election/"><span style="font-size:18px"><strong>View Sample Ballots</strong></span></a></p>
+
+<p>&nbsp;Email:&nbsp; election@polkcountyiowa.gov&nbsp; &nbsp; &nbsp; &nbsp;Phone:&nbsp; 515-286-3247</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mb-3">
+    <div class="col-md-6 m-0 p-0">
+        <div class="d-block p-2 btn-block-sm h-100">
+            <a class="btn btn-outline-light p-5 w-100 h-100" href="/PollingLocation/Search">
+                <h5 class="mb-0"><b>Find Your Polling Location</b></h5>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-6 m-0 p-0">
+        <div class="d-block p-2 btn-block-sm h-100">
+            <a target="_blank" class="btn btn-outline-light p-5 w-100 h-100" href="/SiteManagement/Document/View?documentId=3">
+                <h5 class="mb-0"><b>View List of Candidates</b></h5>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-6 m-0 p-0">
+        <div class="d-block p-2 btn-block-sm h-100">
+            <a href="https://www.polkcountyiowa.gov/media/ea5hxe2t/absentee2020.pdf" target="_blank"
+               class="btn btn-outline-light p-5 w-100 h-100">
+                <h5 class="mb-0"><b>Request an Absentee Ballot</b></h5>
+            </a>
+        </div>
+    </div>
+    <div class="col-md-6 m-0 p-0">
+        <div class="d-block p-2 btn-block-sm h-100">
+            <a href="https://mymvd.iowadot.gov/VoterRegistration" target="_blank"
+               class="btn btn-outline-light p-5 w-100 h-100">
+                <h5 class="mb-0"><b>Online Voter Registration</b></h5>
+            </a>
+        </div>
+    </div>
+</div>            
+<footer>
+    <hr style="margin-left: -15px; margin-right: -15px;" />
+    <div class="text-right">
+        <a href="https://www.polkcountyiowa.gov/" target="_blank">
+            <img class="d-inline-block navbar-logo mr-2"
+                 src="https://cdn.polkcountyiowa.gov/media/polkcounty/pc-logo-text-white.svg"
+                 alt="Polk County" />
+        </a>
+    </div>
+</footer>
+    </main>
+    
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+            integrity="sha256-ZvOgfh+ptkpoa2Y4HkRY28ir89u/+VRyDE7sB7hEEcI="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"
+            integrity="sha256-CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdn.polkcountyiowa.gov/lib/dataTables/1.10.18.b4/js/jquery.dataTables.min.js"
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdn.polkcountyiowa.gov/lib/dataTables/1.10.18.b4/js/dataTables.bootstrap4.min.js"
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"
+            integrity="sha256-bu/BP02YMudBc96kI7yklc639Mu4iKGUNNcam8D2nLc="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"
+            integrity="sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.1.2/js/tempusdominus-bootstrap-4.min.js"
+            integrity="sha256-z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdn.polkcountyiowa.gov/lib/tempusdominus/extend/tempusdominus-fa5-extend.min.js"
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.5/js/select2.min.js"
+            integrity="sha256-FA14tBI8v+/1BtcH9XtJpcNbComBEpdawUZA6BPXRVw="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"
+            integrity="sha256-G7A4JrJjJlFqP0yamznwPjAApIKPkadeHfyIwiaa9e0="
+            crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.5/js/bootstrap-select.min.js"
+            integrity="sha256-sPB0bXhTKTOD26cdIyP0IBbjPU55/RfeXgJmbPZmuXc="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/4.0.0-alpha.1/js/bootstrap-switch.min.js"
+            integrity="sha256-keDfX1zKGf3OtAcLT9OVsbSfw0cHdZb1RJM3Nk0V7gk="
+            crossorigin="anonymous"></script>
+
+    <script src="/js/Shared/fullcalendar.min.js?v=7hVGYqoOuwtBdn6HDbHEMj1e3DVhI5gjLjkIyFs9lD4"></script>
+    <script src="/js/Shared/infoAnimate.min.js?v=Qd2vlLY9DiTB8x1NKTi7FievH7LZnjkAzqpj68BoIao"></script>
+    <script src="/js/Shared/loading.min.js?v=IZGyYucKT_xC9uIM1aDX6xfymeDc7n7O8iGnFSZc5Ts"></script>
+    <script src="/js/Shared/confirm.min.js?v=H4zCQc246cFw0wn08EKLthXF9qPXM2Duiuk5gwfwVAU"></script>
+    <script src="/js/Shared/confirmDelete.min.js?v=0knU84dhS4n1O2HR0TRcaH9NDqPTDlGd9-0M7p1O5iE"></script>
+    <script src="/js/Shared/basicDataTable.min.js?v=kndcVfXrLz7JRc564TTfbCfnOag_UN7Ie17gxAlWAR8"></script>
+    <script src="/js/Shared/basicDateTime.min.js?v=AYk0ez9x5_l7KxZWkZiUXZMhW25_i0u9fXo34k_b6z4"></script>
+    <script src="/js/Shared/tooltip.min.js?v=Y-erOYBTAwvYGBNYPNafFqIMO91quWTkIqxksSLB_q4"></script>
+    <script src="/js/Shared/basicSwitch.min.js?v=_41pXM9pqptcq1DUjss6cp6vwyv0z5F7JWvn2oIUl8c"></script>
+    <script src="/js/Shared/basicEditor.min.js?v=D3Wb7KsM-AdDwPSTU4Q56MGMFPhlTysvGf-_5Lrpqwc"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ckeditor/4.12.1/ckeditor.js"
+        integrity="sha256-TED/E3SGPvEvuKbvWC781am0/paerbpwFulbWXPBPds="
+        crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/rowreorder/1.2.6/js/dataTables.rowReorder.min.js"></script>
+
+
+    
+</body>
+</html>

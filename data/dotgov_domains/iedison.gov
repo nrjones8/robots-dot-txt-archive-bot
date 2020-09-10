@@ -1,0 +1,570 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+<html>
+
+
+
+
+<HEAD>
+	<TITLE>iEdison: Welcome to iEdison</TITLE>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="stylesheet" type="text/css" href="/iedison/css/iedison.css">
+	<link rel="stylesheet" type="text/css" href="/iedison/css/login.css">
+	
+	<style>
+		hr	{
+			background-color: #195487;
+			border:0;
+			width: 90%;
+			height: 1px; 
+		}
+		body	{
+			background-color: #FEFAEF;
+		}
+	</style> 
+	
+</HEAD>
+
+<BODY leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<!-- This core tag will take care of setting the target url in the session, setting the
+	 smAuthReasonReqParam, smAgentNameReqParam, postPreservDataReqParam and smQueryDataReqParam
+	 in the pageContext-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript"> 
+if(typeof jQuery!='undefined') {
+	$(function() {
+		var sectionMap = { //button key, and matched urls, order is important, keys using naming convention matching markup (below): "#nav_key"
+				
+				"idrSearch": ["=idrSearch", "SearchIDR" , "/invention/"], 
+				"patentSearch": ["=patentSearch", "patent/search.era", "patent/record.era"],
+				"utilSearch": ["=utilSearch", "utilization"], 
+				
+				"docSearch": ["=docSearch", "SearchDoc"], 
+				"help": ["help"],
+				"about": ["about"],
+				"logout": ["logout"]
+		}
+		var l = window.location.href;
+		var current = "";
+		
+		$.each(sectionMap, function(k,v) {
+			$.each(v, function(i, item) {
+				if(l.toLowerCase().indexOf(item.toLowerCase())!=-1)	{
+					current = k;
+					return false;
+				}
+			});
+			if(current!="")	{
+				return false;
+			}	
+		}); 
+		
+		//catch all
+		if($("#mainMenuHeading").length)	{ 
+			current = "mainMenu";
+		}
+
+		if(current)	{
+			$('#nav_'+current).closest("li").addClass("activeSection");
+		}
+	});
+}
+</script>
+
+
+<div id="legacyHeader" style="background-color:#fff;background-image:url('/iedison/images/new-images/oldIedisonHeader_bg.png');">
+	<a href="/iedison/index.jsp"  target="_top"><img src="/iedison/images/new-images/oldIedisonHeader.png" alt="iEdison Header"/></a>
+</div>
+
+
+
+
+<div class="top_header">
+	<div class="orangeBottomBorder">
+		<div class="buttonBar" style="min-height:25px;">
+			<ul style="float:left;">
+				
+			</ul>
+			<ul style="float:right;">
+				<li><a id="nav_about" href="https://era.nih.gov/iedison/about.cfm" target="_top">About</a></li>
+				<li><a id="nav_help" href="https://era.nih.gov/iedison/user_guides.cfm" target="_top">Help</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
+<table border="0" cellspacing="0" cellpadding="0" width="960">
+  <tr>
+    <td colspan="2">
+      <table border="0" cellspacing="3" cellpadding="0" width="100%">
+        <tr valign="top">
+          <td width="161">
+
+              <img src="/iedison/images/spacer.gif"  alt="" width="1" height="5" border="0"><br>
+              <span class="footer">Log in to your secure account: All fields marked with an asterisk (*) are required. </span>
+              <br>
+              <img src="/iedison/images/spacer.gif"  alt="" width="1" height="5" border="0"><br>
+			  <br>				
+				<span class="tableinfo"></span>
+                <table border="0" cellspacing="0" cellpadding="1" class="tabletitlebold" align="center">
+                      <tr valign="middle">
+                        <td class="tabletitlebold">                
+                       		 &nbsp;&nbsp;&nbsp;&nbsp;Login
+                   			 <a href="http://era.nih.gov/erahelp/iEdison_User/Default.htm#cshid=1" target="_blank"><img src="/iedison/images/newhelp4.png" width="17" height="17" border="0" style="cursor: pointer;" alt="Need Help?" title="Need Help?" /></a>
+
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <table cellspacing="0" cellpadding="0" width="100%">
+                            <tr bgcolor="#FEFAEF">
+                              <td class="normal"><img src="/iedison/images/spacer.gif" width="1" height="5" alt=""><br>
+                                <table border="0" cellspacing="0" cellpadding="2" align="center" style="padding: 5px 10px;">
+                      				<tr align="center">
+                        				<td>
+
+ 
+
+							                  <!-- left panel starts -->
+                                           
+                                           
+                                              <form id="iedisonLogin" method="post" action="/iedison/authi/login?action=login">
+                                                 <div class="">
+                                                    <label for="unamegreybox">User Name</label>
+                                                    <br />
+                                                    <input name="ERA_SM_USERNAME" id="user" type="text" class="grey_bx" id="unamegreybox" size="25" autocomplete="off" />
+                                                 </div>
+                                                 <div class="" style="margin-top: 11px;">
+                                                    <label for="passgreybox">Password</label>
+                                                    <br />
+                                                    <input name="ERA_SM_PASSWORD" id="password" type="password" class="grey_bx" size="25" id="passgreybox" autocomplete="off"
+                                                       onkeydown="if (event.keyCode == 13) document.getElementById('submitAnchor').click()" />
+                                                 </div>
+                                                 
+                                                 <div style="text-align:center;padding-top:5px;">
+                                                    <div class="btn_base blue_btn_bg btn_txt loginBtn" style="width:70px;display:inline-block;">
+                                                    <a id="submitAnchor" 
+                                                       href="javascript:document.forms['iedisonLogin'].submit();"
+                                                       title="Login">Login</a>
+                                                    </div>
+                                                    <div class="btn_base grey_btn_bg btn_txt loginBtn" style="width:70px;display:inline-block;">
+                                                        <a href="javascript:document.forms['iedisonLogin'].reset();" title="Cancel">Cancel</a>
+                                                     </div>
+                                                 </div>
+                                                 
+                                                
+                                                    
+                                                    
+                                                        <input type="hidden" name="TARGET" value="https://public.era.nih.gov/iedison/init.do" />
+                                                    
+                                                 
+                                              </form>
+                                           
+							                  <div class="clearfloat"></div>
+											  <div>
+							                     <br><a title="Forgot Password/Unlock Account?" href="/iedison/public/dispatcher?action=resetPassword">Forgot Password/Unlock Account?</a>
+							                  </div>
+							                  
+												<div>
+							                     <span style="font-family: 'Trebuchet MS';	font-size: 12px;color:red;">(For External and Non-NIH Federal Users)</span>
+							                  </div>
+  											<div>
+  												<br> <a title="Forgot Password/Unlock Account?" href="https://iForgotMyPassword.nih.gov">Forgot Password/Unlock Account?</a>
+  											</div>
+   												<span style="font-family:'Trebuchet MS';font-size:12px;color:red;">(For NIH Federal Users)</span>
+                        				</td>
+									</tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                </table>
+             	<p>
+    			<a href="/iedison/public/institution/registration/RegistrationRequestForm.jsp" class="footer">Register Institution to use iEdison</a><br>
+    			<br>
+               	<span class="normalbold">System Notification</span><br>
+                        <p><div id="contentlayout_WEST" ><hr />
+<p><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;"><span style="color:#c0392b;"><strong>ALERT:</strong></span><span style="color:#0066cc">&nbsp;</span></span></span>NIH will be performing network maintenance the evening of August 31 ET. While no impact is expected, users may experience a brief interruption in service.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<hr />
+<p style="text-align: center;"><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;"><strong>***WARNING***</strong></span></span></p>
+
+<p><span style="font-size: 11px;"><span style="font-family: Arial,Helvetica,sans-serif;">You are accessing a U.S. Government information system, which includes (1) this computer, (2) this computer network, (3) all computers connected to this network, and (4) all devices and storage media attached to this network or to a computer on this network. This information system is provided for U.S. Government-authorized use only.&nbsp;<br />
+Unauthorized or improper use of this system may result in disciplinary action, as well as civil and criminal penalties.<br />
+By using this information system, you understand and consent to the following:<br />
+1.&nbsp;&nbsp; &nbsp;You have no reasonable expectation of privacy regarding any communication or data transiting or stored on this information system. At any time, and for any lawful Government purpose, the government may monitor, intercept, and search and seize any communication or data transiting or stored on this information system.<br />
+2.&nbsp;&nbsp; &nbsp;Any communication or data transiting or stored on this information system may be disclosed or used for any lawful Government purpose.</span></span></p>
+</div></p>
+               	<span class="footer"></span> <br> 
+               	<span class="footer">iEdison 4.20.01 </span> <br> <br>
+               	<span class="footer"> </span> 
+          </td>
+          <td bgcolor="#CCCCCC" width="1"><img src="/iedison/images/spacer.gif" width="1" height="1" alt=""></td>
+          <td width="456">
+            <table width="100%" border="0" cellspacing="0" cellpadding="6">
+              <tr>
+                <td>
+                  <p align="center"><span class="bannertext" style="font-size:24px;">Welcome to iEdison</span></p>
+                  <p><div id="contentlayout_NORTH" ><hr />
+<p style="text-align: center;"><strong><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;">The RFI for public feedback on the iEdison system and rebuild effort is available at <a href="https://www.federalregister.gov/d/2019-26860" target="_blank">https://www.federalregister.gov/</a>. </span></span></strong></p>
+
+<p style="text-align: center;"><span style="font-size:12px;"><span style="font-family:Arial,Helvetica,sans-serif;"><strong>Comments are open through January 27, 2020.</strong></span></span></p>
+
+<hr />
+<p align="center" style="margin:0in; margin-bottom:.0001pt; text-align:center; margin-right:0in; margin-left:0in"><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong><span style="font-size:9.0pt"><span arial="" style="font-family:">The NIH has published a <i>Notice Regarding 2018 Bayh-Dole Act Final Rule - Rights to Federally Funded Inventions and Licensing of </i></span></span></strong></span></span></p>
+
+<p align="center" style="margin:0in; margin-bottom:.0001pt; text-align:center; margin-right:0in; margin-left:0in"><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong><i><span style="font-size:9.0pt"><span arial="" style="font-family:">Government Owned Inventions</span></span></i></strong><strong><span style="font-size:9.0pt"><span arial="" style="font-family:"> (NOT-OD-18-233).&nbsp; </span></span></strong></span></span></p>
+
+<p align="center" style="margin:0in; margin-bottom:.0001pt; text-align:center; margin-right:0in; margin-left:0in"><span style="font-size:12pt"><span new="" roman="" style="font-family:" times=""><strong><span style="font-size:9.0pt"><span arial="" style="font-family:">Please click on &ldquo;Frequently Asked Questions&rdquo; below for new NIH specific FAQs regarding the new Bayh-Dole regulations.&nbsp; New FAQs are marked with a yellow &ldquo;NEW&rdquo; flag.</span></span></strong></span></span></p>
+
+<p align="center" style="margin:0in; margin-bottom:.0001pt; text-align:center; margin-right:0in; margin-left:0in">&nbsp;</p>
+
+<hr />
+<p style="margin: 0in 0in 0pt 40px; line-height: 14pt; text-align: center;"><a href="https://public.era.nih.gov/iedison/public/utilization/ManufacturingWaiver.jsp" target="_blank">Requests for Waivers of the U.S. Manufacturing Requirement in Licenses to Extramural Inventions</a>.</p>
+
+<div>
+<p style="margin: 0in 0in 0.0001pt; text-align: center;"><o:p></o:p></p>
+</div>
+</div></p>
+            <br>
+            <p><span class="footer"><span class="normalbold">iEdison</span>
+                    (which stands for Interagency Edison) helps government grantees
+                    and contractors comply with a federal law, the Bayh-Dole Act.
+                    Bayh-Dole regulations require that government funded inventions
+                    be reported to the federal agency who made the award. </span></p>
+                  <p><span class="footer"><span class="normalbold">iEdison</span>
+                    is interagency because it provides a single interface for
+                    grantees and contractors to interact with any participating
+                    agency. </span></p>
+                  <p><span class="footer"><span class="normalbold">iEdison</span>
+                    makes it easy to learn about the law and its regulations and
+                    report an invention or patent funded by any of the agencies
+                    listed on the right.</span></p>
+	
+					<hr/>
+					
+	                <p class="normal" style="background-color: #FEFAEF;">
+	                  	<a href='http://era.nih.gov/services_for_applicants/other/iedison.cfm
+	                  	' target='_blank'><img src='/iedison/images/home-checklist.gif' width='177' height='42' alt='iEdison Overview' border='0'></a><br>
+	                    <img src="/iedison/images/spacer.gif" width="1" height="1" alt=""><br>
+	                  	<a href='http://era.nih.gov/iedison/iedison.cfm
+	                  	' target='_blank'><img src='/iedison/images/home-whatsnew.gif' width='194' height='42' border='0' alt='What's New'></a><br>                    
+	                    <img src="/iedison/images/spacer.gif" width="1" height="1" alt=""><br>
+	                    <a href='http://grants.nih.gov/grants/bayh-dole.htm
+	                    ' target='_blank'><img src='/iedison/images/home-bayhact.gif' width='291' height='42' alt='Bayh-Dole Act (37 CFR 401)' border='0'></a><br>
+	                    <img src="/iedison/images/spacer.gif" width="1" height="1" alt=""><br>               
+	                    <a href='http://era.nih.gov/iedison/invention_timeline.cfm
+	                    ' target='_blank'><img src='/iedison/images/home-timeline-wide.gif' width='306' height='42' alt='Invention Reporting Timeline' border='0'></a><br>
+	                    <img src="/iedison/images/spacer.gif" width="1" height="1" alt=""><br>               
+	                    <a href='http://era.nih.gov/iedison/iedison_faqs.cfm
+	                    ' target='_blank'><img src='/iedison/images/home-faq.gif' width='310' height='42' alt='Frequently-Asked Questions' border='0'></a>
+                    </p>
+                    <p></p>
+                </td>
+              </tr>
+            </table>           
+            <br>
+
+          </td>
+          <td bgcolor="#CCCCCC" width="1"><img src="/iedison/images/spacer.gif" width="1" height="1" alt=""></td>
+          <td width="148">
+	          <table width="100%" border="0" cellspacing="0" cellpadding="6">
+	          <tr>
+                <td><span class="footer"></span>
+
+                  <p class="footer">iEdison is used for invention and patent reporting by the following agency offices below.</p>
+	          	
+			            
+			                        <p class="footer"></p>
+			            			
+
+                  				<span class=""><a href="http://www.afmc.af.mil/" title="AFMCLO/JAZ" target="_blank">AFMCLO/JAZ</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.wpafb.af.mil/afrl/ri/" title="AFRL/RI" target="_blank">AFRL/RI</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.ahrq.gov/" title="AHRQ" target="_blank">AHRQ</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.arl.army.mil/" title="ARMY/ARL" target="_blank">ARMY/ARL</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.arl.army.mil/www/default.cfm?page=29" title="ARMY/ARO" target="_blank">ARMY/ARO</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="https://mrmc-www.army.mil/" title="ARMY/MRMC" target="_blank">ARMY/MRMC</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.army.mil/info/organization/unitsandcommands/commandstructure/smdc/" title="ARMY/SMDC" target="_blank">ARMY/SMDC</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.natick.army.mil/" title="ARMY/SSC" target="_blank">ARMY/SSC</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.atsdr.cdc.gov/" title="ATSDR" target="_blank">ATSDR</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.cdc.gov/" title="CDC" target="_blank">CDC</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.dhs.gov/" title="DHS/ST" target="_blank">DHS/ST</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.eda.gov/" title="DOC/EDA" target="_blank">DOC/EDA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://trade.gov/" title="DOC/ITA" target="_blank">DOC/ITA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.darpa.mil/" title="DOD/DARPA" target="_blank">DOD/DARPA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.dmea.osd.mil/" title="DOD/DMEA" target="_blank">DOD/DMEA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.dtra.mil/" title="DOD/DTRA" target="_blank">DOD/DTRA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.energy.gov/" title="DOE" target="_blank">DOE</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.dot.gov/" title="DOT" target="_blank">DOT</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.epa.gov/" title="EPA" target="_blank">EPA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.fda.gov/" title="FDA" target="_blank">FDA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.ihs.gov/" title="IHS" target="_blank">IHS</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.onr.navy.mil/" title="NAVY/ONR" target="_blank">NAVY/ONR</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="https://public.era.nih.gov/iedison/public/nihprocs.jsp" title="NIH" target="_blank">NIH</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="https://public.era.nih.gov/iedison/public/static/nist_page.htm" title="NIST" target="_blank">NIST</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.noaa.gov/" title="NOAA" target="_blank">NOAA</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.nrc.gov/" title="NRC" target="_blank">NRC</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.nsf.gov/" title="NSF" target="_blank">NSF</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.wpafb.af.mil/afrl/afosr" title="USAF/AFOSR" target="_blank">USAF/AFOSR</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.usaid.gov/" title="USAID" target="_blank">USAID</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.ars.usda.gov/main/main.htm" title="USDA/ARS" target="_blank">USDA/ARS</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="http://www.fs.fed.us/" title="USDA/FS" target="_blank">USDA/FS</a>
+			                            <br>
+			                            </span>
+			                        
+
+                  				<span class=""><a href="https://nifa.usda.gov/" title="USDA/NIFA" target="_blank">USDA/NIFA</a>
+			                            <br>
+			                            </span>
+			                        
+
+
+			            
+			        <!--<p class="footer"><a href="/contactlist.jsp">Agency Office Contacts</a>-->
+			        <p class="footer"><a href="/iedison/public/agency/AgencyContactList.jsp">Agency Office Contacts</a>
+			         <p class="footer"> For a complete list, go to <a href="http://era.nih.gov/iedison/agency_sites.cfm" target="_blank">here</a> </p> 
+		            <p class="footer">For any required agency specific forms, click
+		              on the agency link.
+		          </td>
+		        </tr>
+		      </table>
+
+          </td>
+        </tr>
+      </table>
+      <!-- BEGIN CONTENT MARGINS TABLE --> <!-- END CONTENT MARGINS TABLE  -->
+    </td>
+  </tr>
+   <tr>
+    <td colspan="2">
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr valign="top">
+          <td class="footer" width="6%"><img src="/iedison/images/nih_sm.gif" alt="NIH logo"></td>
+          <td class="footer" width="30%"><a href="http://www.nih.gov/">National
+            Institutes of Health (NIH)</a><br>
+            9000 Rockville Pike<br>
+            Bethesda, Maryland 20892</td>
+          <td width="6%"><img src="/iedison/images/dhhs_sm.gif" alt="DHHS logo"></td>
+          <td width="27%" class="footer"><a href="http://www.dhhs.gov/">Department
+            of Health<br>
+            and Human Services</a></td>
+          <td width="31%" align="right"><a href="http://firstgov.gov/"><img src="/iedison/images/firstgov_sm.gif" border="0" alt="FirstGov"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td colspan="2"> <!-- FOOTER MARGIN TABLE-->
+
+            <table border="0" cellspacing="0" cellpadding="0" align="right">
+              <tr>
+                <td class="footer"><A HREF="/iedison/public/menu/omb.jsp" class="noline">OMB No 0925-0002&nbsp;&nbsp;&nbsp;&nbsp;</A>&nbsp;&nbsp;&nbsp;&nbsp;IEDISON-1000</td>
+              </tr>
+            </table>
+              
+     </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+ 
+    
+ 
+
+<nih:sessionTimeoutControl/> 
+
+<div class="footer iEdisonFooter" >
+	
+	    <span class="footer"><a class="noline" href="/iedison/index.jsp" target="_top">Home</a>
+	            | <a class="noline" href="https://era.nih.gov/iedison/about.cfm" target="_top">About</a>
+				| <a class="noline" href="https://era.nih.gov/iedison/user_guides.cfm" target="_top">Help</a> 
+				| Screen Id: EDI0001@6179              
+	            <br>
+	
+	            <a class="noline" href="/iedison/jsp/help/EmailAdmin.jsp">E-mail the NIH administrator</a>
+	
+	            | <a class="noline" href="/iedison/public/menu/omb.jsp">OMB Burden Statement</a>
+	            | <a class="noline" href="/iedison/public/menu/privacy.jsp">iEdison Privacy Notice</a> </span>
+	
+</div>
+
+
+
+
+
+</BODY>
+</html>

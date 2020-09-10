@@ -1,0 +1,546 @@
+
+		<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta name="viewport" content="initial-scale=1">
+		
+			<base href="https://www.hanford.gov/" />
+			
+			<link rel="STYLESHEET" type="text/css" href="style/style.css" />
+			<link rel="STYLESHEET" type="text/css" href="style/hanford2015/EOCWeather.css" />
+			<link rel="STYLESHEET" type="text/css" href="style/hanford2015/style.css" /> 
+
+			<script src="ext_scripts/prototype.js"></script>
+			<script src="scripts/linkProcessor.js"></script>
+			<script src="scripts/Hanford2015/includes.js"></script>
+			<script src="scripts/Hanford2015/Social.js"></script>
+			<script src="scripts/dropDown.js"></script>
+			<script>
+				DropDownItems.fullWidthDropDown = true;
+			</script>
+			<script src="scripts/UIMessage.js"></script>
+			<link rel="STYLESHEET" type="text/css" href="style/Messages.css" />
+			<script src="scripts/messages.js"></script>
+			<!--[if lte IE 8]>
+			<link rel="STYLESHEET" type="text/css" href="style/hanford2015/ie8.css" />
+			<![endif]-->
+		<title>Hanford Site</title>
+
+	</head>
+	<body>
+    <a class="skip-main" href="#mainContent">Skip to main content</a>
+		<div class="stickyHeader"><div class="weatherEOCHeader"> 
+<script>
+	document.body.setAttribute("data-weatherActive", "true");
+</script>
+	 
+		<table class="weatherEOCWrapper weather_alert" onclick="window.location.href = this.getAttribute('href')" href="https://www.hanford.gov/c.cfm/advisory/">
+			<tr>
+			<td>
+				<table class="weatherEOCContent"><tr>
+				<td  class="weather_attention">EMPLOYEE ADVISORY:</td>
+				<td class="weather_title"><a href="https://www.hanford.gov/c.cfm/advisory/" class="weather">ACCESS TO HANFORD SITE BUILDING RESTORED</a></td>
+				<td  class="weatherMoreDetail"><a href="https://www.hanford.gov/c.cfm/advisory/">CLICK FOR DETAILS</a>
+				<div class="weather_updated">Last Updated: 05:45:02 PM 09/09/2020</div></td>
+					</tr></table></td>
+			</tr>
+		</table>
+	
+	</div>
+
+			<div class="interiorWidth tabBar">
+
+				<input type="checkbox" id="hamburger"/>
+<label id="hamburgerMenu" for="hamburger">
+  <span></span>
+  <span id="hamburgerText">Click To Expand</span>
+</label>
+				<a href="./" data-office="HANFORD" title="Link to Hanford Website"><tab class="HANFORD">HANFORD Site</tab></a><a href="page.cfm/RL" data-office="RL" title="Link to Richland Operations Office Website"><tab class="RL">Richland Operations Office</tab></a><a href="page.cfm/ORP" data-office="ORP" title="Link to Office of River Protection Website"><tab class="orp">Office of River Protection</tab></a>
+
+
+			<div class="searchLink" onclick="window.location.href='/pageAction.cfm/search'"></div>
+			<div class="searchArea">
+
+					<form action="pageaction.cfm/search" method="post">
+						<input title="Enter text to search Hanford Site" type="text" name="srchQry" placeholder="Hanford Search" > <!--aria-label="Enter text to search Hanford Site"-->
+            <input type="submit" class="hide-submit">
+					</form>
+
+			</div>
+			</div>
+			<div class="header" >
+				<div class="interiorWidth">
+				<div class="logo">Department of Energy Hanford Site</div>
+				</div>
+			</div>
+		<div class="menuBar">
+			<ul class="menuItems interiorWidth TopMenuSection">
+				<li onclick="Display.GoHome()" class="navHome">Hanford Site</li>
+
+				<li class="rightSide fireDanger" data-level="low"  onclick="Display.FireDangerPopup(event.target, event)">
+					<img svgsrc="appimages/hanford2015/flame.svg" class="fireIcon" >
+						<img  svgsrc="appimages/hanford2015/dropDown.svg" style="height:1em;width:1em;" class="popOpenIcon">
+						<div class="firePopup">
+							<img svgsrc="appimages/hanford2015/flame.svg" class="fireIcon" style="height:4em;width:4em;">
+							<span class="fireDangerDetail">Fire Danger....</span>
+						</div>
+				</li>
+				<li class="rightSide weatherArea">
+				<span class="weatherAlertIcon">!</span><img  class="currentWeatherIcon" src="appimages/hanford2015/weather/" alt=""   /><span class="currentTemperature">°F</span>
+					<img  svgsrc="appimages/hanford2015/dropDown.svg" class="whiteSVG popOpenIcon" style="height:1em;width:1em;" onclick="Display.WeatherPopup()">&nbsp;
+					<div class="weatherPopup">
+				<table style="padding-bottom:15px; width:100%">
+					<tbody>
+						<tr><td colspan="2" class="weatherHeadline">Current Conditions</td></tr>
+						<tr>
+							<td style="text-align:center;width:50%"><img style="height:95px" class="currentWeatherIcon"  src="appimages/hanford2015weather/detailed/" alt=""></td>
+              <td style="text-align:center">
+                <span class="currentTemperature">°F</span>
+                <span class="currentWindText">So)</span>
+                <span class="currentText currentWeatherText" ></span>
+              </td>
+						</tr>
+						<tr style="vertical-align:top" class="forecast">
+              <td style="text-align:center">Today: <span class="todayHigh">°F</span> (<span class="todayLow">°F</span>)<br> <span class="todayForcastText">Breezy</span></td>
+              <td style="text-align:center"> Tomorrow: <span class="tomorrowHigh">°F</span> (<span class="tomorrowLow">°F</span>)<br><span class="tomorrowForcastText">Breezy</span></td>
+						</tr></tbody></table>
+						<div class="weatherAlert"></div>
+		</div>
+					</li>
+
+
+			</ul>
+		</div>
+
+		</div>
+		<div class="padHeader">
+		</div>
+		<div class="secondaryHeader header">
+			<div class="interiorWidth">
+			<div class="logo">Department of Energy Hanford Site</div>
+			</div>
+		</div>
+		<div  id="firstBread" class="MousePadding interiorWidth"><a href="./">Hanford.Gov</a>
+				</div> <div id="sectionTitle" class="interiorWidth"></div>
+		<div class="interiorWidth bodyContent" id="mainContent" tabindex="-1">
+	
+		<div style="padding:50px">
+
+		
+			Our web site has been re-designed and the page you are requesting may not be available
+		any longer or may have been moved to another location on the site.
+		The crosswalk between major navigation/traffic areas below should help you locate the
+		information you need on its new page. <br /><br />
+		If you do not find the information you are searching for, or if you have discovered a
+		link that is broken, please send a message to the webmaster. <br /><br />
+
+		URL:	<strong>https://hanford.gov:443/robots.txt</strong>
+			
+			<p><strong>
+			
+		Long Term Stewardship
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/page.cfm/long-termstewardship<br />
+	
+	<strong>New URL:</strong> <a href="http://www.hanford.gov/page.cfm/longtermstewardship"> http://www.hanford.gov/page.cfm/longtermstewardship </a><br />
+
+</p>
+
+			<p><strong>
+			
+		Hanford Site Public Tour Registration Survey
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/regsurvey<br />
+	
+	<strong>New URL:</strong> <a href="http://www.hanford.gov/c.cfm/regsurvey"> http://www.hanford.gov/c.cfm/regsurvey </a><br />
+
+</p>
+
+			<p><strong>
+			
+		Hanford Site Public Tour Tour Survey
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/toursurvey<br />
+	
+	<strong>New URL:</strong> <a href="http://www.hanford.gov/c.cfm/toursurvey"> http://www.hanford.gov/c.cfm/toursurvey </a><br />
+
+</p>
+
+			<p><strong>
+			
+		MSA Human Resources
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/hr<br />
+	
+	<strong>New URL:</strong> <a href="http://msa.hanford.gov/hr/"> http://msa.hanford.gov/hr/ </a><br />
+
+</p>
+
+			<p><strong>
+			
+		MSA Human Resources
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/testThis<br />
+	
+	<strong>New URL:</strong> <a href="http://msa.hanford.gov/hr/"> http://msa.hanford.gov/hr/ </a><br />
+
+</p>
+
+			<p><strong>
+			
+			
+		Abbreviation and Acronym Directory
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/acronym/<br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/communication/acronym<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/c.cfm/tools/acronym.cfm"> https://www.hanford.gov/c.cfm/tools/acronym.cfm </a><br />
+
+</p>
+
+			<p><strong>
+			DOE Lessons Learned
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/lessons/sitell<br />
+	
+	<strong>New URL:</strong> <a href="http://msa.hanford.gov/hills/"> http://msa.hanford.gov/hills/ </a><br />
+
+</p>
+
+			<p><strong>
+		 Environmental Management Performance Report (EMPR)
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/EMPR<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/EMPR"> https://www.hanford.gov/page.cfm/EMPR </a><br />
+
+</p>
+
+			<p><strong>
+				
+					
+Fast Flux Test Facility
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/fftf<br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/rl/?page=304&parent=0<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/FFTF"> https://www.hanford.gov/page.cfm/FFTF </a><br />
+
+</p>
+
+			<p><strong>
+			
+			
+			
+		Hanford Advisory Board
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/boards/hab<br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/public/boards/hab<br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/hab<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/hab"> https://www.hanford.gov/page.cfm/hab </a><br />
+
+</p>
+
+			<p><strong>
+			
+			
+Hanford Cultural and Historic Resources Program			
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/doe/culres<br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/doe/history/<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/INP"> https://www.hanford.gov/page.cfm/INP </a><br />
+
+</p>
+
+			<p><strong>
+		 
+      			
+      	
+	Hanford Site Contractors
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/information/contractors/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/?page=78&parent=15<br />
+	
+	<strong>New URL:</strong> <a href="http://www.hanford.gov/page.cfm/HanfordContractors"> http://www.hanford.gov/page.cfm/HanfordContractors </a><br />
+
+</p>
+
+			<p><strong>
+		
+		Employment Opportunities
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/?page=172&parent=15<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/DOEHRM"> https://www.hanford.gov/page.cfm/DOEHRM </a><br />
+
+</p>
+
+			<p><strong>
+			
+			
+		Hanford Site Tours
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/sitetours/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/information/sitetours/<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/HanfordSiteTours"> https://www.hanford.gov/page.cfm/HanfordSiteTours </a><br />
+
+</p>
+
+			<p><strong>
+					
+					
+Press Releases
+
+
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/press/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/communication/reporter/index.cfm?reporter=contractor<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/c.cfm/media/pressRelease.cfm"> https://www.hanford.gov/c.cfm/media/pressRelease.cfm </a><br />
+
+</p>
+
+			<p><strong>
+RL Procurement Division
+
+     
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/page.cfm/DOERLContracts<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/DOE-RLProcurementDivision"> https://www.hanford.gov/page.cfm/DOE-RLProcurementDivision </a><br />
+
+</p>
+
+			<p><strong>
+	
+	
+RL Resource for Reporters
+
+   
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/rl/rlreporter/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/rl/?page=1092&parent=0<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/Newsroom"> https://www.hanford.gov/page.cfm/Newsroom </a><br />
+
+</p>
+
+			<p><strong>
+	  	
+		
+Site Phone/Email Directory
+
+      
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/phone/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/communication/phone/<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/ContactUs"> https://www.hanford.gov/page.cfm/ContactUs </a><br />
+
+</p>
+
+			<p><strong>
+	  	
+		
+Tri-Party Agreement
+
+    
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/tpa/tpahome.htm<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/?page=91&parent=0<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/TriParty"> https://www.hanford.gov/page.cfm/TriParty </a><br />
+
+</p>
+
+			<p><strong>
+	
+	
+Video Library
+
+     
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/video/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/communication/video/<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/c.cfm/video"> https://www.hanford.gov/c.cfm/video </a><br />
+
+</p>
+
+			<p><strong>
+      	
+		
+K Basin Interim Remedial action     
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/snf/kbasin.html<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/rl/?page=1155&parent=220<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/K-Basins"> https://www.hanford.gov/page.cfm/K-Basins </a><br />
+
+</p>
+
+			<p><strong>
+Environment, Safety & Health EXPO May 22-23, 2007
+
+      
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://hanford.gov/safety/expo/index.html<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/HealthSafetyExpo"> https://www.hanford.gov/page.cfm/HealthSafetyExpo </a><br />
+
+</p>
+
+			<p><strong>
+Hanford Employee Recreation Organization
+
+  
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/hero<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/hero"> https://www.hanford.gov/page.cfm/hero </a><br />
+
+</p>
+
+			<p><strong>
+Long-Term Stewardship
+
+    
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/rl/?page=130&parent=113<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/LongTermStewardship"> https://www.hanford.gov/page.cfm/LongTermStewardship </a><br />
+
+</p>
+
+			<p><strong>
+Hanford Site Solid Waste Acceptance Program
+
+     
+:</strong><br /><br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/wastemgt/wac/<br />
+	
+		<strong>Old URL:</strong> http://www.hanford.gov/?page=519&parent=0<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/SolidWasteAcceptanceProgram"> https://www.hanford.gov/page.cfm/SolidWasteAcceptanceProgram </a><br />
+
+</p>
+
+			<p><strong>
+			
+			Hanford Event Calendar
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/public/calendar<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/PageAction.cfm/calendar"> https://www.hanford.gov/PageAction.cfm/calendar </a><br />
+
+</p>
+
+			<p><strong>
+		
+		CERCLA Five-Year Review
+	:</strong><br /><br />
+	
+		<strong>Old URL:</strong> https://www.hanford.gov/?page=182&parent=0<br />
+	
+	<strong>New URL:</strong> <a href="https://www.hanford.gov/page.cfm/cercla"> https://www.hanford.gov/page.cfm/cercla </a><br />
+
+</p>
+
+			</div> 
+	</div>
+
+		<div class="footer">
+			<div class="interiorWidth">
+				<table style="width:100%"><tr>
+					<td>
+
+				<div class="DOELogo">DOE Logo</div>
+					</td>
+					<td>
+					<div class="DOE">UNITED STATES DEPARTMENT OF ENERGY</div>
+				<div class="Site"><a href="page.cfm/orp">OFFICE OF RIVER PROTECTION</a> | <a href="page.cfm/rl" title="Sublink to Richland Operations Office Website">RICHLAND OPERATIONS OFFICE</a></div>
+					</td>
+					<td><a href="http://www.usa.gov"><img src="appimages/hanford2015/Logos/gov/USAGov.svg" style="height:2em;" alt="USA.gov Logo" /></a>
+					</td>
+					<td style="text-align:right">
+						<div class="privacyNotices"><a href="page.cfm/privacy">Privacy and Security Notice</a> | <a href="page.cfm/accessibility">Accessibility</a> | <a href="pageaction.cfm/siteindex">Site Index</a> | <a href="page.cfm/aboutus/contactus">Contact Us</a><br />
+
+
+						FOR QUESTIONS OR COMMENTS PLEASE CONTACT THE <a href="c.cfm/feedback/">WEBMASTER</a>
+						</div>
+					</td>
+				</tr></table>
+
+			<div   class="socialMediaIcons" data-tenant="rl">
+				<a href="http://www.facebook.com/hanfordsite/"><img src="appimages/hanford2015/socialLinks/webicon-facebook.svg" style="border:0px" alt="Hanford Site Facebook"></a>
+				<a href="http://www.twitter.com/hanfordsite/"><img src="appimages/hanford2015/socialLinks/webicon-twitter.svg" style="border:0px" alt="Hanford Site Twitter"></a>
+				<a href="http://www.youtube.com/hanfordsite/"><img src="appimages/hanford2015/socialLinks/webicon-youtube.svg" style="border:0px" alt="Hanford Site Youtube"></a>
+				<a href="http://blog.hanford.gov/"><img src="appimages/hanford2015/socialLinks/webicon-blogger.svg" style="border:0px" alt="Hanford Site Blog"></a>
+				<a href="pageAction.cfm/RSS"><img src="appimages/hanford2015/socialLinks/webicon-rss.svg" style="border:0px" alt="Hanford Site RSS Feeds"></a>
+					</div>
+
+
+			<div  class="socialMediaIcons" data-tenant="orp">
+				<a href="http://www.Facebook.com/riverprotection/"><img src="appimages/hanford2015/socialLinks/webicon-facebook.svg" style="border:0px" alt="Office of River Protection Facebook"></a>
+				<a href="http://www.Twitter.com/riverprotection/"><img src="appimages/hanford2015/socialLinks/webicon-twitter.svg" style="border:0px" alt="Office of River Protection Twitter"></a>
+				<a href="http://www.youtube.com/riverprotection/"><img src="appimages/hanford2015/socialLinks/webicon-youtube.svg" style="border:0px" alt="Office of River Protection Youtube"></a>
+				<a href="http://www.flickr.com/riverprotection/"><img src="appimages/hanford2015/socialLinks/webicon-flickr.svg" style="border:0px" alt="Office of River Protection Flickr"></a>
+				<a href="http://public.govdelivery.com/accounts/USDOEOEM/subscribers/new?preferences=true"><img src="appimages/hanford2015/socialLinks/webicon-mail.svg" style="border:0px" alt="Office of River Protection Mailing List"></a>
+					</div>
+				<div style="clear:both"></div>
+			</div>
+		</div>
+	</body>
+</html>
+
+<script src="scripts/hanford2015/display.js"></script>
+	<script>
+	Includes.include([
+		"weather/weather.cfc?method=getDataJSONP&jsonp=Display.getWeatherData",
+		"c.cfm/advisory/alert.cfc?method=getFireRemote&jsonp=Display.getFireBanner"
+	])
+
+</script>
+	

@@ -1,0 +1,65 @@
+<!doctype html>
+<html ng-app="MongoMeSHBrowser" lang="en">
+    <head>
+        <title>MeSH Browser</title>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+        <META HTTP-EQUIV="Expires" CONTENT="-1">
+
+        <script src="/public/js/external/angular.min.js?version=2017-8-18"></script>
+        <script src="/public/js/external/angular-route.js?version=2017-8-18"></script>
+
+        <script src="https://assets.nlm.nih.gov/jquery/jquery-3.3.1.min.js"></script>
+
+        <script src="/public/js/external/bootstrap.js?version=2017-8-18"></script>
+
+        <script src="/public/js/external/angulartics.js"></script>
+        <script src="/public/js/external/angulartics-gtm.js"></script>
+
+        <script src="/public/js/MongoMeSHBrowser.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/DescriptionDetailCtrl.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/SearchCtrl.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/TreeViewCtrl.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/TreeCtrl.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/MODCtrl.js?version=2017-8-18"></script>
+        <script src="/public/js/controllers/PMSCtrl.js?version=2017-8-18"></script>
+
+        <script src="/public/js/external/angular-cookies.js?version=2017-8-18"></script>
+        <script src="/public/js/external/bootstrap-tpls.js?version=2017-8-18"></script>
+        <script src="/public/js/external/dcms.js?version=2017-8-18"></script>
+
+        <script src="/public/js/external/ngStorage.js?version=2017-8-18"></script>
+
+
+        <link rel="stylesheet" href="/public/css/external/font-awesome.css?version=2017-8-18">
+        <link rel="stylesheet" href="/public/css/external/bootstrap.css?version=2017-8-18">
+        <link rel="stylesheet" href="/public/css/mongoMesh.css?version=2017-8-18">
+        <link rel="icon" type="image/jpeg" href="/public/img/meshLogo.jpg">
+
+        <base href="/">
+
+        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5QZ7KJZ');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QZ7KJZ"
+                  height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    </head>
+    <body >
+        <div ng-include="'/public/template/navbar.html'"></div>
+
+        <div ng-view class="container"></div>
+        <footer>
+            <div ng-include="'/public/template/footer.html'"></div>
+        </footer>
+    </body>
+
+</html>

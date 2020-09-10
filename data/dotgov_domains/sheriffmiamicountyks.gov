@@ -1,0 +1,1548 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+			<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+
+					<script type='text/javascript'>
+						var enableTelemetry = 'false'
+						var aiConfig = {
+						instrumentationKey: '1cde048e-3185-4906-aa46-c92a7312b60f'						
+						}
+						var appInsights = window.appInsights || function (a) { function b(a) { c[a] = function () { var b = arguments; c.queue.push(function () { c[a].apply(c, b) }) } } var c = { config: a }, d = document, e = window; setTimeout(function () { var b = d.createElement('script'); b.src = a.url || 'https://az416426.vo.msecnd.net/scripts/a/ai.0.js', d.getElementsByTagName('script')[0].parentNode.appendChild(b) }); try { c.cookie = d.cookie } catch (a) { } c.queue = []; for (var f = ['Event', 'Exception', 'Metric', 'PageView', 'Trace', 'Dependency']; f.length;)b('track' + f.pop()); if (b('setAuthenticatedUserContext'), b('clearAuthenticatedUserContext'), b('startTrackEvent'), b('stopTrackEvent'), b('startTrackPage'), b('stopTrackPage'), b('flush'), !a.disableExceptionTracking) { f = 'onerror', b('_' + f); var g = e[f]; e[f] = function (a, b, d, e, h) { var i = g && g(a, b, d, e, h); return !0 !== i && c['_' + f](a, b, d, e, h), i } } return c }(aiConfig);
+						window.appInsights = appInsights, appInsights.queue && 0 === appInsights.queue.length;
+						// Add telemetry initializer
+						appInsights.queue.push(function() {
+							appInsights.context.addTelemetryInitializer(function(envelope) {
+								var telemetryItem = envelope.data.baseData;
+								// To check the telemetry item’s type:
+								if (!false)
+								{
+									//If the telemetry is not enabled, we still want to capture Google map custom event, so only allow that
+									if (envelope.name.indexOf('.Event') == -1)
+										return false;
+								}
+							});
+						});						
+						appInsights.trackPageView();
+					</script>
+			<script>
+				document.addEventListener("DOMContentLoaded", function () {
+					var forms = document.getElementsByTagName("form");
+					var absPat = /^https?:\/\/|^\/\//i;
+					for (var i = 0; i < forms.length; i++)
+					{
+						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"OW3-xynt7R56uOgC25xYRyn9v2UBFJqUXQ1HRkrADpyEz-77XmIK3IsRgo3hv3nroKnvNCYPogxggyiEvj73LPTRyAQ1\" />");
+						}
+					}
+				}, false);
+			</script>
+			
+	<script type="text/javascript">
+        window.isResponsiveEnabled = false;
+		window.isRemoveSetHeights= false;
+		if (window.isRemoveSetHeights) {
+			document.documentElement.className += ' removeSetHeights';
+		}
+		window.mainMenuMediaQuery = 'screen and (max-width: 40em)';
+		window.isMobileBrowserIncludingTablets = false;
+		window.fixedResponsiveMenu = false;
+		window.fullWidthResponsiveMenu = false;
+		window.responsiveMenuHeight = '';
+		window.responsiveMenuFontSize = '';
+		(function () {
+			window.devicePixelRatio = window.devicePixelRatio || Math.round(window.screen.availWidth / document.documentElement.clientWidth);
+			window.innerWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+			window.innerHeight = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+
+			window.setSizeCookie = function () {
+				document.cookie = "dpi=" + window.devicePixelRatio + "; path=/";
+				document.cookie = "viewportWidth=" + window.innerWidth + "; path=/";
+				document.cookie = "viewportHeight=" + window.innerHeight + "; path=/";
+				if (screen && screen.width && screen.height) {
+					document.cookie = "screenWidth=" + screen.width + "; path=/";
+					document.cookie = "screenHeight=" + screen.height + "; path=/";
+				}
+				document.cookie = "responsiveGhost=1; path=/";
+			};
+
+			setSizeCookie();
+		}());
+	</script>
+	
+	
+	<meta name="theme-color" content="#765e28">
+	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+	<title>Sheriff | Miami County, KS - Official Website</title>
+		<meta name="description" content="Law Enforcement, Emergency Management, County Jail">
+				
+	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
+	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
+	<!--[if IE 8]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<!--[if IE 9]><script language="JavaScript" type="text/javascript"> var isie8 = true; </script><![endif]-->
+	<script type="text/javascript"><!--
+	var intCountryCode = 840;
+	var externalSiteDialogHeight = '390px';
+	var order = '';
+//--></script>
+	
+	<link href="/2059828931.css" rel="stylesheet" type="text/css" />	<link href="/2047678671.css" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
+<script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript">
+		window.Pages = window.Pages || {};
+		// FrontEnd RWD initialization
+		window.Pages.rwdReady = $.Deferred();
+		window.Pages.toolBarDeferred = $.Deferred();
+		window.Pages.rwdSetupComplete = $.Deferred();
+		window.Pages.megaMenuLoaded = $.Deferred();
+		window.Pages.angularToolbarComplete = $.Deferred();
+		window.Pages.frontEndToolbarComplete = $.Deferred();
+	</script>
+	<!--CPHeadContent-->
+	<script src="/-1453041084.js" type="text/javascript"></script>
+	
+	
+	
+	
+
+
+
+
+	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/App_Themes/ie8.css"><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/ie7.css"><![endif]-->
+	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/App_Themes/ie6.css"><![endif]-->
+	<!--[if lt IE 9]><script type="text/javascript" src="/Scripts/html5.js"></script><![endif]-->
+
+	<script type="text/javascript">
+		setEditorVariables(false, 840);
+		function getPrintPreviewType() { return 0; } function printPreview() {pPreview(getPrintPreviewType()); }
+	</script>
+	
+</head>
+<body class="wide " >
+
+	
+
+	<div id="fb-root"></div>
+<div id=skipToContentLinks>
+<a href="#cc5f8c90dc-b4cb-431b-90ee-10648f8df655" target="_self" class="skipToContentLink">Skip to Main Content</a>
+</div>
+	<form id="frmReferenceFormForTelerikEditorDialogs"></form>
+
+		<input type="hidden" id="GoogleMapsKey" value="AIzaSyDWUuE-ifkbhxblF920N8MjpBdTg1Wt784" />
+
+
+
+
+
+	<input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
+	<input type="hidden" id="hdnStructureID" value="1" />
+	<input type="hidden" id="hdnContentCollectionID" value="570fba22-b7ce-40ae-a5f8-6b2e397e225c" />
+	<input type="hidden" id="hdnWorkingCopyID" value="00000000-0000-0000-0000-000000000000" />
+	<input type="hidden" id="hdnThemeID" value="1" />
+	<input type="hidden" id="pageIsFrontEnd" value="true" />
+	<input type="hidden" id="pageModuleID" />
+	<input type="hidden" id="pagePageID" value="242" />
+	<input type="hidden" id="hdnModuleEligibleForJquery224Upgrade" value="true" />
+
+		<div id="stickyPlaceholder"></div>
+	<div id="outer-wrap" class="outer-wrap">
+		<div id="inner-wrap" class="inner-wrap">
+				<div id="divToolbars" class="cpToolbars newCP" style="">
+					
+<style>
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700); 
+.alertText .customAlert {
+    color: #EAEAEA;
+    display: inline-block;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    text-transform: uppercase;
+    font-weight: bold;
+    height: 27px;
+    left: 57px;
+    line-height: 27px;
+    overflow: hidden;
+    position: absolute;
+    top: 15px;
+    white-space: nowrap;
+    width: 268px;
+}
+</style>
+  <div id="1_divAlertBar" class="alertToolbar cpToolbar" style="background: #222222;">
+    <div id="1_divAlertToolbarInner" class="alertToolbarInner" style="font-size: 16px;">
+        <a href="/AlertCenter.aspx" id="1_lnkAlertText" class="alertText" style="border-right: 1px solid #000000;">
+            <img src="/Common/Images/AlertCenter/alertBarBlink.svg" id="1_imgDot" alt="Emergency Alert" class="redDot" />
+            <span id="1_customAlert" class="customAlert">EMERGENCY ALERT</span>
+        </a>
+        <span id="1_spnAlertContainer" class="alertContainer"><a href="/AlertCenter.aspx?AID=Miami-County-Health-Department-ReleaseCO-316" target="_self" class="alert" style="border-left: 1px solid #635e65; border-right: 1px solid #000000;background: #030303 url(/Common/images/AlertCenter/alertBarBlackTextBckg.png) repeat-x; color: #FFFFFF;">
+	Miami County Health Department Release-COVID19 in K-12 Schools
+	<span style="color: #FC4C2F;">Read On...</span>
+</a>
+<a href="/AlertCenter.aspx?AID=COVID19-Response-Public-Survey-313" target="_self" class="alert" style="border-left: 1px solid #635e65; border-right: 1px solid #000000;background: #030303 url(/Common/images/AlertCenter/alertBarBlackTextBckg.png) repeat-x; color: #FFFFFF;">
+	COVID-19 Response Public Survey
+	<span style="color: #FC4C2F;">Read On...</span>
+</a>
+</span>
+    </div>
+  </div>
+  <div id="1_divAlertBarEmpty" class="alertBarEmpty"></div>
+  
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/App_Themes/CP/ie7.css"><![endif]-->
+<!-- Allow Dashboard, Favorites Enabled -->
+
+<!-- Begin Signed Out Bar -->
+<div class="cpToolbar user public">
+    <div class="inner selfClear">
+        <p class="dropdown"><a href="/MyAccount/ProfileCreate" role="button" class="myConnections" id="signedOutToolbarCreateProfileButton">Create an Account</a> <span class="welcomeMessage">- Increase your productivity, customize your experience, and engage in information you care about. &nbsp;&nbsp;</span></p>
+        <ul class="nav secondary">
+	        <li><a href="/MyAccount" role="button" class="button" id="loggedOutToolbarSignInButton"><span>Sign In</span></a></li>
+        </ul>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#signedOutToolbarCreateProfileButton').keypress(function (e) { if (e.which === 0) return; $(this).click(); });
+        $('#signedOutToolbarCreateProfileButton').click(function (event) {
+        	event.preventDefault();
+        	window.location.href = '/MyAccount/ProfileCreate?from=url&url=/&dn=' + window.location.origin;
+        });
+
+			
+				$('#loggedOutToolbarSignInButton').click(function (event) {
+					event.preventDefault();
+					window.location.href = '/MyAccount/?from=url&url=' + encodeURIComponent(window.location.href.replace(window.location.origin, '')) + '&dn=' + window.location.host;
+				});
+			
+
+		if ('False' == 'True') {
+            $('#loggedOutToolbarSignInButton').hide();
+		}
+    })
+</script>
+<!-- End Signed Out Bar -->
+
+				</div>
+			<div id="bodyWrapper">
+				<div id="mainNavHolderMobile" class="mainNavHolderMobile"></div>
+				
+<div data-cpRole="structuralContainer" id="structuralContainer7">
+<div data-cpRole="banner" id="banner1"><div class="siteWrap"><header class="siteHeader"><h1 data-cpRole="banner" id="banner2" class="logo empty">
+
+
+
+
+				<a style="			display: block; text-align: left;
+" class="bannerObject" href="/" target="_self"><img alt="Click to Home" class="bannerObject" src="/ImageRepository/Document?documentID=97" /></a>
+
+</h1><div class="searchShareWrap"><aside data-cpRole="contentContainer" id="contentContainer7">	<div id="cce74aad9a-cf11-437d-8e22-242873f8df73" data-containerid="e74aad9a-cf11-437d-8e22-242873f8df73" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col2 first" style="" data-widgetcontainerid="7d5b5c6f-ad2f-4be8-84a2-ff7e636bdcd7">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col2 first last id59c0f714-2b15-4024-8489-64ff58281c08" style="" data-widgetcontainerid="59c0f714-2b15-4024-8489-64ff58281c08">	
+
+<div class="widget widgetSpacer" id="c013592c-7c76-4af7-8ed3-71002ccf572c"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col8" style="" data-widgetcontainerid="77f4a188-362e-48fc-a18a-b24108b5fbc3">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col8 first last iddbf01f18-0a4e-45c9-b82a-1837006c7c3f" style="" data-widgetcontainerid="dbf01f18-0a4e-45c9-b82a-1837006c7c3f">	
+<div data-widget-id="b99d8310-9444-4106-a6f6-cfd0e377b6bd" data-widget-controller-path="/Layout/WidgetShare">
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetShareHeaderb99d8310-9444-4106-a6f6-cfd0e377b6bd"), true, function () {
+					var $widgetBody = $('#widgetShareBodyb99d8310-9444-4106-a6f6-cfd0e377b6bd');
+
+					if ($widgetBody.is(':visible')) {
+						var menuItems = $('.widgetItem a', $widgetBody);
+
+						$(menuItems[0]).focus();
+
+						$('.widgetItem', $widgetBody).unbind("keydown").bind("keydown", function (e) {
+
+							if (e.which === 9) {
+								var index = menuItems.index(e.target);
+
+								if ((index === 0 && e.shiftKey) || (index === (menuItems.length - 1) && !e.shiftKey)) {
+									$("#widgetShareHeaderb99d8310-9444-4106-a6f6-cfd0e377b6bd").trigger('click').focus();
+								}
+							}
+			});
+					} else {
+						$('.widgetItem', $widgetBody).unbind("keydown");
+					}
+				});
+			});
+		</script>
+
+	<section id="widgetShareb99d8310-9444-4106-a6f6-cfd0e377b6bd" class="widget widgetShare skin41 widgetOptionSet14 flyOutParent wide"  aria-label="Share">
+			<header id="widgetShareHeaderb99d8310-9444-4106-a6f6-cfd0e377b6bd" class="widgetHeader" tabindex="0" role="button" aria-haspopup="true">
+				<h3><img alt="Share" class="imageHover" data-hover="/ImageRepository/Document?documentID=93" data-image="/ImageRepository/Document?documentID=92" src="/ImageRepository/Document?documentID=92" /></h3>
+	</header>
+    <div id="widgetShareBodyb99d8310-9444-4106-a6f6-cfd0e377b6bd" class="widgetBody flyOut bottom leftEdge widget widgetShare skin41 cpGrid cpGrid1" style="display:none;">
+        <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetShareFacebook shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/Facebook" target="_blank" aria-label="Share on Facebook opens in new window">Facebook</a></li>
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetShareTwitter shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/Twitter" target="_blank" aria-label="Share on Twitter opens in new window">Twitter</a></li>
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetSharePinterest shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/Pinterest" target="_blank" aria-label="Share on Pinterest opens in new window">Pinterest</a></li>
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetShareDelicious shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/Delicious" target="_blank" aria-label="Share on Delicious opens in new window">Delicious</a></li>
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetShareBlogger shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/Blogger" target="_blank" aria-label="Share on Blogger opens in new window">Blogger</a></li>
+                <li class="widgetItem" ><a tabindex="0" role="button" class="widgetShareLinkedIn shareService" onkeypress="if(event.which == 13) { this.onclick(); }" href="/Layout/WidgetShare/ShareLink/LinkedIn" target="_blank" aria-label="Share on LinkedIn opens in new window">LinkedIn</a></li>
+		</ol>
+	</div>
+
+        </div>
+    </div>
+
+	</section>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col10" style="" data-widgetcontainerid="15ecbb5a-e607-4ae0-9691-091d3012b694">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col10 first last idf44519e9-1c16-4ca2-9285-d90a7fa12bdf" style="" data-widgetcontainerid="f44519e9-1c16-4ca2-9285-d90a7fa12bdf">	
+<div data-widget-id="5233ecd3-89ea-44b3-be2b-c45e040f55db" data-widget-controller-path="/Layout/WidgetSiteTools">
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				setWidgetServiceClicking($("#widgetSiteToolsHeader5233ecd3-89ea-44b3-be2b-c45e040f55db"), true, function () {
+					var $widgetBody = $('#widgetSiteToolsBody5233ecd3-89ea-44b3-be2b-c45e040f55db');
+
+					if ($widgetBody.is(':visible')) {
+						var menuItems = $('.widgetItem a', $widgetBody);
+
+						$(menuItems[0]).focus();
+
+						$('.widgetItem', $widgetBody).unbind("keydown").bind("keydown", function (e) {
+
+							if (e.which === 9) {
+								var index = menuItems.index(e.target);
+
+								if ((index === 0 && e.shiftKey) || (index === (menuItems.length - 1) && !e.shiftKey)) {
+									$("#widgetSiteToolsHeader5233ecd3-89ea-44b3-be2b-c45e040f55db").trigger('click').focus();
+								}
+							}
+						});
+					} else {
+						$('.widgetItem', $widgetBody).unbind("keydown");
+					}
+				});
+			});
+		</script>
+
+	<section id="widgetSiteTools5233ecd3-89ea-44b3-be2b-c45e040f55db" class="widget widgetSiteTools skin41 widgetOptionSet7 flyOutParent wide"  aria-label="Site Tools">
+				<header id="widgetSiteToolsHeader5233ecd3-89ea-44b3-be2b-c45e040f55db" class="widgetHeader" tabindex="0" role="button" aria-haspopup="true">
+			<h3><img alt="Site Tools" class="imageHover" data-hover="/ImageRepository/Document?documentID=95" data-image="/ImageRepository/Document?documentID=94" src="/ImageRepository/Document?documentID=94" /></h3>
+		</header>
+	<div id="widgetSiteToolsBody5233ecd3-89ea-44b3-be2b-c45e040f55db" class="widgetBody whiteIcons flyOut bottom leftEdge widget widgetSiteTools skin41 cpGrid cpGrid1" style="display:none;">
+         <div class="row                   
+ wide">
+	<div class="col col1 first last">
+		<ol class="semanticList">
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Home" class="widgetSiteToolsHome siteToolsService" href="/">Home</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools My Account" class="widgetSiteToolsMyAccount siteToolsService" href="/MyAccount">My Account</a></li>
+					<li id="PrinterFriendly5233ecd3-89ea-44b3-be2b-c45e040f55db" class="widgetItem"><a tabindex="0" aria-label="Site Tools Printer Friendly opens in new window" role="button" class="widgetSiteToolsPrinterFriendly siteToolsService" onkeypress="if (event.which == 13) { this.onclick(); }" onclick="Core.Layout.dynamicJavascript('printPreview();'); return false;" href="#PrinterFriendly5233ecd3-89ea-44b3-be2b-c45e040f55db">Printer Friendly</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Email Page" class="widgetSiteToolsEmailPage siteToolsService" href="/EmailPage">Email Page</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Contact Us" class="widgetSiteToolsContactUs siteToolsService" href="/directory.aspx">Contact Us</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools RSS" class="widgetSiteToolsRSS siteToolsService" href="/rss.aspx">RSS</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Site Map" class="widgetSiteToolsSiteMap siteToolsService" href="/SiteMap">Site Map</a></li>
+					<li id="TranslatePage5233ecd3-89ea-44b3-be2b-c45e040f55db" class="widgetItem"><a tabindex="0" aria-label="Site Tools Translate Page opens in new window" role="button" class="widgetSiteToolsTranslatePage siteToolsService" onkeypress="if (event.which == 13) { this.onclick(); }" onclick="Core.Layout.dynamicJavascript('window.open(\&#39;http://translate.google.com/translate?js=n&amp;sl=auto&amp;tl=es&amp;u=\&#39; + document.location.href, \&quot;TranslateWindow\&quot;);'); return false;" href="#TranslatePage5233ecd3-89ea-44b3-be2b-c45e040f55db">Translate Page</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Notifications" class="widgetSiteToolsNotifications siteToolsService" href="/list.aspx">Notifications</a></li>
+					<li class="widgetItem"><a tabindex="0" role="button" aria-label="Site Tools Documents" class="widgetSiteToolsDocuments siteToolsService" href="/DocumentCenter">Documents</a></li>
+		</ol>
+	</div>
+
+		 </div>
+	</div>
+
+	</section>
+
+
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col4 last" style="" data-widgetcontainerid="17eb5dd9-8c1a-4043-a2df-467eb1136804">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col4 first last id5f33fbf8-66a8-474f-8bbe-7bd5ccd690ad" style="" data-widgetcontainerid="5f33fbf8-66a8-474f-8bbe-7bd5ccd690ad">	
+<div class="widget image pageStyles" id="divImageOuteref2927cf-8c16-4d20-a5e3-bcbaea1c30db" data-widget-id="ef2927cf-8c16-4d20-a5e3-bcbaea1c30db">
+    
+	<div class="widgetBody imageBorder" id="divImageef2927cf-8c16-4d20-a5e3-bcbaea1c30db">				<a href="/facebook" target="_self"><img src="/ImageRepository/Document?documentID=1432" alt="Miami Facebook" title="Miami Facebook"/></a>
+	</div></div>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col2 first" style="" data-widgetcontainerid="e1dd036f-1b4f-4e0c-ab2b-5067a188e390">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col2 first last idf70790bc-72c8-4f3d-a5ee-8517cf08abcb" style="" data-widgetcontainerid="f70790bc-72c8-4f3d-a5ee-8517cf08abcb">	
+
+<div class="widget widgetSpacer" id="cd64e8ed-5a55-41d9-830a-41bfbd21cd9d"></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!----><div class="outer col col22 last" style="" data-widgetcontainerid="0e78732f-af92-4db2-9b56-9afb966e3485">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col22 first last idcc4d74e2-2432-4fd6-ae92-60a2e63e4e65" style="" data-widgetcontainerid="cc4d74e2-2432-4fd6-ae92-60a2e63e4e65">	
+<div data-widget-id="a9c15b41-2d66-4cd2-abdf-2050b7a29fb8" data-widget-controller-path="/Layout/WidgetSearch">
+	
+		<script defer type="text/javascript" src="/Common/Controls/jquery-ui/js/jquery.ui.autocomplete.min.js"></script>
+	<script defer src="/Areas/Layout/Assets/Scripts/Search.js" type="text/javascript"></script>
+	<script defer type="text/javascript">
+
+		$(document).ready(function () {
+			try {
+				$(".widgetSearchButton.widgetSearchButtona9c15b41-2d66-4cd2-abdf-2050b7a29fb8").click(function (e) {
+				e.preventDefault();
+					if ($("#ysnSearchOnlyDepta9c15b41-2d66-4cd2-abdf-2050b7a29fb8").is(':checked')) {
+						doWidgetSearch($(this).siblings(".widgetSearchBox").val(), Number(0));
+					} else {
+						doWidgetSearch($(this).siblings(".widgetSearchBox").val(), 0);
+					}
+			});
+			$("#searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8").keypress(function (e) {
+				if (window.clipboardData) {
+					if (e.keyCode == 13) {
+							if ($("#ysnSearchOnlyDepta9c15b41-2d66-4cd2-abdf-2050b7a29fb8").is(':checked')) {
+								doWidgetSearch($(this).val(), Number(0));
+							} else {
+								doWidgetSearch($(this).val(), 0);
+							}
+						return false;
+					}
+				} else {
+					if (e.which == 13) {
+							if ($("#ysnSearchOnlyDepta9c15b41-2d66-4cd2-abdf-2050b7a29fb8").is(':checked')) {
+								doWidgetSearch($(this).val(), Number(0));
+							} else {
+								doWidgetSearch($(this).val(), 0);
+							}
+						return false;
+					}
+				}
+				return true;
+			});
+
+				if (true) {
+					var currentRequest = null;
+
+					var $searchField = $("#searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8").autocomplete({
+						source: function (request, response) {
+							currentRequest = $.ajax({
+								url: '/Search/AutoComplete',
+								dataType: "json",
+								timeout: 10000,
+								beforeSend: function () {
+									if (currentRequest != null) {
+										currentRequest.abort();
+									}
+								},
+								data:
+								{
+									term: request.term,
+								},
+								success: function (data) {
+									response(data);
+									$('.autoCompleteError').remove();
+								},
+								error: function (xmlhttprequest, textstatus, message) {
+									if (textstatus === "timeout") {
+										if ($("#searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8").siblings('.autoCompleteError').length == 0)
+											$('<span class="autoCompleteError"><p class="alert error">Search autocomplete is currently not responding. Please try again later.</p></span>').insertAfter($("#searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8"));
+									}
+								}
+							});
+						},
+						html: true,
+						delay: 500,
+						select: function (event, ui) {
+							$(this).val(ui.item.value);
+							$(this).next().click();
+						}
+					});
+
+					if (false && true) {
+						$searchField.data("ui-autocomplete")._renderItem = function (ul, item) {
+							return $("<li class=\"itemList\"></li>")
+								.data("ui-autocomplete-item", item)
+								.append("<a>" + item.label + "</a>")
+								.appendTo(ul);
+						};
+					}
+					else {
+						$searchField.data("autocomplete")._renderItem = function (ul, item) {
+							return $("<li></li>")
+								.data("item.autocomplete", item)
+								.append("<a>" + item.label + "</a>")
+								.appendTo(ul);
+						};
+					}
+}
+}
+			catch(e) {} //we're going to eat this error. Autocomplete won't work but we dont wan't to break anything else on the page.
+		});
+	</script>
+	<style scoped type="text/css">.widgetOptionSet15 .searchLabel {
+    display: none;
+}</style>
+
+	<section id="widgetPreviewSearch" class="widget widgetSearch skin17 widgetOptionSet15" style="display: block;" aria-label="Search">
+				<!-- For the button right and inside -->
+		<div class="widgetBody buttonRightInside">
+			<input class="widgetSearchBox widgetSearchBoxa9c15b41-2d66-4cd2-abdf-2050b7a29fb8" cp5ph="true" id="searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8" name="searchField" onchange="searchBtnApplyQuery();" placeholder="Search" title="Search" type="text" value="" />
+							<a href="/Search/Results" id="btnSearchIcon" class="widgetSearchButton widgetSearchButtona9c15b41-2d66-4cd2-abdf-2050b7a29fb8" role="button"><img alt="Go" class="imageHover" data-hover="/ImageRepository/Document?documentID=113" data-image="/ImageRepository/Document?documentID=112" src="/ImageRepository/Document?documentID=112" /></a>
+
+			<label class="searchLabel" for="searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8">Search</label>
+		</div>
+
+	</section>
+
+
+<style scoped>
+    
+        .widgetSearch ::-webkit-input-placeholder {
+        color: #000000;
+      }
+        .widgetSearch :-moz-placeholder { /* Firefox 18- */
+       color: #000000;
+    }
+        .widgetSearch ::-moz-placeholder {  /* Firefox 19+ */
+       color: #000000;
+    }
+    .widgetSearch :-ms-input-placeholder {
+       color: #000000;
+    }
+    
+
+	.widgetSearch .widgetBody .widgetSearchBoxa9c15b41-2d66-4cd2-abdf-2050b7a29fb8
+	{
+        color: #000000;
+		background: transparent; height: 30px; padding: 5px 40px 5px 10px;  border: 0px solid #000;
+	}
+	.widgetSearch .widgetBody .widgetSearchButtona9c15b41-2d66-4cd2-abdf-2050b7a29fb8
+	{
+		margin: 4px;
+	}
+	.widgetSearch .widgetSearch-onlyDepta9c15b41-2d66-4cd2-abdf-2050b7a29fb8
+	{
+		display: inline-block;
+		color: #333;
+		
+		
+		 padding-top: 10px;
+	}
+	#ysnSearchOnlyDepta9c15b41-2d66-4cd2-abdf-2050b7a29fb8
+	{
+		position: relative;
+		top: .125em;
+	}
+
+</style>
+
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+
+
+	<script type="text/javascript">
+	//Updates search icons href to have the correct queryString
+	function searchBtnApplyQuery() {
+		document.getElementById("btnSearchIcon").href = "/Search?searchPhrase=" + document.getElementById("searchFielda9c15b41-2d66-4cd2-abdf-2050b7a29fb8").value;
+    }
+	</script>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</aside></div><nav data-cpRole="nav" id="mainNav" class="siteNav mainNav mainNavWrapper" role="navigation">
+<ol id="mainNavMenu" data-parent="1" class="rootNavMenu" role="menu"><!--
+--><li id="MainItem27" class="topMenuItem" aria-haspopup="true" role="menuitem" data-pageid="27" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavGovernment" class="navMainItem mainNavItem mainNavItem1" href="/27/Government" target="_self">Government</a><!--
+			--><!--
+			--></li><!----><li id="MainItem127" class="topMenuItem" aria-haspopup="true" role="menuitem" data-pageid="127" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavDepartments" class="navMainItem mainNavItem mainNavItem2" href="/127/Departments" target="_self">Departments</a><!--
+			--><!--
+			--></li><!----><li id="MainItem31" class="topMenuItem" aria-haspopup="true" role="menuitem" data-pageid="31" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavResidents" class="navMainItem mainNavItem mainNavItem3" href="/31/Residents" target="_self">Residents</a><!--
+			--><!--
+			--></li><!----><li id="MainItem35" class="topMenuItem" aria-haspopup="true" role="menuitem" data-pageid="35" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavVisitors" class="navMainItem mainNavItem mainNavItem4" href="/35/Visitors" target="_self">Visitors</a><!--
+			--><!--
+			--></li><!----><li id="MainItem9" class="topMenuItem" aria-haspopup="true" role="menuitem" data-pageid="9" data-displaymegamenu="True"><!--
+			--><!--
+			--><a id="mainNavHowDoI" class="navMainItem mainNavItem mainNavItem5" href="/9/How-Do-I" target="_self">How Do I</a><!--
+			--><!--
+			--></li><!---->
+</ol>
+
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var menuID = 'mainNavMenu';
+			var menuType = MAIN_MENU;
+
+			//setup menu manager properties for main menu
+			if (!menuManager.mobileMainNav && true)
+				menuManager.adjustMainItemsWidth('#' + menuID);
+			menuManager.isMainMenuEditable = false;
+			menuManager.mainMenuMaxSubMenuLevels = 4;
+			menuManager.setMOMMode(2, menuType);
+
+			//Init main menu
+			var setupDraggable = menuManager.isMainMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuMain/HiddenMainSubMenus?pageID=1&moduleID=&themeID=1&menuContainerID=mainNav';
+
+			menuManager.setupMenu(menuID, 'mainNav', menuType, setupDraggable, urlToGetHiddenMenus);
+			menuManager.mainMenuInit = true;
+			menuManager.mainMenuTextResizer = false;
+			if (0.50 > 0)
+				menuManager.mainMenuTextResizerRatio = 0.50;
+			if (window.isResponsiveEnabled)
+				menuManager.mainMenuReady.resolve();
+
+		});
+	</script>
+
+
+<aside data-cpRole="megaMenu" id="megaMenu" class="megaMenu" style="display: none;"><input type="hidden" id="megaMenuPopupDirection" value="0"><input type="hidden" id="megaMenuWidthReference" value="0"><aside data-cpRole="contentContainer" id="mainNavMegaMenu27" class="contentTop mainNavMegaMenu megaMenuContainer pageID_27 hidden" data-orientation="horizontal">	<div id="cc0de1b5d2-e125-4655-b10c-b4aba9685eb9" data-containerid="0de1b5d2-e125-4655-b10c-b4aba9685eb9" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu127" class="contentTop mainNavMegaMenu megaMenuContainer pageID_127 hidden" data-orientation="horizontal">	<div id="cc4f9ede75-51a1-40f7-8df6-ca9e873d3db9" data-containerid="4f9ede75-51a1-40f7-8df6-ca9e873d3db9" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu31" class="contentTop mainNavMegaMenu megaMenuContainer pageID_31 hidden" data-orientation="horizontal">	<div id="ccbc6d94d4-4c93-409a-9e82-fa5019bf2a5a" data-containerid="bc6d94d4-4c93-409a-9e82-fa5019bf2a5a" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu35" class="contentTop mainNavMegaMenu megaMenuContainer pageID_35 hidden" data-orientation="horizontal">	<div id="ccec9d8d1f-62b8-4af1-a040-9f636bd8d9ff" data-containerid="ec9d8d1f-62b8-4af1-a040-9f636bd8d9ff" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside><aside data-cpRole="contentContainer" id="mainNavMegaMenu9" class="contentTop mainNavMegaMenu megaMenuContainer pageID_9 hidden" data-orientation="horizontal">	<div id="cc9fdab89f-9281-4aae-bf8f-c9b66609c17d" data-containerid="9fdab89f-9281-4aae-bf8f-c9b66609c17d" class="pageContent cpGrid cpGrid24">
+				                
+
+
+
+	</div>
+</aside></aside></nav></header><div data-cpRole="structuralContainer" id="structuralContainer1" class="mainWrap" role="main"><div class="inner">
+<div data-cpRole="structuralContainer" id="structuralContainer2" class="contentWrapMain">
+<div data-cpRole="breadCrumbs" class="breadCrumbContainer" id="breadCrumbs">		<ol class="semanticList breadCrumbs">
+			<li><a class="breadCrumb" href="/">Home</a></li><li><a class="breadCrumb" href="/127/Departments">Departments</a></li><li id="currentBCPage" data-pageid="242">Sheriff</li>
+		</ol>
+
+	   
+    
+</div><div data-cpRole="mainContentContainer" id="moduleContent">
+	
+	<div id="page" class="moduleContentNew">
+		
+
+	<input id="hdnPageID" name="hdnPageID" type="hidden" value="242" />
+	<input id="hdnParentID" name="hdnParentID" type="hidden" value="127" />
+	<input id="hdnVersionID" name="hdnVersionID" type="hidden" value="2723" />
+	<input id="pageMenuTitle" name="pageMenuTitle" type="hidden" value="Sheriff" />
+	<input id="pageShowFeatureColumn" name="pageShowFeatureColumn" type="hidden" value="True" />
+	<input id="hdnIsLayoutPage" name="hdnIsLayoutPage" type="hidden" value="False" />
+	<input id="hdnPageStatus" name="hdnPageStatus" type="hidden" value="Active" />
+
+				<h1 id="versionHeadLine" class="headline">
+Sheriff		</h1>
+			<div id="cc5f8c90dc-b4cb-431b-90ee-10648f8df655" data-containerid="5f8c90dc-b4cb-431b-90ee-10648f8df655" class="pageContent cpGrid cpGrid24"  >
+			
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="c495ec9f-6b9c-4240-beea-22444c8c03f3">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last ide76a00f9-94b5-433c-ba1d-e9a180c6ff7e" style="" data-widgetcontainerid="e76a00f9-94b5-433c-ba1d-e9a180c6ff7e">	
+<div class="widget editor pageStyles wide" id="divEditor5ba64b10-140b-48ad-8f56-32e1f47b721f" >
+<em>"Serving &amp; Protecting the Citizens of Miami County Since 1855"<br>
+</em><br>
+The Miami County Sheriff’s Office would like to thank you for your interest in our agency. We believe that our website will not only provide you with the most up-to-date information regarding our agency but give you a better understanding of how the sheriff’s office serves and protects the residents of Miami County.<br>
+<br>
+<h2 class="subhead1">Duties</h2><br>
+As the chief law enforcement officer in the county, the sheriff is required by state law to perform four specific duties, including:<br>
+<ul>
+    <li>Serving civil and criminal process papers</li>
+    <li>Keeping the peace</li>
+    <li>Providing protection for county residents</li>
+    <li>Keeping those behind bars secure</li>
+</ul>
+<h2 class="subhead1">Personnel</h2><br>
+The Miami County Sheriff’s Office currently employs two captains, one jail administrator, one executive assistant, nine sergeants, four detectives, eighteen sworn and nine part-time deputies, twenty-one deputy jailers and fourteen civilian employees.<br></div>
+
+
+
+<script type="text/javascript">
+	$(document).ready(function (e) { 
+	    renderSlideshowIfApplicable($('#divEditor' + '5ba64b10-140b-48ad-8f56-32e1f47b721f'));
+	    $('#divEditor' + '5ba64b10-140b-48ad-8f56-32e1f47b721f').css('height', 'inherit');
+	});
+</script>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="72231397-0c5a-43a3-a8b6-5271c5495ed3">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id3b75ecab-b413-4a5b-9f68-76b940052521" style="" data-widgetcontainerid="3b75ecab-b413-4a5b-9f68-76b940052521">	
+	<div data-widget-id="2fe6765e-356c-45b2-b35f-e9dc02eb8c81" data-widget-controller-path="/QuickLinks/Widget">
+
+
+
+
+
+ 
+
+
+	<section id="widgetQuicklink2fe6765e-356c-45b2-b35f-e9dc02eb8c81" class="widget widgetQuickLinks skin43 widgetOptionSet2 wide" data-modulewidgettype="quickLinks"  aria-labelledby="quickLinksHeader2fe6765e-356c-45b2-b35f-e9dc02eb8c81">
+			<header class="widgetHeader" id="quickLinksHeader2fe6765e-356c-45b2-b35f-e9dc02eb8c81">
+		<div class="">
+					<h3><a  style="" href="/QuickLinks.aspx?CID=57," >Quick Links</a></h3>
+						</div>
+	</header>
+	<div class="widgetBody cpGrid cpGrid2 ">
+        <div class="row  wide">
+				<div class="col col1 first ">
+					<ol class="semanticList bullets">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.ncmec.org/" target="_blank"  aria-label="National Center for Missing & Exploited Children - 1-800-843-5678 opens in new window">National Center for Missing & Exploited Children - 1-800-843-5678</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="https://public.coderedweb.com/CNE/379912C859C3" target="_self" >CodeRED</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.fbi.gov/" target="_blank"  aria-label="Federal Bureau of Investigation (816)592-8200 opens in new window">Federal Bureau of Investigation (816)592-8200</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.kansas.gov/kbi/index.shtml" target="_blank"  aria-label="Kansas Bureau of Investigation - 1-800-KSCRIME opens in new window">Kansas Bureau of Investigation - 1-800-KSCRIME</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.cityofpaola.com/" target="_blank"  aria-label="Paola Police Department - 259-3640 opens in new window">Paola Police Department - 259-3640</a>
+    </li>
+					</ol>
+				</div>
+				<div class="col col1  last">
+					<ol class="semanticList bullets">
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.osawatomieks.org/index.aspx?NID=260" target="_blank"  aria-label="Osawatomie Police Department - 755-2101 opens in new window">Osawatomie Police Department - 755-2101</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.louisburgkansas.gov/135/Police" target="_blank"  aria-label="Louisburg Police Department - (913) 837-3191 opens in new window">Louisburg Police Department - (913) 837-3191</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.springhillks.com/index.aspx?NID=85" target="_blank"  aria-label="Spring Hill Police Department - (913) 592-2700 opens in new window">Spring Hill Police Department - (913) 592-2700</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://kdwpt.state.ks.us/news/KDWPT-Info/Locations/Wildlife-Areas/Region-2/Hillsdale" target="_blank"  aria-label="Kansas Wildlife & Parks- Hillsdale - (913) 783-4507 opens in new window">Kansas Wildlife & Parks- Hillsdale - (913) 783-4507</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="http://www.kansashighwaypatrol.org/" target="_blank"  aria-label="Kansas Highway Patrol - (913) 782-8100 opens in new window">Kansas Highway Patrol - (913) 782-8100</a>
+    </li>
+					</ol>
+				</div>
+		</div>
+				<a id="quickLinksViewAll2fe6765e-356c-45b2-b35f-e9dc02eb8c81" class="widgetViewAll alignLeft" style="" href="/QuickLinks.aspx?CID=57," aria-labelledby="quickLinksHeader2fe6765e-356c-45b2-b35f-e9dc02eb8c81 quickLinksViewAll2fe6765e-356c-45b2-b35f-e9dc02eb8c81">View All  &gt;</a>
+        
+	</div>
+	<div class="widgetFooter">
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/QuickLinks.aspx</div>
+	</div>
+
+	</section>
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="45f9a52c-76e4-4d52-a115-6bf7584a8599">				
+	<div class="row nest first wide">
+	
+	<div class="inner col col24 first last id4991eaaa-762e-4541-a168-e30baf71fb0e" style="" data-widgetcontainerid="4991eaaa-762e-4541-a168-e30baf71fb0e">	
+<div data-widget-id="e3a15b6e-ccf5-4632-8e59-f5377248e469" data-widget-controller-path="/Calendar/Widget">
+		<script src="/Areas/Calendar/Assets/Scripts/Calendar.js"></script>
+
+
+ 
+
+    
+
+
+
+
+
+<div id="widgetCalendare3a15b6e-ccf5-4632-8e59-f5377248e469" class="widget widgetCalendar skin43 widgetOptionSet19 wide" data-modulewidgettype="calendar" >
+		<div class="widgetHeader ">
+			<div class="">
+							<h3 id="calendarHeadere3a15b6e-ccf5-4632-8e59-f5377248e469"><a  style="" href="/calendar.aspx?CID=14,32," ><img alt="Miami County Calendar" src="/ImageRepository/Document?documentID=1420" /></a></h3>
+
+			</div>
+					</div>
+	<div class="widgetBody cpGrid cpGrid1  mediaLeft">
+			<div class="calendarInnerWrapper">
+
+
+<div data-minicalendar="true" class="miniCalendar media" style="width: 50%; ">
+<h3 class="miniCalendarHeader">September 2020</h3>
+	<table>
+		<thead>											
+			<tr>										
+<th scope="col"><abbr title="
+Sunday
+">
+Sun
+</abbr></th>
+<th scope="col"><abbr title="
+Monday
+">
+Mon
+</abbr></th>
+<th scope="col"><abbr title="
+Tuesday
+">
+Tue
+</abbr></th>
+<th scope="col"><abbr title="
+Wednesday
+">
+Wed
+</abbr></th>
+<th scope="col"><abbr title="
+Thursday
+">
+Thu
+</abbr></th>
+<th scope="col"><abbr title="
+Friday
+">
+Fri
+</abbr></th>
+<th scope="col"><abbr title="
+Saturday
+">
+Sat
+</abbr></th>
+
+			</tr>										
+		</thead>										
+		<tbody>											
+<tr><td class="not"><span>
+30
+</span></td>				
+<td class="not"><span>
+31
+</span></td>				
+<td>
+<span>01</span>
+</td>
+<td>
+<span>02</span>
+</td>
+<td>
+<span>03</span>
+</td>
+<td>
+<span>04</span>
+</td>
+<td>
+<span>05</span>
+</td>
+</tr>
+<tr><td>
+<span>06</span>
+</td>
+<td>
+<span>07</span>
+</td>
+<td>
+<span>08</span>
+</td>
+<td class="today">
+<span>09</span>
+</td>
+<td>
+<span>10</span>
+</td>
+<td>
+<span>11</span>
+</td>
+<td>
+<span>12</span>
+</td>
+</tr>
+<tr><td>
+<span>13</span>
+</td>
+<td>
+<span>14</span>
+</td>
+<td>
+<span>15</span>
+</td>
+<td>
+<span>16</span>
+</td>
+<td>
+<span>17</span>
+</td>
+<td>
+<span>18</span>
+</td>
+<td>
+<span>19</span>
+</td>
+</tr>
+<tr><td>
+<span>20</span>
+</td>
+<td>
+<span>21</span>
+</td>
+<td>
+<span>22</span>
+</td>
+<td>
+<span>23</span>
+</td>
+<td>
+<span>24</span>
+</td>
+<td>
+<span>25</span>
+</td>
+<td>
+<span>26</span>
+</td>
+</tr>
+<tr><td>
+<span>27</span>
+</td>
+<td>
+<span>28</span>
+</td>
+<td>
+<span>29</span>
+</td>
+<td>
+<span>30</span>
+</td>
+<td class="not"><span>
+01
+</span></td>				
+<td class="not"><span>
+02
+</span></td>				
+<td class="not"><span>
+03
+</span></td>				
+</tr>
+
+		</tbody>										
+	</table>											
+</div>
+
+
+
+			
+
+<div class="row  text wide" style="margin-left: 55%; ">
+				<div class="col col1 first last">
+					<ol class="semanticList">
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Wed Nov. 11  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=2857">County Offices Closed</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Thu Nov. 26          - Fri Nov. 27
+ </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=2854">County Offices Closed</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Thu Dec. 24          - Fri Dec. 25
+ </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=2855">County Offices Closed</a></strong>
+
+		</div>
+				</li>
+					</ol>
+				</div>
+</div>						</div>
+				<a id="calendarViewAlle3a15b6e-ccf5-4632-8e59-f5377248e469" class="widgetViewAll alignRight" style="" href="/calendar.aspx?CID=14,32," aria-label="Calendar View All">View All &gt;</a>
+					</div>
+	<div class="widgetFooter">
+		        
+	</div>
+	<div class="addItemModal hidden">
+		<div class="url hidden">/Calendar.aspx</div>
+	</div>
+</div></div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+	<div class="row nest last wide">
+	
+	<div class="inner col col24 first last ida73d8263-b2d1-4615-86f4-5e31c87753d8" style="" data-widgetcontainerid="a73d8263-b2d1-4615-86f4-5e31c87753d8">	
+<div data-widget-id="538bc6a9-cf4e-4d50-b7a1-8df672e3e1ed" data-widget-controller-path="/NewsFlash/Widget">
+
+</div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+		</div>
+
+	</div>
+
+	
+	<div class="newCP">
+
+	</div>
+</div>
+</div><aside data-cpRole="contentContainer" id="featureColumn" class="secondaryContent">	<div id="ccd6923f64-2522-4bce-8783-61ad1b416b69" data-containerid="d6923f64-2522-4bce-8783-61ad1b416b69" class="pageContent cpGrid cpGrid24 showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="d789348b-183d-4482-872d-8c86cd63c9b5">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id4ee588d7-79db-4298-80e4-6425243629a3" style="" data-widgetcontainerid="4ee588d7-79db-4298-80e4-6425243629a3">	
+    <div data-widget-id="abb7f63a-8df0-4e3d-a1cd-9e6c24940f76" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+
+
+
+	<section id="divInfoAdvabb7f63a-8df0-4e3d-a1cd-9e6c24940f76" class="widget widgetInfoAdvanced skin49 widgetOptionSet5 wide" data-modulewidgettype="infoAdv"  aria-label="Info Advanced">
+			<header class="widgetHeader" id="headerabb7f63a-8df0-4e3d-a1cd-9e6c24940f76">
+		<div class="">
+								</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">
+		<div class="row  wide">
+					<div class="col col1 first last">
+						<ol class="pageStyles semanticList">
+
+<li class="InfoAdvanced widgetItem ">
+	<h3 class="subhead2"><img title="Frank Kelly" alt="Frank Kelly" src="/ImageRepository/Document?documentID=666"><br>
+<h2 class="subhead1">Frank W. Kelly</h2><h2 class="subhead1"><br>
+</h2><em> Sheriff</em><br>
+<br>
+<img title="Wayne Minckley" alt="Wayne Minckley" src="/ImageRepository/Document?documentID=667"><br>
+<h2 class="subhead1">Wayne Minckley</h2><h2 class="subhead1"><br>
+</h2><em> Undersheriff<br>
+</em><br>
+<h2 class="subhead1"><h3 class="subhead2">Contact At</h3></h2><br>
+Sheriff's Office<br>
+209 S. Pearl<br>
+Paola, KS 66071<br>
+<br>
+<h3 class="subhead2">Administration</h3><br>
+<h2 class="subhead1">
+P: (913) 294-3232<br>
+F: (913) 294-9119 </h2><br>
+<br>
+<h3 class="subhead2">
+Detention Center</h3><br>
+<h2 class="subhead1">
+P: (913) 294-3232<br>
+F: (913)&nbsp;294-9547</h2><br>
+<br>
+<h3 class="subhead2">Dispatch</h3><br>
+<h2 class="subhead1">
+P: (913)&nbsp;294-3232<br style="">
+F: (913)&nbsp;285-6606</h2><br>
+<br>
+<h3 class="subhead2">
+Investigations</h3><br>
+<h2 class="subhead1">
+P: (913)&nbsp;294-3232<br>
+F: (913)&nbsp;285-6607</h2><br>
+<br>
+<h3 class="subhead2">
+Records</h3><br>
+<h2 class="subhead1">P: (913)&nbsp;294-3232<br>
+F: (913) 294-9118<br>
+<h3 class="subhead2">
+<br>
+<h2 class="subhead1"><h3 class="subhead2">Hours</h3></h2><br>
+Monday - Friday<br>
+8 a.m. - 4:00 p.m.<br>
+<br>
+<a href="/Directory.aspx?DID=28" target="_self" class="subhead2 Hyperlink">Staff Directory<br>
+</a><br>
+<a href="/sheriffFB" target="_blank" class="subhead2 Hyperlink"><img title="facebookButton" alt="facebookButton" src="/ImageRepository/Document?documentID=3246"></a>&nbsp; <a href="/sherifftwitter" target="_blank" class="subhead2 Hyperlink"><img title="twitter-logo" alt="twitter-logo" src="/ImageRepository/Document?documentID=3247"></a><br>
+</h3></h2></h3>
+</li>						</ol>
+					</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+
+	</div>
+
+	</section>
+
+
+
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('#divInfoAdvabb7f63a-8df0-4e3d-a1cd-9e6c24940f76 .InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));		
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</aside><div data-cpRole="structuralContainer" id="structuralContainer3" class="sidebar">
+<aside data-cpRole="contentContainer" id="contentContainer3">	<div id="cc17fc1b17-a660-41d3-b47a-b7691b8b110a" data-containerid="17fc1b17-a660-41d3-b47a-b7691b8b110a" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="23a3001a-db36-4259-b9c1-0a88983eee69">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id0203f9b1-1a78-4073-8a8e-f9715b708a83" style="" data-widgetcontainerid="0203f9b1-1a78-4073-8a8e-f9715b708a83">	
+<div class="widget image pageStyles" id="divImageOuter499315c6-7e6a-4bbf-8a24-5b6cd9f0e00f" data-widget-id="499315c6-7e6a-4bbf-8a24-5b6cd9f0e00f">
+    
+	<div class="widgetBody imageBorder" id="divImage499315c6-7e6a-4bbf-8a24-5b6cd9f0e00f"><img src="/ImageRepository/Document?documentID=117" alt="Important Links" title="Important Links"/>	</div></div>
+
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</aside><nav data-cpRole="nav" id="secondaryNav" class="siteNav secondaryNav">
+
+
+
+
+	<ol role="menu" id="secondaryMenusecondaryNav" data-parent="242" class="rootNavMenu flyoutNav">
+	<li role="menuitem" aria-haspopup="true" id="SideItem527" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="527" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/527/Animal-Control" target="_self">Animal Control</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem453" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="453" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/FormCenter/Miami-County-Sheriffs-Office-8/Miami-County-Sheriffs-Office-Citizen-Sur-52" target="_self">Citizen Survey</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem673" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="673" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/673/Everbridge-Notification" target="_self">Everbridge Notification</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem697" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="697" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/697/Cops-for-Tots" target="_self">Cops for Tots</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem243" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="243" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/243/Divisions" target="_self">Divisions</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem244" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="244" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/244/Emergency-Management" target="_self">Emergency Management</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem247" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="247" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/247/History-Room" target="_self">History Room</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem245" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="245" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/245/Jail" target="_self">Jail</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem452" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="452" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/452/Mission-Vision" target="_self">Mission &amp; Vision</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem828" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="828" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="http://www.accesskansas.org/kbi/ro.shtml" target="_blank">Offender Search</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem248" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="248" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/248/Programs" target="_self">Programs</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem249" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="249" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/249/Resources" target="_self">Resources</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem246" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="246" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/246/Services" target="_self">Services</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem825" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="825" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/825/Sheriffs-Records" target="_self">Sheriff&#39;s Records</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem524" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="524" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/524/Sheriff-Sale" target="_self">Sheriff Sale</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem522" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="522" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/Directory.aspx?DID=28" target="_blank">Staff Directory</a>
+			</li>
+	<li role="menuitem" aria-haspopup="true" id="SideItem708" class="topMenuItem" data-display-main-item-sub-menu-indicators="False" data-pageid="708" data-displaymegamenu="False">
+					<a class="navMainItem secondaryNavItem" href="/708/Victim-Notification-Program" target="_self">Victim Notification Program</a>
+			</li>
+
+	</ol>
+
+
+	<script type="text/javascript">
+        $(document).ready(function () {
+            //setup menu manager properties for secondary menu
+            menuManager.isSideMenuEditable = false;
+		    menuManager.sideMenuMaxSubMenuLevels = 4;
+            menuManager.sideMenuHasCustomLinks = false;
+        });
+	</script>
+	<script type="text/javascript">
+        $(document).ready(function () {
+            //Init secondary menu
+            var setupDraggable = menuManager.isSideMenuEditable;
+			var urlToGetHiddenMenus = '/Pages/MenuSecondary/HiddenSecondarySubMenus?pageID=242&moduleID=&themeID=1&menuContainerID=secondaryNav';
+            var menuID = 'secondaryMenusecondaryNav';
+            menuManager.setMOMMode(2, SIDE_MENU);
+            menuManager.setupMenu(menuID, 'secondaryNav', SIDE_MENU, setupDraggable, urlToGetHiddenMenus);
+        });
+	</script>
+
+
+
+
+</nav><aside data-cpRole="contentContainer" id="contentContainer4">	<div id="cc59051760-3cf5-4d76-b748-0f1d3a9a7a96" data-containerid="59051760-3cf5-4d76-b748-0f1d3a9a7a96" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="f582ad44-c208-42f7-a027-61f2631502bf">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id8d740135-42a9-4fd4-ba9d-092e42b9c88b" style="" data-widgetcontainerid="8d740135-42a9-4fd4-ba9d-092e42b9c88b">	
+<div data-widget-id="5e87a984-5ff0-49a0-bf1d-325d40491a23" data-widget-controller-path="/GraphicLinks/Widget">
+
+
+
+
+<div id="graphicLinkWidget5e87a984-5ff0-49a0-bf1d-325d40491a23" class="widget widgetGraphicLinks skin45 widgetOptionSet4 wide"  data-modulewidgettype="graphicLinks">
+	<div class="widgetHeader">
+		<div class="">
+				</div>
+	</div>
+	<div class="widgetBody cpGrid cpGrid1 ">	
+			<div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/list.aspx" target="_self"  aria-label="Notify Me graphic"><img src="/ImageRepository/Document?documentID=388" 
+     class="graphicButtonLink" alt="Notify Me" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=389'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=388'"
+     onfocus="this.src='/ImageRepository/Document?documentID=389'" 
+	onblur="this.src='/ImageRepository/Document?documentID=388'"> </a></div><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/directory.aspx" target="_self"  aria-label="Staff Directory graphic"><img src="/ImageRepository/Document?documentID=1415" 
+     class="graphicButtonLink" alt="Staff Directory" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=1412'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=1415'"
+     onfocus="this.src='/ImageRepository/Document?documentID=1412'" 
+	onblur="this.src='/ImageRepository/Document?documentID=1415'"> </a></div><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/requesttracker.aspx" target="_self"  aria-label="Report a Concern graphic"><img src="/ImageRepository/Document?documentID=1413" 
+     class="graphicButtonLink" alt="Report a Concern" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=1410'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=1413'"
+     onfocus="this.src='/ImageRepository/Document?documentID=1410'" 
+	onblur="this.src='/ImageRepository/Document?documentID=1413'"> </a></div><!--
+	    --><div class="widgetItem GraphicLinks"><a class="widgetDesc widgetGraphicLinksLink" href="/BusinessDirectoryii.aspx" target="_self"  aria-label="Resource Guide graphic"><img src="/ImageRepository/Document?documentID=1414" 
+     class="graphicButtonLink" alt="Resource Guide" 
+     onmouseover="this.src='/ImageRepository/Document?documentID=1411'" 
+	onmouseout="this.src='/ImageRepository/Document?documentID=1414'"
+     onfocus="this.src='/ImageRepository/Document?documentID=1411'" 
+	onblur="this.src='/ImageRepository/Document?documentID=1414'"> </a></div><!--
+			--></div>
+	</div>
+	<div class="widgetFooter">
+			</div>
+</div>
+
+</div>
+	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</aside>
+</div></div>
+</div></div>
+
+
+
+
+			<div id="banner1-2" style="display: none"></div>
+				<script type="text/javascript">
+					onOrLive($(window), function () {
+							renderBanner('banner1-2',
+								'banner1',
+								{"BannerOptionID":2,"ThemeID":1,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":1,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":false,"ImageAlignment":2,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":61,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=938","Height":737,"Width":1872,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
+								{"BannerImageID":61,"BannerOptionID":2,"FileName":"/ImageRepository/Document?documentID=938","Height":737,"Width":1872,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":null},
+								'/App_Themes/Interior/Images/',
+								'<img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=938" />');
+						}, "load");
+				</script>
+
+
+</div><div data-cpRole="structuralContainer" id="structuralContainer5">
+<div data-cpRole="structuralContainer" id="structuralContainer6" class="siteWrap">
+<footer data-cpRole="contentContainer" id="contentContainer6" class="siteFooter">	<div id="cc7e33c007-a92d-4e0b-a28a-4fca2d132de9" data-containerid="7e33c007-a92d-4e0b-a28a-4fca2d132de9" class="pageContent cpGrid cpGrid24 isLockedContainer showInMobile">
+				                
+
+		<div class="row outer autoWidths center wide"><!--
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="f22a04e9-9b7d-4ecb-a1fd-58f40c3b2105">				
+	<div class="row nest first last wide">
+	
+	<div class="inner col col24 first last id4947a771-ba05-4eba-aa87-c50b3df8fda0" style="" data-widgetcontainerid="4947a771-ba05-4eba-aa87-c50b3df8fda0">	
+    <div data-widget-id="81cfe961-4235-4a3d-8b06-1ec2d303bd30" data-widget-controller-path="/InfoAdvanced/Widget">
+
+
+
+
+
+	<section id="divInfoAdv81cfe961-4235-4a3d-8b06-1ec2d303bd30" class="widget widgetInfoAdvanced skin37 widgetOptionSet5 wide" data-modulewidgettype="infoAdv"  aria-label="Info Advanced">
+			<header class="widgetHeader" id="header81cfe961-4235-4a3d-8b06-1ec2d303bd30">
+		<div class="">
+								</div>
+	</header>
+	<div class="widgetBody  cpGrid cpGrid1 ">
+		<div class="row  wide">
+					<div class="col col1 first last">
+						<ol class="pageStyles semanticList">
+
+<li class="InfoAdvanced widgetItem ">
+	<div style="text-align: center;"><a class="Hyperlink" href="/122/Accessibility" target="_blank">Accessibility</a>&nbsp; | &nbsp;<a href="/admin" target="_self" class="Hyperlink">Admin Log In</a>&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;<a class="Hyperlink" href="/72/Employee-Access-Portal" target="_blank">Employee Access</a>&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;<a class="Hyperlink" href="/sitemap" target="_blank">Site Map</a></div>
+<div style="text-align: center;"><i>"This institution is an equal opportunity provider and employer."</i><br>
+</div>
+</li>						</ol>
+					</div>
+		</div>
+	</div>
+	<div class="widgetFooter">
+
+	</div>
+
+	</section>
+
+
+
+<script type="text/javascript">
+	//Render slideshow if info advacned items contain one.
+	$(document).ready(function (e) {
+		$('#divInfoAdv81cfe961-4235-4a3d-8b06-1ec2d303bd30 .InfoAdvanced.widgetItem').each(function () {
+			renderSlideshowIfApplicable($(this));		
+		});
+	});
+</script></div>	</div> <!-- inner column -->
+
+	</div> <!-- inner row -->
+
+			</div><!-- outer column --><!--		--></div> <!-- outer row -->
+
+
+	</div>
+</footer>
+</div>
+</div>
+</div>
+
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+
+
+
+	
+
+
+
+
+
+
+	<script src="/1967866089.js" type="text/javascript"></script>
+	 <!-- Piwik -->
+<script type="text/javascript"> 
+  var _paq = _paq || [];
+  _paq.push(['setCustomUrl', location.href.toLowerCase()]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  $(window).load(function(){
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1592]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  });
+
+</script>
+<noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=1592" style="border:0" alt="Piwik" /></p></noscript>
+<!-- End Piwik Code -->
+<!--Start Translate Code--><div id="google_translate_element" style="position: fixed; bottom: 0px; right: 25px; z-index:4;"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script><!--End Translate Code-->
+	
+
+
+
+	<script type="text/javascript">
+		$(function () {
+			document.cookie = "responsiveGhost=0; path=/";
+		});
+		onOrLive($(window), function () {
+			$('body').addClass('doneLoading').removeClass('hideContent');
+
+			if ($('#404Content').length > 0)
+				$('div#bodyWrapper').css('padding', '0px');
+		}, 'load');
+	</script>
+
+	<noscript>
+		<style>
+			body.hideContent {
+				opacity: 1 !important;
+			}
+		</style>
+	</noscript>
+
+		
+<div style="display: none;">
+	<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+
+		<symbol id="iconArrow--left" viewbox="0 0 25 25">
+			<title>Arrow Left</title>
+			<polygon style="fill:currentcolor" points="18.044,25 19.498,23.545 8.409,12.454 19.408,1.455 17.954,0 5.502,12.452"></polygon>
+		</symbol>
+
+		<symbol id="iconArrow--right" viewbox="0 0 25 25">
+			<title>Arrow Right</title>
+			<polygon style="fill:currentcolor" points="6.957,0 5.502,1.455 16.591,12.546 5.592,23.545 7.047,25 19.498,12.548"></polygon>
+		</symbol>
+
+	</svg>
+</div>
+	<script type="text/javascript">loadCSS('//fonts.googleapis.com/css?family=Lato:700,regular|Montserrat:700,regular|');</script>
+	
+
+	<div class="hidden activeWidgetSkinComponentsOnPageJson">[]</div>
+		<div style="display: none;">
+			<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+				<symbol id="iconSlideshowArrowLeft" viewBox="0 0 22.68 40">
+					<title>Slideshow Left Arrow</title>
+					<g>
+						<path style="fill:currentcolor;" d="M20,40a2.67,2.67,0,0,1-1.9-.79L.79,21.9a2.68,2.68,0,0,1,0-3.79L18.1.79a2.68,2.68,0,1,1,3.79,3.79L6.47,20,21.89,35.42A2.68,2.68,0,0,1,20,40Z"></path>
+					</g>
+				</symbol>
+				<symbol id="iconSlideshowArrowRight" viewBox="0 0 22.68 40">
+					<title>Slideshow Right Arrow</title>
+					<g>
+						<path style="fill:currentcolor;" d="M2.68,0a2.67,2.67,0,0,1,1.9.79L21.89,18.1a2.68,2.68,0,0,1,0,3.79L4.58,39.21A2.68,2.68,0,0,1,.79,35.42L16.21,20,.79,4.58A2.68,2.68,0,0,1,2.68,0Z"></path>
+					</g>
+				</symbol>
+			</svg>
+		</div>
+	
+	
+
+	</body>
+</html>

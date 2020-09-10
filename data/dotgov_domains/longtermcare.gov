@@ -1,0 +1,267 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!-- InstanceBegin template="/Templates/ltc-page.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-control" content="no-cache" />
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Page Not Found - Long-Term Care Information</title>
+	<!-- InstanceEndEditable -->
+	<link rel="stylesheet" type="text/css" media="all" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" media="all" href="css/style.css">
+	<link rel="stylesheet" type="text/css" media="all" href="css/style_002.css">
+    <script type="text/javascript" src="js/dynamic-font-resize.js"></script>
+    
+    <!--JQUERY TOOLTIP-->
+    <script type="text/javascript" src="js/jquery-1.6.3.min.js"></script>
+    <script type="text/javascript" src="js/GoogleSearchBoxLabelFix.js"></script>
+
+  <script>
+  $(document).ready(function(){
+    $('[data-tooltip]').addClass('tooltip');
+    $('.tooltip').each(function() {  
+        $(this).append('<span class="tooltip-content">' + $(this).attr('data-tooltip') + '</span>');  
+    });
+    
+    if ($.browser.msie && $.browser.version.substr(0,1)<7)
+    {
+      $('.tooltip').mouseover(function(){
+            $(this).children('.tooltip-content').css('visibility','visible');
+          }).mouseout(function(){
+            $(this).children('.tooltip-content').css('visibility','hidden');
+          })
+    }
+});
+</script>
+
+<!--GOOGLE ANALYTICS --> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39800338-24', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+  <div id="skipmenu"> <a href="#skip" class="skippy">Skip Navigation</a> <a name="top">
+    <!-- Top Anchor -->
+    </a> </div>
+  <!-- end skipmenu -->
+  <div id="header">
+    <div id="header_inner">
+      <div id="header_inner_header">
+           
+        <div id="breadcrumbs">
+           <ul>
+             <!-- InstanceBeginEditable name="breadcrumbs" -->
+               <li><a href="index.html" class="home">Home</a> &gt;</li>
+               <li><span class="selected">Page Not Found</span></li>
+             <!-- InstanceEndEditable -->
+           </ul>
+		</div><!-- #breadcrumbs -->          
+           
+        <!-- FONT SCALE AND PRINT BUTTONS -->
+        <div id="search">
+          <div id="btns"><a role="button" href="javascript:increaseFontSize();" id="increase">A</a>&nbsp;&nbsp;<a role="button" href="javascript:decreaseFontSize()" id="decrease">A</a>&nbsp;&nbsp;
+          <a role="button" href="javascript:printPage();"><img src="images/btnPrint.png" alt="Print this page" id="btnPrint" width="29" align="absmiddle" height="29"></a>
+            <script>
+			function printPage() {
+    		window.print();
+			}
+			</script>
+          </div>
+          
+          <!-- SEARCH -->
+          <div id="searchForm">
+            <label for="gsc-i-id1" id="GoogleSearchLabel">Search:</label>
+          	<!-- NEW GOOGLE SEARCH -->
+			<script>
+  			(function() {
+    			var cx = '017781414769350254827:mxpf7790m54';
+    			var gcse = document.createElement('script');
+    			gcse.type = 'text/javascript';
+    			gcse.async = true;
+    			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    			var s = document.getElementsByTagName('script')[0];
+    			s.parentNode.insertBefore(gcse, s);
+ 			 })();
+			</script>
+			<gcse:search></gcse:search>
+
+          <!--<form role="search" method="get" id="theSearchForm" action="">
+            <input name="s" title="Search" id="searchfield" value="Search" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" type="text">
+            <label for="searchfield"><input name="SearchBtn" id="SearchBtn" value="GO" type="button"></label>
+            </form>-->
+          </div>
+        </div><!-- #search -->
+        
+      </div><!-- #header_inner_header -->
+    </div><!-- #header_inner -->
+  </div><!-- #header -->
+  
+  <div id="logo">
+    <div id="logo_inner">
+      <div id="logo_inner_logo">
+        <p><a href="index.html" style="text-decoration: none;">LongTermCare.gov</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="tagline">Find your path forward</span></p>
+        <div id="hhs">U.S. Department of Health and Human Services</div>
+      </div><!-- #logo_inner_logo -->
+    </div><!-- #logo_inner -->
+  </div><!-- #logo -->
+  
+  <!-- Page Content -->
+<div id="page_content">
+
+<div id="nav-position">
+   <div id="nav_bg">
+       <div id="nav_inner">
+           <div id="nav_inner_nav">
+             <ul id="navList">
+		   <!-- InstanceBeginEditable name="sitenav" -->
+             <li class=""><h2 class="pageTitle"><a href="the-basics/index.html">The Basics</a></h2><p>Just beginning to think about long-term care? Start here; it&rsquo;s more than just insurance.</p></li>
+             <li class=""><h2 class="pageTitle"><a href="medicare-medicaid-more/index.html">Medicare, Medicaid & More</a></h2><p>Find out what is covered and what is not.</p></li>
+             <li class=""><h2 class="pageTitle"><a href="where-you-live-matters/index.html">Where You Live Matters</a></h2><p>Is your home, community and state well-suited for aging/long-term care?</p></li>
+             <li class=""><h2 class="pageTitle"><a href="how-to-decide/index.html">How to Decide</a></h2><p>Protect your family by thinking ahead and making your decisions known.</p></li>
+             <li class=""><h2 class="pageTitle"><a href="costs-how-to-pay/index.html">Costs & How to Pay</a></h2><p>Long-term care is expensive, but there are several ways to pay for the care you may need.</p></li>
+           <!-- InstanceEndEditable -->
+             </ul>
+          </div><!-- #nav_inner_nav -->
+       </div><!-- #nav_inner -->
+   </div><!-- #nav_bg -->
+   
+   <div id="aclLogoContainer" style="position: relative;">
+      <div id="aclLogoContainerInner">
+           <div id="aclLogoContainerInner2">
+               <a href="https://www.acl.gov/about-acl/administration-aging" target="_blank" class="aclLogo external"><img alt="AOA Administration on Aging" style="height: 66px;" src="images/logo_aoa.png"></a>
+           </div>
+       </div>
+   </div>
+   
+</div><!-- #nav_position -->
+
+<div id="content" style="min-height: 885px;">
+<a name="skip" id="skip" tabindex="-1"> </a>
+
+<!--CENTER COLUMN MAIN CONTENT BEGINS-->
+
+<div id="content_inner_two_col">
+<!-- InstanceBeginEditable name="pageheader" -->
+  <h1>Page Not Found</h1>
+<!-- InstanceEndEditable -->
+
+  <div id="content_inner_content">
+  <!-- InstanceBeginEditable name="pagecontent" -->
+    				<p>We're sorry, the page you requested could not be found.</p>
+  <!-- InstanceEndEditable -->
+  
+  <!-- Last Modified -->
+  <div align="right">
+		<font size="1" face="Verdana,Arial" color="#333"><em>
+		<script language="JavaScript">
+		update = new Date(document.lastModified)
+		theMonth = update.getMonth() + 1
+		theDate = update.getDate()
+		theYear = update.getFullYear()
+		document.writeln("Last modified: " + theMonth + "/" + theDate + "/" + theYear + "")
+		</script>
+		</em></font>
+  </div>
+        
+  </div><!-- #content_inner_content -->
+	    </div><!-- #content_inner_two_col -->
+	    <div id="content_inner_two_col_bottom">
+			<!-- InstanceBeginEditable name="optionalcolumn" -->
+		      
+			<!-- InstanceEndEditable -->
+		</div><!-- #content_inner_two_col_bottom -->
+        
+<!--CENTER COLUMN MAIN CONTENT ENDS-->
+
+<!--RIGHT COLUMN BEGINS -->
+    
+    <div id="banner">
+      <div id="banner_corner"><img src="images/img_bluebanner_corner.png" alt="" width="5" height="8"></div>
+      <div id="banner_content">
+        <div id="banner_title">
+		  <h2 style="padding-top: 45px;"><span>LTC</span><br>PathFinder</h2>
+        </div>
+		<hr/>
+		<h3>Planning Ahead</h3>
+			<div class="banner_inner_content">
+				<p>Planning considerations and options associated with your age:</p>
+				<ul>
+					<li><a href="pathfinder/lessthan50.html">Less than 50</a></li>
+            		<li><a href="pathfinder/51-64.html">Between 51 and 64</a></li>
+            		<li><a href="pathfinder/65plus.html">Age 65 and older</a></li>
+				</ul>
+                <hr/>
+                <h3>Receiving LTC</h3>
+				<p>Resources for people already receiving long-term care services.</p>
+				<ul>
+					<li><a href="pathfinder/receivingltf.html">Already receiving LTC</a></li>
+				</ul>
+			</div>
+        </div>
+        <div id="banner_content_bottom"><img src="images/img_bluebanner_bottom.png" alt="" width="230" height="73"></div>
+      </div><!-- #banner -->
+    
+    <!-- RIGHT COLUMN ENDS-->    
+    
+    </div><!-- #content -->
+
+  <div id="footer">
+    <a href="#" class="go-top"><img src="images/back-to-top.png" alt="Back to top"></a>
+    <div id="footer_inner">
+      <div id="footer_inner_footer">
+        <div id="footer_logo"><a href="http://www.hhs.gov/" title="Visit the U.S. Department of Health and Human Services website" target="_blank" class="external"><img src="images/logo-hhs-footer.png" alt="U.S. Department of Health and Human Services" width="95" height="95"></a></div>
+        <div id="footer_text">
+        	<ul><li class="first"><a href="index.html">Home</a></li><li class=""><a href="about-us.html">About Us</a></li><li class=""><a href="accessibility.html">Accessibility</a></li><li class=""><a href="disclaimer.html">Disclaimer</a></li><li class=""><a href="privacy.html">Privacy</a></li><li class=""><a href="contact-us.html">Contact Us</a></li><li class=""><a href="http://www.hhs.gov/foia/" class="external" target="_blank">FOIA</a></li><li class="last"><a href="http://www.hhs.gov/open/recordsandreports/plainwritingact/index.html" class="external" target="_blank">Plain Writing</a></li></ul><div class="cB" style="margin-bottom: 4px;"></div><ul><li class="first"><a href="http://oig.hhs.gov/" class="external" target="_blank">Inspector General</a></li><li class=""><a href="http://www.cdc.gov/diversity/nofearact/" class="external" target="_blank">No FEAR Act</a></li><li class=""><a href="http://www.hhs.gov/plugins.html" class="external" target="_blank">Viewers &amp; Players</a></li><li class=""><a href="http://www.whitehouse.gov/" class="external" target="_blank">The White House</a></li><li class="last"><a href="http://www.usa.gov/" class="external" target="_blank">USA.gov</a></li></ul><div class="cB" style="margin-bottom: 4px;"></div><div class="cB" style="margin-bottom: 20px;"></div>          <p>This is an official U.S. government website managed by the <a href="http://www.hhs.gov/" target="_blank" class="external">U.S. Department of Health &amp; Human Services</a>.</p>
+        </div>
+      </div><!-- #footer_inner_footer -->
+    </div><!-- #footer_inner -->
+  </div><!-- #footer -->
+  
+  </div><!-- #page_content -->
+  
+</div>
+
+<!-- ACL addthis widget -->
+<script type="text/javascript" src="js/addthis_widget.js" async></script>
+
+<!-- Back to top -->
+<script>
+$('.go-top').css({'display': 'none'});
+$(document).ready(function() {
+// Show or hide the sticky footer button
+$(window).scroll(function() {
+if ($(this).scrollTop() > 200) {
+$('.go-top').fadeIn(200);		
+} else {
+$('.go-top').fadeOut(200);				
+}		
+});
+// Animate the scroll to top
+$('.go-top').click(function(event) {
+event.preventDefault();
+$('html, body').animate({scrollTop: 0}, 300);		
+})	
+});
+</script>
+
+    <!-- Exit Disclaimer -->
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery-ui.js"></script>
+	<link rel="stylesheet" href="js/jquery-ui.css" />
+	<script src="js/Exit_Disclaimer_Redirection.js"></script>
+
+</body>
+
+<!-- InstanceEnd --></html>
