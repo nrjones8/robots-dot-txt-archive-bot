@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Official Website
+</title>
+
+
+        <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+<link href="/clientcommon/scripts/jquery/base/ui.core.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 991px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" /><link href="common/css/design.css" rel="stylesheet" />
+
+
+ 
+ 
+
+
+    <style>
+
+          .pageLeftNoHigh span, .pageLeftNoHigh p, .pageLeftNoHigh td, .pageLeftNoHigh, .pageLeftHigh, .pageLefHigh div, .pageLeftNoHigh div, .pageLeftHigh div span, .pageLeftNoHigh div span,
+    .pageLeftHigh span, .pageLeftHigh p, .pageLeftHigh td 
+    {
+        
+        font-size: 1rem!important;
+        font-family: Arial!important;
+        line-height: 1.5!important;
+   
+    }
+      
+
+        @media (min-width: 1500px) {.container {
+    max-width: 1440px;
+}
+}
+       </style>
+
+             <link href="/WebResource.axd?d=MwrJOQlHaNW0sWkGlI1_pDiVcuqztGhXLE1MtiXPT6tPJ7DvxoeDrhZe_MK3gbC_D2HgISCylH5LvOjDJ-WwExxu4oPqg2HDBqr_0QhjEwrT5ucHPUtnKNfiexNV8kek62QyNZjc4fB0JM7xdFAomwLxvZaG_gJDTFyilp0WgDk1&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=eluZ_m7kj5Y4al_7zoJDd9a-zxQ-a32H96NLIfyLl7n5nbl-_7JeBX0IgNUGOrXIJPGxHEs7GAsK7Szn66rvzvQJPwppuGPRdyl7paDcp3O1sTJ-kWl-Z9JTg66zP3ZHcKGpjovu1Bck0U5P1sMjXg2&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=sbGW9c4AnGtA8TRtE8Lnx11x8Du7qoa7PMyxywM7yHOSHiktNiVUlTUInVVn5YCFODl7ABHbaA-W38QLIBN8Kcng-lksxvIjX4n6EKeVtkFQhyMgU1h3dwOCdfqsjrKHB-2gkwj4WWPZYuYAQVOZZNN9r_iQTHqIPthnC0wJrBM1&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body>
+
+    <div class="skipnav"><a href="#maincontent">Skip to main content</a></div>
+
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgMPZBYMAgYPFgIeBFRleHQFigI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2FnZW5kYS5hc3B4Ij5BZ2VuZGFzIGFuZCBNaW51dGVzPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvcHZpZXcuYXNweD9pZD0yMTUyNSZhbXA7Y2F0aWQ9NjY5Ij5CZW50b24gQ2l0eSBNdW5pY2lwYWwgQ29kZTwvYT48L2Rpdj48ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2Zvcm1zLmFzcHg/ZmlkPTY2NiZhbXA7cmlkPTU4Ij5SZXBvcnQgYSBDb25jZXJuPC9hPjwvZGl2PmQCCQ8PFggeFUVuYWJsZUVtYmVkZGVkU2NyaXB0c2ceHEVuYWJsZUVtYmVkZGVkQmFzZVN0eWxlc2hlZXRnHhJSZXNvbHZlZFJlbmRlck1vZGULKXJUZWxlcmlrLldlYi5VSS5SZW5kZXJNb2RlLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIwLjIuNjE3LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQBHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2hkZAIKDxYCHwAFswE8YSBocmVmPSJodHRwczovL2NpLmJlbnRvbi1jaXR5LndhLnVzL25vdGZvdW5kLmFzcHg/cHJpbnQ9MSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgdnNwYWNlPSI3IiBzcmM9Ii9jbGllbnRjb21tb24vaW1hZ2VzL3ByaW50LmdpZiIgIGJvcmRlcj0iMCIgYWx0PSJQcmludGVyIEZyaWVuZGx5IFZlcnNpb24iIC8+PC9hPmQCCw9kFgICAQ8PFgIfAAUOUGFnZSBOb3QgRm91bmRkZAIMDxYCHwAFyAQ8ZGl2IHN0eWxlPSJsaW5lLWhlaWdodDoxLjY7Ij48c3BhbiBjbGFzcz0iZm9vdGVyTmFtZSI+QmVudG9uIENpdHk8L3NwYW4+PGJyIC8+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+UE8gQm94IDcwLCAxMDA5IERhbGUgQXZlbnVlLCBTdWl0ZSBBLjwvc3Bhbj48c3BhbiBjbGFzcz0ibW9iaWxlRGl2IiBzdHlsZT0iIHdoaXRlLXNwYWNlOiBub3dyYXA7Ij4gQmVudG9uIENpdHksIFdBIDk5MzIwPC9zcGFuPjxicj5QaG9uZTogKDUwOSkgNTg4LTMzMjImbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7IDxzcGFuIHN0eWxlPSIgd2hpdGUtc3BhY2U6IG5vd3JhcDsiPkZheDogKDUwOSkgNTg4LTMzMjM8L3NwYW4+PC9kaXY+PGEgaHJlZj0iL2RlZmF1bHQuYXNweCI+SG9tZTwvYT4mbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3N0YWZmLmFzcHgiPkNvbnRhY3QgVXM8L2E+Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9zaXRlbWFwLmFzcHgiPlNpdGUgTWFwPC9hPiZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDs8YSBocmVmPSIvdGVybXNvZnVzZS5hc3B4Ij5BY2Nlc3NpYmlsaXR5PC9hPiZuYnNwOyZuYnNwO2QCDQ8WAh8ABegCPGEgaHJlZj0iL25vdGlmeS5hc3B4Ij48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2VuZXdzLnBuZyIgYWx0PSJFLW5vdGlmeSIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSIvcnNzLmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zcnNzLnBuZyIgYWx0PSJSU1MgRmVlZHMiIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2NpLmJlbnRvbmNpdHkud2EudXMvIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9jb21tb24vaW1hZ2VzLzNmYWNlYm9vay5wbmciIGFsdD0iRmFjZWJvb2siIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUPY3RsMDAkaW1nU2VhcmNoBQxjdGwwMCRyU2hhcmUOlCh2s/7TYhcSMcO/wrEBQL/rZMN/SiW5J475MdrhQw==" />
+
+
+<script src="/ScriptResource.axd?d=wVRbahQeSfta4AYRtLOY3U3a0Ic6fEPhPHY4wytPAz0dvgcz6H74WpJICS9jDpnDj914eJtcfPtXKc8mnM1cqdzPDuBgygjrXb5Yjax39qOZf8mLFoPVIOZRqML2_jqQEaHaK9rnnOD0N_K2cfNUA61NT7zj61eqDTPMda-ep8Z82duIxqf3ijSsf1xrJU_50&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=8XiDW8QFMdPWRhm2inO1Xaw_0OW7c-XI1eoXt95srV2bpI2BHNF8ckv4KbzDrwsYlLK30lYfqDEXj1ehm6Cx2RlX_mJ5Hh2s3PDaRWHVF7L7OMDeL5dnedjuJEU11pHNGUcq8wOGGg4CyLAwpoZyhg2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=zo31569m_OT7GJfJJ9Ezc5qFrk40VWO22dRHxmp649sCMut0iRDZWo4HggJm9lBGmSA2ja3OdLZB1sbzUsuH3BnF8Diq1ouGuFBRllUy0P8RSsh1NOpLvA0HZe0aptUIhwRxcayNcvfWay2TS4PvCw2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=bRbrhoZ0KsPb1dSzzXERLoFN-L5r-d0pJogjcEkOM57uS3XY1a-2wUrx8lNuInKS5PgoupB6jYLUljXTzdkP0RaudojHp4TgXIxdxxbRJp0ovxQzvy40GJgfgBpzsQL1GF3ZV3Fd6mfEsWV2Xr1OMQ2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Wl-TomhM8Zft8X4L67YHypSZvtSjBNSzBk_5iW3qAKsfyzrIM_fw_uzgLnDGOlzGhRxYDJ2noEyDQdUmIaVcL03oJYnbkm65SKzUVBDtd0XOLRAJBU9co6VspiX-1oVmTIgQuKCxQeYb1GsTu5URYfdIJYqSwSnZ1WN-lABamRu_40r4lNej9Mo7xjLcdHCZ0&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=U1gKjHy4S-YwXd1Ot1n6_WEzqO5fmV3m0_f0UeDkJF0R2wBs0qDC1DYDt8oQeTm2Q6y7PF0NcUcHXIkeyOpqIraM3oRIvMVrvlG9L-I5OYZFCjcACG64n9jNNiOPdSO3z_tlYLTGIc8OFWv2yobrhFo0pqM_XXW-YstFgY3AYxQ1&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=z5IrgNxu0G-Pi27_RCjmTIW-vk58-hzPnoXZRXR0HrqXfgCVjFkKl7rLWj_CIFsC5Sne3MGcsWvagcbjOptmjZMfVun0F0zE9CyFeQhoLiuuuWvsb9DppCI6mgC37xrBLLyPKAP8ydBzLWn8CAUAMPzGlsEFwRhWOx77nvXQYZ81&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAahK8LBqLjy7v9BKD1q5pLE4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75XrN7n6XcmB8Aw27mmTvNPP+P8iEe+fPisUfrFpiIXVBw==" />
+
+          
+
+      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21380&catid=668">How Do I?</a></div><div class="mobileMenuItemR" id="mm668">+</div></div><div class="mobileMenuItemSub sm668"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21579&catid=668">Apply for</a></div><div class="mobileMenuItemRS" id="mm66821579">+</div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21591&catid=668">Building Permits</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21588&catid=668">Business License</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=23402&catid=668">Community Center Rental</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=39169&catid=668">Dog License</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32440&catid=668">Employment Opportunities</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21596&catid=668">Planning Application</a></div></div><div class="mobileMenuItemSubS sm66821579"><div class="mobileMenuItemL"><a href="/pview.aspx?id=23407&catid=668">Yard Sale Permit</a></div></div><div class="mobileMenuItemSub sm668"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21580&catid=668">Contact</a></div><div class="mobileMenuItemRS" id="mm66821580">+</div></div><div class="mobileMenuItemSubS sm66821580"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21583&catid=668">City Staff</a></div></div><div class="mobileMenuItemSub sm668"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21582&catid=668">Pay</a></div><div class="mobileMenuItemRS" id="mm66821582">+</div></div><div class="mobileMenuItemSubS sm66821582"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21595&catid=668">Bills Online</a></div></div><div class="mobileMenuItemSub sm668"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21460&catid=668">Report a Concern</a></div></div><div class="mobileMenuItemSub sm668"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21581&catid=668">View</a></div><div class="mobileMenuItemRS" id="mm66821581">+</div></div><div class="mobileMenuItemSubS sm66821581"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21593&catid=668">Agendas, Packets, and Minutes</a></div></div><div class="mobileMenuItemSubS sm66821581"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21594&catid=668">Benton City Municipal Code</a></div></div><div class="mobileMenuItemSubS sm66821581"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32012&catid=668">Current Bid & RFPs</a></div></div><div class="mobileMenuItemSubS sm66821581"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21592&catid=668">Forms and Documents</a></div></div><div class="mobileMenuItemSubS sm66821581"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21597&catid=668">Maps</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21381&catid=669">Government</a></div><div class="mobileMenuItemR" id="mm669">+</div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21523&catid=669">Elected Officials</a></div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21461&catid=669">Agendas and Minutes</a></div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21525&catid=669">Benton City Municipal Code</a></div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21529&catid=669">Benton City Ordinances</a></div><div class="mobileMenuItemRS" id="mm66921529">+</div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32918&catid=669">2013 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33003&catid=669">2014 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33006&catid=669">2015 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33010&catid=669">2016 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=39792&catid=669">2017 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=39798&catid=669">2018 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=43419&catid=669">2019 Ordinances</a></div></div><div class="mobileMenuItemSubS sm66921529"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56235&catid=669">2020 Ordinances</a></div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21527&catid=669">Benton City Resolutions</a></div><div class="mobileMenuItemRS" id="mm66921527">+</div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37530&catid=669">2014 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37526&catid=669">2015 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37525&catid=669">2016 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37534&catid=669">2017 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=39811&catid=669">2018 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=41672&catid=669">2019 Resolutions</a></div></div><div class="mobileMenuItemSubS sm66921527"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56234&catid=669">2020 Resolutions</a></div></div><div class="mobileMenuItemSub sm669"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21920&catid=669">Forms and Documents</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21382&catid=670">Our Community</a></div><div class="mobileMenuItemR" id="mm670">+</div></div><div class="mobileMenuItemSub sm670"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21573&catid=670">Benton City Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm670"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21576&catid=670">Kiona-Benton City Schools</a></div></div><div class="mobileMenuItemSub sm670"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21575&catid=670">Mid-Columbia Libraries</a></div></div><div class="mobileMenuItemSub sm670"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21554&catid=670">Our History</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21383&catid=671">Departments</a></div><div class="mobileMenuItemR" id="mm671">+</div></div><div class="mobileMenuItemSub sm671"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21536&catid=671">City Clerk/Treasurer</a></div><div class="mobileMenuItemRS" id="mm67121536">+</div></div><div class="mobileMenuItemSubS sm67121536"><div class="mobileMenuItemL"><a href="/pview.aspx?id=29034&catid=671">City of Benton City Budget</a></div></div><div class="mobileMenuItemSub sm671"><div class="mobileMenuItemL"><a href="/pview.aspx?id=27402&catid=671">Code Enforcement/Animal Control</a></div></div><div class="mobileMenuItemSub sm671"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21584&catid=671">Planning and Zoning</a></div><div class="mobileMenuItemRS" id="mm67121584">+</div></div><div class="mobileMenuItemSubS sm67121584"><div class="mobileMenuItemL"><a href="/pview.aspx?id=28918&catid=671">Comprehensive Plan</a></div></div><div class="mobileMenuItemSubS sm67121584"><div class="mobileMenuItemL"><a href="/pview.aspx?id=43457&catid=671">Waterfront Planning</a></div></div><div class="mobileMenuItemSub sm671"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21587&catid=671">Public Works</a></div><div class="mobileMenuItemRS" id="mm67121587">+</div></div><div class="mobileMenuItemSubS sm67121587"><div class="mobileMenuItemL"><a href="/pview.aspx?id=41652&catid=671">Benton City No Spray Program</a></div></div><div class="mobileMenuItemSubS sm67121587"><div class="mobileMenuItemL"><a href="/pview.aspx?id=25846&catid=671">Benton City Standards and Specifications</a></div></div><div class="mobileMenuItemSubS sm67121587"><div class="mobileMenuItemL"><a href="/pview.aspx?id=39839&catid=671">Wellhead Protection Program</a></div></div><div class="mobileMenuItemSub sm671"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21538&catid=671">Utility Billing</a></div><div class="mobileMenuItemRS" id="mm67121538">+</div></div><div class="mobileMenuItemSubS sm67121538"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21550&catid=671">Online Bill Pay</a></div><div class="mobileMenuItemRS3" id="mm67121550">+</div></div><div class="mobileMenuItemSubS sm67121538"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21543&catid=671">Sewer Rates</a></div></div><div class="mobileMenuItemSubS sm67121538"><div class="mobileMenuItemL"><a href="/pview.aspx?id=21540&catid=671">Water Rates</a></div></div></div><div id="m21380" class="levelSub level1"><div id="mi21579" class="menuItem menuChild"><a href="/pview.aspx?id=21579&catid=668"">Apply for</a></div><div id="mi21580" class="menuItem menuChild"><a href="/pview.aspx?id=21580&catid=668"">Contact</a></div><div id="mi21582" class="menuItem menuChild"><a href="/pview.aspx?id=21582&catid=668"">Pay</a></div><div id="mi21460" class="menuItem "><a href="/pview.aspx?id=21460&catid=668"">Report a Concern</a></div><div id="mi21581" class="menuItem menuChild"><a href="/pview.aspx?id=21581&catid=668"">View</a></div></div><div id="m21381" class="levelSub level1"><div id="mi21523" class="menuItem "><a href="/pview.aspx?id=21523&catid=669"">Elected Officials</a></div><div id="mi21461" class="menuItem "><a href="/pview.aspx?id=21461&catid=669"">Agendas and Minutes</a></div><div id="mi21525" class="menuItem "><a href="/pview.aspx?id=21525&catid=669"">Benton City Municipal Code</a></div><div id="mi21529" class="menuItem menuChild"><a href="/pview.aspx?id=21529&catid=669"">Benton City Ordinances</a></div><div id="mi21527" class="menuItem menuChild"><a href="/pview.aspx?id=21527&catid=669"">Benton City Resolutions</a></div><div id="mi21920" class="menuItem "><a href="/pview.aspx?id=21920&catid=669"">Forms and Documents</a></div></div><div id="m21382" class="levelSub level1"><div id="mi21573" class="menuItem "><a href="/pview.aspx?id=21573&catid=670" target="_blank"">Benton City Chamber of Commerce</a></div><div id="mi21576" class="menuItem "><a href="/pview.aspx?id=21576&catid=670" target="_blank"">Kiona-Benton City Schools</a></div><div id="mi21575" class="menuItem "><a href="/pview.aspx?id=21575&catid=670" target="_blank"">Mid-Columbia Libraries</a></div><div id="mi21554" class="menuItem "><a href="/pview.aspx?id=21554&catid=670"">Our History</a></div></div><div id="m21383" class="levelSub level1"><div id="mi21536" class="menuItem menuChild"><a href="/pview.aspx?id=21536&catid=671"">City Clerk/Treasurer</a></div><div id="mi27402" class="menuItem "><a href="/pview.aspx?id=27402&catid=671"">Code Enforcement/Animal Control</a></div><div id="mi21584" class="menuItem menuChild"><a href="/pview.aspx?id=21584&catid=671"">Planning and Zoning</a></div><div id="mi21587" class="menuItem menuChild"><a href="/pview.aspx?id=21587&catid=671"">Public Works</a></div><div id="mi21538" class="menuItem menuChild"><a href="/pview.aspx?id=21538&catid=671"">Utility Billing</a></div></div><div id="m21527" class="levelSub level2"><div id="mi37530" class="menuItem "><a href="/pview.aspx?id=37530&catid=0"">2014 Resolutions</a></div><div id="mi37526" class="menuItem "><a href="/pview.aspx?id=37526&catid=0"">2015 Resolutions</a></div><div id="mi37525" class="menuItem "><a href="/pview.aspx?id=37525&catid=0"">2016 Resolutions</a></div><div id="mi37534" class="menuItem "><a href="/pview.aspx?id=37534&catid=0"">2017 Resolutions</a></div><div id="mi39811" class="menuItem "><a href="/pview.aspx?id=39811&catid=0"">2018 Resolutions</a></div><div id="mi41672" class="menuItem "><a href="/pview.aspx?id=41672&catid=0"">2019 Resolutions</a></div><div id="mi56234" class="menuItem "><a href="/pview.aspx?id=56234&catid=0"">2020 Resolutions</a></div></div><div id="m21529" class="levelSub level2"><div id="mi32918" class="menuItem "><a href="/pview.aspx?id=32918&catid=0"">2013 Ordinances</a></div><div id="mi33003" class="menuItem "><a href="/pview.aspx?id=33003&catid=0"">2014 Ordinances</a></div><div id="mi33006" class="menuItem "><a href="/pview.aspx?id=33006&catid=0"">2015 Ordinances</a></div><div id="mi33010" class="menuItem "><a href="/pview.aspx?id=33010&catid=0"">2016 Ordinances</a></div><div id="mi39792" class="menuItem "><a href="/pview.aspx?id=39792&catid=0"">2017 Ordinances</a></div><div id="mi39798" class="menuItem "><a href="/pview.aspx?id=39798&catid=0"">2018 Ordinances</a></div><div id="mi43419" class="menuItem "><a href="/pview.aspx?id=43419&catid=0"">2019 Ordinances</a></div><div id="mi56235" class="menuItem "><a href="/pview.aspx?id=56235&catid=0"">2020 Ordinances</a></div></div><div id="m21536" class="levelSub level2"><div id="mi29034" class="menuItem "><a href="/pview.aspx?id=29034&catid=0"">City of Benton City Budget</a></div></div><div id="m21538" class="levelSub level2"><div id="mi21550" class="menuItem menuChild"><a href="/pview.aspx?id=21550&catid=0"">Online Bill Pay</a></div><div id="mi21543" class="menuItem "><a href="/pview.aspx?id=21543&catid=0"">Sewer Rates</a></div><div id="mi21540" class="menuItem "><a href="/pview.aspx?id=21540&catid=0"">Water Rates</a></div></div><div id="m21579" class="levelSub level2"><div id="mi21591" class="menuItem "><a href="/pview.aspx?id=21591&catid=0"">Building Permits</a></div><div id="mi21588" class="menuItem "><a href="/pview.aspx?id=21588&catid=0"">Business License</a></div><div id="mi23402" class="menuItem "><a href="/pview.aspx?id=23402&catid=0"">Community Center Rental</a></div><div id="mi39169" class="menuItem "><a href="/pview.aspx?id=39169&catid=0"">Dog License</a></div><div id="mi32440" class="menuItem "><a href="/pview.aspx?id=32440&catid=0" target="_blank"">Employment Opportunities</a></div><div id="mi21596" class="menuItem "><a href="/pview.aspx?id=21596&catid=0"">Planning Application</a></div><div id="mi23407" class="menuItem "><a href="/pview.aspx?id=23407&catid=0"">Yard Sale Permit</a></div></div><div id="m21580" class="levelSub level2"><div id="mi21583" class="menuItem "><a href="/pview.aspx?id=21583&catid=0"">City Staff</a></div></div><div id="m21581" class="levelSub level2"><div id="mi21593" class="menuItem "><a href="/pview.aspx?id=21593&catid=0"">Agendas, Packets, and Minutes</a></div><div id="mi21594" class="menuItem "><a href="/pview.aspx?id=21594&catid=0"">Benton City Municipal Code</a></div><div id="mi32012" class="menuItem "><a href="/pview.aspx?id=32012&catid=0"">Current Bid & RFPs</a></div><div id="mi21592" class="menuItem "><a href="/pview.aspx?id=21592&catid=0"">Forms and Documents</a></div><div id="mi21597" class="menuItem "><a href="/pview.aspx?id=21597&catid=0"">Maps</a></div></div><div id="m21582" class="levelSub level2"><div id="mi21595" class="menuItem "><a href="/pview.aspx?id=21595&catid=0"">Bills Online</a></div></div><div id="m21584" class="levelSub level2"><div id="mi28918" class="menuItem "><a href="/pview.aspx?id=28918&catid=0"">Comprehensive Plan</a></div><div id="mi43457" class="menuItem "><a href="/pview.aspx?id=43457&catid=0"">Waterfront Planning</a></div></div><div id="m21587" class="levelSub level2"><div id="mi41652" class="menuItem "><a href="/pview.aspx?id=41652&catid=0"">Benton City No Spray Program</a></div><div id="mi25846" class="menuItem "><a href="/pview.aspx?id=25846&catid=0"">Benton City Standards and Specifications</a></div><div id="mi39839" class="menuItem "><a href="/pview.aspx?id=39839&catid=0"">Wellhead Protection Program</a></div></div><div class="bigMenuCon" id="bm668"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=21579&catid=668">Apply for</a></h1>
+<h4><a href="/pview.aspx?id=21591&catid=668">Building Permits</a></h4>
+<h4><a href="/pview.aspx?id=21588&catid=668">Business License</a></h4>
+<h4><a href="/pview.aspx?id=23402&catid=668">Community Center Rental</a></h4>
+<h4><a href="/pview.aspx?id=39169&catid=668">Dog License</a></h4>
+<h4><a href="/pview.aspx?id=32440&catid=668" target="blank">Employment Opportunities</a></h4>
+<h4><a href="/pview.aspx?id=21596&catid=668">Planning Application</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21579&catid=668">Apply for <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=23407&catid=668">Yard Sale Permit</a></h4>
+<h1><a href="/pview.aspx?id=21580&catid=668">Contact</a></h1>
+<h4><a href="/pview.aspx?id=21583&catid=668">City Staff</a></h4>
+<h1><a href="/pview.aspx?id=21582&catid=668">Pay</a></h1>
+<h4><a href="/pview.aspx?id=21595&catid=668">Bills Online</a></h4>
+<h1><a href="/pview.aspx?id=21460&catid=668">Report a Concern</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21581&catid=668">View</a></h1>
+<h4><a href="/pview.aspx?id=21593&catid=668">Agendas, Packets, and Minutes</a></h4>
+<h4><a href="/pview.aspx?id=21594&catid=668">Benton City Municipal Code</a></h4>
+<h4><a href="/pview.aspx?id=32012&catid=668">Current Bid & RFPs</a></h4>
+<h4><a href="/pview.aspx?id=21592&catid=668">Forms and Documents</a></h4>
+<h4><a href="/pview.aspx?id=21597&catid=668">Maps</a></h4>
+</div></div></div><div class="bigMenuCon" id="bm669"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=21523&catid=669">Elected Officials</a></h1>
+<h1><a href="/pview.aspx?id=21461&catid=669">Agendas and Minutes</a></h1>
+<h1><a href="/pview.aspx?id=21525&catid=669">Benton City Municipal Code</a></h1>
+<h1><a href="/pview.aspx?id=21529&catid=669">Benton City Ordinances</a></h1>
+<h4><a href="/pview.aspx?id=32918&catid=669">2013 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=33003&catid=669">2014 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=33006&catid=669">2015 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=33010&catid=669">2016 Ordinances</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21529&catid=669">Benton City Ordinances <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=39792&catid=669">2017 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=39798&catid=669">2018 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=43419&catid=669">2019 Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=56235&catid=669">2020 Ordinances</a></h4>
+<h1><a href="/pview.aspx?id=21527&catid=669">Benton City Resolutions</a></h1>
+<h4><a href="/pview.aspx?id=37530&catid=669">2014 Resolutions</a></h4>
+<h4><a href="/pview.aspx?id=37526&catid=669">2015 Resolutions</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21527&catid=669">Benton City Resolutions <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=37525&catid=669">2016 Resolutions</a></h4>
+<h4><a href="/pview.aspx?id=37534&catid=669">2017 Resolutions</a></h4>
+<h4><a href="/pview.aspx?id=39811&catid=669">2018 Resolutions</a></h4>
+<h4><a href="/pview.aspx?id=41672&catid=669">2019 Resolutions</a></h4>
+<h4><a href="/pview.aspx?id=56234&catid=669">2020 Resolutions</a></h4>
+<h1><a href="/pview.aspx?id=21920&catid=669">Forms and Documents</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm670"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=21573&catid=670" target="blank">Benton City Chamber of Commerce</a></h1>
+<h1><a href="/pview.aspx?id=21576&catid=670" target="blank">Kiona-Benton City Schools</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21575&catid=670" target="blank">Mid-Columbia Libraries</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21554&catid=670">Our History</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm671"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=21536&catid=671">City Clerk/Treasurer</a></h1>
+<h4><a href="/pview.aspx?id=29034&catid=671">City of Benton City Budget</a></h4>
+<h1><a href="/pview.aspx?id=27402&catid=671">Code Enforcement/Animal Control</a></h1>
+<h1><a href="/pview.aspx?id=21584&catid=671">Planning and Zoning</a></h1>
+<h4><a href="/pview.aspx?id=28918&catid=671">Comprehensive Plan</a></h4>
+<h4><a href="/pview.aspx?id=43457&catid=671">Waterfront Planning</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21587&catid=671">Public Works</a></h1>
+<h4><a href="/pview.aspx?id=41652&catid=671">Benton City No Spray Program</a></h4>
+<h4><a href="/pview.aspx?id=25846&catid=671">Benton City Standards and Specifications</a></h4>
+<h4><a href="/pview.aspx?id=39839&catid=671">Wellhead Protection Program</a></h4>
+<h1><a href="/pview.aspx?id=21538&catid=671">Utility Billing</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=21538&catid=671">Utility Billing <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=21550&catid=671">Online Bill Pay</a></h4>
+<h4><a href="/pview.aspx?id=21543&catid=671">Sewer Rates</a></h4>
+<h4><a href="/pview.aspx?id=21540&catid=671">Water Rates</a></h4>
+</div></div></div><div class="eAlert"><div class="alertBG"><div class="eAlertIn"><a href="/emergency.aspx"><b>COVID-19 Updates: </b>City Hall is CLOSED to the public</a></div></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="default.aspx">Benton City WA</a></div>
+
+                </td></tr></table>
+        </div>
+
+
+
+ <div style="position:relative;">
+   <div class="mainContainer container"></div><div class="topMenuBar" ></div>
+ <div class="topline" ></div>
+   
+
+    <div class="header" style="display: none;"> 
+        
+        
+       
+   
+
+</div>
+       
+       <div class="secondContainer container mb-2">
+           <div class="row">
+               <div class="col-lg-3 topLeft bg-white">
+                <a href="/default.aspx"><img src="/common/images/header.png" alt="Return to home page" style="max-width: 100%; border: 0; "/></a>
+
+           </div><div class="col-lg-9">
+      
+       
+           <nav class="col menuBar mobileHide printHide">
+                    <div style="display: none; width:0%;" class="catMenu" id="t-1" tid="672"><a href="/default.aspx"">Home</a></div><div style="width:25%;" class="catMenu catMenu2" id="t21380" tid="668"><a href="/pview.aspx?id=21380&catid=668">How Do I?</a></div><div style="width:25%;" class="catMenu catMenu3" id="t21381" tid="669"><a href="/pview.aspx?id=21381&catid=669">Government</a></div><div style="width:25%;" class="catMenu catMenu4" id="t21382" tid="670"><a href="/pview.aspx?id=21382&catid=670">Our Community</a></div><div style="width:25%;" class="catMenu catMenu5" id="t21383" tid="671"><a href="/pview.aspx?id=21383&catid=671">Departments</a></div>
+          </nav>
+       <div class="pt-3 pb-3 topSearch">
+                  <div class="searchingBox">
+                       <div class="searchingText">
+        
+        <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" placeholder="I&#39;m looking for..." aria-label="Search Site" />
+       </div>
+                        <div class="searchGo" style="height: 40px;">
+        <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" src="common/images/go.png" alt="Search text box" border="0" />
+           
+</div></div></div></div>
+    </div>
+    
+       <div class="row secondRow">
+    <div class="sLeft  bg-white pt-2 col-lg-3 order-2 order-lg-1 text-left">
+    
+       
+  
+                  <div class="sideItem"><a href="/agenda.aspx">Agendas and Minutes</a></div><div class="sideItem"><a href="/pview.aspx?id=21525&amp;catid=669">Benton City Municipal Code</a></div><div class="sideItem"><a href="/forms.aspx?fid=666&amp;rid=58">Report a Concern</a></div>
+
+         
+
+<div class="sideMenuUnder">&nbsp;</div>
+        </div>
+
+  
+
+              <div class="sRight pt-2 col-lg-9 order-1 order-lg-2 bg-white text-left;" style="box-shadow: rgba(0,0,0,.4) 0px 0px 10px;">
+           
+
+
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    <a href="/default.aspx">Home</a> > 
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.40 --><ul class="sshContent">
+
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="https://ci.benton-city.wa.us/notfound.aspx?print=1" target="_blank"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Printer Friendly Version" /></a>
+      
+        </div>
+            </div></div>
+
+     <a name="maincontent" id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle">Page Not Found</span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+     The page you are looking for can not be found. 
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+     
+    
+</div>
+</div>
+       
+           </div>
+        
+    
+
+         <div class="container-fluid myFooter">
+         
+          <div class="container">
+              <div class="row">
+           <div class="col-lg-3 fLeft"><a href="/default.aspx"><img src="/common/images/footerlogo.png" style="max-width:100%;" alt="Return to home page" /></a>
+              
+               
+           </div>
+           <div class=" col-lg-6 fCenter">
+                <div style="line-height:1.6;"><span class="footerName">Benton City</span><br /><span class="mobileDiv">PO Box 70, 1009 Dale Avenue, Suite A.</span><span class="mobileDiv" style=" white-space: nowrap;"> Benton City, WA 99320</span><br>Phone: (509) 588-3322&nbsp;&nbsp;|&nbsp;&nbsp; <span style=" white-space: nowrap;">Fax: (509) 588-3323</span></div><a href="/default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/staff.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse.aspx">Accessibility</a>&nbsp;&nbsp;
+<br /><br />
+               Government Websites by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">MunicipalCMS</a>
+               
+
+               </div>
+              
+              
+               
+
+    
+           <div class="col-lg-3 fRight mb-2">
+             
+               
+               <div class="footerSocial">
+               <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="E-notify" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;<a href="https://www.facebook.com/ci.bentoncity.wa.us/" target="_blank"><img src="/common/images/3facebook.png" alt="Facebook" style="border: 0;"></a>&nbsp;
+                   </div>
+           </div></div>
+      
+              </div>
+
+    
+      
+               
+
+   
+
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Please ignore." />
+        </div> 
+
+        <div id="galleryCon">
+
+        </div>
+        <div class="bgGray">&nbsp;</div>
+
+                 </div></div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+
+    <script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-35854059-31', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+</html>
+
+
+
+    
