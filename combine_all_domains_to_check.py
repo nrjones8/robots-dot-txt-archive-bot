@@ -11,6 +11,10 @@ def read_from_csv(source_file, column_name):
         for row in reader:
 
             column_value = row[column_name]
+            if '/' in column_value:
+                print('Got a malformed hostname: {}'.format(column_value))
+                column_value = column_value.split('/')[0]
+                print('Changed to: {}'.format(column_value))
             domains.append({
                 'source': source_name,
                 'domain': column_value.lower()
