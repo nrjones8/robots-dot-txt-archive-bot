@@ -4,7 +4,7 @@ name: Latest robots.txt
 on:
   schedule:
     # 5 min past the hour, every 12 hours
-    - cron:  '20 */1 * * *'
+    - cron:  '5 */12 * * *'
 
 jobs:
   latest_metrics:
