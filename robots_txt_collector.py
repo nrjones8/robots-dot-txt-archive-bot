@@ -32,8 +32,6 @@ def get_and_save_robots_txt(domain_dict):
     with open(fname, 'wb') as f:
         f.write(resp.content)
 
-    print('Wrote raw robots response for {} to {}'.format(robots_url, fname))
-
     # janky, but thanks https://stackoverflow.com/a/56887446
     is_valid_html = bool(BeautifulSoup(resp.content, 'html.parser').find())
     if is_valid_html:
@@ -45,7 +43,7 @@ def get_and_save_robots_txt(domain_dict):
     with open(cleaned_fname, 'w') as f:
         f.write(cleaned_result)
 
-    print('Wrote "cleaned" robots response for {} to {}'.format(robots_url, cleaned_fname))
+    print('{}: raw written to {}, "cleaned" written to {}'.format(robots_url, fname, cleaned_fname))
 
 
 def main():
