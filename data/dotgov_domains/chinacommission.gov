@@ -1,0 +1,11 @@
+# Tells Scanning Robots Where They Are and Are Not Welcome
+User-agent: *    # applies to all robots
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /common/
+Disallow: /images/
+Disallow: /pages/virtualAcad/admin/
+Disallow: /pages/virtualAcad/admin_old/
+Disallow: /phpMyAdmin/
+Disallow: /phoundry/
+Disallow: /util/

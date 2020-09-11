@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Allow: /career
+Allow: /college
+Allow: /military
+Allow: /about-us
+Allow: /career/looking
+Allow: /career/applying
+Allow: /college/planning
+Allow: /college/applying
+Allow: /college/paying
+Allow: /college/attending
+Allow: /military/joining
+Allow: /military/serving
+Disallow: /search/results/college
+Disallow: /search/results/military
+Disallow: /search/results/career
+Disallow: /search/results?q=
+Disallow: /search/results/college?
+Disallow: /search/results/college/?q
+Disallow: /search/results/career?
+Disallow: /search/results/career/?q
+Disallow : /search/results/military?
+Disallow: /search/results/military/?q

@@ -1,0 +1,725 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon76.png" sizes="76x76" />
+<link rel="icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon96.png" sizes="96x96" />
+<link rel="icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon32.png" sizes="32x32" />
+<link rel="icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon180.png" sizes="180x180" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon144.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon60.png" sizes="60x60" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon72.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon57.png" sizes="57x57" />
+<link rel="icon" href="https://files.nc.gov/ncdcr/NCRFavicon200x200_2-favicon16.png" sizes="16x16" />
+<meta name="description" content="Home to North Carolina&#039;s state parks, historic sites, museums, aquariums, zoo and other cultural attractions and programs." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.ncdcr.gov/" />
+<link rel="shortlink" href="https://www.ncdcr.gov/" />
+<meta property="og:url" content="https://www.ncdcr.gov/homepage" />
+  <meta http-equiv="cleartype" content="on">
+  <title>NC Department of Natural and Cultural Resources</title>
+  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <style type="text/css" media="all">
+@import url("//www.ncdcr.gov/modules/system/system.base.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/system/system.menus.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/system/system.theme.css?qgg6yw");
+</style>
+<style type="text/css" media="all">
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qgg6yw");
+</style>
+<style type="text/css" media="all">
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/aggregator/aggregator.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/comment/comment.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/date/date_api/date.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/field/theme/field.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/node/node.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qgg6yw");
+@import url("//www.ncdcr.gov/modules/user/user.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/video_filter/video_filter.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/extlink/extlink.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/views/css/views.css?qgg6yw");
+</style>
+<style type="text/css" media="all">
+@import url("//www.ncdcr.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/ctools/css/ctools.css?qgg6yw");
+@import url("//www.ncdcr.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qgg6yw");
+@import url("//www.ncdcr.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qgg6yw");
+</style>
+<link type="text/css" rel="stylesheet" href="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qgg6yw" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qgg6yw" media="print" />
+<link type="text/css" rel="stylesheet" href="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/css/style-ncdcr.css?qgg6yw" media="all" />
+  <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/EventListener.js"></script><![endif]-->
+  <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/selectivizr-min.js"></script><![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-11739208-1";
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute = true; jQuery.migrateTrace = false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/misc/drupal.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/extlink/extlink.js?qgg6yw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/colorbox/js/colorbox.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/colorbox/js/colorbox_load.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/jcaption/jcaption.js?qgg6yw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qgg6yw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-11739208-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.ncdcr.gov/sites/all/modules/contrib/field_group/field_group.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qgg6yw"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_base_theme","theme_token":"IoCh4IFKLOOpjbEHgND6O60EoiEHSe5lWv6WuW9td1A","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-ncdcr.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts_handler.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"urlIsAjaxTrusted":{"\/":true},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"nc_alerts":{"options":{"transitionStyle":"goDown","navigation":true,"slideSpeed":500,"paginationSpeed":500,"singleItem":true,"mouseDrag":false,"callbacks":true,"addClassActive":true,"autoHeight":true,"navigationText":["\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E"],"autoPlay":"10000"}},"currentUser":0,"field_group":{"div":"full"},"collapseAccordions":null});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-2 node-type-landing-page i18n-en footer-columns enterprise-core-white" >
+<!--[if lt IE 9]>
+<div class="alert-box breaking outdated-browser">
+  <h3>Did you know that your browser is out of date?</h3>
+  <p>Your browser is out of date and may not be able to properly display our website. <a href="http://outdatedbrowser.com/" title="Outdated Browser">Update my browser now</a> to experience this site.</p>
+</div>
+<![endif]-->
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header" class="header-container no-alerts">
+      <header class="group">
+                <div class="utility-wrapper wrapper">
+          <div class="header-search">
+            <div class="search">
+                              <form action="/" method="post" id="nc-search-block-form" accept-charset="UTF-8"><label for="nc_search_block_form" class="visuallyhidden">Search NC.gov</label>
+<input type="search" placeholder="Search..." name="nc_search_block_form" id="nc_search_block_form" />
+<input type="submit" value="Submit" /><span class="icon-search" aria-hidden="true"></span>
+<input type="hidden" name="form_build_id" value="form-viQyYt938YdqPcKCdzN-jGQ29mcsTqAanzRzwpQp_xs" />
+<input type="hidden" name="form_id" value="nc_search_block_form" />
+</form>                          </div>
+          </div>
+        </div>
+                    
+  <style>
+    @media screen and (max-width: 1023px) {
+      .topical-nav ul li.home a {
+        background-image: url(https://files.nc.gov/ncdcr/dncr-logo.svg);
+      }
+      .mobile-nav div img,
+      .mobile-nav div svg {
+        display: none;
+      }
+    }
+    @media screen and (min-width: 1024px) {
+      .mobile-nav div {
+        max-width: 300px;
+        height: auto;
+        max-height: 60px;
+      }
+      .mobile-nav div img {
+        max-width: 100%;
+        max-height: 100%;
+      }
+      .mobile-nav div svg {
+        display: block;
+        max-height: 100%;
+        height: auto;
+      }
+      .mobile-nav div a,
+      .mobile-nav h1 a {
+        background-image: none;
+        height: 60px;
+        width: auto;
+        text-align: left;
+      }
+      .mobile-nav .site-title-mobile {
+        display: none;
+      }
+      .menu-container {
+        padding-top: 100px;
+      }
+      .enterprise-nav {
+        height: 100px;
+      }
+      .enterprise-nav ul li a {
+        line-height: 90px;
+      }
+      .header-container .alert-widget {
+        top: 20px;
+      }
+      .header-search {
+        top: 30px;
+      }
+      .enterprise-nav ul li:last-child {
+        margin-right: 70px;
+      }
+    }
+    @media print {
+      .enterprise-core-dark .mobile-nav div a {
+        background: none !important;
+      }
+    }
+  </style>
+<div class="mobile-nav">
+  <button class="flyout-trigger open-trigger"><span class="icon-dehaze" aria-hidden="true"></span><span> Menu</span></button>
+  <div class="site-title">
+    <a href="/" rel="home" title="NC DNCR">
+      <svg preserveAspectRatio="xMinYMid" id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271.85 60"><title>dncr-logo</title><path d="M271.85,60H0V0H271.85Z" fill="#fff"/><path d="M58.25,20.13h1.17l3.84,5v-5H64.5V27.3H63.44l-3.95-5.1v5.1H58.25Z" fill="#2f7b72"/><path d="M65.71,23.74v0a3.63,3.63,0,0,1,3.7-3.7,3.77,3.77,0,0,1,2.81,1.11l-.81.94a2.85,2.85,0,0,0-2-.9A2.41,2.41,0,0,0,67,23.69v0a2.42,2.42,0,0,0,2.36,2.55,2.78,2.78,0,0,0,2.06-.93l.81.82a3.7,3.7,0,0,1-2.91,1.27A3.61,3.61,0,0,1,65.71,23.74Z" fill="#2f7b72"/><path d="M76.35,20.13H79a3.57,3.57,0,0,1,3.81,3.56v0A3.59,3.59,0,0,1,79,27.3H76.35Zm2.67,6a2.33,2.33,0,0,0,2.49-2.41v0A2.35,2.35,0,0,0,79,21.28H77.61v4.87Z" fill="#2f7b72"/><path d="M84.21,20.13h5.31v1.13h-4v1.86h3.59v1.13H85.47v1.92h4.1V27.3H84.21Z" fill="#2f7b72"/><path d="M90.91,20.13h2.83c1.67,0,2.72.95,2.72,2.4v0c0,1.61-1.29,2.44-2.87,2.44H92.17V27.3H90.91Zm2.73,3.73c1,0,1.54-.53,1.54-1.28v0c0-.84-.6-1.28-1.54-1.28H92.17v2.58Z" fill="#2f7b72"/><path d="M99.42,20.08h1.17l3.15,7.22h-1.33l-.73-1.73H98.29l-.73,1.73H96.27Zm1.8,4.37L100,21.58l-1.23,2.87Z" fill="#2f7b72"/><path d="M104.82,20.13H108a2.9,2.9,0,0,1,2.07.72,2.15,2.15,0,0,1,.59,1.54v0A2.16,2.16,0,0,1,109,24.59l1.94,2.71h-1.49l-1.76-2.5h-1.57v2.5h-1.26Zm3.1,3.55c.9,0,1.47-.47,1.47-1.19v0c0-.77-.55-1.19-1.48-1.19h-1.83v2.4Z" fill="#2f7b72"/><path d="M113.67,21.3H111.4V20.13h5.82V21.3h-2.28v6h-1.27Z" fill="#2f7b72"/><path d="M118.39,20.13h1.34l2.18,3.39,2.19-3.39h1.34V27.3h-1.26V22.16l-2.27,3.38h0l-2.24-3.36V27.3h-1.24Z" fill="#2f7b72"/><path d="M127.13,20.13h5.31v1.13h-4.05v1.86H132v1.13h-3.59v1.92h4.1V27.3h-5.36Z" fill="#2f7b72"/><path d="M133.83,20.13H135l3.84,5v-5h1.24V27.3H139l-4-5.1v5.1h-1.24Z" fill="#2f7b72"/><path d="M143.53,21.3h-2.28V20.13h5.82V21.3H144.8v6h-1.27Z" fill="#2f7b72"/><path d="M150.85,23.74v0a3.75,3.75,0,0,1,7.49,0v0a3.75,3.75,0,0,1-7.49,0Zm6.17,0v0a2.45,2.45,0,0,0-2.43-2.55,2.42,2.42,0,0,0-2.42,2.53v0a2.45,2.45,0,0,0,2.44,2.55A2.41,2.41,0,0,0,157,23.74Z" fill="#2f7b72"/><path d="M159.71,20.13h5.34v1.15H161v1.95h3.62v1.15H161V27.3h-1.26Z" fill="#2f7b72"/><path d="M58.25,32.42h1.17l3.84,4.95V32.42H64.5v7.17H63.44l-3.95-5.1v5.1H58.25Z" fill="#2f7b72"/><path d="M68.73,32.37h1.16l3.16,7.22H71.72L71,37.85H67.6l-.74,1.74H65.57Zm1.8,4.37-1.24-2.87-1.23,2.87Z" fill="#2f7b72"/><path d="M75,33.58H72.69V32.42H78.5v1.16H76.23v6H75Z" fill="#2f7b72"/><path d="M79.57,36.54V32.42h1.26v4.07c0,1.33.68,2,1.81,2s1.8-.67,1.8-2V32.42H85.7v4.06a2.87,2.87,0,0,1-3.08,3.22A2.83,2.83,0,0,1,79.57,36.54Z" fill="#2f7b72"/><path d="M87.12,32.42h3.2a2.89,2.89,0,0,1,2.07.71A2.18,2.18,0,0,1,93,34.68v0a2.15,2.15,0,0,1-1.71,2.17l1.94,2.72H91.72L90,37.09H88.38v2.5H87.12ZM90.23,36c.9,0,1.47-.47,1.47-1.2v0c0-.77-.55-1.19-1.48-1.19H88.38V36Z" fill="#2f7b72"/><path d="M96.91,32.37h1.17l3.15,7.22H99.9l-.73-1.74H95.79l-.74,1.74H93.76Zm1.8,4.37-1.24-2.87-1.22,2.87Z" fill="#2f7b72"/><path d="M102.31,32.42h1.26v6h3.76v1.15h-5Z" fill="#2f7b72"/><path d="M113.69,32.37h1.17L118,39.59h-1.33L116,37.85h-3.39l-.74,1.74h-1.29Zm1.8,4.37-1.23-2.87L113,36.74Z" fill="#2f7b72"/><path d="M119.09,32.42h1.17l3.84,4.95V32.42h1.23v7.17h-1l-4-5.1v5.1h-1.24Z" fill="#2f7b72"/><path d="M127,32.42h2.68A3.56,3.56,0,0,1,133.5,36v0a3.59,3.59,0,0,1-3.8,3.59H127Zm2.68,6A2.34,2.34,0,0,0,132.18,36v0a2.35,2.35,0,0,0-2.48-2.44h-1.42v4.88Z" fill="#2f7b72"/><path d="M137.48,36v0a3.62,3.62,0,0,1,3.69-3.71A3.74,3.74,0,0,1,144,33.41l-.81.93a2.86,2.86,0,0,0-2-.89A2.41,2.41,0,0,0,138.8,36v0a2.42,2.42,0,0,0,2.36,2.55,2.82,2.82,0,0,0,2.06-.93l.81.82a3.7,3.7,0,0,1-2.91,1.27A3.6,3.6,0,0,1,137.48,36Z" fill="#2f7b72"/><path d="M145.08,36.54V32.42h1.26v4.07c0,1.33.69,2,1.82,2s1.8-.67,1.8-2V32.42h1.26v4.06a2.87,2.87,0,0,1-3.09,3.22A2.83,2.83,0,0,1,145.08,36.54Z" fill="#2f7b72"/><path d="M152.79,32.42h1.26v6h3.77v1.15h-5Z" fill="#2f7b72"/><path d="M159.51,33.58h-2.27V32.42h5.81v1.16h-2.27v6h-1.27Z" fill="#2f7b72"/><path d="M164.12,36.54V32.42h1.26v4.07c0,1.33.68,2,1.81,2s1.8-.67,1.8-2V32.42h1.26v4.06a2.87,2.87,0,0,1-3.08,3.22A2.83,2.83,0,0,1,164.12,36.54Z" fill="#2f7b72"/><path d="M171.83,32.42H175a2.89,2.89,0,0,1,2.07.71,2.18,2.18,0,0,1,.59,1.55v0A2.14,2.14,0,0,1,176,36.87l1.94,2.72h-1.49l-1.76-2.5h-1.57v2.5h-1.26Zm3.1,3.55c.9,0,1.47-.47,1.47-1.2v0c0-.77-.55-1.19-1.48-1.19h-1.83V36Z" fill="#2f7b72"/><path d="M181.61,32.37h1.17l3.16,7.22h-1.33l-.73-1.74h-3.39l-.74,1.74h-1.29Zm1.81,4.37-1.24-2.87L181,36.74Z" fill="#2f7b72"/><path d="M187,32.42h1.26v6H192v1.15h-5Z" fill="#2f7b72"/><path d="M196.11,32.42h3.2a2.91,2.91,0,0,1,2.07.71,2.22,2.22,0,0,1,.59,1.55v0a2.15,2.15,0,0,1-1.71,2.17l1.94,2.72h-1.49L199,37.09h-1.58v2.5h-1.26Zm3.1,3.55c.91,0,1.48-.47,1.48-1.2v0c0-.77-.55-1.19-1.49-1.19h-1.83V36Z" fill="#2f7b72"/><path d="M203.36,32.42h5.32v1.12h-4.06v1.87h3.6v1.12h-3.6v1.93h4.11v1.13h-5.37Z" fill="#2f7b72"/><path d="M209.59,38.54l.75-.9a3.34,3.34,0,0,0,2.27.93c.77,0,1.27-.36,1.27-.9v0c0-.51-.29-.79-1.62-1.1-1.53-.36-2.39-.82-2.39-2.14v0a2.2,2.2,0,0,1,2.45-2.08,4,4,0,0,1,2.6.91l-.68,1a3.23,3.23,0,0,0-1.94-.74c-.74,0-1.17.38-1.17.85v0c0,.55.33.8,1.7,1.13s2.31.91,2.31,2.1v0c0,1.34-1.06,2.14-2.56,2.14A4.4,4.4,0,0,1,209.59,38.54Z" fill="#2f7b72"/><path d="M215.94,36v0a3.75,3.75,0,0,1,7.5,0v0a3.75,3.75,0,0,1-7.5,0Zm6.18,0v0a2.46,2.46,0,0,0-2.44-2.55A2.43,2.43,0,0,0,217.26,36v0a2.46,2.46,0,0,0,2.44,2.55A2.42,2.42,0,0,0,222.12,36Z" fill="#2f7b72"/><path d="M224.7,36.54V32.42H226v4.07c0,1.33.68,2,1.81,2s1.8-.67,1.8-2V32.42h1.26v4.06a2.87,2.87,0,0,1-3.08,3.22A2.83,2.83,0,0,1,224.7,36.54Z" fill="#2f7b72"/><path d="M232.25,32.42h3.2a2.89,2.89,0,0,1,2.07.71,2.18,2.18,0,0,1,.59,1.55v0a2.14,2.14,0,0,1-1.71,2.17l1.94,2.72h-1.49l-1.76-2.5h-1.58v2.5h-1.26ZM235.36,36c.9,0,1.47-.47,1.47-1.2v0c0-.77-.55-1.19-1.48-1.19h-1.84V36Z" fill="#2f7b72"/><path d="M239,36v0a3.63,3.63,0,0,1,3.7-3.71,3.7,3.7,0,0,1,2.8,1.12l-.8.93a2.88,2.88,0,0,0-2-.89A2.41,2.41,0,0,0,240.35,36v0a2.43,2.43,0,0,0,2.37,2.55,2.84,2.84,0,0,0,2.06-.93l.81.82a3.7,3.7,0,0,1-2.91,1.27A3.61,3.61,0,0,1,239,36Z" fill="#2f7b72"/><path d="M246.75,32.42h5.32v1.12H248v1.87h3.6v1.12H248v1.93h4.11v1.13h-5.37Z" fill="#2f7b72"/><path d="M253,38.54l.75-.9a3.34,3.34,0,0,0,2.27.93c.78,0,1.27-.36,1.27-.9v0c0-.51-.29-.79-1.62-1.1-1.53-.36-2.39-.82-2.39-2.14v0a2.2,2.2,0,0,1,2.45-2.08,4,4,0,0,1,2.6.91l-.67,1a3.28,3.28,0,0,0-1.95-.74c-.74,0-1.17.38-1.17.85v0c0,.55.33.8,1.7,1.13s2.31.91,2.31,2.1v0c0,1.34-1.06,2.14-2.56,2.14A4.4,4.4,0,0,1,253,38.54Z" fill="#2f7b72"/><path d="M271.85,60H0V0H271.85ZM1.8,58.2H270.05V1.8H1.8Z" fill="#2f7b72"/><rect x="13.41" y="13.33" width="5.9" height="5.9" fill="#f47c55"/><rect x="20.27" y="13.33" width="5.9" height="5.9" fill="#bfc96d"/><rect x="27.13" y="13.33" width="5.9" height="5.9" fill="#2e7b71"/><rect x="33.99" y="13.33" width="5.9" height="5.9" fill="#f15b2b"/><rect x="40.84" y="13.33" width="5.9" height="5.9" fill="#4c7b7d"/><rect x="13.41" y="20.19" width="5.9" height="5.9" fill="#7ececc"/><rect x="20.27" y="20.19" width="5.9" height="5.9" fill="#6f7c34"/><rect x="27.13" y="20.19" width="5.9" height="5.9" fill="#b64626"/><rect x="33.99" y="20.19" width="5.9" height="5.9" fill="#91d4d4"/><rect x="40.84" y="20.19" width="5.9" height="5.9" fill="#f47c55"/><rect x="13.41" y="27.05" width="5.9" height="5.9" fill="#ebe279"/><rect x="20.27" y="27.05" width="5.9" height="5.9" fill="#f79c80"/><rect x="27.13" y="27.05" width="5.9" height="5.9" fill="#46b6a9"/><rect x="33.99" y="27.05" width="5.9" height="5.9" fill="#f9bda9"/><rect x="40.84" y="27.05" width="5.9" height="5.9" fill="#4fbfa7"/><rect x="13.41" y="33.91" width="5.9" height="5.9" fill="#a33522"/><rect x="20.27" y="33.91" width="5.9" height="5.9" fill="#2f7b72"/><rect x="27.13" y="33.91" width="5.9" height="5.9" fill="#aab63d"/><rect x="33.99" y="33.91" width="5.9" height="5.9" fill="#2f7b72"/><rect x="40.84" y="33.91" width="5.9" height="5.9" fill="#7a2e17"/><rect x="13.41" y="40.77" width="5.9" height="5.9" fill="#6f8a39"/><rect x="20.27" y="40.77" width="5.9" height="5.9" fill="#91d4d4"/><rect x="27.13" y="40.77" width="5.9" height="5.9" fill="#f15b2b"/><rect x="33.99" y="40.77" width="5.9" height="5.9" fill="#93a53b"/><rect x="40.84" y="40.77" width="5.9" height="5.9" fill="#b64626"/></svg>      <span class="site-title-mobile">NC DNCR</span>
+    </a>
+  </div>
+  <button formaction="search" class="search-trigger"><span>Search </span><span class="icon-search" aria-hidden="true"></span></button>
+</div>
+<div class="menu-container mainMenu contents-less menu-full" id="mainMenu">
+  <div aria-label="First level" class="">
+    <button href="#" class="flyout-trigger close-trigger" aria-hidden="true"><span class="icon-close" aria-hidden="true"></span><span>Close Menu</span></button>
+    <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer">
+              <nav class='topical-nav' role='navigation' aria-label='Topical Navigation'><h2 class='visuallyhidden'>Topical Navigation</h2><ul class="wrapper"><li class="first leaf home home"><a href='/'>Home</a></li><li class="expanded has-dropdown has-mega "><a href='/things-to-do'><span class='icon-chevron-right' aria-hidden='true'></span>Things to Do</a><div aria-label="Second level"><a href='/things-to-do' class='parent-title wrapper' aria-hidden='true'><span>Things to Do</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first collapsed"><a href='/things-do/events-and-programs'>Events and Programs</a></li><li class="collapsed"><a href='/things-to-do/trips-travel-ideas'>Trips/Travel Ideas</a></li><li class="leaf"><a href='/things-do/sightseeing-tours-north-carolina'>Sightseeing Tours in North Carolina</a></li><li class="leaf"><a href='/things-to-do/place-finder'>Place Finder</a></li><li class="leaf"><a href='/things-to-do/archives'>Archives</a></li><li class="leaf"><a href='/things-to-do/aquariums'>Aquariums</a></li><li class="collapsed"><a href='/things-to-do/historic-sites'>Historic Sites</a></li><li class="collapsed"><a href='/things-to-do/libraries'>Libraries</a></li><li class="collapsed"><a href='/things-to-do/museums'>Museums</a></li><li class="leaf"><a href='/things-to-do/nc-symphony'>North Carolina Symphony</a></li><li class="collapsed"><a href='/things-to-do/state-parks'>State Parks</a></li><li class="leaf"><a href='/things-to-do/zoo'>Zoo</a></li><li class="collapsed"><a href='/things-do/field-trips-capital-area-visitor-services-and-raleigh-group-visits'>Field Trips, Group Visits & CAVS</a></li><li class="last leaf"><a href='/things-do/site-rentals'>Site Rentals</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/education'><span class='icon-chevron-right' aria-hidden='true'></span>Learn</a><div aria-label="Second level"><a href='/education' class='parent-title wrapper' aria-hidden='true'><span>Learn</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/learn/nc-learn-home'>NCLearn@Home</a></li><li class="collapsed"><a href='/education'>Educator Resources and Programs</a></li><li class="collapsed"><a href='/learn/national-history-day-north-carolina'>National History Day</a></li><li class="collapsed"><a href='/education/topics'>Resources by Topic</a></li><li class="leaf"><a href='/learn/north-carolina-virtual-family-history-fair'>North Carolina Virtual Family History Fair</a></li><li class="leaf"><a href='/learn/podcasts'>Podcasts</a></li><li class="last leaf"><a href='/learn/virtual-field-trips'>Virtual Field Trips</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/resources'><span class='icon-chevron-right' aria-hidden='true'></span>Resources</a><div aria-label="Second level"><a href='/resources' class='parent-title wrapper' aria-hidden='true'><span>Resources</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/resources/artist-opportunities'>Artist Opportunities</a></li><li class="collapsed"><a href='/resources/traveling-exhibits'>Traveling Exhibits</a></li><li class="collapsed"><a href='/resources/conservation-assistance'>Conservation Assistance</a></li><li class="leaf"><a href='/resources/digital-collections-online-exhibits'>Digital Collections & Online Exhibits</a></li><li class="collapsed"><a href='/resources/family-history-genealogy'>Family History & Genealogy</a></li><li class="leaf"><a href='/resources/grants'>Grants</a></li><li class="leaf"><a href='/resources/mapping'>Mapping Resources</a></li><li class="leaf"><a href='/resources/publications'>Publications</a></li><li class="collapsed"><a href='/resources/records-management'>Records Management</a></li><li class="leaf"><a href='/resources/search-our-collections'>Search Our Collections</a></li><li class="collapsed"><a href='/resources/accessibility'>Accessibility</a></li><li class="last collapsed"><a href='/resources/advisory-council-film-television-and-digital-streaming'>Advisory Council on Film, Television, and Digital Streaming</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/news'><span class='icon-chevron-right' aria-hidden='true'></span>News</a><div aria-label="Second level"><a href='/news' class='parent-title wrapper' aria-hidden='true'><span>News</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/news/contacts-for-the-press'>Contacts for the Press</a></li><li class="last leaf"><a href='/news/press-releases'>Press Releases</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/about'><span class='icon-chevron-right' aria-hidden='true'></span>About</a><div aria-label="Second level"><a href='/about' class='parent-title wrapper' aria-hidden='true'><span>About</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first collapsed"><a href='/about/arts'>Arts</a></li><li class="collapsed"><a href='/about/office-archives-and-history'>History</a></li><li class="leaf"><a href='/about/libraries'>Libraries</a></li><li class="collapsed"><a href='/about/nature'>Nature</a></li><li class="collapsed"><a href='/about/leadership'>Leadership</a></li><li class="leaf"><a href='/about/support'>Support Us</a></li><li class="collapsed"><a href='/about/employment'>Employment</a></li><li class="collapsed"><a href='/about/special-programs'>Special Programs</a></li><li class="last collapsed"><a href='/about/featured-programs'>Featured Programs</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/contact-us'><span class='icon-chevron-right' aria-hidden='true'></span>Contact</a><div aria-label="Second level"><a href='/contact-us' class='parent-title wrapper' aria-hidden='true'><span>Contact</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/contact/connect-us'>Connect With Us</a></li><li class="last leaf"><a href='/contact/secretary-scheduling-request'>Secretary Scheduling Request</a></li></ul></div></li><li class="last collapsed "><a href='/blog'>Blogs</a></li></ul></nav>          </div>
+          <nav class='enterprise-nav' role='navigation' aria-label='Enterprise Navigation'><h2 class='visuallyhidden'>Enterprise Navigation</h2><ul class="wrapper"><li><a href='http://www.nc.gov/' title='NC.Gov'><span class="icon-nc-brand" aria-hidden="true"></span><span>NC.Gov</span></li><li><a href='http://www.nc.gov/agencies' title='Agencies'><span class='icon-account-balance' aria-hidden='true'></span><span>Agencies</span></a></li><li><a href='http://www.nc.gov/jobs' title='Jobs'><span class='icon-wallet-travel' aria-hidden='true'></span><span>Jobs</span></a></li><li><a href='http://www.nc.gov/services' title='Services'><span class='icon-phonelink' aria-hidden='true'></span><span>Services</span></a></li></ul></nav>      </div>
+</div>              </header>
+    </div> <!-- /.section, /#header -->
+
+    
+    <div id="content-container" class="clearfix content-container">
+              <div id="alert-box">
+          <div class="section clearfix">
+              <div class="region region-alert-box">
+    <div id="alerts" data-alerts-hash="c68eefde81dc997f81667ddbad994b99" class="wrapper group alerts"><div id='alert-979' class='alert-box warning' style='display:none;'><div class='wrapper group'><span class='alert-icon' aria-hidden='true'></span><div class='message'><h2 class='alert-type'>Covid-19</h2>Resources, information and assistance from across state government. <a href="https://www.nc.gov/covid19" target="_blank" alt="Read More Visit the Information Hub">Visit the Information Hub</a></div></div></div></div>  </div>
+          </div>
+        </div> <!-- /.section, /#alert-box -->
+                        <main id="main" class=" no-breadcrumbs">
+
+        
+          
+          <article id="primary-content content" >
+            <div class="section">
+                            <a id="main-content"></a>
+
+                              <div class="wrapper">                                  <h1  class="element-invisible page-title" id="page-title">
+                    Homepage                  </h1>
+                                              
+                              <div class="tabs">
+                                  </div>
+                                                                                  </div>
+
+            <!--landing page -->
+                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2" class="node node-landing-page node-full clearfix">
+
+      
+          
+  
+  <div class="content clearfix">
+    
+<div class="paragraphs-items paragraphs-items-field-bands paragraphs-items-field-bands-full paragraphs-items-full">
+      <div class="field field-name-field-bands field-type-paragraphs field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-full-width band pad-none no-gutter clearfix"
+   about="" typeof="">
+
+  
+  <section class="content band-content wrapper "
+    >
+        <div class="field field-name-field-full-width-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-carousel" class="block block-bean">
+
+    
+  <div class="content">
+    <div class=" ncgov-theme "><div class="item"><div class="item__wrapper"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://files.nc.gov/ncdcr/styles/carousel___hero/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=VfOAgONV&amp;timestamp=1597169040 1x" media="only screen and (min-width: 1280px)" />
+<source srcset="https://files.nc.gov/ncdcr/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=xs86p7fo&amp;timestamp=1597169040 1x" media="(min-width: 1024px)" />
+<source srcset="https://files.nc.gov/ncdcr/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=fQTc407k&amp;timestamp=1597169040 1x" media="(min-width: 768px)" />
+<source srcset="https://files.nc.gov/ncdcr/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=vXzPE3h4&amp;timestamp=1597169040 1x" media="(min-width: 480px)" />
+<source srcset="https://files.nc.gov/ncdcr/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=iSewv-dG&amp;timestamp=1597169040 1x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://files.nc.gov/ncdcr/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/NCSurftember_DNCR_FRONT_1140x450.png?itok=iSewv-dG&amp;timestamp=1597169040" alt="" title="" />
+</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading"></h3><div class="item__text"><p>Surftember is taking off! Ride with us all summer as we bring you stories, history, and culture from North Carolina's Outer Banks! </p><a href="https://www.ncdcr.gov/things-do/tripstravel-ideas/discover-summer-across-north-carolina/discover-summer-coastal-nc-0" class="button ghost inverted">Surftember Details</a></div></div></div></div></div></div>  </div>
+</div>            </div>
+              </div>
+  </div>
+  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-four-column band pad-none no-gutter clearfix"
+   about="" typeof="">
+
+      <header class="band-header wrapper">
+      <h2 class="section-title">Featured Programs</h2>
+    </header>
+  
+  <section class="content band-content wrapper parts-span-fourth"
+    >
+    <div>    <div class="field field-name-field-left-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-hello-nc" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://www.ncdcr.gov/about/featured-programs/hello-nc" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-20_0.png?itok=JyosZcMT" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">Hello NC</h3>
+                                          <p itemprop="description">Hello NC celebrates the people, culture, and stories of rural North Carolina through local voices and rich media. This multi-faceted initiative will showcase stories about the diversity, traditions and richness of small towns and rural life.</p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div>    <div class="field field-name-field-left-middle-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-your-story" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://www.ncdcr.gov/about/special-programs/your-story-north-carolinas-story" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-22_0.png?itok=Jgxys7JP" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">Your Story is North Carolina&#039;s Story</h3>
+                                          <p itemprop="description">History is happening now, and our rapid response collection project needs your help to document and preserve it, because Your Story is North Carolina’s Story.</p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div>    <div class="field field-name-field-right-middle-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-come-hear-nc" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://www.ncarts.org/comehearnc" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-23_0.png?itok=pwLIy0jy" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">Come Hear NC</h3>
+                                          <p itemprop="description">From Thelonious Monk and Link Wray to Doc Watson and Nina Simone, North Carolinians have made groundbreaking contributions to many of America's most important musical genres.</p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div>    <div class="field field-name-field-right-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-sctw" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://www.ncdcr.gov/about/featured-programs/she-changed-world-north-carolina-women-breaking-barriers" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-24_0.png?itok=iabE9mpJ" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">She Changed the World</h3>
+                                          <p itemprop="description">“She Changed the World: NC Women Breaking Barriers" celebrates the achievements of North Carolina women and explores the diversity of their experiences and impact on our history.</p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-three-column band no-gutter clearfix"
+   about="" typeof="">
+
+  
+  <section class="content band-content wrapper parts-span-third"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-nc-learn" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://www.ncdcr.gov/learn/nc-learn-home" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-26.png?itok=OxjVU-qf" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">Digital Educational Resources</h3>
+                                          <p itemprop="description">NCLearn is a gathering place for NC DNCR online content and educational resources in one place for teachers, students, parents, and anyone needing enriching experiences, regardless of their location.</p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div class="group-middle field-group-div">    <div class="field field-name-field-middle-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-oasis" class="block block-bean">
+
+    
+  <div class="content">
+    
+<div>
+  <div class="cards">
+    <div class="card article framed" itemscope="" itemtype="http://schema.org/Article">
+      <a href="https://aahc.nc.gov/green-book-project" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/styles/card_photo/public/Untitled-design-25_0.png?itok=TUjY7eQY" width="500" height="376" alt="" /></span>
+        <div class="meta">
+          <h3 itemprop="name">Green Book Project</h3>
+                                          <p itemprop="description">The Green Book Project is exploring what it was like for black families, business people & individuals to travel in North Carolina during the Jim Crow era. </p>
+                  </div>
+      </a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div class="group-right field-group-div">    <div class="field field-name-field-right-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-home-page-quick-links" class="block block-bean">
+
+    
+  <div class="content">
+    <section class="quick-links "><h3 class="section-title">Quick Links</h3><ul><li><a href="https://www.ncdcr.gov/about/arts" title="Arts" class="button">Arts</a></li><li><a href="https://www.ncdcr.gov/node/5466" title="History" class="button">History</a></li><li><a href="https://statelibrary.ncdcr.gov/" title="Libraries" class="button">Libraries</a></li><li><a href="https://www.ncdcr.gov/about/nature" title="Nature" class="button">Nature</a></li><li><a href="https://www.ncdcr.gov/resources/grants" title="Grants" class="button">Grants</a></li><li><a href="https://www.ncdcr.gov/things-do/events-and-programs" title="Events &amp;amp; Programs" class="button">Events &amp; Programs</a></li></ul></section>  </div>
+</div>            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-two-column band theme-accent-turquoise no-gutter clearfix"
+   about="" typeof="">
+
+    <header class="band-header wrapper">
+    <h2 class="section-title">What We Do</h2>
+  </header>
+  
+  <section class="content band-content wrapper parts-span-two-third"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p> </p>
+<p>The N.C. Department of Natural and Cultural Resources oversees the state’s resources for the arts, history, libraries and nature. We’re home to the state’s 27 historic sites, seven history museums, two art museums, two science museums, three aquariums and Jennette's Pier, 39 state parks and recreation areas, the N.C. Zoo, the N.C. Symphony, the State Library, the State Archives, the N.C. Arts Council, State Preservation Office, Office of State Archaeology, the African American Heritage Commission, and the Office of Land and Water Stewardship.</p>
+<p><a class="button" href="https://www.ncdcr.gov/about">Learn More About the Department</a></p>
+            </div>
+              </div>
+  </div>
+</div><div class="group-right field-group-div">    <div class="field field-name-field-right-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p>
+</p><div class="video-filter">
+<iframe src="//www.youtube.com/embed/LsGbv3xsZ8o?modestbranding=0&amp;html5=1&amp;rel=0&amp;autoplay=0&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;autohide=0&amp;showinfo=0&amp;theme=dark&amp;color=red&amp;enablejsapi=0" width="500" height="300" class="video-filter video-youtube vf-lsgbv3xsz8o" frameborder="0" allowfullscreen="true"></iframe></div>
+
+<p> </p>
+            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-three-column band pad-small no-gutter clearfix"
+   about="" typeof="">
+
+    <header class="band-header wrapper">
+    <h2 class="section-title">DNCR Rules Review/Meeting Notices</h2>
+  </header>
+  
+  <section class="content band-content wrapper parts-span-third"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"></span></span></span></p>
+<p>Governor’s Advisory Council on Film, Television and Digital Streaming <br />
+	Special Electronic Meeting<br />
+	September 15, 2020, 10 a.m.</p>
+<p>Members of the public may observe via livestream at <a href="https://www.youtube.com/user/ncculture">https://www.youtube.com/user/ncculture</a></p>
+<p>Statement of Purpose:<br />
+	The meeting agenda includes an update from the North Carolina Film Office and discussion of recommendations regarding the N.C. film industry that the council will make in a report to Governor Cooper. Recommendations will be in the priority areas of film industry messaging and marketing; grants, rebates, policies and statutes; access and diversity; and industry expansion. The council will also discuss dates for future meetings. </p>
+<p><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"></span></span></span></p>
+<p style="margin:0in 0in 0.0001pt"><span style="font-size:12pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="font-size:11.0pt"> </span></span></span></p>
+            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-full-width band theme-accent-indigo pad-small full-bleed no-gutter clearfix"
+   about="" typeof="" style="background-image: url(https://files.nc.gov/ncdcr/styles/band_background_image/public/bg_poly-accent-indigo.jpg?itok=t7Z1c_tF);">
+
+  
+  <section class="content band-content wrapper "
+    >
+        <div class="field field-name-field-full-width-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-mailchimp-general-interest-signu" class="block block-bean">
+
+    
+  <div class="content">
+    <form action="/" method="post" id="nc-signup-form" accept-charset="UTF-8">  <section class="band pad-small email-signup">
+    <div class="wrapper group">
+      <header>
+        <img src="/profiles/north_carolina/themes/nc_base_theme/img/g_email-notification.svg" aria-hidden="true" alt="email icon with notification indicator" />
+        <h2 class="email-signup-title">Get Email Alerts</h2>
+        <p>Get the Latest Updates from across your Department of Natural and Cultural Resources.</p>
+      </header>
+      <section class="field-group">
+        <div class="field">
+          <label for="edit-email">Email Address:</label>
+          <input type="email" name="email" id="edit-email" placeholder="someone@example.com" autocapitalize="off" />
+          <!--  -->
+          <strong class="error-message">This field is required <span class="icon-error" aria-hidden="true"></span></strong>
+        </div>
+        <input class="button accent ghost inverted button form-submit" type="submit" id="edit-subscribe" name="op" value="Subscribe" />      </section>
+    </div>
+  </section>
+      <input type="hidden" name="form_build_id" value="form-4BdxO-lXzYts7uKHXKtzHgDM6eo3UgW6y5zO5zWZ7VA" />
+<input type="hidden" name="form_id" value="nc_signup_form" />
+  </form>  </div>
+</div>            </div>
+              </div>
+  </div>
+  </section>
+
+</section>
+            </div>
+              </div>
+  </div>
+</div>
+  </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+            
+          </article> <!-- /.section, /#content -->
+
+          
+      </main>
+
+    </div> <!-- /#main, /#main-wrapper -->
+
+    
+    <section id="user-feedback" class="band user-feedback">
+      <div class="content wrapper">
+                    <div class="toggle-trigger">
+    <div id="block-nc-webform-user-feedback-link" class="block block-nc-webform">
+
+    
+  <div class="content">
+    <a href="/user-feedback?pge_s=/" target="blank">How can we make this page better for you?</a>  </div>
+</div>
+  </div>
+                          <div>
+            <a id="back-to-top" class="back-to-top" href="#content-container" title="Back to top"><span class="icon-vertical-align-top" aria-hidden="true"></span><span class="visuallyhidden">Back to top</span></a>          </div>
+              </div>
+    </section> <!-- /band user-feedback-->
+
+    
+    <div id="footer-wrapper" class="footer-container">
+      <footer class="group">
+
+
+                                  <section class="band topical">
+              <div id="footer-columns" class="wrapper">
+                <section class="parts-span-third">
+                    <section id="block-boxes-contact-information" class="block block-boxes block-boxes-simple inverted group contact">
+
+        <h3 class="section-title border">Contact Information</h3>
+    
+  <div >
+    <div id='boxes-box-contact_information' class='boxes-box'><div class="boxes-box-content"><div itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">North Carolina Department of Natural and Cultural Resources</span>
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">109 E. Jones Street<br />
+		Mail Service Center 4601</span><br /><span itemprop="addressLocality">Raleigh</span>, <span itemprop="addressRegion">NC</span> <span itemprop="postalCode">27601</span></div>
+<p>	<span itemprop="telephone">(919) 814-6800</span></p></div>
+<h3>Census 2020</h3>
+<p><a href="https://census.nc.gov" target="_blank"><img alt="Census 2020 logo" src="https://files.nc.gov/census/census-logo.svg" width="100%" /></a></p>
+</div></div>  </div>
+</section>
+                    <section id="block-boxes-footer-box-2" class="block block-boxes block-boxes-simple inverted group">
+
+        <h3 class="section-title border">Recent Tweets</h3>
+    
+  <div >
+    <div id='boxes-box-footer_box_2' class='boxes-box'><div class="boxes-box-content"><p><a class="twitter-timeline" data-chrome="nofooter transparent noheader noborders" data-height="300" data-tweet-limit="1" data-width="100%" href="https://twitter.com/ncculture">Tweets by@ncculture</a></p>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>  </div>
+</section>
+                    <section id="block-follow-site" class="block block-follow inverted group">
+
+        <h3 class="section-title border">Follow Us</h3>
+    
+  <div  class="social-links">
+    <div class="item-list"><ul><li class="first"><a href="https://www.facebook.com/NorthCarolinaCulture" class="follow-link follow-link-facebook" title="Follow NC Department of Natural and Cultural Resources on Facebook"><span class="icon-facebook" aria-hidden="true"></span> <span>Facebook</span></a>
+</li>
+<li><a href="http://www.twitter.com/ncculture" class="follow-link follow-link-twitter" title="Follow NC Department of Natural and Cultural Resources on Twitter"><span class="icon-twitter" aria-hidden="true"></span> <span>Twitter</span></a>
+</li>
+<li><a href="https://instagram.com/ncculture/" class="follow-link follow-link-instagram" title="Follow NC Department of Natural and Cultural Resources on Instagram"><span class="icon-instagram" aria-hidden="true"></span> <span>Instagram</span></a>
+</li>
+<li><a href="https://www.flickr.com/photos/ncculture/" class="follow-link follow-link-flickr" title="Follow NC Department of Natural and Cultural Resources on Flickr"><span class="icon-flickr" aria-hidden="true"></span> <span>Flickr</span></a>
+</li>
+<li><a href="https://www.youtube.com/user/ncculture" class="follow-link follow-link-youtube" title="Follow NC Department of Natural and Cultural Resources on YouTube"><span class="icon-youtube" aria-hidden="true"></span> <span>YouTube</span></a>
+</li>
+<li><a href="https://www.pinterest.com/ncculture/" class="follow-link follow-link-pinterest" title="Follow NC Department of Natural and Cultural Resources on Pinterest"><span class="icon-pinterest" aria-hidden="true"></span> <span>Pinterest</span></a>
+</li>
+<li><a href="https://medium.com/@NCDNCR" class="follow-link follow-link-medium" title="Follow NC Department of Natural and Cultural Resources on Medium"><span class="icon-medium" aria-hidden="true"></span> <span>Medium</span></a>
+</li>
+<li class="last"><a href="https://www.linkedin.com/company/north-carolina-department-of-cultural-resources" class="follow-link follow-link-linkedin" title="Follow NC Department of Natural and Cultural Resources on LinkedIn"><span class="icon-linkedin" aria-hidden="true"></span> <span>LinkedIn</span></a>
+</li>
+</ul></div>  </div>
+</section>
+                                  </section>
+              </div> <!-- /#footer-columns -->
+            </section>
+          
+                      <section class="band pad-small enterprise">
+                <div class="wrapper"><section><nav><ul class="group"><li><a href='/employee-directory' title='Employee Directory'><span>Employee Directory</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/accessibility' title='Accessibility'><span>Accessibility</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/terms' title='Terms of Use'><span>Terms of Use</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/privacy' title='Privacy Policy'><span>Privacy Policy</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/government/open-budget' title='Open Budget'><span>Open Budget</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li></ul></nav><div class="brand"><a href="https://www.ncdcr.gov/homepage" title="NC Department of Natural and Cultural Resources"><img typeof="foaf:Image" src="https://files.nc.gov/ncdcr/DNCR-footer-logo.svg" alt="NC Department of Natural and Cultural Resources" /></a></div></section></div>            </section>
+          
+        </section>
+      </footer>
+    </div> <!-- /.section, /#footer-wrapper -->
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+<script type="text/javascript" async="async" src="//www.ncdcr.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script type="text/javascript" async="async" src="//www.ncdcr.gov/sites/all/modules/contrib/picture/picture.min.js?v=7.72"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts_handler.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts.js?qgg6yw"></script>
+<script type="text/javascript" src="//www.ncdcr.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qgg6yw"></script>
+<!--[if lte IE 9]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/flexie.min.js"></script><![endif]-->
+</body>
+</html>

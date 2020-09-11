@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"vWQC662z55JvVmAuRa0NxV_aiOLDY5d6cixBun1Uo-uepaOOKZhFhXtvLf8ZlNfKr2VijCUXLXGBx0FMQRGEnmu4jyw1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"aV8zbdKoMYu6L99xAFjah-I44nStJ_7siusjYuw0yAvhWkpUPrTD-DWzxR4xYpfrfuyn1ErLHnjCbluRDN4Dm6jTjMY1\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/242625147.css" rel="stylesheet" type="text/css" />	<link href="/1971851407.css" rel="stylesheet" type="text/css" />
+	<link href="/-201076417.css" rel="stylesheet" type="text/css" />	<link href="/1971851407.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -1362,8 +1362,8 @@ Pasco has grown tremendously in the last two decades and this growth has occurre
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshow0953e933aedb4072b1b35b21e5e3d561 = new Slideshow();
-slideshow0953e933aedb4072b1b35b21e5e3d561.generate('494','1','5', false,false);
+		    var slideshow6271d4f8c79c4724843b479eba1ebb0d = new Slideshow();
+slideshow6271d4f8c79c4724843b479eba1ebb0d.generate('494','1','5', false,false);
 
 
 		});
@@ -1659,20 +1659,23 @@ slideshow0953e933aedb4072b1b35b21e5e3d561.generate('494','1','5', false,false);
 	
 	<div class="inner col col15 first last id0c68ab89-0ddd-4687-8d35-d5548bcaa58a" style="" data-widgetcontainerid="0c68ab89-0ddd-4687-8d35-d5548bcaa58a">	
 
-	<div id="divTabbed9927cf3b-cd46-4e6c-b82a-2c3567052548" class="widget widgetTabbed  wide skin24  " data-widgetid="9927cf3b-cd46-4e6c-b82a-2c3567052548">
-		<ol class="tabbedWidget cpTabs  " style=" ">
-			<!--
-					--><li style="width: 48%;" class="active">	<a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Meetings" contenteditable="false">Meetings</span></a>
+	<div id="divTabbed9927cf3b-cd46-4e6c-b82a-2c3567052548" class="widget widgetTabbed  wide  " data-widgetid="9927cf3b-cd46-4e6c-b82a-2c3567052548">
+		<div class="widget skin24">
+			<ol class="tabbedWidget cpTabs  " style=" ">
+				<!--
+						--><li style="width: 48%;" class="active">	<a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Meetings" contenteditable="false">Meetings</span></a>
 </li><!--
-					--><li style="width: 48%;" class="">	<a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Events" contenteditable="false">Events</span></a>
+						--><li style="width: 48%;" class="">	<a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Events" contenteditable="false">Events</span></a>
 </li><!--
-					-->
-		</ol>
-
+							-->
+			</ol>
+		</div>
 		<div class="cpTabPanels">
-					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class="active"><a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Meetings</a></li>
-					</ol>
+					<div class="widget skin24">
+						<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
+							<li class="active"><a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Meetings</a></li>
+						</ol>
+					</div>
 				<div class="tabbedWidget cpTabPanel showing" style="" id="tab9927cf3b-cd46-4e6c-b82a-2c3567052548_0">
 
 <div data-widget-id="e4a51406-baed-4227-985a-06658345eb14" data-widget-controller-path="/Calendar/Widget">
@@ -1767,13 +1770,13 @@ Sat
 <td>
 <span>8</span>
 </td>
+<td>
+<span>9</span>
+</td>
+<td>
+<span>10</span>
+</td>
 <td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=9&amp;CID=23,32'>9</a>
-</td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=10&amp;CID=23,32'>10</a>
-</td>
-<td>
 <span>11</span>
 </td>
 <td>
@@ -1868,47 +1871,46 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Wed, Sep 9  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3259">Hearing Examiner Meeting</a></strong>
-
-The Hearing Examiner duties include: 
--Variances,...		</div>
-						<a href="/Calendar.aspx?EID=3259" class="readOn" style="display:block;"><span>Read On</span></a>
-	</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu, Sep 10  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3635">City Council Special Remote Workshop</a></strong>
-
-This is a special meeting (workshop) to continue t...		</div>
-						<a href="/Calendar.aspx?EID=3635" class="readOn" style="display:block;"><span>Read On</span></a>
-	</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Mon, Sep 14  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=3398">City Council Remote Workshop Meeting</a></strong>
 
 The City Council holds remote workshops the 2nd an...		</div>
 						<a href="/Calendar.aspx?EID=3398" class="readOn" style="display:block;"><span>Read On</span></a>
+	</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Tue, Sep 15  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3435">Pasco Public Facilities District Board Remote Meeting *MOVED to September 29, 2020</a></strong>
+
+		</div>
+						<a href="/Calendar.aspx?EID=3435" class="readOn" style="display:block;"><span>Read On</span></a>
+	</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Thu, Sep 17  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3571">Planning Commission Meeting</a></strong>
+
+The Planning Commission makes recommendations to t...		</div>
+						<a href="/Calendar.aspx?EID=3571" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 					</ol>
 				</div>
@@ -1923,9 +1925,11 @@ The City Council holds remote workshops the 2nd an...		</div>
 	</div>
 </div></div>
 				</div>
-					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class=""><a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Events</a></li>
-					</ol>
+					<div class="widget skin24">
+						<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
+							<li class=""><a href="#tab9927cf3b-cd46-4e6c-b82a-2c3567052548_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Events</a></li>
+						</ol>
+					</div>
 				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab9927cf3b-cd46-4e6c-b82a-2c3567052548_1">
 
 <div data-widget-id="2aa325cc-c20a-4742-9650-7281667b1565" data-widget-controller-path="/Calendar/Widget">
@@ -2020,13 +2024,13 @@ Sat
 <td>
 <span>8</span>
 </td>
-<td class="today">
+<td>
 <span>9</span>
 </td>
 <td>
 <span>10</span>
 </td>
-<td>
+<td class="today">
 <span>11</span>
 </td>
 <td>
@@ -2645,7 +2649,7 @@ Hours: Monday through Friday<br>
 
 
 
-	<script src="/709862506.js" type="text/javascript"></script>
+	<script src="/404307241.js" type="text/javascript"></script>
 	 <!-- Piwik -->
 <script type="text/javascript"> 
   var _paq = _paq || [];

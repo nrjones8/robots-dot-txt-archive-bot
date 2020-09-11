@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="./libs/uswds-2.0.2/css/uswds.min.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="./assets/img/SAM_favicon.ico" />
+    <link
+      rel="stylesheet"
+      href="./libs/accessible-html5-video-player/css/px-video.css"
+    />
+    <script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA" id="_fed_an_ua_tag">
+    </script>
+    <link rel="stylesheet" href="./assets/css/styles.css" />
+    <title>WDOL.gov has moved</title>
+  </head>
+  <body>
+
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+
+    <!-- USWDS Banner -->
+    <div class="usa-banner">
+      <div class="usa-accordion">
+        <header class="usa-banner__header">
+          <div class="usa-banner__inner">
+            <div class="grid-col-auto">
+              <img
+                class="usa-banner__header-flag"
+                src="./libs/uswds-2.0.2/img/us_flag_small.png"
+                alt="U.S. flag"
+              />
+            </div>
+            <div class="grid-col-fill tablet:grid-col-auto">
+              <p class="usa-banner__header-text">
+                An official website of the United States government
+              </p>
+              <p class="usa-banner__header-action" aria-hidden="true">
+                Here’s how you know
+              </p>
+            </div>
+            <button
+              class="usa-accordion__button usa-banner__button"
+              aria-expanded="false"
+              aria-controls="gov-banner"
+            >
+              <span class="usa-banner__button-text">Here’s how you know</span>
+            </button>
+          </div>
+        </header>
+        <div
+          class="usa-banner__content usa-accordion__content"
+          id="gov-banner"
+          hidden=""
+        >
+          <div class="grid-row grid-gap-lg">
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img
+                class="usa-banner__icon usa-media-block__img"
+                src="./libs/uswds-2.0.2/img/icon-dot-gov.svg"
+                alt="Dot gov"
+              />
+              <div class="usa-media-block__body">
+                <p>
+                  <strong>The .gov means it’s official.</strong>
+                  <br />
+                  Federal government websites often end in .gov or .mil. Before
+                  sharing sensitive information, make sure you’re on a federal
+                  government site.
+                </p>
+              </div>
+            </div>
+            <div class="usa-banner__guidance tablet:grid-col-6">
+              <img
+                class="usa-banner__icon usa-media-block__img"
+                src="./libs/uswds-2.0.2/img/icon-https.svg"
+                alt="Https"
+              />
+              <div class="usa-media-block__body">
+                <p>
+                  <strong>The site is secure.</strong>
+                  <br />
+                  The <strong>https://</strong> ensures that you are connecting
+                  to the official website and that any information you provide
+                  is encrypted and transmitted securely.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Header -->
+    <header
+      class="wdol-header border-bottom border-base-light padding-2 margin-bottom-6"
+    >
+      <div class="grid-container">
+        <div class="grid-row wdol-header__logo">
+          <a href="https://beta.sam.gov/">
+            <img
+              src="./assets/img/samgov_horizontal.png"
+              alt="SAM.gov Beta Logo"
+            />
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <!-- SAM.gov Beta and WDOL: Logos -->
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-6 wdol-logos__wdol">
+            <img src="./assets/img/wdol.png" alt="WDOL Logo" />
+          </div>
+          <div class="grid-col-6 wdol-logos__sam">
+            <img src="./assets/img/sam-beta-logo.jpg" alt="SAM.gov Beta logo" />
+          </div>
+        </div>
+      </div>
+
+      <!-- SAM.gov Beta and WDOL: Content -->
+      <div class="grid-container">
+        <div class="grid-row grid-gap">
+          <div class="grid-col-12 tablet:grid-col-6 dividing-line">
+            <p class="text-center wdol-logos-content__wdol">
+              WDOL.gov has moved to
+              <a href="https://beta.sam.gov/">beta.SAM.gov</a>
+              and is now known as Wage Determinations
+            </p>
+          </div>
+          <div class="grid-col-12 tablet:grid-col-6">
+            <p class="text-center wdol-logos-content__sam">
+              Go to
+              <a href="https://beta.sam.gov/">
+                beta.SAM.gov
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Links Section -->
+      <div class="wdol-links">
+        <div class="grid-container">
+          <p>
+            We've provided direct links to some useful areas on beta.SAM.gov to
+            help with your search for Wage Determinations:
+          </p>
+          <div class="wdol-links__content">
+            <a
+              href="https://beta.sam.gov/search?keywords=&sort=-modifiedDate&index=wd&is_active=true&page=1"
+            >
+              <img src="./assets/img/search.png" alt="Search Icon" />
+              Search Wage Determinations
+            </a>
+
+            <a href="https://www.dol.gov/whd/govcontracts/sca/sf98/index.asp">
+              <img src="./assets/img/document.png" alt="Document" />
+              e98 (request official SCA WD from DOL)
+            </a>
+
+            <a href="https://beta.sam.gov/help/wage-determinations">
+              <img src="./assets/img/question.png" alt="Question" />
+              Learning Center & Quick Start guides
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video Section -->
+      <div class="wdol-video grid-container">
+        <p>
+          beta.SAM.gov is now the authoritative and single location for obtaining
+          appropriate Service Contract Act (SCA) and Davis-Bacon Act (DBA) wage
+          determinations for each official contract action.
+        </p>
+        <div class="px-video-container" id="wdolvid">
+          <div class="px-video-img-captions-container">
+            <div class="px-video-captions hide" aria-hidden="true"></div>
+            <video
+              poster="./assets/img/WDOL-Video.jpg"
+              crossorigin=“anonymous”
+              controls
+            >
+              <source
+                src="https://s3.amazonaws.com/iae-prd-videos/wdol/Training 001_ Wage Determinations.mp4"
+                type="video/mp4"
+              />
+              <track
+                kind="captions"
+                label="English captions"
+                src="./assets/video/WDOL-Transition-Video-Captions.vtt"
+                srclang="en"
+                default
+              />
+              <div>
+                <a
+                  href="https://s3.amazonaws.com/iae-prd-videos/wdol/Training 001_ Wage Determinations.mp4"
+                >
+                  <img
+                    src="./assets/img/WDOL-Video.jpg"
+                    width="640"
+                    height="360"
+                    alt="download video"
+                  />
+                </a>
+              </div>
+            </video>
+          </div>
+          <div class="px-video-controls"></div>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="wdol-footer">
+      <div class="grid-container">
+        <img src="./assets/img/GSA.png" alt="GSA Logo" />
+        <span>
+          U.S. General Services Administration
+        </span>
+        <p>
+          This is a U.S. General Services Administration Federal Government
+          computer system that is "FOR OFFICIAL USE ONLY." This system is
+          subject to monitoring. Individuals found performing unauthorized
+          activities are subject to disciplinary action including criminal
+          prosecution.
+        </p>
+      </div>
+    </footer>
+
+    <script src="./libs/uswds-2.0.2/js/uswds.min.js"></script>
+    <script src="./libs/accessible-html5-video-player/js/strings.js"></script>
+    <script src="./libs/accessible-html5-video-player/js/px-video.js"></script>
+    <script>
+      // Initialize Video
+      new InitPxVideo({
+        videoId: "wdolvid",
+        captionsOnDefault: false,
+        seekInterval: 20,
+        videoTitle: "Training 001: Wage Determinations",
+        debug: true
+      });
+    </script>
+  </body>
+</html>

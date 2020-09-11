@@ -1,0 +1,411 @@
+<!DOCTYPE HTML>
+
+<!--[if IE 9 ]>    <html lang="en-us" dir="ltr" class="no-js ie9"> <![endif]-->   
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-us" dir="ltr" class="no-js"><!-- InstanceBegin template="/Templates/inside2017.dwt" codeOutsideHTMLIsLocked="false" --> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Maine.gov - Error - Page Not Found</title>
+<!-- test -->
+<!-- InstanceEndEditable -->
+<meta name="description" content="Maine.gov - Official site includes links to services available online, Governor, state agencies, Legislature, US Congressional delegation, state parks, and tax information." />
+<meta name="author" content="maine.gov" />
+<meta name="robots" content="index,follow" />
+<meta name="rating" content="Safe for kids" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--[if IE]><![endif]-->
+<link rel="stylesheet" type="text/css" href="/portal/css/styles2017.css">
+
+<link rel="stylesheet" type="text/css" href="/portal/js/slidebars.min.css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic" rel="stylesheet" type="text/css">
+<noscript>
+<style type="text/css"> 
+/* This style needs to stay here!! */
+	#alt-nav { display:block; }
+	#header .sb-toggle-left, .navicon-line { display:none; }
+	#getnotified { display:block!important; }
+</style>
+</noscript>
+<link rel="shortcut icon" href="/portal/favicon.ico">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.2+ devices: -->
+<link rel="apple-touch-icon" href="/portal/57x57.png">
+<!-- For first-generation iPad: -->
+<link rel="apple-touch-icon" sizes="72x72" href="/portal/72x72.png">
+<!-- For iPhone 4 with high-resolution Retina display: -->
+<link rel="apple-touch-icon" sizes="114x114" href="/portal/114x114.png">
+<!-- No such device exists yet, so if this value is used,
+    it means the sizes attribute is ignored: -->
+<link rel="apple-touch-icon" sizes="228x228" href="/portal/228x228.png">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="section" type="text" value="other" -->
+<!-- InstanceParam name="crumbtrail" type="boolean" value="true" -->
+<!-- InstanceParam name="Browse" type="boolean" value="false" -->
+<!-- InstanceParam name="side" type="boolean" value="false" -->
+<!-- InstanceParam name="topservices" type="boolean" value="false" -->
+<!-- InstanceParam name="class" type="text" value="onecolumn" -->
+<!-- InstanceParam name="sidebarsearch" type="boolean" value="true" -->
+<!-- InstanceParam name="footer-code" type="boolean" value="false" -->
+</head>
+<body id="other">
+	<!-- Start Skip Navigation: Accessibility Requirement -->
+	<ul class="skip-nav"> 
+	  <li><a href="#main-nav" accesskey="1" title="Skip to Navigation: Accesskey+1">Skip to Navigation</a></li>
+	  <li><a href="#content-area" accesskey="2" title="Skip to Content: Accesskey+2">Skip to Content</a></li>
+	  <li><a href="#footer" accesskey="3" title="Skip to Footer: Accesskey+3">Skip To Footer</a></li>
+	</ul>
+	<!-- End Skip Navigation: Accessibility Requirement -->
+	<!--Start Header include-->
+	<div id="header" class="sb-slide">
+	
+	<div class="container clearfix">
+		<div class="sb-toggle-left">
+			<ul id="menu-link">
+				<li><a href="">Menu</a></li>
+			</ul>
+		</div>
+		<div class="sb-toggle-left mobile-button">
+			<div class="navicon-line"></div>
+			<div class="navicon-line"></div>
+			<div class="navicon-line"></div>
+		</div>
+		<a href="/portal/index.html"><img src="/portal/img/logo.png" alt="Maine.gov logo" id="logo" /></a>
+		<ul id="main-nav">
+			<li><a href="/portal/government/" class="top-government">Government</a></li>
+			<li><a href="/portal/business/" class="top-business">Business</a></li>
+			<li><a href="/portal/employment/" class="top-employment">Employment</a></li>
+			<li><a href="/portal/education/" class="top-education">Education</a></li>
+			<li><a href="/portal/residents/" class="top-residents">Residents</a></li>
+			<li><a href="/portal/visitors/" class="top-visitors">Visitors</a></li>
+			<li><a href="/portal/about_me/" class="top-about">About ME</a></li>
+		</ul>
+		
+		<ul id="topnav">
+			<li><a href="/portal/government/state-agencies/" class="agencies">Agencies</a></li>
+			<li><a href="/portal/online_services/index.html" class="services">Services</a></li>
+			<li><a href="/portal/help/index.html" class="help">Help</a></li>
+			<!-- put this code where you'd like your intranet link to appear -->
+
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="intranet-flag"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
+
+
+
+
+		</ul>
+	</div>
+</div> <!--End Header-->
+<div id="content" class="clearfix">
+	
+	<div id="navigation" class="sb-slidebar sb-left">
+		<div id="sidesearch">
+			<div id="searchbg">
+				<form method="get" name="input" action="http://www.maine.gov/search" class="searchform clearfix">
+					<label for="search-box" class="overlabel">Search Maine.gov</label>
+					<input type="text" name="search" class="usagov-search-autocomplete searchtext-side" id="search-box" placeholder="Search Maine.gov" />
+					<input type="submit" name="button" value="Search" class="searchbutton-side"  onclick="_gaq.push(['_trackEvent', 'Search', 'Homepage search']);" />
+					<input type="hidden" name="as_sitesearch" value="http://www.maine.gov/" />
+					<input type="hidden" name="site" value="test_collection" />
+					<input type="hidden" name="output" value="xml_no_dtd" />
+					<input type="hidden" name="client" value="test_collection" />
+					<input type="hidden" name="proxystylesheet" value="test_collection" />
+				</form>
+			</div>
+		</div>
+		<ul class="sb-menu"> <!--Main navigation in slidebar-->
+			<li class="nav-government"><a href="/portal/government/">Government</a></li>
+			<li class="nav-business"><a href="/portal/business/">Business</a></li>
+			<li class="nav-employment"><a href="/portal/employment/">Employment</a></li>
+			<li class="nav-education"><a href="/portal/education/">Education</a></li>
+			<li class="nav-residents"><a href="/portal/residents/">Residents</a></li>
+			<li class="nav-visitors"><a href="/portal/visitors/">Visitors</a></li>
+			<li class="nav-about"><a href="/portal/about_me/">About Maine</a></li>
+			 <!-- put this code where you'd like your intranet link to appear -->
+                        
+                        <!--#set var="intranet" value="false" -->
+                        <!--#if expr="$HTTP_X_FORWARDED_FOR=/24\.39\.63\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/24\.39\.63\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/192\.168\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/10\.[0-9]+\.[0-9]+\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.162\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/198\.182\.163\.[0-9]+/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.97/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/72\.12\.82\.106/" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$HTTP_X_FORWARDED_FOR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#elif expr="$REMOTE_ADDR=/172\.21\.(128|129|130|131|132|133|134|135)\./" -->
+                                <!--#set var="intranet" value="true" -->
+                        <!--#endif -->
+                        <!--#if expr="$intranet = true" -->
+                                <li class="nav-intranet"><a href="http://inet.state.me.us">Intranet</a></li>
+                        <!--#endif -->
+
+
+
+
+		</ul>
+    </div> <!--End SB Slidebar-->
+
+	<!--End Header include-->
+	<div id="containerthingyforslidenav">
+	<div id="page-header">
+	<div class="alertalert">
+<div id="citizen-alert" class="clearfix">
+<div class="container">
+ <div id="alert-box"> 
+	<ul id="alert"> 
+	  <li id="alert-title"> 
+		<h2>Citizen ALERT System</h2>
+	  </li>
+	  	  <li class="alert-message"> 
+		<h3>There are currently a number of important Citizen Alerts in effect.</h3>
+		<p><a href="/portal/CAS/">View a complete listing &raquo;</a></p>
+	  </li>
+	</ul>
+ </div>
+</div>
+</div>
+</div>
+<!--End Citizen Alert-->
+
+	<!-- InstanceBeginEditable name="PhotoCredit" --><img src="/portal/img/camera-icon.png" alt="camera icon" class="tooltip" title="&lt;strong&gt;Photographer:&lt;/strong&gt; &lt;a href='http://www.flickr.com/photos/mothernaturephotos/16192326586/in/pool-mainegov'&gt;Elliot Gilfix&lt;/a&gt; &lt;br&gt; &lt;strong&gt;Location:&lt;/strong&gt; Spring Point Ledge Light" />
+	<!-- InstanceEndEditable --></div> <!--End Page Header-->
+	<div id="content-area" class="onecolumn clearfix">
+		<div id="left-wrapper" class="clearfix">
+		
+			<ol id="crumbs">
+				<li><a href="/portal/index.html">Home</a></li>
+				<!-- InstanceBeginEditable name="breadcrumbs" --><li>&raquo; Error</li>
+<!-- InstanceEndEditable -->
+			</ol>
+		
+			
+			<div id="inside-content" class="clearfix">
+			<!-- InstanceBeginEditable name="maincontent" -->
+<a name="content-area" id="content-area"></a> 
+<h1>We're sorry, but the page you requested cannot be found</h1>
+<h2>We were unable to find the page you requested, it may have been moved or renamed. </h2>
+<p>Please check the URL for any spelling or typing errors or try one of the following options: </p>
+<ul>
+  <li>
+  <form method="get" action="http://www.maine.gov/search" id="errorsearch">
+    <label for="error-search-box">Search Maine.gov: </label> 
+    <input type="text" name="q" id="error-search-box" />
+    <input type="submit" name="button" value="Search" class="search-button" />
+    <input type="hidden" name="as_sitesearch" value="http://www.maine.gov/" />
+    <input type="hidden" name="site" value="test_collection" />
+    <input type="hidden" name="output" value="xml_no_dtd" />
+    <input type="hidden" name="client" value="test_collection" />
+    <input type="hidden" name="proxystylesheet" value="test_collection" />
+  </form>
+  </li>
+  <li>Locate your topic using the <a href="/portal/sitemap.html">site map</a> or the navigation at the top of this page. </li>
+  <li>Use the <a href="/portal/government/state-agencies/">State Agency Index</a> to locate a specific state government agency. </li>
+</ul>
+
+<!-- InstanceEndEditable --></div> 
+			<!--End Inside Content-->
+		</div> <!--End Left Wrapper-->
+		<div id="right-wrapper" class="clearfix">
+			<div id="sidebar" class="clearfix">
+			
+				<div id="sidebarsearch">
+					<div class="thewhiteboxthingythatgoesaroundthesearchinthesidebar">
+						<form class="searchform" action="http://www.maine.gov/search" name="input" method="get">
+							<label class="overlabel" for="query">Search Maine.gov</label>
+							<input type="text" placeholder="Search Maine.gov" name="search" id="query" class="usagov-search-autocomplete searchtext ac_input" autocomplete="off">
+							<input type="submit" class="searchbutton" value="Search" name="button">
+							<input type="hidden" value="http://www.maine.gov/" name="as_sitesearch">
+							<input type="hidden" value="test_collection" name="site">
+							<input type="hidden" value="xml_no_dtd" name="output">
+							<input type="hidden" value="test_collection" name="client">
+							<input type="hidden" value="test_collection" name="proxystylesheet">
+						</form>
+					</div>
+				</div>
+			
+			
+			</div> <!--End Sidebar-->
+		</div> <!--End Right Wrapper-->
+	</div> <!--End Content Area-->
+<!-- Start Footer include -->
+	<div id="footer" class="clearfix">
+	<div class="container clearfix">
+		<div class="footer-column">
+			<h3>Government</h3>
+			<ul>
+				<li><a href="http://www.maine.gov/governor/">Executive</a></li>
+				<li><a href="http://legislature.maine.gov/">Legislative</a></li>
+				<li><a href="http://www.courts.state.me.us/">Judicial</a></li>
+				<li><a href="http://www.maine.gov/local/">Cities, Towns &amp; Counties</a></li>
+				<li><a href="/portal/awards/index.html">Awards</a></li>
+			</ul>
+		</div>
+		<div class="footer-column fcsupport">
+			<h3>Support</h3>
+			<ul>
+				<li><a href="/portal/help/index.html">Help</a></li>
+				<li><a href="http://www.maine.gov/msl/services/ask.htm">Ask a Librarian</a></li>
+				<li><a href="/portal/policies/index.html">Policies</a></li>
+				<li><a href="/portal/policies/privacy.html">Privacy Policy</a></li>
+				<li><a href="/portal/policies/accessibility.html">Accessibility</a></li>
+				<li><a href="/portal/contact/contactus.html">Contact Maine.gov</a></li>
+				<li><a href="/portal/survey/survey.html">User Survey</a></li>
+				<li><a href="/portal/sitemap.html">Sitemap</a></li>
+			</ul>
+		</div>
+		<div class="footer-column">
+			<h3>Connect</h3>
+			<ul>
+				<li><a href="http://www.facebook.com/pages/Augusta-ME/Mainegov/98519328240">Facebook</a></li>
+				<li><a href="https://twitter.com/#!/mainegov_news">Twitter</a></li>
+				<li><a href="/portal/subscriptions/rss.html">RSS Feeds</a></li>
+				<li><a href="/portal/mobile/">Mobile</a></li>
+				<li><a href="http://media.maine.gov/cgi-bin/media">Media Gallery</a></li>
+				<li><a href="/portal/social/">Connect with Agencies</a></li>
+			</ul>
+			
+		</div>
+		<div class="footer-column fcalerts">
+			<h3>Alerts</h3>
+			<ul>
+				<li><a href="/portal/CAS/">Citizen Alert System</a></li>
+				<li><a href="/portal/subscriptions/email.html">Email/Text Alerts</a></li>
+				<li><a href="http://www.211maine.org/">211 Maine</a></li>
+				<li><a href="http://www.newengland511.org/">511 Maine</a></li>
+				<li><a href="http://www.maine911.com/">911 Maine</a></li>
+			</ul>
+			<h3>Tools</h3>
+			<div id="google_translate_element"></div>
+			<script type="text/javascript">
+function googleTranslateElementInit() {new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+			</div>
+	<div class="footer-column fcflickr">
+		<h3>Share Your Photos with Maine.gov</h3>
+		<!-- Change the line below to flickr_2015.html from flickr.html--> 
+
+		
+<div id="carousel" class="es-carousel-wrapper">
+<div class="es-carousel">
+<ul>
+<li id="fimage"><a href="https://www.flickr.com/photos/jackbyrneshill/27580135099/"><img style="zIndex:4999" class="hovahpopovah" id="27580135099" title="Red Shed" data-who="jack byrnes hill" src="https://live.staticflickr.com/4726/27580135099_a7d4c6eaf2_q.jpg" /></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/40453104012/"><img style="zIndex:4999" class="hovahpopovah" id="40453104012" title="Wood Island" data-who="Bud in Wells, Maine" src="https://live.staticflickr.com/4748/40453104012_470cfa2d2b_q.jpg" /></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/39695484565/"><img style="zIndex:4999" class="hovahpopovah" id="39695484565" title="Storm Surge" data-who="Bud in Wells, Maine" src="https://live.staticflickr.com/4675/39695484565_055e7011cd_q.jpg" /></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/24889278888/"><img style="zIndex:4999" class="hovahpopovah" id="24889278888" title="A Day At the Beach" data-who="Bud in Wells, Maine" src="https://live.staticflickr.com/4586/24889278888_3cf478a41d_q.jpg" /></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/38547270500/"><img style="zIndex:4999" class="hovahpopovah" id="38547270500" title="Trinity Church" data-who="Bud in Wells, Maine" src="https://live.staticflickr.com/4604/38547270500_7190491e0f_q.jpg" /></a></li>
+<li id="fimage"><a href="https://www.flickr.com/photos/65039623@N05/40112666734/"><img style="zIndex:4999" class="hovahpopovah" id="40112666734" title="Around the Corner" data-who="Bud in Wells, Maine" src="https://live.staticflickr.com/792/40112666734_339996bb5a_q.jpg" /></a></li>
+
+</ul>
+</div>
+</div>
+
+		<!-- STARTFLICKER -->
+		<!-- ENDFLICKER -->
+		<p><a href="http://www.flickr.com/groups/mainegov/pool/">Visit our photo stream</a></p>
+		<div class="visitmaine">
+			<p><br />
+				<a href="http://visitmaine.com/">Visit Maine</a></p>
+		</div>
+	</div>
+	<div class="copyright">
+		<p><a href="http://www.informe.org"><img src="/portal/img/InforME_logo2.gif" alt="InforME logo" width="41px" height="29px" /></a> Copyright &copy; 2017 All rights reserved.</p>
+	</div>
+</div>
+<!--End Container-->
+</div>
+<!--End Footer-->
+</div>
+<!--End Content--> 
+<script src="/portal/js/jquery.js"></script>
+<script src="/portal/js/jquery-ui.js"></script>
+<script type="text/javascript" src="https://www.maine.gov/awt/js5/maine.js"></script>
+<script type="text/javascript" src="/portal/js/main.js"></script> 
+<script src="/portal/js/slidebars.min.js"></script> 
+<script type="text/javascript" src="/portal/js/jquery.tooltipster.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+$('.tooltip').tooltipster();
+$( "#tabs" ).tabs();
+});
+</script>  
+
+<!-- <script type="text/javascript" src="/portal/js/scripts.js"></script> -->
+<script type="text/javascript">stLight.options({publisher: "6815c4d1-6410-4f75-b7c2-aa3df0525488", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script> 
+
+<!--End Footer include-->
+</div>
+
+   <!-- Automatic GA insert w11 -->  
+  <script type="text/javascript">
+  
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31309917-1']);
+  _gaq.push(['_setDomainName', 'maine.gov']);
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+  </script>
+</body>
+<!-- InstanceEnd --></html>

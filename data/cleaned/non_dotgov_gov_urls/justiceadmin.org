@@ -1,0 +1,14 @@
+# robots.txt generated on 3/29/2018
+# Yandex bot
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /bin/
+Disallow: /cgi-bin/
+Disallow: /login/
+Disallow: /App_Data/
+Disallow: /emg/
+Disallow: /private/
+Disallow: /secure/
+Disallow: /*.back$
+Disallow: /*.bak$

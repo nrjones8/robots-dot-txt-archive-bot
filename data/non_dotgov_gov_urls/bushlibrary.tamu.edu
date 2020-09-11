@@ -1,0 +1,604 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><title>
+	George H.W. Bush Library Center
+</title><meta name="viewport" content="width=device-width, initial-scale=1" />   
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<!-- styles -->
+
+    <link rel="icon" type="image/png" href="/images/global/favicon.png" /><link href="/css/plugins/normalize.min-3.0.3.css" rel="stylesheet" /><link href="/css/plugins/bootstrap.3.2.0.css" rel="stylesheet" /><link href="/css/plugins/jquery-ui.min.css" rel="stylesheet" /><link href="/css/font-awesome.min-4.7.css" rel="stylesheet" /><link href="/css/plugins/select2.css" rel="stylesheet" /><link href="/css/plugins/slick.css" rel="stylesheet" /><link href="/css/plugins/jquery.fancybox.min-3.1.20.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700,900" rel="stylesheet" /><link href="/css/style.css?v=55" rel="stylesheet" />
+
+    <script src="/js/jquery-3.2.1.min.js"></script>
+    <script src="/js/jquery-ui.min.js?v=1"></script>
+    <script src="/js/jquery.easing.1.3.js"></script>    
+    <script src="/js/jquery.mask.min.js"></script>
+    <script src="/js/jquery.validate.min.js"></script>
+    <script src="/js/jquery.validate.additional.methods.js"></script>        
+    <script src="/js/select2.min.js"></script>
+    <script src="/js/jquery.fancybox.min.js"></script>
+    <script src="/js/mediacheck.js"></script>
+    <script src="/js/slick.min.js"></script>   
+    <script src="/js/skrollr.min.js"></script>
+    <script src="/js/masonry-4.2.2.js"></script>
+    <script src="/js/imagesloaded.js"></script>
+    <script src="/js/jquery.fitvids.js"></script>   
+    <script src="/js/hoverintent.js?v=1"></script>   
+
+    
+    <script src="/js/main.js?v=14"></script>
+
+
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WLMC86');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-T3MVNTG');
+
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- OLD ANALYTICS CODE
+         REMOVE AFTER NARA ADDS TO TAG MANAGER -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-19515776-1', 'auto');
+        ga('send', 'pageview');
+
+	</script>
+
+
+
+    <script type="text/javascript">
+
+        dataLayer = [];
+
+        $(function () {
+            var year = new Date().getFullYear();
+            $('#year').html(year);
+
+            //Google CSE
+            var cx = '015312574164358011292:d8zhhuwdjxw';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+
+            $('.search-form button').click(function (e) {
+                e.preventDefault();
+                searchSubmit();
+            })
+        });        
+
+        function searchSubmit() {
+            var q1 = $('.mobile .search-form').find('input').val();
+            var q2 = $('.no-mobile .search-form').find('input').val();
+
+            if (q1 !== "") {
+                window.location = '/search-results?q=' + q1;
+            } else if (q2 !== "") {
+                window.location = '/search-results?q=' + q2;
+            } else {
+                alert('Enter a search term');
+            }
+            
+        }
+
+    </script>
+
+    
+
+    <style type="text/css">
+
+        header div.header-bottom ul {
+            margin-top: 20px;
+        }
+
+        @media only screen and (max-height : 900px) {
+
+            header div.header-bottom ul {
+                margin-top: 0px;
+            }
+
+        }
+
+        /* 992 */
+        /* --------------------------------------------------------------- */
+        @media only screen and (max-width : 992px) {
+        
+            header {
+                position: relative;
+            }
+            .header-bottom {
+                text-align: center;
+            }
+        }
+
+    </style>
+
+    <script type="text/javascript">
+
+        
+
+        $(function () {            
+            //var index = getUrlParameter('index');
+
+            //if (index != '1' && index != '2') {
+            //    $.fancybox.open({
+            //        src: '#bpbMemorial',
+            //        padding: 0,
+            //        afterShow: function () {
+            //            setTimeout(function () {
+            //                window.location.href = "http://www.barbarapbush.com/";
+            //            }, 5000);
+            //        },
+            //        afterClose: function () {
+            //            window.location.href = "https://www.bush41.org/?index=2";
+            //        }
+            //    });
+            //}
+        });
+
+        function faqSearch() {
+
+            var url = $('#ddlFAQSelect option:selected').attr('data-href');
+            window.location = url;
+
+        }
+
+    </script>
+
+</head> 
+
+<body>  
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLMC86"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3MVNTG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+
+	<div id="divAlert" class="bush-alert">Due to the coronavirus public health emergency, the GEORGE BUSH PRESIDENTIAL LIBRARY & MUSEUM IS CURRENTLY CLOSED TO THE PUBLIC UNTIL FURTHER NOTICE. We will continue to respond to written requests at <a href="mailto:info.bush@nara.gov" target="_blank">info.bush@nara.gov</a>. Please check our website or <a href="https://archives.gov/coronavirus" target="_blank">archives.gov/coronavirus</a>  for updates on our operating hours and status.<br/><br/></div> 
+
+	<!-- add active class in case of alerts -->
+	<div id="divHeader" class="header-container active">
+		<header class="mobile">
+			<div class="header-top">
+				<div class="secondary-navigation">
+					<p>George H.W. Bush Center <img src="../images/global/mobile/down-arrow.svg" alt="down-arrow" class="down-arrow" /></p>
+					<div class="dropdown">
+						<ul>
+							<li id="lnkCenterMobile" class="title current"><a href="/">George H.W. Bush Center</a></li>
+							<li id="lnkLibraryMobile"><a href="/?index=1">Library and Museum</a></li>
+							<li><a href="/foundation">Foundation</a></li>
+							<li><a href="https://www.museumstore.com/">Museum Store</a></li>
+							<li><a href="http://bush.tamu.edu/">Bush School</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="mobile-activation">
+					<div class="hamburger"></div>
+					<h1>Menu</h1>
+				</div>
+				<div class="clear"></div>
+			</div>
+
+			<div class="navigation-menu">
+				<div class="top">
+					<ul id="ulMobileNav"><li class="has-children"><div class="parent-link">History</div><ul class="child-menu"><li class="back">History</li><li><a href="/bush/biography" >George H. W. Bush's Biography</a></li><li><a href="/bush/barbara-biography" >Barbara Bush's Biography</a></li><li><a href="/history/causes-and-interests" >Causes & Interests</a></li></ul><li class="has-children"><div class="parent-link">Plan Your Visit</div><ul class="child-menu"><li class="back">Plan Your Visit</li><li><a href="/visit/admission" >Hours & Admission</a></li><li><a href="/visit/directions" >Directions</a></li><li><a href="/visit/gravesite" >The Bush Family Gravesite</a></li><li><a href="/visit/faqs" >Frequently Asked Questions</a></li><li><a href="http://www.museumstore.com/" target="_blank">Museum Store</a></li><li><a href="/visit/group-visits" >Group Visits</a></li><li><a href="/research" >Research Visits</a></li><li><a href="/visit/helpful-links" >Helpful Links</a></li></ul><li class="has-children"><div class="parent-link">Exhibits</div><ul class="child-menu"><li class="back">Exhibits</li><li><a href="/exhibits/overview" >Overview</a></li><li><a href="/exhibits/current" >Current Rotating Exhibits</a></li><li><a href="/exhibits/future" >Future Rotating Exhibits</a></li><li><a href="/exhibits/permanent" >Permanent Exhibits</a></li><li><a href="/exhibits/past" >Past Rotating Exhibits</a></li></ul><li><a href="/events" >Events</a></li><li><a href="/research" >Research</a></li><li><a href="https://bush41library.tamu.edu/museum-collections" >Museum Collections </a></li><li class="has-children"><div class="parent-link">Education</div><ul class="child-menu"><li class="back">Education</li><li><a href="/education/overview" >Overview</a></li><li><a href="/education/planning-a-museum-field-trip" >Plan a Field Trip</a></li><li><a href="/education/reservations" >Make Field Trip Reservations</a></li><li><a href="/education/premier-education-programs" >Premier Programs</a></li><li><a href="/education/scavenger-hunts" >Scavenger Hunts</a></li><li><a href="/education/additional-education-resources" >Additional Education Resources</a></li><li><a href="/education/storytelling-field-trips" >Storytelling Programs</a></li><li><a href="/education/game-apps" >Game Apps</a></li><li><a href="/education/art-and-essay-contest" >Art & Essay Contest</a></li><li><a href="/education/summer-camps" >Summer Camps</a></li><li><a href="/education/distance-education" >Distance Education Reservations</a></li></ul><li class="has-children"><div class="parent-link">Support</div><ul class="child-menu"><li class="back">Support</li><li><a href="/foundation" >Presidential Library Foundation</a></li><li><a href="/support/volunteer-opportunities" >Volunteer Opportunities</a></li><li><a href="/donate" >Give Now</a></li><li><a href="/support/grants-scholarships" >Scholarships, Grants & Awards</a></li></ul><li class="has-children"><div class="parent-link">About Us</div><ul class="child-menu"><li class="back">About Us</li><li><a href="/about/presidential-library-and-museum" >Presidential Library and Museum</a></li><li><a href="/about/internships" >Internships</a></li><li><a href="/about/sponsored-programs" >Sponsored Programs</a></li><li><a href="/about/news-and-press" >News & Press</a></li><li><a href="/about/contact" >Contact</a></li></ul></ul>
+					<div class="input-container">
+						<form class="search-form">
+                            <!-- Used for Accessibility Standards -->
+                            <label for="txtGlobalSearch2" style="display: none;">Search</label>
+	                        <input id="txtGlobalSearch2" type="text" placeholder="Search">
+	                        <button type="submit">Submit</button>
+	                    </form>
+					</div>
+				</div>
+				<div class="bottom">
+					<div class="buttons">
+						<a href="https://www.georgeandbarbarabush.org/membership/" target="_blank"><div class="blue-button-1">Membership</div></a>
+						<a href="https://www.georgeandbarbarabush.org/contribute/" target="_blank"><div class="blue-button-2">Give Now</div></a>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+
+			<div class="header-bottom">
+				<a href="/"><img src="/images/global/george-bush-center-logo.svg" id="imgLogoMobile" alt="bush41-logo" class="logo" /></a>
+			</div>
+		</header>
+			
+		<header class="no-mobile">
+			<div class="header-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<ul>
+							    <li id="lnkCenter" class="title current"><a href="/">George H.W. Bush Center</a></li>
+							    <li id="lnkLibrary"><a href="/?index=1">Library and Museum</a></li>
+							    <li><a href="/foundation">Foundation</a></li>
+							    <li><a href="https://www.museumstore.com/">Museum Store</a></li>
+							    <li><a href="http://bush.tamu.edu/">Bush School</a></li>
+                                <li class="newsletter"><a href="/subscribe.aspx">Sign up for the Newsletter <i class="fa fa-external-link"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="header-bottom">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-5">
+							<a href="/"><img src="/images/global/george-bush-center-logo.svg" id="imgLogo" alt="bush41-logo" class="logo" /></a>
+						</div>
+						<div class="col-md-7">
+							<div class="buttons">
+								<a href="https://www.georgeandbarbarabush.org/membership/" target="_blank"><div class="blue-button-1">Membership</div></a>
+								<a href="https://www.georgeandbarbarabush.org/contribute/" target="_blank"><div class="blue-button-2">Give Now</div></a>
+								<div class="clear"></div>
+							</div>							
+	                        <form class="search-form">
+                                <!-- Used for Accessibility Standards -->
+                                <label for="txtGlobalSearch" style="display: none;">Search</label>
+	                            <input id="txtGlobalSearch" type="text" placeholder="Search">
+	                            <button type="submit">Submit</button>
+	                        </form>
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<ul id="ulWebNav"><li class="has-children"><div class="parent-link">History</div><ul class="child-menu"><li><a href="/bush/biography" >George H. W. Bush's Biography</a></li><li><a href="/bush/barbara-biography" >Barbara Bush's Biography</a></li><li><a href="/history/causes-and-interests" >Causes & Interests</a></li></ul><li class="has-children"><div class="parent-link">Plan Your Visit</div><ul class="child-menu"><li><a href="/visit/admission" >Hours & Admission</a></li><li><a href="/visit/directions" >Directions</a></li><li><a href="/visit/gravesite" >The Bush Family Gravesite</a></li><li><a href="/visit/faqs" >Frequently Asked Questions</a></li><li><a href="http://www.museumstore.com/" target="_blank">Museum Store</a></li><li><a href="/visit/group-visits" >Group Visits</a></li><li><a href="/research" >Research Visits</a></li><li><a href="/visit/helpful-links" >Helpful Links</a></li></ul><li class="has-children"><div class="parent-link">Exhibits</div><ul class="child-menu"><li><a href="/exhibits/overview" >Overview</a></li><li><a href="/exhibits/current" >Current Rotating Exhibits</a></li><li><a href="/exhibits/future" >Future Rotating Exhibits</a></li><li><a href="/exhibits/permanent" >Permanent Exhibits</a></li><li><a href="/exhibits/past" >Past Rotating Exhibits</a></li></ul><li><a href="/events" >Events</a></li><li><a href="/research" >Research</a></li><li><a href="https://bush41library.tamu.edu/museum-collections" >Museum Collections </a></li><li class="has-children"><div class="parent-link">Education</div><ul class="child-menu"><li><a href="/education/overview" >Overview</a></li><li><a href="/education/planning-a-museum-field-trip" >Plan a Field Trip</a></li><li><a href="/education/reservations" >Make Field Trip Reservations</a></li><li><a href="/education/premier-education-programs" >Premier Programs</a></li><li><a href="/education/scavenger-hunts" >Scavenger Hunts</a></li><li><a href="/education/additional-education-resources" >Additional Education Resources</a></li><li><a href="/education/storytelling-field-trips" >Storytelling Programs</a></li><li><a href="/education/game-apps" >Game Apps</a></li><li><a href="/education/art-and-essay-contest" >Art & Essay Contest</a></li><li><a href="/education/summer-camps" >Summer Camps</a></li><li><a href="/education/distance-education" >Distance Education Reservations</a></li></ul><li class="has-children"><div class="parent-link">Support</div><ul class="child-menu"><li><a href="/foundation" >Presidential Library Foundation</a></li><li><a href="/support/volunteer-opportunities" >Volunteer Opportunities</a></li><li><a href="/donate" >Give Now</a></li><li><a href="/support/grants-scholarships" >Scholarships, Grants & Awards</a></li></ul><li class="has-children"><div class="parent-link">About Us</div><ul class="child-menu"><li><a href="/about/presidential-library-and-museum" >Presidential Library and Museum</a></li><li><a href="/about/internships" >Internships</a></li><li><a href="/about/sponsored-programs" >Sponsored Programs</a></li><li><a href="/about/news-and-press" >News & Press</a></li><li><a href="/about/contact" >Contact</a></li></ul></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+    
+    
+    <section class="s1-home mobile">
+	    <div id="divMobileRotator" class="s1-image-slider"><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/Bush-Museum-Lobby-1.jpg') center no-repeat; background-size:cover;"></div></a><div class="absolute"><div class="container"><div class="row"><div class="col-md-7"><div class="transparent-box"><h1>Experience the History</h1><p><p>Experience the history of the George H.W. Bush Presidential Library and Museum virtually.</p>
+
+<p><a class="fancybox-frame" data-fancybox="" data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555077869!6m8!1m7!1se1ATKai3hXWwO6NhzdAmOg!2m2!1d30.59665888152005!2d-96.35312621217679!3f0!4f0!5f0.7820865974627469">Take a Virtual Tour Inside the Museum</a></p>
+
+<p><a class="fancybox-frame" data-fancybox="" data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555875887!6m8!1m7!1sOSy9e4uBJaibsK-kwfQoAA!2m2!1d30.5966488367736!2d-96.3540940644778!3f111.88770405627534!4f-10.578821291044136!5f0.7820865974627469">Take a Virtual Tour Outside the Museum</a></p>
+</p></div><div class="dots"></div></div></div></div></div></div><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/Bush-Center-1.jpg') center no-repeat; background-size:cover;"></div></a><div class="absolute"><div class="container"><div class="row"><div class="col-md-7"><div class="transparent-box"><h1>Preserving History Promoting Public Service</h1><p>Learn more about the man who said "any definition of a successful life must include serving others.”</p><a href="/bush/biography">Learn About George H.W. Bush</a></div><div class="dots"></div></div></div></div></div></div><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/bush-memorial.jpg') center no-repeat; background-size:cover;"></div></a></div></div>	    				
+    </section>
+
+    <section class="s1-home no-mobile">
+	    <div id="divRotator" class="s1-image-slider"><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/Bush-Museum-Lobby-1.jpg') center no-repeat; background-size:cover;"></div></a><div class="absolute"><div class="container"><div class="row"><div class="col-md-7"><div class="transparent-box"><h1>Experience the History</h1><p><p>Experience the history of the George H.W. Bush Presidential Library and Museum virtually.</p>
+
+<p><a class="fancybox-frame" data-fancybox="" data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555077869!6m8!1m7!1se1ATKai3hXWwO6NhzdAmOg!2m2!1d30.59665888152005!2d-96.35312621217679!3f0!4f0!5f0.7820865974627469">Take a Virtual Tour Inside the Museum</a></p>
+
+<p><a class="fancybox-frame" data-fancybox="" data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555875887!6m8!1m7!1sOSy9e4uBJaibsK-kwfQoAA!2m2!1d30.5966488367736!2d-96.3540940644778!3f111.88770405627534!4f-10.578821291044136!5f0.7820865974627469">Take a Virtual Tour Outside the Museum</a></p>
+</p></div><div class="dots"></div></div></div></div></div></div><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/Bush-Center-1.jpg') center no-repeat; background-size:cover;"></div></a><div class="absolute"><div class="container"><div class="row"><div class="col-md-7"><div class="transparent-box"><h1>Preserving History Promoting Public Service</h1><p>Learn more about the man who said "any definition of a successful life must include serving others.”</p><a href="/bush/biography">Learn About George H.W. Bush</a></div><div class="dots"></div></div></div></div></div></div><div><a style="display: block" href="https://georgehwbush.com"><div class="slide-image" style="background:url('https://cdn.bush41.org/homepage rotator/bush-memorial.jpg') center no-repeat; background-size:cover;"></div></a></div></div>	    							
+    </section>
+
+    <section class="s2-home">
+	    <div class="blue-1">
+		    <a class="star-box" href="/events">
+			    <div class="stars"></div>
+			    <div class="svg-wrapper">
+				    <svg width="350" height="103.67" xmlns="http://www.w3.org/2000/svg">
+					    <rect class="shape" width="350" height="103.67"></rect>
+				    </svg>
+			    </div>
+			    <h2>Upcoming Events</h2>
+			    <span>View Details</span>
+		    </a>
+	    </div>
+	    <div class="blue-2">
+		    <a class="star-box" href="/education/overview">
+			    <div class="stars"></div>
+			    <div class="svg-wrapper">
+				    <svg width="350" height="103.67" xmlns="http://www.w3.org/2000/svg">
+					    <rect class="shape" width="350" height="103.67"></rect>
+				    </svg>
+			    </div>
+			    <h2>Education Programs</h2>
+			    <span>View Details</span>
+		    </a>
+	    </div>
+	    <div class="blue-3">
+		    <a class="star-box" href="/visit/admission">
+			    <div class="stars"></div>
+			    <div class="svg-wrapper">
+				    <svg width="350" height="103.67" xmlns="http://www.w3.org/2000/svg">
+					    <rect class="shape" width="350" height="103.67"></rect>
+				    </svg>
+			    </div>
+			    <h2>Museum Admission & Hours</h2>
+			    <span>View Details</span>
+		    </a>
+	    </div>
+	    <div class="clear"></div>
+    </section>
+
+    <section class="s5-home">
+	    <div class="container">
+		    <div class="row">
+			    <div class="col-md-4">
+				    <div class="higher-zindex">
+					    <h1>Upcoming Events</h1>
+					    <p>Enjoy a variety of events hosted by the George H.W. Bush Center.</p>
+					    <a href="events"><div class="blue-button-2">See All Events</div></a>
+					    <div class="clear"></div>
+					    <p class="link"><a href="about/news-and-press">See News<img src="images/global/icon-arrow.svg" alt="right-arrow" class="right-arrow" /></a></p>
+				    </div>
+				    <img src="images/global/icon-seal.svg" alt="Bush 41 Seal" class="seal" />
+			    </div>
+			    <div class="col-md-8">
+                    
+				    <ul id="ulEvents" class="event-list"><li><div class="left"><p class="date">Sep. 14, 2020</p></div><div class="right"><h2>George to George: Shaping the Nation by Our Constitution on Facebook Live</h2><p class="details"><a href="events?event=132"> View Details</a></p><div class="clear"></div><p><p>Join historian and former attorney, Thomas Borcher, for a Facebook Live&nbsp;presentation that looks at our United States Constitution from the perspectives of the first and forty-first presidents - from George Washington to George H. W. Bush.</p>
+</p><p class="host">Hosted by: Education Department of the George Bush Presidential Library and Museum</p></div><div class="clear"></div></li><li><div class="left"><p class="date">Sep. 16, 2020</p></div><div class="right"><h2>George to George: Shaping the Nation by Our Constitution on Facebook Live</h2><p class="details"><a href="events?event=134"> View Details</a></p><div class="clear"></div><p><p>Join historian and former attorney, Thomas Borcher, for a Facebook Live&nbsp;presentation that looks at our United States Constitution from the perspectives of the first and forty-first presidents - from George Washington to George H. W. Bush.</p>
+</p><p class="host">Hosted by: Education Department of the George Bush Presidential Library and Museum</p></div><div class="clear"></div></li><li><div class="left"><p class="date">Sep. 18, 2020</p></div><div class="right"><h2>George to George: Shaping the Nation by Our Constitution on Facebook Live</h2><p class="details"><a href="events?event=133"> View Details</a></p><div class="clear"></div><p><p>Join historian and former attorney, Thomas Borcher, for a Facebook Live&nbsp;presentation that looks at our United States Constitution from the perspectives of the first and forty-first presidents - from George Washington to George H. W. Bush.</p>
+</p><p class="host">Hosted by: Education Department of the George Bush Presidential Library and Museum</p></div><div class="clear"></div></li><li><div class="left"><p class="date">Sep. 30, 2020</p></div><div class="right"><h2>"All the Best" Podcasts</h2><p class="details"><a href="events?event=128"> View Details</a></p><div class="clear"></div><p><p>The George &amp; Barbara Bush Foundation is proud to announce &quot;All the Best,&quot; a brand new weekly podcast hosted by one of the Bushes&rsquo; grandsons, Sam LeBlond.</p>
+</p><p class="host">Hosted by: George and Barbara Bush Foundation</p></div><div class="clear"></div></li><li><div class="left"><p class="date">Sep. 30, 2020</p></div><div class="right"><h2>Mrs. Bush's Story Time</h2><p class="details"><a href="events?event=127"> View Details</a></p><div class="clear"></div><p><p>This new podcast series features archived audio of Barbara&nbsp;Bush reading children&#39;s stories.&nbsp;</p>
+</p><p class="host">Hosted by: Barbara Bush Foundation for Family Literacy</p></div><div class="clear"></div></li></ul>
+			    </div>
+		    </div>
+	    </div>
+    </section>
+
+    <section class="s3-home">
+	    <div class="container">
+		    <div class="row">
+			    <div class="col-md-6">
+				    <div class="maroon-box">
+					    <h2><label for="ddlFAQSelect">Quick Links</label></h2>
+					    <div class="faq-dropdown">
+						    <select id="ddlFAQSelect">
+							    <option data-href="https://www.museumstore.com/">Looking for Museum Merchandise? Visit the Store.</option>
+							    <option data-href="/education/reservations">Interested in Class Field Trips? Make a reservation.</option>
+							    <option data-href="/education/game-apps">Interested in Learning Based Game Apps? Check them out here.</option>
+						    </select>
+						    <div class="clear"></div>
+					    </div>
+					    <button onclick="faqSearch()">Search Now!</button>
+					    <div class="clear"></div>
+				    </div>
+			    </div>
+                <div class="col-md-6">
+				    <div class="maroon-box">
+					    <h2>Newsletter Signup</h2>
+					    <p>Receive news about upcoming events, exhibits, and programs!</p>
+					    <a href="/subscribe.aspx">Sign Up Now&nbsp;&nbsp;<i class="fa fa-external-link"></i></a>
+					    <div class="clear"></div>
+				    </div>
+			    </div>
+		    </div>
+	    </div>
+    </section>
+
+    <section class="s6-home">
+	    <div class="container">
+		    <div class="row">
+			    <div class="col-md-12">
+				    <h1>Support Our Work</h1>
+				    <a href="https://www.georgeandbarbarabush.org/contribute/" target="_blank"><div class="blue-button-2">Give Now</div></a>
+				    <div class="clear"></div>
+			    </div>
+		    </div>
+		    <div class="row">
+			    <div class="col-md-4">
+				    <div class="featured-info">
+					    <div class="image" style="background:url(images/home/horses.jpg) center no-repeat;">
+						    <h2>George & Barbara Bush Foundation</h2>
+					    </div>
+					    <p>We will perpetuate the 41st President’s legacy by fulfilling his mission to prepare tomorrow's leaders for lives devoted to public service.</p>
+					    <a href="/foundation"><div class="maroon-button">Visit Foundation Website</div></a>
+					    <div class="clear"></div>
+				    </div>
+			    </div>
+			    <div class="col-md-4">
+				    <div class="featured-info">
+					    <div class="image" style="background:url(images/home/volunteers.jpg) center no-repeat;">
+						    <h2>Volunteer Opportunities</h2>
+					    </div>
+					    <p>Our volunteers reflect the love of country and service to others that President and Mrs. Bush encourage in everyone. Interested in becoming a volunteer?</p>
+					    <a href="/support/volunteer-opportunities"><div class="maroon-button">Volunteer Information</div></a>
+					    <div class="clear"></div>
+				    </div>
+			    </div>
+			    <div class="col-md-4">
+				    <div class="featured-info">
+					    <div class="image" style="background:url(images/home/museum-store.jpg) center no-repeat;">
+						    <h2>Museum Store</h2>
+					    </div>
+					    <p>Your purchases support the programming and educational goals of the George Bush H.W. Presidential Library Center.</p>
+                        <a href="http://www.museumstore.com">
+					        <div class="maroon-button">Visit the Museum Store&nbsp;&nbsp;<i class="fa fa-external-link"></i></div>
+                        </a>
+					    <div class="clear"></div>
+				    </div>
+			    </div>
+		    </div>
+	    </div>
+    </section>
+
+
+    <section class="s4-home" data-top-bottom="background-position:center top -350px;" data-bottom-top="background-position:center top 0px;">
+	    <div class="container">
+		    <div class="row">
+			    <div class="col-md-6 col-md-offset-3">
+				    <div class="transparent-box">
+					    <p>Experience the History</p>
+					    <a data-fancybox data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555077869!6m8!1m7!1se1ATKai3hXWwO6NhzdAmOg!2m2!1d30.59665888152005!2d-96.35312621217679!3f0!4f0!5f0.7820865974627469" class="fancybox-frame"><h2>Take a Virtual Tour Inside the Museum</h2></a>
+					    <a data-fancybox data-type="iframe" href="https://www.google.com/maps/embed?pb=!4v1518555875887!6m8!1m7!1sOSy9e4uBJaibsK-kwfQoAA!2m2!1d30.5966488367736!2d-96.3540940644778!3f111.88770405627534!4f-10.578821291044136!5f0.7820865974627469" class="fancybox-frame"><h2 class="last">Take a Virtual Tour Outside the Museum</h2></a>
+                        <img src="images/global/icon-stars-gray.svg" alt="three stars" class="stars" />                        
+				    </div>
+			    </div>
+		    </div>
+	    </div>
+    </section>
+
+    
+    
+
+
+
+    <footer>
+	    <div class="footer-top">
+		    <div class="container">
+			    <div class="row">
+
+				    <div class="col-md-3">
+					    <div class="footer-section">
+						    <h2>George H.W. Bush Center</h2>
+						    <ul>
+							    <li><a href="/">Library and Museum</a></li>
+							    <li><a href="/foundation">George & Barbara Bush Foundation</a></li>
+						        <li><a href="https://www.museumstore.com/">Museum Store</a></li>
+							    <li><a href="http://bush.tamu.edu/">Bush School</a></li>
+						    </ul>
+					    </div>
+					    <div class="footer-section">
+						    <h2>Support</h2>
+						    <ul>
+							    <li><a href="https://www.georgeandbarbarabush.org/contribute/" target="_blank">Why Support</a></li>
+							    <li><a href="https://www.georgeandbarbarabush.org/membership/" target="_blank">Become a Member</a></li>
+							    <li><a href="https://www.georgeandbarbarabush.org/contribute/" target="_blank">Give Now</a></li>
+							    <li><a href="/support/volunteer-opportunities">Volunteer</a></li>
+						    </ul>
+					    </div>
+				    </div>
+
+				    <div class="col-md-3">
+					    <div class="footer-section">
+						    <h2>Plan Your Visit</h2>
+						    <ul>
+							    <li><a href="/exhibits/overview">Overview</a></li>
+							    <li><a href="/research">Research Visit</a></li>
+							    <li><a href="/education/overview">Education</a></li>
+							    <li><a href="/visit/admission">Admission & Hours</a></li>
+							    <li><a href="/visit/directions">Directions</a></li>
+                                <li><a href="/visit/gravesite">The Bush Family Gravesite</a></li>
+							    <li><a href="/visit/faqs">FAQ</a></li>
+							    <li><a href="/visit/helpful-links">Helpful links for visitors</a></li>
+							    <li><a href="/visit/group-visits">Group Visits</a></li>
+							    <li><a href="http://www.museumstore.com/">Museum Store</a></li>
+						    </ul>
+					    </div>
+				    </div>
+
+				    <div class="col-md-3">
+					    <div class="footer-section">
+						    <h2>Museum Hours</h2>
+                            
+						    <p class="hours">Monday - Saturday: 9:30 a.m. - 5 p.m.<br/>Sunday: noon to 5 pm</p>
+						    <p class="last-ticket">Please note:<br />Last ticket sold daily at 4:45 p.m.</p>
+                            <p style="font-weight:700;">The Bush Library and Museum closes at noon on Christmas Eve and New Year's Eve.</p>                            
+						    <p>The Bush Library and Museum is closed annually on Thanksgiving Day, Christmas Day, and New Year's Day.</p>
+					    </div>
+					    <div class="footer-section">
+						    <a href="/education/game-apps"><h2>Learning Apps</h2></a>
+						    <ul class="learning-apps">
+							    <li><a href="http://presidentialtravelmissionindia.com/#components/intro/view.html" target="_blank">Presidential Travel Mission: India</a><i class="fa-external-link fa"></i></li>
+                                <li><a href="http://www.chinadiplomaticdragon.com/" target="_blank">China, Diplomatic Dragon</a><i class="fa-external-link fa"></i></li>
+                                <li><a href="http://whitehousedinnerdash.com/" target="_blank">White House Dinner Dash </a><i class="fa-external-link fa"></i></li>
+							    <li><a href="https://www.coldwardare.org/" target="_blank">Cold War Dare</a><i class="fa-external-link fa"></i></li>
+						    </ul>
+					    </div>
+				    </div>
+
+				    <div class="col-md-3">
+					    <div class="footer-section social">
+						    <h2>Stay Connected</h2>
+                            <div id="divLibrarySocial">
+                                <h5>Bush Library and Museum</h5>
+						        <ul class="social">
+							        <li style="background:url(/images/global/social-nb-twitter.svg) center no-repeat #282f38;"><a href="https://twitter.com/bush41library" target="_blank" aria-label="twitter-link"></a></li>
+							        <li style="background:url(/images/global/social-nb-facebook.svg) center no-repeat #282f38;"><a href="https://www.facebook.com/bush41library" target="_blank" aria-label="facebook-link"></a></li>
+                                    <li style="background:url(/images/global/social-nb-instagram.svg) center no-repeat #282f38;"><a href="https://www.instagram.com/bush41library" target="_blank" aria-label="instagram-link"></a></li>
+							   	    <li style="background:url(/images/global/social-nb-flickr.svg) center no-repeat #282f38;"><a href="https://www.flickr.com/photos/georgebushlibrary/" target="_blank" aria-label="flickr-link"></a></li>
+							        <li style="background:url(/images/global/social-nb-youtube.svg) center no-repeat #282f38;"><a href="http://www.youtube.com/user/TheBushLibrary" target="_blank" aria-label="youtube-link"></a></li>
+						        </ul>
+                            </div>
+                            <div id="divFoundationSocial">
+                                <h5>George & Barbara Bush Foundation</h5>
+						        <ul class="social">
+							        <li style="background:url(/images/global/social-nb-twitter.svg) center no-repeat #282f38;"><a href="https://twitter.com/bushfdn" target="_blank" aria-label="twitter-link"></a></li>
+							        <li style="background:url(/images/global/social-nb-facebook.svg) center no-repeat #282f38;"><a href="https://www.facebook.com/bushfdn" target="_blank" aria-label="facebook-link"></a></li>
+							   	    <li style="background:url(/images/global/social-nb-instagram.svg) center no-repeat #282f38;"><a href="https://www.instagram.com/bushfdn" target="_blank" aria-label="instagram-link"></a></li>
+							        <li style="background:url(/images/global/social-nb-youtube.svg) center no-repeat #282f38;"><a href="http://www.youtube.com/user/41President" target="_blank" aria-label="youtube-link"></a></li>
+						        </ul>
+                            </div>
+					    </div>
+                        <div class="nara-logo">
+                            <a href="https://www.archives.gov/" target="_blank"><img src="/images/global/nara_logo.png" alt="National Archives logo" /></a>
+                        </div>
+					   
+                        <div class="newsletter-signup">
+						    <div class="stars"></div>
+						    <h2>Newsletter Signup</h2>
+						    <p>Receive news about upcoming events, exhibits, and programs!</p>
+                            <a href="/subscribe.aspx"><div class="blue-button-1">Sign Up Now&nbsp;&nbsp;<i class="fa fa-external-link"></i></div></a>
+						    
+					    </div>
+                        
+				    </div>
+
+			    </div>
+		    </div>
+	    </div>
+	    <div class="footer-bottom">
+		    <div class="container">
+			    <div class="row">
+				    <div class="col-md-12">
+					    <div class="emblem back-up"><img alt="Bush 41 Shield" src="/images/global/icon-emblem.svg" /></div>
+					    <ul>
+						    <li><a href="/privacy-policy">Privacy Policy</a></li>
+						    <li><a href="/about/contact">Contact</a></li>
+                            <li><a href="https://www.archives.gov/global-pages/accessibility" target="_blank">Accessibility&nbsp;<i class="fa fa-external-link"></i></a></li>
+                            <li><a href="https://www.archives.gov/foia/" target="_blank">Freedom of Information Act&nbsp;<i class="fa fa-external-link"></i></a></li>
+					    </ul>
+				    </div>
+				    
+			    </div>
+		    </div>
+	    </div>
+    </footer>
+
+</body>
+</html>

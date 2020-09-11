@@ -1,0 +1,359 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!--<head>-->
+<!--    <title>PaymentAccuracy.gov</title>-->
+<!--</head>-->
+
+
+
+<head>
+  <!-- Basic Page Needs
+    ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="robots" content="index,follow">
+  <!-- Mobile Specific Metas
+    ================================================== -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title and meta description
+    ================================================== -->
+  <title>PaymentAccuracy.gov</title>
+  <meta property="og:title" content="PaymentAccuracy.gov">
+  <meta name="description" content="A Gateway to Getting Payments Right">
+  <meta name="keyword" content="">
+  <meta property="og:description" content="A Gateway to Getting Payments Right">
+
+ <!-- <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@18F" />
+  <meta name="twitter:title" content="" />
+  <meta name="twitter:description" content="Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis." />-->
+
+  <meta property="og:type" content="article">
+  <link rel="canonical" href="/">
+  <meta property="og:url" content="/">
+  <!-- Favicons
+    ================================================== -->
+  <!-- 128x128 -->
+  <link rel="shortcut icon" type="image/ico" href="/assets/favicons/favicon.ico">
+  <link rel="icon" type="image/png" href="/assets/favicons/favicon.png">
+  <!-- 192x192, as recommended for Android
+    http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+    -->
+  <link rel="icon" type="image/png" sizes="192x192" href="/assets/favicons/favicon-192.png">
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="/assets/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/favicons/favicon-144.png">
+  <!-- CSS
+    ================================================== -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/slick.css?1599660568048370683">
+  <link rel="stylesheet" type="text/css" href="/assets/css/slick-theme.css?1599660568048370683">
+  <link rel="stylesheet" type="text/css" href="/assets/css/magnific-popup.css?1599660568048370683">
+  <link rel="stylesheet" type="text/css" href="/assets/index.css?1599660568048370683">
+  <link rel="stylesheet" type="text/css" href="/assets/main-page.css?1599660568048370683">
+
+    <link rel="stylesheet" type="text/css" href="/assets/index.css">
+    <link rel="stylesheet" type="text/css" href="/assets/main-page.css">
+
+
+</head>
+
+
+<body class="site-margin">
+
+
+<div class="page-landing-page layout-demo ">
+  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+  <div class="usa-banner">
+    <div class="usa-accordion">
+      <header class="usa-banner__header">
+        <div class="usa-banner__inner">
+          <div class="grid-col-auto">
+            <img class="usa-banner__header-flag" alt="U.S. flag" src="/assets/us_flag_small.png">
+          </div>
+          <div class="grid-col-fill tablet:grid-col-auto">
+            <p class="usa-banner__header-text">An official website of the United States government</p>
+            <p class="usa-banner__header-action" aria-hidden="true">Here's how you know</p>
+          </div>
+          <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner">
+            <span class="usa-banner__button-text">Here's how you know</span>
+          </button>
+        </div>
+      </header>
+      <div class="usa-banner__content usa-accordion__content" id="gov-banner">
+        <div class="grid-row grid-gap-lg">
+          <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" alt="Dot gov" src="/assets/icon-dot-gov.svg">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>The .gov means it's official.</strong>
+                <br>
+                Federal Government websites often end in .gov or .mil. Before sharing sensitive information, make sure
+                you're on a Federal Government site.
+              </p>
+            </div>
+          </div>
+          <div class="usa-banner__guidance tablet:grid-col-6">
+            <img class="usa-banner__icon usa-media-block__img" alt="Https" src="/assets/icon-https.svg">
+            <div class="usa-media-block__body">
+              <p>
+                <strong>The site is secure.</strong>
+                <br>
+                The <strong>https://</strong> ensures that you are connecting to the official website and that any
+                information you provide is encrypted and transmitted securely.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="usa-overlay"></div>
+</div>
+
+
+
+
+<header class="usa-header usa-header--extended" role="banner">
+    <div class="usa-navbar">
+        <div class="usa-logo" id="logo">
+
+            
+            </h1>
+
+            
+
+                
+
+                
+                <em class="usa-logo-text">
+                    <a href="https://www.paymentaccuracy.gov" accesskey="1" title="Payment Accuracy Page"
+                        aria-label="Payment Accuracy Page">
+                        PaymentAccuracy
+                    </a>
+                </em>
+            </h1>
+            
+
+        </div>
+        <!-- <div><a class="margin-1em font-sans-md text-underline connectToCFO" href="https://www.cfo.gov">&#10094; &nbsp;
+                Connect to CFO</a></div> -->
+        <button class="usa-menu-btn">Menu</button>
+    </div>
+    <nav role="navigation" class="usa-nav">
+        <div class="usa-nav__inner">
+            <button class="usa-nav__close"><img alt="close" src="/assets/close.svg"></button>
+            
+            <ul class="usa-nav__primary usa-accordion" >
+                
+                
+                
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link"
+                        href="/about-payment-accuracy/"><span>About</span></a>
+                </li>
+                
+                
+                
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link"
+                        href="/payment-accuracy-high-priority-programs/"><span>Program Scorecards</span></a>
+                </li>
+                
+                
+                
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link"
+                        href="/payment-accuracy-the-numbers/"><span>The Numbers</span></a>
+                </li>
+                
+                
+                
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link"
+                        href="/payment-accuracy-resources/"><span>Resources</span></a>
+                </li>
+                
+                
+                
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link"
+                        href="/payment-accuracy-FAQ/"><span>FAQ</span></a>
+                </li>
+                
+            </ul>
+            
+            <div class="usa-nav__secondary secondary-nav-padding">
+                <ul class="usa-nav__secondary-links">
+                    
+                    <li class="usa-nav__secondary-item">
+                        <a href="mailto:CFOC.support@gsa.gov">Contact Us</a>
+                    </li>
+                    
+                </ul>
+                
+
+
+  
+    <form id="search_form" class="usa-search usa-search--small" action="https://search.usa.gov/search" accept-charset="UTF-8" method="get">
+  
+    
+  
+    <input name="utf8" type="hidden" value="&#x2713;" />
+    <input name="affiliate" type="hidden" value="cfoc" />
+  
+    <div role="search">
+      <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
+      <input class="usa-input usagov-search-autocomplete" id="extended-search-field-small" type="search" name="query" autocomplete="off">
+      <button class="usa-button search-button" type="submit"><span class="usa-sr-only">Search</span></button>
+    </div>
+  </form>
+
+
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<main id="main-content">
+    <div><section class="usa-hero grid-container paymentaccuracy padding-bottom-9">
+    <div class="grid-row grid-gap center">
+<!--        <div class="grid-col-auto grid-offset-1">-->
+<!--            <img class="circle-card float-left" src="/assets/images/logos/.jpg" alt="priority" />-->
+<!--        </div>-->
+        <div class="grid-col-8 grid-container">
+            <div><h1 class="font-sans-3xl text-center margin-bottom-0">PaymentAccuracy.gov</h1></div>
+            <div><p class="margin-0 font-sans-lg text-center">A Gateway to Getting Payments Right</p></div>
+        </div>
+    </div>
+</section>
+
+<section class=" grid-container clearfix margin-top-5 padding-0">
+    <div class="grid-offset-2 grid-col-8 priority-tag-line font-heading-lg text-center text-primary-darker">
+        Effective stewardship of taxpayer funds is a critical responsibility of the
+        Federal Government. <br>This site is a window into Federal agencies progress toward
+        improving the prevention and recovery of improper payments.
+
+    </div>
+</section>
+
+
+<section class="usa-graphic_list usa-section usa-prose clearfix margin-top-0 padding-top-0">
+
+    <div class="grid-row clearfix grid-container priority-icons">
+        <div class="grid-col-4 text-center margin-y-10">
+            <a href="/payment-accuracy-high-priority-programs/" class="text-no-underline">
+                <img class="circle-image" src="https://www.cfo.gov/wp-content-2/uploads/2019/06/fitara-icon-300x300.png" alt="Programs Logo" />
+                <h2 class="text-gray-70 text-normal section_font">Program Scorecards</h2></a>
+            <p style="margin-left:5px; margin-right:5px;">The government can achieve the greatest return on investment for the taxpayer by ensuring that improper payments are mitigated
+                in the highest-risk programs, otherwise known as "high-priority programs." In pursuing reforms, the government must balance
+                its responsibilities for reducing improper payments with the goal of providing fast and accurate payments to millions of
+                beneficiaries.  Understand what agencies are doing to overcome unique challenges and obstacles.</p>
+        </div>
+
+        <div class="grid-col-4 text-center margin-y-10">
+            <a href="/payment-accuracy-the-numbers/" class="text-no-underline">
+                <img class="circle-image" src="https://www.cfo.gov/wp-content-2/uploads/2019/06/tbm-icon-300x300.png" alt="Numbers Logo" />
+                <h2 class="text-gray-70 text-normal section_font">The Numbers</h2></a>
+            <p style="margin-left:5px; margin-right:5px;">It is important to note that improper payments typically account for a small percentage of a program's total outlays.
+                Data collected on improper payments is available for download. This includes data on rates, recoveries, dollar amounts, root causes, and more.</p>
+        </div>
+
+        <div class="grid-col-4 text-center margin-y-10">
+            <a href="/payment-accuracy-resources/" class="text-no-underline">
+                <img class="circle-image" src="https://www.cfo.gov/wp-content-2/uploads/2019/06/resources-icon-300x300.png" alt="Resources Logo" />
+                <h2 class="text-gray-70 text-normal section_font">Resources</h2></a>
+            <p style="margin-left:5px; margin-right:5px;">Want even more information on improper payments? We have a list of useful improper payment resources, including agency specific data,
+                laws, and implementing guidance.</p>
+        </div>
+    </div>
+</section>
+</div>
+</main>
+
+<footer class="usa-footer">
+    <div class="grid-container margin-top-2 margin-bottom-2">
+        <a href="#" class="usa-button usa-button--outline border-0">Return to top</a>
+    </div>
+
+    <div class="usa-footer__secondary-section">
+
+        
+
+        <div class="footer-section-bottom bg-base-lighter">
+            <div class="grid-container">
+                <div class="usa-graphic-list__row grid-row grid-gap padding-3 ">
+
+                    <div class="col-md-4">
+                        <div id="text-3" class="widget widget_text">
+                            <div class="textwidget"><p><a href="https://www.usaspending.gov/#/about/accessibility">Accessibility</a> | <a href="https://www.usaspending.gov/#/about/privacy"> Privacy Policy</a></p>
+                            </div>
+                        </div>
+                        <div id="text-4" class="widget widget_text">
+                            <div class="textwidget">
+                                <p><a href="http://www.performance.gov">Performance.gov</a> | <a href="https://www.whitehouse.gov/">Whitehouse.gov</a> | <a href="https://www.usa.gov/">USA.gov</a> | <a href="https://www.usaspending.gov/#/">USAspending.gov</a> | <a href="https://fiscal.treasury.gov/DNP/">Fiscal.Treasury.gov&nbsp;</a></p>
+                            </div>
+                        </div>
+                        <div id="text-6" class="widget widget_text">
+                            <div class="textwidget">
+                                <p><a href="https://www.gao.gov/about/what-gao-does/fraudnet/">Report Fraud, Waste and Abuse</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
+
+</footer>
+
+
+<!-- Digital Analytics Program roll-up, see https://analytics.usa.gov for data -->
+<script type="text/javascript" src="https://federalist.18f.gov/assets/js/3/jquery.min.js"></script>
+
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="/assets/js/isotope.pkgd.min.js"></script>
+<script src="/assets/js/isotope.settings.js"></script>
+
+
+
+<script src="/assets/uswds.min.js" type="text/javascript"></script>
+<script src="/assets/app.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/assets/js/slick.js?1599660568048370683"></script>
+<script type="text/javascript" src="/assets/js/magnific-popup.js?1599660568048370683"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        jQuery('.top').slick({
+            lazyLoad: 'ondemand', // ondemand progressive anticipated
+            infinite: true,
+            dots:true,
+            arrows:false
+        });
+        jQuery('.image-link').magnificPopup({
+            type:'inline',
+            midClick: true
+        });
+    });
+
+</script>
+
+</body>
+
+</html>

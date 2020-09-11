@@ -1,0 +1,393 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+    <meta name="Generator" content="iWeb 3.0.1" />
+    <meta name="iWeb-Build" content="local-build-20100328" />
+
+    <meta name="viewport" content="width=700" />
+	<meta name="google-site-verification" content="jghz3R5f-_4FZffwq_PeTc3X36aF5JnsPC26WU5sH0Y" />
+    <link rel="stylesheet" type="text/css" media="screen,print" href="Home_files/Home.css" />
+    <!--[if lt IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Home_files/HomeIE.css'/><![endif]-->
+    <!--[if gte IE 8]><link rel='stylesheet' type='text/css' media='screen,print' href='Media/IE8.css'/><![endif]-->
+    <style type="text/css">
+/*<![CDATA[*/
+	@import "Scripts/Widgets/HTMLRegion/Paste.css";
+/*]]>*/
+</style>
+    <script type="text/javascript" src="Scripts/iWebSite.js"></script>
+    <script type="text/javascript" src="Scripts/iWebImage.js"></script>
+    <script type="text/javascript" src="Scripts/iWebMediaGrid.js"></script>
+    <script type="text/javascript" src="Scripts/Widgets/SharedResources/WidgetCommon.js"></script>
+    <script type="text/javascript" src="Scripts/Widgets/HTMLRegion/Paste.js"></script>
+    <script type="text/javascript" src="Home_files/Home.js"></script>
+  <meta name="robots" content="follow,index" />
+  <script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+// Comma separated list of images to rotate 
+var imgs = new Array('Explore_files/photos/main.street.454.264.jpg', 'Explore_files/photos/old.horsedrawn.jpg','Explore_files/photos/log.drive.454.264.jpg', 'Explore_files/photos/old.horses.snow.field.454.264.jpg', 'Explore_files/photos/old.snow.fence.454.264.jpg', 'Explore_files/photos/valley.454.264.jpg', 'Explore_files/photos/old.snowstorm.454.264.jpg');
+// delay in milliseconds between image swaps 1000 = 1 second 
+var delay = 4000;
+var counter = 0;
+
+function preloadImgs(){
+  for(var i=0;i<imgs.length;i++){
+    MM_preloadImages(imgs[i]);
+  }
+}
+
+function randomImages(){
+  if(counter == (imgs.length)){
+    counter = 0;
+  }
+  MM_swapImage('rotator', '', imgs[counter++]);
+  setTimeout('randomImages()', delay);
+}
+
+
+
+//-->
+  </script>
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ROBOTS" content="ALL">
+	
+<meta name="description" content="Official Municipal Website of the Town of Bingham Maine."> 
+<meta name="ROBOTS" content="ALL">
+<meta name="keywords" content="town, bingham, maine">
+<title>Official Website of the Town of Bingham, Maine</title>
+
+
+
+<link href="/scripts.new/tpl/728navstyle.css" rel="stylesheet" type="text/css" />	
+
+<!--[if IE 6]>
+<style>	
+#sidebar {		
+		left: 850px;
+}
+
+#toolbar {
+	width: 1144px;
+}
+
+#map {
+    position: absolute; 
+	width: 700px;     
+
+}
+
+#content {
+	height: 100%;	
+}
+</style>
+<![endif]-->  
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21458630-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+   
+
+</head>
+<body class="sidebar-right standby">
+
+<div id="toolbar">
+
+
+	
+
+
+<div id="logo">
+<center>
+<br>
+<font face="century gothic" size="2">
+Official Municipal Website<br>
+<font size="5">Town of Bingham, Maine</font></center>
+<hr/>
+		
+<center>
+<img src="http://www.binghammaine.org/images/kennebec.foliage.160.100.jpg" height="100" width="157"> 
+<img src="http://www.binghammaine.org/images/loon.150.100.jpg" height="100" width="157"> 
+<img src="http://www.binghammaine.org/images/eagle.standing.158.100.jpg" height="100" width="157"> 
+<img src="http://www.binghammaine.org/images/bird.yellow.160.100.jpg" height="100" width="157"> 
+<img src="http://www.binghammaine.org/images/fish.151.100.jpg" height="100" width="157"> 
+<img src="http://www.binghammaine.org/images/sunset.159.100.jpg" height="100" width="157"> 
+
+
+</center>
+	</div>
+	
+
+</div>
+
+<div id="content">
+
+
+
+
+
+	<div id="navContainer">
+		<div id="nav" class="clearfix">
+<ul id="header_menu" class="menu">
+
+<li class="menu-sibling menu-first"><a href="http://www.binghammaine.org/index.php" target="_top">Home</a></li>
+
+<li class="menu-sibling"><a href="http://www.binghammaine.org/calendar.php" target="_top">Town Calendar</a></li>
+
+<li class="menu-sibling"><a href="http://www.binghammaine.org/officials.php" target="_top">Town Officials</a></li>
+
+<li class="menu-sibling"><a href="http://www.binghammaine.org/tax.php" target="_top">Tax & Registrations</a></li>
+
+
+<li class="menu-sibling"><a href="http://www.binghammaine.org/fire.php" target="_top">Fire Department</a></li>
+
+<!--
+<li class="menu-expand menu-sibling"><a href="http://www.binghammaine.org/fire.php" target="_top">Fire Department</a><ul class="">
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/fire-anniversary.php" target="_top">&nbsp;&nbsp;100th Anniversary</a></li>
+</ul></li>
+-->
+
+<li class="menu-sibling"><a href="http://www.binghammaine.org/explore.php" target="_top">Explore Bingham</a></li>
+
+<!--
+<li class="menu-sibling"><a href="http://www.binghammaine.org/bicentennial.php" target="_top">Bicentennial</a></li>
+-->
+
+
+
+<li class="menu-expand menu-sibling"><a href="http://www.binghammaine.org/family-fun-week.php" target="_top">Events</a><ul class="">
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/family-fun-week.php" target="_top">&nbsp;&nbsp;Family Fun Week</a></li>
+</ul></li>
+
+
+<li class="menu-expand menu-sibling"><a href="http://www.binghammaine.org/bicentennial.php" target="_top">Historic Events</a><ul class="">
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/bicentennial.php" target="_top">&nbsp;&nbsp;2012 Bicentennial</a></li>
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/fire-anniversary.php" target="_top">&nbsp;&nbsp;2011 Fire Dep't Centennial</a></li>
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/centennial/index.php#1962" target="_top">&nbsp;&nbsp;1962 Sesquicentennial</a></li>
+<li class="menu-child menu-first"><a href="http://www.binghammaine.org/centennial/index.php" target="_top">&nbsp;&nbsp;1912 Centennial</a></li>
+
+</ul></li>
+
+
+
+<!--
+<li class="menu-sibling"><a href="http://www.binghammaine.org/privacy.php" target="_top">Resources</a></li>
+-->
+
+
+
+</ul>
+
+
+
+
+<br />
+	</div><!-- end nav -->
+	</div><!-- end navContainer -->
+
+
+
+<!--Place Texts start --------------->
+
+<body onload="onPageLoad();preloadImgs(); randomImages();" onunload="onPageUnload();">
+
+<div id="daydate">
+<b>
+<div id="date">
+
+Friday<br>September 11, 2020
+</div>
+</b>
+</div>
+
+<div id="container-home">
+
+<div id="infoblock">
+
+<p>Bingham Town Office<br>
+13 Murray Street<br>
+Bingham, ME 04920<br><br>
+
+Office Hours:<br>
+Monday - Thursday:<br>
+8AM-12PM : 1PM-4:15PM<br><br>
+Friday:<br>
+8AM-12PM : 1PM-3:30PM<br><br>
+
+Selectmen Meetings:<br>
+Tuesdays at 7PM<br>
+At Town Office<br><br>
+
+
+Phone: 207-672-5519<br>
+Fax: 207-672-3080<br><br>
+
+Mailing address:<br>
+P.O. Box 652<br>
+Bingham, Me. 04920<br><br>
+
+Transfer Station<br>
+Summer Hours:<br>
+Saturday, Sunday<br>
+7AM - 4PM<br>
+Monday<br>
+11AM - 7PM<br><br>
+
+Transfer Station<br>
+Winter Hours:<br>
+Saturday, Sunday, Monday<br>
+7AM - 4 PM<br><br>
+
+
+
+<a href="http://www.binghammaine.org/privacy.php">Privacy Policy</a></b></p>
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<!--
+<p>Bingham Town Office<br>
+13 Murray Street<br><br>
+
+Office Hours:<br>
+Monday - Friday:<br>
+9AM - Noon & 1PM - 4PM<br><br>
+
+Selectmen Meetings:<br>
+Tuesdays at 7PM<br>
+At Town Office<br><br>
+
+
+Phone: 207-672-5519<br>
+Fax: 207-672-3080<br><br>
+
+Mailing address:<br>
+P.O. Box 652<br>
+Bingham, Me. 04920<br><br>
+
+Transfer Station<br>
+Summer Hours:<br>
+Saturday, Sunday<br>
+7AM - 4PM<br>
+Monday<br>
+11AM - 7PM<br><br>
+
+Transfer Station<br>
+Winter Hours:<br>
+Saturday, Sunday, Monday<br>
+7AM - 4 PM<br><br>
+
+
+
+<a href="http://www.binghammaine.org/privacy.php">Privacy Policy</a></b></p>
+<br><br><br><br><br><br><br><br><br><br><br>
+-->
+             
+</div>
+
+<div id="textblock-home">
+
+
+
+
+<p style="font-size:13px">
+
+<!--
+<b>Christmas in Bingham</b><br><br>
+Bingham's Christmas Tree Lighting is tenatively scheduled for Friday, December 2nd at 5 p.m. in front of the Old Free Meeting House (Main Street).<br><br>
+
+Santa Claus will be in Bingham on December 11th from 1 p.m. to 3 p.m. at the Quimby School.  Free to all children between the ages of new born & 12 year of age.  MUST live in the Upper Kennebec Valley Area (Solon, Bingham, Concord, Pleasant Ridge, Moscow, Caratunk, The Forks & West Forks).<br><br>
+
+Parents or guardians must sign children up before December 3rd (sign up available at Solon Corner Market, Bingham Town Office, Bingham Library, Chamber Building, Moscow Town Office & Berry's General Store).<br><br>
+-->
+
+
+<b>Bingham, Maine</b><br><br>
+Located in Somerset County, Maine, Bingham is a town of more than 250 families along the Kennebec River, about 4 miles from Wyman Lake. Named for landowner William Bingham, the town was established in 1812.<br><br>
+
+<center><a href="http://www.binghammaine.org/bell.php"><img src="http://www.binghammaine.org/Home_files/mtghsecolor2.png" alt title="Bingham, Maine Old Free Meeting House"></a><br>
+<a href="http://www.binghammaine.org/bell.php">Learn more about the Revere Bell<br>
+atop the Old Free Meeting House</a></center>
+
+
+<br><br><br><br>
+
+
+<center>
+<a href="https://www.facebook.com/pages/Town-Of-Bingham/250649288315089"><img src="http://www.binghammaine.org/images/facebook.jpg"></a><br><br>
+See our Facebook page for Updates</center><br>
+
+<!-- Dropbox CMS Embed 
+<div id="cmsblock-home">
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Dropbox - 404</title>
+<link href="https://cfl.dropboxstatic.com/static/css/error.css" rel="stylesheet" type="text/css"/>
+<link rel="shortcut icon" href="https://cfl.dropboxstatic.com/static/images/favicon.ico"/>
+</head>
+<body>
+<div class="figure">
+<img src="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo.png" srcset="https://cfl.dropboxstatic.com/static/images/illustration_catalog/404_error-illo@2x.png 2x" alt="Error: 404"/>
+</div>
+<div id="errorbox">
+<div class="not-found"> <h1>Error (404)</h1> We can't find the page you're looking for. <div class="not-found--links"> Here are a few links that may be helpful: <ul> <li><a href="https://www.dropbox.com/home?_tk=fof">Home</a></li> <li><a href="https://www.dropbox.com/help?_tk=fof">Help center</a></li> <li><a href="https://www.dropbox.com/login?_tk=fof">Sign in</a></li> <li><a href="https://www.dropbox.com/register?_tk=fof">Get a free account</a></li> <li><a href="https://www.dropbox.com/plus?_tk=fof">Dropbox Plus</a></li> <li><a href="https://www.dropbox.com/business?_tk=fof">Dropbox Business</a></li> </ul> </div> </div>
+</div>
+
+</body>
+</html>
+</div>
+End Dropbox CMS Embed -->
+
+<!--
+<center><img src="Explore_files/photos/main.street.454.264.jpg" name="rotator" style="border: none; height: 264px; width: 454px; " /></center>
+<br><br>
+-->
+
+
+</div>
+</div>
+ 
+

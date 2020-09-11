@@ -1,0 +1,14 @@
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Sogou web spider/4.0
+Disallow: /
+User-agent: Blekkobot
+Crawl-delay: 30
+User-agent: *
+#Disallow: /
+Crawl-delay: 30
+Visit-time: 0400-1100 # only visit between 00:00 (12am) and 07:00 (7am) EST
+Disallow: /data_import
+Disallow: /fusioncharts
+Allow: /
+Disallow: /javascript

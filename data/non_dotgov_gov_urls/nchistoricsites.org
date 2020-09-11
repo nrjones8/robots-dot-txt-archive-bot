@@ -1,0 +1,2623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <link rel="manifest" href="/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="apple-touch-icon" href="/apple-icon-76x76.png" sizes="76x76" />
+<link rel="icon" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="/favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="/apple-icon-180x180.png" sizes="180x180" />
+<link rel="apple-touch-icon" href="/apple-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" href="/apple-icon-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon" href="/apple-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" href="/apple-icon-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon" href="/apple-icon-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon" href="/apple-icon-60x60.png" sizes="60x60" />
+<link rel="apple-touch-icon" href="/apple-icon-57x57.png" sizes="57x57" />
+<link rel="icon" href="/favicon-16x16.png" sizes="16x16" />
+<meta name="description" content="NC State Historic Sites preserves, operates and interprets significant historic sites across the state enabling visitors to explore North Carolina&#039;s history." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://historicsites.nc.gov/" />
+<link rel="shortlink" href="https://historicsites.nc.gov/" />
+  <meta http-equiv="cleartype" content="on">
+  <title>North Carolina Historic Sites</title>
+  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <style type="text/css" media="all">
+@import url("//historicsites.nc.gov/modules/system/system.base.css?qffvma");
+@import url("//historicsites.nc.gov/modules/system/system.menus.css?qffvma");
+@import url("//historicsites.nc.gov/modules/system/system.theme.css?qffvma");
+</style>
+<style type="text/css" media="all">
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qffvma");
+</style>
+<style type="text/css" media="all">
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qffvma");
+@import url("//historicsites.nc.gov/modules/aggregator/aggregator.css?qffvma");
+@import url("//historicsites.nc.gov/modules/comment/comment.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qffvma");
+@import url("//historicsites.nc.gov/modules/field/theme/field.css?qffvma");
+@import url("//historicsites.nc.gov/modules/node/node.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qffvma");
+@import url("//historicsites.nc.gov/modules/user/user.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/views/css/views.css?qffvma");
+</style>
+<style type="text/css" media="all">
+@import url("//historicsites.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qffvma");
+@import url("//historicsites.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qffvma");
+@import url("//historicsites.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qffvma");
+</style>
+<style type="text/css" media="all">
+@import url("//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qffvma");
+</style>
+<style type="text/css" media="print">
+@import url("//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qffvma");
+</style>
+<link type="text/css" rel="stylesheet" href="//historicsites.nc.gov/profiles/nc_site_alt/themes/nc_site_theme_one/css/style-site-theme-light-elegant-font-one.css?qffvma" media="all" />
+  <!--[if IE 8]><script src="profiles/nc_site_alt/themes/nc_site_theme_one/js/libs/EventListener.js"></script><![endif]-->
+  <!--[if IE 8]><script src="profiles/nc_site_alt/themes/nc_site_theme_one/js/libs/selectivizr-min.js"></script><![endif]-->
+  <script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute = true; jQuery.migrateTrace = false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/misc/drupal.js?qffvma"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_site_theme_one","theme_token":"gz4Z5hRazKKhQamvSZRgcavKcU2v-Hp0Yn0-k54-n2M","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/modules\/features\/nc_carousel\/nc_carousel.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts_handler.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/nc_site_alt\/modules\/custom\/nc_background_video\/js\/nc_background_video.js":1,"profiles\/nc_site_alt\/modules\/custom\/nc_mega_menu\/js\/nc_mega_menu.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/nc_site_alt\/themes\/nc_site_theme_one\/css\/style-site-theme-light-elegant-font-one.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":"2","trackCrossDomains":["https:\/\/historicsites.nc.gov\/all-sites\/alamance-battleground","https:\/\/historicsites.nc.gov\/all-sites\/bennett-place","https:\/\/historicsites.nc.gov\/all-sites\/bentonville-battlefield"]},"urlIsAjaxTrusted":{"\/":true},"nc_alerts":{"options":{"transitionStyle":"goDown","navigation":true,"slideSpeed":500,"paginationSpeed":500,"singleItem":true,"mouseDrag":false,"callbacks":true,"addClassActive":true,"autoHeight":true,"navigationText":["\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E"]}},"currentUser":0,"field_group":{"div":"full"},"collapseAccordions":null});
+//--><!]]>
+</script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qffvma"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qffvma"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qffvma"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-11739208-16", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["https:\/\/historicsites.nc.gov\/all-sites\/alamance-battleground","https:\/\/historicsites.nc.gov\/all-sites\/bennett-place","https:\/\/historicsites.nc.gov\/all-sites\/bentonville-battlefield"]);ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/nc_site_alt/modules/custom/nc_background_video/js/nc_background_video.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/nc_site_alt/modules/custom/nc_mega_menu/js/nc_mega_menu.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qffvma"></script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-3 node-type-landing-page i18n-en footer-columns enterprise-core-dark" >
+<!--[if lt IE 9]>
+<div class="alert-box breaking outdated-browser">
+  <h3>Did you know that your browser is out of date?</h3>
+  <p>Your browser is out of date and may not be able to properly display our website. <a href="http://outdatedbrowser.com/" title="Outdated Browser">Update my browser now</a> to experience this site.</p>
+</div>
+<![endif]-->
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header" class="header-container header-alt-one no-alerts">
+              <header class="group wrapper">
+    <div class="header-search header-search-alt-one">
+    <div class="search">
+      <div class="search-wrapper">
+                  <form action="/" method="post" id="nc-search-block-form" accept-charset="UTF-8"><label for="nc_search_block_form" class="visuallyhidden">Search NC.gov</label>
+<input type="search" placeholder="Search..." name="nc_search_block_form" id="nc_search_block_form" />
+<input type="submit" value="Submit" /><span class="icon-search" aria-hidden="true"></span>
+<input type="hidden" name="form_build_id" value="form-1gv4eUkzNirKxz9mijrs27z8TBU9vHK9OmCZX7kE4hM" />
+<input type="hidden" name="form_id" value="nc_search_block_form" />
+</form>              </div>
+      <button class="search-toggle" id="searchToggle"><span class="icon-search" aria-hidden="true"></span></button>
+    </div>
+  </div>
+  <div class="mobile-nav">
+    <a href="/" rel="home" class="site-title" title="Historic Sites"><img src="https://files.nc.gov/dncr-historicsites/nchs_logo_horiz_for_web.svg?suSrbEbZ4PiYzwcKOtmjrtInDSP0t.ty"/></a>
+    <button formaction="search" class="search-trigger"><span>Search </span><span class="icon-search" aria-hidden="true"></span></button>
+    <button class="flyout-trigger open-trigger"><span class="icon-dehaze" aria-hidden="true"></span><span> Menu</span></button>
+  </div>
+  <div class="flyout-panel menu-container mainMenu" id="mainMenu">
+    <div aria-label="First Level" class="">
+                <div class="region region-main-menu">
+    <div id="block-nc-mega-menu-main-menu" class="block block-nc-mega-menu">
+
+    
+  <div class="content">
+    <button class="flyout-trigger close-trigger" aria-hidden="true"><span class="icon-close" aria-hidden="true"></span> <span>Close Menu</span></button>
+<nav class="topical-nav-alt-one" role="navigation" aria-label="Topical Navigation">
+  <ul class-wrapper>
+          <li class="current-page">
+    <a href="/">Home</a>
+</li>          <li class="has-dropdown">
+    <a href="/all-sites">All Sites <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Second level" class="second-level">
+    <a href="/all-sites" class="parent-title wrapper">All Sites</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/search-all-historic-sites">Search All Historic Sites</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/alamance-battleground">Alamance Battleground <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/alamance-battleground" class="parent-title wrapper">Alamance Battleground</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/alamance-battleground/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/alamance-battleground/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/alamance-battleground/plan-your-visit/resources-reenactors">Resources for Reenactors</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/alamance-battleground">Events</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/contact-us">Contact Us</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/alamance-battleground/digital-resources">Digital Resources <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/alamance-battleground/digital-resources" class="parent-title wrapper">Digital Resources</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/alamance-battleground/digital-resources/educational-modules">Educational Modules</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/digital-resources/self-guided-tours">Self-Guided Tours</a>
+</li>                    <li>
+    <a href="/all-sites/alamance-battleground/digital-resources/videos">Videos</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/bennett-place">Bennett Place <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/bennett-place" class="parent-title wrapper">Bennett Place</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/bennett-place/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/bennett-place">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/bennett-place/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/bennett-place/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/bennett-place/history/april-18-1865-agreement">April 18, 1865 Agreement</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/history/april-26-1865-agreement">April 26, 1865 Agreement</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/history/military-convention-april-26">Military Convention of April 26</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/history/parole-signed-officers">Parole Signed by the Officers</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/history/troops-nc-time-surrender">Troops in NC at time of Surrender</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/bennett-place/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/bentonville-battlefield">Bentonville Battlefield <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/bentonville-battlefield" class="parent-title wrapper">Bentonville Battlefield</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit/overview">Overview</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit/bentonville-today">Bentonville Today</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit/driving-tour">Driving Tour</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/plan-your-visit/visitor-center-exhibits">Visitor Center Exhibits</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/bentonville-battlefield">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/bentonville-battlefield/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/bentonville-battlefield/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/bentonville-battlefield/history/road-bentonville">The Road to Bentonville</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/history/relevant-websites">Relevant Websites</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/bentonville-battlefield/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/brunswick-town-fort-anderson">Brunswick Town and Fort Anderson <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/brunswick-town-fort-anderson" class="parent-title wrapper">Brunswick Town and Fort Anderson</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/plan-your-visit/exhibits">Exhibits</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/brunswick-town-and-fort-anderson">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/american-indians">American Indians</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/building-colonial-port">Building a Colonial Port</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/building-confederate-fort">Building a Confederate Fort</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/early-revolutionaries">Early Revolutionaries</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/russellborough">Russellborough</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/spanish-attack">Spanish Attack</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/st-philips-church">St. Philips Church</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/history/end-brunswick-town">The End of Brunswick Town</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade">Lesson Plan: Fort Anderson (8th Grade) <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade" class="parent-title wrapper">Lesson Plan: Fort Anderson (8th Grade)</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/fort">Fort Anderson - Purpose and Construction</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/fall-fort">Fall of Fort Anderson</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/flag-fort">Flag of Fort Anderson</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/pre-visit">Pre-Visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/site">On-Site Activities</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/post-visit">Post-Visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/glossary">Glossary</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/educators/lesson-plan-fort-anderson-8th-grade/appendicies">Appendicies</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/brunswick-town-and-fort-anderson/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/charlotte-hawkins-brown-museum">Charlotte Hawkins Brown Museum <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/charlotte-hawkins-brown-museum" class="parent-title wrapper">Charlotte Hawkins Brown Museum</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/plan-your-visit/about-charlotte-hawkins-brown-museum">About the Charlotte Hawkins Brown Museum</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/plan-your-visit/existing-structures">Existing Structures</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/charlotte-hawkins-brown-museum">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/brief-history">A Brief History</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown">Dr. Charlotte Hawkins Brown <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown" class="parent-title wrapper">Dr. Charlotte Hawkins Brown</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/negro-and-social-graces">"The Negro and the Social Graces"</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/national-figure">A National Figure</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/student-remembers">A Student Remembers...</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/civic-life">Civic Life</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/early-life">Early Life</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/rules-school">Rules for School</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/three-bs-education">The "Three B's of Education"</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/dr-charlotte-hawkins-brown/time-line-achievement">Time Line of Achievement</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school">The School <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school" class="parent-title wrapper">The School</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school/campus-views">Campus Views</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school/former-campus-structures">Former Campus Structures</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school/rules-school">Rules for School</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school/sports-palmer-memorial-institute">Sports at Palmer Memorial Institute</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/history/school/student-life">Student Life</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/volunteer-opportunities">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/all-sites/charlotte-hawkins-brown-museum/digital-resources">Digital Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/css-neuse-and-governor-caswell-memorial">CSS Neuse and Gov. Caswell Memorial <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/css-neuse-and-governor-caswell-memorial" class="parent-title wrapper">CSS Neuse and Gov. Caswell Memorial</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/CSS-Neuse-and-Gov.-Caswell-Memorial">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/brief-history">A Brief History</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history">CSS Neuse History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history" class="parent-title wrapper">CSS Neuse History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/armament-aboard-neuse">Armament Aboard the Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/crew-css-neuse">Crew of the CSS Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/destruction-neuse">Destruction of the Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/drawing-css-neuse">Drawing of the CSS Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/existing-hull-css-neuse">The Existing Hull of the CSS Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-history/life-css-neuse">The Life of the CSS Neuse</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-recovery-preservation">CSS Neuse Recovery & Preservation <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-recovery-preservation" class="parent-title wrapper">CSS Neuse Recovery & Preservation</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-recovery-preservation/new-home">A New Home</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-recovery-preservation/ordnance-found">Ordnance Found Aboard the Neuse</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/css-neuse-recovery-preservation/preservation">Preservation Methods</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/richard-caswell">Richard Caswell <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/richard-caswell" class="parent-title wrapper">Richard Caswell</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/richard-caswell/caswell-statesman">Caswell the Statesman</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/history/richard-caswell/caswell-gravesite-mystery">The Caswell Gravesite Mystery</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/support-sitevolunteer-and-intern-informationmemberships">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/css%C2%A0neuse-and-gov-caswell-memorial/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/duke-homestead">Duke Homestead <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/duke-homestead" class="parent-title wrapper">Duke Homestead</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/duke-homestead/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/duke-homestead">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/duke-homestead/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/duke-homestead/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/duke-homestead/history/washington-duke-farmer">Washington Duke the Farmer</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/history/seed-leaf">From Seed to Leaf</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/history/enslavement-duke-homestead">Enslavement at Duke Homestead</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/history/imprints-and-furrows">Imprints and Furrows</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/history/cultivation-tobacco-empire">Cultivation of a Tobacco Empire</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/duke-homestead/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-dobbs">Fort Dobbs <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/fort-dobbs" class="parent-title wrapper">Fort Dobbs</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-dobbs/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/fort-dobbs">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-dobbs/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-dobbs/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-dobbs/history/archaeology">Archaeology</a>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/history/north-carolina-french-and-indian-war">North Carolina in the French and Indian War</a>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/history/settlement">Settlement</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-dobbs/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-dobbs/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-dobbs/educators/resources">Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/fort-dobbs/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher">Fort Fisher <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/fort-fisher" class="parent-title wrapper">Fort Fisher</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-fisher/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/plan-your-visit/exhibits">Exhibits</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/plan-your-visit/site-area-map">Site Area Map</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/fort-fisher">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-fisher/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher">The Civil War at Ft. Fisher <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher" class="parent-title wrapper">The Civil War at Ft. Fisher</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack">1st Attack <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack" class="parent-title wrapper">1st Attack</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack/powder-vessel">Powder Vessel</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack/casualties-and-other-numbers">Casualties and Other Numbers</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack/confederate-command-gallery">Confederate Command Gallery</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/1st-attack/union-command-gallery">Union Command Gallery</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack">2nd Attack <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack" class="parent-title wrapper">2nd Attack</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack/casualties-and-other-numbers">Casualties and Other Numbers</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack/colored-troops-fort-fisher">Colored Troops at Fort Fisher</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack/confederate-command-gallery">Confederate Command Gallery</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/2nd-attack/union-command-gallery">Union Command Gallery</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/aftermath">Aftermath <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/aftermath" class="parent-title wrapper">Aftermath</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/aftermath/magazine-explosion">Magazine Explosion</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/aftermath/timothy-h-osullivan-photographer">Timothy H. O'Sullivan, Photographer</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps">Battle Maps <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps" class="parent-title wrapper">Battle Maps</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps/advance-abbotts-brigade">Advance of Abbott's Brigade</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps/attack-federal-sailors-and-marines">Attack of Federal Sailors and Marines</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps/federal-infantry-attack">Federal Infantry Attack</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps/opposing-lines-federal-point">Opposing Lines on Federal Point</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/battle-maps/surrender-battery-buchanan">Surrender at Battery Buchanan</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/forces">The Forces <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/forces" class="parent-title wrapper">The Forces</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/civil-war-ft-fisher/forces/confederates">Confederates</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/fort">The Fort <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/fort-fisher/history/fort" class="parent-title wrapper">The Fort</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/fort/armament">Armament</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/fort/map-fort-fisher">Map of Fort Fisher</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/fort/crimean-war-connection">The Crimean War Connection</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/port">The Port <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/fort-fisher/history/port" class="parent-title wrapper">The Port</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/port/approaches-wilmington">Approaches to Wilmington</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/port/confederate-map-civil-war-wilmington">Confederate Map of Civil War Wilmington</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/port/federal-map-civil-war-wilmington">Federal Map of Civil War Wilmington</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/port/running-blockade">Running the Blockade</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/history/port/river-defenses">The River Defenses</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/history/wwii-fort-fisher">WWII at Fort Fisher <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/fort-fisher/history/wwii-fort-fisher" class="parent-title wrapper">WWII at Fort Fisher</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/history/wwii-fort-fisher/wwii-gallery">WWII Gallery</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-fisher/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/educators/lesson-plan-fort-fisher-civil-war-8th-grade">Lesson Plan: Fort Fisher in the Civil War (8th Grade) <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/fort-fisher/educators/lesson-plan-fort-fisher-civil-war-8th-grade" class="parent-title wrapper">Lesson Plan: Fort Fisher in the Civil War (8th Grade)</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/educators/lesson-plan-fort-fisher-civil-war-8th-grade/pre-visit-activities">Pre-visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/educators/lesson-plan-fort-fisher-civil-war-8th-grade/site-activities">On-site Activities</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/educators/lesson-plan-fort-fisher-civil-war-8th-grade/post-visit-activities">Post-visit Activities</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/special-event-rentals">Special Event Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/fort-fisher/support-site">Support this Site</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/fort-fisher/contact-us">Contact Us <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/fort-fisher/contact-us" class="parent-title wrapper">Contact Us</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/fort-fisher/contact-us/lose-something-fort-fisher">Lose something at Fort Fisher?</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/governor-charles-b-aycock-birthplace">Governor Charles B. Aycock Birthplace <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/governor-charles-b-aycock-birthplace" class="parent-title wrapper">Governor Charles B. Aycock Birthplace</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/governor-charles-b.-aycock-birthplace">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/history/oak-plains-school-1893-1993">Oak Plains School, 1893-1993</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/governor-charles-b-aycock-birthplace/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-bath">Historic Bath <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/historic-bath" class="parent-title wrapper">Historic Bath</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/historic-bath/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/historic-bath/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-bath/plan-your-visit/exhibit-center">Exhibit Center</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/plan-your-visit/historic-homes">Historic Homes</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/historic-bath">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-bath/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/historic-bath/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-bath/history/bonner-house">Bonner House</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/history/palmer-marsh-house">Palmer Marsh House</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/history/st-thomas-episcopal-church">St. Thomas Episcopal Church</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/history/van-der-veer-house">Van Der Veer House</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/resources">Resources</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/historic-bath/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-edenton">Historic Edenton <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/historic-edenton" class="parent-title wrapper">Historic Edenton</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-edenton/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/historic-edenton">Events</a>
+</li>                    <li>
+    <a href="/all-sites/historic-edenton/history">History</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-edenton/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/historic-edenton/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-edenton/educators/field-trip-lesson-plans">Field Trip Lesson Plans</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/historic-edenton/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/historic-edenton/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/historic-edenton/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/historic-edenton/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-halifax">Historic Halifax <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/historic-halifax" class="parent-title wrapper">Historic Halifax</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-halifax/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/historic-halifax">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-halifax/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/historic-halifax/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance">Halifax Historic District: The Importance <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance" class="parent-title wrapper">Halifax Historic District: The Importance</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance/life-halifax">Life in Halifax</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance/people">People</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance/halifax-and-revolution">Halifax and the Revolution</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance/african-american-experience">The African American Experience</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/history/halifax-historic-district-importance/halifax-after-independence">Halifax After Independence</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/historic-halifax/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/historic-stagville">Historic Stagville <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/historic-stagville" class="parent-title wrapper">Historic Stagville</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/historic-stagville/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/historic-stagville">Events</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/genealogy">Genealogy</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/historic-stagville/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm">Horne Creek Farm <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/horne-creek-farm" class="parent-title wrapper">Horne Creek Farm</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/horne-creek-farm">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard">Southern Heritage Apple Orchard <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard" class="parent-title wrapper">Southern Heritage Apple Orchard</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/events">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun">Fun <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun" class="parent-title wrapper">Fun</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons">Children's Activities & Lessons <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons" class="parent-title wrapper">Children's Activities & Lessons</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apple-2">Apple Butter</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apple-1">Apple Cobbler</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apple-0">Apple Pancakes</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apple">Apple Tasting</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons-0">Applehead Dolls</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apples-1">Apples and the North Carolina Economy</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apples">Apples on a String</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/apples-3">Apples on the Farm</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/eating">Eating Apple Butter, Jams, & Preserves</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/making">Making Apple Fritters</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/making-1">Making Cider</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/making-0">Making Fried Pies</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/plant">Plant Apple Seeds</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/sorting">Sorting Apples</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/many">The Many Uses of Apples</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/where-do">Where Do Apples Come From?</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/childrens-activities-lessons/wrapping">Wrapping Apples for Storage</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/fun/games">Games</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/further-research">Learn More</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/plan-your-visit/orchard-map">Orchard Map</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/plan-your-visit/orchard-rules">Orchard Rules</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/support-shop">Support & Shop <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/support-shop" class="parent-title wrapper">Support & Shop</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/support-shop/horticulturist-consultations">Horticulturist Consultations</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples">The Apples <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples" class="parent-title wrapper">The Apples</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history">Apple History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history" class="parent-title wrapper">Apple History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/apples-mythology">Apples in Mythology</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/early-north-carolina">Early North Carolina Nurseries</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/john-chapman-pioneer">John Chapman: Pioneer Nurseryman</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/origins-apples-0">Origins of Apples</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/origins-apples">Origins of Apples in America</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/apple-boom">The Apple Boom</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-history/golden-age-apples">The Golden Age of Apples in the South</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index">Apple Index <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index" class="parent-title wrapper">Apple Index</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-shapes">Apple Shapes</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/glossary-terms">Glossary of Terms</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index">The Apple Index <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="7th level" class="7th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index" class="parent-title wrapper">The Apple Index</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple">Apple Index - "A"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-0">Apple Index - "Bald Mountain" to "Black Jack"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-1">Apple Index - "Black Limbertwig to Bushy Top"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-2">Apple Index - "Calvin to Chimney"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-3">Apple Index - "Clapper Flat to Curtis"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-4">Apple Index - "D"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-5">Apple Index - "E"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-6">Apple Index - "F"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-7">Apple Index - "G"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-8">Apple Index - "H"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-9">Apple Index - "I"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-10">Apple Index - "J"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-11">Apple Index - "K"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-12">Apple Index - "L"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-13">Apple Index - "Magnum Bonum to Mississippi Pippin"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-14">Apple Index - "Mitchell to Myer's Royal"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-15">Apple Index - "N"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-16">Apple Index - "O"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-17">Apple Index - "P"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-18">Apple Index - "Q"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-19">Apple Index - "Rall's Janet to Red Rebel"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-20">Apple Index - "Red Reese to Rusty Coat"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-21">Apple Index - "Sally Gray to Slope"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-22">Apple Index - "Smith's Cider to Stuart's Golden"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-23">Apple Index - "Stump to Swiss Limbertwig"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-24">Apple Index - "T"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-25">Apple Index - "V"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-26">Apple Index - "W"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apple-index/apple-index/apple-27">Apple Index - "Y"</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/apples-south">Apples in the South</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/cider-information">Cider Information <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/cider-information" class="parent-title wrapper">Cider Information</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/cider-information/historic">Historic References to Cider in "Old Southern Apples"</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/cider-information/jason-bowens">Jason Bowen's Favorite Cider Apples</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/cider-information/lee-calhouns">Lee Calhoun's Favorite Cider Apples</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/north-carolina-apple-varieties">North Carolina Apple Varieties</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care">Tree Selection and Care <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care" class="parent-title wrapper">Tree Selection and Care</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care/year-life">A Year in the Life of an Orchard</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care/care">Care of the Orchard</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care/grafting">Grafting</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care-0">Maintenance</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care/preparing">Preparing to Plant an Orchard</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/tree-selection-and-care/apple">The Apple Blossom</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples">Uses of Apples <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples" class="parent-title wrapper">Uses of Apples</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples/apple-butter">Apple Butter</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples/brandy">Brandy</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples/desserts">Cooking (Desserts)</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples/drying">Drying</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/apples/uses-apples/vinegar">Vinegar</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard-today">The Orchard Today</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard">The Orchard <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard" class="parent-title wrapper">The Orchard</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-history">Orchard History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-history" class="parent-title wrapper">Orchard History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-history/creating-orchard">Creating the Orchard</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-history/lee-calhoun-and">Lee Calhoun and Horne Creek Farm</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-history/need-preservation">The Need for Preservation</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-today">The Orchard Today <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="6th level" class="6th-level">
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-today" class="parent-title wrapper">The Orchard Today</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-today/apples-schools">"Apples for Schools" Program</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/southern-heritage-apple-orchard/orchard/orchard-today/partnership-kuffle">Partnership with Kuffle Creek Apple Nursery</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/horne-creek-farm/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/house-horseshoe">House in the Horseshoe <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/house-horseshoe" class="parent-title wrapper">House in the Horseshoe</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/house-horseshoe/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/house-horseshoe/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/house-horseshoe/plan-your-visit/house-horseshoe-self-guided-tour">Self-Guided Tour</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/House-in-the-Horseshoe">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/house-horseshoe/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/house-horseshoe/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/house-horseshoe/history/gov-benjamin-williams">Gov. Benjamin Williams</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/history/philip-alston">Philip Alston</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/history/surrender-terms-and-david-fanning">Surrender Terms and David Fanning</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/all-sites/house-horseshoe/digital-resources">Digital Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/n-c-state-capitol">N. C. State Capitol <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/n-c-state-capitol" class="parent-title wrapper">N. C. State Capitol</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-state-capitol/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/state-capitol">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/n-c-state-capitol/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/n-c-state-capitol/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/north-carolina-executive-mansion/ballroom-and-library">Ballroom and Library</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/construction-capitol">Construction of the Capitol</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/north-carolina-executive-mansion/dining-room">Dining Room</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/north-carolina-executive-mansion/entrance-hall-and-morning-room">Entrance Hall and Morning Room</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/capitol-19th-century">The Capitol in the 19th Century</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/capitol-20th-century-and-beyond">The Capitol in the 20th Century and Beyond</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/north-carolina-executive-mansion/gardens">The Gardens</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/north-carolina-executive-mansion/parlors">The Parlors</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/history/capitol-legends">Capitol Legends</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/north-carolina-executive-mansion">North Carolina Executive Mansion</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/state-capitol/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/state-capitol/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-state-capitol/educators/additional-educational-resources">Additional Educational Resources</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade">Lesson Plan: The Capitol and the Civil War (8th Grade) <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade" class="parent-title wrapper">Lesson Plan: The Capitol and the Civil War (8th Grade)</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade/site-narrative">Site Narrative</a>
+</li>                    <li>
+    <a href="/all-sites/state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade/pre-visit-activities">Pre-visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade/site-activities">On-site Activities</a>
+</li>                    <li>
+    <a href="/all-sites/state-capitol/educators/lesson-plan-capitol-and-civil-war-8th-grade/post-visit-activities">Post-visit Activities</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/n-c-state-capitol/group-or-school-reservations">Group or School Reservations</a>
+</li>                    <li class="has-dropdown">
+    <a href="http://ncstatecapitol.org">Support this Site <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="http://ncstatecapitol.org" class="parent-title wrapper">Support this Site</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-state-capitol/support-site/state-capitol-foundation-0">State Capitol Foundation</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/state-capitol/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="https://nctrans.org">N. C. Transportation Museum <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="https://nctrans.org" class="parent-title wrapper">N. C. Transportation Museum</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/n-c-transportation-museum/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/n-c-transportation-museum/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/president-james-k-polk">President James K. Polk <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/president-james-k-polk" class="parent-title wrapper">President James K. Polk</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/president-james-k-polk/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/President-James-K.-Polk">Events</a>
+</li>                    <li>
+    <a href="/all-sites/president-james-k-polk/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/president-james-k-polk/educators">For Educators</a>
+</li>                    <li>
+    <a href="/historic-sites/president-james-k-polk/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/president-james-k-polk/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/president-james-k-polk/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/historic-sites/president-james-k-polk/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/all-sites/president-james-k-polk/digital-resources">Digital Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/reed-gold-mine">Reed Gold Mine <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/reed-gold-mine" class="parent-title wrapper">Reed Gold Mine</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/reed-gold-mine/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/reed-gold-mine/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/reed-gold-mine/plan-your-visit/site-maps">Site Maps</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/reed-gold-mine">Events</a>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/history">History</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/reed-gold-mine/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/reed-gold-mine/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/reed-gold-mine/educators/reed-gold-mine-teachers-guide">Reed Gold Mine Teacher's Guide</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/digital-resources">Digital Resources</a>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/reed-gold-mine/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="https://www.roanokeisland.com">Roanoke Island Festival Park <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="https://www.roanokeisland.com" class="parent-title wrapper">Roanoke Island Festival Park</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/history">History</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/roanoke-island-festival-park/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place">Somerset Place <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/somerset-place" class="parent-title wrapper">Somerset Place</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/somerset-place">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/somerset-place/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/history/plantation-timeline">Plantation Timeline <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/somerset-place/history/plantation-timeline" class="parent-title wrapper">Plantation Timeline</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/history/plantation-timeline/1828-1839">1828-1839</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/plantation-timeline/1840-1843">1840-1843</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/plantation-timeline/1850-1860">1850-1860</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/plantation-timeline/1860-1865">1860-1865</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/history/enslaved-community">The Enslaved Community <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/somerset-place/history/enslaved-community" class="parent-title wrapper">The Enslaved Community</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/history/enslaved-community/somerset-names">Somerset Names</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/history/civil-war-somerset-place">Civil War at Somerset Place <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/somerset-place/history/civil-war-somerset-place" class="parent-title wrapper">Civil War at Somerset Place</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/history/civil-war-somerset-place/emancipation-proclamation">The Emancipation Proclamation</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/civil-war-somerset-place/union-troops-visit-somerset-1862">Union Troops Visit Somerset, 1862</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/history/site">The Site <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/somerset-place/history/site" class="parent-title wrapper">The Site</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/history/site/archeology-somerset-place">Archeology at Somerset Place</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/site/excavated-artifacts">Excavated Artifacts</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/site/grounds-map">Grounds Map</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/site/plat-map">Plat Map</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/history/site/somerset-homecomings">Somerset Homecomings</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/site-features">Site Features <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/somerset-place/site-features" class="parent-title wrapper">Site Features</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/site-features/collins-family-home">Collins Family Home</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/colony-house">Colony House</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/dairy">Dairy</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/enslaved-community-kitchen">Enslaved Community Kitchen</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/formal-garden">Formal Garden</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/kitchen-laundry">Kitchen / Laundry</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/kitchen-rations-building">Kitchen Rations Building</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/lake-chapel">Lake Chapel</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/lewis-and-judys-home">Lewis and Judy's Home</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/overseers-house">Overseer's House</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/plantation-hospital">Plantation Hospital</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/salting-house">Salting House</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/smokehouse">Smokehouse</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/sucky-davis-home">Sucky Davis' Home</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/site-features/transportation-canal">Transportation Canal</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/somerset-place/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/educators/homeschool-education-week">Homeschool Education Week!</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/teacher-resource-packet">Teacher Resource Packet</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade">Lesson Plan: Somerset and the Civil War (8th Grade) <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade" class="parent-title wrapper">Lesson Plan: Somerset and the Civil War (8th Grade)</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade/site-narrative">Site Narrative</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade/pre-visit-activities">Pre-visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade/site-activities">On-Site Activities</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade/post-visit">Post-visit Activities</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/lesson-plan-somerset-and-civil-war-8th-grade/resources">Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/made-land-traveling-exhibit">Made from Off the Land Traveling Exhibit</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/educators/somerset-place-black-history-month-outreach">Somerset Place Black History Month Outreach</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/were-hiring">We're Hiring!</a>
+</li>                    <li>
+    <a href="/all-sites/somerset-place/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/thomas-wolfe-memorial">Thomas Wolfe Memorial <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/thomas-wolfe-memorial" class="parent-title wrapper">Thomas Wolfe Memorial</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/thomas-wolfe-memorial">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/thomas-wolfe-memorial/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/thomas-wolfe-memorial/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/history/biography-thomas-wolfe">Biography of Thomas Wolfe</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/thomas-wolfe-memorial/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/thomas-wolfe-memorial/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/educators/lessons-and-programs">Lessons and Programs</a>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/educators/tours-and-activities">Tours and Activities</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/all-sites/thomas-wolfe-memorial/gift-shop">Gift Shop</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/town-creek-indian-mound">Town Creek Indian Mound <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/town-creek-indian-mound" class="parent-title wrapper">Town Creek Indian Mound</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/town-creek-indian-mound/plan-your-visit">Plan Your Visit</a>
+</li>                    <li>
+    <a href="/all-sites/events/town-creek-indian-mound">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/town-creek-indian-mound/town-creek-indian-mound-american-indian-legacy">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/town-creek-indian-mound/town-creek-indian-mound-american-indian-legacy" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/town-creek-indian-mound/history/maps-town-creek">Maps of Town Creek <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/town-creek-indian-mound/history/maps-town-creek" class="parent-title wrapper">Maps of Town Creek</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/maps-town-creek/ceremonial-center">Ceremonial Center</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/maps-town-creek/site-layout">Site Layout</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture">Town Creek and Indian Culture <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fifth level" class="fifth-level">
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture" class="parent-title wrapper">Town Creek and Indian Culture</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/artifacts">Artifacts</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/burial-house">Burial House</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/mortuary">Mortuary</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/mound-archaeology">Mound Archaeology</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/pee-dee-culture">Pee Dee Culture</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/town-creek-and-indian-culture/village-archaeology">Village Archaeology</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/history/resources">Resources</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/all-sites/town-creek-indian-mound/virtual-museum-guide">Virtual Museum Guide</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/tryon-palace">Tryon Palace</a>
+</li>                    <li>
+    <a href="/all-sites/battleship-north-carolina">USS Battleship North Carolina</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/zebulon-b-vance-birthplace">Zebulon B. Vance Birthplace <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/all-sites/zebulon-b-vance-birthplace" class="parent-title wrapper">Zebulon B. Vance Birthplace</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/all-sites/zebulon-b-vance-birthplace/plan-your-visit">Plan Your Visit <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/zebulon-b-vance-birthplace/plan-your-visit" class="parent-title wrapper">Plan Your Visit</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/plan-your-visit/audio-tour-juneteenth-reems-creek-valley">Audio Tour: Juneteenth in the Reems Creek Valley</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/events/Zebulon-B.-Vance-Birthplace">Events</a>
+</li>                    <li class="has-dropdown">
+    <a href="/all-sites/zebulon-b-vance-birthplace/history">History <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/all-sites/zebulon-b-vance-birthplace/history" class="parent-title wrapper">History</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/history/slavery-reems-creek-valley">Slavery in the Reems Creek Valley</a>
+</li>                    <li>
+    <a href="https://vancebirthplace.wordpress.com">Blog:  Thoughts from the Part-Time Staff</a>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/history/gov-zebulon-b-vance">Gov. Zebulon B. Vance</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/educators">For Educators</a>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/reservations">Group Reservations</a>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/rentals">Rentals</a>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/support-site">Support this Site</a>
+</li>                    <li>
+    <a href="/all-sites/zebulon-b-vance-birthplace/contact-us">Contact Us</a>
+</li>            </ul>
+</div>
+</li>            </ul>
+</div>
+</li>          <li>
+    <a href="/events">Events</a>
+</li>          <li>
+    <a href="/news">News</a>
+</li>          <li class="has-dropdown">
+    <a href="/resources">Resources <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Second level" class="second-level">
+    <a href="/resources" class="parent-title wrapper">Resources</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/resources/open-letter-these-times-black-lives-and-historic-sites">An Open Letter for These Times</a>
+</li>                    <li>
+    <a href="/resources/covid-19-information">COVID-19 Information</a>
+</li>                    <li class="has-dropdown">
+    <a href="/resources/educators">For Educators <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/resources/educators" class="parent-title wrapper">For Educators</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/resources/educators/lesson-plans-elementary-grades">Lesson Plans: Elementary Grades</a>
+</li>                    <li>
+    <a href="/resources/educators/lesson-plans-grades-8-12">Lesson Plans: Grades 8-12</a>
+</li>            </ul>
+</div>
+</li>                    <li class="has-dropdown">
+    <a href="/resources/north-carolina-civil-war">North Carolina in the Civil War <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/resources/north-carolina-civil-war" class="parent-title wrapper">North Carolina in the Civil War</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/resources/north-carolina-civil-war/road-secession">The Road to Secession</a>
+</li>                    <li>
+    <a href="/resources/north-carolina-civil-war/north-carolina-civil-war-battlefield">North Carolina as a Civil War Battlefield</a>
+</li>                    <li>
+    <a href="/resources/north-carolina-civil-war/wartime-north-carolina">Wartime North Carolina</a>
+</li>                    <li>
+    <a href="/resources/north-carolina-civil-war/wars-end-and-reconstruction">War's End and Reconstruction</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/resources/tour-nc-history-home">Tour NC History @ Home</a>
+</li>                    <li class="has-dropdown">
+    <a href="/resources/collections">Collections <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/resources/collections" class="parent-title wrapper">Collections</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/resources/collections/donate-object">Donate an Object</a>
+</li>                    <li>
+    <a href="/resources/collections/appraisal-information">Appraisal Information</a>
+</li>                    <li class="has-dropdown">
+    <a href="/resources/collections/artifact-care">Artifact Care <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Fourth level" class="fourth-level">
+    <a href="/resources/collections/artifact-care" class="parent-title wrapper">Artifact Care</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/resources/collections/artifact-care/caring-your-documents-books-photographs">Caring for Your Documents / Books / Photographs</a>
+</li>                    <li>
+    <a href="/resources/collections/artifact-care/caring-your-furniture">Caring for Your Furniture</a>
+</li>                    <li>
+    <a href="/resources/collections/artifact-care/caring-your-textiles">Caring for Your Textiles</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/resources/collections/what-do-we-collect">What do we collect?</a>
+</li>                    <li>
+    <a href="/resources/collections/collections-policies">Collections Policies</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/resources/site-rules-and-regulations">Site Rules and Regulations</a>
+</li>            </ul>
+</div>
+</li>          <li class="has-dropdown">
+    <a href="/about">About <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Second level" class="second-level">
+    <a href="/about" class="parent-title wrapper">About</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li class="has-dropdown">
+    <a href="/about/leadership">Leadership <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Third level" class="third-level">
+    <a href="/about/leadership" class="parent-title wrapper">Leadership</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/about/leadership/michelle-lanier">Michelle Lanier</a>
+</li>                    <li>
+    <a href="/about/leadership/dusty-wescott">Dusty Wescott</a>
+</li>                    <li>
+    <a href="/about/leadership/jeff-bockert">Jeff Bockert</a>
+</li>                    <li>
+    <a href="/about/leadership/jennifer-farley">Jennifer Farley</a>
+</li>                    <li>
+    <a href="/about/leadership/paul-hill">Paul Hill</a>
+</li>                    <li>
+    <a href="/about/leadership/sandra-foil">Sandra Foil</a>
+</li>            </ul>
+</div>
+</li>                    <li>
+    <a href="/about/donate">Donate</a>
+</li>                    <li>
+    <a href="/about/site-rentals">Site Rentals</a>
+</li>                    <li>
+    <a href="/about/volunteer">Volunteer</a>
+</li>                    <li>
+    <a href="/about/employment-opportunities">Employment Opportunities</a>
+</li>                    <li>
+    <a href="/about/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/about/faq">FAQ</a>
+</li>            </ul>
+</div>
+</li>          <li class="has-dropdown">
+    <a href="/contact">Contact <span class="icon-chevron-right" aria-hidden="true"></span></a>
+    <div aria-label="Second level" class="second-level">
+    <a href="/contact" class="parent-title wrapper">Contact</a>
+    <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true">
+            <button><span class="icon-chevron-left" aria-hidden="true"></span> Back</button>
+        </li>
+                    <li>
+    <a href="/contact-us">Contact Us</a>
+</li>                    <li>
+    <a href="/contact/historic-sites-home-office">Historic Sites Home Office</a>
+</li>                    <li>
+    <a href="/contact/individual-sites-contact-details">Individual Sites</a>
+</li>            </ul>
+</div>
+</li>      </ul>
+</nav>  </div>
+</div>
+  </div>
+                </div>
+  </div><!-- mainMenu -->
+</header>          </div> <!-- /.section, /#header -->
+
+    
+    <div id="content-container" class="clearfix content-container">
+              <div id="alert-box">
+          <div class="section clearfix">
+              <div class="region region-alert-box">
+    <div id="alerts" data-alerts-hash="71f0d6f232d91ec57135cb7eb1a66982" class="wrapper group alerts"><div id='alert-309' class='alert-box breaking' style='display:none;'><div class='wrapper group'><span class='alert-icon' aria-hidden='true'></span><div class='message'><h2 class='alert-type'>UPDATE:</h2>Governor Cooper has announced that guests to historic sites may now enjoy greater access to our visitor centers and historic structures under Phase 2.5 of his plan to ease COVID-19 restrictions. <a href="https://historicsites.nc.gov/resources/covid-19-information" target="_blank" alt="Read More Click here for details. ">Click here for details. </a></div></div></div></div>  </div>
+          </div>
+        </div> <!-- /.section, /#alert-box -->
+                  <main id="main" class="">
+
+        
+        
+          <article id="primary-content content" >
+            <div class="section">
+                            <a id="main-content"></a>
+
+                              <div class="wrapper">                                  <h1  class="element-invisible page-title" id="page-title">
+                    home-page                  </h1>
+                                              
+                              <div class="tabs">
+                                  </div>
+                                                                                  </div>
+
+            <!--landing page -->
+                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-3" class="node node-landing-page node-full clearfix">
+
+      
+          
+  
+  <div class="content clearfix">
+    
+<div class="paragraphs-items paragraphs-items-field-bands paragraphs-items-field-bands-full paragraphs-items-full">
+      <div class="field field-name-field-bands field-type-paragraphs field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-full-width band no-gutter clearfix"
+   about="" typeof="">
+
+  
+  <section class="content band-content wrapper "
+    >
+        <div class="field field-name-field-full-width-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p><a href="https://historicsites.nc.gov/resources/open-letter-these-times-black-lives-and-historic-sites"><img alt="" src="https://files.nc.gov/dncr-historicsites/Button-2.jpg" style="float: left;" /></a></p>
+            </div>
+              </div>
+  </div>
+  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-full-width band pad-small no-gutter clearfix"
+   about="" typeof="">
+
+  
+  <section class="content band-content  "
+    >
+        <div class="field field-name-field-full-width-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-homepage-carousel-0" class="block block-bean">
+
+    
+  <div class="content">
+    <div class="owl-carousel ncgov-theme full-width" data-nc-carousel='{"autoPlay":"3000","stopOnHover":true}'><div class="item"><div class="item__wrapper"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/carousel___hero/public/Tour-NC-History-Home-no-text.png?OqaipdPzUIckCgpLzMLLe827Ut53diYX&amp;itok=w9WY34Gu&amp;timestamp=1585315991 1x" media="only screen and (min-width: 1280px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/Tour-NC-History-Home-no-text.png?uoih8oF7pisaYXXNtDjAFRncrU4Gu8da&amp;itok=mGquSdAN&amp;timestamp=1585315991 1x" media="(min-width: 1024px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/Tour-NC-History-Home-no-text.png?dwTnkqPwCekN6wGt_N3oF6U60KZRJ0oQ&amp;itok=Gu9-nH7I&amp;timestamp=1585315991 1x" media="(min-width: 768px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/Tour-NC-History-Home-no-text.png?K3ofLrMFWw_HMHa.fJ_cRpsvTJSvi4zN&amp;itok=CDJOmdnF&amp;timestamp=1585315991 1x" media="(min-width: 480px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/Tour-NC-History-Home-no-text.png?kUy4slGqhSZi7Umzow3h4.XLZ2R1OlV.&amp;itok=TYzjYKm0&amp;timestamp=1585315991 1x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/Tour-NC-History-Home-no-text.png?kUy4slGqhSZi7Umzow3h4.XLZ2R1OlV.&amp;itok=TYzjYKm0&amp;timestamp=1585315991" alt="Collage of photos from various sites" title="" />
+</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">Tour NC History @ Home</h3><div class="item__text"><p>Explore and experience the rich history of our state wherever you are.  Here you’ll find virtual tours, hand-on activities, and opportunities to travel back in time.</p><a href="https://historicsites.nc.gov/resources/tour-nc-history-home" class="button ghost inverted">Start Learning!</a></div><span class="item__count"><span class="item__count--current">1</span> of <span class="item__count--total">2</span></div></div></div></div><div class="item"><div class="item__wrapper"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/carousel___hero/public/hompage_1.jpg?673S9sqN57JKUksmuZtp55ZbCThdQKSo&amp;itok=To-sF3sG&amp;timestamp=1537188542 1x" media="only screen and (min-width: 1280px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/hompage_1.jpg?f2nS5P96ZiZdpNqyofzsjXpxzTeHpBOu&amp;itok=pkmA90FC&amp;timestamp=1537188542 1x" media="(min-width: 1024px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/hompage_1.jpg?Y2XkQgDfoNY4C9bmE4qCutuzFnsrbXEK&amp;itok=c1lkOubU&amp;timestamp=1537188542 1x" media="(min-width: 768px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/hompage_1.jpg?yZ_Ndvzd3x7PUxEk.Am0rhs3nP4.LMbB&amp;itok=8IxtaQUf&amp;timestamp=1537188542 1x" media="(min-width: 480px)" />
+<source srcset="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hompage_1.jpg?NcKBRWYJAIx_Jm9Q4s_jhmkRM_0.3F5O&amp;itok=BEJu82Ic&amp;timestamp=1537188542 1x" media="(min-width: 0px)" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://files.nc.gov/dncr-historicsites/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hompage_1.jpg?NcKBRWYJAIx_Jm9Q4s_jhmkRM_0.3F5O&amp;itok=BEJu82Ic&amp;timestamp=1537188542" alt="horse drawn wagon at Duke Homestead" title="" />
+</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">Welcome to North Carolina Historic Sites</h3><div class="item__text"><p>North Carolina Historic Sites is a group of 27 unique state historic sites. We invite you to open doors into the past and more fully understand the world we live in today. </p><a href="https://historicsites.nc.gov/catalog/search-all-historic-sites" class="button ghost inverted">Search All Sites</a></div><span class="item__count"><span class="item__count--current">2</span> of <span class="item__count--total">2</span></div></div></div></div></div>  </div>
+</div>            </div>
+              </div>
+  </div>
+  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-two-column band theme-alt-primary-1 pad-bottom no-gutter clearfix"
+   about="" typeof="">
+
+    <header class="band-header wrapper">
+    <h2 class="section-title">Visit North Carolina State Historic Sites</h2>
+  </header>
+  
+  <section class="content band-content wrapper parts-span-half"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p>From the Outer Banks to the Blue Ridge Mountains, from coastal sand dunes to icy mountain streams, North Carolina thrills the imagination of visitors and residents alike. Equally as diverting as its natural beauty is the history of its people. American Indians hunting in unspoiled forests, colonists trading tar and pitch, soldiers and sailors fighting for independence and freedom, and farmers toiling to make a living off the land all represent stories as powerful as the rushing waters of the Nantahala River, Lake Phelps, and the Atlantic Ocean. </p>
+<p>Today you can still feel the cool dampness underground in an early gold mine, marvel at early 20th-century steam locomotives, and relive a colonial or Civil War battle. So when you're planning your next trip, don't just think of tomorrow or today, think of yesterday.</p>
+            </div>
+              </div>
+  </div>
+</div><div class="group-right field-group-div">    <div class="field field-name-field-right-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p>
+</p><div class="video-filter">
+<iframe src="//www.youtube.com/embed/A-CVpws9rU8?modestbranding=0&amp;html5=1&amp;rel=0&amp;autoplay=0&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;autohide=0&amp;showinfo=0&amp;theme=dark&amp;color=red&amp;enablejsapi=0" width="500" height="300" class="video-filter video-youtube vf-acvpws9ru8" frameborder="0" allowfullscreen="true"></iframe></div>
+
+            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-three-column band pad-small no-gutter clearfix"
+   about="" typeof="">
+
+  
+  <section class="content band-content wrapper parts-span-third"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-home-page-search-all-sites" class="block block-bean">
+
+    
+  <div class="content">
+    <section class="quick-links "><h3 class="section-title">Browse all Historic Sites</h3><ul><li><a href="https://historicsites.nc.gov/catalog/search-all-historic-sites" title="All Sites" class="button">All Sites</a></li><li><a href="https://historicsites.nc.gov/resources/north-carolina-civil-war" title="North Carolina in the Civil War" class="button">North Carolina in the Civil War</a></li></ul></section>  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div class="group-middle field-group-div">    <div class="field field-name-field-middle-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-home-page-events-card" class="block block-bean">
+
+    
+  <div class="content">
+    <section class="quick-links "><h3 class="section-title">Events</h3><ul><li><a href="https://historicsites.nc.gov/events" title="Find an Event Near You" class="button">Find an Event Near You</a></li></ul></section>  </div>
+</div>            </div>
+              </div>
+  </div>
+</div><div class="group-right field-group-div">    <div class="field field-name-field-right-block field-type-blockreference field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <div id="block-bean-home-page-resources" class="block block-bean">
+
+    
+  <div class="content">
+    <section class="quick-links "><h3 class="section-title">Resources</h3><ul><li><a href="https://historicsites.nc.gov/resources/tour-nc-history-home" title="Tour NC History @ Home " class="button">Tour NC History @ Home </a></li><li><a href="https://historicsites.nc.gov/resources/collections" title="Learn about our Artifacts" class="button">Learn about our Artifacts</a></li><li><a href="https://historicsites.nc.gov/resources/site-rules-and-regulations" title="Site Rules and Regulations" class="button">Site Rules and Regulations</a></li><li><a href="https://files.nc.gov/dncr-historicsites/nchs_spanish_brochure.pdf" title="NC Historic Sites Spanish Brochure" class="button">NC Historic Sites Spanish Brochure</a></li></ul></section>  </div>
+</div>            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-full-width band theme-alt-primary-1 pad-small no-gutter clearfix"
+   about="" typeof="">
+
+    <header class="band-header wrapper">
+    <h2 class="section-title">Find a Historic Site near you</h2>
+  </header>
+  
+  <section class="content band-content wrapper "
+    >
+        <div class="field field-name-field-full-width-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p><iframe height="600" src="https://www.google.com/maps/d/embed?mid=1m2baV8kS3JkePp_J2FgPGJIKFXMA8uz6" width="1200"></iframe></p>
+            </div>
+              </div>
+  </div>
+  </section>
+
+</section>
+            </div>
+                        <div class="field-item" >
+              <section class="entity entity-paragraphs-item paragraphs-item-two-column band theme-alt-secondary-1 pad-small no-gutter clearfix"
+   about="" typeof="">
+
+    <header class="band-header wrapper">
+    <h2 class="section-title">Our Mission</h2>
+  </header>
+  
+  <section class="content band-content wrapper parts-span-half"
+    >
+    <div class="group-left field-group-div">    <div class="field field-name-field-left-markup field-type-text-long field-label-hidden " >
+        <div class="field-items" >
+                    <div class="field-item" >
+              <p>
+	The Division of State Historic Sites and Properties preserves, operates, and interprets significant historic sites, enabling visitors to explore North Carolina’s rich and diverse heritage in an engaging, relevant manner.</p>
+            </div>
+              </div>
+  </div>
+</div>  </section>
+
+</section>
+            </div>
+              </div>
+  </div>
+</div>
+  </div>
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+            
+          </article> <!-- /.section, /#content -->
+
+          
+          <!-- #sidebar-second is the primary sidebar -->
+          
+          
+      </main>
+
+    </div> <!-- /#main, /#main-wrapper -->
+    
+      <section id="social-share" class="band social-share">
+      <div class="band-content wrapper">
+          <div id="block-nc-social-nc-social-share" class="block block-nc-social">
+
+    
+  <div class="content">
+    <div class="social-links">
+  <p><strong>Share this page:</strong></p>
+  <ul>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhistoricsites.nc.gov%2Fhome-page" target="_blank">
+        <span class="icon-facebook" aria-hidden="true"></span> <span>Facebook</span>
+      </a>
+    </li>
+    <li>
+      <a href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fhistoricsites.nc.gov%2Fhome-page" target="_blank">
+        <span class="icon-twitter" aria-hidden="true"></span> <span>Twitter</span>
+      </a>
+    </li>
+  </ul>
+</div>
+  </div>
+</div>
+      </div>
+    </section>
+  
+    <section id="user-feedback" class="band user-feedback">
+      <div class="content wrapper">
+                    <div class="toggle-trigger">
+    <div id="block-nc-webform-user-feedback-link" class="block block-nc-webform">
+
+    
+  <div class="content">
+    <a href="/user-feedback?pge_s=/" target="blank">How can we make this page better for you?</a>  </div>
+</div>
+  </div>
+                          <div>
+            <a id="back-to-top" class="back-to-top" href="#content-container" title="Back to top"><span class="icon-vertical-align-top" aria-hidden="true"></span><span class="visuallyhidden">Back to top</span></a>          </div>
+              </div>
+    </section> <!-- /band user-feedback-->
+
+    
+    <div id="footer-wrapper" class="footer-container-alt-one">
+      <footer class="group">
+
+
+                      <section class="band topical ">
+              <div id="footer-columns" class="wrapper footer-columns">
+                <section class="parts-span-third">
+                    <section id="block-boxes-contact-information" class="block block-boxes block-boxes-simple inverted group contact">
+
+        <h3 class="section-title border">Contact Information</h3>
+    
+  <div >
+    <div id='boxes-box-contact_information' class='boxes-box'><div class="boxes-box-content"><div itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">North Carolina Historic Sites</span>
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress"></span>
+<p>Dobbs Building<br />
+			430 North Salisbury Street<br />
+			Suite 2050<br />
+			Raleigh, N.C. 27603</p>
+<p>Mailing Address:<br />
+			4620 Mail Service Center<br />
+			Raleigh, N.C. 27699-4620</p>
+<p>Phone: 919-814-7150</p>
+<p>		<span itemprop="streetAddress"></span></p></div>
+<p>	<span itemprop="telephone"></span></p></div>
+</div></div>  </div>
+</section>
+                    <section id="block-block-1" class="block block-block inverted group">
+
+        <h3 class="section-title border">@NCHistoricSites Twitter </h3>
+    
+  <div >
+    <p><a class="twitter-timeline" data-chrome="nofooter transparent noheader noborders" data-height="300" data-tweet-limit="1" data-width="100%" href="https://twitter.com/NCHistoricSites">Tweets by@nchistoricsites</a></p>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>  </div>
+</section>
+                    <section id="block-follow-site" class="block block-follow inverted group">
+
+        <h3 class="section-title border">Follow Historic Sites</h3>
+    
+  <div  class="social-links">
+    <div class="item-list"><ul><li class="first"><a href="https://www.facebook.com/NCStateHistoricSites/" class="follow-link follow-link-facebook" title="Follow Historic Sites on Facebook"><span class="icon-facebook" aria-hidden="true"></span> <span>Facebook</span></a>
+</li>
+<li><a href="https://twitter.com/NCHistoricSites" class="follow-link follow-link-twitter" title="Follow Historic Sites on Twitter"><span class="icon-twitter" aria-hidden="true"></span> <span>Twitter</span></a>
+</li>
+<li class="last"><a href="https://www.instagram.com/nc_historicsites/" class="follow-link follow-link-instagram" title="Follow Historic Sites on Instagram"><span class="icon-instagram" aria-hidden="true"></span> <span>Instagram</span></a>
+</li>
+</ul></div>  </div>
+</section>
+                                  </section>
+              </div> <!-- /#footer-columns -->
+            </section>
+          
+                      <section class="band enterprise pad-bottom">
+                <div class="wrapper"><section><nav><ul class="group"><li><a href='https://www.ncdcr.gov/employee-directory' title='Employee Directory'><span>Employee Directory</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/accessibility' title='Accessibility'><span>Accessibility</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/terms' title='Terms of Use'><span>Terms of Use</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='http://www.nc.gov/privacy' title='Privacy Policy'><span>Privacy Policy</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/government/open-budget' title='Open Budget'><span>Open Budget</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li></ul></nav><div class="brand"><a href="https://historicsites.nc.gov/home-page" title="Historic Sites"><img typeof="foaf:Image" src="https://files.nc.gov/dncr-historicsites/nchs_footer.png?qkon46eUJ47uoS_ei2df9yMP6GlDfQt7" alt="Historic Sites" /></a></div></section></div>            </section>
+          
+        </section>
+      </footer>
+    </div> <!-- /.section, /#footer-wrapper -->
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+<script type="text/javascript" async="async" src="//historicsites.nc.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script type="text/javascript" async="async" src="//historicsites.nc.gov/sites/all/modules/contrib/picture/picture.min.js?v=7.72"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/modules/features/nc_carousel/nc_carousel.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts_handler.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts.js?qffvma"></script>
+<script type="text/javascript" src="//historicsites.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qffvma"></script>
+<!--[if lte IE 9]><script src="profiles/nc_site_alt/themes/nc_site_theme_one/js/libs/flexie.min.js"></script><![endif]-->
+</body>
+</html>

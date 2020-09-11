@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>
+    	Welcome - DOTGOV
+	</title>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+    <link rel="Shortcut Icon" href="/dotgov-web/images/dotgovfavicon.ico" />
+    <link href="/dotgov-web/css/template.css" rel="stylesheet" type="text/css" />
+    <link href="/dotgov-web/css/jquery_data_table.css" rel="stylesheet" type="text/css" />
+
+	<link rel="stylesheet" href="/dotgov-web/javascript/jquery-ui-1.12.1/jquery-ui.min.css" />
+	<link rel="stylesheet" href="/dotgov-web/javascript/jquery-ui-1.12.1/jquery-ui.theme.css" />
+	<script src="/dotgov-web/javascript/jquery-ui-1.12.1/external/jquery/jquery.js"></script>
+	<script src="/dotgov-web/javascript/jquery-ui-1.12.1/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/dotgov-web/javascript/Mottie-tablesorter-08bf513/js/jquery.tablesorter.min.js"></script>
+	<script type="text/javascript" src="/dotgov-web/javascript/Mottie-tablesorter-08bf513/js/jquery.tablesorter.pager.js"></script>
+    <script type="text/javascript" language="javascript" src="/dotgov-web/javascript/jquery.dataTables-1.9.0.js"></script>
+	<!--  false / true  -->
+
+    <style id="antiClickjack">body{display:none !important;}</style>
+    <script src="https://www.google.com/recaptcha/api.js" async="defer"></script>
+    <script type="text/javascript">
+        if (self === top) {
+            var antiClickjack = document.getElementById("antiClickjack");
+            antiClickjack.parentNode.removeChild(antiClickjack);
+        } else {
+            top.location = self.location;
+        }
+    </script>
+
+<script type="text/javascript">/*<![CDATA[*/
+    var Liferay = {
+        Browser: {
+            acceptsGzip: function () {
+                return true
+            }, getMajorVersion: function () {
+                return 48
+            }, getRevision: function () {
+                return "48.0"
+            }, getVersion: function () {
+                return "48.0"
+            }, isAir: function () {
+                return false
+            }, isChrome: function () {
+                return false
+            }, isFirefox: function () {
+                return true
+            }, isGecko: function () {
+                return true
+            }, isIe: function () {
+                return false
+            }, isIphone: function () {
+                return false
+            }, isLinux: function () {
+                return false
+            }, isMac: function () {
+                return true
+            }, isMobile: function () {
+                return false
+            }, isMozilla: function () {
+                return true
+            }, isOpera: function () {
+                return false
+            }, isRtf: function () {
+                return true
+            }, isSafari: function () {
+                return false
+            }, isSun: function () {
+                return false
+            }, isWap: function () {
+                return false
+            }, isWapXhtml: function () {
+                return false
+            }, isWebKit: function () {
+                return false
+            }, isWindows: function () {
+                return false
+            }, isWml: function () {
+                return false
+            }
+        }, ThemeDisplay: {
+            getCompanyId: function () {
+                return "10112"
+            }, getUserId: function () {
+                return "10115"
+            }, getDoAsUserIdEncoded: function () {
+                return ""
+            }, getPlid: function () {
+                return "12669"
+            }, getLayoutId: function () {
+                return "1"
+            }, getLayoutURL: function () {
+                return "/portal/web/dotgov/welcome"
+            }, isPrivateLayout: function () {
+                return "false"
+            }, getParentLayoutId: function () {
+                return "0"
+            }, getScopeGroupId: function () {
+                return "12665"
+            }, isSignedIn: function () {
+                return false
+            }, getLanguageId: function () {
+                return "en_US"
+            }, isFreeformLayout: function () {
+                return false
+            }, isStateExclusive: function () {
+                return false
+            }, isStateMaximized: function () {
+                return false
+            }, isStatePopUp: function () {
+                return false
+            }, getPathContext: function () {
+                return "/portal"
+            }, getPathImage: function () {
+                return "/portal/image"
+            }, getPathMain: function () {
+                return "/portal/c"
+            }, getPathThemeImages: function () {
+                return "/dotgov-theme/images"
+            }, getPathThemeRoot: function () {
+                return "/dotgov-theme/"
+            }, getURLHome: function () {
+                return "https://www.dotgov.gov/portal/web/dotgov"
+            }, getSessionId: function () {
+                return "01ZTZRVXL1GY1HYBjYG9wWlB2YTCm1DhXjQWzyKPvZnxpnMpBBlSDSLbLJ91QbJpFh42ktn938PtqtF4qTxPHB2l5SSYL1ntKGPQZW2GWSNnQRdFPLynLL3kDyJ8Lvnf!2116273781!1494341047642"
+            }, getPortletSetupShowBordersDefault: function () {
+                return true
+            }
+        }
+    };
+    /*]]>*/</script>
+     <script type="text/javascript">/*<![CDATA[*/
+		if (jQuery.ui && jQuery.ui.tabs) {
+			jQuery.extend(jQuery.ui.tabs.defaults, {navClass: "ui-tabs tabs", selectedClass: "current"})
+		};
+
+    /*]]>*/</script>
+
+    <link href="/dotgov-web/css/main.css?browserId=firefox&amp;minifierType=css&amp;t=1493836795000" rel="stylesheet" type="text/css" />
+    <style type="text/css">#banner .logo a {
+        background: url("/dotgov-web/images/company_logo.png") no-repeat;
+        display: block;
+        font-size: 0;
+        height: 76px;
+        text-indent: -9999em;
+        width: 209px;
+    }</style>
+    <style type="text/css">#p_p_id_73_INSTANCE_Xa26_ {
+        background-color: #BBC8E8;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+        padding-left: 10px;
+    }
+
+    #p_p_id_56_INSTANCE_F0hD_ {
+        background-color: #DFDFFA;
+        margin: 2px;
+        padding: 3px;
+        line-height: 1.4em;
+        text-align: left;
+    }</style>
+
+
+</head>
+<body class=" controls-visible public-page">
+
+
+<div id="wrapper">
+
+	<!--  ui:debug/ -->
+    <div id="banner"><h1 class="company-logo"> DOTGOV </h1>
+<form id="signoutForm" name="signoutForm" method="post" action="/dotgov-web/welcome.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="signoutForm" value="signoutForm" />
+
+        <div id="headerlinks">
+        </div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1:j_id2" />
+</form>
+
+    </div>
+    <script type="text/javascript">/*<![CDATA[*/
+    function captureClicks(a, b) {
+        window.location = b
+    }
+    ;
+    /*]]>*/</script>
+
+    <!-- Header Menu Starts Here -->
+<!--  START: HEADER MENU -->
+<div id="navigation" class="sort-pages modify-pages">
+    <ul>
+			<li><a href="/dotgov-web/welcome.xhtml?_m=1">
+                        <span>Home</span></a>
+			</li>
+			<li>
+                    <a href="https://home.dotgov.gov/registration/#review-our-policies" target="_blank"><span>Policy</span></a>
+			</li>
+			<li>
+                    <a href="https://home.dotgov.gov/registration/#prepare-to-make-your-request" target="_blank"><span>Registration Process</span></a>
+			</li>
+    </ul>
+</div>
+<!--  END: HEADER MENU -->
+
+    <!-- Header Ends Here -->
+
+
+
+    <div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_  "><a id="p_103"></a>
+
+    </div>
+    <div class="1_3_Column" id="content-wrapper">
+
+        <table class="lfr-grid" id="layout-grid" width="100%">
+            <tr>
+
+                <td style="padding-bottom:15px;" colspan="3" id="row-1">
+
+                    <!-- Sub header menu Starts Here -->
+
+                    <div class="lfr-portlet-column" id="layout-column_column-1">
+                        <div id="p_p_id_73_INSTANCE_Xa26_" class="portlet-boundary portlet-boundary_73_  portlet-breadcrumb"><a id="p_73_INSTANCE_Xa26"></a>
+                            <div class="portlet-borderless-container">
+                                <div><a href="/dotgov-web/welcome.xhtml?_m=1"> Home</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sub Header Ends Here -->
+                </td>
+            </tr>
+            <tr>
+                <td class="lfr-column" style="padding-right:10px;" id="row2-column-1" width="200" valign="top">
+                    <!-- Left menu starts here -->
+	<div class="lfr-portlet-column" id="layout-column_column-2">
+		<div id="p_p_id_71_INSTANCE_sQb6_" class="portlet-boundary portlet-boundary_71_  portlet-navigation">
+			<a id="p_71_INSTANCE_sQb6"></a>
+			<div class="portlet-borderless-container">
+				<div>
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tr>
+							<td>
+
+								<div id="navcontainer">
+
+									<div id="CatName"><a href="/dotgov-web"> </a>
+									</div>
+								</div>
+								<br />
+
+
+
+							</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+                    <!-- Left menu ends here -->
+                </td>
+
+                <td class="lfr-column" id="row2-column-2" width="560" valign="top">
+
+                    <div id="cookie-message" style="display:none">
+                        <p style="border-style: solid; color: #004085; border-width: 10px; border-color: #cce5ff; background-color: #cce5ff; text-align:center;">
+                            This site requires cookies. Please enable cookies in browser settings and refresh the page before attempting to login.
+                        </p>
+                    </div>
+                    <!-- BodyContent Start From here !-->
+
+    <div class="lfr-portlet-column" id="layout-column_column-3">
+        <div id="p_p_id_56_INSTANCE_0EDv_" class="portlet-boundary portlet-boundary_56_  portlet-journal-content"><a id="p_56_INSTANCE_0EDv"></a>
+            <div class="portlet-borderless-container">
+                <div><div class="journal-content-article" id="article_12665_12681_1.0"><p>&#160;</p>
+    <div style="margin: 0pt; padding: 0pt; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-weight: bold; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Helvetica, Verdana, Arial, sans-serif; white-space: nowrap; background: 0pt 0pt rgb(255, 255, 255);">
+        Welcome
+    </div>
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        &#160;</p>
+
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="font-size: small;">DotGov has a new <a href="https://home.dotgov.gov/"><span style="color: rgb(51, 102, 255);"><strong>homepage</strong></span></a>! 
+	For updates to program documents and policies, visit <a href="https://home.dotgov.gov/">https://home.dotgov.gov</a>.
+	<strong style="font-style: normal; font-weight: bold;">To manage your domain, stay here at</strong> domains.dotgov.gov.</span>
+    </p>
+
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="font-size: small;">You have reached the General Services Administration (GSA) website for domain name registration for the U.S. government. Since 1997, we have been proud to manage the .gov and .fed.US top-level domains.</span>
+    </p>
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="font-size: small;">
+            In order to manage&#160;.gov domains you must have a user ID and password into this system. If you do not have a user&#160;ID and password, please click on the
+            <span class="Apple-converted-space">&#160;</span>
+            <strong style="font-style: normal; font-weight: bold;">Account</strong>
+            <span class="Apple-converted-space">&#160;</span>
+            tab to apply for a new account.
+        </span>
+    </p>
+       <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="font-size: small;">
+        Federal Executive Branch Agencies should be familiar with
+        <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/egov/memo/policies-for-dot-gov-domain-issuance-for-federal-agency-public-websites.pdf"
+           target="_blank">
+            <span style="color: rgb(51, 102, 255);">OMB guidance.</span>
+        </a>
+        </span>
+    </p> 
+    <div>&#160;</div>
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="color: rgb(255, 0, 0);">
+            <font size="2">
+                ******************************************** WARNING *******************************************
+            </font>
+        </span>
+    </p>
+    <p style="margin: 0px 0px 1em; padding: 0px; color: rgb(0, 0, 0); font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 16px; orphans: auto; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+        <span style="color: rgb(255, 0, 0);">
+            <font size="2">
+                This is a U.S. General Services Administration Federal Government computer system that is &quot;FOR OFFICIAL USE ONLY.&quot; This system is subject to monitoring. &#160;Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution.
+            </font>
+        </span>
+    </p>
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div id="p_p_id_58_" class="portlet-boundary portlet-boundary_58_  portlet-login">
+            <a id="p_58"></a>
+            <div class="portlet-borderless-container">
+                <div>
+                    <script type="text/javascript">/*<![CDATA[*/
+                        jQuery(document).ready(function () {
+                            jQuery("form input").keypress(function (a) {
+                                if ((a.which && a.which == 13) || (a.keyCode && a.keyCode == 13)) {
+                                    jQuery("#loginForm_submit").click();
+                                    return true
+                                }
+                            })
+                        });
+                        /*]]>*/
+
+                    </script>
+
+                    <div>
+                        <div class="signin-block">
+<form id="loginForm" name="loginForm" method="post" action="/dotgov-web/welcome.xhtml" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="loginForm" value="loginForm" />
+
+
+                                <input name="_58_redirect" type="hidden" />
+                                <input id="_58_rememberMe" name="_58_rememberMe" type="hidden" value="false" />
+
+                                <span class="error">
+								</span>
+
+                                <span class="asterisks">* </span> <span style="font-size: 90%;">Required fields </span> <br> </br> <span class="error"> </span> <span class="asterisks">* </span> <span class="text"><label for="loginForm:username">
+ Username:</label> </span>
+                                <!-- <input type="text" id="_58_login" name=" username" value=""
+                                       style="width: 263px; margin-left: 5px;"/> --><input id="loginForm:username" type="text" name="loginForm:username" maxlength="63" style="width: 263px; margin-left: 5px;" />
+                                <div style="height: 5px;"></div>
+                                <span class="asterisks">* </span> <span class="text"><label for="loginForm:password">
+ Password:&nbsp;</label> </span>
+                                <!-- <input
+                                        id="_58_password" name="password" type="password" value=""
+                                        style="width: 263px; margin-left: 5px;"/> --><input id="loginForm:password" type="password" name="loginForm:password" autocomplete="off" value="" maxlength="128" style="width: 263px; margin-left: 5px;" />
+                                <br />
+
+                                <br />
+                                <div align="right" style="padding-right:270px"><input id="loginForm:submit" type="submit" name="loginForm:submit" value="Sign In" />
+                                </div>
+                                <div class="clear"></div><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1:j_id2" />
+</form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="p_p_id_56_INSTANCE_x3TW_" class="portlet-boundary portlet-boundary_56_  portlet-journal-content"><a id="p_56_INSTANCE_x3TW"></a>
+            <div class="portlet-borderless-container">
+                <div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+                    <!-- BodyContent Ends Here -->
+
+                </td>
+<td class="lfr-column" style="padding-left:10px;padding-top:20px;" id="row2-column-3" valign="top" align="right">
+
+    <!-- Right Customer Service Column Start -->
+    <div class="lfr-portlet-column" id="layout-column_column-4">
+        <div class="portlet-boundary portlet-boundary_56_  portlet-journal-content"><a id="p_56_INSTANCE_kB5h"></a>
+            <div class="portlet-borderless-container">
+                <div>
+                    <div class="journal-content-article" id="article_12665_12692_1.0" align="center">
+                        <div>
+
+                            <table style="width:100%; background-size: 100% 100%; background-repeat: no-repeat;" background="/dotgov-web/images/image_gallery_no_text.png">
+                                <tbody style="text-indent: 8px;">
+                                <tr><td colspan="2" style="font-size:15px;padding-top: 5px;padding-bottom: 5px;" align="left">Customer Support</td></tr>
+                                    <tr>
+                                        <td>Toll Free:</td>
+                                        <td>(877)REG-GOVT</td>
+                                    </tr>
+                                    <tr>
+                                        <td></td>
+                                        <td>(877)734-4688</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Direct:</td>
+                                        <td>(703)948-0723</td>
+                                    </tr>
+                                    <tr style="height: 10px !important;">
+                                        <td> </td>
+                                        <td> </td>
+                                    </tr>
+                                    <tr>
+                                        <td>eFax:</td>
+                                        <td>(540)301-0160</td>
+                                    </tr>
+                                    <tr>
+                                        <td>E-mail:</td>
+                                        <td>registrar@dotgov.gov</td>
+                                    </tr>
+                                    <tr style="height: 10px !important;">
+                                        <td> </td>
+                                        <td> </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <p></p>
+        <div id="p_p_id_56_INSTANCE_F0hD_" class="portlet-boundary portlet-boundary_56_  portlet-journal-content"><a id="p_56_INSTANCE_F0hD"></a>
+            <div class="portlet-borderless-container">
+                <div>
+                    <div class="journal-content-article" id="article_12665_264096_1.0">
+                        <p>Determine whether your .gov domain name is signed with DNSSEC using <a href="http://dnssec-debugger.verisignlabs.com" target="_blank">DNSSECAnalyzer</a>.</p></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Right Customer Service Column End -->
+</td>
+
+            </tr>
+        </table>
+    </div>
+    <div id="footer">
+        <table cellspacing="0" width="100%" style="text-align: right;">
+            <tbody>
+            <tr>
+                <td>
+                    <div id="footer_icon"><img src="/dotgov-web/images/gov/gsa-favicon.png" width="7%" style="border: medium none;float:left; padding-right: 5px;" alt="icon of gsa" />
+                        <p style="text-align: left; margin: 3px; color:gray; font-family: sans-serif; font-weight: 100; font-size:small">GSA Office of Information,<br />Integrity and Access,<br />Office of Government-wide Policy</p>
+                    </div>
+                </td>
+                <td valign="top" style="font-size: small;">
+                    <a id="private_policy" href="https://home.dotgov.gov/privacy/" target="_blank">Privacy policy</a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<script type="text/javascript" language="javascript" src="/dotgov-web/js/cookie-message.js"></script>
+</body>
+<script type="text/javascript">
+    // Detect JS support
+    document.body.className = document.body.className + " js_enabled";
+</script>
+        </html>

@@ -1,0 +1,1240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> 
+<head>
+<!-- P1 -->
+<meta name="viewport" content="initial-scale=0.8; width=device-width" /> <script> function getWidth() { xWidth = null; if(window.screen!= null) xWidth = window.screen.availWidth; if(window.innerWidth != null) xWidth = window.innerWidth; if(document.body !=null) xWidth = document.body.clientWidth; return xWidth; } if (/(Android|iPhone|iPod|webOS|NetFront|Opera Mini|SEMC-Browser|PlayStationPortable|Nintendo Wii|BlackBerry)/.test(navigator.userAgent) && (!(getWidth() > 600)|| /Mobile/.test(navigator.userAgent))){if(!String(window.location).match(/view_full/)){ window.location = "/mobile";} } </script> <title>U.S. Bureau of Labor Statistics</title> <!-- ****************************************** Begin META TAGS********************************************* --> <link href="/stylesheets/bls_home.css" rel="Stylesheet" type="text/css"media="all" /> 	<!-- START include/global/head.stm -->
+	<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&subagency=BLS&yt=true"></script>
+	<script src="/javascripts/jquery-latest.js"></script>
+	<script src="/javascripts/bls-latest.js"></script>
+	<script src="/javascripts/jquery-tools.js"></script>
+	<script src="/javascripts/jquery-migrate-1.2.1.min.js"></script>
+	<script>
+(function (g) {
+var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
+aex = {
+  "src": "//gateway.foresee.com/sites/bls.gov/production/gateway.min.js",
+  "type": "text/javascript",
+  "async": "true",
+  "data-vendor": "fs",
+  "data-role": "gateway"
+};
+for (var attr in aex){am.setAttribute(attr, aex[attr]);}h.appendChild(am);g[fsr] = function () {var aT = '__' + fsr + '_stk__';g[aT] = g[aT] || [];g[aT].push(arguments);};
+})(window);
+fsReady(function() {
+	FSR.CPPS.get('visitedSubSites', function(val) {
+		var cpp = {};if(val){var arr = val.split(/,/gi);if(!arr.length){arr.push(val)}for(key in arr){if(typeof arr[key] == "string"){cpp[arr[key]] = true;}}}var rp = window.location.pathname.replace(/\/(opub\/(.*?)\/.*$|(.*?)\/.*$)/gi,"$2$3");if(rp.match(/(blog|btn|ces|cew|cex|charts|cpi|cps|ebs|ect|emp|fls|iif|jlt|lau|lpc|mfp|mlr|mxp|ncs|nls|oes|ooh|ors|ppi|regions|sae|ted|tus|video)/gi)){cpp[rp] = true;var out = "";for(key in cpp){out+= key + ",";}out=out.replace(/,$/,"");FSR.CPPS.set('visitedSubSites',out);
+	}
+    });
+});
+</script>
+
+	
+	<link rel="stylesheet" href="/assets/bootstrap/4.0.0/bootstrap.min.css">
+	<!--script src="/assets/bootstrap/4.0.0/jquery-3.2.1.slim.min.js"></script-->
+	<script src="/assets/bootstrap/4.0.0/popper.min.js"></script>
+	<script src="/assets/bootstrap/4.0.0/bootstrap.min.js"></script>
+
+
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_combined.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_content.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_tables.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/jquery-tools.css">
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_nr.css">
+    <!--[if lt IE 9]>
+		<link href="/stylesheets/ie8-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+	<![endif]-->
+	<!--[if lt IE 8]>
+		<link href="/stylesheets/ie7-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+	<![endif]-->
+	<!--[if lt IE 7]>
+		<link href="/stylesheets/ie6-styles.css" media="all" rel="Stylesheet" type="text/css"> 
+		<style>
+		body {
+			behavior:url(/stylesheets/csshover2.htc);
+		}
+		</style>			
+	<![endif]-->
+	<!--[if IE]>
+		<style>
+		body {
+			font-size: expression(1 / (screen.deviceXDPI / 96) * 84 + '%');
+		}
+		</style>	
+	<![endif]-->
+	<noscript>
+	<link rel="stylesheet" type="text/css" href="/stylesheets/bls_noscript.css">
+	</noscript>
+	<!--  This means that the browser will (probably) render the width of the page at the width of its own screen. -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<meta http-equiv="x-ua-compatible" content="IE=Edge" />
+    <meta property="og:image" content="https://www.bls.gov/images/bls_emblem.png" />
+		<style>
+			td.gsc-table-cell-thumbnail{
+			display:none !important;
+			}
+		</style>
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+	<link rel="manifest" href="/manifest.json" />
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+	<meta name="theme-color" content="#ffffff" />
+    <!-- END include/global/head.stm --> <!-- MAP JS --> <script type="text/javascript" src="/javascripts/mapper.js"></script>
+	<meta name="agency" content="BLS" />
+	<meta name="audience" content="general" /> <meta name="description" content="The Bureau of Labor Statistics is the principal fact-finding agency for the Federal Government in the broad field of labor economics and statistics."> 
+<meta name="keywords" content="Employment statistics, US employment statistics, jobless rates, CPI, PPI, labor statistics, labor stats, unemployment data, employment figures, unemployment figures, consumer spending, consumer spending statistics, productivity, compensation, occupational outlook">  <link rel="alternate" type="application/rss+xml"title="BLS Latest Numbers" href="/feed/bls_latest.rss"> <meta charset="utf-8"><!-- ****************************************** End META TAGS *********************************************** --> <meta property="fb:page_id" content="355233834527093" /><meta property="og:image" content="https://www.bls.gov/images/bls_emblem.png"/><script type="text/javascript">$(document).ready(function(){$(".tooltip-homepage").tooltip({ position: "top center" ,effect: "fade", offset:[0,50]}).dynamic({ bottom: { direction: 'down'} });});function random_rotate(_min,_max,id,rel_url,stm){var TOTAL = (_max + 1) - _min;var f = Math.floor(Math.random()*(TOTAL))+ _min;f = f < 10 ? "00" + f : f < 100 ? "0" + f : f;f = rel_url+stm+f+".stm";if(window.ActiveXObject){xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}else if (window.XMLHttpRequest){xmlhttp=new XMLHttpRequest();}xmlhttp.open("GET",f,false);xmlhttp.send();if(xmlhttp.status==200){document.getElementById(id).innerHTML=xmlhttp.responseText;}}</script></head> <body><!-- ThreeColHead Begin -->
+
+<!-- DOL BANNER BEGIN -->
+<!-- DOL BANNER START -->
+		<a class="skiplink" href="#startcontent">Skip to Content</a>
+
+		<div id="usa-banner-wrapper">
+<div id="usa-banner" class="bootstrap standard-width">
+	<div class="content">
+	<div class="USA-flag-link">
+	<img src="https://www.dol.gov/themes/opa_theme/img/flag-favicon-57.png" alt="U.S. flag">
+	<p>An official website of the United States government 
+	  
+	<button type="button" data-toggle="collapse" data-target="#usaBanner" aria-expanded="false" aria-controls="usaBanner">Here is how you know <span class="oi" data-glyph="chevron-bottom"></span></button>
+	</p>
+	</div>
+		<a href="https://www.dol.gov/" id="dolHolder" class="dolHolder" target="_blank"><img src="https://www.dol.gov/themes/opa_theme/img/logo-primary.svg" alt="Department of Labor Logo"/>  United States Department of Labor</a>
+	</div>
+	
+	<div class="collapse " id="usaBanner">	
+	<div class="row">
+	<div class="col-md-6">
+		<img src="https://www.dol.gov/themes/opa_theme/img/icon-dot-gov.svg" alt="Dot gov">
+
+		<p>
+			<strong>The .gov means it's official.</strong>
+			<br> Federal government websites often end in .gov or .mil. Before sharing sensitive information,
+			make sure you're on a federal government site.
+		</p>
+	</div>
+
+	<div class="col-md-6">
+	<img class="usa-banner-icon usa-media_block-img" src="https://www.dol.gov/themes/opa_theme/img/icon-https.svg" alt="Https">
+	
+		<p>
+			<strong>The site is secure.</strong>
+			<br> The
+			<strong>https://</strong> ensures that you are connecting to the official website and that any
+			information you provide is encrypted and transmitted securely.
+		</p>
+	</div>
+	</div>
+	</div>		
+</div>
+</div>
+
+
+
+<!-- DOL BANNER END -->
+
+
+<!-- DOL BANNER END -->
+
+<!-- BLS BANNER BEGIN -->
+<div id="bls-banner-wrapper">
+<div id="top"></div>
+		<div class="bootstrap standard-width">
+<div>
+  <div id="bls-banner" class="row">
+    <div id="bls-banner-emblem" class="col-sm-12 col-md-7">
+      <a href="https://www.bls.gov/">U.S. Bureau of Labor Statistics</a>
+    </div>
+    <div id="bls-banner-right" class="col-sm-12 col-md-5 d-none d-md-block">
+      <div id="bls-banner-links"><span class="social-follow"><a title="Follow BLS on Twitter" target="_blank" href="http://twitter.com/BLS_gov" aria-label="Bureau of Labor Statistics Twitter">Follow Us</a> </span><span class="social-follow-links"> 
+        <!-- <img src="/images/icons/facebook.png"/>--> 
+        <a target="_blank" href="http://twitter.com/BLS_gov" aria-label="Bureau of Labor Statistics Twitter"><img style="margin-top:-10px;" alt="Follow BLS on Twitter" src="/images/icons/twitter.png"/></a> 
+        <!--<img src="/images/icons/linkedin.png"/>--> 
+        </span> | <a href="/schedule/news_release/">Release Calendar</a> | <a href="https://blogs.bls.gov/blog/" aria-label="Blog page">Blog</a></div>
+      <div id="bls-banner-search1" class="bls-banner-search">
+        <form method="get" action="/search/query">
+		  <label for="bls-banner-search-submit1" class="invisible">Search button</label>
+          <input type="image" src="/images/buttons/search_button_blue_16.png" name="term" id="bls-banner-search-submit1" alt="BLS Search Submit" title="Submit" >
+		  <label for="bls-banner-search-input1" class="invisible">Search:</label>
+          <input name="query" type="text" id="bls-banner-search-input1" value="Search BLS.gov" title="Search Input" onclick="this.value=''; this.onclick = null;">
+
+        </form>
+      </div>
+    </div>
+    <div class="clearfloat"></div>
+  </div>
+</div>
+</div>
+</div>
+<!-- BLS BANNER END -->
+
+<!-- MAIN NAV BEGIN -->
+
+
+<div id="main-nav-wrapper">
+	<div id="main-nav-container">
+		<div>
+			
+<div class="bootstrap standard-width">
+<nav class="navbar navbar-expand-md">
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon">Menu</span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+  
+
+
+<ul class="nojs navbar-nav mr-auto">
+	  <li class="dropdownSearch"><div id="bls-banner-search" class="dropdown-search">
+        <form method="get" action="/search/query">
+		  <label for="bls-banner-search-submit" class="invisible">Search button</label>
+          <input type="image" src="/images/buttons/search_button_blue_20.png" name="term" id="bls-banner-search-submit" alt="BLS Search Submit" title="Submit">
+		  <label for="bls-banner-search-input" class="invisible">Search:</label>
+          <input name="query" type="text" id="bls-banner-search-input" value="Search BLS.gov" title="Search Input" onclick="this.value=''; this.onclick = null;">
+
+        </form>
+      </div></li>
+    <li class="nav-item dropdown active"><a class="nav-link dropdown-toggle" href="https://www.bls.gov/" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown1"><!-- ********************************************** Begin Home Tab LIST ****************************************** -->
+<!-- 1st column -->
+
+<div class="main-nav-submenu" id="submenu-home">
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/bls/proghome.htm" aria-label="Subject Areas">Subject Areas &#187;</a></li>
+		<li><a href="/bls/inflation.htm" aria-label="Statistics on Inflation and Prices">Inflation &amp; Prices</a></li>
+		<li><a href="/bls/spending.htm" aria-label="Statistics on Spending and Time Use">Spending &amp; Time Use</a></li>
+		<li><a href="/bls/unemployment.htm" aria-label="Statistics on Unemployment">Unemployment</a></li>
+		<li><a href="/bls/employment.htm" aria-label="Statistics on Employment">Employment</a></li>
+		<li><a href="/bls/wages.htm" aria-label="Pay and Benefits">Pay &amp; Benefits</a></li>
+		<li><a href="/bls/productivity.htm" aria-label="Productivity Statistics">Productivity</a></li>
+		<li><a href="/iif/" aria-label="Workplace Injuries, Illnesses, and Fatalities">Workplace Injuries</a></li>
+		<li><a href="/bls/international.htm" aria-label="International Data and Technical Cooperation">International</a></li>
+		<li><a href="/bls/demographics.htm" aria-label="Demographic Data">Demographics</a></li>
+		<li><a href="/bls/industry.htm" aria-label="Statistics by Industry">Industries</a></li>
+		<li><a href="/bls/business.htm" aria-label="Statistics on Business Costs">Business Costs</a></li>
+		<li><a href="/bls/occupation.htm" aria-label="Statistics by Occupation">Occupations</a></li>
+		<li><a href="/bls/geography.htm" aria-label="Statistics by Geography">Geography</a></li>
+	</ul>
+	<!-- 2nd column -->
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/audience/" aria-label="Resources For...">Resources For &#187;</a></li>
+		<li><a href="/audience/business.htm" aria-label="Resources for Business Leaders">Business Leaders</a></li>
+		<li><a href="/audience/consumers.htm" aria-label="Resources for Consumers">Consumers</a></li>
+		<li><a href="/developers/" aria-label="Developer's Site">Developers</a></li>
+		<li><a href="/audience/economists.htm" aria-label="Economist or Economic Analyst">Economists</a></li>
+		<li><a href="/audience/investors.htm" aria-label="Resources for Financial Investors">Investors</a></li>
+		<li><a href="/audience/jobseekers.htm" aria-label="Resources for Jobseekers">Jobseekers</a></li>
+		<li><a href="/newsroom/" aria-label="Newsroom">Media</a></li>
+		<li><a href="/audience/policy.htm" aria-label="Resources for Public Policymakers">Public Policymakers</a></li>
+		<li><a href="/audience/students.htm" aria-label="Resources for Students and Teachers">Students &amp; Teachers</a></li>
+		<li><a href="/respondents/" aria-label="Survey Respondents">Survey Respondents</a></li>
+		<li class="heading"><a href="/eag/" aria-label="At a Glance Tables">At a Glance Tables &#187;</a></li>
+		<li><a href="/eag/eag.us.htm" aria-label="United States' Economy at a Glance">U.S. Economy</a></li>
+		<li><a href="/eag/" aria-label="Economy at a Glance">Regions, States, &amp; Areas</a></li>
+		<li><a href="/iag/" aria-label="Industries at a Glance">Industries</a></li>
+	</ul>
+	<!-- 3rd column -->
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/bls/infohome.htm" aria-label="More">MORE &#187;</a></li>
+		<li><a href="/bls/announcement.htm" aria-label="Annoucements">Announcements</a></li>
+		<li><a href="/bls/bls-speakers/bls-speakers.htm" aria-label="BLS Speakers Available">BLS Speakers Available</a></li>
+		<li><a href="/errata/" aria-label="More, Errata">Errata</a></li>      
+        <li><a href="/bls/research.htm" aria-label="Research Programs">Research</a></li>
+        <li><a href="/osmr/response-rates/" aria-label="Response Rates">Response Rates</a></li>
+		<li><a href="/bls/other.htm" aria-label="More, Statistical Sites">Statistical Sites</a></li>
+	</ul>
+</div>
+
+<!-- ***********************************************End Home Tab LIST ******************************************** --> 
+
+</div>
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/bls/proghome.htm" id="navbarDropdown2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Subjects <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown2"><!-- ************************************* Begin SUBJECTS TAB list ****************************************** -->
+<!-- 1st column -->
+
+<div class="main-nav-submenu" id="submenu-programs">
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/bls/inflation.htm" aria-label="Statistics on Inflation and Prices">Inflation &amp; Prices &#187;</a></li>
+		<li><a href="/cpi/" aria-label="Consumer Price Index ">Consumer Price Index</a></li>
+		<li><a href="/ppi/" aria-label="Producer Price Indexes">Producer Price Indexes</a></li>
+		<li><a href="/mxp/" aria-label="Inflation and Prices, Import Export Price Indexes">Import/Export Price Indexes</a></li>
+		<li><a href="/ncs/ect/" aria-label="Employment Cost Trends">Employment Cost Index</a></li>
+		<li><a href="/bls/escalation.htm" aria-label="Contract Escalation">Contract Escalation</a></li>
+		<li><a href="/pir/" aria-label="Price and Index Number Research">Price Index Research</a></li>
+		<li class="heading"><a href="/bls/wages.htm" aria-label="Statistics on Pay and Benefits">Pay &amp; Benefits &#187;</a></li>
+		<li><a href="/ncs/ect/" aria-label="Employment Cost Trends">Employment Costs</a></li>
+		<li><a href="/ncs/" aria-label="National Compensation Survey">National Compensation Data</a></li>
+		<li><a href="/bls/blswage.htm" aria-label="Wage Data by Area and Occupation">Wages by Area &amp; Occupation</a></li>
+		<li><a href="/cps/earnings.htm#demographics" aria-label="Earnings by Demogrcaphics">Earnings by Demographics</a></li>
+		<li><a href="/ces/" aria-label="Current Employment Statistics">Earnings by Industry</a></li>
+		<li><a href="https://www.bls.gov/cew/" aria-label="Quarterly Census of Employment and Wages">County Wages</a></li>  <!--full path is needed since they have a folder on the data server-->
+		<li><a href="/ncs/ebs/" aria-label="Employee Benefits Survey">Benefits</a></li>
+		<li><a href="/crp/" aria-label="Compensation Research & Program Development">Compensation Research</a></li>
+		<li><a href="/wsp/" aria-label="Work Stoppages">Strikes &amp; Lockouts </a></li>
+		<li class="heading"><a href="/bls/spending.htm" aria-label="Statistics on Spending and Time Use">Spending &amp; Time Use &#187;</a></li>
+		<li><a href="/cex/" aria-label="Consumer Expenditure Surveys">Consumer Expenditures </a></li>
+		<li><a href="/tus/" aria-label="American Time Use Survey">How Americans Spend Time</a></li>
+	</ul>
+	<!-- 2nd column -->
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/bls/unemployment.htm" aria-label="Statistics on Unemployment">Unemployment &#187;</a></li>
+		<li><a href="/cps/" aria-label="Labor Force Statistics from the Current Population Survey">National Unemployment Rate </a></li>
+		<li><a href="/lau/" aria-label="Local Area Unemployment Statistics">State &amp; Local Unemployment Rates </a></li>
+		<li><a href="/ers/" aria-label="Employment Research and Program Development">Unemployment Research</a></li>
+		<li class="heading"><a href="/bls/employment.htm" aria-label="Statistics on Employment">Employment &#187;</a></li>
+		<li><a href="/ces/" aria-label="Current Employment Statistics">National Employment </a></li>
+		<li><a href="/sae/" aria-label="State and Metro Area Employment, Hours, and Earnings">State &amp; Local Employment </a></li>
+		<li><a href="https://www.bls.gov/cew/" aria-label="Quarterly Census of Employment and Wages">State &amp; County Employment </a></li> <!--full path is needed since they have a folder on the data server-->
+		<li><a href="/cps/" aria-label="Labor Force Statistics from the Current Population Survey">Worker Characteristics </a></li>
+		<li><a href="/emp/" aria-label="Employment Projections">Employment Projections </a></li>
+		<li><a href="/jlt/" aria-label="Job Openings and Labor Turnover Survey">Job Openings &amp; Labor Turnover </a></li>
+		<li><a href="/oes/" aria-label="Occupational Employment Statistics">Employment by Occupation </a></li>
+		<li><a href="/nls/" aria-label="National Longitudinal Surveys">Work Experience Over Time </a></li>
+		<li><a href="/bdm/" aria-label="Business Employment Dynamics">Business Employment Dynamics </a></li>
+		<li><a href="/fdi/" aria-label="Foreign Direct Investment">Foreign Direct Investment </a></li>
+		<li><a href="/ers/" aria-label="Employment Research and Program Development">Employment Research</a></li>
+		<li class="heading"><a href="/iif/" aria-label="Injuries, Illnesses, and Fatalities">Workplace Injuries &#187;</a></li>
+		<li class="heading"><a href="/ors/" aria-label="Occupational Requirements Survey">Occupational Requirements &#187;</a></li>
+	</ul>
+	<!-- 3rd column -->
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/bls/productivity.htm" aria-label="Productivity Statistics">Productivity &#187;</a></li>
+		<li><a href="/lpc/" aria-label="Labor Productivity and Costs"> Labor Productivity &amp; Costs</a></li>
+		<li><a href="/mfp/" aria-label="Multifactor Productivity">Multifactor Productivity</a></li>
+		<li><a href="/dpr/" aria-label="Productivity Research and Program Development">Productivity Research</a></li>
+		<li class="heading"><a href="/bls/international.htm" aria-label="International Data and Technical Cooperation">International &#187;</a></li>
+		<li><a href="/itc/" aria-label="International Technical Cooperation">International Technical Cooperation</a></li>
+		<li><a href="/mxp/" aria-label="Import/Export Price Indexes">Import/Export Price Indexes</a></li>
+		<li class="heading"><a href="/regions/" aria-label="Regional Offices Section: Geographic Information">Regional Offices &#187;</a></li>
+		<li><a href="/regions/new-england/" aria-label="New England Information Office">New England (Boston)</a></li>
+		<li><a href="/regions/new-york-new-jersey/" aria-label="New York to New Jersey Information Office">New York-New Jersey (NY City)</a></li>
+		<li><a href="/regions/mid-atlantic/" aria-label="Mid-Atlantic Information Office">Mid-Atlantic (Philadelphia)</a></li>
+		<li><a href="/regions/southeast/" aria-label="Southeast Information Office">Southeast (Atlanta)</a></li>
+		<li><a href="/regions/midwest/" aria-label="Midwest Information Office">Midwest (Chicago)</a></li>
+		<li><a href="/regions/southwest/" aria-label="Southwest Information Office">Southwest (Dallas)</a></li>
+		<li><a href="/regions/mountain-plains/" aria-label="Mountain-Plains Information Office">Mountain-Plains (Kansas City)</a></li>
+		<li><a href="/regions/west/" aria-label="Western Information Office">West (San Francisco)</a></li>
+	</ul>
+</div>
+<!-- **************************************End SUBJECT AREAS ******************************************** --> 
+	</div>	
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/data/" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Data Tools <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown3"><!-- ******************************************** Begin DATA TOOLS LIST ****************************************** -->
+<div class="main-nav-submenu"  id="submenu-data">
+    <ul class="main-nav-submenu-inn">
+        <li class="heading"><a href="/data/" aria-label="Databases, Tables & Calculators by Subject">Data Retrieval Tools &#187;</a></li>
+		<li><a href="https://data.bls.gov/cgi-bin/surveymost?bls" aria-label="Top Picks">Top Picks</a></li>
+		<li><a href="https://data.bls.gov/cgi-bin/srgate" aria-label="Series Report">Series Report</a></li>
+		<li><a href="/data/" aria-label="Databases, Tables and Calculators by Subject">One Screen</a></li>
+		<li><a href="/data/" aria-label="Databases, Tables and Calculators by Subject">Multi-Screen</a></li>
+		<li><a href="/data/#maps" aria-label="Create Customized Maps">Maps </a></li>
+		<li><a href="/data/#calculators" aria-label="Calculators">Calculators</a></li>
+		<li><a href="/data/#api" aria-label="Public Data Application Programming Interface">Public Data API</a></li>
+    </ul>
+    <!-- 2nd column -->
+    <ul class="main-nav-submenu-inn">
+        <li class="heading"><a href="#" aria-label="Customized Tables">Customized Tables &#187;</a></li>
+		<li><a href="https://download.bls.gov/pub/time.series/" aria-label="Text Files">Text Files</a></li>
+		<li><a href="/data/#historical-tables" aria-label="Historical News Release Tables">News Release Tables</a></li>
+		<li class="heading"><a href="/bls/moredata.htm" aria-label="More Sources of Data">More Sources of Data &#187;</a></li>
+		<li><a href="/rda/" aria-label="Bureau of Labor Statistics Restricted Data Access">Restricted Data Access</a></li>
+		<li><a href="/data/archived.htm" aria-label="Discontinued Bureau of Labor Statistics Databases">Discontinued Databases </a></li>
+		<li><a href="/help/hlpform1.htm" aria-label="Frequently asked questions regarding Bureau of Labor Statistics website data retrieval tools">FAQs</a></li>
+		<li><a href="/help/notice.htm" aria-label="Program and Survey Notices">Special Notices </a></li>
+		<li><a href="/bls/moredata.htm" aria-label="More Sources of Data">More Sources of Data</a></li>
+    </ul>
+</div>
+<!-- *********************************************End DATABASES and TOOLS LIST ******************************************** --></div>
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/opub/" id="navbarDropdown4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Publications <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown4"><!-- ********************************************** Begin PUBLICATIONS LIST ****************************************** -->
+<div class="heading submenu-pubs"><a href="/opub/#latest" aria-label="Latest Publications">Latest Publications &#187;</a></div>
+<div class="main-nav-submenu"  id="submenu-pubs">
+    
+    <ul class="main-nav-submenu-inn"> 
+		<li><a href="/opub/ted/" aria-label="The Economics Daily">The Economics Daily</a></li>
+		<li><a href="/opub/mlr/" aria-label="Monthly Labor Review">Monthly Labor Review</a></li>
+		<li><a href="/opub/btn/" aria-label="Beyond the Numbers">Beyond the Numbers</a></li>
+		<li><a href="/spotlight/" aria-label="Spotlight on Statistics">Spotlight on Statistics</a></li>
+		<li><a href="/opub/reports" aria-label="Bureau of Labor Statistics Reports">Reports</a></li>
+		<li><a href="https://blogs.bls.gov/blog/" aria-label="Commissioner's Corner">Commissioner's Corner</a></li>
+		<li><a href="/video/" aria-label="Videos">Videos</a></li>
+    </ul>
+    <!-- 2nd column -->
+    <ul class="main-nav-submenu-inn">
+		<li><a href="/careeroutlook/" aria-label="Career Outlook">Career Outlook</a></li>
+		<li><a href="/ooh/" aria-label="Occupational Outlook Handbook">Occupational Outlook Handbook</a></li>
+		<li><a href="/opub/geographic-profile/" aria-label="Geographic Profile">Geographic Profile</a></li>
+		<li><a href="/opub/hom/" aria-label="Handbook of Methods">Handbook of Methods</a></li>
+		<!-- <li><a href="/nls/nlsnews.htm">National Longitudinal Surveys News</a></li>
+		<li><a href="/opub/#magazines">Magazines &amp; Journals </a></li>
+		<li><a href="/opub/#chartbooks">Chartbooks</a></li>
+		<li><a href="/opub/#catalog">Catalog of Publications </a></li> -->
+		<li><a href="/osmr/research-papers/" aria-label="Office of Survey Methods Research">Research Papers</a></li>
+		<li><a href="/opub/#copyright" aria-label="Copyright Information">Copyright Information</a></li>
+		<li><a href="/opub/#contact" aria-label="Contact and Help">Contact &amp; Help </a></li>
+    </ul>
+</div>
+<!-- ***********************************************End PUBLICATIONS LIST ******************************************** --> </div>
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/bls/newsrels.htm" id="navbarDropdown5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Economic Releases <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown5"><!-- ********************************************** Begin ECONOMIC RELEASES LIST ****************************************** -->
+<!-- 1st column -->
+<div class="main-nav-submenu" id="submenu-news">
+    <ul class="main-nav-submenu-inn">
+        <li class="heading"><a href="/bls/newsrels.htm#latest-releases" aria-label="Latest Releases">Latest Releases &#187;</a></li>
+		<li class="heading"><a href="/bls/newsrels.htm#major" aria-label="Major Economic Indicators">Major Economic Indicators &#187;</a></li>
+		<li class="heading"><a href="/schedule/news_release/" aria-label="Release Calendar">Schedules for news Releases &#187;</a></li>
+		<li><a href="/schedule/" aria-label="Release Calendar">By Month</a></li>
+		<li><a href="/schedule/schedule/by_prog/all_sched.htm" aria-label="Release Calendar">By News Release</a></li>
+		<li><a href="/schedule/news_release/current_year.asp" aria-label="Release Calendar Current Year">Current Year</a></li>
+		<li><a href="/bls/archived_sched.htm" aria-label="Schedules for Selected Bureau of Labor Statistics Economic News Releases for Prior Years">Prior Years</a></li>
+		<li class="heading"><a href="/bls/news-release/" aria-label="Archived News Releases">Archived News Releases &#187;</a></li>
+    </ul>
+    <!-- 2nd column -->
+    <ul class="main-nav-submenu-inn">
+        <li class="heading"><a href="/bls/newsrels.htm#OEUS" aria-label="Employment and Unemployment">Employment &amp; Unemployment &#187;</a></li>
+		<li><a href="/bls/newsrels.htm#OEUS" aria-label="Monthly">Monthly</a></li>
+		<li><a href="/bls/newsrels.htm#OEUS" aria-label="Quarterly Annual and Other">Quarterly, annual, and other</a></li>
+		<li class="heading" aria-label="Inflation and Prices"><a href="/bls/newsrels.htm#OPLC">Inflation &amp; Prices &#187;</a></li>
+		<li class="heading"><a href="/bls/newsrels.htm#OCWC" aria-label="Pay and Benefits and Workplace Injuries">Pay &amp; Benefits &amp; Workplace Injuries &#187;</a></li>
+		<li class="heading"><a href="/bls/newsrels.htm#OPT" aria-label="Productivity and Technology">Productivity &amp; Technology &#187;</a></li>
+		<li class="heading"><a href="/bls/newsrels.htm#OEP" aria-label="Employment Projections">Employment Projections &#187;</a></li>
+		<li class="heading"><a href="/bls/newsrels.htm#NEWS" aria-label="Regional News Releases">Regional News Releases &#187;</a></li>
+    </ul>
+</div></div>
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/k12/" id="navbarDropdown6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Students <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+<!-- ********************************************** Begin Students Tab LIST ****************************************** -->
+<div class="main-nav-submenu" id="submenu-students">
+	<ul class="main-nav-submenu-inn">
+		<li class="heading"><a href="/k12/" aria-label="K-12 Student and Teacher Resources">K-12 Student &amp; Teacher Resources &#187;</a></li>
+        <li><a href="/k12/games/" aria-label="Games and Quizzes">Games &amp; Quizzes</a></li>
+		<li><a href="/k12/students/" aria-label="Student Resources">Student Resources</a></li>
+		<li><a href="/k12/teachers/" aria-label="Teacher's Desk">Teacher&acute;s Desk</a></li>
+		<li><a href="/k12/history/" aria-label="History of BLS">History of BLS</a></li>
+		<li><a href="/k12/faq.htm" aria-label="Frequently Asked Questions regarding K through 12">FAQs</a></li>
+    </ul>
+</div>
+<!-- ***********************************************End Students Tab LIST ******************************************** --></div>
+    </li>
+    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="https://beta.bls.gov" id="navbarDropdown7" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Beta <i class="circle-arrow"></i></a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown7"><!-- ***********************************************Start BETA LIST ******************************************** -->
+<div class="main-nav-submenu" id="submenu-beta">
+    <ul class="main-nav-submenu-inn">
+<li class="heading"><a href="https://beta.bls.gov/labs/?p=600" aria-label="Redesigned News Releases">Redesigned News Releases &#187;</a></li>
+		<li class="heading"><a href="https://beta.bls.gov/api-charts/" aria-label="Industry Productivity Viewer">Industry Productivity Viewer &#187;</a></li>
+        <li class="heading"><a href="https://beta.bls.gov/dataQuery/" aria-label="Data Finder 1.0">Data Finder &#187;</a></li>
+		<li class="heading"><a href="https://beta.bls.gov/comparison-matrix/" aria-label="Comparison Matrix of BLS compensation data sources">Comparing Pay Measures &#187;</a></li>
+    </ul>
+</div>
+<!-- ***********************************************End BETA LIST ******************************************** --></div>
+    </li>
+
+</ul>
+
+
+  </div>
+</nav>
+</div>
+
+
+		</div>
+		<div class="clearfloat"></div>
+	</div>
+</div>
+
+<!-- MAIN NAV END -->
+
+<!-- WRAPPER TOP BEGIN -->
+	<div id="wrapper-outer">
+		<div id="wrapper">
+			<div id="container">
+<!-- WRAPPER TOP END -->
+
+<div class="clearfloat" id="startcontent"></div>
+
+
+
+
+<h1 class="invisible">U.S. Bureau of Labor Statistics Home</h1>
+<h2 class="invisible">Home Content Sections</h2>
+<div id="homepage">
+<div id="left-side-content"><!-- Place announcements here --> <div class="highlight-box-red">
+  <h4>Announcement</h4>
+  <ul>
+    <li>BLS COVID-19 Questions and Answers Updated September 11, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
+
+  </ul>
+</div>	 <!-- End announcements here --> <div id="news-releases">
+<div class="clearfloat"></div>
+			<!-- BEGIN 1 NEWS RELEASE ABSTRACT-->
+																				<div class="nr-calendar-date">
+				<div class="nr-date-month">
+					Sep				</div>
+				<div class="nr-date-day">
+					11				</div>
+			</div>
+				<div class="nr-entry">
+			<h4>					
+											<a href="/news.release/cpi.nr0.htm" 
+				title = "CPI for all items rises 0.4% in August on broad set of increases">
+				CPI for all items rises 0.4% in August on broad set of increases						</a></h4>
+										<p>
+								In August, the Consumer Price Index for All Urban Consumers rose 0.4 percent
+on a seasonally adjusted basis; rising 1.3 percent over the last 12 months,
+not seasonally adjusted. The index for all items less food and energy rose
+0.4 percent in August (SA); up 1.7 percent over the year (NSA).				</p>
+						<p>
+			<a class="blue-links" href="/news.release/cpi.nr0.htm" title="HTML version of Consumer Price Index News Release">
+			HTML</a> 
+			| <a class="blue-links" href="/news.release/pdf/cpi.pdf" title="PDF version of Consumer Price Index News Release" >
+			PDF</a>
+			| <a class="blue-links" href="/feed/cpi.rss" title="Subscribe to the Consumer Price Index News Release Feed" >
+			RSS</a>
+							| <a class="blue-links" href="/charts/consumer-price-index/" title = "Charts related to the latest Consumer Price Index News Release">
+				Charts</a>
+										| <a class="blue-links" href="/regions/subjects/consumer-price-indexes.htm" title="Local and Regional CPI">
+					Local and Regional CPI				</a>
+						</p>
+		</div>
+		<!-- END 1 NEWS RELEASE ABSTRACT-->
+		<div class="clearfloat"></div>
+							<div id="nr-archive">	
+				<!-- BEGIN 2 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			09/11/2020		</span>
+		<h4>
+											<a href="/news.release/realer.nr0.htm" 
+				title = "Real average hourly earnings are unchanged over the month in August">
+				Real average hourly earnings are unchanged over the month in August					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			09/10/2020		</span>
+		<h4>
+											<a href="/news.release/ppi.nr0.htm" 
+				title = "PPI for final demand increases 0.3% in August; services rise 0.5%, goods advance 0.1%">
+				PPI for final demand increases 0.3% in August; services rise 0.5%, goods advance 0.1%					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			09/09/2020		</span>
+		<h4>
+											<a href="/news.release/cesan.nr0.htm" 
+				title = "Consumer unit expenditures in 2019 were $63,036, a 3.0% increase from 2018">
+				Consumer unit expenditures in 2019 were $63,036, a 3.0% increase from 2018					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			09/09/2020		</span>
+		<h4>
+											<a href="/news.release/jolts.nr0.htm" 
+				title = "Job openings rise in July, hires decrease, and total separations little changed">
+				Job openings rise in July, hires decrease, and total separations little changed					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 5 NEWS RELEASE ARCHIVE LIST-->
+				</div>
+</div>
+
+
+ <a title="View All News Releases" class="read-more-link-nr" aria-label="View All News Releases" href="/bls/newsrels.htm">read more &raquo;</a> <h3 style="padding-top: 50px;"><a href="/regions/home.htm" title="Regional Products">GEOGRAPHIC INFORMATION &raquo;</a></h3>
+<div id="regional-products" class="accordion"> 
+  
+   <script type="text/javascript">
+      $(document).ready(function(){
+
+          activeItem = $("#accordion li:first");
+          $(activeItem).addClass('active');
+
+          $("#accordion li").hover(function(){
+              $(activeItem).animate({width: "22px"}, {duration:900, queue:false});
+              $(this).animate({width: "450px"}, {duration:900, queue:false});
+              activeItem = this;
+          });
+
+      });
+      </script>
+	  
+			
+	<noscript>
+	<style type="text/css">
+	  #regional-products li{display:none;}
+	  #regional-products li.nojs{display:block; width: inherit;}
+	  #regional-products form > div{text-align:center;}
+	  #regional-products form select{margin-left:0px;}  
+	  #geo-intro-slide{background:url('/images/layout/homepage/intro_slide2.jpg') top center no-repeat #439BC3 !important;}
+	</style>
+	</noscript>	  
+    
+    
+    
+    <ul id="accordion">
+        <li class="nojs">
+          <div id="geo-intro-slide" style="background-image: url('/images/layout/homepage/intro_slide.jpg'); height: 310px; margin: 0; padding: 20px 25px;">
+             <p id="slide-title"><a href="/regions/">Regional Homepages</a></p>
+
+             <p id="slide-text">BLS offers many types of data for regions, states and local areas. To browse for available information, visit the regional pages to the right or use the economic news release finder below.</p>
+             <h4>Economic news release finder</h4>
+              <div id="regionshome-search">
+                    <form action="/regions/news-release-finder.htm" method="get" onsubmit="this.submit();return false;">
+                            <label class="invisible" for="states">Choose a State:</label>
+                            <select width="230" id="states" name="states">
+                              <option value="" selected="selected">Choose a State</option>
+								<optgroup label="states">
+                              <option value="AL">Alabama</option>
+                              <option value="AK">Alaska</option>
+                              <option value="AZ">Arizona</option>
+                              <option value="AR">Arkansas</option>
+                              <option value="CA">California</option>
+                              <option value="CO">Colorado</option>
+
+                              <option value="CT">Connecticut</option>
+                              <option value="DE">Delaware</option>
+                              <option value="DC">District of Columbia</option>
+                              <option value="FL">Florida</option>
+                              <option value="GA">Georgia</option>
+<option value="GU">Guam</option>
+                              <option value="HI">Hawaii</option>
+
+                              <option value="ID">Idaho</option>
+                              <option value="IL">Illinois</option>
+                              <option value="IN">Indiana</option>
+                              <option value="IA">Iowa</option>
+                              <option value="KS">Kansas</option>
+                              <option value="KY">Kentucky</option>
+
+                              <option value="LA">Louisiana</option>
+                              <option value="ME">Maine</option>
+                              <option value="MD">Maryland</option>
+                              <option value="MA">Massachusetts</option>
+                              <option value="MI">Michigan</option>
+                              <option value="MN">Minnesota</option>
+
+                              <option value="MS">Mississippi</option>
+                              <option value="MO">Missouri</option>
+                              <option value="MT">Montana</option>
+                              <option value="NE">Nebraska</option>
+                              <option value="NV">Nevada</option>
+                              <option value="NH">New Hampshire</option>
+
+                              <option value="NJ">New Jersey</option>
+                              <option value="NM">New Mexico</option>
+                              <option value="NY">New York</option>
+                              <option value="NC">North Carolina</option>
+                              <option value="ND">North Dakota</option>
+                              <option value="OH">Ohio</option>
+
+                              <option value="OK">Oklahoma</option>
+                              <option value="OR">Oregon</option>
+                              <option value="PA">Pennsylvania</option>
+                              <option value="PR">Puerto Rico</option>
+                              <option value="RI">Rhode Island</option>
+                              <option value="SC">South Carolina</option>
+
+                              <option value="SD">South Dakota</option>
+                              <option value="TN">Tennessee</option>
+                              <option value="TX">Texas</option>
+                              <option value="UT">Utah</option>
+                              <option value="VT">Vermont</option>
+                              <option value="VI">Virgin Islands</option>
+
+                              <option value="VA">Virginia</option>
+                              <option value="WA">Washington</option>
+                              <option value="WV">West Virginia</option>
+                              <option value="WI">Wisconsin</option>
+                              <option value="WY">Wyoming</option>
+								</optgroup>
+							 </select>
+
+                            <input type="image" value="go" src="/images/buttons/subscribe_button_red_on_red.png" alt="Submit State">
+                          </form>
+                         <br />
+						  
+
+						  
+                    <form action="/regions/news-release-finder.htm" method="get" onsubmit="if($($(this).find('select').get(0).options[$(this).find('select').get(0).selectedIndex]).attr('class') == 'sub'){window.location= $(this).find('select').get(0).options[$(this).find('select').get(0).selectedIndex].value;}else{this.submit();}return false;">
+                      <label class="invisible" for="subjects">Choose a Subject:</label>
+                      <select width="230" id="subjects" name="subjects">
+                     <option value="" selected="selected">Choose a Subject</option>
+					  <optgroup label="Employment and Unemployment">
+					<option value="Employment and Unemployment">Employment and Unemployment</option>
+                      <option class="sub" value="/regions/subjects/employment.htm">Employment</option>		
+                      <option class="sub" value="/regions/subjects/unemployment.htm">Unemployment</option>
+					   </optgroup>
+					   <optgroup label="Inflation, Prices, and Spending">
+                      <option value="Inflation, Prices, and Spending">Inflation, Prices, and Spending</option>		
+                      <option class="sub" value="/regions/subjects/average-energy-prices.htm">Average energy prices</option>		
+                      <option class="sub" value="/regions/subjects/consumer-price-indexes.htm">Consumer price indexes</option>		
+                      <option class="sub" value="/regions/subjects/consumer-spending.htm">Consumer spending</option>		
+                      <option class="sub" value="/regions/subjects/industry-price-indexes.htm">Industry price indexes</option>
+					   </optgroup>
+					   <optgroup label="Pay and Benefits">
+                      <option value="Pay and Benefits">Pay and Benefits</option>		
+                      <option class="sub" value="/regions/subjects/benefits.htm">Benefits</option>		
+                      <option class="sub" value="/regions/subjects/pay.htm">Pay</option>
+					   </optgroup>
+					   <optgroup label="Workplace Injuries and illnesses">
+                      <option value="Workplace Injuries and illnesses">Workplace Injuries and illnesses</option>		
+                      <option class="sub" value="/regions/subjects/workplace-fatalities.htm">Workplace fatalities</option>		
+                      <option class="sub" value="/regions/subjects/workplace-injuries-and-illnesses.htm">Workplace injuries and illnesses</option>		
+					  </optgroup>
+
+                      </select>
+
+                      <input type="image" value="go" src="/images/buttons/subscribe_button_red_on_red.png"  alt="go button">
+                    </form>
+					
+	
+                    <div class="clearfloat"></div>
+					
+              </div>
+          </div> <!-- end geo-intro-slide -->
+        </li>
+        <li><a href="/regions/new-england/" title="Click on image to visit the New England regional homepage"><img src="/images/layout/homepage/boston.jpg" alt="New England" /> </a> </li>
+
+        <li><a href="/regions/new-york-new-jersey/" title="Click on image to visit the New York-New-Jersey regional homepage"><img src="/images/layout/homepage/newyork.jpg" alt="New York-New Jersey" /></a> </li>
+        <li><a href="/regions/mid-atlantic/" title="Click on image to visit the Mid-Atlantic regional homepage"><img src="/images/layout/homepage/philadelphia.jpg"alt="Mid-Atlantic"  /></a> </li>
+        <li><a href="/regions/southeast/" title="Click on image to visit the Southeast regional homepage"><img src="/images/layout/homepage/atlanta.jpg" alt="Southeast" /></a> </li>
+        <li><a href="/regions/midwest/" title="Click on image to visit the Midwest regional homepage"><img src="/images/layout/homepage/chicago.jpg" alt="Midwest" /></a> </li>
+        <li><a href="/regions/southwest/" title="Click on image to visit the Southwest regional homepage"><img src="/images/layout/homepage/dallas.jpg" alt="Southwest" /></a> </li>
+        <li><a href="/regions/mountain-plains/" title="Click on image to visit the Mountian-Plains regional homepage"><img src="/images/layout/homepage/kansascity.jpg" alt="Mountian-Plains" /></a> </li>
+
+        <li style="border-right: none;"><a href="/regions/west/" title="Click on image to visit the Western regional homepage"><img src="/images/layout/homepage/sanfrancisco.jpg" alt="West" /></a> </li>
+    </ul>
+</div>
+
+
+
+
+    <script>
+                        $(document).ready(function(){
+                                    if ($.browser.msie) {
+									$("#regionshome-search").css("margin","0 auto").css("width","200px");
+									
+                        $("select#subjects,select#states").next("input").css("bottom","4px").css("position","relative");
+                                    var sd_dropdown_image = "<span style='display:block;  z-index:1000;'><img src='/images/mega_dropdowns/drop_down_icon_black.png' style='background-color:#ccc; position:relative; float:right; bottom:17px; left:2px; padding:8px 0px 7px 9px;' ></span></div>";
+                        $('select#subjects,select#states').each(function(){
+                            var that = $(this); 
+                            var select_id = $(this).attr("id");
+                            $(this).after("<div class='wide sd-div-options'></div>");
+                            $(this).find('option').each(function(index, element) {
+                                that.next('.wide').html(that.next('.wide').html()+ "<div>" + $(this).html() + "</div>");
+                            });
+                            $(this).css("display","none");
+                            $(this).after("<div class='sd-div-select' id='sd-"+ select_id +"'></div>");
+                            $('.sd-div-select').each(function() {
+                                 temp = "#" + String($(this).attr("id")).replace(/^sd-/i,"")+ " option:nth-child(1)";
+                                 $(this).html($(temp).html() + sd_dropdown_image);	
+                            });
+                        });
+                        $(".sd-div-select").each(function(){
+                            $(this).css({"display":"inline-block","border":"1px solid #aaa","padding":"2px","white-space":"nowrap","overflow":"hidden","height":"1.3em","background-color":"#fff","cursor":"pointer","width":String($(this).prev().width()) + "px"})
+                        });
+                            $('.sd-div-options > div').live("mousedown",function(){
+                                $(".js-blur-div").remove();
+                                var temp = Number($($(this).parent().find("div")).index($(this)))+1;
+                                $(this).find("option[selected]").removeAttr("selected");	
+                                $(this).parent().prev().prev().find("option:nth-child("+temp+")").attr("selected","selected");
+                                $(this).parent().prev().prev().change();
+                                $(this).parent().prev().html($(this).parent().prev().prev().find('option:nth-child('+temp+')').html() + sd_dropdown_image);
+                                $(this).parent().css("display","none");
+                            });
+                            $(".sd-div-options").css("display","none");
+                            $('.sd-div-options').each(function(){
+                                $(this).css({"border":"1px solid #000","position":"absolute","background-color":"#ffffff","z-index":"1000","overflow-y":"auto","overflow-x":"hidden","height": $(this).height() > 200 ?  "200px" : String($(this).height()*1.28) + "px","width":String($(this).width()+20) + "px"})
+                            });
+                            $('.sd-div-options > div').each(function(index){
+                                $(this).attr("class",$("select#subjects,select#states").find("option").eq(index).attr("class"));
+                            });
+                            $('.sd-div-options > div').css({"cursor":"pointer"});
+                            $('.sd-div-options > div').hover(function(){
+                                $(this).css({"background-color":"#0a246a","color":"#fff"});	
+                            },
+                            function(){
+                                $(this).css({"background-color":"#fff","color":"#000"});	
+                            });
+                            var mouseleft_sd_options;
+                            $('.sd-div-select').live("click",function(){
+                                mouseleft_sd_options = true;
+                                $('.sd-div-select').next().not($(this)).css("display","none");
+                                    if($(this).next().css("display") == "block"){
+                                        $(this).next().css("display","none");
+                                    }else{
+                                        $(this).next().css("display","block");
+                                    }
+                            });
+                            $('.sd-div-options').mouseleave(function(){
+                                mouseleft_sd_options = true;					
+                            });
+                            $('.sd-div-select').live("blur",function(){
+                                if(mouseleft_sd_options){
+                                    mouseleft_sd_options = false;
+                                    $('.sd-div-select').next().css("display","none");
+                                }
+                            });
+                            $('.sd-div-options').mouseenter(function(){
+                                mouseleft_sd_options = false;
+                            });
+                }
+                               });
+                            </script>	
+
+
+
+
+
+
+<!-- End REGIONAL PRODUCTS -->
+<div id="grid-content">
+<div id="grid-col1">
+<div class="grid-box"><!-- BEGIN SLOT #01-->
+<h3><a title="The Economics Daily" class="tooltip-homepage" href="/opub/ted/" rel="A daily digest on the latest and most important labor market information available from the Bureau.">The Economics Daily &raquo;</a></h3>
+<!--Insert TED Headlines File here--> <ul class="grid-links">
+<li><a href="/opub/ted/2020/full-time-employment-up-2-point-8-million-part-time-employment-up-991000-in-august-2020.htm" title="Full- and part-time employment">Full- and part-time employment</a></li>
+<li><a href="/opub/ted/2020/employment-up-1-point-4-million-in-august-2020-but-still-down-11-point-5-million-since-february.htm" title="Employment up 1.4 million in August">Employment up 1.4 million in August</a></li>
+<li><a href="/opub/ted/2020/unemployment-rate-up-19-0-points-in-atlantic-city-hammonton-nj-from-july-2019-to-july-2020.htm" title="Metro unemployment, July 2020">Metro unemployment, July 2020</a></li>
+<li><a href="/opub/ted/2020/5-out-of-20-fastest-growing-industries-from-2019-to-2029-are-in-healthcare-and-social-assistance.htm" title="Employment projections, 2019&ndash;2029">Employment projections, 2019&ndash;2029</a></li>
+<li><a href="/opub/ted/2020/206-firefighters-died-on-the-job-from-2013-to-2018.htm" title="Firefighter work injuries">Firefighter work injuries</a></li>
+</ul> <!--End TED Headlines File here--><a title="Visit Editor's Desk page" class="read-more-link" aria-label="Visit Editor's Desk page" href="/opub/ted/">More Articles &raquo;</a></div>
+<!-- END SLOT #01-->
+<div class="grid-box"><!-- BEGIN SLOT #02-->
+<h3><a title="Publications" href="/opub/">Publications &raquo;</a></h3>
+<ul class="grid-links">
+<li><a title="Monthly Labor Review" href="/opub/mlr/">Monthly Labor Review</a></li>
+<li><a title="Spotlight on Statistics" href="/spotlight/">Spotlight on Statistics</a></li>
+<li><a title="Beyond the Numbers" href="/opub/btn/">Beyond the Numbers</a></li>
+</ul>
+<a title="Visit Publications page" class="read-more-link" aria-label="Visit Publications page" href="/opub/">More Publications &raquo;</a></div>
+<!-- END SLOT #02-->
+<div class="grid-box"><!-- BEGIN SLOT #03-->
+<h3><a title="Topics" href="/bls/proghome.htm">Topics &raquo;</a></h3>
+<ul class="grid-links">
+<li><a title="Demographics" href="/bls/demographics.htm">Demographics</a></li>
+<li><a title="Industries" href="/bls/industry.htm">Industries</a></li>
+<li><a title="Occupations" href="/bls/occupation.htm">Occupations</a></li>
+<li><a title="Geography" href="/bls/geography.htm">Geography</a></li>
+<li><a title="Business Costs" href="/bls/business.htm">Business Costs</a></li>
+</ul>
+</div>
+<!-- END SLOT #03--></div>
+<!-- END COLUMN 1 -->
+<div id="grid-col2">
+<div class="grid-box"><!-- BEGIN SLOT #04-->
+<h3><a title="Career Information" href="/audience/jobseekers.htm">Career Information &raquo;</a></h3>
+<ul class="grid-links">
+<li><a title="Occupational Outlook Handbook" href="/ooh/">Occupational Outlook Handbook</a></li>
+<li><a title="Career Outlook" href="/careeroutlook/">Career Outlook</a></li>
+<li><a title="For Students" href="/k12/">Students</a></li>
+<li><a title="Jobs at BLS" href="/jobs/">Jobs at BLS</a></li>
+</ul>
+<a title="Visit Career Information page" class="read-more-link" aria-label="Visit Career Information page" href="/audience/jobseekers.htm">More Career Information &raquo;</a></div>
+<!-- END SLOT #04-->
+<div class="grid-box"><!-- BEGIN SLOT #05-->
+<h3><a title="Resources for..." href="/audience/home.htm">Resources for... &raquo;</a></h3>
+<ul class="grid-links">
+<li><a title="Student and Teacher" href="/audience/students.htm">Student and Teacher</a></li>
+<li><a title="Consumer" href="/audience/consumers.htm">Consumer</a></li>
+<li><a title="Economist" href="/audience/economists.htm">Economist</a></li>
+<li><a title="Media" href="/newsroom/home.htm">Media</a></li>
+<li><a title="BLS Survey Respondent" href="/respondents/home.htm">BLS Survey Respondent</a></li>
+</ul>
+<a title="Visit Resources For... page" class="read-more-link" aria-label="Visit Resources For... page" href="/audience/home.htm">More Resources &raquo;</a></div>
+<!-- END SLOT #05-->
+<div class="grid-box"><!-- BEGIN SLOT #06-->
+<h3><a title="More" href="/bls/infohome.htm">More &raquo;</a></h3>
+<ul class="grid-links">
+<li><a title="Announcements" href="/bls/announcement.htm">Announcements</a></li>
+<li><a href="/bls/bls-speakers/bls-speakers.htm">BLS Speakers Available</a></li>
+<li><a title="Commissioner's Corner" href="https://blogs.bls.gov/blog/">Commissioner's Corner</a></li>
+<li><a title="Research" href="/bls/research.htm">Research</a></li>
+<li><a title="Errata" href="/errata/">Errata</a></li>
+</ul>
+</div>
+<!-- END SLOT #06--></div>
+<!-- END COLUMN 2 -->
+<div class="clearfloat"></div>
+</div>
+<!-- End GRID   --> <div class="social-media"><div>Recommend this page using:</div>
+	<div><a href="javascript:void(0);" class="share_facebook"><img alt="share on facebook" src="/images/icons/facebook.png"></a><span><a href="javascript:void(0);" class="share_facebook">Facebook</a></span></div>
+	<div><a href="javascript:void(0);" class="share_twitter"><img alt="share on twitter" src="/images/icons/twitter.png"></a><span><a href="javascript:void(0);" class="share_twitter">Twitter</a></span></div>
+	<div><a href="javascript:void(0);" class="share_linkedin"><img alt="share on linkedin" src="/images/icons/linkedin.png"></a><span><a href="javascript:void(0);" class="share_linkedin">LinkedIn</a></span></div>
+	<!--<div><a href="javascript:void(0);" class="share_googleplus"><img src="/images/icons/google.png"></a><span><a href="javascript:void(0);" class="share_googleplus">Google+</a></span></div>-->
+</div> <!-- End Left Side Content --><!-- **************************************** End MAIN CONTENT ******************************************** --></div>
+<!-- **************************************** Begin SIDEBAR CONTENT ***************************************** -->
+<div id="bls-sidebar"><div id="slideshow">
+  <div class="scrollable">
+    <div class="items">
+     
+<div class="slideshow-item">
+<h3><a href="https://www.bls.gov/opub/btn/">BEYOND THE NUMBERS</a></h3>
+<a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm">
+<img src="/home/feature/2020-09-08-receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.png" alt="Receipt and use of stimulus payments in the COVID-19 pandemic" />
+</a>
+<h4><a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm">Receipt and use of stimulus payments in the COVID-19 pandemic</a></h4>
+<p>This article looks at who received CARES Act stimulus payments and how they spent the money.	<span>
+		<a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm" class="read-more-link" aria-label="Receipt and use of stimulus payments in the COVID-19 pandemic"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
+<h3><a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">HURRICANE LAURA</a></h3>
+<a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">
+<img src="/home/feature/2020-08-26-hurricane-laura.png" alt="Image of Hurricane Laura approaching coastline" />
+</a>
+<h4><a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">Employment, wages, and establishments in hurricane flood zones</a></h4>
+<p>Maps and data on employment, wages, and establishments in areas potentially affected by Hurricane Laura.	<span>
+		<a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm" class="read-more-link" aria-label="Employment, wages, and establishments in hurricane flood zones"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
+<h3><a href="https://www.bls.gov/k12/">K-12</a></h3>
+<a href="https://www.bls.gov/k12/students/careers/how-can-bls-help-me-explore-careers.htm">
+<img src="/home/feature/2020-08-24-k12-turning-gears-on-careers.png" alt="Picture showing gears with occupation profiles within them with label saying Turning Gears on Careers" />
+</a>
+<h4><a href="https://www.bls.gov/k12/students/careers/how-can-bls-help-me-explore-careers.htm">How can BLS help you explore careers?</a></h4>
+<p>This guide highlights BLS resources to set your career exploration in motion. 	<span>
+		<a href="https://www.bls.gov/k12/students/careers/how-can-bls-help-me-explore-careers.htm" class="read-more-link" aria-label="How can BLS help you explore careers?"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
+<h3><a href="https://www.bls.gov/careeroutlook/">CAREER OUTLOOK </a></h3>
+<a href="https://www.bls.gov/careeroutlook/2020/youre-a-what/contact-tracer.htm">
+<img src="/home/feature/2020-08-18-learn-what-a-contact-tracer-does.png" alt="Information on epidemiologist including employment, projected employment growth, and median annual wage" />
+</a>
+<h4><a href="https://www.bls.gov/careeroutlook/2020/youre-a-what/contact-tracer.htm">Learn what a contact tracer does</a></h4>
+<p>This article describes the work of tracking symptoms, exposure, and contacts of people diagnosed with COVID-19 and other communicable diseases.	<span>
+		<a href="https://www.bls.gov/careeroutlook/2020/youre-a-what/contact-tracer.htm" class="read-more-link" aria-label="Learn what a contact tracer does"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
+<h3><a href="https://www.bls.gov/opub/mlr/">MONTHLY LABOR REVIEW</a></h3>
+<a href="https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm">
+<img src="/home/feature/2020-08-12-the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.png" alt="Woman wearing face mask with bag of groceries" />
+</a>
+<h4><a href="https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm">Impact of COVID-19 pandemic on food prices and data collection</a></h4>
+<p>This article describes the pandemic's impact on import and export, producer, and consumer prices.	<span>
+		<a href="https://www.bls.gov/opub/mlr/2020/article/the-impact-of-the-covid-19-pandemic-on-food-price-indexes-and-data-collection.htm" class="read-more-link" aria-label="Impact of COVID-19 pandemic on food prices and data collection"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+ 
+    </div>
+    <!-- End ITEMS --> 
+  </div>
+  <!-- End SCROLLABLE --> 
+</div>
+<!-- End SLIDESHOW -->
+<div id="slideshow-nav"> <a href="javascript:void(0);" class="prev browse left" title="Previous"><span class="invisible">previous</span></a>
+  <div class="navi"> <a href="#" class="active">1</a> <a href="#">2</a> <a href="#">3</a> <a href="#">4</a> <a href="#">5</a> </div>
+  <a href="javascript:void(0);" class="next browse right" title="Next"><span class="invisible">next</span></a>
+  <div class="clearfloat"></div>
+
+</div>
+<script>
+	$(document).ready(function() {
+	// initialize scrollable
+	$(".scrollable").scrollable({ circular: true }).navigator();
+	});	
+	
+	</script> 		<div id="latest-numbers">
+			<h3>Latest Numbers</h3><a href="/feed/bls_latest.rss" id="sidebar-rss-button"><img src="/images/layout/rss.gif" alt="RSS" height="16" width="44" /></a><br>
+			<div class="clearfloat"></div>
+
+									
+								
+																						<p>
+																																		<a href="/news.release/cpi.toc.htm">Consumer Price Index (CPI):</a><br>
+																									<span title="All items, U.S. city average, all urban consumers, 1982-84=100, 1-month percent change, seasonally adjusted" class="data">+0.4%   in Aug 2020</span>
+														
+															<a href="/news.release/cpi.toc.htm" aria-label="News Release for  All items, U.S. city average, all urban consumers, 1982-84=100, 1-month percent change, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=CUSR0000SA0&amp;output_view=pct_1mth" aria-label="Historical Data for  All items, U.S. city average, all urban consumers, 1982-84=100, 1-month percent change, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																											
+								
+																						<p>
+																																		<a href="/news.release/empsit.toc.htm">Unemployment Rate:</a><br>
+																									<span title="In percent, seasonally adjusted" class="data">8.4%   in Aug 2020</span>
+														
+															<a href="/news.release/empsit.toc.htm" aria-label="News Release for  In percent, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=LNS14000000" aria-label="Historical Data for  In percent, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																																	<p>
+																																		<a href="/news.release/empsit.toc.htm">Payroll Employment:</a><br>
+																									<span title="Number of jobs, 1-month net change, seasonally adjusted" class="data">+1,371,000(p)   in Aug 2020</span>
+														
+															<a href="/news.release/empsit.toc.htm" aria-label="News Release for  Number of jobs, 1-month net change, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=CES0000000001&amp;output_view=net_1mth" aria-label="Historical Data for  Number of jobs, 1-month net change, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																																	<p>
+																																		<a href="/news.release/empsit.toc.htm">Average Hourly Earnings:</a><br>
+																									<span title="For all employees, seasonally adjusted" class="data">+$0.11(p)   in Aug 2020</span>
+														
+															<a href="/news.release/empsit.toc.htm" aria-label="News Release for  For all employees, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=CES0500000003&amp;output_view=net_1mth" aria-label="Historical Data for  For all employees, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																											
+								
+																						<p>
+																																		<a href="/news.release/ppi.toc.htm">Producer Price Index - Final Demand:</a><br>
+																									<span title="Final Demand, 1-month percent change, seasonally adjusted" class="data">+0.3%(p)   in Aug 2020</span>
+														
+															<a href="/news.release/ppi.toc.htm" aria-label="News Release for  Final Demand, 1-month percent change, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=WPSFD4&amp;output_view=pct_1mth" aria-label="Historical Data for  Final Demand, 1-month percent change, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																											
+								
+																						<p>
+																																		<a href="/news.release/eci.toc.htm">Employment Cost Index (ECI):</a><br>
+																									<span title="Compensation, all civilian workers, quarterly percent change, seasonally adjusted" class="data">+0.5%   in 2nd Qtr of 2020</span>
+														
+															<a href="/news.release/eci.toc.htm" aria-label="News Release for  Compensation, all civilian workers, quarterly percent change, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=CIS1010000000000Q" aria-label="Historical Data for  Compensation, all civilian workers, quarterly percent change, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																											
+								
+																						<p>
+																																		<a href="/news.release/prod2.toc.htm">Productivity:</a><br>
+																									<span title="Output per hour, nonfarm business, percent change from previous quarter at annual rate, seasonally adjusted" class="data">+10.1%(r)   in 2nd Qtr of 2020</span>
+														
+															<a href="/news.release/prod2.toc.htm" aria-label="News Release for  Output per hour, nonfarm business, percent change from previous quarter at annual rate, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=PRS85006092" aria-label="Historical Data for  Output per hour, nonfarm business, percent change from previous quarter at annual rate, seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																											
+								
+																						<p>
+																																		<a href="/news.release/ximpim.toc.htm">U.S. Import Price Index:</a><br>
+																									<span title="All imports, 1-month percent change, not seasonally adjusted" class="data">+0.7%   in Jul 2020</span>
+														
+															<a href="/news.release/ximpim.toc.htm" aria-label="News Release for  All imports, 1-month percent change, not seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=EIUIR&amp;output_view=pct_1mth" aria-label="Historical Data for  All imports, 1-month percent change, not seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																																	<p>
+																																		<a href="/news.release/ximpim.toc.htm">U.S. Export Price Index:</a><br>
+																									<span title="All exports, 1-month percent change, not seasonally adjusted" class="data">+0.8%   in Jul 2020</span>
+														
+															<a href="/news.release/ximpim.toc.htm" aria-label="News Release for  All exports, 1-month percent change, not seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
+														
+																													<a href="/pdq/SurveyOutputServlet?data_tool=latest_numbers&amp;series_id=EIUIQ&amp;output_view=pct_1mth" aria-label="Historical Data for  All exports, 1-month percent change, not seasonally adjusted"><img src="/images/layout/historical_icon.gif" alt="Historical Data" title="10-years of historical data" /></a></p>
+																				
+		 <div id="sidebar-explainers">
+		 <span><img src="/images/icons/explainers_historical_data.gif" alt="Historical Data" />Historical Data</span>
+		 <span><img src="/images/icons/explainers_news_release.gif" alt="News Release" />News Release</span>
+
+							<span>p - preliminary</span>	
+			
+		 		
+ 		</div>	 
+
+		
+	</div>
+		
+	<!-- ALL VARIABLES
+			Errors: 	Config: 	Data: 	-->
+
+ <!-- Start /content/ooh_feature.stm   -->
+<div id="ooh-feature"><a title="Visit OOH Page" href="/ooh/"> <img title="Occupational Outlook Handbook" alt="Occupational Outlook Handbook" src="/ooh/content/ooh_publication.png" /></a></div>
+<!-- End /content/ooh_feature.stm   --></div>
+<!-- **************************************** End SIDEBAR CONTENT ***************************************** -->
+<div class="clearfloat"></div>
+</div>
+<div class="clearfloat"></div>
+
+
+
+
+
+	
+
+
+	
+
+
+
+
+<!-- WRAPPER BOTTOM BEGIN -->
+
+
+		
+		
+		</div><!-- close id="wrapper-outer" -->
+	</div><!-- close id="wrapper" -->
+</div><!-- close id="container" -->
+
+	
+<!-- Footer Nav Menu-->
+<section class="footerNav">
+<ul class="footerNavInner">
+   <li class="footerNavItem"><a href="https://www.bls.gov/">Home</a></li>
+   <li class="footerNavItem"><a href="/bls/proghome.htm">Subjects</a></li>
+   <li class="footerNavItem"><a href="/data/">Data Tools</a></li>
+   <li class="footerNavItem"><a href="/opub/">Publications</a></li>
+   <li class="footerNavItem"><a href="/bls/newsrels.htm">Economic Releases</a></li>
+   <li class="footerNavItem"><a href="/k12/" >Students</a></li>
+   <li class="footerNavItem"><a href="https://beta.bls.gov">Beta</a></li>
+</ul>
+</section>
+<!-- Footer Nav Menu-->
+
+
+
+<!-- WRAPPER BOTTOM END -->
+
+
+
+<!-- FOOTER LEFT BEGIN -->
+
+<script type="text/javascript">/*<![CDATA[*/(function(){var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;sz.src = '//siteimproveanalytics.com/js/siteanalyze_6032860.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);})();/*]]>*/</script> 
+<div id="footer-primary-wrapper">
+<div class="bootstrap standard-width">
+<div id="footer-container" class="row">
+	<div id="footer-links-container" class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+	
+	
+<div class="bls-lftside-holder">	
+<div class="bls-logo-footer">
+<img src="/images/bls_emblem_trans.png" class="responsiveImg" alt="U.S. Bureau of Labor Statistics Logo "/><div class="d-none d-md-block clearfloat"><br><br></div>
+
+ </div>
+ <div class="address-contact-footer">
+
+<!-- FOOTER LEFT END -->
+
+
+
+<address id="footer-address" tabindex="0">  
+<strong tabindex="0">U.S. Bureau of Labor Statistics</strong>
+<span tabindex="0">Postal Square Building</span> 
+<span tabindex="0">2 Massachusetts Avenue NE</span>  
+<span tabindex="0">Washington, DC 20212-0001</span>
+</address>
+
+
+
+<!-- FOOTER CENTER BEGIN -->
+
+
+
+
+
+<!-- FOOTER CENTER END -->
+
+
+
+<span id="footer-contact">  
+
+<a href="tel:12026915200" class="number" aria-label="1. 202. 691. 5200.">
+<span>Telephone:</span><span> 1-202-691-5200 </span>
+
+</a>
+
+<a href="tel:18008778339" class="number" aria-label="1. 800. 877. 8339.">
+<span>Federal Relay Service:</span><span> 1-800-877-8339</span> 
+</a>
+
+<a href="/home.htm" aria-label="Bureau of Labor Statistics homepage" >www.bls.gov</a>
+<a href="https://data.bls.gov/forms/opb.htm?/home.htm" aria-label="Request for Technical Information about the Bureau of Labor Statistics Web Site">Contact Us</a>
+
+</span>
+		
+
+
+
+<!-- FOOTER RIGHT BEGIN -->
+
+</div> 
+</div>
+</div>
+
+				<div id="quicklinks" class="row col-xs-12 col-sm-12 col-md-8 col-lg-8">
+
+					<div class="col-xs-6 col-sm-4 col-md-4">
+					<strong>info</strong>
+					<a class="d-sm-none" data-toggle="collapse" href="#quicklinksli4" role="button" aria-expanded="false" aria-controls="quicklinksli4" aria-label="Info Sub Menu"></a>
+						<div class="collapse" id="quicklinksli4">
+							<ul class="d-sm-block">						
+								<li><a href="/newsroom/" aria-label="Newsroom">What's New</a></li>
+								<li><a href="/bls/faqs.htm" aria-label="Frequently Asked Questions">FAQs</a></li>
+								<li><a href="/bls/topicsaz.htm" aria-label="A to Z">A-Z</a></li>
+								<li><a href="/bls/glossary.htm" aria-label="Glossary">Glossary</a></li>
+								<li><a href="/bls/infohome.htm" aria-label="About Bureau of Labor Statistics">About BLS</a></li>
+								<li><a href="/jobs/" aria-label="Careers at Bureau of Labor Statistics">Careers @ BLS</a></li>
+								<li><a href="https://www.dol.gov/dol/findit.htm" aria-label="Department of Labor Find It! webpage">Find It! DOL</a></li>
+								<li><a href="https://subscriptions.bls.gov/accounts/USDOLBLS/subscriber/new" aria-label="Join our Mailing Lists">Join our Mailing Lists</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col-xs-6 col-sm-4 col-md-4">
+					<strong>resources</strong>
+					<a class="d-sm-none" data-toggle="collapse" href="#quicklinksli5" role="button" aria-expanded="false" aria-controls="quicklinksli5" aria-label="resources Sub Menu"></a>
+						<div class="collapse" id="quicklinksli5">
+							<ul class="d-sm-block">						
+								<li><a href="https://www.oig.dol.gov/" aria-label="Office of Inspector General website">Inspector General (OIG)</a></li>
+								<li><a href="/bls/bls_budget_and_performance.htm" aria-label="Budget and Performance">Budget and Performance</a></li>
+								<li><a href="/bls/no_fear_act.htm" aria-label="No Fear Act">No Fear Act</a></li>
+								<li><a href="https://www.usa.gov/" aria-label="USA.gov website">USA.gov</a></li>
+							</ul>
+						</div>
+					</div>		
+					<div class="col-xs-6 col-sm-4 col-md-4">
+					<strong>about this site</strong>
+					<a class="d-sm-none" data-toggle="collapse" href="#quicklinksli6" role="button" aria-expanded="false" aria-controls="quicklinksli6" aria-label="about this site Sub Menu"></a>
+						<div class="collapse" id="quicklinksli6">
+							<ul class="d-sm-block">	
+								<li><a href="/bls/sitemap.htm" aria-label="Sitemap">Sitemap</a></li>						
+								<li><a href="/bls/blsfoia.htm" aria-label="Freedom of Information Act">Freedom of Information Act</a></li>
+								<li><a href="/bls/pss.htm" aria-label="Privacy and Security Statement">Privacy &amp; Security Statement</a></li>
+								<li><a href="/bls/disclaimer.htm" aria-label="Disclaimers">Disclaimers</a></li>
+								<li><a href="/bls/linksite.htm" aria-label="Linking and Copyright Information">Linking &amp; Copyright Info</a></li>	
+								<li><a href="/bls/website-policies.htm" aria-label="Important Website Notices">Important Website Notices</a></li>
+								<li><a href="/help/" aria-label="Help and Tutorials">Help &amp; Tutorials</a></li>
+							</ul>
+						</div>
+					</div>				
+                </div>
+				 
+</div>
+</div>
+</div>
+<div id="footer-secondary-wrapper">
+
+<div class="bootstrap standard-width">
+
+<div>
+<span>Connect With BLS</span>
+  <div class="social-media-icons"> 
+    
+           <a class="social-media-icon" href="http://twitter.com/BLS_gov" title="BLS Twitter" target="_blank" rel="noopener noreferrer" >
+              <!--?xml version="1.0" encoding="utf-8"?-->
+              <svg aria-hidden="true" data-prefix="fab" data-icon="twitter" class="svg-inline--fa fa-twitter fa-w-16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+              <span class="sr-only">Twitter</span>
+          </a>
+                  
+           <a class="social-media-icon" href="https://www.youtube.com/channel/UCijn3WBpHtx4AvSya7NER9Q" title="BLS Youtube" target="_blank" rel="noopener noreferrer" >
+              <!--?xml version="1.0" encoding="utf-8"?-->
+              <svg aria-hidden="true" data-prefix="fab" data-icon="youtube" class="svg-inline--fa fa-youtube fa-w-18"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path></svg>
+              <span class="sr-only">Youtube</span>
+          </a>
+          <a class="social-media-icon" href="javascript:window.open('https://subscriptions.bls.gov/accounts/USDOLBLS/subscriber/new ','Popup','width=800,height=500,toolbar=no,scrollbars=yes,resizable=yes'); void('');" onclick="window.status='Subscribe'; return true" onmouseover="window.status='Subscribe'; return true" onmouseout="window.status=''; return true" id="email" title="Subscribe to BLS E-mail Updates">
+              <!--?xml version="1.0" encoding="utf-8"?-->
+              <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" class="svg-inline--fa fa-envelope fa-w-16"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>
+              <span class="sr-only">Email</span>
+          </a>
+        </div>
+</div>
+</div>
+</div>
+
+<!-- FOOTER RIGHT END -->
+
+<!-- ThreeColFoot End --></body> </html>

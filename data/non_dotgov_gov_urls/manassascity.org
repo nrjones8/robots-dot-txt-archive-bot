@@ -1,0 +1,1387 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<base href="//www.manassascity.org/index.php"/>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!--Metadata Area Starts-->   				   				                            
+	
+
+ 
+
+	
+	
+
+	<title>Welcome to Manassas, Virginia</title>
+
+
+
+	<meta name="keywords" content=""/>
+
+
+
+	<meta name="description" content="Welcome to Manassas, Virginia"/>
+
+
+	<meta name="robots" content="index, follow">
+<!--Metadata Area Ends-->
+   				   				                            
+	
+<!-- // BEG of /plugins/setup/setup.before_endhead.template_include.jsp \\ -->
+<!-- // BEG of /plugins/setup/setup.before_endhead.common_include.jsp \\ -->
+<link href="/revize/plugins/setup/css/revize.css" rel="stylesheet" type="text/css" />
+<!--Start:Below style and js control the Document Center Plugin -->
+<link rel="stylesheet" href="/revize/plugins/document_center/document_center_styles.css">
+<script type="text/javascript" src="/revize/plugins/document_center/simple_accordian.js"></script>
+<!--End-->
+
+<!-- // BEG of setup.before_endhead.common javascript \\ -->
+<script type="text/javascript">
+
+<!-- // BEG of /plugins/general/general.revize_login.js \\ -->
+function revizelogin()
+{
+	var loginSpan = document.getElementById('revize-login');
+	//var loginSpan = document.getElementById('powered-by-revize-link');
+	if (!loginSpan) return;
+
+	var color,styleElement;
+	var selector1 = "#revize-login a";
+	var rule1 = "text-decoration:none !important;color:";
+	var selector2 = "#revize-login a:hover";
+	var rule2 = "text-decoration:underline !important";
+	if (document.all)
+	{
+		color = loginSpan.currentStyle.color;
+		styleElement = document.createStyleSheet();
+		styleElement.addRule(selector1 , rule1+color+' !important')
+		styleElement.addRule(selector2 , rule2)
+	}
+	else
+	{
+		color =  document.defaultView.getComputedStyle(loginSpan,'').getPropertyValue('color');
+		styleElement = document.createElement("style");
+		document.getElementsByTagName("head")[0].appendChild(styleElement);
+		styleElement = document.styleSheets[document.styleSheets.length-1];
+		styleElement.insertRule(selector1 + ' {' + rule1+color + ' !important}',0);
+		styleElement.insertRule(selector2 + ' {' + rule2 + '}',0);
+	}
+}
+if (typeof window.addEventListener != "undefined")
+	window.addEventListener("load", revizelogin, false);
+else if (typeof window.attachEvent != "undefined")
+	window.attachEvent("onload", revizelogin);
+<!-- \\ END of /plugins/general/general.revize_login.js // -->
+
+<!-- // BEG of /plugins/setup/setup.common_endhead.js \\ -->
+// Javascript included on all pages
+<!-- \\ END of /plugins/setup/setup.common_endhead.js // -->
+
+</script>
+<!-- \\ END of setup.before_endhead.common javascript // -->
+<!-- \\ END of /plugins/setup/setup.before_endhead.common_include.jsp // -->
+
+
+<!-- \\ END of /plugins/setup/setup.before_endhead.template_include.jsp // --><link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.css">
+	<link rel="stylesheet" href="_assets_/css/layout.css">
+
+	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
+	<link rel="apple-touch-icon" href="_assets_/images/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="_assets_/images/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="_assets_/images/touch-icon-iphone4.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
+
+</head>
+<body id="freeform" class="fullwidth">
+
+
+
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+if (typeof(RZ) == 'undefined') RZ = {};
+if (!RZ.link) RZ.link = new Object();
+RZ.pagetype = 'template'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
+RZ.protocolRelativeRevizeBaseUrl='//cms9.revize.com'
+
+RZ.pagetemplatename = 'fullwidth'
+RZ.pagetemplateid = '8'
+RZ.pagemodule = 'links'
+RZ.pagemoduleid = '1'
+RZ.pagerecordid = '3475';
+
+RZ.pageid = 'links-3475';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '3475';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=3475';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=3475';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '3475';
+RZ.pageidfield = '';
+
+RZ.isnewrecord = false;
+RZ.editmodule = '';
+RZ.editrecordid = '3475';
+RZ.editrecordversion = '';
+RZ.editversion = '';		//same as editrecordversion
+RZ.editaction = '';
+
+//----- Permission data
+RZ.page_roles = ''
+RZ.page_users = 'ecbf1b0ff8923f2e79e61afbb0773a4eee84e2b7a146f1b24aca84e7c60dda3c|2ab446531cc83ec574d2dda44beac0cb424d51ee0dd2ae3a42e2bb05a19b7bfc|b38355430c577f42830c03b3f625b18d17cb6197c6538d5d6adb8a0916d90107|fe04abee56c8ebf0fe5964528a06ec90fa9124e0e070d80ddd69abb1e23881b1|af376f875d7f3db6caad0cf4a57455f96b94f7399df2461fc5c78f69a078f446'
+RZ.page_key = 'fullwidth[3475]'
+RZ.parent_key = 'index[]'
+RZ.inherit_key = 'index[]'
+RZ.workflowname = ''
+RZ.permissions_options = 'warningsOFF'
+RZ.permissions_module = 'webspace_page_permissions'
+RZ.webspace = 'manassasva'
+RZ.webspacedesc = "";
+
+RZ.featurespattern = '(EZ)';
+null
+
+RZ.webspacelinksurl = ''
+RZ.webspacelinksurl = './webspace/links.html'
+RZ.workflowlist = ''
+RZ.revizeserverurl = 'http://cms9.revize.com/revize/manassasva';
+
+if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
+
+//----- Field values from webspace_config module
+RZ.webspace_config = new Object();
+RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.form_captcha = "yes";
+RZ.webspace_config.form_server = "revizeserver";
+RZ.webspace_config.form_technology = "jsp";
+RZ.webspace_config.formwizard_ftp_password = "";
+RZ.webspace_config.formwizard_ftp_port = "";
+RZ.webspace_config.formwizard_ftp_server = "";
+RZ.webspace_config.formwizard_ftp_user = "";
+RZ.webspace_config.formwizard_setup = "yes";
+RZ.webspace_config.formwizard_smtp_password = "xxx";
+RZ.webspace_config.formwizard_smtp_server = "xxx";
+RZ.webspace_config.formwizard_smtp_user = "xxx";
+RZ.webspace_config.google_analytics = "UA-156585283-1";
+RZ.webspace_config.home_pageid = "0";
+RZ.webspace_config.home_sectionid = "0";
+RZ.webspace_config.home_template = "home,index,sitemap";
+RZ.webspace_config.icon_email = "<img src=\"/revize/images/email_icon_yellow.gif\" width=\"16\" border=\"0\" height=\"17\" title=\"Request email notification when page changes\" alt=\"Request email notification when page changes\" style=\"\" />";
+RZ.webspace_config.image_maxheight = "3000";
+RZ.webspace_config.image_maxwidth = "3000";
+RZ.webspace_config.image_setup = "yes";
+RZ.webspace_config.livesite_url = "";
+RZ.webspace_config.menu_links_module = "links";
+RZ.webspace_config.menu_newsection = "";
+RZ.webspace_config.menu_nexturl = "webspace_menu-editform.jsp";
+RZ.webspace_config.menu_sections_module = "sections";
+RZ.webspace_config.menu_system = "custom";
+RZ.webspace_config.menu_version = "1.00";
+RZ.webspace_config.new_menu_manager_enabled = "yes";
+RZ.webspace_config.notify_options = "hide_text=no";
+RZ.webspace_config.notify_return_url = "enotify/index.php";
+RZ.webspace_config.rte_setup = "yes";
+RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.use_folders = "1";
+
+RZ.isauthenticationactive = true
+RZ.warning = ""
+RZ.adminwinmsg = null
+
+RZ.channels = 'Production,revize';
+RZ.jsversion = 1.2//--><!]]></script>
+<script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
+
+
+
+ 
+
+
+   
+<!--Top Area STarts-->
+
+
+
+
+<header>
+<!--Skip & Toggle Area Starts-->
+	
+
+
+
+<a href="#main" id="skip" tabindex="0" class="btn">Skip to main content</a>
+
+<div id="toggles" class="hidden-lg hidden-md">
+    <div id="nav-toggle" class="fa fa-bars"></div>
+</div><!--/#toggles.hidden-lg.hidden-md-->
+<!--Skip & Toggle Area Ends-->
+    
+	<div class="container-fluid">
+		<div class="row">
+<!--Logo Area Starts-->
+			
+
+
+ 
+<div class="col-md-2">
+    <a href="./" id="logo"><img src="_assets_/images/logo.png" alt="navigation logo"></a>
+</div><!--/.col-md-2-->
+<!--Top Nav Area Starts-->            
+			<nav class="col-md-8 text-center">
+                
+<!-- // BEG of topnav_template v05-10-2011 \\ -->
+
+
+
+
+<!-- // BEG of  /plugins/menus/menus_topnav_list_include.jsp \\ --> 
+<ul id="nav" class="topnav v2_05-23-2012">
+	<li class="menuLI level0 menuDisplay li-1"><a class="menuA level0 menuDisplay" href="index.php" target="_self">Home</a></li>
+	<li class="menuLI level0 menuDisplay li-64 children"><a class="menuA level0 menuDisplay" href="connect/index.php" target="_self">Connect</a>
+		<ul class="menuUL level1 menuHidden ul-145">
+			<li class="menuLI level1 menuHidden li-145 children"><a class="menuA level1 menuHidden" href="connect/mayor_and_council/index.php" target="_self">Mayor and Council</a>
+				<ul class="menuUL level2 menuHidden ul-731">
+					<li class="menuLI level2 menuHidden li-731"><a class="menuA level2 menuHidden" href="connect/city_clerk/manassas_council_meeting_center.php" target="_self">Watch Council Meetings</a></li>
+					<li class="menuLI level2 menuHidden li-732"><a class="menuA level2 menuHidden" href="connect/city_clerk/apply_for_a_board.php" target="_self">Board, Committee, Commission</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-147 children"><a class="menuA level1 menuHidden" href="connect/city_manager_s_office/index.php" target="_self">City Manager's Office</a>
+				<ul class="menuUL level2 menuHidden ul-727">
+					<li class="menuLI level2 menuHidden li-727"><a class="menuA level2 menuHidden" href="connect/city_manager_s_office/senior_leadership_team/index.php" target="_self">Senior Leadership</a></li>
+					<li class="menuLI level2 menuHidden li-728"><a class="menuA level2 menuHidden" href="connect/city_manager_s_office/news_room/index.php" target="_self">News Room</a></li>
+					<li class="menuLI level2 menuHidden li-729"><a class="menuA level2 menuHidden" href="connect/city_manager_s_office/financial_center/index.php" target="_self">Financial Center</a></li>
+					<li class="menuLI level2 menuHidden li-730"><a class="menuA level2 menuHidden" href="connect/city_manager_s_office/strategic_plan/index.php" target="_self">Strategic Plan</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-151"><a class="menuA level1 menuHidden" href="connect/get_social/index.php" target="_self">Get Social</a></li>
+			<li class="menuLI level1 menuHidden li-148"><a class="menuA level1 menuHidden" href="connect/city_clerk/index.php" target="_self">City Clerk</a></li>
+			<li class="menuLI level1 menuHidden li-149"><a class="menuA level1 menuHidden" href="connect/city_attorney/index.php" target="_self">City Attorney</a></li>
+			<li class="menuLI level1 menuHidden li-241"><a class="menuA level1 menuHidden" href="connect/commissioner_of_the_revenue/index.php" target="_self">Commissioner of the Revenue</a></li>
+			<li class="menuLI level1 menuHidden li-150"><a class="menuA level1 menuHidden" href="connect/treasurer/index.php" target="_self">Treasurer</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-65 children"><a class="menuA level0 menuDisplay" href="things_to_do/index.php" target="_self">Things to Do</a>
+		<ul class="menuUL level1 menuHidden ul-696">
+			<li class="menuLI level1 menuHidden li-696 children"><a class="menuA level1 menuHidden" href="http://visitmanassas.org/" target="_new">Dine, Shop & Stay</a>
+				<ul class="menuUL level2 menuHidden ul-697">
+					<li class="menuLI level2 menuHidden li-697"><a class="menuA level2 menuHidden" href="http://visitmanassas.org/shop-dine/wpbdp_category/attractions/" target="_new">Area Attractions</a></li>
+					<li class="menuLI level2 menuHidden li-698"><a class="menuA level2 menuHidden" href="http://visitmanassas.org/event-overview/" target="_new">Events</a></li>
+					<li class="menuLI level2 menuHidden li-699"><a class="menuA level2 menuHidden" href="http://visitmanassas.org/visit-manassas-2/visitor-center/" target="_new">Visitor Center</a></li>
+					<li class="menuLI level2 menuHidden li-700"><a class="menuA level2 menuHidden" href="connect/treasurer/parking/index.php" target="_self">Parking</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-701 children"><a class="menuA level1 menuHidden" href="things_to_do/entertainment/index.php" target="_self">Entertainment</a>
+				<ul class="menuUL level2 menuHidden ul-715">
+					<li class="menuLI level2 menuHidden li-715"><a class="menuA level2 menuHidden" href="https://www.virginiaartfactory.org" target="_new">Art Factory</a></li>
+					<li class="menuLI level2 menuHidden li-716"><a class="menuA level2 menuHidden" href="http://visitmanassas.org/" target="_new">Fairs, festivals & events</a></li>
+					<li class="menuLI level2 menuHidden li-717"><a class="menuA level2 menuHidden" href="http://hyltoncenter.org/" target="_new">Hylton Performing Arts Center</a></li>
+					<li class="menuLI level2 menuHidden li-718"><a class="menuA level2 menuHidden" href="parks_culture_and_recreation/harris_pavilion.php" target="_self">Harris Pavilion</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-702 children"><a class="menuA level1 menuHidden" href="things_to_do/manassas_museum/index.php" target="_self">Manassas Museum</a>
+				<ul class="menuUL level2 menuHidden ul-1180">
+					<li class="menuLI level2 menuHidden li-1180"><a class="menuA level2 menuHidden" href="things_to_do/manassas_museum/events.php" target="_self">What's Happening</a></li>
+					<li class="menuLI level2 menuHidden li-1181"><a class="menuA level2 menuHidden" href="http://manassasechoes.com/" target="_new">Echoes</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-703 children"><a class="menuA level1 menuHidden" href="things_to_do/art_in_the_city/index.php" target="_self">Art in the City</a>
+				<ul class="menuUL level2 menuHidden ul-1182">
+					<li class="menuLI level2 menuHidden li-1182"><a class="menuA level2 menuHidden" href="https://cityofmanassas.maps.arcgis.com/apps/Shortlist/index.html?appid=d1edb900efba4dc0ab9d222e39f61051" target="_new">Art Map</a></li>
+					<li class="menuLI level2 menuHidden li-1183"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/banner_art.php" target="_self">Banner Art</a></li>
+					<li class="menuLI level2 menuHidden li-1184"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/little_bits.php" target="_self">Little Bits</a></li>
+					<li class="menuLI level2 menuHidden li-1185"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/murals.php" target="_self">Murals</a></li>
+					<li class="menuLI level2 menuHidden li-1186"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/about_the_artist.php" target="_self">About the Artist</a></li>
+					<li class="menuLI level2 menuHidden li-1187"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/sculptures.php" target="_self">Sculptures</a></li>
+					<li class="menuLI level2 menuHidden li-1188"><a class="menuA level2 menuHidden" href="things_to_do/art_in_the_city/art_trains.php" target="_self">Art Trains</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-704 children"><a class="menuA level1 menuHidden" href="things_to_do/recreation/index.php" target="_self">Recreation</a>
+				<ul class="menuUL level2 menuHidden ul-1189">
+					<li class="menuLI level2 menuHidden li-1189"><a class="menuA level2 menuHidden" href="parks_culture_and_recreation/index.php" target="_self">Parks, Culture & Recreation</a></li>
+					<li class="menuLI level2 menuHidden li-1190"><a class="menuA level2 menuHidden" href="http://www.freedom-center.com/" target="_new">Freedom Center</a></li>
+					<li class="menuLI level2 menuHidden li-1191"><a class="menuA level2 menuHidden" href="http://www.bgcgw.org/manassas/" target="_new">Boys & Girls Club</a></li>
+					<li class="menuLI level2 menuHidden li-1192"><a class="menuA level2 menuHidden" href="http://www.pwcgov.org/government/dept/library/Pages/default.aspx" target="_new">Library Services</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-66 children"><a class="menuA level0 menuDisplay" href="services/index.php" target="_self">Services</a>
+		<ul class="menuUL level1 menuHidden ul-1152">
+			<li class="menuLI level1 menuHidden li-1152"><a class="menuA level1 menuHidden" href="fire___rescue/index.php" target="_self">Fire & Rescue</a></li>
+			<li class="menuLI level1 menuHidden li-1153"><a class="menuA level1 menuHidden" href="police_department/index.php" target="_self">Police</a></li>
+			<li class="menuLI level1 menuHidden li-1154"><a class="menuA level1 menuHidden" href="finance/index.php" target="_self">Finance</a></li>
+			<li class="menuLI level1 menuHidden li-1155"><a class="menuA level1 menuHidden" href="electric_water___sewer/index.php" target="_self">Electric, Water & Sewer</a></li>
+			<li class="menuLI level1 menuHidden li-1156"><a class="menuA level1 menuHidden" href="public_works/trash___recycling/index.php" target="_self">Trash & Recycling</a></li>
+			<li class="menuLI level1 menuHidden li-1157"><a class="menuA level1 menuHidden" href="https://www.governmentjobs.com/careers/manassas" target="_new">Jobs</a></li>
+			<li class="menuLI level1 menuHidden li-1158"><a class="menuA level1 menuHidden" href="https://seeclickfix.com/web_portal/sqg3ASoQQj9rXCid3PBW82Kz/report/category" target="_new">Report a Concern</a></li>
+			<li class="menuLI level1 menuHidden li-1159"><a class="menuA level1 menuHidden" href="airport/index.php" target="_self">Airport</a></li>
+			<li class="menuLI level1 menuHidden li-1160"><a class="menuA level1 menuHidden" href="services/pay_my_bill/index.php" target="_self">Pay my bill</a></li>
+		</ul>
+	</li>
+	<li class="menuLI level0 menuDisplay li-67 children"><a class="menuA level0 menuDisplay" href="how_do_i_/index.php" target="_self">How Do I?</a>
+		<ul class="menuUL level1 menuHidden ul-68">
+			<li class="menuLI level1 menuHidden li-68 children"><a class="menuA level1 menuHidden" href="how_do_i_/pay/index.php" target="_self">Pay</a>
+				<ul class="menuUL level2 menuHidden ul-1161">
+					<li class="menuLI level2 menuHidden li-1161"><a class="menuA level2 menuHidden" href="https://comselfservice.manassasva.gov/CSS/" target="_new">Personal Property Taxes</a></li>
+					<li class="menuLI level2 menuHidden li-1162"><a class="menuA level2 menuHidden" href="https://comselfservice.manassasva.gov/CSS/" target="_new">Real Estate Taxes</a></li>
+					<li class="menuLI level2 menuHidden li-1163"><a class="menuA level2 menuHidden" href="https://energovcss.manassasva.gov/EnerGovProd/SelfService#/home" target="_new">Building Permits</a></li>
+					<li class="menuLI level2 menuHidden li-1164"><a class="menuA level2 menuHidden" href="https://comselfservice.manassasva.gov/CSS/" target="_new">Parking Tickets</a></li>
+					<li class="menuLI level2 menuHidden li-1165"><a class="menuA level2 menuHidden" href="http://www.invoicecloud.com/manassasva" target="_new">Utility Bills</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-69 children"><a class="menuA level1 menuHidden" href="how_do_i_/find/index.php" target="_self">Find</a>
+				<ul class="menuUL level2 menuHidden ul-1166">
+					<li class="menuLI level2 menuHidden li-1166"><a class="menuA level2 menuHidden" href="https://library.municode.com/va/manassas/codes/code_of_ordinances" target="_new">City Code</a></li>
+					<li class="menuLI level2 menuHidden li-1167"><a class="menuA level2 menuHidden" href="how_do_i_/find/gis___mapping_website/index.php" target="_self">GIS & Mapping Website</a></li>
+					<li class="menuLI level2 menuHidden li-1168"><a class="menuA level2 menuHidden" href="connect/treasurer/parking/index.php" target="_self">Parking</a></li>
+					<li class="menuLI level2 menuHidden li-1169"><a class="menuA level2 menuHidden" href="police_department/animal_control/animal_adoption_center.php" target="_self">Adopt a Pet</a></li>
+					<li class="menuLI level2 menuHidden li-1170"><a class="menuA level2 menuHidden" href="connect/city_clerk/public_records.php" target="_self">Public Records</a></li>
+					<li class="menuLI level2 menuHidden li-1171"><a class="menuA level2 menuHidden" href="https://manassasechoes.com/" target="_new">Echoes, The Museum Store</a></li>
+					<li class="menuLI level2 menuHidden li-1172"><a class="menuA level2 menuHidden" href="http://gis.vgsi.com/manassasva/" target="_new">Assessment Values</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-70 children"><a class="menuA level1 menuHidden" href="how_do_i_/view/index.php" target="_self">View</a>
+				<ul class="menuUL level2 menuHidden ul-1173">
+					<li class="menuLI level2 menuHidden li-1173"><a class="menuA level2 menuHidden" href="how_do_i_/view/contacts/index.php" target="_self">Contacts</a></li>
+					<li class="menuLI level2 menuHidden li-1174"><a class="menuA level2 menuHidden" href="parks_culture_and_recreation/athletic_fields_and_daily_conditions.php" target="_self">Field Conditions</a></li>
+					<li class="menuLI level2 menuHidden li-1175"><a class="menuA level2 menuHidden" href="purchasing/bid_postings.php" target="_self">Bids</a></li>
+					<li class="menuLI level2 menuHidden li-1176"><a class="menuA level2 menuHidden" href="finance/budget_division/index.php" target="_self">Budget</a></li>
+					<li class="menuLI level2 menuHidden li-1177"><a class="menuA level2 menuHidden" href="finance/accounting_division.php" target="_self">CAFR</a></li>
+					<li class="menuLI level2 menuHidden li-1178"><a class="menuA level2 menuHidden" href="finance/budget_division/capital_improvement_program.php" target="_self">CIP</a></li>
+					<li class="menuLI level2 menuHidden li-1179"><a class="menuA level2 menuHidden" href="connect/city_manager_s_office/news_room/index.php" target="_self">News Room</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-71 children"><a class="menuA level1 menuHidden" href="how_do_i_/apply_for/index.php" target="_self">Apply for</a>
+				<ul class="menuUL level2 menuHidden ul-1252">
+					<li class="menuLI level2 menuHidden li-1252"><a class="menuA level2 menuHidden" href="https://www.governmentjobs.com/careers/manassas" target="_new">Jobs</a></li>
+					<li class="menuLI level2 menuHidden li-1253"><a class="menuA level2 menuHidden" href="connect/city_clerk/apply_for_a_board.php" target="_self">Board, Committee, Commission</a></li>
+					<li class="menuLI level2 menuHidden li-1254"><a class="menuA level2 menuHidden" href="connect/commissioner_of_the_revenue/business_taxes/business_licenses/index.php" target="_self">Business License</a></li>
+					<li class="menuLI level2 menuHidden li-1256"><a class="menuA level2 menuHidden" href="how_do_i_/apply_for/permits/index.php" target="_self">Permits</a></li>
+					<li class="menuLI level2 menuHidden li-1257"><a class="menuA level2 menuHidden" href="parks_culture_and_recreation/park_reservations.php" target="_self">Park Rental</a></li>
+					<li class="menuLI level2 menuHidden li-1398"><a class="menuA level2 menuHidden" href="electric_water___sewer/index.php" target="_self">Utilities</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-72 children"><a class="menuA level1 menuHidden" href="how_do_i_/host_a/index.php" target="_self">Host a</a>
+				<ul class="menuUL level2 menuHidden ul-1264">
+					<li class="menuLI level2 menuHidden li-1264"><a class="menuA level2 menuHidden" href="how_do_i_/host_a/special_event/index.php" target="_self">Special Event</a></li>
+					<li class="menuLI level2 menuHidden li-1265"><a class="menuA level2 menuHidden" href="police_department/use_of_public_forum.php" target="_self">Public Forum</a></li>
+					<li class="menuLI level2 menuHidden li-3310"><a class="menuA level2 menuHidden" href="https://form.jotform.com/202124742297049" target="_new">Private Commercial Event</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-73 children"><a class="menuA level1 menuHidden" href="how_do_i_/volunteer/index.php" target="_self">Volunteer</a>
+				<ul class="menuUL level2 menuHidden ul-1273">
+					<li class="menuLI level2 menuHidden li-1273"><a class="menuA level2 menuHidden" href="voter_registration_and_elections/get_involved.php" target="_self">Work the Polls</a></li>
+					<li class="menuLI level2 menuHidden li-1274"><a class="menuA level2 menuHidden" href="connect/city_clerk/apply_for_a_board.php" target="_self">Board, Committee, Commission</a></li>
+					<li class="menuLI level2 menuHidden li-1275"><a class="menuA level2 menuHidden" href="fire___rescue/cert/index.php" target="_self">CERT</a></li>
+					<li class="menuLI level2 menuHidden li-1276"><a class="menuA level2 menuHidden" href="fire___rescue/volunteer_recruitment/index.php" target="_self">Volunteer Fire & Rescue</a></li>
+					<li class="menuLI level2 menuHidden li-1277"><a class="menuA level2 menuHidden" href="parks_culture_and_recreation/index.php" target="_self">Parks, Culture & Recreation</a></li>
+				</ul>
+			</li>
+			<li class="menuLI level1 menuHidden li-74 children"><a class="menuA level1 menuHidden" href="how_do_i_/register/index.php" target="_self">Register</a>
+				<ul class="menuUL level2 menuHidden ul-1288">
+					<li class="menuLI level2 menuHidden li-1288"><a class="menuA level2 menuHidden" href="voter_registration_and_elections/index.php" target="_self">Voter Registration</a></li>
+					<li class="menuLI level2 menuHidden li-1289"><a class="menuA level2 menuHidden" href="connect/commissioner_of_the_revenue/personal_property___vehicle_taxes/personal_property_vehicle_registration_form.php" target="_self">Vehicle Registration</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+<!-- \\ END of /plugins/menus/menus_topnav_list_include.jsp // -->
+
+<!-- \\ END of topnav_template // -->
+
+
+
+			</nav><!--/.col-md-8.text-center-->
+<!--Top Nav Area Ends-->
+
+<!--Social Area Starts-->                                    
+			<div class="col-md-2 text-right hidden-sm hidden-xs">
+				
+
+
+
+<div class="social-media-links">
+	
+	<a href="https://www.facebook.com/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-facebook.png" alt="faceboook link"><span class="sr-only">Facebook link</span></a>  
+	 
+	<a href="https://twitter.com/CityofManassas" target="_blank"class="social-media-link"><img src="_assets_/images/social-twitter.png" alt="twitter link"><span class="sr-only">twitter link</span></a>
+	
+	<a href="https://www.youtube.com/user/ManassasCityVA/feed" target="_blank" class="social-media-link"><img src="_assets_/images/social-youtube.png" alt="youtube link"><span class="sr-only">YouTube link</span></a>
+    
+	<a href="https://www.instagram.com/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-instagram.png" alt="instagram link"><span class="sr-only">Instagram link</span></a>
+    
+	<a href="https://www.flickr.com/photos/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-flickr.png" alt="flickr link"><span class="sr-only">Flickr link</span></a>
+
+</div><!--/.social-media-links-->
+			</div><!--/.col-md-2.hidden-xs.hidden-sm.text-right-->
+<!--Social Area Ends-->                                    		
+        </div><!--/.row-->
+	</div><!--/.container-->
+</header>
+	
+<!--Top Area Ends-->
+
+<!--Slider and Search Area Starts-->
+<section id="slider">
+
+<!--Slider Area Starts-->
+	
+    <div class="sliderbtn">
+  
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+    RZ.module = 'banner';
+    RZ.nexturl = "editforms/banner-editlist.jsp?pageid=3475";
+    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+    RZ.img = '<span class="rzBtn">Edit Slides</span>';
+    RZ.caption = '';
+    RZ.options = '';
+    if (typeof RZaction != 'undefined') RZaction('editlist');
+    </script>
+    
+</div>
+                      
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
+</script>
+
+    
+      
+
+
+<script language="JavaScript" type="text/JavaScript">
+if (typeof RZlinktemplate != 'undefined') RZlinktemplate('banner','','')
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'1.00'};
+</script>
+
+<ul class="bxslider">
+    <li style="background: url(_assets_/images/slide-2.jpg) center no-repeat;background-size:cover;"></li>
+</ul><!-- /.bxslider -->
+    
+<!--Slider Area Ends-->
+
+<!--Search Area Starts-->
+	
+
+
+ 
+<div id="search">
+    <form class="search-form" method="GET" action="search.php" role="search" aria-label="sitewide">
+        <label for="search-input"><span class="sr-only">Search</span></label>
+        <input name="q" class="form-control search-input" placeholder="Search Manassas..." type="search" id="search-input">
+        <button><img src="_assets_/images/arrow-right.png" alt="search arrow"><span class="sr-only">Search icon</span></button>
+    </form><!--/.search-form-->
+    <div id="top-searches">
+    	
+
+
+ 
+
+ 
+
+ 	
+<strong>Top Searches:</strong>
+
+    
+
+	
+    </div><!--/#top-searches-->
+</div><!-- /#search -->
+<!--Search Area Ends-->  
+  
+</section><!--/#slider-->
+<!--Slider and Search Area Starts-->
+
+<main id="main">	
+	<div class="container">
+		<div id="entry">
+<!--Breacrumb Area Starts-->        
+			<div id="breadcrumbs">
+	
+		<a href="./">Home</a>not&nbsp;found
+    
+</div>
+<!--Breacrumb Area Ends-->
+
+<!--Page Title Area Starts-->                            
+			
+	 
+<h1 id="page-title">404. The page/URL requested wasn't found on this site.</h1>
+<!--Page Title Area Ends-->
+                                        
+<!--Center Content Area Starts-->                            
+			<div id="post">
+				<div class="editcenterBtns">
+	
+	
+	
+	
+	<script language="JavaScript" type="text/JavaScript">
+	RZ.module = 'freeform';
+	RZ.recordid = '';
+	RZ.nexturl = "editforms/freeform-editform.jsp";
+	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+	RZ.img = '<span class="rzBtn">Edit Content</span>';
+	RZ.set = 'freeform.pageid=links-3475';
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('editform');
+	</script>
+
+    
+
+
+<!-- Revize Forward to Edit Form -->
+<script language="JavaScript" type="text/JavaScript">
+	RZ.module = 'freeform';
+	RZ.recordid = '';
+	RZ.nexturl = "editforms/metadata-editform.jsp";
+	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+	RZ.img = '<span class="rzBtn">Edit Metadata</span>';
+	RZ.set = "freeform.pageid=links-3475";
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('editform');
+</script>
+
+
+
+
+<script language="JavaScript" type="text/JavaScript">
+	RZ.nexturl = '';
+	RZ.img = '<span class="rzAdmin"><img src="images/edit/permissions.jpg" alt="Permissions" border="0" class="rzBtn" /></span>';
+	RZ.options = '';
+	if (typeof RZaction != 'undefined') RZaction('permissions');
+</script>
+
+</div>
+
+
+	<div class="inner-tiles">
+		<script language="JavaScript" type="text/JavaScript">
+			RZ.module = 'imagelink';
+			RZ.nexturl = "editforms/tiles-editlist.jsp?width=300&height=200&pageid=tiles-links-3475";
+			RZ.img = '<span class="rzBtn">Edit Tiles</span>';
+			RZ.caption = '';
+			RZ.set = '';
+			RZ.options = '';
+			if (typeof RZaction != 'undefined') RZaction('editlist');
+		</script>
+
+	</div>
+
+
+
+
+
+			</div><!--/#post-->
+<!--Center Content Area Ends-->                                        
+		</div><!--/#entry-->
+	</div>
+    
+<!--Quick Link Area Starts-->                                
+    
+
+
+
+<section id="quick-links">
+	<div class="container">
+      
+
+
+
+
+ 
+
+  
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+    
+
+
+
+<div id="quick-links-list" class="clearfix text-center">
+  <a href="services/pay_my_bill/index.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink_1.png" alt="qlink" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Pay My Bill</strong>
+					</a>
+			<a href="connect/city_clerk/manassas_council_meeting_center.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink_2.png" alt="qlink" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Meetings</strong>
+					</a>
+			<a href="https://seeclickfix.com/web_portal/sqg3ASoQQj9rXCid3PBW82Kz/report/category" target="_blank" class="quick-link">
+			<img src="quickimages/qlink_3.png" alt="qlink" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Report a <br>Concern</strong>
+					</a>
+			<a href="things_to_do/manassas_museum/index.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink_4.png" alt="qlink" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Museum</strong>
+					</a>
+			<a href="how_do_i_/view/contacts/index.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink-5.png" alt="qlink-5" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Contact <br>Us</strong>
+					</a>
+			<a href="airport/index.php" target="_self" class="quick-link">
+			<img src="quickimages/Little%20Airplane.png" alt="Little Airplane" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Airport</strong>
+					</a>
+			<a href="how_do_i_/find/gis___mapping_website/index.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink-7.png" alt="qlink-7" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Maps & <br>GIS</strong>
+					</a>
+			<a href="public_works/trash___recycling/index.php" target="_self" class="quick-link">
+			<img src="quickimages/qlink-8.png" alt="qlink-8" class="quick-link-icon v-align">
+			<strong class="quick-link-name">Recycle & <br>Trash</strong>
+					</a>
+			
+</div><!--/#quick-links-list.clearfix.text-center-->
+  </div>
+</section>
+	
+<!--Quick Link Area Ends-->
+
+<!--Notication Area Starts-->                                                                    
+	
+
+
+
+
+ 
+
+ 
+<section id="notifications" style="background:url('./_assets_/images/notifications-bg.jpg') center no-repeat;background-size:cover">
+    <div class="container">  
+         		
+        <h2 class="section-header text-center">
+        	 
+			
+            <img src="./_assets_/images/get-notified.png" alt="get notified">
+            <strong>Stay up-to-date on what happening by subscribing below</strong>
+        </h2><!--/.section-header.text-center-->
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <form action="enotify/index.php" id="enotify-signup" class="signup clearfix">
+                    <input type="email" name="email" placeholder="Enter your email" aria-label="email address" required>
+                    <button>Subscribe</button>
+                    <span>By signing up you agree to our terms</span>
+                </form><!--/.signup.clearfix#enotify-signup-->
+            </div><!--/.col-md-6.col-md-offset-3-->
+        </div><!--/.row-->
+    </div><!--/.container-->
+</section><!--/#notifications-->
+	
+<!--Notication Area Ends-->
+
+<!--Share Area Starts-->                                                                    
+	<!--Share Area Ends--> 
+                                                                       
+</main>
+
+<!--Footer Area Starts-->   
+<!--Share Area Starts-->
+	<section id="modal-section">
+		<button type="button" class="share-btn floating-share-btn" data-toggle="modal" data-target="#shareModal" >
+		<i class="fa fa-share-alt"></i>
+	</button>
+	<div id="google-translate" class="hidden">
+		<script>
+			function googleTranslateElementInit() {
+				new google.translate.TranslateElement({pagelanguage: 'en',
+					layout: google.translate.TranslateElement.InlineLayout.SIMPLE},
+					'google-translate');
+			}
+		</script>
+		<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+	</div><!--/#google-translate.control.hidden-sm.hidden-xs-->
+	<ul id="translation-links">
+		<li><button type="button" id="translate-button" aria-label="translate website" aria-haspopup="true" aria-expanded="false"><img src="_assets_/images/translate.png" alt="translate"></button>
+			<ul class="clearfix" aria-labelledby="translate-button">
+				<li><a href="#" class="Afrikaans" data-lang="Afrikaans">Afrikaans</a></li>
+				<li><a href="#" class="Albanian" data-lang="Albanian">Albanian</a></li>
+				<li><a href="#" class="Arabic" data-lang="Arabic">Arabic</a></li>
+				<li><a href="#" class="Armenian" data-lang="Armenian">Armenian</a></li>
+				<li><a href="#" class="Azerbaijani" data-lang="Azerbaijani">Azerbaijani</a></li>
+				<li><a href="#" class="Basque" data-lang="Basque">Basque</a></li>
+				<li><a href="#" class="Belarusian" data-lang="Belarusian">Belarusian</a></li>
+				<li><a href="#" class="Bengali" data-lang="Bengali">Bengali</a></li>
+				<li><a href="#" class="Bosnian" data-lang="Bosnian">Bosnian</a></li>
+				<li><a href="#" class="Bulgarian" data-lang="Bulgarian">Bulgarian</a></li>
+				<li><a href="#" class="Catalan" data-lang="Catalan">Catalan</a></li>
+				<li><a href="#" class="Cebuano" data-lang="Cebuano">Cebuano</a></li>
+				<li><a href="#" class="Chinese" data-lang="Chinese (Simplified)">Chinese (Simplified)</a></li>
+				<li><a href="#" class="Chinese" data-lang="Chinese (Traditional)">Chinese (Traditional)</a></li>
+				<li><a href="#" class="Croatian" data-lang="Croatian">Croatian</a></li>
+				<li><a href="#" class="Czech" data-lang="Czech">Czech</a></li>
+				<li><a href="#" class="Danish" data-lang="Danish">Danish</a></li>
+				<li><a href="#" class="Dutch" data-lang="Dutch">Dutch</a></li>
+				<li><a href="#" class="English" data-lang="English">English</a></li>
+				<li><a href="#" class="Esperanto" data-lang="Esperanto">Esperanto</a></li>
+				<li><a href="#" class="Estonian" data-lang="Estonian">Estonian</a></li>
+				<li><a href="#" class="Filipino" data-lang="Filipino">Filipino</a></li>
+				<li><a href="#" class="Finnish" data-lang="Finnish">Finnish</a></li>
+				<li><a href="#" class="French" data-lang="French">French</a></li>
+				<li><a href="#" class="Galician" data-lang="Galician">Galician</a></li>
+				<li><a href="#" class="Georgian" data-lang="Georgian">Georgian</a></li>
+				<li><a href="#" class="German" data-lang="German">German</a></li>
+				<li><a href="#" class="Greek" data-lang="Greek">Greek</a></li>
+				<li><a href="#" class="Gujarati" data-lang="Gujarati">Gujarati</a></li>
+				<li><a href="#" class="Haitian Creole" data-lang="Haitian Creole">Haitian Creole</a></li>
+				<li><a href="#" class="Hausa" data-lang="Hausa">Hausa</a></li>
+				<li><a href="#" class="Hebrew" data-lang="Hebrew">Hebrew</a></li>
+				<li><a href="#" class="Hindi" data-lang="">Hindi</a></li>
+				<li><a href="#" class="Hmong" data-lang="Hmong">Hmong</a></li>
+				<li><a href="#" class="Hungarian" data-lang="Hungarian">Hungarian</a></li>
+				<li><a href="#" class="Icelandic" data-lang="Icelandic">Icelandic</a></li>
+				<li><a href="#" class="Igbo" data-lang="Igbo">Igbo</a></li>
+				<li><a href="#" class="Indonesian" data-lang="Indonesian">Indonesian</a></li>
+				<li><a href="#" class="Irish" data-lang="Irish">Irish</a></li>
+				<li><a href="#" class="Italian" data-lang="Italian">Italian</a></li>
+				<li><a href="#" class="Japanese" data-lang="Japanese">Japanese</a></li>
+				<li><a href="#" class="Javanese" data-lang="Javanese">Javanese</a></li>
+				<li><a href="#" class="Kannada" data-lang="Kannada">Kannada</a></li>
+				<li><a href="#" class="Khmer" data-lang="Khmer">Khmer</a></li>
+				<li><a href="#" class="Korean" data-lang="Korean">Korean</a></li>
+				<li><a href="#" class="Lao" data-lang="Lao">Lao</a></li>
+				<li><a href="#" class="Latin" data-lang="Latin">Latin</a></li>
+				<li><a href="#" class="Latvian" data-lang="Latvian">Latvian</a></li>
+				<li><a href="#" class="Lithuanian" data-lang="Lithuanian">Lithuanian</a></li>
+				<li><a href="#" class="Macedonian" data-lang="Macedonian">Macedonian</a></li>
+				<li><a href="#" class="Malay" data-lang="Malay">Malay</a></li>
+				<li><a href="#" class="Maltese" data-lang="Maltese">Maltese</a></li>
+				<li><a href="#" class="Maori" data-lang="Maori">Maori</a></li>
+				<li><a href="#" class="Marathi" data-lang="Marathi">Marathi</a></li>
+				<li><a href="#" class="Mongolian" data-lang="Mongolian">Mongolian</a></li>
+				<li><a href="#" class="Nepali" data-lang="Nepali">Nepali</a></li>
+				<li><a href="#" class="Norwegian" data-lang="Norwegian">Norwegian</a></li>
+				<li><a href="#" class="Persian" data-lang="Persian">Persian</a></li>
+				<li><a href="#" class="Polish" data-lang="Polish">Polish</a></li>
+				<li><a href="#" class="Portuguese" data-lang="Portuguese">Portuguese</a></li>
+				<li><a href="#" class="Punjabi" data-lang="Punjabi">Punjabi</a></li>
+				<li><a href="#" class="Romanian" data-lang="Romanian">Romanian</a></li>
+				<li><a href="#" class="Russian" data-lang="Russian">Russian</a></li>
+				<li><a href="#" class="Serbian" data-lang="Serbian">Serbian</a></li>
+				<li><a href="#" class="Slovak" data-lang="Slovak">Slovak</a></li>
+				<li><a href="#" class="Slovenian" data-lang="Slovenian">Slovenian</a></li>
+				<li><a href="#" class="Somali" data-lang="Somali">Somali</a></li>
+				<li><a href="#" class="Spanish" data-lang="Spanish">Spanish</a></li>
+				<li><a href="#" class="Swahili" data-lang="Swahili">Swahili</a></li>
+				<li><a href="#" class="Swedish" data-lang="Swedish">Swedish</a></li>
+				<li><a href="#" class="Tamil" data-lang="Tamil">Tamil</a></li>
+				<li><a href="#" class="Telugu" data-lang="Telugu">Telugu</a></li>
+				<li><a href="#" class="Thai" data-lang="Thai">Thai</a></li>
+				<li><a href="#" class="Turkish" data-lang="Turkish">Turkish</a></li>
+				<li><a href="#" class="Ukrainian" data-lang="Ukrainian">Ukrainian</a></li>
+				<li><a href="#" class="Urdu" data-lang="Urdu">Urdu</a></li>
+				<li><a href="#" class="Vietnamese" data-lang="Vietnamese">Vietnamese</a></li>
+				<li><a href="#" class="Welsh" data-lang="Welsh">Welsh</a></li>
+				<li><a href="#" class="Yiddish" data-lang="Yiddish">Yiddish</a></li>
+				<li><a href="#" class="Yoruba" data-lang="Yoruba">Yoruba</a></li>
+				<li><a href="#" class="Zulu" data-lang="Zulu">Zulu</a></li>
+			</ul>
+		</li>
+	</ul><!--/#translation-links-->
+
+	<div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-labelledby="shareModal">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h2 class="modal-title" id="myModalLabel">Share this page</h2>
+				</div>
+				<div class="modal-body">
+					<div class="copylink">
+						<p>Copy and paste this code into your website.</p>
+						<pre>&lt;a href="http://www.manassascity.org/robots.txt">Your Link Name&lt;/a&gt;</pre>
+					</div><!-- /.copylink -->
+					<div class="share-btns">
+						<p>Share this page on your favorite Social network</p>
+						<div class="row">
+							<div class="col-sm-4">
+								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.manassascity.org/robots.txt" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-facebook"></i> Facebook
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.twitter.com/home?status=http://www.manassascity.org/robots.txt" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-twitter"></i> Twitter
+								</a>
+							</div>
+							<div class="col-sm-4">
+								<a href="https://www.reddit.com/submit?url=http://www.manassascity.org/robots.txt" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+								target="_blank">
+									<i class="fa fa-reddit"></i> Reddit
+								</a>
+							</div>
+						</div><!-- /.row -->
+					</div><!-- /.share-btns -->
+					<button type="button" class="btn btn-success btn-lg" data-dismiss="modal">Close</button>
+				</div><!-- /.modal-body -->
+			</div>
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</section><!-- /#modal-section -->
+<!--Share Area Ends--> 
+
+<footer>
+	<img src="_assets_/images/footer-graphic-1.png" alt="footer graphic" class="footer-graphic first">
+	<img src="_assets_/images/footer-graphic-2.png" alt="footer graphic" class="footer-graphic second">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3">
+<!--Location Area Starts-->   				   				                
+				<div id="our-location">
+					
+                    
+
+
+
+
+ 
+
+  
+<h5 class="footer-header">OUR LOCATION</h5>
+<div id="our-location-caption">
+	9027 Center St. Manassas, VA 20110
+</div>
+	
+				</div><!--/#our-location-->
+<!--Location Area Ends--> 
+
+<!--Social Area Starts-->   				   				                
+				
+
+
+
+<div class="social-media-links">
+	
+	<a href="https://www.facebook.com/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-facebook.png" alt="faceboook link"><span class="sr-only">Facebook link</span></a>  
+	 
+	<a href="https://twitter.com/CityofManassas" target="_blank"class="social-media-link"><img src="_assets_/images/social-twitter.png" alt="twitter link"><span class="sr-only">twitter link</span></a>
+	
+	<a href="https://www.youtube.com/user/ManassasCityVA/feed" target="_blank" class="social-media-link"><img src="_assets_/images/social-youtube.png" alt="youtube link"><span class="sr-only">YouTube link</span></a>
+    
+	<a href="https://www.instagram.com/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-instagram.png" alt="instagram link"><span class="sr-only">Instagram link</span></a>
+    
+	<a href="https://www.flickr.com/photos/cityofmanassas" target="_blank" class="social-media-link"><img src="_assets_/images/social-flickr.png" alt="flickr link"><span class="sr-only">Flickr link</span></a>
+
+</div><!--/.social-media-links-->
+	
+<!--Social Area Ends-->
+
+<!--Help Area Starts-->
+				
+                
+
+
+
+
+ 
+
+ 
+  
+<div id="help">
+    <h5 class="footer-header">TALK TO THE CITY</h5>
+    <div id="help-caption">If you have questions, contact us.</div>
+    <div id="help-number">703-257-8200</div>
+</div><!--/#help-->
+	
+<!--Help Area Ends-->   				   				                                
+			</div><!--/.col-md-3-->
+            
+<!--Footer Links Area Starts-->   				   				                            
+			<div class="col-md-9">
+				<div id="footer-links">
+					<div class="footer-links-col">
+						
+                        
+
+
+
+
+ 
+
+  
+<h5 class="footer-header">residents</h5>
+
+    
+         
+        	
+            	
+            	<a href="connect/city_clerk/archive_center/city_connection_newsletter.php# " target="_self" class="footer-link">City Connection Newsletter</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="https://www.mcpsva.org/" target="_new" class="footer-link">Manassas City Public Schools</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="voter_registration_and_elections/index.php" target="_self" class="footer-link">Elections</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="http://www.pwcgov.org/government/dept/library/Pages/default.aspx" target="_new" class="footer-link">Library</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="senior_services/index.php" target="_self" class="footer-link">Senior Services</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="living_in_manassas/index.php" target="_self" class="footer-link">Living in Manassas</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="how_do_i_/volunteer/index.php" target="_self" class="footer-link">Volunteer</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="connect/treasurer/taxes/index.php" target="_self" class="footer-link">Tax Information</a>
+          	
+		
+    
+         
+        	
+            	
+            	<a href="alert_manassas/index.php" target="_self" class="footer-link">Alert Manassas</a>
+          	
+		
+    
+
+	
+					</div><!--/.footer-links-col-->
+					<div class="footer-links-col">
+						
+                        
+
+
+
+
+ 
+
+  
+<h5 class="footer-header">Business</h5>
+
+    
+         
+            	
+            	<a href="https://choosemanassas.org/" target="_new" class="footer-link">Choose Manassas</a>
+          	
+
+    
+         
+            	
+            	<a href="electric_water___sewer/utility_services.php" target="_self" class="footer-link">Connections (water, sewer, electric)</a>
+          	
+
+    
+         
+            	
+            	<a href="how_do_i_/apply_for/permits/index.php" target="_self" class="footer-link">Permits</a>
+          	
+
+    
+         
+            	
+            	<a href="connect/commissioner_of_the_revenue/business_taxes/business_licenses/index.php" target="_self" class="footer-link">Business License</a>
+          	
+
+    
+         
+            	
+            	<a href="connect/commissioner_of_the_revenue/business_taxes/index.php" target="_self" class="footer-link">Business Taxes</a>
+          	
+
+    
+         
+            	
+            	<a href="purchasing/index.php" target="_self" class="footer-link">Purchasing</a>
+          	
+
+    
+         
+            	
+            	<a href="purchasing/bid_postings.php" target="_self" class="footer-link">Solicitations</a>
+          	
+
+    
+         
+            	
+            	<a href="purchasing/information_for_vendors.php" target="_self" class="footer-link">Vendor Information</a>
+          	
+
+    
+         
+            	
+            	<a href="community_development/development_services/index.php" target="_self" class="footer-link">Planning & Development</a>
+          	
+
+    
+         
+            	
+            	<a href="fire___rescue/office_of_the_fire_marshal/forms___applications.php" target="_self" class="footer-link">Fire Inspections</a>
+          	
+
+    
+
+	
+					</div><!--/.footer-links-col-->
+					<div class="footer-links-col">
+						
+						
+
+
+
+
+ 
+
+  
+<h5 class="footer-header">Useful Links</h5>
+
+    
+         
+            	
+            	<a href="connect/city_manager_s_office/strategic_plan/index.php" target="_self" class="footer-link">Strategic Plan</a>
+          	
+
+    
+         
+            	
+            	<a href="https://library.municode.com/va/manassas/codes/code_of_ordinances" target="_new" class="footer-link">City Code</a>
+          	
+
+    
+         
+            	
+            	<a href="fire___rescue/index.php" target="_self" class="footer-link">Fire & Rescue</a>
+          	
+
+    
+         
+            	
+            	<a href="police_department/index.php" target="_self" class="footer-link">Police</a>
+          	
+
+    
+         
+            	
+            	<a href="connect/city_manager_s_office/foia_requests.php" target="_self" class="footer-link">Public Records Requests</a>
+          	
+
+    
+         
+            	
+            	<a href="https://www.pwcgov.org/government/courts/Pages/default.aspx" target="_new" class="footer-link">Courts</a>
+          	
+
+    
+         
+            	
+            	<a href="https://www.virginia.gov/" target="_new" class="footer-link">Commonwealth of Virginia</a>
+          	
+
+    
+         
+            	
+            	<a href="https://www.pwcgov.org/" target="_new" class="footer-link">Prince William County</a>
+          	
+
+    
+         
+            	
+            	<a href="https://www.usa.gov/" target="_new" class="footer-link">US Government</a>
+          	
+
+    
+         
+            	
+            	<a href="faqs/frequently_asked_questions.php#faq_rz332 " target="_self" class="footer-link">Frequently Asked Questions</a>
+          	
+
+    
+
+	
+					</div><!--/.footer-links-col-->
+					<div class="footer-links-col">
+						
+						
+
+
+
+
+ 
+
+  
+<h5 id="departments" class="footer-header">departments</h5>
+
+    
+         
+            	
+            	<a href="administration/index.php" target="_self" class="footer-link">Administration</a>
+          	
+
+    
+         
+            	
+            	<a href="airport/index.php" target="_self" class="footer-link">Airport</a>
+          	
+
+    
+         
+            	
+            	<a href="community_development/index.php" target="_self" class="footer-link">Community Development</a>
+          	
+
+    
+         
+            	
+            	<a href="economic_development/index.php" target="_self" class="footer-link">Economic Development</a>
+          	
+
+    
+         
+            	
+            	<a href="electric_water___sewer/index.php" target="_self" class="footer-link">Electric, Water & Sewer</a>
+          	
+
+    
+         
+            	
+            	<a href="engineering/index.php" target="_self" class="footer-link">Engineering</a>
+          	
+
+    
+         
+            	
+            	<a href="finance/index.php" target="_self" class="footer-link">Finance</a>
+          	
+
+    
+         
+            	
+            	<a href="fire___rescue/index.php" target="_self" class="footer-link">Fire & Rescue</a>
+          	
+
+    
+         
+            	
+            	<a href="human_resources/index.php" target="_self" class="footer-link">Human Resources</a>
+          	
+
+    
+         
+            	
+            	<a href="information_technology/index.php" target="_self" class="footer-link">Information Technology</a>
+          	
+
+    
+         
+            	
+            	<a href="things_to_do/manassas_museum/index.php" target="_self" class="footer-link">Manassas Museum System</a>
+          	
+
+    
+         
+            	
+            	<a href="parks_culture_and_recreation/index.php" target="_self" class="footer-link">Parks, Culture and Recreation</a>
+          	
+
+    
+         
+            	
+            	<a href="police_department/index.php" target="_self" class="footer-link">Police Department</a>
+          	
+
+    
+         
+            	
+            	<a href="public_works/index.php" target="_self" class="footer-link">Public Works</a>
+          	
+
+    
+         
+            	
+            	<a href="purchasing/index.php" target="_self" class="footer-link">Purchasing</a>
+          	
+
+    
+         
+            	
+            	<a href="social_services/index.php" target="_self" class="footer-link">Social Services</a>
+          	
+
+    
+         
+            	
+            	<a href="voter_registration_and_elections/index.php" target="_self" class="footer-link">Voter Registration and Elections</a>
+          	
+
+    
+         
+            	
+            	<a href="employee_portal/employee_portal.php" target="_self" class="footer-link">Employee Portal</a>
+          	
+
+    
+         
+            	
+            	<a href="emergency_messages/index.php" target="_self" class="footer-link">DRAFT Emergency Notices</a>
+          	
+
+    
+
+	
+					</div><!--/.footer-links-col-->
+				</div><!--/#footer-links-->
+			</div><!--/.col-md-9-->
+<!--Footer Links Area Ends-->   				   				                                        
+		</div><!--/.row-->
+		<div id="lower-footer">
+			<div class="row">
+<!--Copyright Area Starts-->
+				
+                
+
+
+
+<div class="col-md-6" id="footer-text">
+    Copyright &copy; 2020 City of Manassas, VA. All rights reserved.
+</div><!--/.col-md-6-->
+	
+<!--Copyright Area Ends-->
+
+<!--Login Area Starts-->   				   				                
+				<div class="col-md-6 text-right" id="revize">
+    Powered by <a href="https://www.revize.com" id="revize-link">revize.</a>, The Government Website Experts | <a href="./" id="revize-login">Login</a><!-- // BEG of /plugins/general/general.revize_login.include.jsp \\ -->
+<span id="revize-login" class="v06-11-2011"><span class="powered-by-revize">Powered By
+<a id="powered-by-revize-link" style="color:inherit;text-decoration:none"
+target="_blank" href="http://www.revize.com">Revize</a>
+</span><a id="revize-login-link" style="color:inherit;text-decoration:none"
+href="http://cms9.revize.com/revize/security/index.jsp?webspace=manassasva&filename=/not_found/index.php">Login</a></span>
+<!-- \\ END of /plugins/general/general.revize_login.include.jsp // -->
+</div><!--/.col-md-6#revize.text-right-->
+<!--Login Area Ends--->
+			</div><!--/.row-->
+		</div><!--/#lower-footer-->
+	</div><!--/.container-->
+</footer>
+<!--Footer Area Ends-->   
+
+<script src="_assets_/js/jquery.min.js"></script>
+<script src="_assets_/plugins/twitter/js/jquery.tweet.min.js"></script>
+<script src="_assets_/plugins/social-feed/bower_components/codebird-js/codebird.js"></script>
+<script src="_assets_/plugins/social-feed/bower_components/doT/doT.min.js"></script>
+<script src="_assets_/plugins/social-feed/bower_components/moment/min/moment.min.js"></script>
+<script src="_assets_/plugins/social-feed/bower_components/moment/locale/en-au.js"></script>
+<script src="_assets_/plugins/social-feed/js/jquery.socialfeed.js"></script>
+<script src="_assets_/plugins/modernizr/modernizr.custom.js"></script>
+<script src="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
+<script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
+<script src="_assets_/js/scripts.js"></script>
+<script type="text/javascript">
+  var _userway_config = {
+    /* uncomment the following line to override default position*/
+    position: '3',
+    /* uncomment the following line to override default size (values: small, large)*/
+    size: 'large',
+    /* uncomment the following line to override default language (e.g., fr, de, es, he, nl, etc.)*/
+    /* language: 'null', */
+    /* uncomment the following line to override color set via widget (e.g., #053f67)*/
+    /* color: '#2d68ff', */
+    /* uncomment the following line to override type set via widget (1=person, 2=chair, 3=eye, 4=text)*/
+    /* type: '1', */
+    /* uncomment the following lines to override the accessibility statement*/
+    /* statement_text: "Our Accessibility Statement", */
+    /* statement_url: "http://www.example.com/accessibility", */
+    /* uncomment the following line to override support on mobile devices*/
+    /* mobile: true, */
+    account: '96KQpa5ZO9'
+  };
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script
+<!--Goole Analytics Code Area Starts-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156585283-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-156585283-1');
+</script><!--Goole Analytics Code Area Ends-->
+
+<!-- // BEG of /plugins/setup/setup.before_endbody.template_include.jsp \\ -->
+<!-- // BEG of /plugins/setup/setup.before_endbody.common_include.jsp \\ -->
+<!-- \\ END of /plugins/setup/setup.before_endhead.common_include.jsp // -->
+<!-- // BEG of google.analytics_before_endbody.template_include.jsp  \\ -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-156585283-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+:'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- \\ END of google.analytics_before_endbody.template_include.jsp // -->
+
+<!-- \\ END of /plugins/setup/setup.before_endbody.template_include.jsp // --></body>
+</html>

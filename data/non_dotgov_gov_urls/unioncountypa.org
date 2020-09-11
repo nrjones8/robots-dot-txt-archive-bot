@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Page Not Found | Union County Commissioners
+</title><meta name="description" /><meta name="keywords" /><link rel="stylesheet" type="text/css" media="all" href="/style/custom.less" /><link rel="stylesheet" type="text/css" media="all" href="/style/kendo/kendo.common.min.css" /><link rel="stylesheet" type="text/css" media="all" href="/style/kendo/kendo.default.min.css" /><link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,400italic,800,800italic" /><link rel="stylesheet" type="text/css" media="print" href="/style/print.css" /><script src="/js/main.min.js"></script>
+<script type="text/javascript" language="javascript">
+            var oPage = {"ContentId":1096,"TagId":102};
+            $(function() {
+
+                $('#emergencyAlertBarInner').expander({
+                    expandPrefix: ' ', // default is '... '
+                    expandText: 'show more details', // default is 'read more'
+                    userCollapseText: 'hide details' // default is 'read less');
+                });
+
+
+                /*
+                 * Email Address madness! First we use the emailExpander plugin
+                 * to make email addresses fit within space constraints. Next
+                 * we loop through all mailto links on the site and reverse the
+                 * obfuscation by reversing the email address in the href, and
+                 * applying bidirectional CSS to the element.
+                 */
+                $('a.DeEmail[href^="mailto:"]').emailExpander({
+                    message: "%username%@&hellip;",
+                }).each(function() {
+
+
+                    link = $(this);
+                    if (link.hasClass("DeEmail")) {
+                        email = link.attr("href").substring(7).split("").reverse().join("");
+
+                        // Fix the link
+                        link.prop("href", "mailto:" + email);
+
+                        // Make text appear properly.
+                        link.css("direction", "rtl");
+                        link.css("unicode-bidi", "bidi-override");
+                    }
+                });
+
+
+                // Move the contact form up.
+                $('.contactPage #mainContent .contactFormWrap').appendTo($('.contactPage #mainContent #cb1'));
+
+                // Hide that annoying 4th event.
+                //$('.homepage .upcomingEvents li:nth-child(4)').css("display", "none");
+            });
+        </script>
+<script type="text/javascript" language="javascript">
+            /* Google Analytics */
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            var gaId = 'UA-56484233-1';
+            ga('create', gaId, { 'cookieDomain': 'none' });
+            ga('require', 'linkid', 'linkid.js');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+            /* End - Google Analytics */
+        </script>
+</head>
+<body id="bBody" class="imageCarouselforHeader imageCarouselforHeader errorPage home content1096 webPageOneColumn">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+<div id="pageWrap">
+<div id="header">
+<div class="branding container_16">
+<div class="mainHeader">
+<div class="grid_16">
+<a href="/" class="logo">
+<img src="/images/logo.png" alt="" />
+</a>
+</div>
+<div class="imgCarouselHeader">
+<div id="carouselWrap1365" class="carouselWrap">
+<img class="overlay" src="/images/header-bg-overlay.png" />
+<ul id="carousel1365">
+<li>
+<img src="/data/uploads/media/image/header-slide1.jpg?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/635757183393480521-786973689-Pineapple-inn-street.imgopt1000x70-1.imgopt1000x70.jpg?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/header-slide2.jpg?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/0909-UnionCounty-0089crop.jpg?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/APA-Flowersedit-2.jpg?w=760" alt="" />
+</li>
+</ul>
+<div class="clr">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(window).bind('load', function() {
+        // set the desired carousel width
+        var iWidth = 760;
+        $('#carouselWrap1365').width(iWidth);
+        if (jQuery().carouFredSel) $('#carousel1365').carouFredSel({
+            width: iWidth,
+            //height: 'auto',
+            items: {
+                visible: 1,
+                width: iWidth,
+            },
+            scroll: {
+                duration: 1000,
+                pauseOnHover: true,
+                fx: "crossfade"
+            },
+            auto: true,
+            onCreate: function () {
+                $('#carouselWrap1365').parent('.imgCarouselHeader').animate({ opacity: 1 }, 350);
+            }
+        });
+
+        // resize the caption wrapper to account for the size and applied padding
+        var oCapt = $('#carouselWrap1365 .caption');
+        var sHover = 'hover';
+        oCapt.width(iWidth - ($(oCapt).outerWidth() - $(oCapt).width()));
+        oCapt.hover(function(e) {
+            // get the height of all the immediate child elements
+            var $this = $(this),
+                iHeight = 0 ;
+
+            // compute the height to animate back to
+            if ($this.data(sHover) == undefined)
+            {
+                $('>*', this).each( function(){ iHeight += $(this).outerHeight(true); });
+                $this.data(sHover, iHeight);
+            }
+
+            // add hover class
+            $this.addClass(sHover);
+
+            // compute the height to animate back to
+            iHeight = 0;
+            $('>*', this).each( function(){ iHeight += $(this).outerHeight(true); });
+
+            // save and animate to the height
+            $this.stop().animate({ height:iHeight }, 500);
+        }, function(e) {
+            // get the height of all the immediate child elements
+            var $this = $(this),
+                iHeight = $this.data(sHover);
+
+            // animate to the height
+            $this.stop().animate({ height:iHeight }, 500, function(e) {
+                // remove hover class
+                $this.removeClass(sHover);
+            });
+        });
+    });
+</script>
+</div>
+<div class="ecDevHeader">
+<div class="grid_16">
+<a href="/economic-development/union-county-economic-development/page.aspx?id=1853" class="logo">
+<img src="/images/economicDevelopement/logo.png" alt="" />
+</a>
+</div>
+<div class="imgCarouselHeader">
+<div id="carouselWrap1896" class="carouselWrap">
+<img class="overlay" src="/images/header-bg-overlay.png" />
+<ul id="carousel1896">
+<li>
+<img src="/data/uploads/media/image/slide1.png?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/slide2.png?w=760" alt="" />
+</li>
+<li>
+<img src="/data/uploads/media/image/slide3.png?w=760" alt="" />
+</li>
+</ul>
+<div class="clr">
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $(window).bind('load', function() {
+        // set the desired carousel width
+        var iWidth = 760;
+        $('#carouselWrap1896').width(iWidth);
+        if (jQuery().carouFredSel) $('#carousel1896').carouFredSel({
+            width: iWidth,
+            //height: 'auto',
+            items: {
+                visible: 1,
+                width: iWidth,
+            },
+            scroll: {
+                duration: 1000,
+                pauseOnHover: true,
+                fx: "crossfade"
+            },
+            auto: true,
+            onCreate: function () {
+                $('#carouselWrap1896').parent('.imgCarouselHeader').animate({ opacity: 1 }, 350);
+            }
+        });
+
+        // resize the caption wrapper to account for the size and applied padding
+        var oCapt = $('#carouselWrap1896 .caption');
+        var sHover = 'hover';
+        oCapt.width(iWidth - ($(oCapt).outerWidth() - $(oCapt).width()));
+        oCapt.hover(function(e) {
+            // get the height of all the immediate child elements
+            var $this = $(this),
+                iHeight = 0 ;
+
+            // compute the height to animate back to
+            if ($this.data(sHover) == undefined)
+            {
+                $('>*', this).each( function(){ iHeight += $(this).outerHeight(true); });
+                $this.data(sHover, iHeight);
+            }
+
+            // add hover class
+            $this.addClass(sHover);
+
+            // compute the height to animate back to
+            iHeight = 0;
+            $('>*', this).each( function(){ iHeight += $(this).outerHeight(true); });
+
+            // save and animate to the height
+            $this.stop().animate({ height:iHeight }, 500);
+        }, function(e) {
+            // get the height of all the immediate child elements
+            var $this = $(this),
+                iHeight = $this.data(sHover);
+
+            // animate to the height
+            $this.stop().animate({ height:iHeight }, 500, function(e) {
+                // remove hover class
+                $this.removeClass(sHover);
+            });
+        });
+    });
+</script>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="siteNavigation">
+<div class="container_16">
+<div class="grid_13">
+<div id="navWrap" class="nav primaryNav"><ul class="navDepth"><li class="nav-home first"><a href="/">Home</a></li><li class="nav-services"><a href="/services/page.aspx?id=1248">Services</a><ul class="navDepth1"><li class="nav-courtpayments first"><a href="https://ujsportal.pacourts.us/ePay/Default.aspx">Court payments</a></li><li class="nav-emergencyServices"><a href="/departments/public-safety/emergency-services/page.aspx?id=1476">Emergency Services</a></li><li class="nav-humanServices"><a href="/services/human-services/page.aspx?id=1452">Human Services</a></li><li class="nav-jobOpportunities"><a href="/departments/human-resources/job-opportunities/page.aspx?id=1386">Job Opportunities</a></li><li class="nav-landDevelopment"><a href="/departments/planning/planning-commission/page.aspx?id=1268">Land Development</a></li><li class="nav-localMunicipalityInfo"><a href="/departments/planning/directory-of-local-municipalities/page.aspx?id=1261">Local Municipality Info</a></li><li class="nav-mapsandGeographicalInformation"><a href="/departments/gis/gis-department/page.aspx?id=2741">Maps and Geographical Information</a></li><li class="nav-publicRecords"><a href="/departments/recorder-of-deeds/recorder-of-deeds/page.aspx?id=1403">Public Records</a></li><li class="nav-recycling"><a href="/departments/recycling/recycling/page.aspx?id=1437">Recycling</a></li><li class="nav-taxes"><a href="/departments/treasurer/tax-claim-bureau/tax-claim-bureau/page.aspx?id=1417">Taxes</a></li><li class="nav-veteransAffairs"><a href="/departments/veteran-s-affairs/veterans-affairs/page.aspx?id=1317">Veteran's Affairs</a></li><li class="nav-visitorsBureau"><a href="http://www.visitcentralpa.org/">Visitor's Bureau</a></li><li class="nav-mostRequestedServices"><a href="/">Most Requested Services</a><ul class="navDepth2"><li class="nav-findPublicTransportation first"><a href="http://www.rabbittransit.org/">Find Public Transportation</a></li><li class="nav-buyaDogLicense"><a href="http://www.padoglicense.com/">Buy a Dog License</a></li><li class="nav-searchforFamilyHistory"><a href="http://www.unioncountyhistoricalsociety.org/">Search for Family History</a></li><li class="nav-recyclingLocations"><a href="/departments/recycling/union-county-recycling-locations/page.aspx?id=1533">Recycling Locations</a></li><li class="nav-getaBuildingPermit"><a href="https://www.ckcog.com/services/building-permits/">Get a Building Permit</a></li></ul></li></ul></li><li class="nav-departments"><a href="/departments/page.aspx?id=1249">Departments</a><ul class="navDepth1"><li class="nav-thJudicialDistrictTreatmentCourt first"><a href="/departments/courts/treatment-court/17th-judicial-district-treatment-court/page.aspx?id=1432">17th Judicial District Treatment Court</a></li><li class="nav-communications"><a href="http://www.csr911.org">911 Communications</a></li><li class="nav-assessment"><a href="/departments/assessment/assessment/page.aspx?id=1311">Assessment</a></li><li class="nav-auditors"><a href="/departments/auditors/county-auditors/page.aspx?id=1339">Auditors</a></li><li class="nav-childrenandYouthServices"><a href="/departments/children-and-youth-services/children-and-youth-services/page.aspx?id=1341">Children and Youth Services</a></li><li class="nav-commissioners"><a href="/departments/commissioners/commissioners/page.aspx?id=1379">Commissioners</a></li><li class="nav-communityGarden"><a href="/departments/community-garden/community-garden/page.aspx?id=1596">Community Garden</a></li><li class="nav-communityService"><a href="/departments/probation/community-service/community-service/page.aspx?id=1430">Community Service</a></li><li class="nav-conservationDistrict"><a href="/departments/conservation-district/conservation-district/page.aspx?id=1557">Conservation District</a></li><li class="nav-coroner"><a href="/departments/coroner/county-coroner/page.aspx?id=1337">Coroner</a></li><li class="nav-countyJail"><a href="/departments/jail/county-jail/page.aspx?id=1347">County Jail</a></li><li class="nav-courtofCommonPleas"><a href="/departments/courts/court-of-common-pleas/court-of-common-pleas/page.aspx?id=1349">Court of Common Pleas</a></li><li class="nav-custodialandMaintenance"><a href="/departments/custodial-maintenance/custodial-and-maintenance/page.aspx?id=1368">Custodial and Maintenance</a></li><li class="nav-districtAttorney"><a href="/departments/district-attorney/district-attorney/page.aspx?id=1357">District Attorney</a></li><li class="nav-domesticRelations"><a href="/departments/domestic-relations/domestic-relations/page.aspx?id=1359">Domestic Relations</a></li><li class="nav-economicDevelopment"><a href="https://www.unioncountypa.org/economic/">Economic Development</a></li><li class="nav-electionsandVoterRegistration"><a href="/departments/elections-voter-registration/department-of-elections/page.aspx?id=1290">Elections and Voter Registration</a></li><li class="nav-gISDepartment"><a href="/departments/gis/gis-department/page.aspx?id=2741">GIS Department</a></li><li class="nav-historicalSociety"><a href="/departments/historical-society/union-county-historical-society/page.aspx?id=1729">Historical Society</a></li><li class="nav-humanResources"><a href="/departments/human-resources/job-opportunities/page.aspx?id=1386">Human Resources</a></li><li class="nav-juryCommission"><a href="/departments/courts/jury-commissioners/jury-commission/page.aspx?id=1360">Jury Commission</a></li><li class="nav-magisterialDistrictCourt"><a href="/departments/courts/magisterial-district-courts/magisterial-district-court/page.aspx?id=1361">Magisterial District Court</a></li><li class="nav-managementInformationSystemsMIS"><a href="/departments/mis/management-information-systems-mis/page.aspx?id=1376">Management Information Systems (MIS)</a></li><li class="nav-pennStateExtension"><a href="http://extension.psu.edu/union">Penn State Extension</a></li><li class="nav-planningCommission"><a href="/departments/planning/planning-commission/page.aspx?id=1268">Planning Commission</a></li><li class="nav-prothonotaryandClerkofCourts"><a href="/departments/prothonotary-and-clerk-of-courts/prothonotary-and-clerk-of-courts/page.aspx?id=1299">Prothonotary and Clerk of Courts</a></li><li class="nav-probation"><a href="/departments/probation/probation/page.aspx?id=1388">Probation</a></li><li class="nav-publicDefender"><a href="/departments/public-defender/public-defender/page.aspx?id=1398">Public Defender</a></li><li class="nav-publicSafety"><a href="/departments/public-safety/emergency-management/page.aspx?id=1423">Public Safety</a></li><li class="nav-recorderofDeeds"><a href="/departments/recorder-of-deeds/recorder-of-deeds/page.aspx?id=1403">Recorder of Deeds</a></li><li class="nav-recycling"><a href="/departments/recycling/recycling/page.aspx?id=1437">Recycling</a></li><li class="nav-registerofWills"><a href="/departments/register-of-wills/register-of-wills/page.aspx?id=1407">Register of Wills</a></li><li class="nav-sheriffsOffice"><a href="/departments/sheriff/sheriff-s-office/page.aspx?id=1412">Sheriff's Office</a></li><li class="nav-taxClaimBureau"><a href="/departments/treasurer/tax-claim-bureau/tax-claim-bureau/page.aspx?id=1417">Tax Claim Bureau</a></li><li class="nav-treasurersOffice"><a href="/departments/treasurer/treasurer-s-office/page.aspx?id=1418">Treasurer's Office</a></li><li class="nav-veteransAffairs"><a href="/departments/veteran-s-affairs/veterans-affairs/page.aspx?id=1317">Veterans' Affairs</a></li><li class="nav-victimWitness"><a href="/departments/victim-witness/victim-witness/page.aspx?id=1420">Victim Witness</a></li></ul></li><li class="nav-economicDevelopment"><a href="/economic">Economic Development</a></li><li class="nav-forms"><a href="/forms/page.aspx?id=1250">Forms</a></li><li class="nav-contact"><a href="/contact/contact~form.aspx">Contact</a></li></ul><div class="clr"></div></div>
+</div>
+<div id="siteSearch">
+
+<input id="txtSearch" class="txtField" type="text" value="Search" /><input type="submit" class="searchBtn" />
+</div>
+</div>
+</div>
+<div id="pageContent">
+<div id="mainContent">
+<div class="content">
+<div id="breadCrumb" class="nav breadCrumbWrap grid_16">
+<div class="content grid_16">
+<ul><li><a href="/">Home</a></li><li class="separator">|</li><li>Page Not Found</li></ul>
+<div class="clr"></div>
+</div>
+</div>
+<div class="container_16">
+<div id="content" class="grid_12">
+<h1>Page Not Found</h1>
+<div class="We're Sorry. The page you requested no longer exists. contentBlock first last" id="cb1">
+<h2>We're Sorry. The page you requested no longer exists.</h2>
+<p>You can use the links above to find the information you need.</p>
+<p>If that does not help you find what you are looking for, <a href="/contact/contact~form.aspx">please tell us.</a></p>
+<div class="clr"></div>
+</div>
+</div>
+<div class="grid_4">
+<div id="sidebar" class="grid_4">
+<div class="sidebarContent">
+<div class="scWrap">
+<div class="clr"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" language="javascript">
+        $(function () {
+            var sUrl = document.location.pathname + document.location.search,
+                oUrlQs = gaUtil.parseQueryString(sUrl),
+                sReferrer = String(document.referrer) != '' ? document.referrer : 'none';
+            // if .Net puts the requested page in the QS, use that, else the current URL is the page being requested
+            if (oUrlQs['aspxerrorpath'])
+                sUrl = oUrlQs['aspxerrorpath'];
+            _gaq.push(['_trackEvent', 'Page Not Found', sUrl, sReferrer]);
+        });
+    </script>
+<div class="clr"></div>
+</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="clr"></div>
+<div id="footer" class="vcard clr">
+<div class="container_16">
+<div class="grid_12 contactFormWrap">
+<form id="frmContact">
+<div class="grid_3 alpha heading">
+<h3>Talk to Us.</h3>
+<p>Use this form to reach the Union County Commissioners.</p>
+</div>
+<div class="grid_9 omega">
+<div class="grid_9 omega">
+<label for="txtFName" class="required">First Name:</label>
+<input type="text" id="txtFName" name="txtFName" required validationMessage="Please enter First Name" maxlength="50" />
+<label for="txtLName" class="required">Last Name:</label>
+<input type="text" id="txtLName" name="txtLName" required validationMessage="Please enter Last Name" maxlength="50" />
+<input type="button" value="Go" id="btnSubmit" />
+<div class="clear"></div>
+</div>
+<div class="grid_9">
+<label for="txtEmail" class="required">Email:</label>
+<input type="email" id="txtEmail" name="txtEmail" required validationMessage="Please enter Email" maxlength="50" />
+</div>
+<div class="grid_9">
+<label for="txtComments" class="required">Questions/ Comments:</label>
+<textarea id="txtComments" name="txtComments" required validationMessage="Please enter your message"></textarea>
+<div id="pnlErrorReport" class="errorReport"></div>
+</div>
+</div>
+<div class="clear"></div>
+</form>
+</div>
+<div class="grid_4 logoColumn">
+<img src="/images/logo.png" alt="County of Union, Pennsylvania" />
+<span class="phone mainPhone">(570) 524-3894</span>
+<span class="phone ecDevPhone">(570) 524-3852</span>
+<div class="social">
+<div class="FacebookFeed icon">
+<img id="fbIcon" src="/images/economicDevelopement/facebook_logo.png" alt="Facebook" title="Facebook" />
+<div id="fbFeed">
+<div id="fbContent">
+<div class="close">
+<img src="/images/economicDevelopement/close.png" alt="Close" title="Close" />
+</div>
+<div class="fb-page" data-href="https://www.facebook.com/UnionCountyPa/" data-width="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"></div>
+</div>
+</div>
+</div>
+<div class="TwitterFeed icon" style="display:none;">
+<img id="twIcon" src="/images/economicDevelopement/twitter-logo.png" alt="Facebook" title="Facebook" />
+<div id="twFeed">
+<div id="twContent">
+<div class="close">
+<img src="/images/economicDevelopement/close.png" alt="Close" title="Close" />
+</div>
+<a class="twitter-timeline" href="https://twitter.com/UnionCountyPa" data-widget-id="655125842968879105">Tweets by @UnionCountyPA</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="copyright-footer">
+<div class="container_16">
+<div class="grid_12 copyright">
+Copyright &copy; 2020 Union County, PA Government. All Rights Reserved.
+</div>
+<div class="grid_4 author">
+Website by <a href="http://www.mojoactive.com">MoJo Active, Inc.</a>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" language="javascript">
+            $(function() {
+                
+				setTimeout(function(){
+					$('.rootSection332 .nav-home a').attr("href", "/economic-development/union-county-economic-development/page.aspx?id=1853");
+				},1000);
+
+                var oSel = {
+                    frmContact: '#footer #frmContact'													// -------------------------------
+    				, ddlState: '#ddlState'                                                     // ------------------------------- (remove if not needed)
+    				, ddlCountry: '#ddlCountry'
+    				, pnlErrorReport: '#pnlErrorReport'
+    				, btnSubmit: '#footer #btnSubmit'
+    				, liProvince: '#liProvince'
+    				, liState: '#liState'
+                };
+
+                var oConst = {
+                    URLs: {
+                        StateData: '/custom-tools/shared-handlers/states.ashx'					// ------------------------------- (remove if not needed)
+        			    , CountryData: '/custom-tools/shared-handlers/countries.ashx'
+        				, FormPost: '/custom-tools/contact/contact-form-handler.ashx' 	        // -------------------------------
+                    }
+                };
+
+                // create a validator to run off the HTML5 validation properties
+                var oValidator = $(oSel.frmContact).kendoValidator().data("kendoValidator");
+
+                // bind form submit
+                $(oSel.btnSubmit).click(function() {
+                    if (oValidator.validate()) {
+                        $.ajax({
+                            url: oConst.URLs.FormPost,
+                            type: 'POST',
+                            data: $(oSel.frmContact).serialize(),
+                            success: function(json) {
+                                // redirect to the thanks page if the form submission was successful
+                                if (json.success) {
+                                    // redirect to the thanks page, taking into account that we may have a relative URL
+                                    var wl = window.location, sRedirect = json.redirect;
+
+                                    /*
+                                     * sRedirect = sRedirect.indexOf('http') >= 0 ? sRedirect : wl.protocol + '//' + wl.hostname + sRedirect;
+                                     *
+                                     * The line above doesn't account for a port #. But we can just
+                                     * pass the relative URI. It's OK, really!
+                                     */
+                                    wl.href = sRedirect;
+
+                                } else {
+                                    // create a list of errors and show it on the screen
+                                    var sErrors = '';
+                                    $(json.errors).each(function(i, err) {
+                                        sErrors += '<li class="' + err.field.FfName + '">' + err.message + '</li>';
+                                    });
+                                    sErrors = '<b>Oops... We found a few problems:</b><ul>' + sErrors + '</ul>';
+                                    $(oSel.pnlErrorReport).html(sErrors);
+
+                                    // create a click action for each error to set focus on the field in question
+                                    $('li', oSel.pnlErrorReport).click(function(e) {
+                                        $('#' + $(this).attr('class')).focus();
+                                    });
+                                }
+                            }
+                        }); // end $.ajax
+                    } // end if(oValidator.validate())
+                    else {
+                        $('input.k-invalid:first').focus();
+                    }
+                }); // end $('#btnSubmit').click
+            }); // $(function() {}
+        </script>
+</body>
+<script type="text/javascript">
+var _userway_config = {
+account: '5zQErrESEl'
+};
+</script>
+<script type="text/javascript" src="https://cdn.userway.org/widget.js"></script>
+</html>

@@ -1,0 +1,28 @@
+# Generated on 23 JUN 2016
+Sitemap: http://www.naperville.il.us/sitemap.xml
+
+User-agent: *
+
+# EpiServer PROD Site
+
+Disallow: /utility-pages/
+
+# Old Ektron Site
+
+Disallow: /kiosk/
+Disallow: /naperinsight/
+Disallow: /test/
+Disallow: /transparency/
+
+Disallow: /workarea/
+Disallow: /emplibrary/
+Disallow: /*?
+Disallow: /*.aspx$
+
+# EpiServer DEV site
+
+Disallow: /training-exercises/
+Disallow: /How-To-Guides/
+Disallow: /globalassets/wsol-how-to-guides/
+Disallow: /archived-content/
+Disallow: /globalassets/media/_archived-content/

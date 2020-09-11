@@ -1,0 +1,1341 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--/main.jsp-->
+<!-- WEB-INF/jspf/standardHeader.jsp -->
+<html lang="en-US">
+  <head>
+    <title>TennIIS-Web Main Page</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+
+    <script type="text/javascript" src="/tnsiis/javascript/jquery.js"></script>
+    
+
+    
+      
+      
+        
+          
+          <link rel="stylesheet" href="/tnsiis/cache/103568fc71952ce98cf95543c8b82225/css/jquery-ui/jquery-ui.css;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42">
+        
+          
+          <link rel="stylesheet" href="/tnsiis/cache/5.30.6/siisweb.css;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42">
+        
+        
+        <link rel="stylesheet" href="/tnsiis/cache/dd279533025b49ab9423a927997574d6/print.css;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42" media="print">
+      
+    
+    
+      <!-- Set a global contextPath for javascript -->
+      <script>
+        document.contextPath="/tnsiis";
+      </script>
+      
+        
+        <script src="/tnsiis/cache/b8d64d0bc142b3f670cc0611b0aebcae/javascript/jquery.js;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/3e00900f5c26b08a61e401abeea7eca8/javascript/jquery-ui.js;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/730bfeb78666165e972575205d9ec0bb/javascript/reach.js;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/2c51aa294d61224dc48f00920a73ee38/javascript/mainMenu.js;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/ead1cdc7e08e36159c002a44c9c4422f/javascript/ui-js.jssp;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/ed516928fe1ff7672f37039f9dcd73ec/util.js;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+        
+        <script src="/tnsiis/cache/da69550a74eab322b5aed00f2291b90e/javascript/ajax.jssp;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42"></script>
+      
+    
+    
+    
+      <script>
+        $(document).ready(function() { activateSpinner(false); });
+      </script>
+    
+    <!-- Pendo Integration Begins here -->
+     
+
+<!-- pendoIntegrationSnippet.jspf -->
+<c:if test="false">
+  
+</c:if>
+    <script>
+		(function(apiKey){
+		    (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=[];
+		    v=['initialize','identify','updateOptions','pageLoad'];for(w=0,x=v.length;w<x;++w)(function(m){
+		        o[m]=o[m]||function(){o._q[m===v[0]?'unshift':'push']([m].concat([].slice.call(arguments,0)));};})(v[w]);
+		        y=e.createElement(n);y.async=!0;y.src='https://cdn.pendo.io/agent/static/'+apiKey+'/pendo.js';
+		        z=e.getElementsByTagName(n)[0];z.parentNode.insertBefore(y,z);})(window,document,'script','pendo');
+		
+		        // Call this whenever information about your visitors becomes available
+		        // Please use Strings, Numbers, or Bools for value types.
+		        pendo.initialize({
+		            visitor: { 
+		            	id:              '',  // Required if user is logged in
+		            	stateName:       'TN', // Logged in State name
+		            	role:            '',  //Access Level of the user
+		            	orgId:           '', //Selected Org Id
+		            	orgName:         '', //Selected Org Name
+		            	facilityName:    '', //Selected Facility name
+		            },
+		            account: {
+		            	id:              '',  // Required if user is logged in
+		            	stateName:       'TN', // Logged in State name
+		            	role:            '', //Access Level of the user
+		            	orgId:           '', //Selected Org Id
+		            	orgName:         '', //Selected Org Name
+		            	facilityName:    '', //Selected Facility name
+		            }
+		        });
+		})('75abb551-da84-48dc-6db7-63d4c695151a');
+	</script>
+    <!-- Pendo Integration Ends here -->
+  </head>
+  
+  
+   
+   
+     <body onLoad="initSessionTimeout(true,false,1800);setNoSessionMainMenu(&quot;\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n\n\n&lt;!-- WEB-INF\/jspf\/mainMenu.jspf --&gt;\n\n\n\n\n\n\n\n\n\n  \n  \n  \n    \n      \n      \n        \n          \n         \n              &lt;img src=\&quot;\/tnsiis\/images\/tenniis_logo.png\&quot; alt=\&quot;logo\&quot;\n              height=\&quot;63\&quot; width=\&quot;130\&quot;&gt;\n         \n       \n    &lt;ul id=\&quot;nav\&quot;&gt;\n      \n&lt;!-- WEB-INF\/jspf\/menu\/homeMenuItems.jspf --&gt;\n\n\n\n\n\n\n\n\n\n&lt;li id=\&quot;MMI_1_TITLE\&quot; class=\&quot;open\&quot;&gt;&lt;span class=\&quot;nav_item\&quot;&gt;&lt;a id=\&quot;MMI_1_MENU\&quot; href=\&quot;javascript:navToggle('MMI_1_TITLE');save_menu_state();\&quot;&gt;Main&lt;\/a&gt;&lt;\/span&gt;\n\n  &lt;ul id=\&quot;MMI_1\&quot;&gt;\n      &lt;li&gt;\n        &lt;!-- If the user is not logged in enable the login link. Otherwise disable it --&gt;\n        \n          \n            &lt;a href=\&quot;\/tnsiis\/main.jsp\&quot; class=\&quot;mainmenusub\&quot;&gt;Home&lt;\/a&gt;\n          \n          \n        \n      &lt;\/li&gt;\n      \n        &lt;li&gt;&lt;a href=\&quot;\/tnsiis\/login.jsp;jsessionid=A5707BED917FCA6E81B8110736F2A000\&quot; class=\&quot;mainmenusub\&quot;&gt;Login&lt;\/a&gt;&lt;\/li&gt;\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  &lt;\/ul&gt;\n&lt;\/li&gt;\n\n\n      \n      \n      \n        \r\n &lt;!-- WEB-INF\/jspf\/menu\/patientMenuItems.jspf --&gt;\r\n &lt;li id=\&quot;MMI_2_TITLE\&quot; class=\&quot;\&quot;&gt;&lt;span class=\&quot;nav_item\&quot;&gt;&lt;a id=\&quot;MMI_2_MENU\&quot; href=\&quot;javascript:navToggle('MMI_2_TITLE');save_menu_state();\&quot;&gt;Patient&lt;\/a&gt;&lt;\/span&gt;\n\r\n          &lt;!-- Enable the search link if an irms has been selected. If the client has access to\r\n                   add new patients then enable the Search\/Add link --&gt;\r\n          &lt;ul id=\&quot;MMI_2\&quot;&gt;\r\n            &lt;li&gt;\r\n              \r\n            \r\n              &lt;a class=\&quot;mainmenusubunavail\&quot;&gt;\r\n                \r\n                Search\r\n              &lt;\/a&gt;\r\n            \r\n            &lt;\/li&gt;\r\n            &lt;!-- If a patient and facility has been selected then enable the waitingroom link to display patient details.--&gt;\r\n            \r\n            &lt;!-- If a patient has been selected then enable the demographics link to display\r\n                       patient details. --&gt;\r\n            &lt;li&gt;\r\n              \r\n                \r\n                \r\n                  &lt;a class=\&quot;mainmenusubunavail\&quot;&gt;\r\n                \r\n              \r\n              Demographics\r\n              &lt;\/a&gt;\r\n            &lt;\/li&gt;\r\n            \r\n          \r\n          \r\n          \r\n          &lt;!-- If a patient has been selected then enable the insuranceInfo link to display. --&gt;\r\n          \r\n            \r\n          \r\n          &lt;li&gt;\r\n            \r\n          &lt;\/li&gt;\r\n        &lt;\/ul&gt;\r\n        &lt;\/li&gt;\n\n      \n      \n      \n        \r\n\r\n&lt;li id=\&quot;MMI_4_TITLE\&quot; class=\&quot;\&quot;&gt;&lt;span class=\&quot;nav_item\&quot;&gt;&lt;a id=\&quot;MMI_4_MENU\&quot; href=\&quot;javascript:navToggle('MMI_4_TITLE');save_menu_state();\&quot;&gt;Vaccinations&lt;\/a&gt;&lt;\/span&gt;\n\r\n  &lt;ul id=\&quot;MMI_4\&quot;&gt;\r\n    \r\n      \r\n      \r\n        &lt;li&gt;\r\n          &lt;a class=\&quot;mainmenusubunavail\&quot;&gt;\r\n            \r\n            View\r\n          &lt;\/a&gt;\r\n        &lt;\/li&gt;\r\n        &lt;li&gt;&lt;a class=\&quot;mainmenusubunavail\&quot;&gt;Forecast&lt;\/a&gt;&lt;\/li&gt;\r\n        &lt;li&gt;&lt;a class=\&quot;mainmenusubunavail\&quot;&gt;Summary&lt;\/a&gt;&lt;\/li&gt;\r\n      \r\n    \r\n    \r\n      \r\n    \r\n  &lt;\/ul&gt;\r\n&lt;\/li&gt;\n\n      \n      \n      \n      \n      \n      \n      \n      \n        \n        \n          \n          \n        \n      \n      \n      \n      \n      \n      \n      \n      \n            \n            \n      \r\n&lt;li id=\&quot;MMI_41_TITLE\&quot; class=\&quot;\&quot;&gt;&lt;span class=\&quot;nav_item\&quot;&gt;&lt;a id=\&quot;MMI_41_MENU\&quot; href=\&quot;javascript:navToggle('MMI_41_TITLE');save_menu_state();\&quot;&gt;Scheduled Reports&lt;\/a&gt;&lt;\/span&gt;\n\r\n  &lt;ul id=\&quot;MMI_41\&quot;&gt;\r\n   \r\n    &lt;li&gt;\r\n      &lt;a href=\&quot;\/tnsiis\/scheduledReportReceived\/viewScheduledReports.do2\&quot; class=\&quot;mainmenusub\&quot; &gt;Received Reports&lt;\/a&gt;\r\n    &lt;\/li&gt;\r\n  &lt;\/ul&gt;\r\n&lt;\/li&gt;\n\n      \n        &lt;li class=\&quot;navBullet\&quot;&gt;\n          &lt;span class=\&quot;nav_item\&quot;&gt;\n            &lt;a class=\&quot;noline\&quot;\n              \n              &gt;Job Queue\n            &lt;\/a&gt;\n          &lt;\/span&gt;\n        &lt;\/li&gt;\n      \n      \n        &lt;li class=\&quot;navBullet\&quot;&gt;\n          &lt;span class=\&quot;nav_item\&quot;&gt;\n            &lt;a class=\&quot;noline\&quot;\n              \n              &gt;Change Password\n            &lt;\/a&gt;\n          &lt;\/span&gt;\n        &lt;\/li&gt;\n      \n      \n        \n        \n        \n      \n      \n      \n            \n            \n      \n        &lt;li class=\&quot;navBullet\&quot;&gt;\n          &lt;span class=\&quot;nav_item\&quot;&gt;&lt;a href=\&quot;#\&quot; onClick=\&quot;openReach(); return false;\&quot; class=\&quot;noline\&quot;&gt;\n            Answers\n          &lt;\/a&gt;&lt;\/span&gt;\n        &lt;\/li&gt;\n      &lt;\/ul&gt;\n    \n  \n\r\n&lt;!-- REACH START --&gt;\r\n&lt;div id=\&quot;reach\&quot; style=\&quot;display:none;text-align:center;\&quot; title=\&quot;REACH - Roadmap to Education, Answers, Competency and Hints\&quot;&gt;\r\n\r\n  &lt;div class=\&quot;sideBox\&quot; id=\&quot;videoTraining\&quot;&gt;\r\n    &lt;div class=\&quot;reachInterior\&quot; style=\&quot;background: url('\/tnsiis\/images\/film.png') no-repeat left;\&quot; onClick=\&quot;flyOut('videoTraining')\&quot;&gt;\r\n      &lt;h3&gt;Video Trainings&lt;\/h3&gt;\r\n      \r\n        \r\n        \r\n          &lt;div style=\&quot;font-size:10pt;font-weight:bold;text-align:center;\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/filmStrip.png\&quot; alt=\&quot;\&quot;&gt;\r\n          &lt;\/div&gt;\r\n        \r\n      \r\n    &lt;\/div&gt;\r\n  &lt;\/div&gt;\r\n\r\n  \r\n  &lt;div class=\&quot;sideBox\&quot;&gt;\r\n    \r\n    &lt;div class=\&quot;reachInterior\&quot; style=\&quot;background: url('\/tnsiis\/images\/document.png;jsessionid=A5707BED917FCA6E81B8110736F2A000') no-repeat left;\&quot;&gt;\r\n      &lt;h3&gt;Documentation&lt;\/h3&gt;\r\n      &lt;div style=\&quot;font-size:10pt;text-align:center;\&quot;&gt;\r\n       \r\n        \r\n        \r\n          \r\n        \r\n      \r\n        \r\n        \r\n        &lt;a target=\&quot;_blank\&quot; href=\&quot;http:\/\/documentation.stchome.com\&quot;&gt;\r\n          TennIIS Documentation Portal\r\n        &lt;\/a&gt;\r\n      &lt;\/div&gt;\r\n    &lt;\/div&gt;\r\n  &lt;\/div&gt;\r\n  \r\n\r\n\r\n\r\n  &lt;div class=\&quot;sideBox\&quot; id=\&quot;phoneList\&quot;&gt;\r\n    &lt;div class=\&quot;reachInterior\&quot; style=\&quot;background: url('\/tnsiis\/images\/phone.png') no-repeat left;\&quot;&gt;\r\n      &lt;h3&gt;&lt;a href=\&quot;javascript:flyOut('phoneList');\&quot; class=\&quot;nolineonly\&quot; onClick=\&quot;helpRefCall=true;\&quot; id=\&quot;answerLine\&quot;&gt;Answer Line&lt;\/a&gt;&lt;\/h3&gt;\r\n      &lt;div style=\&quot;font-size:10pt;text-align:center;\&quot;&gt;\r\n        Get answers and solutions from application&lt;br&gt;\r\n        experts over the phone.\r\n      &lt;\/div&gt;\r\n    &lt;\/div&gt;\r\n  &lt;\/div&gt;\r\n  &lt;p style=\&quot;clear:both\&quot;&gt;&amp;nbsp;&lt;\/p&gt;\r\n\r\n\r\n  \r\n  \r\n    &lt;div id=\&quot;videoTrainingFull\&quot; class=\&quot;frontCenter flyOut\&quot;&gt;\r\n      &lt;h3 style=\&quot;background-color:#246f8a;color:#FFFFFF;margin:2px;padding:2px 3px 0px 3px;text-transform:uppercase;\&quot; class=\&quot;ui-corner-all\&quot; id=\&quot;videoTrainingFull_title\&quot;&gt;\r\n      &lt;a href=\&quot;#\&quot; style=\&quot;text-decoration:none;color:#FFFFFF;font-weight:bold;float:right;\&quot; onClick=\&quot;closeFlyOuts();\&quot;&gt;X&lt;\/a&gt;\r\n      &lt;span id=\&quot;flyOutTitleVideoTraining\&quot;&gt;Video Training&lt;\/span&gt;\r\n      &lt;\/h3&gt;\r\n      &lt;div style=\&quot;overflow:auto;text-align:left;font-size:10pt;font-famiy:verdana,arial,sans-serif;height:255px;\&quot;&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi1_preparing_defaults')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi1_prep_settings.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations:&lt;br&gt;Preparing Default Settings&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 07:19&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi2_bar_code_lot_number_scan_sheet')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi2_barcode_lot_number.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations: Preparing Bar Code Lot Number Sheets&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 05:38&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi3_bar_code_vaccinator_scan_sheet')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi3_barcode_vaccinator.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations: Preparing Bar Code Vaccinator Sheets&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 04:02&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi4_use_during_event')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi4_use_during_event.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations:&lt;br&gt;Use During An Event&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 04:54&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi5_waiting_room')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi5_waiting_room.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations:&lt;br&gt;Waiting Room Feature&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 05:43&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('mi6_bar_code_scanning')\&quot;&gt;\r\n          &lt;img src=\&quot;\/tnsiis\/images\/mi6_barcode_use.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n          Mass Immunizations:&lt;br&gt;Bar Code Use&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 05:16&lt;br&gt;\r\n          &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n        &lt;\/div&gt;\r\n        \r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('voms1_navigating_vaccine_ordering_and_transfer_menu_options')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/voms1_navigating.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            V.O.M.S.: Vaccine Ordering and Transfer Menu Options&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 05:43&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('voms2_vaccine_ordering')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/voms2_ordering.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            V.O.M.S.:&lt;br&gt;Vaccine Ordering&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 06:48&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('voms3_receiving_vaccine')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/voms3_receiving_inventory.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            V.O.M.S.: Receiving Vaccine into Inventory&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 05:57&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('pa1_preregistration_checklist')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/pa1_preregistration_checklist.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            Provider Agreement:&lt;br&gt;Pre-Registration Checklist&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 07.31&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('pa2_new_provider_agreement')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/pa2_new_provider_agreement.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            Provider Agreement: New Enrollment&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 07:57&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n          &lt;div class=\&quot;filmBox\&quot; onClick=\&quot;launchVideo('pa3_renewing_provider_agreement')\&quot;&gt;\r\n            &lt;img src=\&quot;\/tnsiis\/images\/pa3_renewing_provider_agreement.png\&quot; style=\&quot;float:left;margin-right:5px;\&quot; alt=\&quot;\&quot;&gt;\r\n            Provider Agreement: Renewal Enrollment&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Run Time:&lt;\/span&gt; 08:41&lt;br&gt;\r\n            &lt;span style=\&quot;font-weight:bold\&quot;&gt;Format:&lt;\/span&gt; MP4\r\n          &lt;\/div&gt;\r\n        \r\n      &lt;\/div&gt;\r\n    &lt;\/div&gt;\r\n    \r\n\r\n\r\n\r\n\r\n  &lt;div id=\&quot;phoneListFull\&quot; class=\&quot;frontCenter flyOut\&quot;&gt;\r\n    &lt;h3 style=\&quot;background-color:#246f8a;color:#FFFFFF;margin:2px;padding:2px 3px 0px 3px;text-transform:uppercase;\&quot; class=\&quot;ui-corner-all\&quot; id=\&quot;phoneListFull_title\&quot;&gt;\r\n    &lt;a href=\&quot;#\&quot; style=\&quot;text-decoration:none;color:#FFFFFF;font-weight:bold;float:right;\&quot; onClick=\&quot;closeFlyOuts();\&quot;&gt;X&lt;\/a&gt;\r\n    &lt;span id=\&quot;flyOutTitleAnswerLine\&quot;&gt;Answer Line&lt;\/span&gt;\r\n    &lt;\/h3&gt;\r\n    \r\n      \r\n      \r\n        &lt;!-- ******************* BEGINNING OF I_CALL.INC CONTENT ******************* --&gt;\r\n&lt;div style=\&quot;text-align:left\&quot;&gt;\r\n  &lt;h4&gt;Contact IIS User Services:&lt;\/h4&gt;\r\n  &lt;p&gt;Phone No.: (844) 206-9927&lt;\/p&gt;\r\n&lt;\/div&gt;\r\n&lt;!-- ********************** END OF I_CALL.INC CONTENT ********************** --&gt;\r\n\r\n      \r\n    \r\n  &lt;\/div&gt;\r\n&lt;\/div&gt;\r\n\r\n\r\n&lt;!-- REACH END --&gt;\n\n     \n\n    \n      &lt;br&gt;&lt;img src=\&quot;\/tnsiis\/images\/product_logo.png\&quot; alt=\&quot;Product Logo\&quot;\n               style=\&quot;border: none; width: 100px; height: 130px;\&quot;&gt;\n    \n    &lt;br&gt;&lt;b&gt;Version: 5.30.6&lt;\/b&gt;\n\t\t&lt;!-- start of OPS-3344 added e-mail link and phone for TN Prod --&gt;\n&lt;table bgcolor=\&quot;#FFFFFF\&quot; border=\&quot;0\&quot; cellpadding=\&quot;0\&quot; cellspacing=\&quot;0\&quot; style=\&quot;text-align: center; margin-left: auto; margin-right: auto;\&quot;  &gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n\t&lt;TD align=\&quot;center\&quot; colSpan=3 background=\&quot;\/tnsiis\/images\/bg_color60.gif\&quot; height=\&quot;25\&quot;&gt;\n\t\t&lt;SPAN class=CenterHead&gt;&lt;font color=#800000 size=2 face=\&quot;Verdana, Arial, Helvetica,Tahoma\&quot;&gt;&lt;b&gt;Help Desk &lt;\/b&gt;&lt;\/SPAN&gt;&lt;IMG height=4 alt=\&quot;\&quot; src=\&quot; images\/spacer.gif\&quot; width=1 border=0&gt;&lt;\/TD&gt;\n&lt;\/tr&gt;\n&lt;tr&gt;\n\t&lt;TD width=1 bgColor=#d6dfe8&gt;&lt;IMG height=1 alt=\&quot;\&quot; src=\&quot; images\/spacer.gif\&quot; width=1 border=0&gt;&lt;BR&gt;&lt;\/TD&gt;\n    &lt;TD bgColor=#ffffff&gt;\n\t\t&lt;TABLE cellSpacing=0 cellPadding=0 border=0 &gt;\n        &lt;TBODY&gt;\n        &lt;TR&gt;\n\t\t\t&lt;TD width=12 bgColor=\&quot;#ffffff\&quot; &gt;&lt;IMG height=1 alt=\&quot;\&quot; src=\&quot;images\/spacer.gif\&quot; width=1 border=0&gt;&lt;\/TD&gt;\n\t\t\t&lt;TD align=\&quot;center\&quot; valign=\&quot;top\&quot; bgColor=\&quot;#ffffff\&quot;&gt;844-206-9927&lt;\/b&gt;&lt;TD width=12 bgColor=#ffffff &gt;&lt;IMG height=1 alt=\&quot;\&quot; src=\&quot; images\/spacer.gif\&quot; width=1 border=0&gt;&lt;\/TD&gt;\n\t\t&lt;\/TR&gt;\n\t\t&lt;TR&gt;\n\t\t\t&lt;TD width=12 bgColor=\&quot;#ffffff\&quot;&gt;&lt;IMG height=1 alt=\&quot;\&quot; src=\&quot;images\/spacer.gif\&quot; width=1 border=0&gt;&lt;\/TD&gt;\n            &lt;TD align=\&quot;center\&quot; valign=\&quot;top\&quot;&gt;&lt;br&gt;&lt;a href=\&quot;mailto:TennIIS.Help@tn.gov?subject=\&quot;&gt;\n\t\t\t\t&lt;img src=\&quot;\/tnsiis\/images\/mail_button.gif\&quot; width=\&quot;49\&quot; height=\&quot;19\&quot; border=\&quot;0\&quot; alt=\&quot;Send E-Mail to Tennessee State Immunization Information System Help Desk\&quot; align=\&quot;top\&quot;&gt;&lt;\/b&gt;&lt;\/br&gt;&lt;br&gt;\n\t\t\t&lt;\/TD&gt;\t\t\n\t\t&lt;\/TR&gt;\n&lt;\/TR&gt;\n\t\t&lt;\/TBODY&gt;\n\t\t&lt;\/TABLE&gt;\n&lt;tr&gt;\n\t&lt;TD bgColor=#d6dfe8 colSpan=3&gt;&lt;!--&lt;IMG height=1 alt=\&quot;\&quot; src=\&quot; images\/spacer.gif\&quot; width=1 border=0&gt;--&gt;&lt;\/TD&gt;\n&lt;\/tr&gt;\n&lt;\/tbody&gt;\n&lt;\/table&gt;\n&lt;!-- end of OPS-3344 added e-mail link and phone for TN Prod --&gt;\n    &lt;br&gt;&lt;br&gt;\n    &lt;a href=\&quot;http:\/\/www.stchome.com\&quot;&gt;\n      &lt;img src=\&quot;\/tnsiis\/images\/stc_global_logo.png\&quot; alt=\&quot;STC Logo\&quot;\n           style=\&quot;border: none; width: 90px; height: 63px;\&quot;&gt;\n    &lt;\/a&gt;\n  \n\n&quot;);resizePageCheck();oldIEAutofocusHack();oldIEWarningMessage();$('.hideOnLoad').hide();"
+           onUnLoad="">
+   
+  
+  <div id="systemPopup" style="display:none;">
+    <div id="systemPopupHeader" >
+      <a href="#" onclick="hideSystemPopup(true);" style="color:#FFFFFF">[X]</a>
+      System Popup
+    </div>
+    <div id="systemPopupUserMessage"></div>
+  </div>
+  
+    
+    
+      <div id="main" class="normalPage">
+        <div id="topRoundGutter">
+          <img src="/tnsiis/images/curveNW.gif" alt="" style="margin: 0px 0px">&nbsp;&nbsp;
+        </div>
+    
+  
+  
+    <div id="menu">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- WEB-INF/jspf/mainMenu.jspf -->
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+      
+      
+        
+          
+         
+              <img src="/tnsiis/images/tenniis_logo.png" alt="logo"
+              height="63" width="130">
+         
+       
+    <ul id="nav">
+      
+<!-- WEB-INF/jspf/menu/homeMenuItems.jspf -->
+
+
+
+
+
+
+
+
+
+<li id="MMI_1_TITLE" class="open"><span class="nav_item"><a id="MMI_1_MENU" href="javascript:navToggle('MMI_1_TITLE');save_menu_state();">Main</a></span>
+
+  <ul id="MMI_1">
+      <li>
+        <!-- If the user is not logged in enable the login link. Otherwise disable it -->
+        
+          
+            <a href="/tnsiis/main.jsp" class="mainmenusub">Home</a>
+          
+          
+        
+      </li>
+      
+        <li><a href="/tnsiis/login.jsp;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42" class="mainmenusub">Login</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    
+  </ul>
+</li>
+
+
+      
+      
+      
+        
+ <!-- WEB-INF/jspf/menu/patientMenuItems.jspf -->
+ <li id="MMI_2_TITLE" class=""><span class="nav_item"><a id="MMI_2_MENU" href="javascript:navToggle('MMI_2_TITLE');save_menu_state();">Patient</a></span>
+
+          <!-- Enable the search link if an irms has been selected. If the client has access to
+                   add new patients then enable the Search/Add link -->
+          <ul id="MMI_2">
+            <li>
+              
+            
+              <a class="mainmenusubunavail">
+                
+                Search
+              </a>
+            
+            </li>
+            <!-- If a patient and facility has been selected then enable the waitingroom link to display patient details.-->
+            
+            <!-- If a patient has been selected then enable the demographics link to display
+                       patient details. -->
+            <li>
+              
+                
+                
+                  <a class="mainmenusubunavail">
+                
+              
+              Demographics
+              </a>
+            </li>
+            
+          
+          
+          
+          <!-- If a patient has been selected then enable the insuranceInfo link to display. -->
+          
+            
+          
+          <li>
+            
+          </li>
+        </ul>
+        </li>
+
+      
+      
+      
+        
+
+<li id="MMI_4_TITLE" class=""><span class="nav_item"><a id="MMI_4_MENU" href="javascript:navToggle('MMI_4_TITLE');save_menu_state();">Vaccinations</a></span>
+
+  <ul id="MMI_4">
+    
+      
+      
+        <li>
+          <a class="mainmenusubunavail">
+            
+            View
+          </a>
+        </li>
+        <li><a class="mainmenusubunavail">Forecast</a></li>
+        <li><a class="mainmenusubunavail">Summary</a></li>
+      
+    
+    
+      
+    
+  </ul>
+</li>
+
+      
+      
+      
+      
+      
+      
+      
+      
+        
+        
+          
+          
+        
+      
+      
+      
+      
+      
+      
+      
+      
+            
+            
+      
+<li id="MMI_41_TITLE" class=""><span class="nav_item"><a id="MMI_41_MENU" href="javascript:navToggle('MMI_41_TITLE');save_menu_state();">Scheduled Reports</a></span>
+
+  <ul id="MMI_41">
+   
+    <li>
+      <a href="/tnsiis/scheduledReportReceived/viewScheduledReports.do2" class="mainmenusub" >Received Reports</a>
+    </li>
+  </ul>
+</li>
+
+      
+        <li class="navBullet">
+          <span class="nav_item">
+            <a class="noline"
+              
+              >Job Queue
+            </a>
+          </span>
+        </li>
+      
+      
+        <li class="navBullet">
+          <span class="nav_item">
+            <a class="noline"
+              
+              >Change Password
+            </a>
+          </span>
+        </li>
+      
+      
+        
+        
+        
+      
+      
+      
+            
+            
+      
+        <li class="navBullet">
+          <span class="nav_item"><a href="#" onClick="openReach(); return false;" class="noline">
+            Answers
+          </a></span>
+        </li>
+      </ul>
+    
+  
+
+<!-- REACH START -->
+<div id="reach" style="display:none;text-align:center;" title="REACH - Roadmap to Education, Answers, Competency and Hints">
+
+  <div class="sideBox" id="videoTraining">
+    <div class="reachInterior" style="background: url('/tnsiis/images/film.png') no-repeat left;" onClick="flyOut('videoTraining')">
+      <h3>Video Trainings</h3>
+      
+        
+        
+          <div style="font-size:10pt;font-weight:bold;text-align:center;">
+            <img src="/tnsiis/images/filmStrip.png" alt="">
+          </div>
+        
+      
+    </div>
+  </div>
+
+  
+  <div class="sideBox">
+    
+    <div class="reachInterior" style="background: url('/tnsiis/images/document.png;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42') no-repeat left;">
+      <h3>Documentation</h3>
+      <div style="font-size:10pt;text-align:center;">
+       
+        
+        
+          
+        
+      
+        
+        
+        <a target="_blank" href="http://documentation.stchome.com">
+          TennIIS Documentation Portal
+        </a>
+      </div>
+    </div>
+  </div>
+  
+
+
+
+  <div class="sideBox" id="phoneList">
+    <div class="reachInterior" style="background: url('/tnsiis/images/phone.png') no-repeat left;">
+      <h3><a href="javascript:flyOut('phoneList');" class="nolineonly" onClick="helpRefCall=true;" id="answerLine">Answer Line</a></h3>
+      <div style="font-size:10pt;text-align:center;">
+        Get answers and solutions from application<br>
+        experts over the phone.
+      </div>
+    </div>
+  </div>
+  <p style="clear:both">&nbsp;</p>
+
+
+  
+  
+    <div id="videoTrainingFull" class="frontCenter flyOut">
+      <h3 style="background-color:#246f8a;color:#FFFFFF;margin:2px;padding:2px 3px 0px 3px;text-transform:uppercase;" class="ui-corner-all" id="videoTrainingFull_title">
+      <a href="#" style="text-decoration:none;color:#FFFFFF;font-weight:bold;float:right;" onClick="closeFlyOuts();">X</a>
+      <span id="flyOutTitleVideoTraining">Video Training</span>
+      </h3>
+      <div style="overflow:auto;text-align:left;font-size:10pt;font-famiy:verdana,arial,sans-serif;height:255px;">
+        <div class="filmBox" onClick="launchVideo('mi1_preparing_defaults')">
+          <img src="/tnsiis/images/mi1_prep_settings.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations:<br>Preparing Default Settings<br>
+          <span style="font-weight:bold">Run Time:</span> 07:19<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        <div class="filmBox" onClick="launchVideo('mi2_bar_code_lot_number_scan_sheet')">
+          <img src="/tnsiis/images/mi2_barcode_lot_number.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations: Preparing Bar Code Lot Number Sheets<br>
+          <span style="font-weight:bold">Run Time:</span> 05:38<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        <div class="filmBox" onClick="launchVideo('mi3_bar_code_vaccinator_scan_sheet')">
+          <img src="/tnsiis/images/mi3_barcode_vaccinator.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations: Preparing Bar Code Vaccinator Sheets<br>
+          <span style="font-weight:bold">Run Time:</span> 04:02<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        <div class="filmBox" onClick="launchVideo('mi4_use_during_event')">
+          <img src="/tnsiis/images/mi4_use_during_event.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations:<br>Use During An Event<br>
+          <span style="font-weight:bold">Run Time:</span> 04:54<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        <div class="filmBox" onClick="launchVideo('mi5_waiting_room')">
+          <img src="/tnsiis/images/mi5_waiting_room.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations:<br>Waiting Room Feature<br>
+          <span style="font-weight:bold">Run Time:</span> 05:43<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        <div class="filmBox" onClick="launchVideo('mi6_bar_code_scanning')">
+          <img src="/tnsiis/images/mi6_barcode_use.png" style="float:left;margin-right:5px;" alt="">
+          Mass Immunizations:<br>Bar Code Use<br>
+          <span style="font-weight:bold">Run Time:</span> 05:16<br>
+          <span style="font-weight:bold">Format:</span> MP4
+        </div>
+        
+          <div class="filmBox" onClick="launchVideo('voms1_navigating_vaccine_ordering_and_transfer_menu_options')">
+            <img src="/tnsiis/images/voms1_navigating.png" style="float:left;margin-right:5px;" alt="">
+            V.O.M.S.: Vaccine Ordering and Transfer Menu Options<br>
+            <span style="font-weight:bold">Run Time:</span> 05:43<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+          <div class="filmBox" onClick="launchVideo('voms2_vaccine_ordering')">
+            <img src="/tnsiis/images/voms2_ordering.png" style="float:left;margin-right:5px;" alt="">
+            V.O.M.S.:<br>Vaccine Ordering<br>
+            <span style="font-weight:bold">Run Time:</span> 06:48<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+          <div class="filmBox" onClick="launchVideo('voms3_receiving_vaccine')">
+            <img src="/tnsiis/images/voms3_receiving_inventory.png" style="float:left;margin-right:5px;" alt="">
+            V.O.M.S.: Receiving Vaccine into Inventory<br>
+            <span style="font-weight:bold">Run Time:</span> 05:57<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+          <div class="filmBox" onClick="launchVideo('pa1_preregistration_checklist')">
+            <img src="/tnsiis/images/pa1_preregistration_checklist.png" style="float:left;margin-right:5px;" alt="">
+            Provider Agreement:<br>Pre-Registration Checklist<br>
+            <span style="font-weight:bold">Run Time:</span> 07.31<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+          <div class="filmBox" onClick="launchVideo('pa2_new_provider_agreement')">
+            <img src="/tnsiis/images/pa2_new_provider_agreement.png" style="float:left;margin-right:5px;" alt="">
+            Provider Agreement: New Enrollment<br>
+            <span style="font-weight:bold">Run Time:</span> 07:57<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+          <div class="filmBox" onClick="launchVideo('pa3_renewing_provider_agreement')">
+            <img src="/tnsiis/images/pa3_renewing_provider_agreement.png" style="float:left;margin-right:5px;" alt="">
+            Provider Agreement: Renewal Enrollment<br>
+            <span style="font-weight:bold">Run Time:</span> 08:41<br>
+            <span style="font-weight:bold">Format:</span> MP4
+          </div>
+        
+      </div>
+    </div>
+    
+
+
+
+
+  <div id="phoneListFull" class="frontCenter flyOut">
+    <h3 style="background-color:#246f8a;color:#FFFFFF;margin:2px;padding:2px 3px 0px 3px;text-transform:uppercase;" class="ui-corner-all" id="phoneListFull_title">
+    <a href="#" style="text-decoration:none;color:#FFFFFF;font-weight:bold;float:right;" onClick="closeFlyOuts();">X</a>
+    <span id="flyOutTitleAnswerLine">Answer Line</span>
+    </h3>
+    
+      
+      
+        <!-- ******************* BEGINNING OF I_CALL.INC CONTENT ******************* -->
+<div style="text-align:left">
+  <h4>Contact IIS User Services:</h4>
+  <p>Phone No.: (844) 206-9927</p>
+</div>
+<!-- ********************** END OF I_CALL.INC CONTENT ********************** -->
+
+      
+    
+  </div>
+</div>
+
+
+<!-- REACH END -->
+
+     
+
+    
+      <br><img src="/tnsiis/images/product_logo.png" alt="Product Logo"
+               style="border: none; width: 100px; height: 130px;">
+    
+    <br><b>Version: 5.30.6</b>
+		<!-- start of OPS-3344 added e-mail link and phone for TN Prod -->
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="text-align: center; margin-left: auto; margin-right: auto;"  >
+<tbody>
+<tr>
+	<TD align="center" colSpan=3 background="/tnsiis/images/bg_color60.gif" height="25">
+		<SPAN class=CenterHead><font color=#800000 size=2 face="Verdana, Arial, Helvetica,Tahoma"><b>Help Desk </b></SPAN><IMG height=4 alt="" src=" images/spacer.gif" width=1 border=0></TD>
+</tr>
+<tr>
+	<TD width=1 bgColor=#d6dfe8><IMG height=1 alt="" src=" images/spacer.gif" width=1 border=0><BR></TD>
+    <TD bgColor=#ffffff>
+		<TABLE cellSpacing=0 cellPadding=0 border=0 >
+        <TBODY>
+        <TR>
+			<TD width=12 bgColor="#ffffff" ><IMG height=1 alt="" src="images/spacer.gif" width=1 border=0></TD>
+			<TD align="center" valign="top" bgColor="#ffffff">844-206-9927</b><TD width=12 bgColor=#ffffff ><IMG height=1 alt="" src=" images/spacer.gif" width=1 border=0></TD>
+		</TR>
+		<TR>
+			<TD width=12 bgColor="#ffffff"><IMG height=1 alt="" src="images/spacer.gif" width=1 border=0></TD>
+            <TD align="center" valign="top"><br><a href="mailto:TennIIS.Help@tn.gov?subject=">
+				<img src="/tnsiis/images/mail_button.gif" width="49" height="19" border="0" alt="Send E-Mail to Tennessee State Immunization Information System Help Desk" align="top"></b></br><br>
+			</TD>		
+		</TR>
+</TR>
+		</TBODY>
+		</TABLE>
+<tr>
+	<TD bgColor=#d6dfe8 colSpan=3><!--<IMG height=1 alt="" src=" images/spacer.gif" width=1 border=0>--></TD>
+</tr>
+</tbody>
+</table>
+<!-- end of OPS-3344 added e-mail link and phone for TN Prod -->
+    <br><br>
+    <a href="http://www.stchome.com">
+      <img src="/tnsiis/images/stc_global_logo.png" alt="STC Logo"
+           style="border: none; width: 90px; height: 63px;">
+    </a>
+  
+
+
+    </div>
+  
+  
+    
+    
+      <div id="waiting" class="normalContent" style="text-align:center;display:none;">
+          <img src="/tnsiis/images/waiting.gif" alt="Loading, please wait ...">
+          <br><br>
+          Loading content, please wait ...
+        <p style="clear:both;margin:0;padding:0;">&nbsp;</p>
+      </div>
+      <div id="content" class="normalContent" style="display:block;">
+    
+  
+  
+  
+    
+<!-- WEB-INF/jspf/userAndDateInfo.jspf -->
+
+
+<div id="userAndDateInfo" class="smallfont">
+  <span style="position: absolute; right: 10px;line-height: 10px;">
+    
+  </span>
+
+  <span style="position: absolute; right: 10px; line-height: 35px; color: red">
+    
+  </span>
+  
+  
+    
+     
+     <span style="position: absolute; right: 10px; line-height: 95px;">
+     
+  
+  
+    
+    <img src="/tnsiis/images/alert.png;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42" alt="Alert icon" id="browserVersionAlertImg" title="The browser you are currently using is not modern enough to use this application. Certain features may not look or behave the same as more modern browsers." style="display: none; position: absolute; left: -22px; width: 22px; height: 20px;">
+    <strong>Date:</strong>
+    &nbsp;September 11, 2020
+  </span>
+  
+  <span style="line-height: 35px;">
+    
+      
+      
+        &nbsp;
+      
+    
+  </span>
+</div>
+  
+  
+  
+    
+    
+      
+      
+    
+  
+  
+    
+
+  
+
+  
+  
+  
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ******************* BEGINNING OF I_MAIN.INC CONTENT ******************* -->
+<link rel="stylesheet" href="./css/jquery-ui/accordion-jquery-ui.css">
+<script src="./javascript/accordion-jquery.js"></script>
+<script src="./javascript/accordion-jquery-ui.js"></script>
+<script>
+  $(function() {
+    $( "#accordion" ).accordion({
+      heightStyle: "content",
+      active: "false",
+      collapsible: "true"
+    });
+  });
+</script>
+<div>
+  &nbsp;
+</div>
+<div style="margin: 20px 0px 20px 0px; text-align: center; font-size: large; font-weight: bold;">
+  Welcome to the Tennessee Immunization Information System (TennIIS)
+</div>
+<div>
+  &nbsp;
+</div>
+<div id="accordion">
+  <h3>About TennIIS</h3>
+  <div>
+	<p>
+	TennIIS is a statewide immunization information system (IIS) managed by the Tennessee
+	Department of Health. TennIIS is a free, secure, and easy-to-use online registry of vaccinations
+	received by Tennessee residents.<br><br>
+	TennIIS can be utilized by healthcare providers, pharmacists, schools, and childcare administration
+	to access and update vaccination records. Through TennIIS, authorized users can access the
+	Immunization Certificate Validation Tool (ICVT) to print validated Official Immunization Certificates
+	for children in Tennessee.<br><br>
+	TennIIS can also be used to retrieve Patient Immunization Record Reports, Reminder/Recall Reports,
+	Coverage Rate Reports, and Immunization Forecasting Reports.<br><br>
+	For eligible professionals and hospitals, participation in Electronic Data Exchange with TennIIS is a
+	valid public health reporting measure under the federal Centers for Medicare and Medicaid Services
+	(CMS) electronic health record incentive programs. These programs include Meaningful Use (MU)
+	and Merit Based Incentive Payment System (MIPS).<br><br>
+	TennIIS also hosts the online Vaccine Ordering Management System (VOMS) for the federal Vaccines
+	for Children (VFC) Program.<br><br>
+	Please see the <a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_Brochure.pdf ">TennIIS Brochure</a> or for more information about the Tennessee Immunization program, please click <a href="https://www.tn.gov/health/cedep/immunization-program.html ">HERE</a>.
+	</p>
+  </div>
+  <h3> New to TennIIS? Start Here to Register</h3>
+  <div>
+    <p>If you are new to TennIIS, follow these steps to ensure that you are fully registered for all applicable
+	TennIIS components.<br>
+	
+	<h4>1. To access TennIIS using the Web Portal follow these steps:</h4>
+	<ul style="margin-left: 0px; font-family: arial, helvetica; font-size: 9pt;">
+	<li> Select the "TennIIS Facility Registration and Adding New Users" tab on the TennIIS homepage.</li>
+	<li> If you are registering a new facility in TennIIS, follow the instructions under "New Facility
+	Registration in TennIIS".</li>
+	<li> If your facility already has a TennIIS account and you need to register as a new user, follow the
+	instructions under "New User Registration for Existing TennIIS Facility".</li>
+	</ul>
+	
+	<h4>2. To register your facility to start the process of exchanging data between your Electronic Health Record (EHR) & TennIIS </h4>
+	
+	<ul style="margin-left: 0px; font-family: arial, helvetica; font-size: 9pt;">
+	<li>Select the "Electronic Data Exchange and Meaningful Use/MIPS Registration" tab on the TennIIS
+	homepage. Click on "Meaningful Use Registration" and follow the instructions provided.</li>
+	</ul>
+	
+	<p style="margin-left: 10px"><i>This is a required step if you want to exchange immunization records electronically between TennIIS
+	and your facility's EHR and to register intent to exchange data with the immunization registry for purposes of meeting the CMS Electronic Health Record (EHR) Incentive Programs Immunization Registry Public Health Measure.</i></p>
+	
+	<h4>3. To Enroll in the Vaccines for Children (VFC) Program</h4>
+	<ul style="margin-left: 0px; font-family: arial, helvetica; font-size: 9pt;">
+	<li>Select the "VFC Enrollment and Program Information" tab on the TennIIS homepage. Follow
+	the instructions under "VFC Enrollment".</li>
+	</ul>
+	<h4>4. Maintain contact with the Tennessee Immunization Program (TIP)</h4>
+	<p>Throughout the registration process, be sure to check your e-mails regularly. If you cannot find the
+	information you need on the TennIIS webpage or are having trouble registering, do not hesitate to
+	contact TIP for clarification. Contact information can be found in the "Contact the Tennessee
+	Immunization Program" tab on the TennIIS homepage.</p>
+	
+    
+  </div>
+  
+  <h3>TennIIS Facility Registration and Adding New Users</h3>
+  <div>
+	<h4>New Facility Registration in TennIIS</h4>
+	<p>All wishing to submit or access immunization records from a facility via the Web Portal without an existing TennIIS
+	account are required to complete the online TennIIS Facility Registration Application. Once the
+	application has been processed, the designated Point of Contact (POC) will receive a confirmation
+	email along with login information for the facility's TennIIS users.<br><br>
+	To begin a new TennIIS Facility Registration Application, please click <a href="registration/register.do2?actionType=Enrollment">HERE</a>.
+	</p>
+	<h4>New User Registration for Existing TennIIS Facility</h4>
+	<p>If your facility is already registered in TennIIS, the designated Point of Contact (POC) is responsible
+	for managing the facility's TennIIS users and distributing login information on to the staff. The POC
+	also is responsible for communicating directly with the Tennessee Immunization Program (TIP)
+	about all user and facility updates.
+	<br><br>
+	To add new TennIIS users or to inactivate existing users, the POC should contact the TennIIS
+	Registration team at <a href="mailto:TennIIS.Registration@tn.gov">TennIIS.Registration@tn.gov</a>. Please include the following information in your
+	email request:
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li>User's first and last name</li>
+	<li>User's e-mail address</li>
+	<li>The facility's full contact information:</li>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;"><li>Facility name</li>
+	<li>Facility phone number</li>
+	<li>Facility address</li>
+	<li>If applicable, the facilitys VFC PIN</li></ul>
+	</ul>
+	<p><i>
+	All information in the TennIIS system is confidential. Authorized users are prompted to accept a
+confidentiality agreement when logging into TennIIS. Sharing of TennIIS usernames and/or passwords is a
+violation of that agreement and is strictly prohibited. Unauthorized access or improper use of the TennIIS
+system violates privacy provisions of the Health Insurance Portability and Accountability Act (HIPAA).
+TennIIS administration reserves the right to revoke access immediately if improper use is suspected;
+TennIIS administrators also will inactive users after a period of prolonged inactivity to safeguard system
+security.</i></p>
+  
+  </div>
+  
+  <h3>Electronic Data Exchange and Meaningful Use/MIPS Registration </h3>
+  <div>
+  <h4>What is Electronic Data Exchange?</h4>
+	<p>Any practice that administers vaccinations can exchange data electronically between its Electronic
+	Health Record (EHR) system and TennIIS. Electronic data exchange is an efficient way to add or
+	retrieve vaccination records in TennIIS, and can eliminate the need for entering data separately into
+	both TennIIS and the EHR.</p>
+	<p>If you have any questions about electronic data exchange, contact <a href="mailto:TennIIS.MU@tn.gov">TennIIS.MU@tn.gov.</a></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/2.5.1_VXU%26ACK_Tech_Specs.pdf ">2.5.1 VXU/ACK Technical Specifications</a></li></ul>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/2.5.1_QBP%26RSP_Tech_Specs.pdf ">2.5.1 QBP/RSP Technical Specifications</a></li></ul>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/Vendor_Qualification_Chart_External.pdf ">EHR Vendor Qualifications</a></li></ul>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/Roadmap_to_TennIIS_Production.pdf ">Roadmap to TennIIS Production</a></li></ul>
+  <h4>Meaningful Use (MU), Merit Based Incentive Payment System (MIPS) and Public Health
+	Reporting in Accordance with CMS Incentive Programs</h4>
+  <p>
+	To register your intent to exchange data electronically with TennIIS and to begin the onboarding process to exchange data electronically between your EHR and TennIIS, please register here first: <a href="https://www.tn.gov/health/cedep/immunization-program/ip/tenniis/tpr.html " target="_blank">Meaningful Use
+	Registration</a><br><br>
+	For more information about public health options to fulfill CMS Immunization Registry public health
+	reporting requirements in Tennessee:
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.cms.gov/Regulations-and-Guidance/Legislation/EHRIncentivePrograms/index.html">CMS Electronic Health Records (EHR) Incentive Programs</a></p>
+	</ul>
+  </p>
+  </div>
+
+  <h3>VFC Enrollment and Program Information</h3>
+  <div>
+  <h4>What is the VFC Program?</h4>
+	<p>The Vaccines for Children (VFC) Program is a federal entitlement program that provides free, federally-funded recommended vaccines to eligible children younger than 19 years of age through a network of volunteer clinics enrolled in the VFC Program.  Eligible children include those eligible for Medicaid (TennCare), American Indians/Alaskan Natives, the uninsured and those without vaccine benefits through their insurance plan.  The administration of the federal VFC Program in Tennessee, including vaccine distribution, is overseen by the Tennessee Immunization Program (TIP).  VFC vaccine ordering and inventory management is conducted through the specialized VOMS module in TennIIS.  For more information on the VFC Program, please visit the following links:
+</p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li><a href="https://www.cdc.gov/vaccines/programs/vfc/index.html">CDC Vaccines for Children Program (VFC)</a></li>
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program.html ">Tennessee Immunization Program (TIP)</a></li>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program/ip/vfc.html">VFC Program Information</a></li>
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program/ip/vfc/vfc-provider-guidance.html">VFC Provider Guidance and Toolkits</a></li></ul>
+	</ul>
+	<h4>VFC Enrollment and Annual Re-Enrollment</h4>
+	<p>Once you have registered your facility and users in TennIIS and have received your confirmation email from TennIIS Registration, you may choose to enroll in the VFC Program.  If you are interested in participating in the VFC Program and would like to request a Starter Kit, please contact the VFC Enrollment team at  <a href="mailto:VFC.Enrollment@tn.gov">VFC.Enrollment@tn.gov</a>.</p>
+<p>VFC enrollment must be renewed annually in accordance to the VFC Phased Enrollment Schedule, which can be found in the TennIIS Document Center.  The Document Center is located in the Navigation menu on the left side of the TennIIS screen, under the Main tab.  It is only accessible when a registered user is logged into TennIIS.
+</p>
+	<h4>VFC Communications</h4>
+	<p>Important VFC Program communications, announcements, and memos are sent to all VFC contacts but can also be found in the TennIIS Document Center.  The Document Center is located in the Navigation menu on the left side of the TennIIS screen, under the Main tab.  It is only accessible when a registered user is logged into TennIIS.</p>
+	
+	<h4>VFC Annual Immunization Review (AIR)</h4>
+	<p>The Vaccines for Children (VFC) Program's Annual Immunization Review (AIR) is a free educational conference for enrolled providers and their staff.  These one-day educational conference / training events are held in four cities across Tennessee including Knoxville, Chattanooga, Memphis, and Nashville.</p>  
+
+	<p>Though optional, it is highly recommended that primary and back-up vaccine coordinators, physicians, nurse practitioners, physician assistants, and any other clinical staff who play a significant role in the immunization activities of a VFC enrolled practice attend one of the four training dates.  Relevant exhibitors will also be present to provide quality education, product, and service information for attendees to engage.</p>  
+
+	<p>Please visit <a href="https://www.tn.gov/health/cedep/immunization-program/ip/vfc/air.html">VFC Annual Immunization Review (AIR)</a> for event details and registration information.</p>  
+
+</div>
+  
+  
+  <h3>Training and Education: FAQs, Training Guides/Videos/Webinars, and Workarounds</h3>
+  <div>
+	<h4><u>TennIIS Training</u></h4>
+	<p><b>Document Center</b><br>
+	TennIIS monthly newsletters along with VFC communications are posted in the TennIIS Document Center.  The Document Center is located in the Navigation menu on the left side of the TennIIS screen, under the Main tab.  It is only accessible when a registered user is logged into TennIIS.
+	</p>
+	<p><b>FAQs</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_FAQs.pdf ">TennIIS FAQs</a></li></ul>
+	<p><b>Quick Reference Guides (QRG)</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<!--
+	<li>Medical office and health department user</li>
+	 <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/PatientSearchAddEditQRG.pdf">Patient Search, Add, and View</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/ViewingAddingEditingVaccinationRecordsQRG.pdf">Viewing, Adding, and Editing Vaccinations</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/ImmunizationCertificateValidationToolQRG.pdf">Immunization Certificate Validation Tool (ICVT)</a></li> 
+	--> 
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_Medical_Office_User_QRG.pdf">Medical Office user</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_Health_Department_User_QRG.pdf">Health Department user</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_Pharmacy_User_QRG.pdf">Pharmacy user</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TennIIS_Childcare_Facility_User_QRG.pdf">School/Childcare facility user</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/PatientActivityStatusQRG.pdf">Management of Patient Ownership and Active/Inactive Status</a></li></ul>
+	</ul>
+	</ul>
+	<p><b>Training Videos</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/ManualEntry.mp4">Manual Entry into TennIIS</a> (updating patient records via the TennIIS website)</li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/ViewOnlyUsers.mp4">View Only Users</a></li></ul>
+	<p><b>Live TennIIS Training Webinars</b></p>
+	<p>Live training webinars are available for all types of TennIIS users and are customized according to your group or facilitys specific needs including medical offices, pharmacies, health departments, schools, and childcare centers.  To request a live TennIIS Training webinar, please contact  <a href="mailto:TennIIS.Training@tn.gov">TennIIS.Training@tn.gov</a>.</p>
+	
+	<p><b>Electronic Data Exchange Guides</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/Transfer_of_Information_from_EHR_to_TennIIS.pdf">Troubleshoot Guide for Transfer of Information from Electronic Health Record to TennIIS</a></li>
+	</ul>
+	
+	<h4><u>VFC Training</u></h4>
+	<p><b>Document Center</b><br>
+	Important VFC Program communications, announcements, and memos are sent to all VFC contacts but can also be found in the TennIIS Document Center.  The Document Center is located in the Navigation menu on the left side of the TennIIS screen, under the Main tab.  It is only accessible when a registered user is logged into TennIIS.
+	</p>
+	<p><b>FAQs</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/vfc/VOMS_FAQs.pdf">Vaccine Ordering & Management System (VOMS) FAQs</a></li></ul>	
+	<p><b>Quick Reference Guides</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/VaccineInventoryReconciliationQRG.pdf">Vaccine Inventory Reconciliation</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/VaccineOrderingReceivingTransfersReturnsQRG.pdf">Create, Submit, and Retrieve Vaccine Orders</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/VaccineReturnsQRG.pdf">Returning Vaccines</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/VaccineAdvertisementQRG.pdf">Vaccine Advertisement Screen</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/vfc/TemperatureMonitoringQRG.pdf">Daily Procedure for Monitoring Temperatures</a></li>
+	<li><a href="https://www.cdc.gov/vaccines/ed/ce-credit-how-to.html">Print CDC Continuing Education (CE) Certificates</a></li>
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/vfc/KnowTheSite-VaccineAdministration.pdf">Proper Vaccine Administration Flier</a></li>
+	</ul>
+	<p><b>Training Videos</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://stateoftennessee.adobeconnect.com/_a828793869/p1gibmw7lup/?launcher=false&fcsContent=true&pbMode=normal">Data Logger Setup and Use</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/VOMS.mp4">Vaccine Ordering and Management System (VOMS)</a></li>
+	<li><a href="https://www.youtube.com/watch?v=PqSuCPnPeYE">CDC Intramuscular (IM) Injection Sites (Proper Vaccine Administration Technique)</a></li>
+	</ul>
+	
+	<p><b>Live VOMS Training Webinars</b></p>
+	<p>VFC providers may request a live VOMS training webinar by contacting the
+	VOMS team at <a href="mailto:TennIIS.VOMS@tn.gov">TennIIS.VOMS@tn.gov</a>.<br><br>
+	
+
+	<p><b>VFC Annual Training for Re-Enrollment</b></p>
+	<p>Primary and Back-Up Vaccine Coordinators must complete one of the following training methods within the current enrollment period to satisfy the VFC Program's annual training requirements:
+    </p>	
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+		<li><p>Participate in a VFC Educational or Compliance Site Visit within the past 12 months.</p></li>
+		<li><p>In the current enrollment year, complete both of CDC "<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html">You Call the Shots</a> online training modules: Vaccine Storage and Handling (module 10) and Vaccines for Children (module 16).  Go to  <a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html">https://www.cdc.gov/vaccines/ed/youcalltheshots.html</a> to complete the two training modules and print your certificates.  </p></li>
+	</ul>
+	
+<h4><u>Additional Educational Opportunities</u></h4>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li>CDC Immunization Education &amp; Training
+<p>CDC offers numerous training and continuing education opportunities for healthcare professionals. &nbsp;For an overview of CDC Education and Training opportunities, visit <a href="https://www.cdc.gov/vaccines/ed/index.html">https://www.cdc.gov/vaccines/ed/index.html</a> to learn more.</p></li>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li>Current Issues in Immunization NetConference (CIINC)
+<p>The Immunization NetConferences are scheduled 4 to 5 times per year with specific topics designed to provide clinicians with the most up-to-date information on immunizations.&nbsp; For upcoming and archived events, go to <a href="https://www.cdc.gov/vaccines/ed/ciinc/index.html">https://www.cdc.gov/vaccines/ed/ciinc/index.html</a>.</p>
+  </ul></li>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li>Pink Book Webinar Series
+<p>CDC explores the <i>Epidemiology and Prevention of Vaccine-Preventable Diseases</i>, also known as "The Pink Book," in a series of 15 one-hour webinars.  Continuing education is offered for each webinar.  To view the webinar schedule and register, go to <a href="https://www.cdc.gov/vaccines/ed/webinar-epv/index.html">https://www.cdc.gov/vaccines/ed/webinar-epv/index.html</a></p></li>
+</ul>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li>Immunization Courses: Webcasts and Self-Study
+<p>Below are several examples of the immunization webcasts available.&nbsp; Visit the CDC Immunization Courses: Webcasts and Self-Study webpage at <a href="https://www.cdc.gov/vaccines/ed/courses.html">https://www.cdc.gov/vaccines/ed/courses.html</a> for a list of additional courses.</p></li>
+<ul>
+<li>General Best Practice Guidelines for Immunization</li>
+<li>Immunizations: Vaccine Administration (module 18) e-Learn</li>
+<li>Influenza (flu) Vaccination Recommendations 2017-2018</li>
+</ul><br>
+<li>&nbsp;&ldquo;You Call the Shots&rdquo; Online Training Modules
+<p>CDC &ldquo;<a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html">You Call the Shots</a>&rdquo; modules are a series of web-based immunization training courses.&nbsp; Although VFC Vaccine Coordinators are only required to complete <em>Vaccine Storage and Handling (module 10)</em> and <em>Vaccines for Children (module 16)</em>, there are a number of other CE courses available as well.&nbsp; Below are a few examples of the many training modules.&nbsp; Go to <a href="https://www.cdc.gov/vaccines/ed/youcalltheshots.html">https://www.cdc.gov/vaccines/ed/youcalltheshots.html</a> to see the full list of modules in the series.</p></li>
+<ul>
+<li>Understanding the Basics: General Recommendations on Immunization (module 1)</li>
+<li>Influenza (module 5)</li>
+  </ul>
+</ul>
+</ul>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li>Immunization Action Coalition (IAC)
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<br><li>The IAC provides listings and links for continuing education opportunities. Visit <a href="http://www.immunize.org/resources/contedu.asp">http://www.immunize.org/resources/contedu.asp</a> for more information.</li>
+</ul>
+</li>
+</ul>
+</ul>	
+  </div>
+
+  <h3>Immunization Requirements and Other Helpful Resources</h3>
+  <div>
+	<h4>Tennessee Immunization Requirements for Daycare and School</h4>
+	<p>Vaccines required to attend daycare or school in Tennessee should be administered in accordance
+	with the current schedule published by the Centers for Disease Control and Prevention (CDC) and
+	endorsed by the American Academy of Pediatrics (AAP) and the American Academy of Family
+	Physicians (AAFP). The links below provide details on the immunizations required to attend daycare,
+	pre-school, school and college.</p>
+	
+	<p><i>Immunization Requirements and Schedule</i></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TN_Immunization_Summary_Table.pdf">TN Immunization Requirement Summary Table</a></li>
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program/ip/immunization-requirements/childcare-12th-grade-immunization-requirements.html">Childcare  12th Grade Immunization Requirements</a></li>
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program/ip/immunization-requirements/college-immunization-requirements.html">College Immunization Requirements</a></li>
+	<li><a href="https://publications.tnsosfiles.com/rules/1200/1200-14/1200-14-01.20191013.pdf">Tennessee Department of Health Rules for Immunization</a> (Chapter 1200-14-1-.29)</li>
+	<li><a href="http://www.cdc.gov/vaccines/schedules/index.html">CDC Recommended Immunization Schedule</a></li>
+	</ul>
+	<p><i>Tools for Ensuring Compliance with the Immunization Requirements</i></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TDH_Sum_of_Imm_Rules-Cert_Instructions.pdf">TDH Immunization Requirement Summary and Instructions for Creating Immunization
+	Certificates</a></li>
+	<li><a href=" https://www.tn.gov/content/dam/tn/health/documents/immunizationrequirements/tenniis/TN_Immunization_Certificate_Sample.pdf">TN Immunization Certificate Sample</a></li>
+	<li><a href="https://www.tn.gov/health/cedep/immunization-program/ip/immunization-requirements/immunization-certificate-validation-tool.html">Immunization Certificate Validation Tool (ICVT)</a></li>
+	</ul>
+	<p><i>Tennessee Vaccination Coverage Rates and Reports</i></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://www.tn.gov/health/ceds-weeklyreports.html">Immunization Status Survey of 24-Month-Old Children in Tennessee</a></li></ul>
+	<p>For more information, please visit the <a href="https://www.tn.gov/health/cedep/immunization-program.html">Tennessee Immunization Program (TIP)</a> Webpage.</p>
+
+<p><strong>Other Helpful Resources</strong></p>
+<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+<li><a href="https://www.tn.gov/health/cedep/immunization-program.html">Tennessee Immunization Program (TIP)</a></li>
+<li><a href="https://www.cdc.gov/vaccines/acip/index.html">Advisory Committee on Immunization Practices (ACIP)</a></li>
+<li><a href="http://www.cdc.gov/vaccines">CDC Vaccines &amp; Immunizations</a></li>
+<ul>
+<li><a href="http://www.cdc.gov/vaccines/programs/vfc/index.html">Vaccines for Children Program (VFC)</a></li>
+<li><a href="https://www.cdc.gov/vaccines/hcp/vis/index.html">Vaccine Information Statements (VISs)</a></li>
+<li><a href="https://www.cdc.gov/vaccinesafety/index.html">Vaccine Safety</a></li>
+<li><a href="https://www.cdc.gov/flu/index.htm">Influenza (Flu)</a></li>
+<ul>
+<li><a href="https://www.cdc.gov/flu/professionals/index.htm">Seasonal Influenza (Flu)  Information for Health Professionals</a></li>
+<li><a href="https://www.cdc.gov/flu/resource-center/freeresources/index.htm">Seasonal Influenza (Flu) Resource Center  Free Communication, Education, and Prevention Materials</a></li>
+</ul>
+</ul>
+<li><a href="https://vaers.hhs.gov/index">Vaccine Adverse Event Reporting System (VAERS)</a></li>
+<li><a href="http://www.immunize.org/">Immunization Action Coalition (IAC)</a></li>
+<li><a href="http://www.immregistries.org/">American Immunization Registry Association (AIRA)</a></li>
+<li><a href="https://www.aap.org">American Academy of Pediatrics (AAP)</a></li>
+<li><a href="http://www.aafp.org/home.html">American Academy of Family Physicians (AAFP)</a></li>
+</ul>
+  
+  </div>
+  <h3> Contact us</h3>
+  <div>
+	<h4>TennIIS Help Desk &nbsp;&nbsp; (844) 206-9927 &nbsp;&nbsp; <a href="mailto:TennIIS.Help@tn.gov">TennIIS.Help@tn.gov</a></h4>
+  <p>For general TennIIS assistance, contact the TennIIS Help Desk at <b>(844) 206-9927 </b>Monday through
+	Friday, 7AM to 6PM CST or by e-mail at <a href="mailto:TennIIS.Help@tn.gov">TennIIS.Help@tn.gov</a>. The Help Desk will be closed on all <a href="https://www.tn.gov/about-tn/state-holidays.html">TN
+	State holidays</a>.</p>
+	<p>Click below for contact details for the Tennessee Immunization Program:
+	<a href="https://www.tn.gov/health/cedep/immunization-program/ip/immunization-program-about/contact-us.html">Tennessee Immunization Program Contact Information</a><p>
+  
+  </div>
+ 
+  <h3>Parents and General Public</h3>
+  <div>
+	<p><b>New to Tennessee</b></p>
+	<p>If you are new to Tennessee and need your childs vaccination information transferred to an Official
+	Tennessee Immunization Certificate to enroll them in school, childcare, or for another purpose,
+	bring your childs immunization records to your Tennessee healthcare provider or any <a href="https://www.tn.gov/health/health-program-areas/localdepartments.html">local Health
+	Department</a> in Tennessee for a validated Official Immunization Certificate.</p>
+  
+	<p><b>Tennessee Immunization Record Requests</b></p>
+	<p>Are you looking for your immunization record? Individuals who have received vaccinations within
+	the State of Tennessee may have immunization information in TennIIS. Any person may request a
+	copy of his or her TennIIS immunization record from the Tennessee Immunization Program, their
+	<a href="https://www.tn.gov/health/health-program-areas/localdepartments.html">local health department</a>, or a participating healthcare provider. Please visit <a href="https://www.tn.gov/health/cedep/immunization-program/ip/imm-record-request.html">Tennessee
+	Immunization Record Request</a> for more information.</p>
+  
+  </div>
+  
+  <!-- <h3>TennIIS Training</h3>
+  <div>
+    <p><b>TennIIS Training Module Descriptions:</b></p>
+    <p><b>1. Manual Entry:</b> For those who manually enter vaccines (historical and administered) and /or use the Immunization Certificate Validation Tool (ICVT) to issue school and preschool certificates.</p>
+    <p><b>2. View Only:</b> This session is for those who will use TennIIS to view vaccination records and use the ICVT, but do not enter vaccine data  best suited for school users.</p>
+    <p><b>3. Vaccine Ordering and Management System (VOMS):</b> For VFC providers, VOMS training will cover ordering, receiving, and reconciling vaccines.</p><br />
+	<p><b>Live Training Webinars:</b></p>
+    <p>Live Training webinars are available for all types of TennIIS users and are customized according to your group or facilitys specific needs whether your facility is a medical office, pharmacy, health department, school, or daycare.</p>
+    <p><b>For all TennIIS users</b>, to schedule a live TennIIS Training webinar, please contact the TennIIS Training team at <a href="mailto:TennIIS.Training@tn.gov" target="_blank">TennIIS.Training@tn.gov</a>.</p>
+	<p><b>For VFC providers</b>, to schedule a live VOMS Training webinar, please contact the VOMS Training team at <a href="mailto:TennIIS.VOMS@tn.gov" target="_blank">TennIIS.VOMS@tn.gov</a>.</p>
+	<p>To attend a scheduled VFC Enrollment Training webinar, please contact the VFC Enrollment team at <a href="mailto:VFC.Enrollment@tn.gov" target="_blank">VFC.Enrollment@tn.gov</a>. The Enrollment webinar schedule is posted in the Document Center. </p>
+	<p>To request an In-Person TennIIS Training, please complete the request form below and e-mail it to <a href="mailto:TennIIS.Training@tn.gov" target="_blank">mailto:TennIIS.Training@tn.gov</a>.</p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/2015_TennIIS_In-Person_Training_Request.pdf" target="_blank">TennIIS In-Person Training Request Form</a></li>
+	</ul><br />
+    <p>Additional training guides and videos are listed below.</p>
+	<p><b>Training Guides for using the ICVT, and Viewing or Entering Vaccinations</b></p>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/ImmunizationCertificateValidationToolQRG.pdf" target="_blank">Immunization Certificate Validation Tool (ICVT)</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/PatientSearchAddEditQRG.pdf" target="_blank">Patient Search, Add, and View</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/ViewingAddingEditingVaccinationRecordsQRG.pdf" target="_blank">Viewing, Adding, and Editing Vaccinations</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/PersonalSettingsQRG.pdf" target="_blank">Personal Settings</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/PatientActivityStatusQRG.pdf" target="_blank">Management of Patient Ownership and Active/Inactive Status</a></li>
+    </ul>
+	<p><b>Training Guides for the Vaccine Ordering and Management System</b></p>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/ReconciliationQRG.pdf" target="_blank">Inventory Reconciliation</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/OrderingReceivingTransfersReturnsQRG.pdf" target="_blank">Create, Submit, and Receive Vaccine Orders</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/VaccineReturnsQRG.pdf" target="_blank">Returning Vaccines</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/VaccineAdvertisementQRG.pdf" target="_blank">Vaccine Advertisement Screen</a></li>
+    </ul>
+	<p><b>Training Guides for VFC Quality Assurance</b></p>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/QuickReferenceGuideTempMonitor.pdf" target="_blank">Temperature Monitor</a></li>
+    </ul>
+	<p><b>Training Videos</b></p>
+	<ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="http://stateoftennessee.adobeconnect.com/p1gibmw7lup/" target="_blank">Data Logger Setup and Use</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/ManualEntry.mp4" target="_blank">Manual Entry into TennIIS</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/VOMS.mp4" target="_blank">Vaccine Ordering and Management System</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/videos/ViewOnlyUsers.mp4" target="_blank">View Only Users</a></li>
+    </ul>
+  </div>
+  <h3>Immunization News</h3>
+  <div>
+    <p>A new immunization news page is being created and will be available as soon as possible.</p>
+  </div>
+  <h3>School Immunization Requirements</h3>
+  <div>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/SummarySlideTNImmReqts.pdf" target="_blank">Diseases Covered by Tennessee Child Care and School Immunization Requirements Table</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TDHSumofImmRulesCertInstructions.pdf" target="_blank">Immunization Requirement Summary for Child Care through 12th Grades</a></li>
+    </ul>
+  </div>
+  <h3>VFC Program Information</h3>
+  <div>
+    <p><b><u>Pentacel Delay Extended:</u></b></p>
+	<p>Sanofi Pasteur continues to experience a manufacturing delay with Pentacel (DTaP-IPV/Hib) vaccine. <b><i>The Pentacel delay has been extended throughout 2016</i></b>. However, there is sufficient supply of the relevant single antigen vaccines (DAPTACEL, ActHIB and IPOL) to address the anticipated gap in Pentacel supply. <u><i>Providers should continue to follow the recommended immunization schedule and ensure that patients receive all recommended doses of DTaP, Hib, and Polio vaccines</i></u>.</p>
+	<p>The <a href="https://s3.amazonaws.com/stc-app-tn/pdf/2015-16_Pentacel_Delay_Guidance.pdf" target="_blank">CDC Guidance for Vaccinating Children during the 2016 Pentacel Manufacuring Delay</a> is available and has been posted in the TennIIS Document Center. VFC providers can also visit the <a href="http://www.cdc.gov/vaccines/vac-gen/shortages/default.htm?s_cid=cs_000" target="_blank">CDC Current Vaccine Shortages &amp; Delays</a> webpage for additional information.</p>
+	<p><b><u>Duplicate Vaccine Returns in Internet Explorer (IE):</u></b></p>
+	<p>When submitting returns in VOMS using Internet Explorer (IE), the pop-up blocker must be disabled for VOMS to work properly. To disable your pop-up blocker, go to <i>Tools</i> tab located in the upper right hand corner of the browser. Click on <i>Internet Options</i>. Select the Privacy tab and then <i><u>UNCHECK</u></i> the <i>Turn On Pop-Up Blocker</i> box. At the bottom click <i>Apply</i> and then <i>Ok</i> before exiting the menu.</p>
+	<p>Completing these steps will avoid the creation of duplicate Returns and ensure that your Return is submitted successfully only once. This will then aid in reducing processing time. If you have any questions, please contact the VOMS team at <a href="mailto:TennIIS.VOMS@tn.gov" target="_blank">TennIIS.VOMS@tn.gov</a>.</p>
+    <p><b><u>Continuing Education:</u></b></p>
+	<p>The 2015-2016 Influenza Vaccination Recommendations training offered by the CDC is now available! Please <a href="https://s3.amazonaws.com/stc-app-tn/pdf/Training_2015-2016_Influenza.pdf" target="_blank">click here</a> for more information. (<i>Valid through 12/15/17</i>)</p>	
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li><a href="http://www.tn.gov/health/article/vcf" target="_blank">VFC Program Info</a></li>
+	<li><a href="http://www.tn.gov/health/article/vfc-provider-guidance" target="_blank">VFC Provider Guidance &amp; Toolkits</a></li>
+	</ul>
+  </div>
+  <h3>Data Exchange with Electronic Health Record Systems &amp; Meaningful Use</h3>
+  <div>
+    <p>The Centers for Medicare and Medicaid Services (CMS) Electronic Health Record (EHR) Incentive Programs provide a financial incentive for the "meaningful use" of certified EHR technology to achieve health and efficiency goals. By putting into action and meaningfully using an EHR system, providers reap patient care benefits beyond financial incentives. Here, you will find resources with more information about the public health options to fulfill meaningful use requirements Tennessee.</p>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li><a href="https://apps.health.tn.gov/twisprod/RegisterMU/MUregistration.asp" target="_blank">Meaningful Use Registration</a></li>  
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TennIISDataExchangeFactSheet.pdf" target="_blank">Immunization Information System Fact Sheet for Electronic Data Exchange</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TennIISDataExchangeOnboardingChecklist.pdf" target="_blank">TennIIS Data Exchange On-Boarding Checklist</a></li>
+    </ul>
+  </div>
+  <h3>Valuable External Links</h3>
+  <div>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+    <li>For the latest Immunization Schedule and more visit the <a href="http://www.cdc.gov/vaccines/" target="_blank">CDC</a> website.</li>
+    <li>Report a suspected vaccine adverse event: <a href="https://vaers.hhs.gov/" target="_blank">https://vaers.hhs.gov/</a></li>
+    <li>Get the latest Vaccine Information Statements (VIS), Immunization Tools and Resources at the <a href="http://www.immunize.org/vis" target="_blank">Immunization Action Coalition</a> homepage.</li>
+    <li>CDC Travelers Health Information: <a href="http://wwwnc.cdc.gov/travel" target="_blank">http://wwwnc.cdc.gov/travel</a></li>
+    <li>Healthcare providers may submit clinical safety questions here: <a href="http://pediatrics.mc.vanderbilt.edu/interior.php?mid=7908" target="_blank">Vaccine Safety Advice Network</a></li>
+    </ul>
+  </div>
+  <h3>FAQs, Known Issues and Workarounds</h3>
+  <div>
+    <ul style="margin-left: -20px; font-family: arial, helvetica; font-size: 9pt;">
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TennIISFAQ.pdf" target="_blank">TennIIS Frequently Asked Questions</a></li>
+    <li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/KnownTennIISIssuesWorkarounds.pdf" target="_blank">Known TennIIS Issues and Workarounds</a></li>
+	<li><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TransferofInformationfromEHRtoTennIIS.pdf" target="_blank">Troubleshoot Guide for Transfer of Information from Electronic Health Record to TennIIS</a></li>
+    </ul>
+  </div>  
+  <h3>Contact the Tennessee Immunization Program</h3>
+  <div>
+    <p><a href="https://s3.amazonaws.com/stc-app-tn/pdf/TennIISBrochure.pdf" target="_blank">Tennessee Immunization Program IIS Brochure</a></p>
+	<hr />
+    <p><b><u>TennIIS Help Desk</u>&emsp;&emsp;(844) 206-9927&emsp;&emsp;<a href="mailto:TennIIS.Help@tn.gov" target="_blank">TennIIS.Help@tn.gov</a></b></p>
+	<p>For general TennIIS assistance, contact the Helpdesk at: (844) 206-9927 Monday thru Friday 7AM to 6PM CDT or by email at: <a href="mailto:TennIIS.Help@tn.gov" target="_blank">TennIIS.Help@tn.gov</a>. The Helpdesk will be closed on all state holidays.</p>
+	<hr />
+	<p><b><u>TennIIS Facility Registrations and User Updates</u>&emsp;&emsp;<a href="mailto:TennIIS.Registration@tn.gov" target="_blank">TennIIS.Registration@tn.gov</a></b></p>
+	<p>For information on how to register a facility in TennIIS, to add or inactivate users, or to apply the standard user permissions.</p>
+	<hr />
+	<p><b><u>VOMS Vaccine Operations</u>&emsp;&emsp;<a href="mailto:TennIIS.VOMS@tn.gov" target="_blank">TennIIS.VOMS@tn.gov</a></b></p>
+	<p>For information regarding vaccine management including ordering, reconciliation, returns, permissions or the required VOMS training.</p>
+	<hr />
+	<p><b><u>Electronic Data Trading and Meaningful Use</u>&emsp;&emsp;<a href="mailto:TennIIS.MU@tn.gov" target="_blank">TennIIS.MU@tn.gov</a></b></p>
+	<p>For information on how to exchange data electronically with your Electronic Health Record (EHR) with TennIIS.</p>
+	<hr />
+	<p><b><u>TennIIS Training</u>&emsp;&emsp;<a href="mailto:TennIIS.Training@tn.gov" target="_blank">TennIIS.Training@tn.gov</a></b></p>
+	<p>To sign-up for a live TennIIS webinar training or to inquire about on-site training.</p>
+	<hr />
+	<p><b><u>VFC Enrollment and Operations</u>&emsp;&emsp;<a href="mailto:VFC.Enrollment@tn.gov" target="_blank">VFC.Enrollment@tn.gov</a></b></p>
+	<p>For general VFC enrollment questions or to update designated vaccine coordinators.</p>
+	<hr />
+	<p><b><u>VFC Quality Assurance</u>&emsp;&emsp;<a href="mailto:VFC.Help@tn.gov" target="_blank">VFC.Help@tn.gov</a></b></p>
+	<p>For information about proper vaccine storage, handling, temperature excursions and compliance.</p>
+  </div>
+  -->
+</div>
+<div>
+  &nbsp;
+</div>
+<div>
+   
+    
+</div>
+<div>
+  &nbsp;
+</div>
+<div>
+<p>
+  <b>Tennessee Immunization Program</b><br />
+  <b>Our Mission:</b> To protect people of all ages in Tennessee from vaccine-preventable diseases.<br />
+  <b>Our Values:</b> Credibility, Innovation, Accountability
+</p>
+<center><a href="http://tn.gov/health" target="_blank"><img src="./images/tdoh_logo.png" alt="TDH Logo" /></a></center>
+<p>
+  <b>Tennessee Department of Health</b><br />
+  <b>TDH Mission:</b> Protect, promote and improve the health and prosperity of people in Tennessee<br />
+  <b>TDH Vision:</b> A recognized and trusted leader, partnering and engaging to accelerate Tennessee to one of the nations 10 healthiest states
+</p>
+</div>
+<!-- ********************** END OF I_MAIN.INC CONTENT ********************** -->
+
+<!-- WEB-INF/jspf/standardFooter.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      <p style="clear:both;margin:0;padding:0;">&nbsp;</p>
+      
+    </div>
+    <div id="infoAlert" style="display:none;">
+      <div id="infoAlertHeader">
+        <a href="#" onclick="hideInfoAlert(true);" style="color:#FFFFFF">[X]</a> System Alert
+      </div>
+      <div id="infoAlertUserMessage"></div>
+    </div>
+    
+      <div id="bottomRoundGutter">
+        <table id="nospaces">
+        <tr>
+          <td style="width: 1%"><img src="/tnsiis/images/curveSW.gif" alt=""></td>
+          <td style="width: 98%" id="gutterBox">&nbsp;</td>
+          <td style="width: 1%"><img src="/tnsiis/images/curveSE.gif" alt=""></td>
+        </tr>
+        </table></div>
+      <div id="sessionExpiredContent" style="display:none;">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" class="white">
+  <thead>
+    <tr>
+      <th class="tabletitle">
+        Tennessee Web Immunization System
+      </th>
+    </tr>
+    <tr>
+      <th class="tablesubtitle" style="padding-left: .5em;">
+        Session Expired
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="lightgrey" style="padding-left: 1em; padding-right: 1em;">
+        <p>The current session has expired. To continue, please <a href="/tnsiis/login.jsp;jsessionid=AE3F3D2845C2D8D51F1B273D0ADB4C42">login again</a>.
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+      </div>
+    
+  </body>
+</html>
+

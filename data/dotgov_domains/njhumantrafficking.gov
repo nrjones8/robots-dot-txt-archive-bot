@@ -1,0 +1,838 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0018)http://www.nj.gov/ -->
+<HTML lang=EN xml:lang="EN" xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>State of New Jersey</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META 
+content="The state of New Jersey's official Web site is the gateway to NJ information and services for residents, visitors, and businesses." 
+name=Description>
+<META 
+content="New Jersey, NJ home page, State of New Jersey home page, New Jersey information and services" 
+name=Keywords><LINK href="../../OAGweb_NEW/State%20of%20New%20Jersey_files/stylesnn.css" type=text/css 
+rel=stylesheet>
+<SCRIPT language=JavaScript type=text/javascript>
+<!--
+function wJump(targ) {
+    var newURL = targ;
+    var x = 650;
+    var y = 400;
+    var secPrefix = "";
+    var wcfg = "Height=" + y + ",width=" + x +
+        ",status=yes,location=yes,menubar=yes,toolbar=yes,resizable=yes,scrollbars=yes";
+    newUrl = secPrefix + newURL;
+    newWin = window.open(newURL, "new", config=wcfg);
+    newWin.focus();
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+// CPF - 07/19/2006 Insert the following function in the SCRIPT section.  It resets form elements so droplist is not selected.:  -->
+function resetAll()
+{
+    for (var i=0; i < document.forms.length; i++)
+    {
+        for(var j = 0; j < document.forms[i].length; j++)
+        {
+            if(document.forms[i][j].type.indexOf("select") > -1 &&
+                              document.forms[i][j].selectedIndex)
+                return document.forms[i][j].selectedIndex = 0;
+        }
+    }
+
+} 
+// CPF - 07.19/2006 - end of resetAll function.
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.2873" name=GENERATOR>
+<style type="text/css">
+<!--
+@import url(../../stylesnn.css);
+.pulldown {	FONT-SIZE: 10pt; FONT-FAMILY: "Times New Roman", Times, serif; BACKGROUND-COLOR: #ffffff
+}
+.style2 {font-size: 12pt; font-family: "Arial Narrow";}
+.news-date-black {	color: #000000;
+}
+-->
+</style>
+</HEAD>
+
+<!-- CPF - 07/19/2006 Add  "resetAll(); document.seek.qt.focus(); " to the front of the functions called in "onLoad" -->
+
+<BODY onLoad="resetAll(); document.seek.qt.focus();MM_oag_preloadImages('../OAGweb_NEW/HeadSlices/home_left_over.gif','http://nj.gov/oag/images/navt/oag_home_left_over.gif','http://nj.gov/oag/images/navt/oag_contact_over.gif','http://nj.gov/oag/images/navl/abc_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/abc_over.gif','http://nj.gov/oag/images/navl/dca_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dca_over.gif','http://nj.gov/oag/images/navl/dcj_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dcj_over.gif','http://nj.gov/oag/images/navl/dcr_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dcr_over.gif','http://nj.gov/oag/images/navl/dge_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dge_over.gif','http://nj.gov/oag/images/navl/dhts_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dhts_over.gif','http://nj.gov/oag/images/navl/doe_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/doe_over.gif','http://nj.gov/oag/images/navl/dol_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/dol_over.gif','http://nj.gov/oag/images/navl/jjc_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/jjc_over.gif','http://nj.gov/oag/images/navl/njrc_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/njrc_over.gif','http://nj.gov/oag/images/navl/njsp_over.gif','http://nj.gov/oag/OAGweb_NEW/LeftNavSlices/njsp_over.gif','http://nj.gov/oag/images/navr/contact_over.gif','http://nj.gov/oag/images/navr/news_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/news_over.gif','http://nj.gov/oag/images/navr/about_over.gif','http://nj.gov/oag/images/navr/faqs_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/faqs_over.gif','http://nj.gov/oag/images/navr/library_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/library_over.gif','http://nj.gov/oag/images/navr/employment_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/employment_over.gif','http://nj.gov/oag/images/navr/grants_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/grants_over.gif','http://nj.gov/oag/images/navr/regulations_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/regulations_over.gif','http://nj.gov/oag/images/navr/history_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/history_over.gif','http://nj.gov/oag/OAGweb_NEW/RightNavSlices/services_over.gif','http://nj.gov/oag/images/navt/oag_home_right_over.gif','http://nj.gov/oag/images/navt/dcj_director_over.gif','http://nj.gov/oag/images/navr/services_over.gif','http://nj.gov/oag/images/navr/agencies_over.gif');MM_preloadImages('../images/dcj_cover_violent_over.gif','../images/dcj_cover_identity_over.gif','../images/navt/dcj_oag_home_right_over.gif','../images/dcj_cover_grang_over.gif','../images/dcj_cover_Megan_over.gif','../grants/images/navr/dcj_home_over.gif','../images/navr/dcj_home_over.gif','../images/navr/dcj_news_over.gif','../images/navr/dcj_report_over.gif','../images/navr/dcj_units_over.gif','../images/navr/dcj_services_over.gif','../../OAGweb_NEW/HeadSlices/oag_home_left_over.gif','../../OAGweb_NEW/LeftNavSlices/abc_over.gif','../../OAGweb_NEW/LeftNavSlices/dca_over.gif','../../OAGweb_NEW/LeftNavSlices/dcj_over.gif','../../OAGweb_NEW/LeftNavSlices/dcr_over.gif','../../OAGweb_NEW/LeftNavSlices/dge_over.gif','../../OAGweb_NEW/LeftNavSlices/dhts_over.gif','../../OAGweb_NEW/LeftNavSlices/dol_over.gif','../../OAGweb_NEW/LeftNavSlices/jjc_over.gif','../../OAGweb_NEW/LeftNavSlices/njrc_over.gif','../../OAGweb_NEW/LeftNavSlices/njsp_over.gif','../images/navr/dcj_contact_over.gif','../images/navr/dcj_about_over.gif','../images/navr/dcj_employment_over.gif','../images/navr/dcj_faqs_over.gif','../images/navr/dcj_grants_over.gif','../images/navr/dcj_rules_over.gif','../images/navr/dcj_library_over.gif','../images/navr/dcj_enforcement_over.gif','../grants/images/navt/oifp_contact_over.gif','../grants/images/navt/oifp_news_over.gif','../grants/images/navt/oifp_reportfraud_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_guidelines_over.gif','http://nj.gov/oag/images/navl/sacb_over.gif','http://nj.gov/oag/images/navl/vcco_over.gif','images/main-nav-images/httf-main-nav_r1_c1_f2.gif','images/main-nav-images/httf-main-nav_r1_c2_f2.gif','images/main-nav-images/httf-main-nav_r1_c3_f2.gif','http://www.nj.gov/oag/dcj/images/navt/dcj_oag_home_right_over.gif','http://www.nj.gov/oag/dcj/images/navt/dcj_director_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_home_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_report_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_news_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_contact_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_about_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_employment_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_faqs_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_grants_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_rules_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_library_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_services_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_enforcement_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_appellate_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_corruption_over.gif','images/navl/dcj_financial_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_gang_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_prosecutor_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_specialized_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_trafficking_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_vws_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_bias_over.gif','http://www.nj.gov/oag/dcj/images/navl/dcj_grants_over.gif','http://www.nj.gov/oag/insurancefraud/images/navl/OIFP_s2.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_bureaus_over.gif','http://www.nj.gov/oag/dcj/images/navr/dcj_sitemap_over.gif','event/images/2015-Regional-HT-Conference-over2.jpg','event/images/2015-Regional-HT-Conference-over1.jpg','images/ht-day-banner-Jan-29-2016_flyer.jpg','images/ht-day-banner-Jan-29-2016_agenda.jpg','images/ht-day-banner-Jan-29-2016_details.jpg')">
+<!-- CPF - 07/19/2006 -->
+<TABLE cellSpacing=0 cellPadding=0 width=700 align=center border=0>
+  <TR> 
+    <TD> <TABLE cellSpacing=0 cellPadding=0 width=700 align=center border=0>
+        <TR> 
+          <TD bgColor=#ec890a><A href="http://www.nj.gov/#mainNavigation"><IMG 
+            height=1 alt="Skip to main navigation" 
+            src="http://nj.gov/oag/OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" width=1 border=0></A><A 
+            href="http://www.nj.gov/#News"><IMG height=1 
+            alt="Skip to News Headlines" 
+            src="http://nj.gov/oag/OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" width=1 
+        border=0></A></TD>
+        </TR>
+        <TR> 
+          <TD><IMG height=10 alt="" src="http://nj.gov/oag/OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" 
+            width=1></TD>
+        </TR>
+        <TR> 
+          <TD> <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+              <TBODY>
+                <TR> 
+                  <TD vAlign=bottom width=357><img src="http://www.nj.gov/oag/images/navt/state_head.gif" width="319" height="43" border="0" usemap="#MapMap"></TD>
+                  <TD width=343> <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                      <TBODY>
+                        <TR> 
+                          <TD vAlign=bottom> <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                              <TBODY>
+                                <TR align=right> 
+                                  <FORM id=seek name=seek 
+                            action=https://www.nj.gov/search/ 
+                            method=get align="middle">
+                                    <TD vAlign=bottom><LABEL 
+                              title="enter search words here" for=qt><SPAN 
+                              class=headerSearch>Search </SPAN> 
+                                      <INPUT 
+                              class=search id=qt maxLength=2033 size=18 
+                              name=qt>
+                                      </LABEL> <INPUT type=image 
+                              alt="submit search" 
+                              src="http://www.nj.gov/oag/images/search_arrow.gif" 
+                              align=middle border=0 name=submit> </TD>
+                                  </FORM>
+                                </TR>
+                              </TBODY>
+                            </TABLE></TD>
+                        </TR>
+                      </TBODY>
+                    </TABLE>
+                    <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                      <TBODY>
+                        <TR> 
+                          <TD vAlign=top><IMG height=22 alt="Global Navigation" 
+                        src="http://www.nj.gov/oag/images/global_top_nav_short.gif" 
+                        width=339 align=right useMap=#GlobalNavigation border=0> 
+                          </TD>
+                        </TR>
+                      </TBODY>
+                    </TABLE></TD>
+                </TR>
+                <TR> 
+                  <TD colspan="2" vAlign=bottom><a href="http://nj.gov/oag/"><img src="http://www.nj.gov/oag/images/navt/deparment_head.gif" alt="Office of The Attorney General" width="700" height="17" border="0"></a></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            <map name="MapMap">
+              <area shape="rect" coords="55,7,189,20" href="http://www.nj.gov/" alt="The State of New Jersey">
+              <area shape="rect" coords="40,18,310,36" href="http://nj.gov/oag/" alt="Office of The Attorney General (Dept. of Law &amp; Public Safety)">
+              <area shape="circle" coords="21,21,17" href="http://www.nj.gov/" alt="The State of New Jersey">
+            </map> <map name="GlobalNavigation">
+              <area shape="rect" coords="2,2,60,20" href="http://www.nj.gov/" alt="NJ Home">
+              <area shape="rect" coords="64,2,157,20" href="http://www.nj.gov/nj/govinfo/njgov/alphaserv.html" alt="Services A to Z">
+              <area shape="rect" coords="161,2,296,20" href="http://www.nj.gov/nj/deptserv.html" alt="Departments/Agencies">
+              <area shape="rect" coords="299,2,341,20" href="http://www.nj.gov/faqs/index.html" alt="OAG Frequently Asked Questions">
+            </map> 
+            <TABLE cellSpacing=0 cellPadding=0 width=700 border=0>
+              <TBODY>
+                <!-- CPF - 07/19/2006 Give the droplist forms a name and ID.: -->
+              <form id=droplist name=droplist>
+                <!-- CPF - 07/19/2006 -->
+                <TR> 
+                  <TD width="151" vAlign=top><table width="150" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <th colspan="2" scope="col"><a href="http://nj.gov/oag/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('oag home left','','../../OAGweb_NEW/HeadSlices/oag_home_left_over.gif',1)"></a><a href="C:\Documents and Settings\lpapina\My Documents\Desktop\State of New Jersey (better).htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('oag_home_left','','../../OAGweb_NEW/HeadSlices/oag_home_left_over.gif',1)"></a><a href="http://www.nj.gov/oag" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('oag home left','','http://nj.gov/oag/images/navt/oag_home_left_over.gif',1)"><img src="http://nj.gov/oag/images/navt/oag_home_left_off.gif" alt="OAG Home" name="oag home left" width="150" height="35" border="0"></a><a href="http://nj.gov/oag/"></a></th>
+                    </tr>
+                    <tr>
+                      <td width="60"><a href="http://www.nj.gov/oag"><img src="http://nj.gov/oag/images/navt/oag_home.gif" width="60" height="25" border="0"></a></td>
+                      <td width="86"><a href="http://www.nj.gov/oag/contactus.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('oag contact left','','http://nj.gov/oag/images/navt/oag_contact_over.gif',1)"><img src="http://nj.gov/oag/images/navt/oag_contact_off.gif" alt="OAG Contact" name="oag contact left" width="90" height="25" border="0"></a><a href="C:\Documents and Settings\lpapina\My Documents\Desktop\State of New Jersey_SP.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('oag_contact','','../../OAGweb_NEW/HeadSlices/oag_contact_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/abc" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('abc','','http://nj.gov/oag/images/navl/abc_over.gif',1)"><img src="http://nj.gov/oag/images/navl/abc_off.gif" alt="Division of Alcoholic Beverage Control" name="abc" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/abc/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('abc','','../../OAGweb_NEW/LeftNavSlices/abc_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/ca/home.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dca','','http://nj.gov/oag/images/navl/dca_over.gif',1)"><img src="http://nj.gov/oag/images/navl/dca_off.gif" alt="Division of Consumer Affairs" name="dca" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/ca/home.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dca','','../../OAGweb_NEW/LeftNavSlices/dca_over.gif',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','../../OAGweb_NEW/LeftNavSlices/DCJ.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcj'http://www.nj.gov/oag/dcj/images/navl/dcj_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_on.gif" alt="Division of Criminal Justice" name="dcj" width="150" height="20" border="0"></a><a href="http://www.njdcj.org/index.shtml" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcj','','../../OAGweb_NEW/LeftNavSlices/dcj_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/agencies.html"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_bureaus.gif" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.njdcj.org/appel.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image107','','http://www.nj.gov/oag/dcj/images/navl/dcj_appellate_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_appellate_off.gif" alt="Appellate Bureau" name="Image107" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/corruption-fraud.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image118','','http://www.nj.gov/oag/dcj/images/navl/dcj_corruption_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_corruption_off.gif" alt="Public Corruption / Crime" name="Image118" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/financial-computer.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image109','','images/navl/dcj_financial_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_financial_off.gif" alt="Financial and Computer Crimes Bureau" name="Image109" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/gangs-organized.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('corruption61','','http://www.nj.gov/oag/dcj/images/navl/dcj_gang_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_gang_off.gif" alt="Gang Awareness / Enforcement" name="corruption61" width="150" height="20" border="0" id="corruption61"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/prosecutors-supervision.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image111','','http://www.nj.gov/oag/dcj/images/navl/dcj_prosecutor_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_prosecutor_off.gif" alt="Prosecutors Supervision and Training Bureau" name="Image111" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/specialized-crimes.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image112','','http://www.nj.gov/oag/dcj/images/navl/dcj_specialized_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_specialized_off.gif" alt="Specialized Crimes Bureau" name="Image112" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/services.html"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_services.gif" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/humantrafficking/" target="_blank" onMouseOver="MM_swapImage('Image113','','http://www.nj.gov/oag/dcj/images/navl/dcj_trafficking_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_trafficking_over.gif" alt="Human Trafficking Task Force" name="Image113" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/victimwitness/" target="_blank" onMouseOver="MM_swapImage('Image116','','http://www.nj.gov/oag/dcj/images/navl/dcj_vws_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_vws_off.gif" alt="Victim Witness Services" name="Image116" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/bias-crime.html" target="_blank" onMouseOver="MM_swapImage('bias','','http://www.nj.gov/oag/dcj/images/navl/dcj_bias_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_bias_off.gif" alt="Bias Crime / Bullying" name="bias" width="150" height="20" border="0" id="corruption2"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcj/grants" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image117','','http://www.nj.gov/oag/dcj/images/navl/dcj_grants_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navl/dcj_grants_off.gif" alt="Grants" name="Image117" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/dcr" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcr','','http://nj.gov/oag/images/navl/dcr_over.gif',1)"><img src="http://nj.gov/oag/images/navl/dcr_off.gif" alt="Division on Civil Rights" name="dcr" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/dcr/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcr','','../../OAGweb_NEW/LeftNavSlices/dcr_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/ge" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dge','','http://nj.gov/oag/images/navl/dge_over.gif',1)"><img src="http://nj.gov/oag/images/navl/dge_off.gif" alt="Division of Gaming Enforcement" name="dge" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/ge/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dge','','../../OAGweb_NEW/LeftNavSlices/dge_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/hts" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dhts','','http://nj.gov/oag/images/navl/dhts_over.gif',1)"><img src="http://nj.gov/oag/images/navl/dhts_off.gif" alt="Division of Highway Traffic Safety" name="dhts" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/hts/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dhts','','../../OAGweb_NEW/LeftNavSlices/dhts_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.njinsurancefraud.com"><img src="http://www.nj.gov/oag/insurancefraud/images/navl/OIFP_s1.gif" alt="Office of the Insurance Fraud Prosecutor" width="150" height="20" border="0" id="Image6" onMouseOver="MM_swapImage('Image6','','http://www.nj.gov/oag/insurancefraud/images/navl/OIFP_s2.gif',1)" onMouseOut="MM_swapImgRestore()"></a><a href="index.html"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="http://www.nj.gov/oag/jjc/jjchome.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('jjc','','http://nj.gov/oag/images/navl/jjc_over.gif',1)"><img src="http://nj.gov/oag/images/navl/jjc_off.gif" alt="Juvenile Justice Commission" name="jjc" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/law/home.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dol','','../../OAGweb_NEW/LeftNavSlices/dol_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+                      <td colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('jjc','','http://nj.gov/oag/images/navl/doe_over.gif',1)"></a><a href="http://www.nj.gov/oag/law/home.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dol','','http://nj.gov/oag/images/navl/dol_over.gif',1)"><img src="http://nj.gov/oag/images/navl/dol_off.gif" alt="Division of Law" name="dol" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/jjc/jjchome.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('jjc','','../../OAGweb_NEW/LeftNavSlices/jjc_over.gif',1)"></a></td>
+                    </tr>
+                    <tr>
+  <td colspan="2"><a href="http://www.nj.gov/oag/racing/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('njrc','','../images/navl/njrc_over.gif',1)"><img src="../images/navl/njrc_off.gif" alt="NJ Racing Commission" name="njrc" width="150" height="20" border="0"></a><a href="http://www.nj.gov/oag/racing/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('njrc','','../OAGweb_NEW/LeftNavSlices/njrc_over.gif',1)"></a></td>
+</tr>
+<tr>
+  <td height="20" colspan="2"><a href="http://nj.gov/oag/opia/" onMouseOver="MM_swapImage('opia','','http://nj.gov/oag/images/navl/opia_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="https://nj.gov/oag/images/navl/opia_off.gif" alt="Public Integrity and Accountablity" name="opia" width="150" height="20" border="0" id="opia"></a></td>
+</tr>
+					  
+                    <tr>
+                      <td height="20" colspan="2"><a href="http://nj.gov/oag/sacb/" onMouseOver="MM_swapImage('njsp1','','http://nj.gov/oag/images/navl/sacb_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://nj.gov/oag/images/navl/sacb_off.gif" alt="State Athletic Control Board" name="njsp1" width="150" height="20" border="0" id="njsp1"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="20" colspan="2"><a href="http://www.nj.gov/oag/njsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('njsp','','http://nj.gov/oag/images/navl/njsp_over.gif',1)"><img src="http://nj.gov/oag/images/navl/njsp_off.gif" alt="Division of NJ State Police" name="njsp" width="150" height="20" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="20" colspan="2"><a href="C:\Documents and Settings\lpapina\My Documents\Desktop\State of New Jersey_SP.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('njsp','','../../OAGweb_NEW/LeftNavSlices/njsp_over.gif',1)"></a><a href="http://nj.gov/oag/njvictims/" onMouseOver="MM_swapImage('njsp2','','http://nj.gov/oag/images/navl/vcco_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://nj.gov/oag/images/navl/vcco_off.gif" alt="Victims of Crime Compensation Office" name="njsp2" width="150" height="20" border="0" id="njsp2"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="8" colspan="2"><span class="OLEPS"><img src="http://www.nj.gov/oag/images/spacer.gif" alt="spacer" width="66" height="18"></span></td>
+                    </tr>
+                    <tr>
+                      <td height="61" colspan="2"><a href="http://nj.gov/oag/harvey.html"><img src="http://nj.gov/oag/images/harvey-ani.gif" alt="Hurricane Harvey" width="150" height="150" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="8" colspan="2"><span class="OLEPS"><img src="http://www.nj.gov/oag/images/spacer.gif" alt="spacer" width="66" height="8"></span></td>
+                    </tr>
+                    <tr>
+                      <td height="61" colspan="2"><a href="http://www.nj.gov/oag/opra"><img src="http://nj.gov/oag/images/opra_logo2.gif" alt="OPRA - Open Public Records Act" width="150" height="60" border="0"></a></td>
+                    </tr>
+                    <tr>
+                      <td height="16" colspan="2"><a href="nonprofit-resources.html"><img src="http://www.nj.gov/oag/images/npo_logo_150px.jpg" width="150" height="67" border="0"></a></td>
+                    </tr>
+                  </table></TD>
+                  <TD width="368" vAlign=top><table width="382" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <th width="385" scope="col"><table width="385" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <th width="178" colspan="3" scope="col"><table width="385" border="0" cellspacing="0" cellpadding="0">
+                                  <tr> 
+                                    <th colspan="3" scope="col"><img src="http://www.nj.gov/oag/dcj/images/dcj_oag_drop_down_top.gif" width="385" height="10"></th>
+                                  </tr>
+                                  <tr> 
+                                    <td width="1" bgcolor="#999999"><IMG height=25 alt="" 
+            src="../OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" width=1></td>
+                                    <td width="206" align="left" bgcolor="#999999"><span class="botlinks"> 
+                                      <select name="selectname" size="1" class="bottext" id="select6" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+                                        <option selected>Services from A - Z</option>
+                                        <option value="services.htm">- Full Alphabetical 
+                                        Listing</option>
+                                        <option>Highlighted Categories:</option>
+                                        <option value="http://nj.gov/oag/agencies.htm">- 
+                                        Agencies / Boards / Programs</option>
+                                        <option value="http://www.nj.gov/oag/services_liq.htm">- 
+                                        Alcohol / Drugs / Tobacco</option>
+                                        <option value="http://www.nj.gov/oag/services_comcom.htm">- 
+                                        Compliments / Complaints</option>
+                                        <option value="http://www.nj.gov/oag/services_consumer.html">- 
+                                        Consumer Related</option>
+                                        <option value="http://www.nj.gov/oag/services_crim.htm">- 
+                                        Crime / Fraud</option>
+                                        <option value="http://www.nj.gov/oag/services_elec.htm">- 
+                                        Elections / Voting</option>
+                                        <option value="http://www.nj.gov/oag/services_gamb.htm">- 
+                                        Gambling / Horse Racing</option>
+                                        <option value="http://www.nj.gov/oag/services_law.htm">- 
+                                        Law / Law Enforcement</option>
+                                        <option value="http://www.nj.gov/oag/services_lic.htm">- 
+                                        Licenses / Permits</option>
+                                        <option value="http://nj.gov/oag/opra/opra_lps_home.htm">- 
+                                        Open Public Records Act</option>
+                                        <option value="http://www.nj.gov/oag/services_rights.htm">- 
+                                        Rights</option>
+                                        <option value="http://www.nj.gov/oag/services_safe.htm">- 
+                                        Safety / Security</option>
+                                        <option value="http://nj.gov/oag/services_arms.htm">- 
+                                        Weapons / Firearms</option>
+                                        <option value="http://nj.gov/oag/services_new.htm">- 
+                                        What's New?</option>
+                                      </select>
+                                      </span></td>
+                                    <td width="178" align="right" bgcolor="#999999"><a href="http://www.nj.gov/oag/dcj"><img src="http://www.nj.gov/oag/dcj/images/dcj_oag_drop_down_bottom.gif" alt="Division of Criminal Justice" width="75" height="25" border="0"></a></td>
+                                  </tr>
+                                </table></th>
+                            </tr>
+                          </table></th>
+                      </tr>
+                      <tr> 
+                        <td><a href="http://www.nj.gov/oag/dcj"><img src="http://www.nj.gov/oag/dcj/images/dcj_head.gif" alt="Division of Criminal Justice" width="385" height="25" border="0"></a></td>
+                      </tr>
+                    </table>
+                    <table width="384" border="0" cellpadding="0" cellspacing="0">
+                      <tr> 
+                        <td width="384" height="18" colspan="8" align="left"><a href="index.html"><img src="images/HTTF-Header4-ani.gif" alt="NJ Statewide Human Trafficking Task Force" width="385" height="84" border="0"></a></td>
+                      </tr>
+                      <tr bgcolor="#E1EDF7"> 
+                        <td height="3" colspan="8" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="380">
+                            <!-- fwtable fwsrc="mfcu-main-nav.png" fwbase="main-nav.jpg" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                            <tr> 
+                              <td colspan="2"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" width="13" height="6"></span></td>
+                            </tr>
+                            <tr> 
+                              <td><table border="0" cellpadding="0" cellspacing="0" width="200">
+                                  <!-- fwtable fwsrc="httf-main-nav.png" fwbase="httf-main-nav.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                                  <tr> 
+                                    <td><img src="images/main-nav-images/spacer.gif" alt="" name="undefined_2" width="40" height="1" border="0"></td>
+                                    <td><img src="images/main-nav-images/spacer.gif" alt="" name="undefined_2" width="50" height="1" border="0"></td>
+                                    <td><img src="images/main-nav-images/spacer.gif" alt="" name="undefined_2" width="110" height="1" border="0"></td>
+                                    <td><img src="images/main-nav-images/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0"></td>
+                                  </tr>
+                                  <tr> 
+                                    <td><a href="http://www.nj.gov/oag/dcj/humantrafficking/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('httfmainnav_r1_c1','','images/main-nav-images/httf-main-nav_r1_c1_f2.gif',1);"><img name="httfmainnav_r1_c1" src="images/main-nav-images/httf-main-nav_r1_c1_f2.gif" width="40" height="25" border="0" alt="NJ Statewide Human Trafficking Task Force Home"></a></td>
+                                    <td><a href="http://www.nj.gov/oag/dcj/humantrafficking/contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('httfmainnav_r1_c2','','images/main-nav-images/httf-main-nav_r1_c2_f2.gif',1);"><img name="httfmainnav_r1_c2" src="images/main-nav-images/httf-main-nav_r1_c2.gif" width="50" height="25" border="0" alt="Contact the NJ Statewide Human Trafficking Task Force "></a></td>
+                                    <td><a href="http://www.nj.gov/oag/dcj/humantrafficking/help-resources.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('httfmainnav_r1_c3','','images/main-nav-images/httf-main-nav_r1_c3_f2.gif',1);"><img name="httfmainnav_r1_c3" src="images/main-nav-images/httf-main-nav_r1_c3.gif" width="110" height="25" border="0" alt="NJ Statewide Human Trafficking Task Force Help & Resources"></a></td>
+                                    <td><img src="images/main-nav-images/spacer.gif" alt="" name="undefined_2" width="8" height="25" border="0"></td>
+                                  </tr>
+                                </table></td>
+                              <td width="186" colspan="-2"><div align="center"><span class="botlinks">
+                                <select name="select2" class="bottext" id="select" onChange="window.open(this.options[this.selectedIndex].value,'_top')">
+                                  <option selected>HTTF Main Menu</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/index.html">- HTTF Home</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/how-to-id-victims.html">- How to ID Victims</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/faq.html">- HTTF FAQs</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/terminology.html">- Terminology</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/contact.html">- Contact HTTF</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/events.html">- Events</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/news.html">- News</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/resources-links.html">- Resources / Links</option>
+                                  <option value="http://www.nj.gov/oag/dcj/humantrafficking/liaisons.html">- HTTF Liaison List</option>
+                                </select>
+                              </span></div></td>
+                            </tr>
+                            <tr> 
+                              <td height="6" colspan="2"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" width="13" height="6"></span></td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr bgcolor="#E1EDF7"> 
+                        <td height="3" colspan="8" align="left" valign="top" bgcolor="#FCF1DA"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" width="15" height="9"></span></td>
+                      </tr>
+                      <tr> 
+                        <td height="18" colspan="8" align="left" valign="top" bgcolor="#FCF1DA"> 
+                          <table width="96%" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#E1F0FF">
+                            <tr bgcolor="#FCF1DA">
+                              <td width="16" height="9" valign="top"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="15" height="9"></span></td>
+                              <td width="344" valign="top"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="5" height="9"></span></td>
+                              <td width="11"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="11" height="9"></span></td>
+                            </tr>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><table width="344" border="0" cellspacing="2" cellpadding="0">
+                                <tr>
+                                  <td>&nbsp;</td>
+                                </tr>
+                                <tr>
+                                  <td width="297"><font size="2" face="Arial, Helvetica, sans-serif"><strong>We 
+                                    are committed to combating the crime of Human 
+                                    Trafficking through <font color="#993300">education</font>, <font color="#993300">collaboration</font> and <font color="#993300">prosecution.</font></strong></font></td>
+                                </tr>
+                                <tr>
+                                  <td align="right"><font size="2" face="Arial, Helvetica, sans-serif"><a href="moreaboutus.html">View Our Goals...</a></font></td>
+                                </tr>
+                                <tr>
+                                  <td><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="spacer" width="15" height="9"></span></td>
+                                </tr>
+                                <tr>
+                                  <td><font color="#993300" size="2" face="Arial, Helvetica, sans-serif"><strong>A 
+                                    victim of trafficking may look like many of 
+                                    the people you see every day. </strong></font><font size="2" face="Arial, Helvetica, sans-serif">Ask 
+                                      the right questions and look for clues. You 
+                                      are vital because you may be the only outsider 
+                                      with the opportunity to speak to a victim.</font></td>
+                                </tr>
+                              </table></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5" align="left" valign="middle">&nbsp;</td>
+                              <td align="left" valign="middle"><hr></td>
+                              <td align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td valign="top"><font color="#993300" size="4" face="Arial, Helvetica, sans-serif">Upcoming Events <span class="secondLevelTitleFirst"><a href="events.html">more  events...</a></span></font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9" align="left" valign="top"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="15" height="9"></span></td>
+                              <td align="left" valign="top" bgcolor="#FCF1DA"><table width="100%" border="0" cellspacing="1" cellpadding="7">
+                                <tr>
+                                  <td align="left" valign="top" bgcolor="#990066"><span class="titleWhiteHome">SAVE THE DATE! January  24, 2020</span></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" valign="top" bgcolor="#FFCCCC"><strong><a href="event/JOIN-US-HT-Day-STD-2020-0124.pdf" target="_blank">NJ&rsquo;s Tenth Annual Human Trafficking<br>
+                                    Awareness Event: <em>Child Abuse and Missed Opportunities -  Precursor to Human Trafficking</em></a></strong><em><br>
+                                      <strong><IMG alt="" src="../images/spacer.gif" width="15" height="7"></strong><IMG alt="" src="../images/spacer.gif" width="5" height="8"><br>
+                                      - <span class="mainText"> The War Memorial - Trenton, NJ</span><br>
+                                      - </em><span class="mainText"> <a href="event/JOIN-US-HT-Day-STD-2020-0124.pdf" target="_blank">View &quot;Save the Date&quot; Announcement</a></span><br>
+                                    <em>- </em><span class="mainText"> <a href="https://www.nj.gov/oag/dcj/humantrafficking/register/" target="_blank">REGISTER HERE</a></span><br>
+                                    <ul>
+                                      <li class="mainText"> 9:00 &ndash; Doors open, registration, table visits</li>
+                                      <li class="mainText">10:00 &ndash; Program begins</li>
+                                      <li class="mainText">12:00 &ndash; Table visits/Networking</li>
+                                    </ul>
+                                    <span class="mainText"><strong><em>No reserve seating, or Seating is First-Come,  First-Serve<br>
+                                      <strong><IMG alt="" src="../images/spacer.gif" width="15" height="7"></strong><br>
+                                      Please check often. More information will follow as it becomes available</em>.</strong></span><span class="mainText"><strong><br>
+                                      </strong></span></td>
+                                </tr>
+                              </table></td>
+                              <td align="left" valign="top"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="11" height="9"></span></td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td align="left" valign="top"><font color="#993300" size="4" face="Arial, Helvetica, sans-serif"> <span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="203" height="10"></span><span class="secondLevelTitleFirst"><a href="events.html">more  events...</a></span></font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5" align="left" valign="middle">&nbsp;</td>
+                              <td align="left" valign="middle"><hr></td>
+                              <td align="left" valign="middle">&nbsp;</td>
+                            </tr>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td class="bottext"><a href="#news">In the News</a> I <a href="#awareness">Multi Media and Awareness</a></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td valign="top"><a name="news"></a></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td valign="top"><font color="#993300" size="4" face="Arial, Helvetica, sans-serif">In the News <span class="secondLevelTitleFirst"><a href="news.html">more news...</a></span></font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+                                    <tr>
+                                      <td align="left" valign="top"><span style="font-style: normal; font-weight: normal; text-decoration: none;"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif"><strong>4</strong></font></span></span></span><span class="pagetxt"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif"><strong>/13 </strong></font></span></span></span><span style="font-style: normal; font-weight: normal; text-decoration: none;"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif">- </font></span></span></span><span class="release-title"><a href="https://www.justice.gov/opa/pr/justice-department-honors-new-jersey-human-trafficking-victim-advocate" target="_blank">Justice Department Honors New Jersey Human Trafficking Victim Advocate</a></span> <br>                                        <span class="carrotSecondLevel">- Department of Justice - Office of Public Affairs</span></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+                                    <tr>
+                                      <td align="left" valign="top"><iframe width="335" height="175" src="https://www.youtube.com/embed/Uina-cTYudQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                                <tr>
+                                  <td align="left" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="5" cellpadding="0">
+                                    <tr>
+                                      <td align="left" valign="top" class="bottext"><em>Dawne Lomangino-DiMauro - 2018 National Crime Victims' Service Awards </em></td>
+                                    </tr>
+                                  </table></td>
+                                </tr>
+                              </table></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><span style="font-style: normal; font-weight: normal; text-decoration: none;"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif"><strong>4</strong></font></span></span></span><span class="pagetxt"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif"><strong>/11 </strong></font></span></span></span><span style="font-style: normal; font-weight: normal; text-decoration: none;"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif">- </font></span></span></span><span class="release-title"><a href="http://nj.gov/oag/newsreleases18/pr20180411a.html">Indictment Charges Trenton,  N.J., Couple With Human Trafficking for Allegedly Forcing Girl,  17, to Work as Prostitute at Area Hotels <br>
+                              </a></span></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><span class="pagetxt"><span class="release-title"><span class="release-subhead"><strong><font size="2" face="Arial, Helvetica, sans-serif">2</font></strong><font size="2" face="Arial, Helvetica, sans-serif"><strong>/9</strong></font></span></span></span><span style="font-style: normal; font-weight: normal; text-decoration: none;"><span class="release-title"><span class="release-subhead"><font size="2" face="Arial, Helvetica, sans-serif"> - </font></span></span></span><span class="release-title"><a href="http://nj.gov/oag/newsreleases18/pr20180209e.html">Man Pleads  Guilty and Faces Lengthy Prison Sentence for Trafficking Girl, 17, as  Prostitute in South Jersey Motels</a></span><span class="pagetxt"><span class="release-title"><span class="release-subhead"><br>
+                              </span></span></span></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><font color="#993300" size="4" face="Arial, Helvetica, sans-serif"> <span class="secondLevelTitleFirst"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="221" height="2"></span>more news...</span></font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><img src="images/12.05.2018-Taggart-Pic-Cap.jpg" alt="National Night Out 2018" width="345" height="577"></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td><img src="images/NNO-2018-Pic-Cap.jpg" alt="National Night Out 2018" width="345" height="640"></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr valign="top" bgcolor="#FCF1DA">
+                              <td height="9">&nbsp;</td>
+                              <td>&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td valign="top"><font color="#993300" size="4" face="Arial, Helvetica, sans-serif"> <span class="secondLevelTitleFirst"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="173" height="12"></span><a href="#top">top</a></span></font></td>
+                              <td>&nbsp;</td>
+                            </tr>
+                            <TR bgColor="#fcf1da">
+                              <TD height="9"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD vAlign="top"><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                              <TD><IMG alt="" src="../images/spacer.gif" width="5" height="9"></TD>
+                            </TR>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="15" height="9"></span></td>
+                              <td valign="top"><table width="99%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td bgcolor="#660000"><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="15" height="9"></span></td>
+                                </tr>
+                              </table></td>
+                              <td><span class="botlinks"><img src="../njmedicaidfraud/images/spacer.gif" alt="" width="11" height="9"></span></td>
+                            </tr>
+                            <tr bgcolor="#FCF1DA">
+                              <td height="5">&nbsp;</td>
+                              <td valign="top">&nbsp;</td>
+                              <td>&nbsp;</td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table></TD>
+                  <TD width="181" vAlign=top><table width="165" border="0" cellspacing="0" cellpadding="0">
+                      <tr> 
+                        <td width="167" colspan="2"><table width="150" border="0" cellspacing="0" cellpadding="0">
+                            <tr> 
+                              <th width="115" align="left" valign="top" scope="col"><a href="http://www.nj.gov/oag" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image96','','http://www.nj.gov/oag/dcj/images/navt/dcj_oag_home_right_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navt/dcj_oag_home_right_off.gif" alt="OAG Home" name="Image96" width="115" height="35" border="0"></a></th>
+                              <th width="35" rowspan="2" align="left" valign="top" scope="col"><a href="http://www.njdcj.org/dir_bio.htm"><img src="http://www.nj.gov/oag/dcj/images/navt/dcj_director.gif" width="50" height="60" border="0"></a></th>
+                            </tr>
+                            <tr> 
+                              <td align="left" valign="top"><a href="http://www.njdcj.org/dir_bio.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcj director bio','','http://www.nj.gov/oag/dcj/images/navt/dcj_director_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navt/dcj_director_off.gif" alt="Division of Criminal Justice Director's Biography" name="dcj director bio" width="115" height="25" border="0"></a></td>
+                            </tr>
+                          </table></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image103','','http://www.nj.gov/oag/dcj/images/navr/dcj_home_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_home_off.gif" alt="DCJ Home" name="Image103" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/tips.htm" target="_blank" onMouseOver="MM_swapImage('Image99','','http://www.nj.gov/oag/dcj/images/navr/dcj_report_over.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_report_off.gif" alt="Report A Crime" name="Image99" width="82" height="20" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj/news.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('dcj news','','http://www.nj.gov/oag/dcj/images/navr/dcj_news_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_news_off.gif" alt="DCJ News" name="dcj news" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('news','','http://www.nj.gov/oag/dcj/images/navr/dcj_contact_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_contact_off.gif" alt="Contact DCJ" name="news" width="82" height="20" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj/agencies.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bureaus dcj','','http://www.nj.gov/oag/dcj/images/navr/dcj_bureaus_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_bureaus_off.gif" alt="DCJ Bureaus" name="bureaus dcj" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/jobs.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('library1','','http://www.nj.gov/oag/dcj/images/navr/dcj_employment_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_employment_off.gif" alt="DCJ Employment" name="library1" width="82" height="20" border="0" id="library2"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj/aboutus.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about dcj','','http://www.nj.gov/oag/dcj/images/navr/dcj_about_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_about_off.gif" alt="About DCJ" name="about dcj" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/grants" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('employment1','','http://www.nj.gov/oag/dcj/images/navr/dcj_grants_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_grants_off.gif" alt="DCJ Grants" name="employment1" width="82" height="20" border="0" id="employment2"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj/faq.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('faqs','','http://www.nj.gov/oag/dcj/images/navr/dcj_faqs_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_faqs_off.gif" alt="DCJ Frequently Asked Questions" name="faqs" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/library.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image101','','http://www.nj.gov/oag/dcj/images/navr/dcj_library_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_library_off.gif" alt="DCJ Library" name="Image101" width="82" height="20" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td><a href="http://www.nj.gov/oag/dcj/rulesproposals" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image100','','http://www.nj.gov/oag/dcj/images/navr/dcj_rules_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_rules_off.gif" alt="Proposed Rules" name="Image100" width="83" height="20" border="0"></a></td>
+                        <td><a href="http://www.nj.gov/oag/dcj/sitemap.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('services','','http://www.nj.gov/oag/dcj/images/navr/dcj_sitemap_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_sitemap_off.gif" alt="Sitemap from A to Z" name="services" width="82" height="20" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2"><a href="http://www.nj.gov/oag/dcj/njpdresources" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Law Enforcement Resources ','','http://www.nj.gov/oag/dcj/images/navr/dcj_enforcement_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_enforcement_off.gif" alt="DCJ Law Enforcement Resources " name="Law Enforcement Resources " width="165" height="19" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2"><a href="http://www.nj.gov/oag/dcj/njpdresources/directives-guidelines.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image105','','http://www.nj.gov/oag/dcj/images/navr/dcj_guidelines_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_guidelines_off.gif" alt="Directives and Guidelines" name="Image105" width="165" height="18" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2"><a href="http://www.nj.gov/oag/dcj/services.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image106','','http://www.nj.gov/oag/dcj/images/navr/dcj_services_over.gif',1)"><img src="http://www.nj.gov/oag/dcj/images/navr/dcj_services_off.gif" alt="Criminal Justice Services" name="Image106" width="165" height="20" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><img src="http://www.nj.gov/oag/dcj/images/navhl/dcj_high.gif" alt="Highlights" name="highlights" width="165" height="20" border="0"></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="contact.html"><img src="images/navhl/httf-hotline-highlight.gif" alt="Report Human Trafficking - Toll Free Hotline 877-986-7534" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="liaisons.html"><img src="images/navhl/httf-liaisons-highlight.gif" alt="NJ Human Trafficking Liaison List" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="how-to-id-victims.html"><img src="images/navhl/httf-law-enf-highlight.gif" alt="Law Enforcement Resources" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr>
+                        <td colspan="2"><a href="http://www.naag.org/publications/nagtri-newsletters/human-trafficking-newsletter.php" target="_blank"><img src="images/navhl/nagtri-highlight.jpg" alt="National Attorneys General Training &amp; Research Institue Human Trafficking Newsletter" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="http://www.nj.gov/oag/dcj/victimwitness/"><img src="http://www.nj.gov/oag/dcj/images/navhl/SP_witness.gif" alt="Victim/Witness Services" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="http://www.njinsurancefraud.org/reply.htm"><img src="http://www.nj.gov/oag/insurancefraud/images/navhl/report-fraud_highlight.gif" alt="Report Insurance Fraud Online or call 877-55-FRAUD" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="../njmedicaidfraud/report.html"><img src="../njmedicaidfraud/images/navhl/medicaid-fraud-highlight.gif" alt="Report Medicaid Fraud Here or Call 609-896-8772" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2"><a href="https://www16.state.nj.us/NJSP_Amber/AmberAlertList.jsp"><img src="http://www.nj.gov/oag/images/navhl/highlights_amber-alert.gif" alt="NJ Amber Alert Plan" width="165" height="40" border="0"></a></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td colspan="2">&nbsp;</td>
+                      </tr>
+                    </table></TD>
+                </TR>
+                <TR></TR>
+                <TR></TR>
+                <TR></TR>
+                <!-- CPF - 07/19/2006 - Don't forget to close your FORM tag.-->
+              </form>
+              <!-- CPF - 07/19/2006 - Don't forget to close your FORM tag.-->
+            </TABLE></TD>
+        </TR>
+      </TABLE></TD>
+  </TR>
+  <TR></TR>
+  <TR></TR>
+  <TR> 
+    <TD> <TABLE cellSpacing=0 cellPadding=0 width=700 align=center border=0>
+        <TBODY>
+          <TR>
+            <TD align=right>&nbsp;</TD>
+            <TD>&nbsp;</TD>
+            <TD>&nbsp;</TD>
+          </TR>
+          <TR> 
+            <TD width="668" align=right><A class=footerLink 
+            href="http://www.nj.gov/nj/feedback.html">Contact Us</A><SPAN 
+            class=footerText> | </SPAN><A class=footerLink 
+            href="http://www.nj.gov/nj/privacy.html">Privacy Notice</A><SPAN 
+            class=footerText> | </SPAN><A class=footerLink 
+            href="http://www.nj.gov/nj/legal.html">Legal Statement</A><SPAN 
+            class=footerText> | </SPAN><A class=footerLink 
+            href="http://www.nj.gov/nj/accessibility.html">Accessibility Statement</A></TD>
+            <TD width=10><IMG height=1 alt="" 
+            src="../../OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" width=10></TD>
+            <TD width=22> <DIV align=right><A href="http://www.nj.gov/"><IMG height=20 
+            alt="NJ Home Logo" src="http://nj.gov/oag/images/footer_image.gif" 
+            width=21 border=0></A></DIV></TD>
+          </TR>
+          <TR bgColor=#ffffff> 
+            <TD vAlign=bottom bgColor=#ffffff><IMG height=15 alt="" 
+            src="../../OAGweb_NEW/State%20of%20New%20Jersey_files/spacer.gif" width=1></TD>
+            <TD></TD>
+            <TD></TD>
+          </TR>
+          <TR bgColor=#ffffff> 
+            <TD vAlign=bottom><SPAN 
+            class=footerTextsmall>Divisional: </SPAN><A class=footerLinksmall 
+            href="http://www.njdcj.org/index.shtml">DCJ Home</A><SPAN class=footerTextsmall> 
+              | </SPAN><A class=footerLinksmall 
+            href="http://www.njdcj.org/contact.htm">Contact DCJ</A><SPAN class=footerTextsmall> 
+              | <A class=footerLinksmall 
+            href="http://www.state.nj.us/lps/dcj/tips.htm">Report A Crime</A><SPAN class=footerTextsmall></SPAN> 
+              | </SPAN><A 
+            class=footerLinksmall 
+            href="http://www.njdcj.org/aboutus.htm">About DCJ</A><SPAN 
+            class=footerTextsmall> | </SPAN><A class=footerLinksmall 
+            href="http://www.njdcj.org/news.htm">DCJ News</A><SPAN 
+            class=footerTextsmall> | </SPAN><A class=footerLinksmall 
+            href="http://www.njdcj.org/faq.htm">DCJ FAQs</A></TD>
+            <TD></TD>
+            <TD></TD>
+          </TR>
+          <TR bgColor=#ffffff> 
+            <TD vAlign=bottom><SPAN 
+            class=footerTextsmall>Departmental: </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/oag">OAG Home</A><SPAN class=footerTextsmall> 
+              | </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/oag/contactus.htm">Contact OAG</A><SPAN class=footerTextsmall> 
+              | </SPAN><A 
+            class=footerLinksmall 
+            href="http://www.nj.gov/oag/aboutus.htm">About OAG</A><SPAN 
+            class=footerTextsmall> | </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/oag/news.htm">OAG News</A><SPAN 
+            class=footerTextsmall> | </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/oag/faq.htm">OAG FAQs</A></TD>
+            <TD></TD>
+            <TD></TD>
+          </TR>
+          <TR bgColor=#ffffff> 
+            <TD vAlign=bottom><SPAN 
+            class=footerTextsmall>Statewide: </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/">NJ Home</A><SPAN class=footerTextsmall> 
+              | </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/nj/govinfo/njgov/alphaserv.html">Services 
+              A to Z </A><SPAN class=footerTextsmall>| </SPAN><A 
+            class=footerLinksmall 
+            href="http://www.nj.gov/nj/deptserv.html">Departments/Agencies</A><SPAN 
+            class=footerTextsmall> | </SPAN><A class=footerLinksmall 
+            href="http://www.nj.gov/faqs/index.html">FAQs</A></TD>
+            <TD width=10></TD>
+            <TD width=22></TD>
+          </TR>
+          <TR bgColor=#ffffff> 
+            <TD vAlign=bottom><SPAN 
+            class=footerTextsmall>Copyright © State of New Jersey<BR>
+              This page is maintained by OAG Communications. Comments/Questions: 
+              <a href="http://www.nj.gov/lps/formmail.htm">email</a> or call 609-292-4925</SPAN></TD>
+            <TD width=10></TD>
+            <TD width=22></TD>
+          </TR>
+        </TBODY>
+      </TABLE></TD>
+  </TR></TBODY>
+</TABLE>
+<p align="center"> 
+  <map name="oag home rightMap">
+    <area shape="rect" coords="14,1,115,20" href="http://www.nj.gov/oag/" alt="OAG Home">
+    <area shape="rect" coords="13,2,114,21" href="http://www.nj.gov/oag/" alt="OAG Home">
+  </map>
+  <map name="Map3">
+    <area shape="rect" coords="257,5,379,21" href="http://www.njdcj.org/news.htm" alt="more news...">
+  </map>
+</p>
+<map name="Map">
+  <area shape="rect" coords="147,132,247,158" href="ht-invite01.07.11.pdf" target="_blank" alt="More Information">
+  <area shape="rect" coords="249,134,308,158" href="ht-agenda01.07.11.pdf" target="_blank">
+</map>
+<!-- Start of StatCounter Code for Dreamweaver -->
+<script type="text/javascript">
+var sc_project=9415174; 
+var sc_invisible=0; 
+var sc_security="3bd38c0c"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="web analytics"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/9415174/0/3bd38c0c/0/"
+alt="web analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver -->
+<map name="Map2">
+  <area shape="rect" coords="239,278,304,294" href="http://www.nj.gov/state/memorial/dos_wm_directions.html" target="_blank" alt="Directions">
+  <area shape="rect" coords="161,309,344,347" href="http://www.nj.gov/oag/dcj/humantrafficking/register_4th-annual-event.html" target="_blank" alt="Register Here">
+  <area shape="rect" coords="181,295,331,308" href="http://www.nj.gov/oag/dcj/humantrafficking/awareness-day.html" target="_blank" alt="Human Trafficking Awareness Day">
+</map>
+
+<map name="Map4">
+  <area shape="rect" coords="88,223,355,263" href="events.html">
+</map>
+
+<map name="Map5">
+  <area shape="rect" coords="180,149,275,204" href="http://www.nj.gov/oag/dcj/humantrafficking/event/" target="_blank" alt="North Jersey Regional Human Trafficking Conference Details..." onMouseOver="MM_swapImage('Image1','','event/images/2015-Regional-HT-Conference-over2.jpg',1);MM_swapImage('Image1','','event/images/2015-Regional-HT-Conference-over1.jpg',1)" onMouseOut="MM_swapImgRestore()">
+  <area shape="rect" coords="24,150,159,202" href="http://www.nj.gov/oag/dcj/humantrafficking/register/index.html" target="_blank" alt="North Jersey Regional Human Trafficking Conference Registration..." onMouseOver="MM_swapImage('Image1','','event/images/2015-Regional-HT-Conference-over2.jpg',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+
+<map name="Map6">
+  <area shape="rect" coords="148,256,210,278" href="event/ht-day-flier-Jan-29-2016.pdf" target="_blank" alt="NJ's Sixth Annual National Human Trafficking Awareness Event..." onMouseOver="MM_swapImage('Image2','','images/ht-day-banner-Jan-29-2016_flyer.jpg',1)" onMouseOut="MM_swapImgRestore()">
+  <area shape="rect" coords="214,256,275,277" href="event/ht-day-agenda-Jan-29-2016.pdf" target="_blank" alt="NJ's Sixth Annual National Human Trafficking Awareness Event..." onMouseOver="MM_swapImage('Image2','','images/ht-day-banner-Jan-29-2016_agenda.jpg',1)" onMouseOut="MM_swapImgRestore()">
+  <area shape="rect" coords="281,256,342,277" href="event/ht-day-details-Jan-29-2016.pdf" target="_blank" alt="NJ's Sixth Annual National Human Trafficking Awareness Event..." onMouseOver="MM_swapImage('Image2','','images/ht-day-banner-Jan-29-2016_details.jpg',1)" onMouseOut="MM_swapImgRestore()">
+</map>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=836605212"></script>
+</BODY></HTML>

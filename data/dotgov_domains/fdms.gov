@@ -1,0 +1,175 @@
+
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="refresh" content="1200">
+<link rel="stylesheet" type="text/css"
+	href="static/styles/loginLayout.css" />
+<title>FDMS</title>
+<script>
+	//example: var alertMsg = "The FDMS.gov and Regulations.gov hosting facility will undergo scheduled maintenance and as a result FDMS.gov will be unavailable Monday, August 5 beginning at 6pm lasting until Tuesday morning at 8am (ET).";
+	//when done: var alertMsg = "";
+	//var alertMsg = "Regulations.gov and FDMS.gov will undergo routine maintenance and may be intermittently unavailable Saturday, February 22th from 8am (ET) to 6pm (ET).";
+	//var alertMsg = "FDMS.gov and Regulations.gov will undergo scheduled maintenance and will be unavailable Thursday, September 3, from 8:00 pm through 12:00 am (ET).";
+	var alertMsg = "";
+	String.prototype.beginsWith = function (string) {
+    		return(this.indexOf(string) === 0);
+	};
+ 
+	function tohttps () {
+ 		var loc=window.location.href;
+ 		if (loc.beginsWith("http://www.fdms.gov/fdms/") ){
+        		window.location="https://www.fdms.gov/fdms/";
+ 		}
+ 		else if (loc.beginsWith("http://fdms.gov/fdms/") ){
+    		window.location="https://www.fdms.gov/fdms/";
+		}
+
+		document.getElementById("alertMsg").innerHTML = alertMsg;
+ 		
+  		 document.getElementById("j_username").focus();
+			
+	}
+	
+	function checkSubmit(e) {
+	   if (e && e.keyCode == 13) {
+	      document.getElementById('loginForm').submit();
+	   }
+	}
+</script>
+
+</head>
+
+<body onload='tohttps()' onkeypress='return checkSubmit(event)'>
+
+	<div id="alertBG">
+		<p id="alertMsg" style="background-color:yellow;margin-top: 0px;"></p>
+	</div>
+
+	<!-- Start wrapper -->
+	<div id="wrapper">
+
+
+		<!-- Start content -->
+		<div id="content">
+
+			<div style="width: 100%;">
+				<img src="static/images/logo.png" alt="FDMS.gov Home" />
+			</div>
+
+			<div id="loginBG">
+				<div id="loginContent">
+					
+					<div style="text-align:center">
+						Please enter your login information below. <br /> If you do not
+						have a login, please <a
+							href="selfregistration/selfregistration.do" target="_blank"
+							tabindex="15">click here to register</a>
+					</div>
+						
+					<div class="hr">
+						<br />
+					</div>
+					<form id="loginForm" action="j_spring_security_check" method="post">
+
+						<div class="inputBG">
+							<div class="floatLeft">
+								<input type="text" id="j_username" name="j_username" aria-label="Username"
+									aria-required="true" class="field" placeholder="Username" tabindex="1" />
+									
+								
+								
+								
+									<span id="passwordStatus" class="sr-only" style="color:#767676">
+										User Name
+									</span>
+								
+									
+							</div>
+						</div>
+
+						<div class="inputBG">
+							<div class="floatLeft">
+								<input id="j_password" placeholder="Password" name="j_password" maxlength="50"
+									aria-required="true" type="password" class="field" tabindex="2" aria-label="Password"/>
+							</div>
+						</div>
+						<div class="floatLeft"
+							style="margin-left: 315px; margin-top: -42px;">
+							<a class="myButton" href="#" role="button" aria-label="Login button" 
+								onclick="document.getElementById('loginForm').submit()" tabindex="3">Login</a>
+						</div>
+						
+						<div class="floatLeft">
+							Did you forget your username or password? 
+							<a href="forgotpassword/" tabindex="4" aria-label="Forgot password link">click here for help</a>
+						</div>
+						
+						<div style="margin-bottom: -10px">
+						<br />
+						</div>
+
+					<input type="hidden" name="_csrf" value="6d23e90c-0f18-4720-99cd-274ba8ef6cf4" />
+</form>
+
+					<div class="hr">
+						<br />
+					</div>
+					<p>You are requesting access to an official United States
+						Federal Government application. The use of this application is for
+						authorized purposes only. The Federal Government may monitor or
+						audit use and accessing this application constitutes consent to
+						such surveillance. Unauthorized attempts to upload and/or change
+						information on this website is strictly prohibited under the
+						computer fraud and abuse act of 1986 and title 18, usc, sec 1001
+						and 1030(a)(4) and may carry a punishment of 5 years imprisonment
+						and/or a $250,000 fine.</p>
+
+					<p>
+						By logging into this system, you acknowledge that you understand
+						the responsibilities of using this system and will comply with the
+						Rules of Behavior for FDMS. See <a
+							href="static/files/FDMS_Rules_of_Behavior.pdf" target="_blank"
+							tabindex="5">Rules of Behavior</a> for additional details.
+					</p>
+
+					<p>
+						If you are looking for the Regulations.gov public site, find it at
+						<a href="https://www.regulations.gov" target="_blank" tabindex="6">www.regulations.gov</a>.
+					</p>
+					<div class="hr">
+					<br />
+					</div>
+					<img class="footerLogo" alt="Footer logo for USA.gov and E-Gov" src="static/images/login_footerLogos.png"/>
+				</div>
+			</div>
+
+
+
+			<div class="clear"></div>
+
+			<div id="footer">
+				<a href="public/aboutus" target="_blank" tabindex="7">About Us</a>  |  
+				<a href="public/privacyanduse"	target="_blank" tabindex="8">Privacy &amp; Security Notice</a> | 
+				<a href="public/accessibility" target="_blank" tabindex="9">Accessibility</a>  |  
+				<a href="http://www.erulemakinghelpdesk.com/MRcgi/MRlogin.pl?PROJECTID=33"	target="_blank" tabindex="10">Contact Us</a>  |  
+				<a href="http://usa.gov" target="_blank" tabindex="12">USA.gov</a> |  
+				<a href="http://www.whitehouse.gov/omb/e-gov" target="_blank" tabindex="13">E-Gov.gov</a>
+
+			</div>
+
+		</div>
+		<!-- End content -->
+
+		<div class="clear"></div>
+
+	</div>
+	<!-- End wrapper -->
+
+</body>
+</html>

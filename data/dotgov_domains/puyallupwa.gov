@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"MEhacFASkDziPKQ31-uKKmv_5HmKWzMl4OkxgqL7L8R3NXllnX9TTVrScq2GismEcF7e04fs3Lsj7TZwekgzEuWDYdg1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"jsvb7LBbruyAhieDRUftgGbkO2aFKCkguJ4TqIcYtsXnIyu31dK-GOuhQ2oFKPUIM1lyfsVAsHRqp6ESRckw8GFSonw1\" />");
 						}
 					}
 				}, false);
@@ -1147,13 +1147,13 @@ Sat
 <td>
 <span>08</span>
 </td>
+<td>
+<span>09</span>
+</td>
+<td>
+<span>10</span>
+</td>
 <td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=9&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>09</a>
-</td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=10&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>10</a>
-</td>
-<td>
 <span>11</span>
 </td>
 <td>
@@ -1248,41 +1248,41 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Wed Sep. 9  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3165">Planning Commission Meeting - Canceled</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Sep. 10  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=2990">Friends of the Library Board Meeting--CANCELLED!</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Sat Sep. 12  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=3271">Puyallup Farmer&#39;s Market</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Mon Sep. 14  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3031">Parks and Recreation Board &quot;Virtual&quot; Meeting</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Tue Sep. 15  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3152">City Council Study Session</a></strong>
 
 		</div>
 				</li>

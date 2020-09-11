@@ -1,0 +1,1383 @@
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html lang="en" class="ie9 no-js"><![endif]-->
+<!--[if !IE]><!-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+<title>NYPA Home </title>
+<meta name="keywords" content=""/>
+<meta name="description" content="NYPA"/>
+    <script type="text/javascript">
+        var globalSpriteSvgUrl = '/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468';
+    </script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="/scripts/disable-wffm-bootstrap.js"></script>
+
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous" /> -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" integrity="sha384-PmY9l28YgO4JwMKbTvgaS7XNZJ30MK9FAZjjzXtlqyZCqBY6X6bXIkM++IkyinN+" crossorigin="anonymous"> -->
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <link href="/styles/easy-autocomplete.min.css" rel="stylesheet" />
+<link href="/styles/nypa.min.css" rel="stylesheet" />
+
+
+    
+<meta name="VIcurrentDateTime" content="637354288021520385" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDsqFdtvtDKLK-2iRh94FDXQ9boBmzzyU"></script>
+
+
+	</head>
+<body >
+    <div class="is-mobile-custom"></div>
+    <div id="nygov-universal-navigation" class="nygov-universal-container" data-iframe="true" data-updated="2014-11-07 08:30">
+        <noscript>
+            <iframe width="100%" height="86px" src="//static-assets.ny.gov/load_global_menu/ajax?iframe=true" frameborder="0" style="border:none; overflow:hidden; width:100%; height:86px;" scrolling="no">
+                Your browser does not support iFrames
+            </iframe>
+        </noscript>
+        <script type="text/javascript">
+            var _NY = {
+                HOST: "static-assets.ny.gov",
+                BASE_HOST: "www.ny.gov",
+                hideSettings: true,
+                hideSearch: true
+            };
+            (function (document, bundle, head) {
+                head = document.getElementsByTagName('head')[0];
+                bundle = document.createElement('script');
+                bundle.type = 'text/javascript';
+                bundle.async = true;
+                bundle.src = "//static-assets.ny.gov/sites/all/widgets/universal-navigation/js/dist/global-nav-bundle.js";
+                head.appendChild(bundle);
+            }(document));
+        </script>
+    </div>
+    <section class="clearfix">
+        <header id="header" class="clearfix">
+            
+            
+
+            
+
+<nav class="container-fluid navbar">
+    <div class="row flex flex-align-end flex-wrap">
+
+        
+
+        
+
+
+<div class="navbar-header col-xs-12 col-md-4">
+   
+
+            <h1 class="navbar-text"><a href="/">NY Power Authority</a></h1>
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#menu" /></svg>
+    </button>        
+</div><div class="col-xs-12 col-md-8">
+            <div class="collapse navbar-collapse" id="navbar">
+                <div class="mobile-navbar-close collapsed" data-toggle="collapse" data-target="#navbar">
+                    <div class="mobile-navbar-close-contain">
+                        <span>Close</span>
+                        <div class="rotate-svg">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="mobile-navbar-close mobile-navbar-back">
+                    <div class="mobile-navbar-close-contain">
+                        <span>Back</span>
+                        <div class="rotate-svg">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="navbar-collapse-contain">
+                    
+
+
+    <ul class="nav navbar-nav sub-nav">
+            <li ><a href=" https://account.nypa.gov/"  title="LOGIN">LOGIN</a></li>
+            <li ><a href="/about"  title="About">About</a></li>
+            <li ><a href="/news"  title="News">News</a></li>
+            <li ><a href="/careers"  title="Careers">Careers</a></li>
+            <li ><a href="/procurement"  title="RFPs">RFPs</a></li>
+            <li ><a href="/calendar"  title="Events">Events</a></li>
+            <li ><a href="/library"  title="Library">Library</a></li>
+        
+
+<li>
+    <a class="search" href="/archive/search" title="Search">Search <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#search" /></svg></a>
+    <div class="navbar-drop">
+
+        <div class="search-field container-fluid">
+            <div class="flex-desktop flex-align-center">
+                <span class="col-xs-12 col-sm-4">
+                    <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#search" /></svg> Search
+                </span>
+                <div class="col-xs-12 col-sm-8">
+                    <form method="get" action="/search-results">
+                        <input type="search" name="q" id="search-input">
+                        <button type="submit" class="submit" id="search-submit" title="Submit">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </button>
+                    </form>
+                    <span class="error"></span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+
+    </ul>
+
+                    
+    <ul class="nav navbar-nav main-nav">
+                <li>
+                        <a title="" target="" href="/contact-forms">
+                            
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="" target="" href="/chargeny">
+                            
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="Innovation" target="" href="/innovation">
+                            Innovation
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+
+                                    <div>
+                                        <span class="drop-title">Programs</span>
+
+                                            <ul>
+                                                    <li><a title="BuildSmart NY" target="" href="/innovation/programs/buildsmart-ny" data-message="Energy reduction improvements for state buildings">BuildSmart NY</a></li>
+                                                    <li><a title="Charge NY" target="" href="/innovation/programs/chargeny" data-message="Electric Vehicles Can Go the Distance with NYPA-Supported Charging Stations">Charge NY</a></li>
+                                                    <li><a title="EVolve NY" target="" href="/innovation/programs/evolve-ny" data-message="The EVolution New York has been waiting for">EVolve NY</a></li>
+                                                    <li><a title="Five Cities Energy Program" target="" href="/innovation/programs/five-cities-energy-program" data-message="Municipal energy planning and implementation">Five Cities Energy Program</a></li>
+                                                    <li><a title="K-Solar" target="" href="/innovation/programs/k-solar" data-message="Solar power for NY K-12 schools">K-Solar</a></li>
+                                                    <li><a title="ReCharge NY" target="" href="/innovation/programs/recharge-ny" data-message="Low-cost energy for economic development">ReCharge NY</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Initiatives</span>
+
+                                            <ul>
+                                                    <li><a title="Clean Energy" target="" href="/innovation/initiatives/clean-energy" data-message=" NYPA&#39;s clean energy projects save customers hundreds of millions of dollars in energy costs and improve both energy resiliency and productivity">Clean Energy</a></li>
+                                                    <li><a title="Strategic Vision" target="" href="/innovation/initiatives/strategic-vision" data-message="NYPA&#39;s long-term plans in a fast-changing world">Strategic Vision</a></li>
+                                                    <li><a title="Sustainability" target="" href="/innovation/initiatives/sustainability" data-message="Our approach to development that meets the needs of the present without compromising the ability of future generations to meet their own needs">Sustainability</a></li>
+                                                    <li><a title="REV" target="" href="/innovation/initiatives/rev" data-message="Reforming the Energy Vision, NY&#39;s plan for energy market changes">REV</a></li>
+                                                    <li><a title="NY Energy Highway" target="" href="/innovation/initiatives/ny-energy-highway" data-message="State plan for smarter, more reliable energy delivery">NY Energy Highway</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">R&amp;D + Insights</span>
+
+                                            <ul>
+                                                    <li><a title="Future of Energy" target="" href="/innovation/rd-insights/future-of-energy" data-message="Ideas and trends from NYPA">Future of Energy</a></li>
+                                                    <li><a title="NYPA &amp; Israel Smart Energy Challenge" target="" href="/innovation/rd-insights/nypa-israel-smart-energy-challenge" data-message="NYPA is partnering with the Israel Smart Energy Association to launch a competition among innovative Israeli firms with expertise in energy efficiency and clean energy generation to support next-generation of the energy evolution">NYPA &amp; Israel Smart Energy Challenge</a></li>
+                                                    <li><a title="NYPA Innovation Challenge" target="" href="/innovation/rd-insights/nypa-innovation-challenge" data-message="Connects early stage clean-tech startups to one of the most innovative utilities in the world, enabling next-gen technology demonstrations designed to rapidly scale across NYPA’s network of businesses and customers">NYPA Innovation Challenge</a></li>
+                                                    <li><a title="Technology Development" target="" href="/innovation/rd-insights/technology-development" data-message="Examples of NYPA&#39;s technology investments and leadership">Technology Development</a></li>
+                                            </ul>
+
+                                    </div>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="Power" target="" href="/power">
+                            Power
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+
+                                    <div>
+                                        <span class="drop-title">Generation</span>
+
+                                            <ul>
+                                                    <li><a title="Generation Overview" target="" href="/power/generation/generation-overview" data-message="NYPA&#39;s generation facilities produce nearly 25% of New York&#39;s power">Generation Overview</a></li>
+                                                    <li><a title="Niagara Power Project" target="" href="/power/generation/niagara-power-project" data-message="Just north of Niagara Falls, the Niagara Power Project is one of NYPA&#39;s major hydroelectricity producers">Niagara Power Project</a></li>
+                                                    <li><a title="St. Lawrence Power Project" target="" href="/power/generation/st-lawrence-fdr-power-project" data-message="In northern NY, NYPA generates hydroelectric power from the St. Lawrence River">St. Lawrence Power Project</a></li>
+                                                    <li><a title="Blenheim-Gilboa Power Project" target="" href="/power/generation/blenheim-gilboa-pumped-storage" data-message="NYPA&#39;s pumped storage facility helps NY handle daily changes in electricity demand">Blenheim-Gilboa Power Project</a></li>
+                                                    <li><a title="NYPA Generating Facilities" target="" href="/power/generation/all-generating-facilities" data-message="List of key faciilities">NYPA Generating Facilities</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Transmission</span>
+
+                                            <ul>
+                                                    <li><a title="Transmission Overview" target="" href="/power/transmission/transmission-overview" data-message="NYPA&#39;s transmission capacity and operations">Transmission Overview</a></li>
+                                                    <li><a title="Transmission Projects" target="" href="/power/transmission/transmission-projects" data-message="Smart Path, Marcy-South, SAMAC, Microgrid development, major upgrades, system improvements and more">Transmission Projects</a></li>
+                                                    <li><a title="Real Estate" target="" href="/power/transmission/real-estate" data-message="The Real Estate Department supports the safe operation and maintenance of NYPA’s hundreds of miles of Transmission Line Right-of-Way (ROW) and its Generation Facilities across NYS">Real Estate</a></li>
+                                                    <li><a title="Vegetation Management" target="" href="/power/transmission/vegetation-management" data-message="Transmission Right-of-Way Vegetation Management Program">Vegetation Management</a></li>
+                                                    <li><a title="Wood Pole Treatment" target="" href="/power/transmission/wood-pole-treatment" data-message="Maintaining the reliability of the system includes closely monitoring the life cycle of wood poles, preventing premature failure by applying the latest inspection, treatment and repair techniques">Wood Pole Treatment</a></li>
+                                                    <li><a title="Technical Information" target="" href="/power/transmission/technical-information" data-message="Information for NYPA transmission partners and customers">Technical Information</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Customers</span>
+
+                                            <ul>
+                                                    <li><a title="Economic Development" target="" href="/power/customers/economic-development" data-message="NYPA offers low-cost power to support business operation and expansion">Economic Development</a></li>
+                                                    <li><a title="NYPA Customers" target="" href="/power/customers/nypa-customers" data-message="Overview of public and private entities which use NYPA power, transmission, and services">NYPA Customers</a></li>
+                                            </ul>
+
+                                    </div>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="Services" target="" href="/services">
+                            Services
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+
+                                    <div>
+                                        <span class="drop-title">Customer Energy Solutions</span>
+
+                                            <ul>
+                                                    <li><a title="Overview of Solutions" target="" href="/services/customer-energy-solutions/overview-of-solutions" data-message="The Value of NYPA as Your Trusted Advisor">Overview of Solutions</a></li>
+                                                    <li><a title="Assessments" target="" href="/services/customer-energy-solutions/assessments" data-message="Assessments that Drive Energy Efficiency">Assessments</a></li>
+                                                    <li><a title="Project Management" target="" href="/services/customer-energy-solutions/project-management" data-message="NYPA&#39;s energy project planning and implementation services">Project Management</a></li>
+                                                    <li><a title="Demand Response" target="" href="/services/customer-energy-solutions/demand-response" data-message="NYPA analyzes and plans demand response engagement opportunities">Demand Response</a></li>
+                                                    <li><a title="Smart Street Lighting NY" target="" href="/services/customer-energy-solutions/smart-street-lighting-ny" data-message="Empowering communities to make energy-efficient investments to their streetlighting equipment">Smart Street Lighting NY</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Digital Energy Services</span>
+
+                                            <ul>
+                                                    <li><a title="NY Energy Manager" target="" href="/services/digital-energy-services/ny-energy-manager" data-message="NYPA&#39;s building energy monitoring and response system">NY Energy Manager</a></li>
+                                                    <li><a title="iSOC" target="" href="/services/digital-energy-services/isoc" data-message="Digital Command Center to Monitor NYPA Power Plant Operations, Inspire Energy Innovation, and Improve Efficiencies">iSOC</a></li>
+                                                    <li><a title="AGILe Lab" target="" href="/services/digital-energy-services/agile-lab" data-message="An advanced lab for energy transmission research">AGILe Lab</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Financing</span>
+
+                                            <ul>
+                                                    <li><a title="NYPA Financing" target="" href="/services/financing/nypa-financing" data-message="NYPA offers financing for its energy projects">NYPA Financing</a></li>
+                                            </ul>
+
+                                    </div>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="Communities" target="" href="/communities">
+                            Communities
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+
+                                    <div>
+                                        <span class="drop-title">Visitors Centers</span>
+
+                                            <ul>
+                                                    <li><a title="Visitors Center Overview" target="" href="/communities/visitors-centers/visitors-centers-overview" data-message="Join us to learn about hydropower at our three Visitors Centers">Visitors Center Overview</a></li>
+                                                    <li><a title="Niagara Power Vista" target="" href="/communities/visitors-centers/niagara-power-vista" data-message="Find out what makes NYPA&#39;s Niagara Power Vista a Top 10 Attraction in the Niagara area">Niagara Power Vista</a></li>
+                                                    <li><a title="Blenheim-Gilboa Visitors Center" target="" href="/communities/visitors-centers/blenheim-gilboa-visitors-center" data-message="Complete information for visitors">Blenheim-Gilboa Visitors Center</a></li>
+                                                    <li><a title="Hawkins Point Visitors Center" target="" href="/communities/visitors-centers/hawkins-point" data-message="Complete information for visitors">Hawkins Point Visitors Center</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">NYPA Engagement</span>
+
+                                            <ul>
+                                                    <li><a title="Environmental Justice" target="" href="/communities/nypa-engagement/environmental-justice" data-message="NYPA is committed to improving the quality of life of underserved and minority communities located near our facilities statewide">Environmental Justice</a></li>
+                                                    <li><a title="Niagara River Greenway" target="" href="/communities/nypa-engagement/buffalo-erie-greenway" data-message="NYPA fundings helps build and maintain this growing recreation avenue">Niagara River Greenway</a></li>
+                                            </ul>
+
+                                    </div>
+                                    <div>
+                                        <span class="drop-title">Recreation</span>
+
+                                            <ul>
+                                                    <li><a title="NYPA Recreation Areas" target="" href="/communities/recreation/nypa-recreation-areas" data-message="NYPA properties offer opportunities for recreation">NYPA Recreation Areas</a></li>
+                                                    <li><a title="Boat Launching Areas" target="" href="/communities/recreation/boat-launching-areas" data-message="Information on Hinckley Boat Launch ">Boat Launching Areas</a></li>
+                                                    <li><a title="NY Canal System" target="_blank" href="http://www.canals.ny.gov/" data-message="The NY State Canal system offers extensive recreation opportunities">NY Canal System</a></li>
+                                            </ul>
+
+                                    </div>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+                <li>
+                        <a title="" target="" href="/footer">
+                            
+                        </a>
+                        <div class="main-nav-drop container-fluid">
+                            <div class="row">
+                                <span class="mobile-title"></span>
+                            </div>
+                            <p class="message-text">
+                                <span class="link-title"></span>
+                                <span class="link-message"></span>
+                            </p>
+                        </div>
+                </li>
+    </ul>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+        </header>
+        
+        <section id="main-content" class="clearfix">
+
+            <div>
+    
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid">
+    <div class="flex-desktop flex-wrap block-grid">
+    
+        <!-- Start -->
+
+        <!-- Energy of New York -->
+
+        <a href="/about" class="block col-xs-12 col-md-8" style="background: url(/-/media/nypa/images/content-images/home/main/construction-resumes-nypa.jpg) center top no-repeat, linear-gradient(to bottom, rgba(255,255,255,0.30) 0%,rgba(0,0,0,0.30) 100%); background-size: cover;" title="The Energy of New York">
+            <div class="text block-grid-text">
+                <h3>
+                    The Energy of New York
+                    <span class="arrow-circle">
+                        <div class="svg">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </div>
+                    </span>
+                </h3>
+            </div>
+        </a>
+        <!-- Mini Carousel -->
+
+        <div class="block col-xs-12 col-sm-6 col-md-4">
+
+            <div id="carousel-hor">
+
+                <div class="carousel-inner">
+
+                        <a href="/power/customers/economic-development" class="item" title="NYPA Offers Relief Program for its Economic Development Power Customers">
+                            <div class="item-container">
+                                <img src="/-/media/nypa/images/content-images/home/carousel/nypa-customers-economic-development.jpg" alt="NYPA Offers Relief Program for its Economic Development Power Customers" />
+                                <span>NYPA Offers Relief Program</span>
+                                <span class="arrow-circle">
+                                    <div class="svg">
+                                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                    </div>
+                                </span>
+                            </div>
+                        </a>
+                        <a href="http://viewer.zmags.com/publication/78466127" class="item" title="2019 Year in Review">
+                            <div class="item-container">
+                                <img src="/-/media/nypa/images/content-images/home/carousel/2019-yir-year-in-review.jpg" alt="2019 Year in Review" />
+                                <span>2019 Year in Review</span>
+                                <span class="arrow-circle">
+                                    <div class="svg">
+                                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                    </div>
+                                </span>
+                            </div>
+                        </a>
+                        <a href="https://youtu.be/sir-3UXtGyo" class="item" title="NYPA is the first North American electric utility to receive ISO 55001 certification for asset management enterprise-wide">
+                            <div class="item-container">
+                                <img src="/-/media/nypa/images/content-images/home/carousel/best-utility-operations-nypa.jpg" alt="NYPA is the first North American electric utility to receive ISO 55001 certification for asset management enterprise-wide" />
+                                <span>Recognized for Best Utility Operations</span>
+                                <span class="arrow-circle">
+                                    <div class="svg">
+                                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                    </div>
+                                </span>
+                            </div>
+                        </a>
+                        <a href="https://www.forbes.com/companies/new-york-power-authority/#37ab19043160" class="item" title="NYPA: One of America’s Best Midsize Employers of 2019">
+                            <div class="item-container">
+                                <img src="/-/media/nypa/images/content-images/home/carousel/forbes-best-of.jpg" alt="NYPA: One of America’s Best Midsize Employers of 2019" />
+                                <span>One of America’s Best Midsize Employers</span>
+                                <span class="arrow-circle">
+                                    <div class="svg">
+                                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                    </div>
+                                </span>
+                            </div>
+                        </a>
+                        <a href="/-/media/nypa/documents/document-library/isoc/vision2020-digital-utility-roadmap.pdf" class="item" title="NYPA&#39;s Strategic Refresh">
+                            <div class="item-container">
+                                <img src="/-/media/nypa/images/content-images/home/carousel/nypa-digital-utility.jpg" alt="NYPA&#39;s Strategic Refresh" />
+                                <span>Building an end-to-end Digital Utility</span>
+                                <span class="arrow-circle">
+                                    <div class="svg">
+                                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                    </div>
+                                </span>
+                            </div>
+                        </a>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Map -->
+
+        <a href="/services/customer-energy-solutions/overview-of-solutions" target="" class="block col-xs-12 col-sm-6 col-md-4" title="Green Power">
+            <img src="/-/media/nypa/images/content-images/home/green-power-icon.jpg" alt="NYPA Map" />
+            <div class="map-overlay">
+                <!--<div class="map-point-contain one">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Niagara Power Project</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-1" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain two">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>St. Lawrence Power Project</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-1" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain three">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Jarvis Plant</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-2" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain four">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Vischer Ferry Plant</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-2" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain five">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Crescent Plant</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-2" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain six">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Blenheim-Gilboa Power Project</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-1" /></svg>
+                    </div>
+                </div>
+                <div class="map-point-contain seven">
+                    <div class="map-point"></div>
+                    <div class="map-point-tag">
+                        <span class="arrow arrow-down arrow-blue"></span>
+                        <span>Ashokan Plant</span>
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#map-icon-2" /></svg>
+                    </div>
+                </div>-->
+                <div class="text block-grid-text">
+                    <h3>
+                        Green Power
+                        <span class="arrow-circle">
+                            <div class="svg">
+                                <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                            </div>
+                        </span>
+                    </h3>
+                    <span>Learn more about our newest Customer Product</span>
+                </div>
+            </div>
+        </a>
+
+        <!-- Live Data -->
+
+        <div class="block fact-blocks fact-blocks-small col-xs-12 col-sm-6 col-md-4">
+            <div class="fact-blocks-contain">
+                <div class="col-xs-10 col-xs-offset-1 flex flex-align-center flex-content-center flex-wrap">
+                    <span class="number">Meeting Webcasts</span>
+                    <span class="caption"></span>
+                </div>
+                <div class="col-xs-10 col-xs-offset-1 flex flex-align-center flex-content-center flex-wrap">
+                            <span class="number">Scheduled:</span>
+                    <span class="caption">The next Trustees Meeting is scheduled to take place on Sept. 23, 2020 by videoconference</span>
+                </div>
+            </div>
+            <a href="http://nypa.live/nypalive/live.html" class="text block-grid-text" title="Data">
+                <h3>
+                    View
+                    <span class="arrow-circle">
+                        <div class="svg">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </div>
+                    </span>
+                </h3>
+                <span>Currently our Meetings are recorded &amp; posted for public view in Meeting Archives</span>
+            </a>
+        </div>
+
+
+        <!-- Trustee Block -->
+
+        <a href="/about/covid-19-response" target="" class="block col-xs-12 col-sm-6 col-md-4" style="background: url(/-/media/nypa/images/content-images/news/nypa-unpaused.jpg) center top no-repeat; background-size: cover;" title="Response:">
+            <div class="text block-grid-text">
+                <h3>
+                    Response:
+                    <span class="arrow-circle">
+                        <div class="svg">
+                            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                        </div>
+                    </span>
+                </h3>
+                <span>NYPA continues to operate - putting safety first - while getting creative as we respond to the COVID-19 crisis</span>
+            </div>
+        </a>
+
+
+        <!-- End -->
+
+    </div>
+</div>
+<!-- PullQuote -->
+
+
+    <div class="content container-fluid content-top-padding">
+        <div class="content-text col-xs-12 col-xs-offset-0 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
+            <div class="full-statement">
+                NYPA has restarted many projects, with appropriate protections in place, to strengthen the reliability &amp; resiliency of our generation and transmission assets, modernize New York’s energy system and reinvigorate the state’s economy. #RestartSmart #NYForward #EnergizingTheEconomy
+            </div>
+                <div class="text-center">
+                    <a href="#" class="tweet-this" title="Tweet This" data-tweet="NYPA+energizes+New+York+with+low-cost+sustainable+power%2c+innovative+%23grid+solutions%2c+and+extensive+%23energy+services.">
+                        <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#twitter" /></svg>
+                        <span>Tweet This</span>
+                    </a>
+                </div>
+        </div>
+
+    </div>
+
+
+
+<div class="content container-fluid">
+    <div class="content-text col-xs-12">
+
+        <h3>Programs &amp; Services</h3>
+
+        <div class="dropdown-container visible-xs-block">
+            <span class="dropdown-select">State Facilities <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#down-arrow" /></svg></span>
+            <ul class="clearfix tab-heads dropdown-options">
+                
+                    <li class="active"><a href="#tab0" data-toggle="tab" title="State Facilities">State Facilities</a></li>
+                    <li class=""><a href="#tab1" data-toggle="tab" title="Localities">Localities</a></li>
+                    <li class=""><a href="#tab2" data-toggle="tab" title="NYC">NYC</a></li>
+                    <li class=""><a href="#tab3" data-toggle="tab" title="Higher Education">Higher Education</a></li>
+                    <li class=""><a href="#tab4" data-toggle="tab" title="K-12 Schools">K-12 Schools</a></li>
+                    <li class=""><a href="#tab5" data-toggle="tab" title="Health Care">Health Care</a></li>
+                    <li class=""><a href="#tab6" data-toggle="tab" title="Business and Nonprofits">Business and Nonprofits</a></li>
+            </ul>
+        </div>
+
+        <ul class="list-inline clearfix tab-heads hidden-xs">
+            
+                <li class="active"><a href="#tab0" data-toggle="tab" title="State Facilities">State Facilities</a></li>
+                <li class=""><a href="#tab1" data-toggle="tab" title="Localities">Localities</a></li>
+                <li class=""><a href="#tab2" data-toggle="tab" title="NYC">NYC</a></li>
+                <li class=""><a href="#tab3" data-toggle="tab" title="Higher Education">Higher Education</a></li>
+                <li class=""><a href="#tab4" data-toggle="tab" title="K-12 Schools">K-12 Schools</a></li>
+                <li class=""><a href="#tab5" data-toggle="tab" title="Health Care">Health Care</a></li>
+                <li class=""><a href="#tab6" data-toggle="tab" title="Business and Nonprofits">Business and Nonprofits</a></li>
+        </ul>
+
+        <div class="tab-content">
+            
+
+                <div class="tab-pane tab-pane-grid fade in active clearfix" id="tab0">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/innovation/programs/buildsmart-ny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="BuildSmart NY">
+                                <h4>BuildSmart NY</h4>
+                                <p>State building energy efficiency program</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/digital-energy-services/ny-energy-manager" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="NY Energy Manager">
+                                <h4>NY Energy Manager</h4>
+                                <p>Energy monitoring and control services</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab1">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/innovation/programs/five-cities-energy-program" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Five Cities Energy Program">
+                                <h4>Five Cities Energy Program</h4>
+                                <p>Comprehensive municipal energy planning</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/innovation/programs/recharge-ny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="ReCharge NY">
+                                <h4>ReCharge NY</h4>
+                                <p>Low-cost energy for economic development</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/innovation/programs/chargeny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Charge NY">
+                                <h4>Charge NY</h4>
+                                <p>Electric vehicle recharging stations</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab2">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/innovation/programs/recharge-ny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="ReCharge NY">
+                                <h4>ReCharge NY</h4>
+                                <p>Low-cost energy for economic development</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/digital-energy-services/ny-energy-manager" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="NY Energy Manager">
+                                <h4>NY Energy Manager</h4>
+                                <p>Energy monitoring and control services</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/innovation/programs/chargeny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Charge NY">
+                                <h4>Charge NY</h4>
+                                <p>Electric vehicle recharging stations</p>
+                                <span>Program</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab3">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/digital-energy-services/ny-energy-manager" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="NY Energy Manager">
+                                <h4>NY Energy Manager</h4>
+                                <p>Energy monitoring and control services</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/innovation/programs/chargeny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Charge NY">
+                                <h4>Charge NY</h4>
+                                <p>Electric vehicle recharging stations</p>
+                                <span>Program</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab4">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/innovation/programs/k-solar" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="K-Solar">
+                                <h4>K-Solar</h4>
+                                <p>Solar power for K-12 schools</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab5">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/digital-energy-services/ny-energy-manager" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="NY Energy Manager">
+                                <h4>NY Energy Manager</h4>
+                                <p>Energy monitoring and control services</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/innovation/programs/chargeny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Charge NY">
+                                <h4>Charge NY</h4>
+                                <p>Electric vehicle recharging stations</p>
+                                <span>Program</span>
+                            </a>
+                    </div>
+                </div>
+                <div class="tab-pane tab-pane-grid fade  clearfix" id="tab6">
+                    <div class="flex flex-wrap load-more-container">
+                            <a href="/innovation/programs/recharge-ny" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="ReCharge NY">
+                                <h4>ReCharge NY</h4>
+                                <p>Low-cost energy for economic development</p>
+                                <span>Program</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/overview-of-solutions" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Customer Energy Solutions">
+                                <h4>Customer Energy Solutions</h4>
+                                <p>NYPA&#39;s energy project consulting team</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/financing/nypa-financing" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Project Financing">
+                                <h4>Project Financing</h4>
+                                <p>NYPA finances capital projects for many customers</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/assessments" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Audits and Feasibility Studies">
+                                <h4>Audits and Feasibility Studies</h4>
+                                <p>NYPA helps identify energy opportunities</p>
+                                <span>Service</span>
+                            </a>
+                            <a href="/services/customer-energy-solutions/demand-response" class="tab-pane-border col-xs-12 col-sm-6 col-md-4 visible" title="Demand Response">
+                                <h4>Demand Response</h4>
+                                <p>Find profitable DR opportunities</p>
+                                <span>Service</span>
+                            </a>
+                    </div>
+                </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+<div class="container-fluid">
+            <div class="row flex-desktop">
+
+                <div class="twitter-block block col-xs-12 col-sm-7 col-md-8">
+                    <div id="carousel-twitter" class="partial-twitter">
+
+                        <div class="carousel-inner">
+
+                                <div class="item active" style="background: url('/-/media/nypa/images/content-images/twitter-news/twitter-feed-2020.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://twitter.com/NYPAenergy/status/1304163927836721152" tabindex="_blank" class="handle" title="@NYPAenergy">@NYPAenergy</a>
+                                            <span class="date">9/10/2020 5:04:45 PM</span>
+                                            <p class="tweet small-font">
+                                                Stay informed. 
+
+Sign up for email updates from New York State with critical information on the #<a href="https://twitter.com/hashtag/Coronavirus?src=hash">Coronavirus</a> pandemic here: <a href="https://t.co/lSxoA5bgzP">https://t.co/lSxoA5bgzP</a>
+                                            </p>
+                                            <span class="twitter-icon"><svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg></span>
+                                            <a href="https://twitter.com/NYPAenergy" target="_blank" class="follow" title="Follow @ NYPAenergy on Twitter">Follow @ NYPAenergy on Twitter</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item " style="background: url('http://pbs.twimg.com/media/EhkVhpdX0AEHp52.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://twitter.com/NYPAenergy/status/1304097585318301696" tabindex="_blank" class="handle" title="@NYPAenergy">@NYPAenergy</a>
+                                            <span class="date">9/10/2020 12:41:07 PM</span>
+                                            <p class="tweet small-font">
+                                                NYPA has completed platform lighting upgrades at @MTA's @GrandCentralNYC, supporting @NYGovCuomo's Climate Leadership &amp; Community Protection Act. The upgrades will reduce #<a href="https://twitter.com/hashtag/GHG?src=hash">GHG</a> emissions by 1,655 tons p/yr, while also saving on energy &amp; maintenance costs. <a href="https://t.co/vYZLHYR9H6">https://t.co/vYZLHYR9H6</a>
+                                            </p>
+                                            <span class="twitter-icon"><svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg></span>
+                                            <a href="https://twitter.com/NYPAenergy" target="_blank" class="follow" title="Follow @ NYPAenergy on Twitter">Follow @ NYPAenergy on Twitter</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item " style="background: url('/-/media/nypa/images/content-images/twitter-news/twitter-feed-2020.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://twitter.com/NYPAenergy/status/1304084402117521409" tabindex="_blank" class="handle" title="@NYPAenergy">@NYPAenergy</a>
+                                            <span class="date">9/10/2020 11:48:44 AM</span>
+                                            <p class="tweet small-font">
+                                                RT @NYSDEC: New York State's Fall #<a href="https://twitter.com/hashtag/foliage?src=hash">foliage</a> season is just beginning to emerge! 
+
+Here's your first 2020 Fall Foliage Report from @I_LOVE_NY…
+                                            </p>
+                                            <span class="twitter-icon"><svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg></span>
+                                            <a href="https://twitter.com/NYPAenergy" target="_blank" class="follow" title="Follow @ NYPAenergy on Twitter">Follow @ NYPAenergy on Twitter</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item " style="background: url('http://pbs.twimg.com/media/EhjzKyeWoAE_nq_.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://twitter.com/NYPAenergy/status/1304061483089891329" tabindex="_blank" class="handle" title="@NYPAenergy">@NYPAenergy</a>
+                                            <span class="date">9/10/2020 10:17:40 AM</span>
+                                            <p class="tweet small-font">
+                                                #<a href="https://twitter.com/hashtag/TBT?src=hash">TBT</a>: Robert Moses, former NYPA Chairman (1954-1962) and "master builder" of New York City, giving a speech in front of the camera. (c. 1950)
+                                            </p>
+                                            <span class="twitter-icon"><svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg></span>
+                                            <a href="https://twitter.com/NYPAenergy" target="_blank" class="follow" title="Follow @ NYPAenergy on Twitter">Follow @ NYPAenergy on Twitter</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                <div class="item" style="background: url('/-/media/nypa/images/content-images/twitter-news/press-release-feed-image.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="/news/press-releases/2020/20200910-mta" target="" tabindex="_blank" class="handle" title="New York Power Authority Partners with Metropolitan Transportation Authority on Track Lighting Upgrades at Grand Central Terminal">Press Release</a>
+                                            <span class="date">9.10.20 12:00PM</span>
+                                            <p class="tweet small-font">
+                                                New York Power Authority Partners with Metropolitan Transportation Authority on Track Lighting Upgrades at Grand Central Terminal
+                                            </p>
+                                            <p class="tweet sub-text">
+                                                
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item" style="background: url('/-/media/nypa/images/content-images/twitter-news/press-release-feed-image.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://www.governor.ny.gov/news/governor-cuomo-announces-new-ice-breaking-tugboat-clear-ice-and-help-prevent-shoreline-flooding" target="" tabindex="_blank" class="handle" title="Governor Cuomo Announces New Ice Breaking Tugboat to Clear Ice and Help Prevent Shoreline Flooding Along the Niagara River&amp;nbsp;">Press Release</a>
+                                            <span class="date">9.9.20 4:30PM</span>
+                                            <p class="tweet small-font">
+                                                Governor Cuomo Announces New Ice Breaking Tugboat to Clear Ice and Help Prevent Shoreline Flooding Along the Niagara River&nbsp;
+                                            </p>
+                                            <p class="tweet sub-text">
+                                                
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item" style="background: url('/-/media/nypa/images/content-images/twitter-news/press-release-feed-image.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="https://www.manifoldrobotics.com/post/manifold-robotics-announces-new-collaboration-with-nypa-for-safe-drone-operation-near-power-lines" target="" tabindex="_blank" class="handle" title="Manifold Robotics Announces New Collaboration with NYPA for Safe Drone Operation Near Power Lines">Press Release</a>
+                                            <span class="date">9.8.20 2:00PM</span>
+                                            <p class="tweet small-font">
+                                                Manifold Robotics Announces New Collaboration with NYPA for Safe Drone Operation Near Power Lines
+                                            </p>
+                                            <p class="tweet sub-text">
+                                                
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item" style="background: url('/-/media/nypa/images/content-images/twitter-news/press-release-feed-image.jpg') center top no-repeat; background-size: cover;">
+                                    <div class="item-color-overlay"></div>
+                                    <div class="item-container" style="width:90%;">
+                                        <div class='twitter-text'>
+                                            <a href="/news/press-releases/2020/20200903-fortlawrence" target="" tabindex="_blank" class="handle" title="Construction Complete on Historical Stockade Fort in Honor of St. Lawrence County Residents Who Fought in the American Civil War">Press Release</a>
+                                            <span class="date">9.3.20 10:00AM</span>
+                                            <p class="tweet small-font">
+                                                Construction Complete on Historical Stockade Fort in Honor of St. Lawrence County Residents Who Fought in the American Civil War
+                                            </p>
+                                            <p class="tweet sub-text">
+                                                
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                        </div>
+                    </div>
+
+                    <a href="/News" class="text block-grid-text" title="News">
+                        <h3>
+                            News
+                            <span class="arrow-circle">
+                                <div class="svg">
+                                    <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                </div>
+                            </span>
+                        </h3>
+                    </a>
+                </div>
+
+                <a href="/careers" class="block twitter-sibling col-xs-12 col-sm-5 col-md-4" style="background: url('/-/media/nypa/images/content-images/twitter-news/twitter-news/join-the-winning-team.jpg?h=401&amp;w=441&amp;hash=968DFF92B7186242E8FF29A4F8ECFBE110EEBADB') center top no-repeat; background-size: cover;" title="Careers at NYPA">
+                    <div class="text block-grid-text">
+                        <h3>
+                            Careers at NYPA
+                            <span class="arrow-circle">
+                                <div class="svg">
+                                    <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg?h=1&amp;w=1&amp;hash=5E142208A77DF64FA188C97C3001019C365DA468#right-arrow" /></svg>
+                                </div>
+                            </span>
+                        </h3>
+                    </div>
+                </a>
+
+
+            </div>
+
+            
+
+        </div>
+
+</div>
+
+            <div class="legal-share container-fluid">
+                <div class="row">
+                    
+<div class="col-xs-12 col-sm-4 copyright">
+    <a href="/">NY Power Authority<br>
+<span>© 2020 New York Power Authority</span></a>
+</div><div class="col-xs-12 col-sm-8 social">
+    
+
+<div class="col-xs-1 col-sm-3 col-md-5 col-lg-6 social-share">
+        <span>Share</span>
+        <a href="#" target="_blank" class="share-icon">
+            <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#share" /></svg>
+        </a>
+        <ul class="share-icons">
+<li>
+                        <a href="" class="twitter-share" title="Twitter">
+                                <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg>
+                        </a>
+                    </li>
+<li>
+                        <a href="" class="facebook-share" title="Facebook">
+                                <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#facebook" /></svg>
+                        </a>
+                    </li>
+<li>
+                        <a href="" class="linkedin-share" title="LinkedIn">
+                                <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#linkedin" /></svg>
+                        </a>
+                    </li>
+<li>
+                        <a href="" class="email-share" title="Email">
+                                <svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#email" /></svg>
+                        </a>
+                    </li>
+            <span class="arrow arrow-down arrow-gray"></span>
+        </ul>
+    </div>
+
+
+
+
+
+    <div class="col-xs-11 col-sm-9 col-md-7 col-lg-6">
+        <span>Follow</span>
+        <ul class="social-follow">
+                    <li>
+                        <a href="https://twitter.com/NYPAenergy?lang=en" target="_blank" class="twitter" title="Twitter">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#twitter" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/NYPAEnergy/" target="_blank" class="facebook" title="Facebook">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#facebook" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://instagram.com/nypaenergy" target="_blank" class="instagram" title="Instagram">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#instagram" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/new-york-power-authority" target="_blank" class="linkedin" title="LinkedIn">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#linkedin" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href=" http://nypaenergy.tumblr.com/" target="_blank" class="tumblr" title="Tumblr">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#tumblr" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC_5XDOLQny9Xb7W6wICkHzw" target="_blank" class="youtube" title="YouTube">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#youtube" /></svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.flickr.com/photos/nypaenergy/albums" target="_blank" class="flickr" title="Flickr">
+<svg><use xlink:href="/-/media/nypa/images/icons/icon-sprite.svg#flickr" /></svg>
+                        </a>
+                    </li>
+        </ul>
+    </div>
+
+
+            
+
+</div>
+
+
+                </div>
+            </div>
+        </section>
+        <footer id="footer" class="clearfix">
+            <div class="footer-container">
+                   
+    
+
+        <div class="footer-con">
+    <div class="footer-col">
+        <span class="footer-title">About</span>
+        <ul>
+                    <li>
+                        <a href="/about" target="" title="Mission">
+Mission                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/leadership" target="" title="Leadership">
+Leadership                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/strategic-vision" target="" title="Strategic Vision">
+Strategic Vision                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/financials" target="" title="Financials">
+Financials                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/timeline" target="" title="History">
+History                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/initiatives/sustainability" target="" title="Sustainability">
+Sustainability                        </a>
+                    </li>
+                    <li>
+                        <a href="/communities/visitors-centers/visitors-centers-overview" target="" title="Visitors Centers">
+Visitors Centers                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/licensing-and-allocations" target="" title="Licensing and Allocations">
+Licensing and Allocations                        </a>
+                    </li>
+                    <li>
+                        <a href="/footer/contact-nypa" target="" title="Contact">
+Contact                        </a>
+                    </li>
+        </ul>
+    </div>
+    <div class="footer-col">
+        <span class="footer-title">The Latest</span>
+        <ul>
+                    <li>
+                        <a href="/news" target="" title="News">
+News                        </a>
+                    </li>
+                    <li>
+                        <a href="/careers" target="" title="Careers">
+Careers                        </a>
+                    </li>
+                    <li>
+                        <a href="/about/covid-19-response" target="" title="COVID-19 Response">
+COVID-19 Response                        </a>
+                    </li>
+                    <li>
+                        <a href="/calendar" target="" title="Events">
+Events                        </a>
+                    </li>
+                    <li>
+                        <a href="http://nypa.live/nypalive/live.html" target="_blank" title="Meeting Webcasts">
+Meeting Webcasts                        </a>
+                    </li>
+                    <li>
+                        <a href="/procurement" target="" title="RFPs">
+RFPs                        </a>
+                    </li>
+                    <li>
+                        <a href="/services/digital-energy-services/ny-energy-manager" target="" title="NY Energy Manager">
+NY Energy Manager                        </a>
+                    </li>
+                    <li>
+                        <a href="http://rev.ny.gov/" target="_blank" title="NYS REV">
+NYS REV                        </a>
+                    </li>
+        </ul>
+    </div>
+        </div>
+        <div class="footer-con">
+    <div class="footer-col">
+        <span class="footer-title">Programs</span>
+        <ul>
+                    <li>
+                        <a href="/innovation/programs/buildsmart-ny" target="" title="BuildSmart NY">
+BuildSmart NY                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/programs/chargeny" target="" title="Charge NY">
+Charge NY                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/programs/evolve-ny" target="" title="EVolve NY">
+EVolve NY                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/programs/five-cities-energy-program" target="" title="Five Cities Program">
+Five Cities Program                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/programs/k-solar" target="" title="K-Solar">
+K-Solar                        </a>
+                    </li>
+                    <li>
+                        <a href="/innovation/programs/recharge-ny" target="" title="ReCharge NY">
+ReCharge NY                        </a>
+                    </li>
+        </ul>
+    </div>
+    <div class="footer-col">
+        <span class="footer-title">Library</span>
+        <ul>
+                    <li>
+                        <a href="/library" target="" title="Documents">
+Documents                        </a>
+                    </li>
+                    <li>
+                        <a href="/footer/freedom-of-information-law" target="" title="Freedom of Information Law (FOIL)">
+Freedom of Information Law (FOIL)                        </a>
+                    </li>
+        </ul>
+    </div>
+        </div>
+
+<div class="footer-con">
+    <div class="footer-col">
+        <ul class="sub">
+               <li>
+                   <a href="/footer/accessibility" target="" title="Accessibility">
+                       Accessibility
+                   </a>
+               </li>
+               <li>
+                   <a href="/footer/disclaimer" target="" title="Disclaimer">
+                       Disclaimer
+                   </a>
+               </li>
+               <li>
+                   <a href="/footer/privacy" target="" title="Privacy Policy">
+                       Privacy Policy
+                   </a>
+               </li>
+               <li>
+                   <a href="http://assistive.usablenet.com/tt/http://www.nypa.gov" target="_blank" title="Text-Only Version">
+                       Text-Only Version
+                   </a>
+               </li>
+               <li>
+                   <a href="/sitemap" target="" title="Sitemap">
+                       Sitemap
+                   </a>
+               </li>
+        </ul>
+    </div>
+</div>
+
+            
+
+    
+
+    
+        
+            </div>
+        </footer>
+    </section>
+    <div id="nygov-universal-footer" class="nygov-universal-container">
+        <noscript>
+            <iframe id="nygov-universal-footer-frame" class="nygov-universal-container" width="100%" height="200px" src="//static-assets.ny.gov/load_global_footer/ajax?iframe=true" data-updated="2014-11-07 08:30" frameborder="0" style="border:none; overflow:hidden; width:100%; height:200px;" scrolling="no">
+                Your browser does not support iFrames
+            </iframe>
+        </noscript>
+    </div>
+
+   <!--  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+     -->
+    <!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+     -->
+
+     <!-- <script
+  src="https://code.jquery.com/jquery-3.0.0.min.js"
+  integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0="
+  crossorigin="anonymous"></script> -->
+
+<!--   <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script> -->
+
+  
+<script
+  src="https://code.jquery.com/jquery-3.5.1.min.js"
+  integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js" integrity="sha384-vhJnz1OVIdLktyixHY4Uk3OHEwdQqPppqYR8+5mjsauETgLOcEynD9oPHhhz18Nw" crossorigin="anonymous"></script> -->
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="/scripts/webtrends.load.js"></script>
+
+	<script src="/scripts/slick.min.js"></script>
+<script src="/scripts/svgxuse.min.js"></script>
+<script src="/scripts/jquery.easy-autocomplete.min.js"></script>
+<script src="/scripts/script.js"></script>
+
+
+</body>
+</html><script id="f5_cspm">(function(){var f5_cspm={f5_p:'IHLAEMIJMGAIGKHCOIHIDJFOOCBGNGNKHNAJDAPIAOEBPCELDIGMGDGJLEPALBMKAANNOKNGLGLKODMFAACNBPJJKFCMFAGDPNOBNOJBMAJLCNGJIMPPPGIILCOHDKPP',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr1604209147aaaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script>

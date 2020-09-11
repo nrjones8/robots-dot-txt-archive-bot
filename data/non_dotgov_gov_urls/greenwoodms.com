@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0;URL=https://www.greenwoodms.com/site/404" />

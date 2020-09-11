@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+
+
+<head>
+
+
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen, projection"/>
+	<!--[if lte IE 7]>
+    <link rel="stylesheet" type="text/css" href="css/ie.css" media="screen" />
+    <![endif]-->
+	<link rel="stylesheet" href="css/layout.css">
+
+    <!--[if IE 9]>
+    <link rel="stylesheet" href="css/layout-IE.css">
+    <![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- WEB FONTS
+  ================================================== -->
+    <link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+
+	<!--<script type="text/javascript" src="js/jquery-1.3.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.dropdownPlain.js"></script>
+
+
+	<!-- ACCORDION
+	================================================== -->
+
+      <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+      <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+      <script>
+		  $(function() {
+		    $( "#accordionPublicFAQ" ).accordion({
+		      heightStyle: "content"
+		    });
+		  });
+      </script>
+
+
+	<!-- OPEN EXTERNAL LINKS IN A NEW WINDOW
+	================================================== -->
+
+		<script>
+$(function() {
+$('a:not([href=""]):not([href^="mailto"])').each(function() {
+if (this.hostname !== location.hostname) {
+$(this).addClass('externalLink').attr('target', "_blank");
+}
+});
+});
+        </script>
+
+
+	<!-- TinyNav
+	================================================== -->
+	<script src="js/tinynav.min.js"></script>
+
+	<!-- ResponsiveSlides
+	================================================== -->
+	<script src="js/responsiveslides.min.js"></script>
+
+
+
+	 	<!-- Google Analytics
+	================================================== -->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-33904027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+
+
+
+
+<title>Ohio Court of Claims | Civil & Crime Compensation Claims | Court Cases Rules Regulations Policies </title>
+
+
+
+<meta name="author" content=" Web Development by: Bluelaserdesign.com"/>
+
+
+
+<meta http-equiv="keywords" content="  Ohio Court of Claims | Civil & Crime Compensation Claims | Court Cases Rules Regulations Policies    "/>
+
+<meta name="robots" content="index, follow"/>
+
+<meta name="spiders" content="index, follow"/>
+
+<meta name="googlebot" content="index, follow"/>
+
+<meta name="revisit-after" content="15 days"/>
+
+<meta name="description" content="  The Ohio Court of Claims was created to hear claims against the state for money damages and to hear appeals from Attorney General decisions regarding claims filed under the Victims of Crime Compensation Program.    "/>
+
+<meta name="keywords" content="    Ohio Court of Claims | Civil & Crime Compensation Claims | Court Cases Rules Regulations Policies       "/>
+
+
+
+
+
+
+
+ </head>
+
+
+
+<body>
+
+
+
+
+
+
+
+	<!-- Primary Page Layout
+
+	================================================== -->
+
+
+
+	<!--Header Include Here-->
+
+	  <div class="top-bar">
+
+    <div class="container">
+
+      <div class="sixteen columns">
+
+        <form class="search-box" name="jksearch" action="https://www.google.com/search" method="get" onSubmit="jksitesearch(this)">
+
+          <input id="hiddenquery" type="hidden" name="q" />
+
+          <input name="qfront" type="text" style="width: 200px; display: inline; float: left;" placeholder="search" /> <input type="submit" class="main-button main-inline" value="Search" /><br />
+
+          <div style="display: none;">
+
+            Google:<input name="se" type="radio" checked>
+
+            Yahoo:<input name="se" type="radio">
+
+            MSN:<input name="se" type="radio">
+
+          </div>
+
+        </form>
+
+      </div>
+
+    </div>
+
+  </div>
+  <div class="red-bar" style="background-color: #e7232b;">
+    <div class="container">
+      <div class="sixteen columns">
+        <p align="center" style="color: #ffffff !important; font-size: 14px;"><a href="../pdf/COVID-announcement-2.pdf" style="color: #ffffff !important;" target="_blank">Please click here to read the Court’s response to COVID-19.</a></p>
+      </div>
+    </div>
+  </div>
+
+    <div class="headWrap">
+
+    	<div class="container">
+
+            <div class="ten columns">
+
+               <a name="top"></a> <a id="courtLogo" href="index.php">&nbsp;</a>
+
+            </div><!--.ten columns-->
+
+            <div class="six columns markHreed">
+
+            	Anderson M. Renick,<span>Clerk of the Court</span>
+
+                <a href="contact.php">Contact Us &raquo;</a>
+
+                <span class="social">
+
+                <!--<a href="https://www.facebook.com/OhioCourtofClaims?fref=ts" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>-->
+
+                <a href="https://www.linkedin.com/company/ohio-court-of-claims" target="_blank" class="linkedin"><i class="fa fa-linkedin"></i></a>
+
+                </span><!--.social-->
+
+            </div>
+            <!--.six .columns-->
+
+        </div><!--.container-->
+
+    </div><!--headWrap-->
+
+		<!--Header Include End-->
+
+
+
+	<div class="container">
+
+		<!--<div class="sixteen columns">
+			<p style="text-align: center;background-color: #E7232B;color: #ffffff;padding-bottom: 10px;font-weight: 600;margin: 25px 0px 0px 0px;line-height:1.25;">Case Search will be unavailable Saturday, October 21st due to maintenance.</p>
+		</div>-->
+
+		<!--<div class="sixteen columns">
+			<p style="text-align: center;background-color: #E7232B;color: #ffffff;padding-bottom: 10px;font-weight: 600;margin: 25px 0px 0px 0px;line-height:1.25;">The Thomas J. Moyer Ohio Judicial Center will be closed to the public on Monday, June 1. All Ohio Court of Claims filings will be extended by one day.</p>
+		</div>-->
+
+		<!--<div class="sixteen columns">
+		<p align="center"><a href="https://ohiocourtofclaims.gov/continuing-legal-education-2017.php"><img src="images/CLE-banner-2017.jpg" /></a></p>
+		</div>-->
+		
+			<!--Nav Include Here-->
+
+				    	<nav>
+
+            <a href="index.php">Home</a>
+
+            <a href="contact.php">Contact Us</a>
+
+        </nav>
+
+
+
+        
+
+        <div class="sixteen columns mainNav">
+
+        	<ul id="nav" class="dropdown">
+
+            	
+
+                <li><a href="claims-v-the-state.php">Claims vs the State</a>
+
+                
+
+                	<ul class="sub_menu one">
+
+                    	<li><a class="one" href="claims-faq.php">Claims vs the State FAQ</a></li>
+
+                        <li><a class="one" href="forms.php">Forms</a></li>
+
+                        <li><a class="one" href="fees-costs.php">Fees &amp; Costs</a></li>
+
+                        <li><a class="one" href="case-timelines.php">Case Timelines</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" href="https://ohio.gov/wps/portal/gov/site/government/state-agencies/state-agencies" target="_blank">Find State Agencies</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" href="https://www.ohiohighered.org/campuses/map" target="_blank">Find Colleges/Universities</a></li>
+
+                        <li><a class="one" href="alternative-dispute-resolution.php">Alternative Dispute Resolution</a></li>
+
+                        <li><a class="one" href="glossary.php">Glossary</a></li>
+
+                    </ul>
+
+                
+
+                </li>
+                
+                <li><a href="public-records.php">Public Records</a>
+
+                
+
+                	<ul class="sub_menu one">
+
+                    	<li><a class="one" href="public-records-faq.php">Public Records FAQ</a></li>
+                        
+                        <li><a class="one" href="public-records-forms.php">Public Records Forms</a></li>
+
+                        <li><a class="one" href="public-records-fees-costs.php">Public Records Fees &amp; Costs</a></li>
+                        
+                        <li><a href="../pdf/forms/public-records-case-management-process.pdf" target="_blank">Public Records Case Management Process</a></li>
+
+                        <li><a class="one" href="https://ohiocourtofclaims.gov/pdf/public-records-case-timeline.pdf" target="_blank">Public Records Case Timeline</a></li>
+
+                        <li><a class="one" href="public-records-resources.php">Public Records Resources</a></li>
+                        
+                        <li><a class="one" href="public-records-glossary.php">Public Records Glossary</a></li>
+
+                        <li><a class="one" href="https://ohiocourtofclaims.gov/pdf/OCC-Resolution-Center-User-Guide.pdf" target="_blank">Modria User Guide</a></li>
+
+                    </ul>
+
+              <li><a href="crime-victims-compensation.php">Crime Victims Compensation</a>
+
+                
+
+                	<ul class="sub_menu two">
+
+                    	<li><a class="two" href="crime-faq.php">Crime Victims FAQ</a></li>
+
+                        <li><a class="two" href="forms.php">Forms</a></li>
+
+                        <li><a class="two" href="fees-costs.php">Fees &amp; Costs</a></li>
+
+                        <li><a class="two" href="case-timelines.php">Case Timelines</a></li>
+                        <li><a href="continuing-legal-education.php">Victims Appeals Seminar</a></li>
+
+                        <li><a class="two" href="claim-for-compensation.php">Filing a Claim for Compensation</a></li>
+
+                        <li><a class="two" href="glossary.php">Glossary</a></li>
+
+                    </ul>
+
+                
+
+              </li>
+
+                <li><a href="legal-community.php">Legal Community</a>
+
+                
+
+                	<ul class="sub_menu three">
+
+                    	<li><a class="three" href="legal-faq.php">Legal Community FAQ</a></li>
+
+                        <li><a class="three" href="forms.php">Forms</a></li>
+
+                        <li><a class="three" href="fees-costs.php">Fees &amp; Costs</a></li>
+
+                        <li><a class="three" href="case-timelines.php">Case Timelines</a></li>
+                        <li><a href="continuing-legal-education-2015.php">2015 Victims Appeals CLE</a></li>
+                        <li><a href="continuing-legal-education-2017.php">2017 Victims Appeals CLE</a></li>
+
+                        <li><a class="three" href="https://ohcourtportal.tylerhost.net/Portal/" target="_blank">Court Calendar</a></li>
+
+                        <li><a class="three" href="courtroom-technology.php">Courtroom Technology</a></li>
+
+                        <li><a class="three" href="transcripts.php">Transcripts</a></li>
+
+                        <li><a class="three" href="alternative-dispute-resolution.php">Alternative Dispute Resolution</a></li>
+
+                        <li><a class="three" href="wrongful-imprisonment-claims.php">Wrongful Imprisonment Claims</a></li>
+
+                    </ul>
+
+                
+
+              </li>
+
+                <li><a href="press-media.php">Press/Media</a>
+
+                
+
+                	<ul class="sub_menu four">
+
+                    	<li><a class="four" href="rules-for-broadcasting.php">Rules for Broadcasting</a></li>
+
+                        <li><a class="four" href="public-records-requests.php">Public Records Request</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" href="http://ohiocourtofclaims.data.socrata.com/" target="_blank">Open Data Portal</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="http://www.courtnewsohio.gov/" target="_blank">Court News Ohio</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="http://www.ohiochannel.org/" target="_blank">Ohio Channel</a></li>
+
+                        <li><a class="four" href="reports.php">Annual Reports</a></li>
+
+                    </ul>
+
+                
+
+                </li>
+
+                <li><a>Online Services</a>
+
+                
+
+                	<ul class="sub_menu four">
+
+                    	<li><a class="four" href="https://ohcourtportal.tylerhost.net/Portal/" target="_blank">Case Search</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" href="http://ohiocourtofclaims.data.socrata.com/" target="_blank">Open Data Portal</a></li>
+
+                        <li><a class="four" href="forms.php">Forms</a></li>
+
+                        <li><a class="four" href="efile.php">eFile</a></li>
+
+                        <li><a class="four" href="https://ohcourtportal.tylerhost.net/Portal/" target="_blank">Court Calendar</a></li>
+                        
+                        <li><a class="four" href="journals-victims-archives.php">Journals &amp; Victims Archives</a></li>
+
+                        <li><a class="four" href="transcripts.php">Transcripts</a></li>
+
+                        <li><a class="one" href="https://ohiocourtofclaims.gov/pdf/OCC-Resolution-Center-User-Guide.pdf" target="_blank">Modria User Guide</a></li>
+
+                    </ul>
+
+                
+
+                </li>
+
+                <li><a>General Info</a>
+
+                
+
+                	<ul class="sub_menu four">
+
+                    	<li><a class="four" href="about-the-court.php">About the Court</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="http://www.supremecourt.ohio.gov/SCO/jurisdiction/structure.pdf" target="_blank">Court Structure</a></li>
+
+                        <li><a class="four" href="fees-costs.php">Fees &amp; Costs</a></li>
+
+                        <li><a class="four" href="courtroom-technology.php">Courtroom Technology</a></li>
+
+                        <li><a class="four" href="reports.php">Reports</a></li>
+
+                    </ul>
+
+                
+
+                </li>
+
+                <li><a>Resources</a>
+
+                
+
+                	<ul class="sub_menu four">
+
+                    	<li><a class="four" href="rules-statutes.php">Rules &amp; Statutes</a></li>
+
+                        <li><a class="four" href="glossary.php">Glossary</a></li>
+
+                        <li><a class="four" href="case-timelines.php">Case Timelines</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="https://ohio.gov/wps/portal/gov/site/government/state-agencies/state-agencies" target="_blank">Find State Agencies</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="https://www.ohiohighered.org/campuses/map" target="_blank">Find Colleges/Universities</a></li>
+
+                        <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="four" href="http://www.ohioattorneygeneral.gov/Individuals-and-Families/Victims/Apply-for-Victims-Compensation" target="_blank">Crime Victims Compensation</a></li>
+
+                        <li><a class="four" href="links.php">Links</a></li>
+
+                    </ul>
+
+                
+
+                </li>
+
+
+
+
+
+                
+
+            </ul>
+
+        </div><!--.sixteen columns mainNav-->
+
+        
+
+
+				<!--Nav Include End-->
+
+				<div class="sixteen columns slider">
+					
+					<ul class="rslides">
+
+
+
+  <li><a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" href="http://ohiocourtofclaims.data.socrata.com/" target="_blank"><img src="../images/open-data-portal-slider.jpg" alt="Open Data Portal Now Available"></a></li>
+
+  <li><a href="../rules-statutes.php"><img src="../images/lccr-slider.jpg" alt="L.C.C.R 4(C) and (D) have been amended"></a></li>
+
+  <li><a href="../efile.php#prepare_case_online"><img src="../images/prepare-court-case-online.jpg" alt="Prepare your court case online"></a></li>
+
+  <!--<li><a href="../blog/"><img src="../images/case-activity-reports.jpg" alt="Case Activity Reports"></a></li>-->
+
+  <li><img src="../images/slider-1.png" alt=""></li>
+
+  <li><img src="../images/slider-2.png" alt=""></li>
+
+  <li><img src="../images/slider-4.png" alt=""></li>
+
+  <li><img src="../images/slider-5.png" alt=""></li>
+
+</ul>
+				</div><!--.sixteen columns slider-->
+
+	</div><!-- container -->
+
+
+
+	<div class="container">
+
+			<!--<div class="sixteen columns mainCTAs"><a href="continuing-legal-education.php"><img src="images/CLE-banner.png" alt="Register for the CLE seminar" /></a>
+            </div>-->
+
+
+            <div class="sixteen columns mainCTAs">
+
+					<a id="claimsVsTheState" href="claims-v-the-state.php"></a>
+                    
+                    <a id="publicrecords" href="public-records.php"></a>
+
+						<a id="crimeVictimsCompensation" href="crime-victims-compensation.php"></a>
+
+						<a id="legalCommunity" href="legal-community.php"></a>
+
+    </div><!--.sixteen columns mainCTAs-->
+
+		</div>
+
+
+
+		<div class="container">
+
+			<div class="sixteen columns introText">
+
+					<h1>Ohio Court of Claims</h1>
+
+						<hr>
+
+
+
+						<p>The Ohio Court of Claims was created to hear claims against the state for money damages and to hear appeals from Attorney General decisions regarding claims filed under the Victims of Crime Compensation Program.</p>
+
+						<p>In this regard, the state includes the General Assembly, Supreme Court, offices of all elected state officers (governor, attorney general, auditor of the state, secretary of state and treasurer of state), all state departments, boards, offices, commissions, agencies, institutions, and state colleges and universities.</p>
+                        
+                        <p>The Court of Claims also handles public records claims. These cases between citizens and the government (except courts) regarding access to public records are first referred to mediation, then if necessary proceed to a decision by the court.</p>
+
+
+
+				</div><!--.sixteen .columns .introText-->
+
+			<div class="eight columns introText">
+
+						<p><strong>Cases Filed Here Typically Involve:</strong></p>
+
+
+
+						<ul class="circle">
+
+								<li>Contract Disputes</li>
+
+								<li>Medical Malpractice</li>
+
+								<li>Property Damage</li>
+
+								<li>Personal Injury</li>
+
+								<li>Immunity of State Officers and Employees</li>
+
+								<li>Employment Discrimination</li>
+
+								<li>Wrongful Imprisonment</li>
+                                
+                                <li>Public Records Claims</li>
+
+			</ul>
+
+
+
+				</div><!--.eight columns introText-->
+
+
+
+				<div class="eight columns howDoI">
+
+					<h3>How Do I...</h3>
+
+				<!--HOW DO I Include Here-->
+
+								            <form>
+
+            	<select id="howDoI" name="howDoI">
+
+                	<option>How Do I...</option>
+
+                    <option value="/claims-faq.php#005">&nbsp;How do I file a claim against a state agency?</option>
+
+                    <option value="/crime-faq.php#010">&nbsp;How do I file for Crime Victims Compensation?</option>
+
+                    <option value="http://cases.ohiocourtofclaims.gov/cgi-bin/wspd_cgi.sh/casesearch.htm">&nbsp;How do I find out my case number?</option>
+
+                    <option value="/public-records-requests.php">&nbsp;How do I access paper case files?</option>
+
+                    <option value="http://cases.ohiocourtofclaims.gov/cgi-bin/wspd_cgi.sh/casesearch.htm">&nbsp;How do I access electronic case files?</option>
+
+                    <option value="/rules-statutes.php">&nbsp;How do I find Court Rules & State Laws</option>
+
+                    <option value="/links.php">&nbsp;How do I find a lawyer to represent me?</option>
+                    
+                    <option value="../pdf/forms/public-records-complaint-form.pdf" target="_blank">&nbsp;How do I file a claim for a denial of public records?</option>
+
+                </select>
+
+            </form>
+
+            
+
+            <script>
+
+				$(function(){
+
+				  // bind change event to select
+
+				  $('#howDoI').bind('change', function () {
+
+					  var url = $(this).val(); // get selected value
+
+					  if (url) { // require a URL
+
+						  window.location = url; // redirect
+
+					  }
+
+					  return false;
+
+				  });
+
+				});
+
+			</script>
+								<!--HOW DO I Include End-->
+
+
+
+						<h3 class="quickLinks">Quick Links</h3>
+
+				<!--QUICK LINKS Include Here-->
+
+								            <form>
+
+            	<select id="quickLinks" name="quickLinks">
+
+                	<option>Quick Links</option>
+
+                    <option value="/fees-costs.php">&nbsp;Fees &amp; Costs</option>
+
+                    <option value="https://ohcourtportal.tylerhost.net/Portal/">&nbsp;Case Search</option>
+
+                    <option value="http://www.ohio.gov/agencies/">&nbsp;Find State Agencies</option>
+
+                    <option value="https://www.ohiohighered.org/campuses/map">&nbsp;Find Colleges/Universities</option>
+
+                    <option value="https://ohcourtportal.tylerhost.net/Portal/">&nbsp;Court Calendar</option>
+
+                    <option value="/transcripts.php">&nbsp;Transcripts</option>
+                    
+                    <option value="../public-records-resources.php">&nbsp;Public Records Resources</option>
+
+                </select>
+
+            </form>
+
+            
+
+            <script>
+
+				$(function(){
+
+				  // bind change event to select
+
+				  $('#quickLinks').bind('change', function () {
+
+					  var url = $(this).val(); // get selected value
+
+					  if (url) { // require a URL
+
+						  window.location = url; // redirect
+
+					  }
+
+					  return false;
+
+				  });
+
+				});
+
+			</script>
+								<!--QUICK LINKS Include End-->
+
+
+
+								<div class="clear">&nbsp;</div>
+
+				</div><!--.eight columns howDoI-->
+
+		</div><!--.container-->
+
+
+
+		<div class="container">
+
+			<div class="sixteen columns subCTAs">
+
+					<a id="fileAClaim" href="claims-faq.php#005"></a>
+
+						<a onClick="return confirm('You are now leaving the Court of Claims website. Press OK to continue.')" class="one" id="opendataportal" href="http://ohiocourtofclaims.data.socrata.com/" target="_blank"></a>
+
+						<a id="efiling" href="efile.php"></a>
+
+						<a id="caseSearch" href="https://ohcourtportal.tylerhost.net/Portal/"></a>
+
+				</div><!--.sixteen columns subCTAs-->
+
+		</div><!--.container-->
+
+
+
+		<!--Footer Include Here-->
+
+		    <div class="container">
+
+    	<div class="sixteen columns footerNav">
+
+        	<ul id="nav">
+
+            	<li><a href="claims-v-the-state.php">Claims vs the State</a></li>
+                
+            	<li><a href="public-records.php">Public Records</a></li>
+
+                <li><a href="crime-victims-compensation.php">Crime Victims Compensation</a></li>
+
+                <li><a href="legal-community.php">Legal Community</a></li>
+
+                <div style="clear:both;"></div>
+
+            </ul>
+
+        </div><!--.sixteen columns footer-->
+
+    	<div class="sixteen columns footerContent">
+
+        	<div id="blog">
+
+            	<h4>Hours of Operation</h4>
+
+                <p>Monday - Friday: 8am &ndash; 5pm<br />
+
+				  Saturday - Sunday: Closed<br /><br />
+
+                    <em>Closed on State Holidays</em></p>
+                    <p><a style="border:none" href="../pdf/2015-Top-Ten-Court-Websites-Press-Release.pdf" target="_blank"><img src="../images/Top10WebsiteBadge_2015.jpg" alt="Top 10 Court Websites 2015 Winner" /></a></p>
+
+            </div><!--#blog-->
+
+            <div id="copyright">
+
+            	<h4>&copy; Ohio Court of Claims 2015</h4>
+
+                <p><strong>Thomas J. Moyer <br>Ohio Judicial Center</strong><br>
+
+                65 South Front Street,<br>
+
+                Third Floor<br>
+
+                Columbus, OH 43215</p>
+
+                <p><strong><a href="tel:+16143879800">614.387.9800</a></strong></p>
+
+								<div style="margin:15px 0;text-align:center;">
+									<span id="siteseal"><script type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=naIpRJPFt7a22q7uUrss5IWZCOWX7Sayp8kusuWG8RAGjJImXYMssYq7w6wh"></script></span>
+								</div>
+
+            </div><!--#copyright-->
+
+            <div id="footerContact">
+
+            	<h4>Contact Us</h4>
+
+                
+
+<form action="verify.php" method="post" name="footerForm" id="footerForm">
+
+    <input id="footerName" name="name" type="text" placeholder="Name">
+
+    <input id="footerEmail" name="email" type="text" placeholder="Email Address">
+
+    <textarea id="footerComment" name="questionComment" type="text">&nbsp;</textarea>
+
+        <div class="g-recaptcha" data-sitekey="6LfP3kwUAAAAAASd44-XZsLpWrNxVZH1NXpWJcBy"></div>
+
+
+    <input style="margin: 10px 0" id="footerSubmit" name="submit" type="image" src="images/submit.gif">
+
+
+
+</form>
+                <p class="use_above">Use the form above</p>
+
+            </div><!--#footerContact-->
+
+        </div><!--.sixteen columns footer-->
+
+    	<div class="sixteen columns BLD">
+
+        <h5>Columbus Ohio Website Design by: <a href="https://www.bluelaserdigital.com/" target="_blank">BLUE LASER DIGITAL</a></h5>
+
+        </div><!--.sixteen columns footer-->
+
+
+
+
+
+        <div class="sixteen columns footerNavMobile">
+
+        	<h4>&copy; Ohio Court of Claims 2014</h4>
+
+            <a href="claims-v-the-state.php"><strong>Claims vs the State</strong></a>
+
+            <a href="crime-victims-compensation.php"><strong>Crime Victims Compensation</strong></a>
+
+            <a href="legal-community.php"><strong>Legal Community</strong></a>
+
+            <a href="press-media.php"><strong>Press/Media</strong></a>
+
+        </div><!--.sixteen columns footerNavMobile-->
+
+
+
+
+
+
+
+    </div><!--.container-->
+
+		<!--Footer Include End-->
+
+
+
+
+
+
+
+		<!-- Recaptcha
+================================================== -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<script>
+  $(function () {
+    $("#nav").tinyNav();
+  });
+</script>
+<script>
+  $(function() {
+    $(".rslides").responsiveSlides();
+  });
+</script>
+
+
+		<script type="text/javascript">
+
+
+
+		// All-in-one Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)
+
+		// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+
+		// This notice must stay intact for use
+
+
+
+		//Enter domain of site to search.
+
+		var domainroot="https://ohiocourtofclaims.gov/"
+
+
+
+		var searchaction=[ //form action for the 3 search engines
+
+		"https://www.google.com/search"
+
+		]
+
+
+
+		var queryfieldname=["q","p","q"] //name of hidden query form for the 3 search engines
+
+
+
+		function switchaction(cur, index){
+
+		cur.form.action=searchaction[index]
+
+		document.getElementById("hiddenquery").name=queryfieldname[index]
+
+		}
+
+
+
+		function jksitesearch(curobj){
+
+		for (i=0; i< document.jksearch.se.length; i++){ //loop through radio to see which is checked
+
+		if (document.jksearch.se[i].checked==true)
+
+		switchaction(document.jksearch.se[i], i)
+
+		}
+
+		document.getElementById("hiddenquery").value="site:"+domainroot+" "+curobj.qfront.value
+
+		}
+
+
+
+
+
+		</script>
+
+
+
+<!-- End Document
+
+================================================== -->
+
+</body>
+
+</html>

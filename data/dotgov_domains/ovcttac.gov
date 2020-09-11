@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /adminhp/
+Disallow: /consultant/
+Disallow: /COTR/
+Disallow: /fckeditor/
+Disallow: /NAS/
+Disallow: /OVCRC/
+Disallow: /svaa/
+Disallow: /trafficking/
+Disallow: /traffickingLC/
+Disallow: /UHCNI/
+Disallow: /userfiles/
+Disallow: /views/TrainingMaterials/VOCANVAA/
+Disallow: /VOCANVAA/
+# To be used by OVCTTAC starting ~late 2011
+Disallow:/downloads/
+# Some spiders, including Google, MSN, and Yahoo! allow asterisk wildcards.
+# Be sure to end with the "$". Google doesn’t need it, but some others do.
+# In late 2011, the following will probably be unnecessary, as these types of
+# files will all be housed in the /downloads/ directory.
+Disallow: /*.ppt$ 
+Disallow: /*.pptx
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.wmv$
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.mdb$
+Disallow: /*.adb$
+Disallow: /*.wma$
+Disallow: /*.mp3$
+
+# Allow indexing of files under the eguide
+Allow:/TaskForceGuide/eguide/*.pdf$
+Allow:/TaskForceGuide/eguide/*.doc$
+Allow:/TaskForceGuide/eguide/*.docx$
+Allow:/TaskForceGuide/eguide/*.ppt$
+Allow:/TaskForceGuide/eguide/*.pptx$
+Allow:/TaskForceGuide/eguide/*.xls$
+Allow:/TaskForceGuide/eguide/*.xlsx$
+Allow:/TaskForceGuide/eguide/*.mpg$
+Allow:/TaskForceGuide/eguide/*.wmv$

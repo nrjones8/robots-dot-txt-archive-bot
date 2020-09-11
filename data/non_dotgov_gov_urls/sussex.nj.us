@@ -1,0 +1,14 @@
+# www.robotstxt.org/
+# Allow crawling of all content
+User-agent: *
+Disallow: /activity/
+Disallow: /Bids/
+Disallow: /Documents/
+Disallow: /FCpdf/
+Disallow: /Images/
+Disallow: /PJImages/
+Disallow: /uppages/
+Disallow: /cn/Images/
+Disallow: /cn/inc/
+
+Sitemap: https://www.sussex.nj.us/documents/sitemap.xml

@@ -1,0 +1,1 @@
+# www.robotstxt.org/ # http://code.google.com/web/controlcrawlindex/ User-agent: * Allow: /app/public/site/images Allow: /app/public/site/fonts Allow: /app/public/site/fonts/ Allow: /vendor/fortyfour/fluid-core/resources/fontawesomeDisallow: /.git/* Disallow: /app/* Disallow: /bootstrap/* Disallow: /node_modules/* Disallow: /vendor/* Disallow: /admin/* Disallow: /auth/*

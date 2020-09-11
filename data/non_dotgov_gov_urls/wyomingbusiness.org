@@ -1,0 +1,26 @@
+﻿User-agent: *
+Disallow: /Admin/
+Disallow: /App_Browsers/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_WebReferences/
+Disallow: /Bin/
+Disallow: /Controls/
+Disallow: /css/
+Disallow: /DocumentLibrary/
+Disallow: /EmailTemplates/
+Disallow: /Images/
+Disallow: /js/
+Disallow: /MediaLibrary/
+Disallow: /Pages/
+Disallow: /PictureLibrary/
+Disallow: /Popup/
+Disallow: /swf/
+Disallow: /Temp/
+Disallow: /Test/
+Disallow: /Upload/
+Disallow: /WebServices/
+Disallow: /*.config$
+Disallow: /login
+Disallow: /media/view
+#Disallow: / #block all in sites except production

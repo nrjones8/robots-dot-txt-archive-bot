@@ -1,0 +1,539 @@
+
+
+
+
+
+
+
+
+<html lang="en">
+<head><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	Official Website
+</title>
+
+<script src="/clientcommon/jquery/jquery1.10.2min.js" type="text/javascript"></script>
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+
+<link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="common/css/design.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 1000px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ 
+
+       
+
+    
+
+
+    
+ 
+
+    <style>
+   
+        .itemHeader {color:#1b3e5e;}
+
+        .SocialFooter
+        {
+            text-align: right;
+            
+             box-sizing:border-box;
+        }
+
+        .tableData th, .tableDataHdr {
+color: #1b3e5e; 
+background: #dadee0;
+ text-transform: none;
+}
+
+         .menu {max-width: 1400px;
+                width: 100%;
+         }
+
+.itemCaption, .itemCaption a, .itemHeader, .itemHeader a, h1, h1 a, h3, .boldTextColor, .itemCaptionNoFl, .itemCaptionNoFl a, .itemSummaryNOP {color: #1b3e5e ;}
+
+.pageSearch{padding-bottom:50px; border-bottom:1px solid #cccccc;}
+.notFound{padding-top:20px; font-style:italic;}
+
+
+   .breadCrumb a
+    {
+         color: #6d6d6d!important;
+    }
+
+        @media only screen and (max-width: 999px) {
+    .mobileHeader {
+        position: absolute;
+    }
+
+    .logo{
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 0px;
+    }
+
+    .searching2{
+        padding-top: 5px;
+        float: unset;
+        width: 100%;
+    }
+    .searchingBox
+    {
+        width: 90%;
+    }
+
+
+    .header{
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+
+
+}
+
+
+            .breadCrumb
+    {
+        width: 95%;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        color: #6d6d6d!important;
+    }
+
+
+    .gray, .tdCaption, .itemDate
+    {
+        color: #595959!important;
+    }
+
+    .pageLeftHigh a, .pageLeftHigh a span, .pageLeftNoHigh a, .pageLeftNoHigh a span {
+        color: #007459!important ;
+        font-size: 16px!important;
+        font-weight:normal!important;
+    }
+ 
+    </style>
+       
+
+          <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+
+    
+    <style>
+        .eAlert {
+    background: #000;
+    border-bottom: 2px solid #EB0000;
+    min-height: 50px;
+}
+.alertBG {
+    max-width:90%; margin:auto;
+    background: url(/common/images/alertbg.png) center left no-repeat;
+}
+.eAlertIn {
+    padding-top: 18px;
+    padding-bottom:5px;
+    padding-left: 150px;
+    color: #EB0000;
+    min-height: 50px;
+    font-size:1.1em;
+    background-color: transparent;
+    border-bottom: 0px;
+    box-sizing: border-box;
+}
+
+    .eAlertIn a {
+        color: #EB0000;
+          text-decoration: none;
+    }
+    .eAlertIn a:hover {
+        color: #EB0000;
+          text-decoration: underline;
+    }
+
+
+        .secondRight {
+            max-height: unset;
+        }
+    </style>
+ <link href="/WebResource.axd?d=JONZX-qxntRl1ob6XU1Kxbzkujo730gnEIiSO8vL47ysJWnp9P9LWLPbMJlMuO99wHo3OOncocW2oWYXZc3DLQSViOb9J9D2sFzu0_kIG-KK7YySCxKh5Ru2NvbNA9PApaD-SP3L97gUg4MpKk86j4tssEIIp1K8jYGXAFWCohM1&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=ciVRTtA5NiuigYbeLr3cAnGKS3V1G-jYoLlxjOFg2GP3y-dLN5zQBaaa75eTbrmaQ7nXomM-i0wAn5lIAyMqD6oqh7Rtr-WhDZEPGAnhQZKiDv06LcICOs8DnNoAGF5VWTfw3YlLs-ARzsB_rf9FIA2&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=TMXv9dmHEAH-QXvI7FNZll3wXCLm1sX2RZT8MfgpaOHrzGfUUDoIJNUuhwl-0QrsUXGE11smUD6mxo04Ii5dbaXFaxbHGN4WtoS1jHQy9ipXOuaK31PtMTqSNPeeDJa-7b7iZ7OUoHrWpf1OlgRA-O1LFijjd87QXZu6r63YVRw1&amp;t=637278680480000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body>
+<!-- UltimateSearch_IgnoreLinksBegin -->
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgQPZBYMAgYPFgIeBFRleHQFxgI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2Zvcm1zLmFzcHg/ZmlkPTY1MCI+UmVwb3J0IGEgQ29uY2VybjwvYT48L2Rpdj48ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2RvY3VtZW50cy5hc3B4P2NhdGVnb3J5aWQ9MCI+RG9jdW1lbnQgQ2VudGVyPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvc3RhZmYuYXNweD9jYXRlZ29yeWlkPTAiPkNvbnRhY3QgVXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0ic2lkZUl0ZW0iPjxhIGhyZWY9Ii9hZ2VuZGEuYXNweD9jYXRlZ29yeWlkPTAiPkFnZW5kYXMgJiBNaW51dGVzPC9hPjwvZGl2PmQCCQ8PFggeFUVuYWJsZUVtYmVkZGVkU2NyaXB0c2ceHEVuYWJsZUVtYmVkZGVkQmFzZVN0eWxlc2hlZXRnHhJSZXNvbHZlZFJlbmRlck1vZGULKXJUZWxlcmlrLldlYi5VSS5SZW5kZXJNb2RlLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIwLjIuNjE3LjQwLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQBHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2hkZAIKDxYCHwAFrQE8YSBocmVmPSJodHRwczovL2NvbHZpbGxlLndhLnVzL25vdGZvdW5kLmFzcHg/cHJpbnQ9MSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgdnNwYWNlPSI3IiBzcmM9Ii9jbGllbnRjb21tb24vaW1hZ2VzL3ByaW50LmdpZiIgIGJvcmRlcj0iMCIgYWx0PSJQcmludGVyIEZyaWVuZGx5IFZlcnNpb24iIC8+PC9hPmQCCw9kFgICAQ8PFgIfAAUOUGFnZSBOb3QgRm91bmRkZAINDxYCHwAFqwM8ZGl2ID5DaXR5IG9mIENvbHZpbGxlPC9kaXY+PGRpdj4xNzAgUyBPYWssIDxzcGFuIGNsYXNzPSJtb2JpbGVEaXYiPkNvbHZpbGxlPHNwYW4gY2xhc3M9Im1vYmlsZUhpZGUiPiw8L3NwYW4+IFdBIDk5MTE0PC9zcGFuPjwvZGl2PjxkaXY+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+UGhvbmU6ICg1MDkpIDY4NC01MDk0Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9zdGFmZi5hc3B4Ij5FbWFpbCBVczwvYT48L3NwYW4+PC9kaXY+PGEgaHJlZj0iL2RlZmF1bHQuYXNweCI+SG9tZTwvYT4mbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzxhIGhyZWY9Ii90ZXJtc29mdXNlLmFzcHgiPkFjY2Vzc2liaWxpdHk8L2E+Jm5ic3A7Jm5ic3A7ZAIODxYCHwAFzAE8YSBocmVmPSIvbm90aWZ5LmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zZW5ld3MucG5nIiBhbHQ9IkUtbm90aWZ5IiBzdHlsZT0iYm9yZGVyOiAwOyI+PC9hPiZuYnNwOzxhIGhyZWY9Ii9yc3MuYXNweCI+PGltZyBzcmM9Ii9jb21tb24vaW1hZ2VzLzNyc3MucG5nIiBhbHQ9IlJTUyBGZWVkcyIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDtkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBQ9jdGwwMCRpbWdTZWFyY2gFDGN0bDAwJHJTaGFyZRt8hPmjlzLqibJTkycaE8vmZfaRh1V8rLXqyv4ydjat" />
+
+
+<script src="/ScriptResource.axd?d=ey0Zkk_DBHoYhtDgMfcB_VnfMqjo3Cq7fADnCGgjoIyq4TR4gd3OTBRX37KZcPc4sS9hUJUh_fZK2rdnyAxIHG7ztafqna9dcxhmfW4xSufbT5XXQQdTSreaI0RUx_j1CbobQAA6KhRc38MaXVRyqpJr0_sKDCDNORpW5okSCYaUnpAECjS-CsI__9Sqg8oF0&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=heVqMuKdQSsMKkNXZEoT3dAI8EoN-nBsaJw0kNlS4iDVI_4hOJDGEy53FSdKhbF1-Q_K-EWr_NUujT4MgRgKUw5ZjQECK2GVI_XjmwGNDZWYPDmCXXAR_eCbqEgg6asEhdx5UoDiRCos6x31dc-Y7Q2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=c8Ct3YRcouQcvWGbDD8HgxIKQeo_OplOTvRMoLJWrbd1b55Lj_Omp1ayjzzGWgaSaw2T1lw_JgFxW6nqhB9kziLB8cWQSq1wzbACz74zB_F223S_NwWwn_9vMoXiCqaK4qq5lQJNz6QLajXF3li1FQ2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TT2i3tpCR1SbAtbbY_ITzDvNgVpOeA-dXRUFBN9CWS7bkxk6LJIwxP-IwWiuGW3lLSX2mNOmSablQbPzwh5w4WR2ouBfLrKlu45-vYNu4PyIZmqOz7TUEQRncFRF7cxZOy1Y2r1zB06iE8xq_rnUgA2&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=B0QP8BKmRdUMxpUSINwQ7tBxAIFKeRwzGjX7gGvOCD-ai99MM6D7X49eBS-2mWmdNzqMecGbEVeAvYpxeMcUA7_KTGkG4AkBegZqy5YLyp7upMxgehMGtO8xjQbZX44uWNGGXxz05rHuOihWyoTTmXQc9SFg_UqnvZMNC2N4p7u6552qQqBWIiYqBN-ubKbh0&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=IQrXXmUNwEXBGC2IIRdqz5dIkjRcw2GLNFkMOBAhf4iS8j1IPZHCnBkklL_8oJYjfrTASBGOYrgRrlRG7dyamek9BzJYqDrhqEKm4_uQU9GxojmzL3z5OwsPqjBjMHC09_rng-yvhE6CkGMMsjYKuD3LQ4wj-KJzPdisvUIp8ak1&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=INgB-DFuhm-amxrXrgZws7sBZ3H7-rZAXXhm0TIn6BOCpFvoA6rUsr_XC2LQPbkPvTQ0wujrcoohus38L55E6x6OSWm-NP8agoxddumj-q2P3cApXP00tvDq4TBFD_UPH2SzYnV3Qm6-XYUBH86RQNwLtOP-U3Zw_ZFVMzeuarQ1&amp;t=ffffffffa397eb30" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYxqhiy+uKbamBwqDTdYmdH4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75V9gylhGG5oEmnmpECd4akzJGIR2l0/iYIikDJPrt0+4w==" />
+      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16062&catid=464">Live</a></div><div class="mobileMenuItemR" id="mm464">+</div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35799&catid=464">Calendar of Events</a></div><div class="mobileMenuItemRS" id="mm46435799">+</div></div><div class="mobileMenuItemSubS sm46435799"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35929&catid=464">City Holidays</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35949&catid=464">College</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35800&catid=464">Get e-Notifications</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35872&catid=464">Library</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35960&catid=464">Mayor's Updates</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35880&catid=464">News & Announcements</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35873&catid=464">Parks and Recreation</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35921&catid=464">Proclamations</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35874&catid=464">Public Utilities</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35797&catid=464">Report a Concern</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35956&catid=464">Resources for Mental Health and Substance Abuse</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35801&catid=464">School District</a></div></div><div class="mobileMenuItemSub sm464"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35816&catid=464">Stevens County</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16061&catid=463">Work</a></div><div class="mobileMenuItemR" id="mm463">+</div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35923&catid=463">Bids &amp; RFPs</a></div><div class="mobileMenuItemRS" id="mm46335923">+</div></div><div class="mobileMenuItemSubS sm46335923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35802&catid=463">Current Bids & RFPs</a></div></div><div class="mobileMenuItemSubS sm46335923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35924&catid=463">Small Works Roster</a></div></div><div class="mobileMenuItemSubS sm46335923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35925&catid=463">Vendor List</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35877&catid=463">Building and Planning</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35927&catid=463">Business Registration</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35798&catid=463">Employment Opportunities</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35804&catid=463">Local Businesses</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35964&catid=463">Small Business Stabilization Grant</a></div></div><div class="mobileMenuItemSub sm463"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35876&catid=463">Tri County Economic Development District</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16063&catid=465">Play</a></div><div class="mobileMenuItemR" id="mm465">+</div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35922&catid=465">About Colville</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35799&catid=465">Calendar of Events</a></div><div class="mobileMenuItemRS" id="mm46535799">+</div></div><div class="mobileMenuItemSubS sm46535799"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35929&catid=465">City Holidays</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35804&catid=465">Local Businesses</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35812&catid=465">Local Links</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35805&catid=465">Our History</a></div><div class="mobileMenuItemRS" id="mm46535805">+</div></div><div class="mobileMenuItemSubS sm46535805"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35808&catid=465">Elegant House</a></div></div><div class="mobileMenuItemSubS sm46535805"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35810&catid=465">Historic Places - The Heritage Network</a></div></div><div class="mobileMenuItemSubS sm46535805"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35807&catid=465">Keller House</a></div></div><div class="mobileMenuItemSubS sm46535805"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35806&catid=465">Stevens County Museum</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35873&catid=465">Parks and Recreation</a></div></div><div class="mobileMenuItemSub sm465"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35811&catid=465">Things to Do</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16060&catid=462">Government</a></div><div class="mobileMenuItemR" id="mm462">+</div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35813&catid=462">Agendas & Minutes</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35785&catid=462">Boards and Committees</a></div><div class="mobileMenuItemRS" id="mm46235785">+</div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35786&catid=462">Airport Board</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35787&catid=462">Civil Service Commission</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35932&catid=462">Colville Mountain Advisory Group</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35789&catid=462">Historic Preservation Commission</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35788&catid=462">Library Board of Trustees</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35792&catid=462">Park and Recreation Board</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35790&catid=462">Parking Commission</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35793&catid=462">Planning Commission</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35948&catid=462">Technical Review Committee</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35791&catid=462">Tree Board</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35795&catid=462">Vinson Fund Committee</a></div></div><div class="mobileMenuItemSubS sm46235785"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35794&catid=462">Zoning Board of Adjustment</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35814&catid=462">City Council and Mayor</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35815&catid=462">Directory</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35952&catid=462">Document Center</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35915&catid=462">FAQs</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35796&catid=462">Municipal Code</a></div></div><div class="mobileMenuItemSub sm462"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35816&catid=462">Stevens County</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16059&catid=461">City Services</a></div><div class="mobileMenuItemR" id="mm461">+</div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35827&catid=461">Airport</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35822&catid=461">Building and Planning</a></div><div class="mobileMenuItemRS" id="mm46135822">+</div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35933&catid=461">2011 Comprehensive Plan</a></div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35953&catid=461">2020 Comprehenseive Plan Update</a></div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35930&catid=461">Building Department</a></div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35843&catid=461">Permits</a></div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35842&catid=461">Planning Department</a></div></div><div class="mobileMenuItemSubS sm46135822"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35844&catid=461">Zoning and Planning Map</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35818&catid=461">City Clerk</a></div><div class="mobileMenuItemRS" id="mm46135818">+</div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35939&catid=461">2020 Budget at a Glance</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35940&catid=461">2020 Expenditures</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35938&catid=461">2020 Revenue</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35934&catid=461">Claim for Damages</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35861&catid=461">Human Resources</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35944&catid=461">Lodging Tax</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35919&catid=461">Request Public Records</a></div></div><div class="mobileMenuItemSubS sm46135818"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35935&catid=461">Request to be on the City Council Agenda</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35825&catid=461">City Treasurer</a></div><div class="mobileMenuItemRS" id="mm46135825">+</div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35834&catid=461">Business Registration</a></div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35832&catid=461">Garbage Service</a></div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35833&catid=461">Low-Income Utility Rate Reduction</a></div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35912&catid=461">Online Payments</a></div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35831&catid=461">Utility Services</a></div></div><div class="mobileMenuItemSubS sm46135825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35926&catid=461">Utility Tax</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35820&catid=461">Fire Department</a></div><div class="mobileMenuItemRS" id="mm46135820">+</div></div><div class="mobileMenuItemSubS sm46135820"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35836&catid=461">Burning Regulations</a></div></div><div class="mobileMenuItemSubS sm46135820"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35837&catid=461">Fireworks</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35828&catid=461">Library</a></div><div class="mobileMenuItemRS" id="mm46135828">+</div></div><div class="mobileMenuItemSubS sm46135828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35830&catid=461">Library Board</a></div></div><div class="mobileMenuItemSubS sm46135828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35829&catid=461">Meeting Room Rental</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35821&catid=461">Parks and Recreation</a></div><div class="mobileMenuItemRS" id="mm46135821">+</div></div><div class="mobileMenuItemSubS sm46135821"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35840&catid=461">City Pool</a></div></div><div class="mobileMenuItemSubS sm46135821"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35839&catid=461">Parks Department</a></div></div><div class="mobileMenuItemSubS sm46135821"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35838&catid=461">Recreation</a></div></div><div class="mobileMenuItemSubS sm46135821"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35841&catid=461">Tiger-Tri</a></div></div><div class="mobileMenuItemSubS sm46135821"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35954&catid=461">Tiger-Tri</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35823&catid=461">Police Department</a></div><div class="mobileMenuItemRS" id="mm46135823">+</div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35851&catid=461">Animal Control</a></div><div class="mobileMenuItemRS3" id="mm46135851">+</div></div><div class="mobileMenuItemSubS3 sm46135851"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35855&catid=461">Citations and Other Fees</a></div></div><div class="mobileMenuItemSubS3 sm46135851"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35852&catid=461">Dog Facility/Adoption</a></div></div><div class="mobileMenuItemSubS3 sm46135851"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35853&catid=461">Owner Voluntary Surrender</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35848&catid=461">Commissioned Officer\Reserve Police Officer</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35847&catid=461">Concealed Pistol Licenses</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35858&catid=461">Crime Prevention</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35846&catid=461">Fingerprinting Services</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35857&catid=461">Home Security Patrol</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35850&catid=461">Parking Control</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35849&catid=461">Police Information Request</a></div></div><div class="mobileMenuItemSubS sm46135823"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35856&catid=461">Traffic Safety Program</a></div></div><div class="mobileMenuItemSub sm461"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35824&catid=461">Public Works</a></div><div class="mobileMenuItemRS" id="mm46135824">+</div></div><div class="mobileMenuItemSubS sm46135824"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35862&catid=461">Current Projects</a></div></div><div class="mobileMenuItemSubS sm46135824"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35869&catid=461">Street Department</a></div><div class="mobileMenuItemRS3" id="mm46135869">+</div></div><div class="mobileMenuItemSubS3 sm46135869"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35870&catid=461">Snow and Ice Removal</a></div></div><div class="mobileMenuItemSubS3 sm46135869"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35871&catid=461">Street Map</a></div></div><div class="mobileMenuItemSubS sm46135824"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35863&catid=461">Waste Water Treatment</a></div><div class="mobileMenuItemRS3" id="mm46135863">+</div></div><div class="mobileMenuItemSubS3 sm46135863"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35865&catid=461">Collection and Treatment</a></div></div><div class="mobileMenuItemSubS3 sm46135863"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35866&catid=461">Disposable Does Not Mean Flushable</a></div></div><div class="mobileMenuItemSubS3 sm46135863"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35864&catid=461">Laboratory</a></div></div><div class="mobileMenuItemSubS3 sm46135863"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35867&catid=461">Tour the Wastewater Treatment Plant</a></div></div><div class="mobileMenuItemSubS sm46135824"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35868&catid=461">Water/Sewer Department</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35764&catid=601">How Do I?</a></div><div class="mobileMenuItemR" id="mm601">+</div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35881&catid=601">Apply For...</a></div></div><div class="mobileMenuItemSubS sm60135881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35911&catid=601">Boards and Committees</a></div></div><div class="mobileMenuItemSubS sm60135881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35908&catid=601">City Jobs</a></div></div><div class="mobileMenuItemSubS sm60135881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35909&catid=601">Permits and Inspections</a></div></div><div class="mobileMenuItemSubS sm60135881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35910&catid=601">Water Service</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35882&catid=601">Contact...</a></div></div><div class="mobileMenuItemSubS sm60135882"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35906&catid=601">City Council</a></div></div><div class="mobileMenuItemSubS sm60135882"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35907&catid=601">City Staff</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35883&catid=601">Get...</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35901&catid=601">Birth Certificate</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35899&catid=601">Dog License</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35900&catid=601">Driver's License</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35903&catid=601">e-Notifications</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35904&catid=601">Library Card</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35902&catid=601">Passport</a></div></div><div class="mobileMenuItemSubS sm60135883"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35905&catid=601">Vehicle License</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35884&catid=601">Pay...</a></div></div><div class="mobileMenuItemSubS sm60135884"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35897&catid=601">Taxes</a></div></div><div class="mobileMenuItemSubS sm60135884"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35898&catid=601">Water Bills</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35885&catid=601">Register...</a></div></div><div class="mobileMenuItemSubS sm60135885"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35895&catid=601">My Vehicles</a></div></div><div class="mobileMenuItemSubS sm60135885"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35896&catid=601">To Vote</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35928&catid=601">Report a Concern</a></div></div><div class="mobileMenuItemSub sm601"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35886&catid=601">View...</a></div><div class="mobileMenuItemRS" id="mm60135886">+</div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35887&catid=601">Agendas & Minutes</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35894&catid=601">Bids & RFPs</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35892&catid=601">Employment Opportunities</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35893&catid=601">Forms and Documents</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35889&catid=601">Municipal Codes</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35890&catid=601">Ordinances</a></div></div><div class="mobileMenuItemSubS sm60135886"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35891&catid=601">Resolutions</a></div></div></div><div id="m16059" class="levelSub level1"><div id="mi35827" class="menuItem "><a href="/pview.aspx?id=35827&catid=461"">Airport</a></div><div id="mi35822" class="menuItem menuChild"><a href="/pview.aspx?id=35822&catid=461"">Building and Planning</a></div><div id="mi35818" class="menuItem menuChild"><a href="/pview.aspx?id=35818&catid=461"">City Clerk</a></div><div id="mi35825" class="menuItem menuChild"><a href="/pview.aspx?id=35825&catid=461"">City Treasurer</a></div><div id="mi35820" class="menuItem menuChild"><a href="/pview.aspx?id=35820&catid=461"">Fire Department</a></div><div id="mi35828" class="menuItem menuChild"><a href="/pview.aspx?id=35828&catid=461"">Library</a></div><div id="mi35821" class="menuItem menuChild"><a href="/pview.aspx?id=35821&catid=461"">Parks and Recreation</a></div><div id="mi35823" class="menuItem menuChild"><a href="/pview.aspx?id=35823&catid=461"">Police Department</a></div><div id="mi35824" class="menuItem menuChild"><a href="/pview.aspx?id=35824&catid=461"">Public Works</a></div></div><div id="m16060" class="levelSub level1"><div id="mi35813" class="menuItem "><a href="/pview.aspx?id=35813&catid=462"">Agendas & Minutes</a></div><div id="mi35785" class="menuItem menuChild"><a href="/pview.aspx?id=35785&catid=462"">Boards and Committees</a></div><div id="mi35814" class="menuItem "><a href="/pview.aspx?id=35814&catid=462"">City Council and Mayor</a></div><div id="mi35815" class="menuItem "><a href="/pview.aspx?id=35815&catid=462"">Directory</a></div><div id="mi35952" class="menuItem "><a href="/pview.aspx?id=35952&catid=462"">Document Center</a></div><div id="mi35915" class="menuItem "><a href="/pview.aspx?id=35915&catid=462"">FAQs</a></div><div id="mi35796" class="menuItem "><a href="/pview.aspx?id=35796&catid=462" target="_blank"">Municipal Code</a></div><div id="mi35816" class="menuItem "><a href="/pview.aspx?id=35816&catid=462" target="_blank"">Stevens County</a></div></div><div id="m16061" class="levelSub level1"><div id="mi35923" class="menuItem menuChild"><a href="/pview.aspx?id=35923&catid=463"">Bids &amp; RFPs</a></div><div id="mi35877" class="menuItem "><a href="/pview.aspx?id=35877&catid=463"">Building and Planning</a></div><div id="mi35927" class="menuItem "><a href="/pview.aspx?id=35927&catid=463"">Business Registration</a></div><div id="mi35798" class="menuItem "><a href="/pview.aspx?id=35798&catid=463"">Employment Opportunities</a></div><div id="mi35804" class="menuItem "><a href="/pview.aspx?id=35804&catid=463" target="_blank"">Local Businesses</a></div><div id="mi35964" class="menuItem "><a href="/pview.aspx?id=35964&catid=463"">Small Business Stabilization Grant</a></div><div id="mi35876" class="menuItem "><a href="/pview.aspx?id=35876&catid=463" target="_blank"">Tri County Economic Development District</a></div></div><div id="m16062" class="levelSub level1"><div id="mi35799" class="menuItem menuChild"><a href="/pview.aspx?id=35799&catid=464"">Calendar of Events</a></div><div id="mi35949" class="menuItem "><a href="/pview.aspx?id=35949&catid=464" target="_blank"">College</a></div><div id="mi35800" class="menuItem "><a href="/pview.aspx?id=35800&catid=464"">Get e-Notifications</a></div><div id="mi35872" class="menuItem "><a href="/pview.aspx?id=35872&catid=464"">Library</a></div><div id="mi35960" class="menuItem "><a href="/pview.aspx?id=35960&catid=464"">Mayor's Updates</a></div><div id="mi35880" class="menuItem "><a href="/pview.aspx?id=35880&catid=464"">News & Announcements</a></div><div id="mi35873" class="menuItem "><a href="/pview.aspx?id=35873&catid=464"">Parks and Recreation</a></div><div id="mi35921" class="menuItem "><a href="/pview.aspx?id=35921&catid=464"">Proclamations</a></div><div id="mi35874" class="menuItem "><a href="/pview.aspx?id=35874&catid=464"">Public Utilities</a></div><div id="mi35797" class="menuItem "><a href="/pview.aspx?id=35797&catid=464"">Report a Concern</a></div><div id="mi35956" class="menuItem "><a href="/pview.aspx?id=35956&catid=464"">Resources for Mental Health and Substance Abuse</a></div><div id="mi35801" class="menuItem "><a href="/pview.aspx?id=35801&catid=464" target="_blank"">School District</a></div><div id="mi35816" class="menuItem "><a href="/pview.aspx?id=35816&catid=464" target="_blank"">Stevens County</a></div></div><div id="m16063" class="levelSub level1"><div id="mi35922" class="menuItem "><a href="/pview.aspx?id=35922&catid=465"">About Colville</a></div><div id="mi35799" class="menuItem menuChild"><a href="/pview.aspx?id=35799&catid=465"">Calendar of Events</a></div><div id="mi35804" class="menuItem "><a href="/pview.aspx?id=35804&catid=465" target="_blank"">Local Businesses</a></div><div id="mi35812" class="menuItem "><a href="/pview.aspx?id=35812&catid=465"">Local Links</a></div><div id="mi35805" class="menuItem menuChild"><a href="/pview.aspx?id=35805&catid=465"">Our History</a></div><div id="mi35873" class="menuItem "><a href="/pview.aspx?id=35873&catid=465"">Parks and Recreation</a></div><div id="mi35811" class="menuItem "><a href="/pview.aspx?id=35811&catid=465"">Things to Do</a></div></div><div id="m35764" class="levelSub level1"><div id="mi35881" class="menuItem "><a href="/pview.aspx?id=35881&catid=601"">Apply For...</a></div><div id="mi35882" class="menuItem "><a href="/pview.aspx?id=35882&catid=601"">Contact...</a></div><div id="mi35883" class="menuItem "><a href="/pview.aspx?id=35883&catid=601"">Get...</a></div><div id="mi35884" class="menuItem "><a href="/pview.aspx?id=35884&catid=601"">Pay...</a></div><div id="mi35885" class="menuItem "><a href="/pview.aspx?id=35885&catid=601"">Register...</a></div><div id="mi35928" class="menuItem "><a href="/pview.aspx?id=35928&catid=601"">Report a Concern</a></div><div id="mi35886" class="menuItem menuChild"><a href="/pview.aspx?id=35886&catid=601"">View...</a></div></div><div id="m35785" class="levelSub level2"><div id="mi35786" class="menuItem "><a href="/pview.aspx?id=35786&catid=0"">Airport Board</a></div><div id="mi35787" class="menuItem "><a href="/pview.aspx?id=35787&catid=0"">Civil Service Commission</a></div><div id="mi35932" class="menuItem "><a href="/pview.aspx?id=35932&catid=0"">Colville Mountain Advisory Group</a></div><div id="mi35789" class="menuItem "><a href="/pview.aspx?id=35789&catid=0"">Historic Preservation Commission</a></div><div id="mi35788" class="menuItem "><a href="/pview.aspx?id=35788&catid=0"">Library Board of Trustees</a></div><div id="mi35792" class="menuItem "><a href="/pview.aspx?id=35792&catid=0"">Park and Recreation Board</a></div><div id="mi35790" class="menuItem "><a href="/pview.aspx?id=35790&catid=0"">Parking Commission</a></div><div id="mi35793" class="menuItem "><a href="/pview.aspx?id=35793&catid=0"">Planning Commission</a></div><div id="mi35948" class="menuItem "><a href="/pview.aspx?id=35948&catid=0"">Technical Review Committee</a></div><div id="mi35791" class="menuItem "><a href="/pview.aspx?id=35791&catid=0"">Tree Board</a></div><div id="mi35795" class="menuItem "><a href="/pview.aspx?id=35795&catid=0"">Vinson Fund Committee</a></div><div id="mi35794" class="menuItem "><a href="/pview.aspx?id=35794&catid=0"">Zoning Board of Adjustment</a></div></div><div id="m35799" class="levelSub level2"><div id="mi35929" class="menuItem "><a href="/pview.aspx?id=35929&catid=0"">City Holidays</a></div></div><div id="m35805" class="levelSub level2"><div id="mi35808" class="menuItem "><a href="/pview.aspx?id=35808&catid=0"">Elegant House</a></div><div id="mi35810" class="menuItem "><a href="/pview.aspx?id=35810&catid=0" target="_blank"">Historic Places - The Heritage Network</a></div><div id="mi35807" class="menuItem "><a href="/pview.aspx?id=35807&catid=0"">Keller House</a></div><div id="mi35806" class="menuItem "><a href="/pview.aspx?id=35806&catid=0"">Stevens County Museum</a></div></div><div id="m35818" class="levelSub level2"><div id="mi35939" class="menuItem "><a href="/pview.aspx?id=35939&catid=0"">2020 Budget at a Glance</a></div><div id="mi35940" class="menuItem "><a href="/pview.aspx?id=35940&catid=0"">2020 Expenditures</a></div><div id="mi35938" class="menuItem "><a href="/pview.aspx?id=35938&catid=0"">2020 Revenue</a></div><div id="mi35934" class="menuItem "><a href="/pview.aspx?id=35934&catid=0"">Claim for Damages</a></div><div id="mi35861" class="menuItem "><a href="/pview.aspx?id=35861&catid=0"">Human Resources</a></div><div id="mi35944" class="menuItem "><a href="/pview.aspx?id=35944&catid=0"">Lodging Tax</a></div><div id="mi35919" class="menuItem "><a href="/pview.aspx?id=35919&catid=0"">Request Public Records</a></div><div id="mi35935" class="menuItem "><a href="/pview.aspx?id=35935&catid=0"">Request to be on the City Council Agenda</a></div></div><div id="m35820" class="levelSub level2"><div id="mi35836" class="menuItem "><a href="/pview.aspx?id=35836&catid=0"">Burning Regulations</a></div><div id="mi35837" class="menuItem "><a href="/pview.aspx?id=35837&catid=0"">Fireworks</a></div></div><div id="m35821" class="levelSub level2"><div id="mi35840" class="menuItem "><a href="/pview.aspx?id=35840&catid=0"">City Pool</a></div><div id="mi35839" class="menuItem "><a href="/pview.aspx?id=35839&catid=0"">Parks Department</a></div><div id="mi35838" class="menuItem "><a href="/pview.aspx?id=35838&catid=0"">Recreation</a></div><div id="mi35841" class="menuItem "><a href="/pview.aspx?id=35841&catid=0"">Tiger-Tri</a></div></div><div id="m35822" class="levelSub level2"><div id="mi35933" class="menuItem "><a href="/pview.aspx?id=35933&catid=0"">2011 Comprehensive Plan</a></div><div id="mi35953" class="menuItem "><a href="/pview.aspx?id=35953&catid=0"">2020 Comprehenseive Plan Update</a></div><div id="mi35930" class="menuItem "><a href="/pview.aspx?id=35930&catid=0"">Building Department</a></div><div id="mi35843" class="menuItem "><a href="/pview.aspx?id=35843&catid=0"">Permits</a></div><div id="mi35842" class="menuItem "><a href="/pview.aspx?id=35842&catid=0"">Planning Department</a></div><div id="mi35844" class="menuItem "><a href="/pview.aspx?id=35844&catid=0" target="_blank"">Zoning and Planning Map</a></div></div><div id="m35823" class="levelSub level2"><div id="mi35851" class="menuItem menuChild"><a href="/pview.aspx?id=35851&catid=0"">Animal Control</a></div><div id="mi35848" class="menuItem "><a href="/pview.aspx?id=35848&catid=0"">Commissioned Officer\Reserve Police Officer</a></div><div id="mi35847" class="menuItem "><a href="/pview.aspx?id=35847&catid=0"">Concealed Pistol Licenses</a></div><div id="mi35858" class="menuItem "><a href="/pview.aspx?id=35858&catid=0"">Crime Prevention</a></div><div id="mi35846" class="menuItem "><a href="/pview.aspx?id=35846&catid=0"">Fingerprinting Services</a></div><div id="mi35857" class="menuItem "><a href="/pview.aspx?id=35857&catid=0"">Home Security Patrol</a></div><div id="mi35850" class="menuItem "><a href="/pview.aspx?id=35850&catid=0"">Parking Control</a></div><div id="mi35849" class="menuItem "><a href="/pview.aspx?id=35849&catid=0"">Police Information Request</a></div><div id="mi35856" class="menuItem "><a href="/pview.aspx?id=35856&catid=0"">Traffic Safety Program</a></div></div><div id="m35824" class="levelSub level2"><div id="mi35862" class="menuItem "><a href="/pview.aspx?id=35862&catid=0"">Current Projects</a></div><div id="mi35869" class="menuItem menuChild"><a href="/pview.aspx?id=35869&catid=0"">Street Department</a></div><div id="mi35863" class="menuItem menuChild"><a href="/pview.aspx?id=35863&catid=0"">Waste Water Treatment</a></div><div id="mi35868" class="menuItem "><a href="/pview.aspx?id=35868&catid=0"">Water/Sewer Department</a></div></div><div id="m35825" class="levelSub level2"><div id="mi35834" class="menuItem "><a href="/pview.aspx?id=35834&catid=0"">Business Registration</a></div><div id="mi35832" class="menuItem "><a href="/pview.aspx?id=35832&catid=0"">Garbage Service</a></div><div id="mi35833" class="menuItem "><a href="/pview.aspx?id=35833&catid=0"">Low-Income Utility Rate Reduction</a></div><div id="mi35912" class="menuItem "><a href="/pview.aspx?id=35912&catid=0"">Online Payments</a></div><div id="mi35831" class="menuItem "><a href="/pview.aspx?id=35831&catid=0"">Utility Services</a></div><div id="mi35926" class="menuItem "><a href="/pview.aspx?id=35926&catid=0"">Utility Tax</a></div></div><div id="m35828" class="levelSub level2"><div id="mi35830" class="menuItem "><a href="/pview.aspx?id=35830&catid=0"">Library Board</a></div><div id="mi35829" class="menuItem "><a href="/pview.aspx?id=35829&catid=0"">Meeting Room Rental</a></div></div><div id="m35851" class="levelSub level3"><div id="mi35855" class="menuItem "><a href="/pview.aspx?id=35855&catid=0"">Citations and Other Fees</a></div><div id="mi35852" class="menuItem "><a href="/pview.aspx?id=35852&catid=0"">Dog Facility/Adoption</a></div><div id="mi35853" class="menuItem "><a href="/pview.aspx?id=35853&catid=0"">Owner Voluntary Surrender</a></div></div><div id="m35863" class="levelSub level3"><div id="mi35865" class="menuItem "><a href="/pview.aspx?id=35865&catid=0"">Collection and Treatment</a></div><div id="mi35866" class="menuItem menuChild"><a href="/pview.aspx?id=35866&catid=0"">Disposable Does Not Mean Flushable</a></div><div id="mi35864" class="menuItem "><a href="/pview.aspx?id=35864&catid=0"">Laboratory</a></div><div id="mi35867" class="menuItem "><a href="/pview.aspx?id=35867&catid=0"">Tour the Wastewater Treatment Plant</a></div></div><div id="m35869" class="levelSub level3"><div id="mi35870" class="menuItem "><a href="/pview.aspx?id=35870&catid=0"">Snow and Ice Removal</a></div><div id="mi35871" class="menuItem "><a href="/pview.aspx?id=35871&catid=0"">Street Map</a></div></div><div id="m35881" class="levelSub level2"><div id="mi35911" class="menuItem "><a href="/pview.aspx?id=35911&catid=0"">Boards and Committees</a></div><div id="mi35908" class="menuItem "><a href="/pview.aspx?id=35908&catid=0"">City Jobs</a></div><div id="mi35909" class="menuItem "><a href="/pview.aspx?id=35909&catid=0"">Permits and Inspections</a></div><div id="mi35910" class="menuItem "><a href="/pview.aspx?id=35910&catid=0"">Water Service</a></div></div><div id="m35882" class="levelSub level2"><div id="mi35906" class="menuItem "><a href="/pview.aspx?id=35906&catid=0"">City Council</a></div><div id="mi35907" class="menuItem "><a href="/pview.aspx?id=35907&catid=0"">City Staff</a></div></div><div id="m35883" class="levelSub level2"><div id="mi35901" class="menuItem "><a href="/pview.aspx?id=35901&catid=0" target="_blank"">Birth Certificate</a></div><div id="mi35899" class="menuItem "><a href="/pview.aspx?id=35899&catid=0"">Dog License</a></div><div id="mi35900" class="menuItem "><a href="/pview.aspx?id=35900&catid=0" target="_blank"">Driver's License</a></div><div id="mi35903" class="menuItem "><a href="/pview.aspx?id=35903&catid=0"">e-Notifications</a></div><div id="mi35904" class="menuItem "><a href="/pview.aspx?id=35904&catid=0" target="_blank"">Library Card</a></div><div id="mi35902" class="menuItem "><a href="/pview.aspx?id=35902&catid=0" target="_blank"">Passport</a></div><div id="mi35905" class="menuItem "><a href="/pview.aspx?id=35905&catid=0"">Vehicle License</a></div></div><div id="m35884" class="levelSub level2"><div id="mi35897" class="menuItem "><a href="/pview.aspx?id=35897&catid=0" target="_blank"">Taxes</a></div><div id="mi35898" class="menuItem "><a href="/pview.aspx?id=35898&catid=0"">Water Bills</a></div></div><div id="m35885" class="levelSub level2"><div id="mi35895" class="menuItem "><a href="/pview.aspx?id=35895&catid=0" target="_blank"">My Vehicles</a></div><div id="mi35896" class="menuItem "><a href="/pview.aspx?id=35896&catid=0" target="_blank"">To Vote</a></div></div><div id="m35886" class="levelSub level2"><div id="mi35887" class="menuItem "><a href="/pview.aspx?id=35887&catid=0"">Agendas & Minutes</a></div><div id="mi35894" class="menuItem "><a href="/pview.aspx?id=35894&catid=0"">Bids & RFPs</a></div><div id="mi35892" class="menuItem "><a href="/pview.aspx?id=35892&catid=0"">Employment Opportunities</a></div><div id="mi35893" class="menuItem "><a href="/pview.aspx?id=35893&catid=0"">Forms and Documents</a></div><div id="mi35889" class="menuItem "><a href="/pview.aspx?id=35889&catid=0" target="_blank"">Municipal Codes</a></div><div id="mi35890" class="menuItem "><a href="/pview.aspx?id=35890&catid=0"">Ordinances</a></div><div id="mi35891" class="menuItem "><a href="/pview.aspx?id=35891&catid=0"">Resolutions</a></div></div><div id="m35923" class="levelSub level2"><div id="mi35802" class="menuItem "><a href="/pview.aspx?id=35802&catid=0"">Current Bids & RFPs</a></div><div id="mi35924" class="menuItem "><a href="/pview.aspx?id=35924&catid=0"">Small Works Roster</a></div><div id="mi35925" class="menuItem "><a href="/pview.aspx?id=35925&catid=0"">Vendor List</a></div></div><div class="bigMenuCon" id="bm464"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35799&catid=464">Calendar of Events</a></h1>
+<h4><a href="/pview.aspx?id=35929&catid=464">City Holidays</a></h4>
+<h1><a href="/pview.aspx?id=35949&catid=464" target="blank">College</a></h1>
+<h1><a href="/pview.aspx?id=35800&catid=464">Get e-Notifications</a></h1>
+<h1><a href="/pview.aspx?id=35872&catid=464">Library</a></h1>
+<h1><a href="/pview.aspx?id=35960&catid=464">Mayor's Updates</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35880&catid=464">News & Announcements</a></h1>
+<h1><a href="/pview.aspx?id=35873&catid=464">Parks and Recreation</a></h1>
+<h1><a href="/pview.aspx?id=35921&catid=464">Proclamations</a></h1>
+<h1><a href="/pview.aspx?id=35874&catid=464">Public Utilities</a></h1>
+<h1><a href="/pview.aspx?id=35797&catid=464">Report a Concern</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35956&catid=464">Resources for Mental Health and Substance Abuse</a></h1>
+<h1><a href="/pview.aspx?id=35801&catid=464" target="blank">School District</a></h1>
+<h1><a href="/pview.aspx?id=35816&catid=464" target="blank">Stevens County</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm463"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35923&catid=463">Bids &amp; RFPs</a></h1>
+<h4><a href="/pview.aspx?id=35802&catid=463">Current Bids & RFPs</a></h4>
+<h4><a href="/pview.aspx?id=35924&catid=463">Small Works Roster</a></h4>
+<h4><a href="/pview.aspx?id=35925&catid=463">Vendor List</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35877&catid=463">Building and Planning</a></h1>
+<h1><a href="/pview.aspx?id=35927&catid=463">Business Registration</a></h1>
+<h1><a href="/pview.aspx?id=35798&catid=463">Employment Opportunities</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35804&catid=463" target="blank">Local Businesses</a></h1>
+<h1><a href="/pview.aspx?id=35964&catid=463">Small Business Stabilization Grant</a></h1>
+<h1><a href="/pview.aspx?id=35876&catid=463" target="blank">Tri County Economic Development District</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm465"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35922&catid=465">About Colville</a></h1>
+<h1><a href="/pview.aspx?id=35799&catid=465">Calendar of Events</a></h1>
+<h4><a href="/pview.aspx?id=35929&catid=465">City Holidays</a></h4>
+<h1><a href="/pview.aspx?id=35804&catid=465" target="blank">Local Businesses</a></h1>
+<h1><a href="/pview.aspx?id=35812&catid=465">Local Links</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35805&catid=465">Our History</a></h1>
+<h4><a href="/pview.aspx?id=35808&catid=465">Elegant House</a></h4>
+<h4><a href="/pview.aspx?id=35810&catid=465" target="blank">Historic Places - The Heritage Network</a></h4>
+<h4><a href="/pview.aspx?id=35807&catid=465">Keller House</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35805&catid=465">Our History <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=35806&catid=465">Stevens County Museum</a></h4>
+<h1><a href="/pview.aspx?id=35873&catid=465">Parks and Recreation</a></h1>
+<h1><a href="/pview.aspx?id=35811&catid=465">Things to Do</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm462"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35813&catid=462">Agendas & Minutes</a></h1>
+<h1><a href="/pview.aspx?id=35785&catid=462">Boards and Committees</a></h1>
+<h4><a href="/pview.aspx?id=35786&catid=462">Airport Board</a></h4>
+<h4><a href="/pview.aspx?id=35787&catid=462">Civil Service Commission</a></h4>
+<h4><a href="/pview.aspx?id=35932&catid=462">Colville Mountain Advisory Group</a></h4>
+<h4><a href="/pview.aspx?id=35789&catid=462">Historic Preservation Commission</a></h4>
+<h4><a href="/pview.aspx?id=35788&catid=462">Library Board of Trustees</a></h4>
+<h4><a href="/pview.aspx?id=35792&catid=462">Park and Recreation Board</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35785&catid=462">Boards and Committees <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=35790&catid=462">Parking Commission</a></h4>
+<h4><a href="/pview.aspx?id=35793&catid=462">Planning Commission</a></h4>
+<h4><a href="/pview.aspx?id=35948&catid=462">Technical Review Committee</a></h4>
+<h4><a href="/pview.aspx?id=35791&catid=462">Tree Board</a></h4>
+<h4><a href="/pview.aspx?id=35795&catid=462">Vinson Fund Committee</a></h4>
+<h4><a href="/pview.aspx?id=35794&catid=462">Zoning Board of Adjustment</a></h4>
+<h1><a href="/pview.aspx?id=35814&catid=462">City Council and Mayor</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35815&catid=462">Directory</a></h1>
+<h1><a href="/pview.aspx?id=35952&catid=462">Document Center</a></h1>
+<h1><a href="/pview.aspx?id=35915&catid=462">FAQs</a></h1>
+<h1><a href="/pview.aspx?id=35796&catid=462" target="blank">Municipal Code</a></h1>
+<h1><a href="/pview.aspx?id=35816&catid=462" target="blank">Stevens County</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm461"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35827&catid=461">Airport</a></h1>
+<h1><a href="/pview.aspx?id=35822&catid=461">Building and Planning</a></h1>
+<h4><a href="/pview.aspx?id=35933&catid=461">2011 Comprehensive Plan</a></h4>
+<h4><a href="/pview.aspx?id=35953&catid=461">2020 Comprehenseive Plan Update</a></h4>
+<h4><a href="/pview.aspx?id=35930&catid=461">Building Department</a></h4>
+<h4><a href="/pview.aspx?id=35843&catid=461">Permits</a></h4>
+<h4><a href="/pview.aspx?id=35842&catid=461">Planning Department</a></h4>
+<h4><a href="/pview.aspx?id=35844&catid=461" target="blank">Zoning and Planning Map</a></h4>
+<h1><a href="/pview.aspx?id=35818&catid=461">City Clerk</a></h1>
+<h4><a href="/pview.aspx?id=35939&catid=461">2020 Budget at a Glance</a></h4>
+<h4><a href="/pview.aspx?id=35940&catid=461">2020 Expenditures</a></h4>
+<h4><a href="/pview.aspx?id=35938&catid=461">2020 Revenue</a></h4>
+<h4><a href="/pview.aspx?id=35934&catid=461">Claim for Damages</a></h4>
+<h4><a href="/pview.aspx?id=35861&catid=461">Human Resources</a></h4>
+<h4><a href="/pview.aspx?id=35944&catid=461">Lodging Tax</a></h4>
+<h4><a href="/pview.aspx?id=35919&catid=461">Request Public Records</a></h4>
+<h4><a href="/pview.aspx?id=35935&catid=461">Request to be on the City Council Agenda</a></h4>
+<h1><a href="/pview.aspx?id=35825&catid=461">City Treasurer</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35825&catid=461">City Treasurer <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=35834&catid=461">Business Registration</a></h4>
+<h4><a href="/pview.aspx?id=35832&catid=461">Garbage Service</a></h4>
+<h4><a href="/pview.aspx?id=35833&catid=461">Low-Income Utility Rate Reduction</a></h4>
+<h4><a href="/pview.aspx?id=35912&catid=461">Online Payments</a></h4>
+<h4><a href="/pview.aspx?id=35831&catid=461">Utility Services</a></h4>
+<h4><a href="/pview.aspx?id=35926&catid=461">Utility Tax</a></h4>
+<h1><a href="/pview.aspx?id=35820&catid=461">Fire Department</a></h1>
+<h4><a href="/pview.aspx?id=35836&catid=461">Burning Regulations</a></h4>
+<h4><a href="/pview.aspx?id=35837&catid=461">Fireworks</a></h4>
+<h1><a href="/pview.aspx?id=35828&catid=461">Library</a></h1>
+<h4><a href="/pview.aspx?id=35830&catid=461">Library Board</a></h4>
+<h4><a href="/pview.aspx?id=35829&catid=461">Meeting Room Rental</a></h4>
+<h1><a href="/pview.aspx?id=35821&catid=461">Parks and Recreation</a></h1>
+<h4><a href="/pview.aspx?id=35840&catid=461">City Pool</a></h4>
+<h4><a href="/pview.aspx?id=35839&catid=461">Parks Department</a></h4>
+<h4><a href="/pview.aspx?id=35838&catid=461">Recreation</a></h4>
+<h4><a href="/pview.aspx?id=35841&catid=461">Tiger-Tri</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35823&catid=461">Police Department</a></h1>
+<h4><a href="/pview.aspx?id=35851&catid=461">Animal Control</a></h4>
+<h4><a href="/pview.aspx?id=35848&catid=461">Commissioned Officer\Reserve Police Officer</a></h4>
+<h4><a href="/pview.aspx?id=35847&catid=461">Concealed Pistol Licenses</a></h4>
+<h4><a href="/pview.aspx?id=35858&catid=461">Crime Prevention</a></h4>
+<h4><a href="/pview.aspx?id=35846&catid=461">Fingerprinting Services</a></h4>
+<h4><a href="/pview.aspx?id=35857&catid=461">Home Security Patrol</a></h4>
+<h4><a href="/pview.aspx?id=35850&catid=461">Parking Control</a></h4>
+<h4><a href="/pview.aspx?id=35849&catid=461">Police Information Request</a></h4>
+<h4><a href="/pview.aspx?id=35856&catid=461">Traffic Safety Program</a></h4>
+<h1><a href="/pview.aspx?id=35824&catid=461">Public Works</a></h1>
+<h4><a href="/pview.aspx?id=35862&catid=461">Current Projects</a></h4>
+<h4><a href="/pview.aspx?id=35869&catid=461">Street Department</a></h4>
+<h4><a href="/pview.aspx?id=35863&catid=461">Waste Water Treatment</a></h4>
+<h4><a href="/pview.aspx?id=35868&catid=461">Water/Sewer Department</a></h4>
+</div></div></div><div class="bigMenuCon" id="bm601"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=35881&catid=601">Apply For...</a></h1>
+<h4><a href="/pview.aspx?id=35911&catid=601">Boards and Committees</a></h4>
+<h4><a href="/pview.aspx?id=35908&catid=601">City Jobs</a></h4>
+<h4><a href="/pview.aspx?id=35909&catid=601">Permits and Inspections</a></h4>
+<h4><a href="/pview.aspx?id=35910&catid=601">Water Service</a></h4>
+<h1><a href="/pview.aspx?id=35882&catid=601">Contact...</a></h1>
+<h4><a href="/pview.aspx?id=35906&catid=601">City Council</a></h4>
+<h4><a href="/pview.aspx?id=35907&catid=601">City Staff</a></h4>
+<h1><a href="/pview.aspx?id=35883&catid=601">Get...</a></h1>
+<h4><a href="/pview.aspx?id=35901&catid=601" target="blank">Birth Certificate</a></h4>
+<h4><a href="/pview.aspx?id=35899&catid=601">Dog License</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35883&catid=601" target="blank">Get... <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=35900&catid=601" target="blank">Driver's License</a></h4>
+<h4><a href="/pview.aspx?id=35903&catid=601">e-Notifications</a></h4>
+<h4><a href="/pview.aspx?id=35904&catid=601" target="blank">Library Card</a></h4>
+<h4><a href="/pview.aspx?id=35902&catid=601" target="blank">Passport</a></h4>
+<h4><a href="/pview.aspx?id=35905&catid=601">Vehicle License</a></h4>
+<h1><a href="/pview.aspx?id=35884&catid=601">Pay...</a></h1>
+<h4><a href="/pview.aspx?id=35897&catid=601" target="blank">Taxes</a></h4>
+<h4><a href="/pview.aspx?id=35898&catid=601">Water Bills</a></h4>
+<h1><a href="/pview.aspx?id=35885&catid=601">Register...</a></h1>
+<h4><a href="/pview.aspx?id=35895&catid=601" target="blank">My Vehicles</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=35885&catid=601" target="blank">Register... <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=35896&catid=601" target="blank">To Vote</a></h4>
+<h1><a href="/pview.aspx?id=35928&catid=601">Report a Concern</a></h1>
+<h1><a href="/pview.aspx?id=35886&catid=601">View...</a></h1>
+<h4><a href="/pview.aspx?id=35887&catid=601">Agendas & Minutes</a></h4>
+<h4><a href="/pview.aspx?id=35894&catid=601">Bids & RFPs</a></h4>
+<h4><a href="/pview.aspx?id=35892&catid=601">Employment Opportunities</a></h4>
+<h4><a href="/pview.aspx?id=35893&catid=601">Forms and Documents</a></h4>
+<h4><a href="/pview.aspx?id=35889&catid=601" target="blank">Municipal Codes</a></h4>
+<h4><a href="/pview.aspx?id=35890&catid=601">Ordinances</a></h4>
+<h4><a href="/pview.aspx?id=35891&catid=601">Resolutions</a></h4>
+</div></div></div><div class="eAlert"><div class="alertBG"><div class="eAlertIn"><a href="/emergency.aspx"><b>COVID-19 Notice: </b>Public Notices</a></div></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="default.aspx">Colville WA</a></div>
+
+                </td></tr></table>
+        </div>
+
+
+
+   
+
+    <div class="menuBar" >
+                
+<div class="menu"><div style="width:0%;" class="catMenu" id="t-1" tid="600"><a href="/default.aspx"">Home</a></div><div style="width:14%;" class="catMenu catMenu2" id="t16062" tid="464"><a href="/pview.aspx?id=16062&catid=464">Live</a></div><div style="width:14%;" class="catMenu catMenu3" id="t16061" tid="463"><a href="/pview.aspx?id=16061&catid=463">Work</a></div><div style="width:14%;" class="catMenu catMenu4" id="t16063" tid="465"><a href="/pview.aspx?id=16063&catid=465">Play</a></div><div style="width:19%;" class="catMenu catMenu5" id="t16060" tid="462"><a href="/pview.aspx?id=16060&catid=462">Government</a></div><div style="width:19%;" class="catMenu catMenu6" id="t16059" tid="461"><a href="/pview.aspx?id=16059&catid=461">City Services</a></div><div style="width:19%;" class="catMenu catMenu7" id="t35764" tid="601"><a href="/pview.aspx?id=35764&catid=601">How Do I?</a></div></div>
+            <div style="clear: both;"></div>
+
+     </div> 
+
+    <div class="header"> 
+        <div class="logo"><a href="/default.aspx"><img src="/common/images/header.png" alt="Return to home page" border="0" style="max-width:100%;" /></a></div>
+        
+         <div class="searching2">
+          <div class="searchingBox">
+       
+        <div style="float:left; padding:4px; padding-left:10px;"><input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" placeholder="I&#39;m looking for..." aria-label="Search text box" style="margin-top:6px;" /></div>
+    
+        <div class="searchGo"><input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" src="common/images/go.png" alt="Search site" border="0" /></div>
+         
+</div></div> <div class="topline" style="display:none" ></div>
+         
+         
+        
+     
+     </div>
+
+<div class="mainContainer" >
+
+      
+<div class="secondContainer">
+      
+    <div class="secondLeft">
+    
+       
+       
+          <div class="sideItem"><a href="/forms.aspx?fid=650">Report a Concern</a></div><div class="sideItem"><a href="/documents.aspx?categoryid=0">Document Center</a></div><div class="sideItem"><a href="/staff.aspx?categoryid=0">Contact Us</a></div><div class="sideItem"><a href="/agenda.aspx?categoryid=0">Agendas & Minutes</a></div>
+
+         
+
+<div class="sideMenuUnder">&nbsp;</div>
+
+    </div><div style="float:left; height:100%; width:5%; max-width:60px;" class="mobileHide">&nbsp;</div>
+
+    <div class="secondRight">
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.40 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li>
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="https://colville.wa.us/notfound.aspx?print=1" target="_blank"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Printer Friendly Version" /></a>
+      
+        </div>
+            </div></div>
+
+     <a name="maincontent" id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle">Page Not Found</span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+     The page you are looking for can not be found. 
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+        <div style="clear: both;"></div>
+
+
+    
+    </div>
+    <div style="clear: both;"></div>
+</div><br />
+</div>
+
+
+
+                <div class="footerBG">
+            <div class="mainFooter">
+
+                <img src="/common/images/footerlogo.png" alt="City of Colville, Washington Seal" style="max-width:100%;" />
+      
+                       
+
+
+        
+               <div >City of Colville</div><div>170 S Oak, <span class="mobileDiv">Colville<span class="mobileHide">,</span> WA 99114</span></div><div><span class="mobileDiv">Phone: (509) 684-5094&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/staff.aspx">Email Us</a></span></div><a href="/default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse.aspx">Accessibility</a>&nbsp;&nbsp;|&nbsp;&nbsp;Government Websites by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">MunicipalCMS</a>
+                
+            </div></div>
+
+<div class="SocialFooter">
+    <div class="d-flex">
+        <div class="flex-fill text-left">&nbsp;</div>
+        <div class="flex-fill text-right social">  <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="E-notify" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;</div>
+    </div>
+</div>
+
+
+
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Please ignore" />
+        </div> 
+
+      
+      
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35854059-50"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35854059-50');
+</script>
+
+
+</body>
+</html>
+
+
+
+    

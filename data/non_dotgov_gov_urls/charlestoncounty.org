@@ -1,0 +1,832 @@
+<!--CharlestonCounty.org Homepage-->
+<!DOCTYPE html>
+<html lang="en">
+
+<!--CHARLESTON COUNTY GOVERNMENT MAIN HEADER/NAV INCLUDED IN EVERY HEADER (nav-header.php)-->
+<!--This is the official website for Charleston County Government.-->
+<!--Copyright © 2000-2013, Charleston County, South Carolina. All rights reserved.-->
+
+<!--Include Bootstrap-->
+
+
+
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta content="en-us" http-equiv="Content-Language">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>404 | Charleston County Government</title>
+
+<meta name="keywords" content="">
+<meta name="description" content="">
+
+<!--STYLES-->
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+
+<link type="text/css" rel="stylesheet" href="https://www.charlestoncounty.org/css/jquery.mmenu.all.css">
+<link type="text/css" rel="stylesheet" href="https://www.charlestoncounty.org/css/jquery.mmenu.desktop.css">
+
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/cc.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/cc-print.css" type="text/css" media="print">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/liquid-slider-new.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/panel-style.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/jcarousel.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/jquery.gcal_flow.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/jquery-ui-1.10.3.custom.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/pika-styles/base.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/pika-styles/bottom.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/gallery.css" type="text/css">
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/theme-cc.css" type="text/css" media="screen">
+
+<!--FORM STYLES-->
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/contactform.css" type="text/css" media="screen">
+
+<!--COLOR STYLES-->
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/cc-color.css?v=3" type="text/css" media="all">
+
+<!--OLD IE FIXES-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="https://www.charlestoncounty.org/css/ie-fix.css" type="text/css">
+<![endif]-->
+
+
+<!--SCRIPTS-->
+
+
+<!--JQuery (***REQUIRED***)-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery-latest.min.js"></script>
+
+<!--JQuery UI-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery-ui-1.10.3.custom.min.js"></script>
+
+<!--BACKGROUND SIZE -->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.backgroundSize.js"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-backgroundsize.js"></script>
+<style type="text/css">
+.bg {
+	background: url(https://www.charlestoncounty.org/images/headers/bg-02.jpg) center center no-repeat #3c5772;
+	background-size: cover;
+	z-index:0;
+
+	}
+@media only screen and (max-width: 800px) {
+.bg {
+	background: transparent;
+	-ms-filter: none;
+
+	}
+}
+</style>
+
+<!--BW Slide-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/bwslide.js"></script>
+
+<!--FOOTABLE-->
+<link href="https://www.charlestoncounty.org/css/footable-0.1.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/footable.js"></script>
+<script type="text/javascript">
+	$(function() {
+    	$('#electionstable').footable();
+    });
+    $(function() {
+    	$('#bevrelectionstable').footable();
+    });
+    $(function() {
+    	$('#workshopstable').footable({
+	    	breakpoints: {
+			    phone: 400,
+	            tablet: 520
+			}
+		});
+    });
+
+</script>
+
+<!--FLOWPLAYER-->
+<link rel="stylesheet" type="text/css" href="https://www.charlestoncounty.org/css/minimalist.css">
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/flowplayer.min.js"></script>
+
+<!--FORM PROCESSING-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.validate.min.js?382"></script> 
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/additional-methods.min.js?382"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/contactform.js?382"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/captcha.js?382"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-validations.js?382"></script>
+
+<!--MOBILE MENU (MMENU)-->
+<!--[if !IE]>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.hammer.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.mmenu.min.all.js"></script>
+
+<!--HTML5 TAGS, CSS3 AND MEDIA QUERIES FOR OLDER IE-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/html5shiv.js"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/respond.min.js"></script>
+<![endif]-->
+
+<!--MMENU OPTIONS-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-menu.js?382"></script>
+
+<!--Easing for Liquid & Anything Slider-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.easing.1.3.js"></script>
+
+<!--Accordion-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-accordion.js?382"></script>
+
+<!--Tabs-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/tabs.js"></script>
+
+<!--Smooth Scroll (ScrollTo)-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/smoothscroll.js"></script>
+
+<!--GCAL Events List-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.gcal_flow.js"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/my-gcal.js"></script>
+
+<!-- DataTables -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.13/r-2.1.1/datatables.min.css">
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.13/r-2.1.1/datatables.min.js"></script>
+<style>
+
+#probate-formtable_filter {
+	padding:10px;
+}
+</style>
+
+<script type="text/javascript">
+$(document).ready(function() {
+// Read a page's GET URL variables and return them as an associative array.
+function getUrlVars()
+{
+ var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+
+}
+
+var query = getUrlVars()['q'];
+
+    $("#probate-formtable").dataTable({
+        paging:         false,
+		responsive: true,
+		"search": {
+    			"search": query
+  			}, 
+        "aaSorting": [0,"asc"],
+        columnDefs: [
+  { targets: 'no-sort', orderable: false }
+]
+        });
+
+} );
+</script>
+<!--JCarousel vertical slider base-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.jcarousel.min.js"></script>
+
+<!--JCarousel options required-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/carousels.js"></script>
+
+<!--Pikachoose Slider-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.pikachoose.js"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-pikachoose.js?382"></script>
+
+<!--Liquid Slider-->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/jquery.liquid-slider.js"></script>
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-liquidslider.js?382"></script>
+
+<!-- Modernizr -->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/modernizr.js"></script>
+
+<!-- YepNope -->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/yepnope.1.5.4-min.js"></script>
+
+	
+<!-- Type Date support check & touch detection -->
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-modernizr.js?382"></script>
+
+<!-- InputMask -->
+<script src="https://www.charlestoncounty.org/js/input-mask/jquery.inputmask.js" type="text/javascript"></script>
+<script src="https://www.charlestoncounty.org/js/input-mask/jquery.inputmask.date.extensions.js" type="text/javascript"></script>
+<script src="https://www.charlestoncounty.org/js/input-mask/jquery.inputmask.extensions.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(function () {
+        //Datemask dd/mm/yyyy
+        $("#datemask").inputmask("dd/mm/yyyy", {"placeholder": "dd/mm/yyyy"});
+        //Datemask2 mm/dd/yyyy
+        $("#datemask2").inputmask("mm/dd/yyyy", {"placeholder": "mm/dd/yyyy"});
+        //SSN
+        $("#ssn").inputmask("999-99-9999", {"placeholder": "xxx-xx-xxxx"});
+		//short date mm/yyyy
+        $("#shortdatemask").inputmask("mm/yyyy", {"placeholder": "mm/yyyy"});
+		$(".phone").inputmask("(999)999-9999");
+		$(".date").inputmask("mm/dd/yyyy", {"placeholder": "mm/dd/yyyy"});
+        //Money Euro
+        $("[data-mask]").inputmask();
+
+    });
+</script>
+
+<script type="text/javascript" src="https://www.charlestoncounty.org/js/configs-menu-search-all.js"></script>
+
+</head>
+
+<body>
+<div id="menuhook">  <!--09-26-13 ADDED HOOK DIV FOR MENU -->
+<!--Page top anchor-->
+<a id="pagetop" name="pagetop" style="position: absolute; top: 0px;"></a>
+<!--<div id="menu-shadow"></div>-->
+
+<!------------------>
+<!--Mobile top nav-->
+<!----------------
+<div id="mobile-header">-->
+	<!--County mobile menu
+    <a id="menu-county" href="#menu-county"><img src="https://www.charlestoncounty.org/images/icon/icon-about-small.png" alt="County Menu"></a>-->
+    <!--Department mobile menu
+	    <a id="menu-dept" href="#menu-dept"><img src="https://www.charlestoncounty.org/images/icon/icon-departments-small.png" alt="Section Menu"></a>
+	</div>-->
+
+<div id="headerm" class="mm-fixed-top">
+<a href="#menu-county" title="mobile left menu button" aria-label="mobile left menu button"></a>
+CharlestonCounty.org
+
+    <a href="#menu-dept" class="right" title="mobile right menu button" aria-label="mobile right menu button"></a>
+	</div>
+<!------------------>
+<!--County top nav-->
+<!------------------>
+        <nav id="menu-county" class="bwpanel" role="navigation">
+	            <ul>
+	                <li><a href="https://www.charlestoncounty.org/index.php">Home</a></li>
+	                <li><a href="https://www.charlestoncounty.org/online-services.php">Online Services</a>
+	                    <ul class="olserv">
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-onlineservices.png" alt="Online Services icon">
+	                        <div style="clear: both;"></div>
+
+
+	                          <li class="left-group"><a name="tax-records" class="no-link subs">Tax Records</a><ul><li class="noindex"><a href="https://www.charlestoncounty.org/departments/auditor/MVInquiry"><img src="https://www.charlestoncounty.org/images/icon/icon-mvinquiry.png" alt="Request My Vehicle Tax Bill icon">Request My Vehicle Tax Bill</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/auditor/tag-form.php"><img src="https://www.charlestoncounty.org/images/icon/icon-tagreport.png" alt="Out of State Tag Reporting icon">Out of State Tag Reporting</a></li><li class="noindex"><a href="https://sc-charleston.publicaccessnow.com"><img src="https://www.charlestoncounty.org/images/icon/icon-paytaxes.png" alt="Pay Taxes & View Records icon">Pay Taxes & View Records</a></li></ul></li><li class="right-group"><a name="law-enforcement" class="no-link subs">Law Enforcement / Public Safety</a><ul><li class="noindex"><a href="https://inmatesearch.charlestoncounty.org"><img src="https://www.charlestoncounty.org/images/icon/icon-inmatesearch.png" alt="Who's In Jail (Inmate Search) icon">Who's In Jail (Inmate Search)</a></li><li class="noindex"><a href="http://www.raidsonline.com/?address=Charleston_County%20SC"><img src="https://www.charlestoncounty.org/images/icon/icon-crimemap.png" alt="Charleston County's Crime Map icon">Charleston County's Crime Map</a></li><li class="noindex"><a href="https://member.everbridge.net/index/453003085611698#/login"><img src="https://www.charlestoncounty.org/images/icon/icon-tip.png" alt="Citizen Alert System icon">Citizen Alert System</a></li></ul></li><li class="left-group"><a name="court-records" class="no-link subs">Court Records</a><ul><li class="noindex"><a href="https://fcsivr.charlestoncounty.org/payment/index.asp"><img src="https://www.charlestoncounty.org/images/icon/icon-childsupport.png" alt="Child Support Case Info icon">Child Support Case Info</a></li><li class="noindex"><a href="https://jcmsweb.charlestoncounty.org/publicindex/"><img src="https://www.charlestoncounty.org/images/icon/icon-circuitcourt.png" alt="Circuit Court Search icon">Circuit Court Search</a></li><li class="noindex"><a href="https://www.courtplus.org/"><img src="https://www.charlestoncounty.org/images/icon/icon-courtplus.png" alt="Court Plus icon">Court Plus</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/CoCdaybook"><img src="https://www.charlestoncounty.org/images/icon/icon-daybooksearch.png" alt="Daybook Search icon">Daybook Search</a></li><li class="noindex"><a href="http://www3.charlestoncounty.org:82/captcha/default.asp?ref=COC"><img src="https://www.charlestoncounty.org/images/icon/icon-familycourt.png" alt="Family Court Search icon">Family Court Search</a></li><li class="noindex"><a href="http://www3.charlestoncounty.org/docs/courtrosters/suretybondsrss.xls"><img src="https://www.charlestoncounty.org/images/icon/icon-bondsman.png" alt="Bondsman Data icon">Bondsman Data</a></li><li class="noindex"><a href="https://jurorsummons.charlestoncounty.org/"><img src="https://www.charlestoncounty.org/images/icon/icon-jurorsummons.png" alt="Online Juror Summons icon">Online Juror Summons</a></li><li class="noindex"><a href="https://expungement.charlestoncounty.org/"><img src="https://www.charlestoncounty.org/images/icon/icon-expungement.png" alt="Expungement Case Inquiry icon">Expungement Case Inquiry</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/probate/index.php"><img src="https://www.charlestoncounty.org/images/icon/icon-estatesearch.png" alt="Estates / Wills Search icon">Estates / Wills Search</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/probate/index.php"><img src="https://www.charlestoncounty.org/images/icon/icon-marriagesearch.png" alt="Marriage License Search icon">Marriage License Search</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/probate/marriage-license.php#online-marriage-license-application"><img src="https://www.charlestoncounty.org/images/icon/icon-marriageapplication.png" alt="Marriage License Application icon">Marriage License Application</a></li><li class="noindex"><a href="https://jcmsweb.charlestoncounty.org/publicindex/"><img src="https://www.charlestoncounty.org/images/icon/icon-magistrate.png" alt="Magistrate Records Search icon">Magistrate Records Search</a></li><li class="noindex"><a href="https://mieonline.charlestoncounty.org/"><img src="https://www.charlestoncounty.org/images/icon/icon-equity.png" alt="Master-In-Equity Referral icon">Master-In-Equity Referral</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/foreclosure/runninglist.html"><img src="https://www.charlestoncounty.org/images/icon/icon-foreclosure.png" alt="Master-In-Equity Foreclosure Auction List icon">Master-In-Equity Foreclosure Auction List</a></li><li class="noindex"><a href="https://jcmsweb.charlestoncounty.org/onlinepayments/"><img src="https://www.charlestoncounty.org/images/icon/icon-tickets.png" alt="Traffic Tickets Payment icon">Traffic Tickets Payment</a></li></ul></li><li class="right-group"><a name="property-records-permits" class="no-link subs">Property Records &amp; Permits</a><ul><li class="noindex"><a href="https://www.charlestoncounty.org/departments/rod/rodsearch.php"><img src="https://www.charlestoncounty.org/images/icon/icon-docsearch.png" alt="ROD Document Search icon">ROD Document Search</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/rod/index.php"><img src="https://www.charlestoncounty.org/images/icon/icon-daybooksearch.png" alt="ROD Day Book Search icon">ROD Day Book Search</a></li><li class="noindex"><a href="https://gisccweb.charlestoncounty.org/Public_Search/"><img src="https://www.charlestoncounty.org/images/icon/icon-currentparcel.png" alt="GIS Parcel Viewer icon">GIS Parcel Viewer</a></li><li class="noindex"><a href="https://prcweb.charlestoncounty.org"><img src="https://www.charlestoncounty.org/images/icon/icon-propertyrecord.png" alt="View Property Record Cards icon">View Property Record Cards</a></li><li class="noindex"><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main"><img src="https://www.charlestoncounty.org/images/icon/icon-permit.png" alt="Apply For/Check Status Of A Building Permit icon">Apply For/Check Status Of A Building Permit</a></li><li class="noindex"><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main"><img src="https://www.charlestoncounty.org/images/icon/icon-inspections.png" alt="Request Inspections icon">Request Inspections</a></li><li class="noindex"><a href="https://chascogis.maps.arcgis.com/apps/webappviewer/index.html?id=7c10eb6de226444e9a914b9c679e2591"><img src="https://www.charlestoncounty.org/images/icon/icon-currentparcel.png" alt="FEMA Flood Maps icon">FEMA Flood Maps</a></li></ul></li><li class="right-group"><a name="resources-businesses" class="no-link subs">Resources For Businesses</a><ul><li class="noindex"><a href="https://charlestoncounty.org/departments/revenue-collections/business-license-form.php"><img src="https://www.charlestoncounty.org/images/icon/icon-businesslicense.png" alt="Business License Application icon">Business License Application</a></li><li class="noindex"><a href="https://permit.charlestoncounty.org/License/Default.aspx?UserName=CAPRenewal&CAP=1"><img src="https://www.charlestoncounty.org/images/icon/icon-businesslicense.png" alt="Business License Renewal icon">Business License Renewal</a></li><li class="noindex"><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main"><img src="https://www.charlestoncounty.org/images/icon/icon-contractor.png" alt="Contractor License Renewal icon">Contractor License Renewal</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/revenue-collections/local-accomodations-tax-application.php"><img src="https://www.charlestoncounty.org/images/icon/icon-businesslicense.png" alt="Local Accomodations Tax Application icon">Local Accomodations Tax Application</a></li><li class="noindex"><a href="https://www.charlestoncounty.org/departments/procurement/current-bids.php"><img src="https://www.charlestoncounty.org/images/icon/icon-bids.png" alt="Current Bid Opportunities icon">Current Bid Opportunities</a></li></ul></li><li class="right-group"><a name="resources-residents" class="no-link subs">Resources For Residents</a><ul><li><a href="https://chascogis.maps.arcgis.com/apps/InformationLookup/index.html?appid=8d138d653bf242eebd777b625fc87ffd"><img src="https://www.charlestoncounty.org/images/icon/icon-recycle-truck.png" alt="Residential BiWeekly Curbside Pickup Schedule icon">Residential BiWeekly Curbside Pickup Schedule</a></li><li><a href="https://chascogis.maps.arcgis.com/apps/Directions/index.html?appid=73e5a4f5875d42dca4010b4d548f9130"><img src="https://www.charlestoncounty.org/images/icon/icon-recycle-loc.png" alt="Dropsite and Convenience Centers Locations icon">Dropsite and Convenience Centers Locations</a></li><li><a href="https://www.charlestoncounty.org/departments/public-works/work-order-request.php"><img src="https://www.charlestoncounty.org/images/icon/icon-pw-workorder.png" alt="Public Works Work Order Request icon">Public Works Work Order Request</a></li><li><a href="https://chascogis.maps.arcgis.com/apps/webappviewer/index.html?id=a3d886f866454cdba087ca2a459a06a7"><img src="https://www.charlestoncounty.org/images/icon/icon-voting.png" alt="View Voting Locations  icon">View Voting Locations </a></li></ul></li>
+	                    </ul>
+	                </li>
+
+	                <li><a href="https://www.charlestoncounty.org/topics.php">By Topic</a>
+	                    <ul>
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-topic.png" alt="Topics icon">
+	                        <div style="clear: both;"></div>
+	                            <li><a href="https://www.charlestoncounty.org/tax-info.php">Taxes</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/property-info.php">Property &amp; Permits</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/court-info.php">Courts</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/business-info.php">Business</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/residents-info.php">Residents</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/emergency-info.php">Emergency</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/departments/sheriff/index.php">Law Enforcement</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/code-info.php">Code Enforcement</a></li>
+	                    </ul>
+	                </li>
+
+	                <li><a href="https://www.charlestoncounty.org/departments.php">Departments</a></li>
+
+	                <li><a href="https://www.charlestoncounty.org/elected/index.php">Elected Officials</a>
+	                    <ul>
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-elected.png" alt="Elected Officials Icon">
+	                        <div style="clear: both;"></div>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-auditor.php">Auditor</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-clerk-of-court.php">Clerk Of Court</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-coroner.php">Coroner</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/departments/county-council/index.php">County Council</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-probate-judge.php">Probate Judge</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-rod.php">Register of Deeds (ROD)</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-sheriff.php">Sheriff</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-solicitor.php">Solicitor</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/elected/bio-treasurer.php">Treasurer</a></li>
+	                    </ul>
+	                </li>
+
+	                <li><a href="https://www.charlestoncounty.org/employment.php">Employment</a>
+	                    <ul>
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-employment.png" alt="Employment Icon">
+	                        <div style="clear: both;"></div>
+	                            <li><a href="https://www.charlestoncounty.org/employment.php#benefits" class="smoothScroll">Benefits</a></li>
+	                            <li><a href="https://www.governmentjobs.com/careers/charlestoncounty/helpandsupport/faq#application-process---starting-out#" class="smoothScroll">FAQs</a></li>
+	                            <li><a href="https://www.governmentjobs.com/careers/charlestoncounty">Job Openings &amp; Apply Online</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/employment.php" class="smoothScroll">Print Application</a></li>
+	                    </ul>
+	                </li>
+
+	                <li><a href="https://www.charlestoncounty.org/faqs.php">FAQs</a></li>
+
+	                <li><a href="https://www.charlestoncounty.org/about.php">About Us</a>
+	                    <ul>
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-about.png" alt="About icon">
+	                        <div style="clear: both;"></div>
+	                            <li><a href="https://www.charlestoncounty.org/files/Mission-and-Values.pdf">Mission &amp; Values</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/files/OrgChart.pdf">Organizational Chart</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/pdf/Diversity%20Philosophy%2011-05.pdf">Diversity Philosophy</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/title-vi-plan.php">Title VI Plan</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/about.php#annual">Annual Report</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/financial-reports.php">Financial Reports</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/ordinances.php">Ordinances</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/about.php#firsts" class="smoothScroll">Firsts/Oldest</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/history.php" class="smoothScroll">History</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/offices.php" class="smoothScroll">Office Locations</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/calendar.php#holidays" class="smoothScroll">Holiday Schedule</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/municipalities.php">Municipalities</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/school-district.php">School District</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/about.php#links">Links</a></li>
+	                            <li id="last"><a href="https://www.charlestoncounty.org/calendar.php" class="smoothScroll">Calendar</a></li>
+	                    </ul>
+	                </li>
+
+	                <li><a href="https://www.charlestoncounty.org/contact.php">Contact</a>
+	                    <ul>
+	                        <div class="blue-top"></div>
+	                        <img src="https://www.charlestoncounty.org/images/icon/icon-contact1.png" alt="Contact icon">
+	                        <div style="clear: both;"></div>
+	                            <li><a href="https://www.charlestoncounty.org/contact.php">General Contact</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/request-info.php">FOIA Requests</a></li>
+	                            <li><a href="https://www.charlestoncounty.org/request-info.php">Media Inquiries</a></li>
+	                    </ul>
+	                </li>
+	                <li class="mobile-menu-note"><p>This is the main menu for CharlestonCounty.org. Please use the right side menu to access the department or section menus. The right side menu will change depending on where you are in the website.</p></li>
+	            </ul>
+	        </nav>
+<div style="clear:both;"></div>
+
+<!--Include Header-->
+<!--CHARLESTON COUNTY GOVERNMENT-->
+
+
+<!-- HEADER START -->
+<div id="headerwrapper" class="bg">
+
+<div id="headerwrapper-inner2" style="margin: auto;">
+
+<div id="headercontainer">
+
+<!--INCLUDE COUNTY COUNCIL PANEL-->
+		<div class="tsbox-container">
+	<div class="tsbox">
+		<ul class="right">
+			<li class="slide_pic"><img src="https://www.charlestoncounty.org/images/council-group.jpg" alt="Charleston County Council photo">
+				<a href="https://www.charlestoncounty.org/departments/county-council/index.php">Charleston County Council</a>
+			</li>
+      		<li>
+      			<span class="slide_title">
+      				<a href="https://www.charlestoncounty.org/departments/county-council/index.php">Charleston County</a>
+      			</span>
+      			<span class="slide_name">
+      				<a href="https://www.charlestoncounty.org/departments/county-council/index.php">Council Info</a>
+      			</span>
+      		</li>
+      		<li class="slide_link">
+      			<a href="https://www.charlestoncounty.org/departments/county-council/index.php" style="margin: 0;padding: 0;">View Homepage &gt;&gt;</a>
+      			<a href="https://www.charlestoncounty.org/departments/county-council/index.php#agendas" style="margin: 0;padding: 0;">View Agendas &gt;&gt;</a>
+
+      		</li>
+    	</ul>
+	</div>
+</div>
+<script src="https://www.charlestoncounty.org/js/panel-script.js"></script>
+<div id="header">
+
+			<!--INCLUDE LOGO-->
+			<div id="logo">
+	<a href="https://www.charlestoncounty.org/index.php"><img src="https://www.charlestoncounty.org/images/cc-main-logo-new.png" alt="Charleston County, SC"></a>
+</div>
+			<!--INCLUDE SEARCH-->
+			<script>
+// This adds 'placeholder' to the items listed in the jQuery .support object.
+jQuery(function() {
+  jQuery.support.placeholder = false;
+  test = document.createElement('input');
+  if('placeholder' in test) jQuery.support.placeholder = true;
+});
+// This adds placeholder support to browsers that wouldn't otherwise support it.
+$(function() {
+  if(!$.support.placeholder) {
+   var active = document.activeElement;
+   $(':text').focus(function () {
+     if ($(this).attr('placeholder') != '' && $(this).val() == $(this).attr('placeholder')) {
+      $(this).val('').removeClass('hasPlaceholder');
+     }
+   }).blur(function () {
+     if ($(this).attr('placeholder') != '' && ($(this).val() == '' || $(this).val() == $(this).attr('placeholder'))) {
+      $(this).val($(this).attr('placeholder')).addClass('hasPlaceholder');
+     }
+   });
+   $(':text').blur();
+   $(active).focus();
+   $('form:eq(0)').submit(function () {
+     $(':text.hasPlaceholder').val('');
+   });
+  }
+});
+</script>
+
+<style>
+.hasPlaceholder {color: #999999;}
+</style>
+
+<div id="search-page" role="search">
+	<form name="searchform" id="searchform" method="post" action="https://www.charlestoncounty.org/search.php">
+		<input class="text-field" name="searchCriteria" id="searchCriteria" type="text" placeholder="search..."  title="search box" aria-label="search box">
+		<input class="button" name="Submit" type="submit" id="submitdata" value=" " title="search button" aria-label="search">
+	</form>
+</div>
+			<!--BROWSER-->
+			<!--BROWSER NOTICE-->
+<!--[if lt IE 9]>
+<div class="notice" style="position: relative;margin: 0px auto 10px;">
+	<img src="https://www.charlestoncounty.org/images/info.png" alt="Info">
+	<p>Please upgrade your browser to a more recent version, so that you can have a much better browsing experience on our website.</p>
+	<div style="clear: both;"></div>
+</div>
+<![endif]-->
+			<!--NOTICE-->
+			<!--DOWNTIME/MAINTENENCE NOTICE-->
+
+
+			<!--NOTICE EMERGENCY-->
+			<!--DOWNTIME/MAINTENENCE NOTICE
+<div class="notice-emergency" style="position: relative;margin: 0px auto 10px;">
+	<img src="https://www.charlestoncounty.org/images/info.png" alt="Info">
+	<p style="text-align: center;width: 100%;"><img src="https://www.charlestoncounty.org/images/opcon5.gif" alt="OPCON"></p>
+	<div style="clear: both;"></div>
+</div>-->
+			<div style="clear: both;"></div>
+
+
+		</div>
+	</div>
+</div>
+<img id="roundedbkg" src="https://www.charlestoncounty.org/images/sub-nav-back.png">
+
+
+</div>
+
+<!--END OF HEADER-->
+
+
+	<!--SUB NAV START-->
+	<nav id="menu-dept">
+				<ul>
+					<li><a href="https://www.charlestoncounty.org/online-services.php">Online Services</a></li>
+					<li><a href="https://www.charlestoncounty.org/news-releases.php">News Releases</a></li>
+					<li><a href="https://www.charlestoncounty.org/calendar.php">Upcoming Events</a></li>
+					<li><a href="https://www.charlestoncounty.org/elected/index.php">Elected Officials</a></li>
+					<li><a href="https://www.charlestoncounty.org#program" class="smoothScroll">Program Info</a></li>
+					<li><a href="https://www.charlestoncounty.org#emergency" class="smoothScroll">Emergency Info</a></li>
+
+					<li id="mobile-menu-note"><p>This menu is specific to this section of CharlestonCounty.org and will change depending on where you are in the website. Use the left side menu to access the main menu for CharlestonCounty.org.</p></li>
+				</ul>
+			</nav>
+	<!--SUB NAV END-->
+
+<div style="clear:both;"></div>
+<!-- BODY START -->
+<div id="bodywrapper">
+<!-- START SHADOW DIV added 3-26-14-->
+<div id="bodycontainer-shadow">
+<!-- END SHADOW DIV added 3-26-14-->
+<div id="bodycontainer">
+<div id="bodycontainer-inner">
+
+<div id="box-645L" class="box box-645L">
+	<div class="box-inner">
+		<!--<div class="icon-section"><img src="images/icon/icon-about.png"></div>-->
+		<h1>404 Error</h1>
+
+		<h2>Sorry, the page you requested was not found.</h2>
+		<!--<div style="clear: both;"></div>-->
+		<p>If you have reached this page it more than likely means one of the following:</p>
+		<ul>
+			<li>A mis-typed URL (or an out-of-date bookmark/favorite)</li>
+			<li>A search engine link that is out-of-date</li>
+			<li>An internal broken link that the webmaster hasn't noticed</li>
+		</ul>
+		<h2>Let's get you somewhere helpful!</h2>
+			<p>Here are a few options:</p>
+			<ul>
+				<li>Go to our homepage: <a href="https://www.charlestoncounty.org">www.CharlestonCounty.org</a></li>
+				<li>Use the site search in the header to search by topic.</li>
+				<li>Use the "I Want To" block on this page to find a topic.</li>
+			</ul>
+		<p>We apologize for any inconvenience.</p>
+	</div>
+</div>
+
+<div id="hr-mobile"><a href="#pagetop" title="Page Top" class="smoothScroll"><img src="images/topArrow.png"></a></div>
+
+<!--Include I Want To-->
+<div id="box-310R" class="box box-310R">
+	<div class="box-inner">
+		<div class="icon-section"><img src="https://www.charlestoncounty.org/images/icon/icon-iwantto.png"  alt="I Want to icon"></div>
+		<h1>I Want To...</h1>
+		<div style="clear: both;"></div>
+
+		<!--I WANT TO CAROUSEL-->
+		<ul id="i-want-to" class="jcarousel jcarousel-skin-tango">
+    <li>
+        <ul>
+            <li><h2>Apply</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/employment.php">Apply for a job at the county</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/revenue-collections/business-license-form.php">Apply for a Business License</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/consolidated-911/reserve-street-name.php">Apply to Reserve Street Name</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Special Events Permit</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Zoning Permit/Letter of Intent</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Sign Permit</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Home Occupation Permit</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Temporary Construction Permit</a></li>
+                    
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Apply</h2>
+                <ul>
+                	<li><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main">Apply For/Check Status Of A Building Permit</a></li>
+                	<li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for a Short-Term Rental Property Zoning Permit</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/zoning-planning/resources.php">Apply for an Application for Placement of Manufactured Home in the R-4 or M-12 Districts Temporary Construction Permit</a></li>
+                </ul>
+            </li>
+            <li><h2>Become</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/departments/procurement/sbe.php">Become a certified SBE</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Find</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/departments/bevr/voting.php">Find Voter Registration info</a></li>
+                    <li><a href="https://www.charlestoncounty.org/financial-reports.php">Find Budget Information</a></li>
+                    <li><a href="http://chascogis.maps.arcgis.com/apps/InformationLookup/index.html?appid=8d138d653bf242eebd777b625fc87ffd">Find Recycling Pickup Schedule</a></li>
+                    <li><a href="http://sheriff.charlestoncounty.org">Find Sheriff's Office Information</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/delinquent-tax/index.php">Find info on Delinquent Tax Sale</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/bevr/elections.php">Find Elections info</a></li>
+                    <li><a href="https://chascogis.maps.arcgis.com/apps/webappviewer/index.html?id=7c10eb6de226444e9a914b9c679e2591">Find FEMA Flood Maps</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Get</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/departments/charleston-center/index.php">Get info on alcohol/drug services</a></li>
+                    <li><a href="http://www.scdhec.gov" target="_blank" aria-label="opens in a new window">Get a copy of a birth certificate</a></li>
+                    <li><a href="http://www.scdhec.gov" target="_blank" aria-label="opens in a new window">Get a copy of a death certificate</a></li>
+                </ul>
+            </li>
+            <li><h2>Learn</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/tax-info.php">Learn about my tax bill</a></li>
+                </ul>
+            </li>
+            <li><h2>Pay</h2>
+                <ul>
+                    <li><a href="https://sc-charleston.publicaccessnow.com/">Pay taxes online</a></li>
+                    <!--<li><a href="https://www.govpaynow.com/gps/user/plc/4216">Pay Child Support/Alimony</a></li>-->
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Register</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/register-vehicle.php">Register my vehicle</a></li>
+                </ul>
+            </li>
+            <li><h2>Renew</h2>
+                <ul>
+                    <li><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main">Renew a Contractor License</a></li>
+                </ul>
+            </li>
+            <li><h2>Report</h2>
+                <ul>
+                    <li><a href="mailto:planning@charlestoncounty.org?subject=Report a Code Enforcement Violation">Report a Code Enforcement Violation </a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Request</h2>
+                <ul>
+                    <li><a href="https://egovweb.charlestoncounty.org/CitizenAccess_Prod/Site/Public/Main">Request a Permit Inspection</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/public-works/work-order-request.php">Request services</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Search</h2>
+                <ul>
+                    <li><a href="https://www.charlestoncounty.org/departments/rod/rodsearch.php">Search deeds and mortgages</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/rod/rodsearch.php">Search plats and liens</a></li>
+                    <li><a href="https://sc-charleston.publicaccessnow.com">Search tax records</a></li>
+                    <li><a href="http://jcmsweb.charlestoncounty.org/publicindex/">Search Circuit Court records</a></li>
+                    <li><a href="http://www3.charlestoncounty.org:82/captcha/default.asp?ref=COC">Search Family Court Records</a></li>
+                    <li><a href="https://www.southcarolinaprobate.net/charlestonmarriagesearch/">Search marriage license records</a></li>
+                    <li><a href="https://www.southcarolinaprobate.net/charlestonprobatesearch/">Search for estate/will records</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <ul>
+            <li><h2>Update</h2>
+                <ul>
+                    <li><a href="https://auditor.charlestoncounty.org/ChangeofAddress">Update my mailing address</a></li>
+                </ul>
+            </li>
+            <li><h2>View</h2>
+                <ul>
+                    <li><a href="http://ccgisapps.charlestoncounty.org/public_search/">View real property appraisals</a></li>
+                    <li><a href="http://ccgisapps.charlestoncounty.org/public_search/">View a parcel map</a></li>
+                    <li><a href="http://www.charlestoncounty.org/foreclosure/runninglist.html">View Master-In-Equity auction list</a></li>
+                    <li><a href="https://www.charlestoncounty.org/departments/procurement/current-bids.php">View Open Solicitations</a></li>
+                    <li><a href="http://prcweb.charlestoncounty.org/">View property record cards</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+
+<div style="clear: both;"></div>
+
+	</div>
+</div>
+
+<div style="clear: both;"></div>
+<!-- END SHADOW DIV added 3-26-14-->
+</div>
+<!-- END SHADOW DIV added 3-26-14-->
+</div>
+</div>
+</div>
+<!-- BODY END -->
+
+<!--CHARLESTON COUNTY GOVERNMENT-->
+
+<!--FOOTER START-->
+<div id="footerwrapper">
+	<div id="footerwrapper-inner">
+		<div id="footercontainer">
+		<hr class="printonly">
+			<div id="footer">
+				<!--<div id="box-980R"  class="box box-980R">Footer Box full<br>
+				</div>-->
+				<div class="box box-310L">
+					<div class="box-inner">
+						<h2>Municipalities</h2>
+						<p style="float: left;">
+						<a href="http://www.charleston-sc.gov/" target="_blank" aria-label="Opens in new window">City of Charleston</a><br>
+						<a href="http://www.cityoffollybeach.com/" target="_blank" aria-label="Opens in new window">City of Folly Beach</a><br>
+						<a href="http://www.northcharleston.org/" target="_blank" aria-label="Opens in new window">City of North Charleston</a><br>
+						<a href="http://www.iop.net/" target="_blank" aria-label="Opens in new window">City of Isle of Palms</a><br>
+						<a href="http://www.awendawsc.org/" target="_blank" aria-label="Opens in new window">Town of Awendaw</a><br>
+						<a href="http://www.townofhollywood.org/" target="_blank" aria-label="Opens in new window">Town of Hollywood</a><br>
+						<a href="http://www.jamesislandsc.us/" target="_blank" aria-label="Opens in new window">Town of James Island</a><br>
+						<a href="http://www.kiawahisland.org/" target="_blank" aria-label="Opens in new window">Town of Kiawah Island</a><br>
+						<a href="http://www.lincolnvillesc.com/" target="_blank" aria-label="Opens in new window">Town of Lincolnville</a><br>
+						<a href="http://www.townofmcclellanville-sc.net/" target="_blank" aria-label="Opens in new window">Town of McClellanville</a><br>
+						<a href="http://www.townofmeggettsc.org/" target="_blank" aria-label="Opens in new window">Town of Meggett</a><br>
+						<a href="http://www.townofmountpleasant.com/" target="_blank" aria-label="Opens in new window">Town of Mount Pleasant</a><br>
+						<a href="http://www.townofravenel.com/" target="_blank" aria-label="Opens in new window">Town of Ravenel</a><br>
+						<a href="http://www.townofrockville.com/" target="_blank" aria-label="Opens in new window">Town of Rockville</a><br>
+						<a href="http://www.townofseabrookisland.org/" target="_blank" aria-label="Opens in new window">Town of Seabrook Island</a><br>
+						<a href="http://www.sullivansisland-sc.com/" target="_blank" aria-label="Opens in new window">Town of Sullivan's Island</a>
+						</p>
+					</div>
+				</div>
+				
+				<div class="hr-footer"><a href="#pagetop" class="smoothScroll"><img src="https://www.charlestoncounty.org/images/topArrowWhite.png" alt="Go to top"></a></div>
+				
+				<div class="box box-310L">
+					<div class="box-inner ad-resourcebox">
+						<h2>Additional Resources</h2>
+						<p class="ad-resource" style="margin-bottom: 0;">
+						<a href="https://www.charlestoncvb.com/" target="_blank" aria-label="Opens in new window">Arts &amp; Entertainment</a><br>
+						<a href="http://www.ridecarta.com/" target="_blank" aria-label="Opens in new window">CARTA Transit System</a><br>
+						<a href="http://www.ccpl.org/" target="_blank" aria-label="Opens in new window">County Library</a><br>
+						<a href="http://www.charlestoncountyparks.com/" target="_blank" aria-label="Opens in new window">County Parks</a><br>
+						<a href="http://roads.charlestoncounty.org/" target="_blank" aria-label="Opens in new window">Transportation Sales Tax</a><br>
+						<a href="http://www.ccsdschools.com/" target="_blank" aria-label="Opens in new window">School District</a><br>
+						<a href="http://charlestoncommunityguide.com" target="_blank" aria-label="Opens in new window">Charleston Community Guide</a></p>
+						<p class="ad-resource">
+						<a href="http://charleston.scor.sled.sc.gov/ConditionsOfUse.Aspx" target="_blank" aria-label="Opens in new window">Sex Offenders Search</a><br>
+						<a href="https://www.consumer.ftc.gov/features/feature-0014-identity-theft" target="_blank" aria-label="Opens in new window">Identity Theft Info</a><br>
+						<a href="http://www.511sc.org/" target="_blank" aria-label="Opens in new window">Traffic Cam</a><br>
+						<a href="http://southcarolina.wheelsforwishes.org">Make-A-Wish Car Donation</a><br>
+						<a href="http://www.tuw.org/" target="_blank" aria-label="Opens in new window">United Way 24hr hotline</a><br>
+						<a href="http://www.charlestoncvb.com/" target="_blank" aria-label="Opens in new window">Visitor Information</a>
+						</p>
+						<div style="clear:both"></div>
+					</div>
+				</div>
+				
+				<div class="hr-footer"><a href="#pagetop" class="smoothScroll"><img src="https://www.charlestoncounty.org/images/topArrowWhite.png" alt="Go to top"></a></div>
+				
+				<div class="box box-310R">
+					<div class="box-inner">
+						<h2>Social Media</h2>
+						<div class="social-icon">
+							<a href="http://www.facebook.com/pages/Charleston-County-Government/474878989220753" target="_blank" title="Facebook" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-facebook.png" alt="Facebook" >
+							</a>
+						</div>
+						<div class="social-icon">
+							<a href="https://twitter.com/ChasCountyGov" target="_blank" title="Twitter" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-twitter.png" alt="Twitter">
+							</a>
+						</div>
+						<div class="social-icon">
+							<a href="http://www.youtube.com/user/charlestoncountygov" target="_blank" title="YouTube" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-youtube.png" alt="YouTube">
+							</a>
+						</div>
+						<div class="social-icon">
+							<a href="http://www.ustream.tv/channel/charleston-county-government" target="_blank" title="UStream" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-ustream.png" alt="UStream">
+							</a>
+						</div>
+						<div class="social-icon">
+							<a href="http://instagram.com/chascountygov" target="_blank" title="Instagram" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-instagram.png" alt="Instagram">
+							</a>
+						</div>
+						<div class="social-icon">
+							<a href="https://www.linkedin.com/company/charlestoncountygovernment/" target="_blank" title="Linkedin" aria-label="Opens in a new window">
+								<img src="https://www.charlestoncounty.org/images/icon-linkedin.png" alt="Linkedin">
+							</a>
+						</div>
+						<div style="clear: both;padding-top:20px;"></div>
+						
+						<h2>Site Translation</h2>
+						
+						<div id="google_translate_element"></div><script type="text/javascript">
+						function googleTranslateElementInit() {
+						  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+						}
+						</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+						<div style="clear: both;"></div>
+					</div>
+				</div>
+				
+				<div class="hr"><a href="#pagetop" class="smoothScroll"><img src="https://www.charlestoncounty.org/images/topArrowWhite.png" alt="Go to top"></a></div>
+				
+				<div class="box box-645L">
+					<div class="box-inner">
+						<p class="copyright">E-mail your comments or questions about this site to 
+						<a href="mailto:publicinfo@charlestoncounty.org">publicinfo@charlestoncounty.org</a><br>
+						   Report technical problems with this site to 
+						<a href="mailto:webmaster@charlestoncounty.org">webmaster@charlestoncounty.org</a><br>
+						   <br>
+						   This is the official web site for Charleston County Government.<br>
+						   Copyright &copy; 2000-2020, Charleston County, South Carolina. All rights reserved.<br>
+						   <a href="https://www.charlestoncounty.org/legal-disclaimer.php">Legal Disclaimer</a> | 
+						   <a href="https://www.charlestoncounty.org/refund-disclaimer.php">Refund Disclaimer</a> | 
+						   <a href="https://www.charlestoncounty.org/privacy-policy.php">Privacy Policy</a>						</p>
+					</div>
+				</div>
+				<!--<div id="box-310R"  class="box box-310R">Footer Box 5<br>
+				</div>
+				<div id="box-310L"  class="box box-310L">Footer Box 6<br>
+				</div>
+				<div id="box-645R"  class="box box-645R">Footer Box 7<br>
+				</div>-->
+				<div style="clear: both;"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="footerfixed" class="mm-fixed-bottom" style="background:#000000;color:#FFFFFF;width:100%;height:50px;z-index:99999;display:none;">
+				Fixed footer :-)
+			</div>
+<!--FOOTER END-->
+
+</div>
+</body>
+</html>
+

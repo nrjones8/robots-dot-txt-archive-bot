@@ -1,0 +1,503 @@
+
+
+
+
+
+
+
+<!DOCTYPE html > 
+<html lang="en">
+
+<head><title>
+	Official Website
+</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" />
+
+<script src="/clientcommon/jquery/jquery1.10.2min.js" type="text/javascript"></script>
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+<link href="/clientcommon/scripts/jquery/base/ui.core.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="common/css/design.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 991px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu1.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ <link href="/common/css/print1.css" rel="stylesheet" type="text/css" media="print" />
+<meta name="viewport" content="width=device-width,  initial-scale=1" />
+ 
+
+    <style>
+   
+         
+   
+
+      
+        @media (min-width: 1500px) {
+    .container {
+        max-width: 1440px;
+    }
+
+
+}
+
+
+        .req{color:#BF1722;}
+
+
+        .pageLeftNoHigh img, .pageLeftHigh img {
+
+    
+    padding-left: 3px;
+
+}
+
+
+
+        
+.bigMenuCon {
+    width: 100%;
+    background-color: #ffffff;
+    background: url(../images/menubg.png)bottom right no-repeat #ffffff;
+    color: #122c60;
+    position: absolute;
+    z-index: 101;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top:1px solid #ccc;
+    display: none;
+    padding-top: 25px;
+    box-shadow: 0px 3px 5px #777;
+}
+
+.bigMenuConIn
+{
+    width: 100%;
+    display: flex;
+}
+
+.megaparent {
+    font-size: 1.3rem;
+    color: #0e3d52!important;
+}
+
+.megachild {
+    font-size: 1.1rem;
+}
+
+    .megaparent a, .megachild a {
+        color: #0e3d52;
+        text-decoration: none;
+    }
+
+        .megaparent a:hover, .megachild a:hover {
+            color: #0e3d52;
+            text-decoration: underline;
+        }
+
+
+.menuCol{
+    text-align: left;
+    width: 33%;
+    box-sizing: border-box;
+    padding-right: 5px;
+    padding-left: 10px;
+ 
+}
+
+    .menuCol .megaparent {
+        padding-top: 15px;
+        padding-bottom: 5px;
+        margin: 0;
+
+    }
+
+
+
+.menuCol .megachild{
+    padding-left: 25px;
+    font-weight: normal;
+
+    margin: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+
+.menuCol h5{
+    padding-left: 50px;
+    font-weight: normal;
+    font-size: 13pt;
+    margin: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+    </style>
+
+
+       <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+
+
+ <link href="/WebResource.axd?d=gdZSn1-IFFRHplqiot-OL2yfnUgmpoF3IOki8BrV7rG4aFXzNL1Ioo3OvKiGuXCa6-JZ6xEAFUoOyowedwcgcsatmFGk_NnTA9OGYjbAlQ_g5IUX2x2PceoTF-q5BKA18Qu5FR_MHv6ylURcaRbsofkZZdKgR7FnwQ06mCs33pQ1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=Ft8gIK5kwD-nyiK5QmAHzzTkQ8B2YbErVNVaRa-uz4cFmjSEXl_hg6aFlIyMujmPmd_3Dhx82BTUYP7eJr9HVp6cHNAwROfmQs68dHaCSgjJhgjoDor3QT_fnm2Kr7hK6qSNKeIgj6FhVIMrkpGyXg2&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=Zf9UC9myY_GxnL3fo7-KFuRco2VDwSpvsSJdn_2CyGO8UM_BndWVaT4MVPJoTZKk6T80SJpBASdOFYvhZwtEWUqGSX-55hQxv48zlxiNGCyxw66oHRs_Puc_hW5q02P0N9AfgatJt-cUpYHf5vlMYSTYRSKiRjBRP0HxTHOPTw01&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body><div class="skipnav"><a href="#maincontent">Skip to main content</a></div>
+<!-- UltimateSearch_IgnoreLinksBegin -->
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgMPZBYKAgYPFgIeBFRleHQFvgI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2FnZW5kYS5hc3B4Ij5BZ2VuZGFzICYgTWludXRlczwvYT48L2Rpdj48ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2RvY3VtZW50cy5hc3B4P2NhdGVnb3J5aWQ9MCI+RG9jdW1lbnQgQ2VudGVyPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvZm9ybXMuYXNweD9maWQ9NTU5Ij5SZXBvcnQgYSBDb25jZXJuPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvc3RhZmYuYXNweD9jYXRlZ29yeWlkPTAiPlN0YWZmIERpcmVjdG9yeTwvYT48L2Rpdj5kAgkPDxYIHhVFbmFibGVFbWJlZGRlZFNjcmlwdHNnHhxFbmFibGVFbWJlZGRlZEJhc2VTdHlsZXNoZWV0Zx4SUmVzb2x2ZWRSZW5kZXJNb2RlCylyVGVsZXJpay5XZWIuVUkuUmVuZGVyTW9kZSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMC4yLjYxNy40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0AR4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZGQCCg8WAh8ABYABPGEgaHJlZj0iIyIgb25jbGljaz0id2luZG93LnByaW50KCk7Ij48aW1nIHZzcGFjZT0iNyIgc3JjPSIvY2xpZW50Y29tbW9uL2ltYWdlcy9wcmludC5naWYiICBib3JkZXI9IjAiIGFsdD0iUHJpbnQgUGFnZSIgICAvPjwvYT5kAgwPFgIfAAXMBDxkaXYgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuNjsiPjxzcGFuIGNsYXNzPSJmb290ZXJOYW1lIj5DaXR5IG9mIFdlbGxpbmd0b248L3NwYW4+PGJyIC8+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+MzE3IFMuIFdhc2hpbmd0b248L3NwYW4+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+IFdlbGxpbmd0b24sIEtTIDY3MTUyPC9zcGFuPjxicj48c3BhbiBjbGFzcz0ibW9iaWxlRGl2Ij5QaG9uZTogNjIwLTMyNi0zNjMxPC9zcGFuPjxzcGFuIGNsYXNzPSJ0aW55SGlkZSI+Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzwvc3Bhbj48c3BhbiBjbGFzcz0ibW9iaWxlRGl2Ij5GYXg6IDYyMC0zMjYtODUwNjwvc3Bhbj48L2Rpdj48c3BhbiBjbGFzcz0ibW9iaWxlRGl2Ij48YSBocmVmPSIvc3RhZmYuYXNweCI+Q29udGFjdCBVczwvYT4mbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+Jm5ic3A7Jm5ic3A7PC9zcGFuPjxzcGFuIGNsYXNzPSJ0aW55SGlkZSI+fCZuYnNwOyZuYnNwOzwvc3Bhbj48YSBocmVmPSIvdGVybXNvZnVzZS5hc3B4Ij5BY2Nlc3NpYmlsaXR5PC9hPiZuYnNwOyZuYnNwO2QCDQ8WAh8ABYoEPGEgaHJlZj0iL25vdGlmeS5hc3B4Ij48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2VuZXdzLnBuZyIgYWx0PSJFLW5vdGlmeSIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSIvcnNzLmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zcnNzLnBuZyIgYWx0PSJSU1MgRmVlZHMiIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9XZWxsaW5ndG9uX0tTIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9jb21tb24vaW1hZ2VzLzN0d2l0dGVyLnBuZyIgYWx0PSJGb2xsb3cgVXMgb24gVHdpdHRlciIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vY2l0eW9md2VsbGluZ3RvbiIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zZmFjZWJvb2sucG5nIiBhbHQ9IkZpbmQgVXMgb24gRmFjZWJvb2siIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUPY3RsMDAkaW1nU2VhcmNoBQxjdGwwMCRyU2hhcmV6B/3JaRexpbz0+bMnvGLxQe2121LUs3F5WGo5wM6GVQ==" />
+
+
+<script src="/ScriptResource.axd?d=NWY7xEK-NIs7mZDfDW6okrh566S1dGcR8OmwglbTPJAV6Xo9fmmk1FFIeQR85yLkT2wjRC0egi3ymOVhDb9-iCg5Snimp_0dbEz0tfb3fKQfA7Em9GMl6zkg4cCApHAZAbl5NQmJuAPEsnJYJM_co48eRRBJjWURnIp8cdzFUlf0N1CewMHTIqhXS-KX8q-A0&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=U1qjp928J1EkKZFoePtKIk1t-OvWLMFFsQNbp6qaGQsKy_adiG0JD0uoEmyKke2BLJgaAhQsnMndIpF9P5pdA74OFx_pJuFZzOvqq3aQYes6Q1efyiD1pVF8FXU7K5iO7gZWUNHZMrFATZjuBhrvYw2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=aTkHKNDet8_I-7AiYIkRf9-Js8F7iN2kkvtQlCph3B6Lk1QInfUV_Svk0GU09Lolut_OTpNkQ_BHZDNu8MNmF7MbaWWUWEpzyM_Jg2ValABiwlfaKMGIUJKQc7DimkphYlLVIZCNqgGWwvYRuGssHQ2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Oqya8Uq6I5sif8LINSRYLSCzJix3HMJs0DNxuGCVBWKrMLDVwAauNlHMQnEhmvwziBYMb1liMPOD4fqhCFxW4xL1mYPplzqk9XrRDJrt94ksVeYwwkMtRPBQvyjpEu1_65zPksQjs7lKtTlF3jA7TA2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LEOT54s7C3jLcqfv-PxuNHSHoDpAXnpruWNBq0lIWECLAvng2682GvSADM6_8WM30EzlZ838dvlMlU06lZUQpjlHXJf78DAgD26-O3bogbXqLDXPY0jIITFQ3TZLRlmRp7KKmbaxSecTih8qEVZKIui1_GVoZzpdn_39R0snkunaqZSn2-RQPBD65FAoqq4Q0&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JnYfnhqI242etyHL9MFJMhrm1m6yR6y_MABKlUmg7f3sh4vMfyEwXtfDOEOWvw7bSeZoIsS3LqynHLpXJodRQIsTEBcARzAKTP8TQog6ZHW4iHnEoraY3s5PLBqMbI3s3Acus7JDmcWPHsrUtVwgp6AgY9lkRHgJ70jajMCXpcc1&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=4hmbhFw-ll8paMDV4K9gwW5Z0nCCuwyURXT8P670QHwDepWTNfk5mcS-huRjWIz2TcJ8W97H6NPdI1sYCwNNWtVosGcISsbUssUMmxqGc7E-7TWLRJvE8l8oSE7MVP8Mb4i3_ovBVsbeEVvY04Ykzyf75h4gfoygF8lRYtUJ3AE1&amp;t=3322f07f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAbRVQs/sGuornDRlQ2rnaPq4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75WPGwhr/WLCutCwuUn1m9PDHZDHHEXRmRwXc6m+vpFlSA==" />
+          <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20630&catid=556">About Wellington</a></div><div class="mobileMenuItemR" id="mm556">+</div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20859&catid=556">Community Profile</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20860&catid=556">Our History</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20861&catid=556">Where is Wellington?</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20862&catid=556">Museums in Wellington</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20858&catid=556">OTHER Helpful Links....</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20926&catid=556">Wellington Area Chamber of Commerce/CVB</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20931&catid=556">Wellington Area Local Transit (WALT)</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20930&catid=556">Wellington Humane Society</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20935&catid=556">Wellington Public Library</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20927&catid=556">Wellington Public Schools</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20928&catid=556">Wellington Recreation Commission</a></div></div><div class="mobileMenuItemSub sm556"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20946&catid=556">WELLINGTON STRATEGIC PLAN</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20635&catid=561">Government</a></div><div class="mobileMenuItemR" id="mm561">+</div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20780&catid=561">Agendas & Minutes</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20802&catid=561">Boards and Commissions</a></div><div class="mobileMenuItemRS" id="mm56120802">+</div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20803&catid=561">Airport Advisory Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20804&catid=561">Board of Zoning Appeals</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20805&catid=561">Combined Trade Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20806&catid=561">Health Care Authority</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20807&catid=561">Housing Authority Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20808&catid=561">Library Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20809&catid=561">Memorial Auditorium Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20810&catid=561">Park Board</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20811&catid=561">Planning Commission</a></div></div><div class="mobileMenuItemSubS sm56120802"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20812&catid=561">Public Building Commission</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20824&catid=561">Code of Ordinances</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20825&catid=561">Departments</a></div><div class="mobileMenuItemRS" id="mm56120825">+</div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20881&catid=561">Building and Codes</a></div><div class="mobileMenuItemRS3" id="mm56120881">+</div></div><div class="mobileMenuItemSubS3 sm56120881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20882&catid=561">Building/Inspections</a></div></div><div class="mobileMenuItemSubS3 sm56120881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20883&catid=561">Code Compliance</a></div></div><div class="mobileMenuItemSubS3 sm56120881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20884&catid=561">General Info/Applications/Fees</a></div></div><div class="mobileMenuItemSubS3 sm56120881"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20885&catid=561">Zoning Info/Forms</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20827&catid=561">City Clerk/Finance Director</a></div><div class="mobileMenuItemRS3" id="mm56120827">+</div></div><div class="mobileMenuItemSubS3 sm56120827"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20855&catid=561">Financial Info</a></div></div><div class="mobileMenuItemSubS3 sm56120827"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20856&catid=561">Licenses/Permit Info</a></div></div><div class="mobileMenuItemSubS3 sm56120827"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20854&catid=561">Open Records</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20826&catid=561">City Manager</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20828&catid=561">Fire/EMS</a></div><div class="mobileMenuItemRS3" id="mm56120828">+</div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20848&catid=561">After the Fire</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20852&catid=561">Fire Pits/Open Burning</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20851&catid=561">Fire Prevention and Safety</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20849&catid=561">History &amp; Apparatus</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20919&catid=561">Mission Statement</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20920&catid=561">Monthly Reports</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20917&catid=561">Newsletters</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20916&catid=561">Personnel</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20918&catid=561">Strategic Plan</a></div></div><div class="mobileMenuItemSubS3 sm56120828"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20850&catid=561">Tornado/Storm Shelter Information</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20829&catid=561">GIS/Information Technology</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20830&catid=561">Human Resources</a></div></div><div class="mobileMenuItemSubS3 sm56120830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20913&catid=561">Employment Opportunities</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20831&catid=561">Municipal Airport</a></div><div class="mobileMenuItemRS3" id="mm56120831">+</div></div><div class="mobileMenuItemSubS3 sm56120831"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20853&catid=561">History of Wellington Municipal Airport</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20832&catid=561">Municipal Court</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20833&catid=561">Municipal Golf Course</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20834&catid=561">Police</a></div><div class="mobileMenuItemRS3" id="mm56120834">+</div></div><div class="mobileMenuItemSubS3 sm56120834"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20844&catid=561">Animal Control</a></div></div><div class="mobileMenuItemSubS3 sm56120834"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20925&catid=561">Community Crime Map</a></div></div><div class="mobileMenuItemSubS3 sm56120834"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20845&catid=561">Crime Stoppers</a></div></div><div class="mobileMenuItemSubS3 sm56120834"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20847&catid=561">Fees/VIN Inspections</a></div></div><div class="mobileMenuItemSubS3 sm56120834"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20846&catid=561">Vacation Home List</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20836&catid=561">Public Utilities</a></div><div class="mobileMenuItemRS3" id="mm56120836">+</div></div><div class="mobileMenuItemSubS3 sm56120836"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20841&catid=561">Electric Distribution</a></div></div><div class="mobileMenuItemSubS3 sm56120836"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20839&catid=561">Electric Production</a></div></div><div class="mobileMenuItemSubS3 sm56120836"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20842&catid=561">Wastewater Treatment</a></div></div><div class="mobileMenuItemSubS3 sm56120836"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20840&catid=561">Water Distribution</a></div></div><div class="mobileMenuItemSubS3 sm56120836"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20843&catid=561">Water Production</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20835&catid=561">Public Works</a></div><div class="mobileMenuItemRS3" id="mm56120835">+</div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20864&catid=561">Aquatic Center</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20942&catid=561">Building and Codes</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20865&catid=561">Cemetery</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20879&catid=561">Compost Site</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20871&catid=561">Lake Recreation</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20922&catid=561">Memorial Auditorium</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20866&catid=561">Parks</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20880&catid=561">Recycling Center</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20872&catid=561">Sanitation</a></div></div><div class="mobileMenuItemSubS3 sm56120835"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20875&catid=561">Streets</a></div></div><div class="mobileMenuItemSubS sm56120825"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20837&catid=561">Utility Billing/Collection</a></div><div class="mobileMenuItemRS3" id="mm56120837">+</div></div><div class="mobileMenuItemSubS3 sm56120837"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20867&catid=561">Average Monthly Payment (AMP) Plan</a></div></div><div class="mobileMenuItemSubS3 sm56120837"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20868&catid=561">Electric Service and Energy Costs</a></div></div><div class="mobileMenuItemSubS3 sm56120837"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20869&catid=561">Payment Options and Info</a></div></div><div class="mobileMenuItemSubS3 sm56120837"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20870&catid=561">Setting Services</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20822&catid=561">Document Center</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20771&catid=561">Mayor and City Council</a></div><div class="mobileMenuItemRS" id="mm56120771">+</div></div><div class="mobileMenuItemSubS sm56120771"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20857&catid=561">Rules of Procedure</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20924&catid=561">Recent Ordinances Passed</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20823&catid=561">Staff Directory</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20632&catid=558">Residents</a></div><div class="mobileMenuItemR" id="mm558">+</div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20887&catid=558">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20888&catid=558">Utility Billing and Collection</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20890&catid=558">Compost Site</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20889&catid=558">Email Notifications</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20886&catid=558">Online Payments</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20891&catid=558">Tornado/Storm Shelter Info</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20892&catid=558">Recycling Center</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20858&catid=558">OTHER Helpful Links....</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20893&catid=558">Refuse Collection</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20801&catid=558">Report a Concern</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20822&catid=558">Document Center</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20932&catid=558">Wellington Area Chamber of Commerce/CVB</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20931&catid=558">Wellington Area Local Transit (WALT)</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20930&catid=558">Wellington Humane Society</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20935&catid=558">Wellington Public Library</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20927&catid=558">Wellington Public Schools</a></div></div><div class="mobileMenuItemSub sm558"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20928&catid=558">Wellington Recreation Commission</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20633&catid=559">Visitors</a></div><div class="mobileMenuItemR" id="mm559">+</div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20887&catid=559">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20894&catid=559">Aquatic Center</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20895&catid=559">Lake Recreation Area</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20878&catid=559">Memorial Auditorium</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20862&catid=559">Museums in Wellington</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20896&catid=559">Municipal Airport</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20897&catid=559">Municipal Golf Course</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20898&catid=559">Parks</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20858&catid=559">OTHER Helpful Links....</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20932&catid=559">Wellington Area Chamber of Commerce/CVB</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20931&catid=559">Wellington Area Local Transit (WALT)</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20930&catid=559">Wellington Humane Society</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20935&catid=559">Wellington Public Library</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20927&catid=559">Wellington Public Schools</a></div></div><div class="mobileMenuItemSub sm559"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20928&catid=559">Wellington Recreation Commission</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20631&catid=557">Business</a></div><div class="mobileMenuItemR" id="mm557">+</div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20818&catid=557">Sumner County Economic Development Commission</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20819&catid=557">Wellington Area Chamber of Commerce/CVB</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20820&catid=557">South Central Kansas Economic Development District</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20863&catid=557">City Incentives</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20821&catid=557">Bid Opportunities</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20936&catid=557">Building and Codes</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20822&catid=557">Document Center</a></div></div><div class="mobileMenuItemSub sm557"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20945&catid=557">Kansas Department of Commerce</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20634&catid=560">How Do I?</a></div><div class="mobileMenuItemR" id="mm560">+</div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20801&catid=560">Report a Concern</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20798&catid=560">Apply For...</a></div></div><div class="mobileMenuItemSubS sm56020798"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20813&catid=560">Employment</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20788&catid=560">Contact...</a></div></div><div class="mobileMenuItemSubS sm56020788"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20912&catid=560">City Council Members</a></div></div><div class="mobileMenuItemSubS sm56020788"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20789&catid=560">City Staff</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20799&catid=560">Find...</a></div></div><div class="mobileMenuItemSubS sm56020799"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20899&catid=560">Parks & Facilities</a></div></div><div class="mobileMenuItemSubS sm56020799"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20900&catid=560">Tornado/Storm Shelter Info</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20791&catid=560">Get...</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20814&catid=560">Agendas & Minutes</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20901&catid=560">Building Inspection</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20903&catid=560">Dog tag/license</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20902&catid=560">Drinking Establishment License</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20792&catid=560">e-Notifications</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20904&catid=560">Open Record</a></div></div><div class="mobileMenuItemSubS sm56020791"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20944&catid=560">Street Closing & Special Event Approval</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20800&catid=560">Pay for...</a></div></div><div class="mobileMenuItemSubS sm56020800"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20906&catid=560">Ticket or Court Fine</a></div></div><div class="mobileMenuItemSubS sm56020800"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20905&catid=560">Utility Bill</a></div></div><div class="mobileMenuItemSub sm560"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20793&catid=560">View...</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20794&catid=560">Agendas & Minutes</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20815&catid=560">Bid Opportunities</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20795&catid=560">City Code</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20907&catid=560">Compost Site Schedule</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20816&catid=560">Events Calendar</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20911&catid=560">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20817&catid=560">Job Openings</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20908&catid=560">Landfill Schedule</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20909&catid=560">Recycle Center Schedule</a></div></div><div class="mobileMenuItemSubS sm56020793"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20910&catid=560">Trash pickup Schedule</a></div></div></div><div id="m20630" class="levelSub level1"><div id="mi20859" class="menuItem "><a href="/pview.aspx?id=20859&catid=556"">Community Profile</a></div><div id="mi20860" class="menuItem "><a href="/pview.aspx?id=20860&catid=556"">Our History</a></div><div id="mi20861" class="menuItem "><a href="/pview.aspx?id=20861&catid=556"">Where is Wellington?</a></div><div id="mi20862" class="menuItem "><a href="/pview.aspx?id=20862&catid=556"">Museums in Wellington</a></div><div id="mi20858" class="menuItem "><a href="/pview.aspx?id=20858&catid=556"">OTHER Helpful Links....</a></div><div id="mi20926" class="menuItem "><a href="/pview.aspx?id=20926&catid=556"">Wellington Area Chamber of Commerce/CVB</a></div><div id="mi20931" class="menuItem "><a href="/pview.aspx?id=20931&catid=556"">Wellington Area Local Transit (WALT)</a></div><div id="mi20930" class="menuItem "><a href="/pview.aspx?id=20930&catid=556"">Wellington Humane Society</a></div><div id="mi20935" class="menuItem "><a href="/pview.aspx?id=20935&catid=556"">Wellington Public Library</a></div><div id="mi20927" class="menuItem "><a href="/pview.aspx?id=20927&catid=556"">Wellington Public Schools</a></div><div id="mi20928" class="menuItem "><a href="/pview.aspx?id=20928&catid=556"">Wellington Recreation Commission</a></div><div id="mi20946" class="menuItem "><a href="/pview.aspx?id=20946&catid=556"">WELLINGTON STRATEGIC PLAN</a></div></div><div id="m20631" class="levelSub level1"><div id="mi20818" class="menuItem "><a href="/pview.aspx?id=20818&catid=557" target="_blank"">Sumner County Economic Development Commission</a></div><div id="mi20819" class="menuItem "><a href="/pview.aspx?id=20819&catid=557" target="_blank"">Wellington Area Chamber of Commerce/CVB</a></div><div id="mi20820" class="menuItem "><a href="/pview.aspx?id=20820&catid=557" target="_blank"">South Central Kansas Economic Development District</a></div><div id="mi20863" class="menuItem "><a href="/pview.aspx?id=20863&catid=557"">City Incentives</a></div><div id="mi20821" class="menuItem "><a href="/pview.aspx?id=20821&catid=557"">Bid Opportunities</a></div><div id="mi20936" class="menuItem "><a href="/pview.aspx?id=20936&catid=557"">Building and Codes</a></div><div id="mi20822" class="menuItem "><a href="/pview.aspx?id=20822&catid=557"">Document Center</a></div><div id="mi20945" class="menuItem "><a href="/pview.aspx?id=20945&catid=557"">Kansas Department of Commerce</a></div></div><div id="m20632" class="levelSub level1"><div id="mi20887" class="menuItem "><a href="/pview.aspx?id=20887&catid=558"">Calendar of Events</a></div><div id="mi20888" class="menuItem "><a href="/pview.aspx?id=20888&catid=558"">Utility Billing and Collection</a></div><div id="mi20890" class="menuItem "><a href="/pview.aspx?id=20890&catid=558"">Compost Site</a></div><div id="mi20889" class="menuItem "><a href="/pview.aspx?id=20889&catid=558"">Email Notifications</a></div><div id="mi20886" class="menuItem "><a href="/pview.aspx?id=20886&catid=558"">Online Payments</a></div><div id="mi20891" class="menuItem "><a href="/pview.aspx?id=20891&catid=558"">Tornado/Storm Shelter Info</a></div><div id="mi20892" class="menuItem "><a href="/pview.aspx?id=20892&catid=558"">Recycling Center</a></div><div id="mi20858" class="menuItem "><a href="/pview.aspx?id=20858&catid=558"">OTHER Helpful Links....</a></div><div id="mi20893" class="menuItem "><a href="/pview.aspx?id=20893&catid=558"">Refuse Collection</a></div><div id="mi20801" class="menuItem "><a href="/pview.aspx?id=20801&catid=558"">Report a Concern</a></div><div id="mi20822" class="menuItem "><a href="/pview.aspx?id=20822&catid=558"">Document Center</a></div><div id="mi20932" class="menuItem "><a href="/pview.aspx?id=20932&catid=558"">Wellington Area Chamber of Commerce/CVB</a></div><div id="mi20931" class="menuItem "><a href="/pview.aspx?id=20931&catid=558"">Wellington Area Local Transit (WALT)</a></div><div id="mi20930" class="menuItem "><a href="/pview.aspx?id=20930&catid=558"">Wellington Humane Society</a></div><div id="mi20935" class="menuItem "><a href="/pview.aspx?id=20935&catid=558"">Wellington Public Library</a></div><div id="mi20927" class="menuItem "><a href="/pview.aspx?id=20927&catid=558"">Wellington Public Schools</a></div><div id="mi20928" class="menuItem "><a href="/pview.aspx?id=20928&catid=558"">Wellington Recreation Commission</a></div></div><div id="m20633" class="levelSub level1"><div id="mi20887" class="menuItem "><a href="/pview.aspx?id=20887&catid=559"">Calendar of Events</a></div><div id="mi20894" class="menuItem "><a href="/pview.aspx?id=20894&catid=559"">Aquatic Center</a></div><div id="mi20895" class="menuItem "><a href="/pview.aspx?id=20895&catid=559"">Lake Recreation Area</a></div><div id="mi20878" class="menuItem "><a href="/pview.aspx?id=20878&catid=559"">Memorial Auditorium</a></div><div id="mi20862" class="menuItem "><a href="/pview.aspx?id=20862&catid=559"">Museums in Wellington</a></div><div id="mi20896" class="menuItem "><a href="/pview.aspx?id=20896&catid=559"">Municipal Airport</a></div><div id="mi20897" class="menuItem "><a href="/pview.aspx?id=20897&catid=559" target="_blank"">Municipal Golf Course</a></div><div id="mi20898" class="menuItem "><a href="/pview.aspx?id=20898&catid=559"">Parks</a></div><div id="mi20858" class="menuItem "><a href="/pview.aspx?id=20858&catid=559"">OTHER Helpful Links....</a></div><div id="mi20932" class="menuItem "><a href="/pview.aspx?id=20932&catid=559"">Wellington Area Chamber of Commerce/CVB</a></div><div id="mi20931" class="menuItem "><a href="/pview.aspx?id=20931&catid=559"">Wellington Area Local Transit (WALT)</a></div><div id="mi20930" class="menuItem "><a href="/pview.aspx?id=20930&catid=559"">Wellington Humane Society</a></div><div id="mi20935" class="menuItem "><a href="/pview.aspx?id=20935&catid=559"">Wellington Public Library</a></div><div id="mi20927" class="menuItem "><a href="/pview.aspx?id=20927&catid=559"">Wellington Public Schools</a></div><div id="mi20928" class="menuItem "><a href="/pview.aspx?id=20928&catid=559"">Wellington Recreation Commission</a></div></div><div id="m20634" class="levelSub level1"><div id="mi20801" class="menuItem "><a href="/pview.aspx?id=20801&catid=560"">Report a Concern</a></div><div id="mi20798" class="menuItem "><a href="/pview.aspx?id=20798&catid=560"">Apply For...</a></div><div id="mi20788" class="menuItem "><a href="/pview.aspx?id=20788&catid=560"">Contact...</a></div><div id="mi20799" class="menuItem "><a href="/pview.aspx?id=20799&catid=560"">Find...</a></div><div id="mi20791" class="menuItem "><a href="/pview.aspx?id=20791&catid=560"">Get...</a></div><div id="mi20800" class="menuItem "><a href="/pview.aspx?id=20800&catid=560"">Pay for...</a></div><div id="mi20793" class="menuItem "><a href="/pview.aspx?id=20793&catid=560"">View...</a></div></div><div id="m20635" class="levelSub level1"><div id="mi20780" class="menuItem "><a href="/pview.aspx?id=20780&catid=561"">Agendas & Minutes</a></div><div id="mi20802" class="menuItem menuChild"><a href="/pview.aspx?id=20802&catid=561"">Boards and Commissions</a></div><div id="mi20824" class="menuItem "><a href="/pview.aspx?id=20824&catid=561" target="_blank"">Code of Ordinances</a></div><div id="mi20825" class="menuItem menuChild"><a href="/pview.aspx?id=20825&catid=561"">Departments</a></div><div id="mi20822" class="menuItem "><a href="/pview.aspx?id=20822&catid=561"">Document Center</a></div><div id="mi20771" class="menuItem menuChild"><a href="/pview.aspx?id=20771&catid=561"">Mayor and City Council</a></div><div id="mi20924" class="menuItem "><a href="/pview.aspx?id=20924&catid=561"">Recent Ordinances Passed</a></div><div id="mi20823" class="menuItem "><a href="/pview.aspx?id=20823&catid=561"">Staff Directory</a></div></div><div id="m20771" class="levelSub level2"><div id="mi20857" class="menuItem "><a href="/pview.aspx?id=20857&catid=0"">Rules of Procedure</a></div></div><div id="m20788" class="levelSub level2"><div id="mi20912" class="menuItem "><a href="/pview.aspx?id=20912&catid=0"">City Council Members</a></div><div id="mi20789" class="menuItem "><a href="/pview.aspx?id=20789&catid=0"">City Staff</a></div></div><div id="m20791" class="levelSub level2"><div id="mi20814" class="menuItem "><a href="/pview.aspx?id=20814&catid=0"">Agendas & Minutes</a></div><div id="mi20901" class="menuItem "><a href="/pview.aspx?id=20901&catid=0"">Building Inspection</a></div><div id="mi20903" class="menuItem "><a href="/pview.aspx?id=20903&catid=0"">Dog tag/license</a></div><div id="mi20902" class="menuItem "><a href="/pview.aspx?id=20902&catid=0"">Drinking Establishment License</a></div><div id="mi20792" class="menuItem "><a href="/pview.aspx?id=20792&catid=0"">e-Notifications</a></div><div id="mi20904" class="menuItem "><a href="/pview.aspx?id=20904&catid=0"">Open Record</a></div><div id="mi20944" class="menuItem "><a href="/pview.aspx?id=20944&catid=0"">Street Closing & Special Event Approval</a></div></div><div id="m20793" class="levelSub level2"><div id="mi20794" class="menuItem "><a href="/pview.aspx?id=20794&catid=0"">Agendas & Minutes</a></div><div id="mi20815" class="menuItem "><a href="/pview.aspx?id=20815&catid=0"">Bid Opportunities</a></div><div id="mi20795" class="menuItem "><a href="/pview.aspx?id=20795&catid=0" target="_blank"">City Code</a></div><div id="mi20907" class="menuItem "><a href="/pview.aspx?id=20907&catid=0"">Compost Site Schedule</a></div><div id="mi20816" class="menuItem "><a href="/pview.aspx?id=20816&catid=0"">Events Calendar</a></div><div id="mi20911" class="menuItem "><a href="/pview.aspx?id=20911&catid=0"">Frequently Asked Questions</a></div><div id="mi20817" class="menuItem "><a href="/pview.aspx?id=20817&catid=0"">Job Openings</a></div><div id="mi20908" class="menuItem "><a href="/pview.aspx?id=20908&catid=0"">Landfill Schedule</a></div><div id="mi20909" class="menuItem "><a href="/pview.aspx?id=20909&catid=0"">Recycle Center Schedule</a></div><div id="mi20910" class="menuItem "><a href="/pview.aspx?id=20910&catid=0"">Trash pickup Schedule</a></div></div><div id="m20798" class="levelSub level2"><div id="mi20813" class="menuItem "><a href="/pview.aspx?id=20813&catid=0"">Employment</a></div></div><div id="m20799" class="levelSub level2"><div id="mi20899" class="menuItem "><a href="/pview.aspx?id=20899&catid=0"">Parks & Facilities</a></div><div id="mi20900" class="menuItem "><a href="/pview.aspx?id=20900&catid=0"">Tornado/Storm Shelter Info</a></div></div><div id="m20800" class="levelSub level2"><div id="mi20906" class="menuItem "><a href="/pview.aspx?id=20906&catid=0" target="_blank"">Ticket or Court Fine</a></div><div id="mi20905" class="menuItem "><a href="/pview.aspx?id=20905&catid=0" target="_blank"">Utility Bill</a></div></div><div id="m20802" class="levelSub level2"><div id="mi20803" class="menuItem "><a href="/pview.aspx?id=20803&catid=0"">Airport Advisory Board</a></div><div id="mi20804" class="menuItem "><a href="/pview.aspx?id=20804&catid=0"">Board of Zoning Appeals</a></div><div id="mi20805" class="menuItem "><a href="/pview.aspx?id=20805&catid=0"">Combined Trade Board</a></div><div id="mi20806" class="menuItem "><a href="/pview.aspx?id=20806&catid=0"">Health Care Authority</a></div><div id="mi20807" class="menuItem "><a href="/pview.aspx?id=20807&catid=0"">Housing Authority Board</a></div><div id="mi20808" class="menuItem "><a href="/pview.aspx?id=20808&catid=0"">Library Board</a></div><div id="mi20809" class="menuItem "><a href="/pview.aspx?id=20809&catid=0"">Memorial Auditorium Board</a></div><div id="mi20810" class="menuItem "><a href="/pview.aspx?id=20810&catid=0"">Park Board</a></div><div id="mi20811" class="menuItem "><a href="/pview.aspx?id=20811&catid=0"">Planning Commission</a></div><div id="mi20812" class="menuItem "><a href="/pview.aspx?id=20812&catid=0"">Public Building Commission</a></div></div><div id="m20825" class="levelSub level2"><div id="mi20881" class="menuItem menuChild"><a href="/pview.aspx?id=20881&catid=0"">Building and Codes</a></div><div id="mi20827" class="menuItem menuChild"><a href="/pview.aspx?id=20827&catid=0"">City Clerk/Finance Director</a></div><div id="mi20826" class="menuItem "><a href="/pview.aspx?id=20826&catid=0"">City Manager</a></div><div id="mi20828" class="menuItem menuChild"><a href="/pview.aspx?id=20828&catid=0"">Fire/EMS</a></div><div id="mi20829" class="menuItem "><a href="/pview.aspx?id=20829&catid=0"">GIS/Information Technology</a></div><div id="mi20830" class="menuItem "><a href="/pview.aspx?id=20830&catid=0"">Human Resources</a></div><div id="mi20831" class="menuItem menuChild"><a href="/pview.aspx?id=20831&catid=0"">Municipal Airport</a></div><div id="mi20832" class="menuItem "><a href="/pview.aspx?id=20832&catid=0"">Municipal Court</a></div><div id="mi20833" class="menuItem "><a href="/pview.aspx?id=20833&catid=0"">Municipal Golf Course</a></div><div id="mi20834" class="menuItem menuChild"><a href="/pview.aspx?id=20834&catid=0"">Police</a></div><div id="mi20836" class="menuItem menuChild"><a href="/pview.aspx?id=20836&catid=0"">Public Utilities</a></div><div id="mi20835" class="menuItem menuChild"><a href="/pview.aspx?id=20835&catid=0"">Public Works</a></div><div id="mi20837" class="menuItem menuChild"><a href="/pview.aspx?id=20837&catid=0"">Utility Billing/Collection</a></div></div><div id="m20827" class="levelSub level3"><div id="mi20855" class="menuItem "><a href="/pview.aspx?id=20855&catid=0"">Financial Info</a></div><div id="mi20856" class="menuItem "><a href="/pview.aspx?id=20856&catid=0"">Licenses/Permit Info</a></div><div id="mi20854" class="menuItem "><a href="/pview.aspx?id=20854&catid=0"">Open Records</a></div></div><div id="m20828" class="levelSub level3"><div id="mi20848" class="menuItem "><a href="/pview.aspx?id=20848&catid=0"">After the Fire</a></div><div id="mi20852" class="menuItem "><a href="/pview.aspx?id=20852&catid=0"">Fire Pits/Open Burning</a></div><div id="mi20851" class="menuItem "><a href="/pview.aspx?id=20851&catid=0"">Fire Prevention and Safety</a></div><div id="mi20849" class="menuItem "><a href="/pview.aspx?id=20849&catid=0"">History &amp; Apparatus</a></div><div id="mi20919" class="menuItem "><a href="/pview.aspx?id=20919&catid=0"">Mission Statement</a></div><div id="mi20920" class="menuItem "><a href="/pview.aspx?id=20920&catid=0"">Monthly Reports</a></div><div id="mi20917" class="menuItem "><a href="/pview.aspx?id=20917&catid=0"">Newsletters</a></div><div id="mi20916" class="menuItem "><a href="/pview.aspx?id=20916&catid=0"">Personnel</a></div><div id="mi20918" class="menuItem "><a href="/pview.aspx?id=20918&catid=0"">Strategic Plan</a></div><div id="mi20850" class="menuItem "><a href="/pview.aspx?id=20850&catid=0"">Tornado/Storm Shelter Information</a></div></div><div id="m20830" class="levelSub level3"><div id="mi20913" class="menuItem "><a href="/pview.aspx?id=20913&catid=0" target="_blank"">Employment Opportunities</a></div></div><div id="m20831" class="levelSub level3"><div id="mi20853" class="menuItem "><a href="/pview.aspx?id=20853&catid=0"">History of Wellington Municipal Airport</a></div></div><div id="m20834" class="levelSub level3"><div id="mi20844" class="menuItem "><a href="/pview.aspx?id=20844&catid=0"">Animal Control</a></div><div id="mi20925" class="menuItem "><a href="/pview.aspx?id=20925&catid=0"">Community Crime Map</a></div><div id="mi20845" class="menuItem "><a href="/pview.aspx?id=20845&catid=0"">Crime Stoppers</a></div><div id="mi20847" class="menuItem "><a href="/pview.aspx?id=20847&catid=0"">Fees/VIN Inspections</a></div><div id="mi20846" class="menuItem "><a href="/pview.aspx?id=20846&catid=0"">Vacation Home List</a></div></div><div id="m20835" class="levelSub level3"><div id="mi20864" class="menuItem "><a href="/pview.aspx?id=20864&catid=0"">Aquatic Center</a></div><div id="mi20942" class="menuItem "><a href="/pview.aspx?id=20942&catid=0"">Building and Codes</a></div><div id="mi20865" class="menuItem "><a href="/pview.aspx?id=20865&catid=0"">Cemetery</a></div><div id="mi20879" class="menuItem "><a href="/pview.aspx?id=20879&catid=0"">Compost Site</a></div><div id="mi20871" class="menuItem "><a href="/pview.aspx?id=20871&catid=0"">Lake Recreation</a></div><div id="mi20922" class="menuItem "><a href="/pview.aspx?id=20922&catid=0"">Memorial Auditorium</a></div><div id="mi20866" class="menuItem "><a href="/pview.aspx?id=20866&catid=0"">Parks</a></div><div id="mi20880" class="menuItem "><a href="/pview.aspx?id=20880&catid=0"">Recycling Center</a></div><div id="mi20872" class="menuItem menuChild"><a href="/pview.aspx?id=20872&catid=0"">Sanitation</a></div><div id="mi20875" class="menuItem menuChild"><a href="/pview.aspx?id=20875&catid=0"">Streets</a></div></div><div id="m20836" class="levelSub level3"><div id="mi20841" class="menuItem "><a href="/pview.aspx?id=20841&catid=0"">Electric Distribution</a></div><div id="mi20839" class="menuItem "><a href="/pview.aspx?id=20839&catid=0"">Electric Production</a></div><div id="mi20842" class="menuItem "><a href="/pview.aspx?id=20842&catid=0"">Wastewater Treatment</a></div><div id="mi20840" class="menuItem "><a href="/pview.aspx?id=20840&catid=0"">Water Distribution</a></div><div id="mi20843" class="menuItem "><a href="/pview.aspx?id=20843&catid=0"">Water Production</a></div></div><div id="m20837" class="levelSub level3"><div id="mi20867" class="menuItem "><a href="/pview.aspx?id=20867&catid=0"">Average Monthly Payment (AMP) Plan</a></div><div id="mi20868" class="menuItem "><a href="/pview.aspx?id=20868&catid=0"">Electric Service and Energy Costs</a></div><div id="mi20869" class="menuItem "><a href="/pview.aspx?id=20869&catid=0"">Payment Options and Info</a></div><div id="mi20870" class="menuItem "><a href="/pview.aspx?id=20870&catid=0"">Setting Services</a></div></div><div id="m20872" class="levelSub level4"><div id="mi20873" class="menuItem "><a href="/pview.aspx?id=20873&catid=0"">Household Hazardous Waste</a></div><div id="mi20874" class="menuItem "><a href="/pview.aspx?id=20874&catid=0"">Transfer Station/Landfill Information</a></div></div><div id="m20875" class="levelSub level4"><div id="mi20876" class="menuItem "><a href="/pview.aspx?id=20876&catid=0"">Culvert Installation</a></div><div id="mi20923" class="menuItem "><a href="/pview.aspx?id=20923&catid=0"">Sidewalk Replacement Program</a></div><div id="mi20877" class="menuItem "><a href="/pview.aspx?id=20877&catid=0"">Trees in Public Right-of-Way</a></div></div><div id="m20881" class="levelSub level3"><div id="mi20882" class="menuItem "><a href="/pview.aspx?id=20882&catid=0"">Building/Inspections</a></div><div id="mi20883" class="menuItem "><a href="/pview.aspx?id=20883&catid=0"">Code Compliance</a></div><div id="mi20884" class="menuItem "><a href="/pview.aspx?id=20884&catid=0"">General Info/Applications/Fees</a></div><div id="mi20885" class="menuItem "><a href="/pview.aspx?id=20885&catid=0"">Zoning Info/Forms</a></div></div><div class="bigMenuCon" id="bm556"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20859&catid=556">Community Profile</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20860&catid=556">Our History</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20861&catid=556">Where is Wellington?</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20862&catid=556">Museums in Wellington</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20858&catid=556">OTHER Helpful Links....</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20926&catid=556">Wellington Area Chamber of Commerce/CVB</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20931&catid=556">Wellington Area Local Transit (WALT)</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20930&catid=556">Wellington Humane Society</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20935&catid=556">Wellington Public Library</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20927&catid=556">Wellington Public Schools</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20928&catid=556">Wellington Recreation Commission</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20946&catid=556">WELLINGTON STRATEGIC PLAN</a></div>
+</div></div></div><div class="bigMenuCon" id="bm561"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20780&catid=561">Agendas & Minutes</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20802&catid=561">Boards and Commissions</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20803&catid=561">Airport Advisory Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20804&catid=561">Board of Zoning Appeals</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20805&catid=561">Combined Trade Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20806&catid=561">Health Care Authority</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20807&catid=561">Housing Authority Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20808&catid=561">Library Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20809&catid=561">Memorial Auditorium Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20810&catid=561">Park Board</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20811&catid=561">Planning Commission</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20812&catid=561">Public Building Commission</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20824&catid=561" target="blank">Code of Ordinances</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20825&catid=561">Departments</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20881&catid=561">Building and Codes</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20827&catid=561">City Clerk/Finance Director</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20826&catid=561">City Manager</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20828&catid=561">Fire/EMS</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20829&catid=561">GIS/Information Technology</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20830&catid=561">Human Resources</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20831&catid=561">Municipal Airport</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20832&catid=561">Municipal Court</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20833&catid=561">Municipal Golf Course</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20825&catid=561">Departments <span class="megaparent">(Cont'd)</span></a></div>
+<div class="megachild"><a href="/pview.aspx?id=20834&catid=561">Police</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20836&catid=561">Public Utilities</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20835&catid=561">Public Works</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20837&catid=561">Utility Billing/Collection</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20822&catid=561">Document Center</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20771&catid=561">Mayor and City Council</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20857&catid=561">Rules of Procedure</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20924&catid=561">Recent Ordinances Passed</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20823&catid=561">Staff Directory</a></div>
+</div></div></div><div class="bigMenuCon" id="bm558"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20887&catid=558">Calendar of Events</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20888&catid=558">Utility Billing and Collection</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20890&catid=558">Compost Site</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20889&catid=558">Email Notifications</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20886&catid=558">Online Payments</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20891&catid=558">Tornado/Storm Shelter Info</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20892&catid=558">Recycling Center</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20858&catid=558">OTHER Helpful Links....</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20893&catid=558">Refuse Collection</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20801&catid=558">Report a Concern</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20822&catid=558">Document Center</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20932&catid=558">Wellington Area Chamber of Commerce/CVB</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20931&catid=558">Wellington Area Local Transit (WALT)</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20930&catid=558">Wellington Humane Society</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20935&catid=558">Wellington Public Library</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20927&catid=558">Wellington Public Schools</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20928&catid=558">Wellington Recreation Commission</a></div>
+</div></div></div><div class="bigMenuCon" id="bm559"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20887&catid=559">Calendar of Events</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20894&catid=559">Aquatic Center</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20895&catid=559">Lake Recreation Area</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20878&catid=559">Memorial Auditorium</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20862&catid=559">Museums in Wellington</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20896&catid=559">Municipal Airport</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20897&catid=559" target="blank">Municipal Golf Course</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20898&catid=559">Parks</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20858&catid=559">OTHER Helpful Links....</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20932&catid=559">Wellington Area Chamber of Commerce/CVB</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20931&catid=559">Wellington Area Local Transit (WALT)</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20930&catid=559">Wellington Humane Society</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20935&catid=559">Wellington Public Library</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20927&catid=559">Wellington Public Schools</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20928&catid=559">Wellington Recreation Commission</a></div>
+</div></div></div><div class="bigMenuCon" id="bm557"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20818&catid=557" target="blank">Sumner County Economic Development Commission</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20819&catid=557" target="blank">Wellington Area Chamber of Commerce/CVB</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20820&catid=557" target="blank">South Central Kansas Economic Development District</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20863&catid=557">City Incentives</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20821&catid=557">Bid Opportunities</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20936&catid=557">Building and Codes</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20822&catid=557">Document Center</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20945&catid=557">Kansas Department of Commerce</a></div>
+</div></div></div><div class="bigMenuCon" id="bm560"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20801&catid=560">Report a Concern</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20798&catid=560">Apply For...</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20813&catid=560">Employment</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20788&catid=560">Contact...</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20912&catid=560">City Council Members</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20789&catid=560">City Staff</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20799&catid=560">Find...</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20899&catid=560">Parks & Facilities</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20900&catid=560">Tornado/Storm Shelter Info</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20791&catid=560">Get...</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20814&catid=560">Agendas & Minutes</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20791&catid=560">Get... <span class="megaparent">(Cont'd)</span></a></div>
+<div class="megachild"><a href="/pview.aspx?id=20901&catid=560">Building Inspection</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20903&catid=560">Dog tag/license</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20902&catid=560">Drinking Establishment License</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20792&catid=560">e-Notifications</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20904&catid=560">Open Record</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20944&catid=560">Street Closing & Special Event Approval</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20800&catid=560">Pay for...</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20906&catid=560" target="blank">Ticket or Court Fine</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20905&catid=560" target="blank">Utility Bill</a></div>
+<div class="megaparent"><a href="/pview.aspx?id=20793&catid=560">View...</a></div>
+</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20793&catid=560">View... <span class="megaparent">(Cont'd)</span></a></div>
+<div class="megachild"><a href="/pview.aspx?id=20794&catid=560">Agendas & Minutes</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20815&catid=560">Bid Opportunities</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20795&catid=560" target="blank">City Code</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20907&catid=560">Compost Site Schedule</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20816&catid=560">Events Calendar</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20911&catid=560">Frequently Asked Questions</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20817&catid=560">Job Openings</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20908&catid=560">Landfill Schedule</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20909&catid=560">Recycle Center Schedule</a></div>
+<div class="megachild"><a href="/pview.aspx?id=20910&catid=560">Trash pickup Schedule</a></div>
+</div></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="default.aspx">Wellington Kansas</a></div>
+
+                </td></tr></table>
+        </div>
+
+
+<div class="container">
+   <div class="mainContainer m-0" >
+       
+    <div class="topline" >
+
+        
+
+   
+</div>
+
+    <header class="header"><a href="/default.aspx"><img src="common/images/header0.png" alt="Return to Home Page" border="0"/></a>
+        
+       </header>
+     
+      </div></div>
+
+      
+<div class=" container secondContainer">
+    <div class="row"><div class="menuBar">
+                <nav class="menuMain">
+<div style="width:10%;" class="catMenu" id="t-1" tid="555"><a href="/default.aspx"">Home</a></div><div style="width:18%;" class="catMenu catMenu2" id="t20630" tid="556"><a href="/pview.aspx?id=20630&catid=556">About Wellington</a></div><div style="width:15%;" class="catMenu catMenu3" id="t20635" tid="561"><a href="/pview.aspx?id=20635&catid=561">Government</a></div><div style="width:14%;" class="catMenu catMenu4" id="t20632" tid="558"><a href="/pview.aspx?id=20632&catid=558">Residents</a></div><div style="width:14%;" class="catMenu catMenu5" id="t20633" tid="559"><a href="/pview.aspx?id=20633&catid=559">Visitors</a></div><div style="width:14%;" class="catMenu catMenu6" id="t20631" tid="557"><a href="/pview.aspx?id=20631&catid=557">Business</a></div><div style="width:15%;" class="catMenu catMenu7" id="t20634" tid="560"><a href="/pview.aspx?id=20634&catid=560">How Do I?</a></div></nav>
+          
+
+     </div></div>
+    <div class="row">
+   
+
+      
+    <div class="sLeft pt-2 pb-2 col-lg-3 order-2 order-lg-1" style="position: inherit ">
+    
+        <div class="searching">
+     <div class="searchLeft" >
+        <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" aria-label="Search text box" placeholder="I&#39;m looking for..." /></div><div class="searchRight">
+   
+        <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" src="common/images/go.png" alt="Search site" border="0" />
+        </div>
+</div>
+      <nav>
+          <div class="sideItem"><a href="/agenda.aspx">Agendas & Minutes</a></div><div class="sideItem"><a href="/documents.aspx?categoryid=0">Document Center</a></div><div class="sideItem"><a href="/forms.aspx?fid=559">Report a Concern</a></div><div class="sideItem"><a href="/staff.aspx?categoryid=0">Staff Directory</a></div>
+
+         
+
+        </nav>
+
+    </div>
+
+    <main class="sRight pt-2 col-lg-9 order-1 order-lg-2">
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    <a href="/default.aspx">Home</a> > 
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.45 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li>
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="#" onclick="window.print();"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Print Page"   /></a>
+      
+        </div>
+            </div></div>
+        
+     <a id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle"></span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+      
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+       
+
+
+    
+    </main>
+  </div>
+ <footer class="row FooterBackground pt-2 pb-3">
+
+         
+           <div class="col-xs-12 col-lg-3   order-1 order-lg-1 pt-3 pb-3 footerLeft">
+               <a href="/default.aspx"><img src="/common/images/wellington.png" alt="Return to home page" /></a>
+           </div>
+           <div class="col-xs-12 col-lg-6 text-center  order-3 order-lg-2">
+                <div style="line-height:1.6;"><span class="footerName">City of Wellington</span><br /><span class="mobileDiv">317 S. Washington</span><span class="mobileDiv"> Wellington, KS 67152</span><br><span class="mobileDiv">Phone: 620-326-3631</span><span class="tinyHide">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class="mobileDiv">Fax: 620-326-8506</span></div><span class="mobileDiv"><a href="/staff.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp;</span><span class="tinyHide">|&nbsp;&nbsp;</span><a href="/termsofuse.aspx">Accessibility</a>&nbsp;&nbsp;<br /><br />
+               <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">Government Website by MunicipalCMS</a>
+               
+               </div>
+
+    
+           <div class="col-xs-12 col-lg-3 text-right pb-3 order-2 order-lg-3">
+               <div class="footerSocial">
+               <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="E-notify" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;<a href="https://twitter.com/Wellington_KS" target="_blank"><img src="/common/images/3twitter.png" alt="Follow Us on Twitter" style="border: 0;"></a>&nbsp;<a href="https://www.facebook.com/cityofwellington" target="_blank"><img src="/common/images/3facebook.png" alt="Find Us on Facebook" style="border: 0;"></a>&nbsp;
+                   </div>
+           </div>
+            
+        </footer>
+        
+      
+               
+
+   
+
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Please ignore" />
+        </div> 
+
+        <div id="galleryCon">
+
+        </div>
+        <div class="bgGray">&nbsp;</div>
+       </div>
+</div>
+    </div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11324500-62"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11324500-62');
+</script>
+
+
+</body>
+</html>
+
+
+
+    

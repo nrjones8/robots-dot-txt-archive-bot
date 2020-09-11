@@ -1,0 +1,185 @@
+<!DOCTYPE html><html lang="en" role="main"><head><base href="/lca-collaboration/"/><title>LCA Collaboration Server</title><meta http-equiv="expires" content="0"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="fragment" content="!"/><link rel="shortcut icon" type="image/x-icon" href="images/favicon1.ico"/><link rel="stylesheet" type="text/css" href="css/styles1591728064467.css"/>
+</head>
+<body class="public-mode">
+<div id="announcements"><table><tbody><tr><td id="announcement-message"></td></tr></tbody></table></div>
+ <a href="#" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+<div class="official-website-banner">
+  <div class="official-website-banner__message">
+    <img src="./images/amflag.jpg" alt="">An official website of the United States government.
+    <button class="official-website-banner__trigger content-collapsed"">Here&#39;s how you know.</button>
+  </div>
+  <div class="official-website-banner__content" style="display:none;">
+    <div class="content-region content-region__first">
+      <img src="./images/icon-dot-gov.svg" alt="">
+      <p><strong>The .gov means it&#39;s official.</strong><br>Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you&#39;re on a .gov or .mil site by inspecting your browser&#39;s address (or &quot;location&quot;) bar.</p>
+    </div>
+    <div class="content-region content-region__second">
+      <img src="./images/icon-https.svg" alt="">
+      <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that&#39;s been signed by the U.S. government. The https:// means all transmitted data is encrypted  &mdash; in other words, any information or browsing history that you provide is transmitted securely.</p>
+    </div>
+  </div>	
+</div>
+<header class="drupal">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-2 site-branding clearfix">
+          <img alt="" class="site-branding__usda-logo" src="images/lca_logo.png">
+          <span class="site-branding__site-name sr-only">Life Cycle Assessment Commons</span>
+      </div>
+
+      <nav class="navbar navbar-default col-md-10" id="navbar">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+            <span>MENU</span>
+          </button>
+        </div>
+
+        <div id="navbar-collapse" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+          <div class="region region-navigation-collapsible">
+            <nav aria-labelledby="block-bootstrap-lca-main-menu-menu" id="block-bootstrap-lca-main-menu">
+              <h2 class="sr-only" id="block-bootstrap-lca-main-menu-menu">Main navigation</h2>
+              
+              <ul class="menu menu--main nav navbar-nav">
+                <li class="first">
+                  <a href="#" onclick="javascript:window.location.href='https://www.lcacommons.gov'" data-drupal-link-system-path="<front>" class="is-active">Home</a>
+                </li>
+		<li class="expanded dropdown">
+			<a href="#about" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/2">About Us <span class="caret"></span></a>
+                	<ul class="dropdown-menu">
+                	<li class="first">
+                        <a href="/about" data-drupal-link-system-path="/node/25" target="_blank">About LCA Commons</a>
+                	</li>
+                	<li class="last">
+                        <a href="/memorandum-understanding-0" data-drupal-link-system-path="/node/24" target="_blank">Memorandum of Understanding</a>
+                	</li>
+                	</ul>
+                </li>
+                <li class="expanded dropdown">
+                  <a href="#doc" class="dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/7">Documentation <span class="caret"></span></a>
+                  
+                  <ul class="dropdown-menu">
+                    <li class="first">
+                      <a href="/draft-data-handbook" data-drupal-link-system-path="node/22" target="_blank">Draft Data Handbook</a>
+                    </li>
+                    <li >
+                      <a href="/openlca-collaboration-server" data-drupal-link-system-path="node/23" target="_blank">openLCA Collaboration Server</a>
+                    </li>
+                    <li class="last">
+                      <a href="/data-documentation" data-drupal-link-system-path="node/7" target="_blank">Agency Data Catalogs</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="last">
+                  <a href="/contact" target="_blank" data-drupal-link-system-path="contact">Contact</a>
+                </li>    
+                <li><a class="login default-button" href="#" onClick="javascript:window.location.href='login'"><span>Sign In</span></a></li>
+              </ul>
+              
+            </nav>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <div id="user-menu">
+    <div class="container">
+      <div class="has-feedback row">
+        <div class="form-group" id="global-search-group">
+          <input class="form-control" id="global-search" name="global-search" type="text" aria-label="Search" placeholder="Search">
+          <span class="glyphicon glyphicon-search form-control-feedback"></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="main" role="heading" aria-level="1">
+	<div class="full-size">
+		<div class="center"></div>
+	</div>
+</div>
+<footer class="footer">
+            <div class="footer__secondary-section">
+                <div class="container">
+                    <ul>
+                                                    <li><a href="https://www.usda.gov/policies-and-links" target="_blank">Policies and Links</a></li>
+                            <li><a href="https://www.usda.gov/plain-writing" target="_blank">Plain Writing</a></li>
+                            <li><a href="https://www.dm.usda.gov/foia/" target="_blank">FOIA</a></li>
+                            <li><a href="https://www.usda.gov/accessibility-statement" target="_blank">Accessibility Statement</a></li>
+                            <li><a href="https://www.usda.gov/privacy-policy" target="_blank">Privacy Policy</a></li>
+                            <li><a href="https://www.usda.gov/non-discrimination-statement" target="_blank">Non-Discrimination
+                                    Statement</a></li>
+                            <li><a href="https://www.ars.usda.gov/docs/quality-of-information/" target="_blank">Information Quality</a>
+                            </li>
+                            <li><a href="https://www.nal.usda.gov" target="_blank">National Agricultural Library</a></li>
+                            <li><a href="https://www.ars.usda.gov" target="_blank">Agricultural Research Service</a></li>
+                            <li><a href="https://www.usda.gov" target="_blank">USDA.gov</a></li>
+                            <li><a href="https://www.usa.gov" target="_blank">USA.gov</a></li>
+                            <li><a href="https://www.whitehouse.gov" target="_blank">WhiteHouse.gov</a></li>
+                                            </ul>
+                </div>
+            </div>
+        </footer>
+	<div id="build-info" data-admin-only="true">
+		<span id="release-version"></span>, 
+		<span id="commit-version"></span>, 
+		<span id="build-date"></span>
+	</div>	
+<script src="js/main1591728064467.js"></script>
+</body></html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- build:google -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-100195319-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-100195319-1');
+</script>
+<script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=ARS-NAL"></script>
+<!-- endbuild -->
+<script>
+function skipto() {
+	document.getElementById("main").scrollIntoView(true);
+}
+$( document ).ready(function() {
+	var href="";
+         $(".dropdown-toggle").click(function(event) {
+                href=this.href;
+                this.href="#";
+        });
+         $(".dropdown-toggle").focusout(function(event) {
+                this.href=href;
+        });
+        // bind a click event to the 'skip' link
+        $(".skip-link").click(function(event){
+                var skipTo="#main";
+                skipto();
+            // Setting 'tabindex' to -1 takes an element out of normal
+            // tab flow but allows it to be focused via javascript
+            $(skipTo).attr('tabindex', -1).on('blur focusout', function () {
+
+                // when focus leaves this element,
+                // remove the tabindex attribute
+                $(this).removeAttr('tabindex');
+
+            }).focus(); // focus on the content container
+        });
+    });
+(function ($) {
+  let trigger = $('.official-website-banner__trigger');
+
+  trigger.addClass('content-collapsed');
+
+  trigger.click(function() {
+    $('.official-website-banner__content').slideToggle(250);
+    if (trigger.hasClass('content-collapsed')) {
+      trigger.removeClass('content-collapsed').addClass('content-expanded');
+    }
+    else if (trigger.hasClass('content-expanded')) {
+      trigger.removeClass('content-expanded').addClass('content-collapsed');
+    }
+  });
+})(jQuery);
+</script>

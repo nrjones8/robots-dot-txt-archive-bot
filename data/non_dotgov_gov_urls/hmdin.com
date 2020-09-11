@@ -1,0 +1,1 @@
+<html><head><title>hmdin.com</title></head><body><h1>hmdin.com</h1><p>Coming soon.</p></body></html>

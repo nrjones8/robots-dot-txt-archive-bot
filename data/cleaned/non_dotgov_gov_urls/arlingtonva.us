@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: *
+Disallow: /admin-panel
+User-agent: Yandex
+User-agent: Baiduspider
+Disallow: /wp-content/uploads/
+User-agent: dotbot
+Disallow: /
+User-agent: cludo
+Allow: /

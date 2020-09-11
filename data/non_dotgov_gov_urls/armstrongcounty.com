@@ -1,0 +1,1 @@
+Your server is running PHP version 5.4.45 but WordPress 5.5.1 requires at least 5.6.20.

@@ -1,0 +1,1311 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Division of Unemployment Insurance</title>
+	<link rel="canonical" href="https://myunemployment.nj.gov/" />
+	<meta name="keywords" content="Unemployment, Benefits"/>
+	<meta name="author" content="OIT - CMS"/>
+	<meta name="revised" content="09/05/2020"/>
+	<meta name="description" content="Division of Unemployment Insurance provides services and benefits to ...."/>
+	<script src="/labor/myunemployment/assets/js/domain-correction.js"></script> 
+	
+	<link rel="stylesheet" href="/nj/design/css/bootstrap.min.css" />
+		
+	<link href="/nj/design/css/sonj-components.css" rel="stylesheet" type="text/css" />
+
+	<link href="/nj/design/css/site-base.css" rel="stylesheet" type="text/css" />
+	
+	<link rel="stylesheet" type="text/css" href="/nj/design/util/slick/slick.css" />
+
+	<link rel="stylesheet" type="text/css" href="/nj/design/util/slick/slick-theme.css" /> 
+	<!--local site specific css -->
+	<link href="/labor/myunemployment/assets/css/site-base.css" rel="stylesheet" type="text/css"  /> 
+</head>
+<body id="ui-site" class="homepage" data-pnav="">
+
+	<div class="skip"><a href="#content">Skip to content</a></div>
+
+	<!--
+<div class="feedback position-static">
+	<div class="container-fluid" id="">
+		<div class="row justify-content-center ">
+			<div class=" col col-12">
+				<div class="collapse  m-1" id="collapseExample">
+				  <div class="card card-body">
+<form class="formView socrataForm commonForm" method="POST" data-defaultSuccessRedirect="https://data.nj.gov/Health/TDI-FLI-Website-Feedback-Form/8vgh-arq4/form_success" action="https://data.nj.gov/views/8vgh-arq4/rows.html?method=createForm&successRedirect=http%3A%2F%2Fmyleavebenefits.nj.gov%2F">
+
+	<div class="form-group">
+		<label for="form_field_emailaddress"><b>Email Address (Optional):</b></label>
+		<input type="text" size="50" class="fieldInput form-control" id="form_field_emailaddress" name="emailaddress" />
+	</div>
+	<div class="form-group">
+		<label for="form_field_page"><b>Web Page:</b></label>
+		<input type="text" size="100" class="fieldInput form-control" id="form_field_page" name="page" />
+	</div>
+	<div class="form-group">
+		<label for="form_field_browserversion"><b>Browser Version (Optional):</b></label>
+		<select class="fieldInput form-control" id="form_field_browserversion" name="browserversion">
+			<option value="0">Select Browser Version</option>
+			<option value="Internet Explorer">Internet Explorer</option>
+			<option value="Chrome">Chrome</option>
+			<option value="Firefox">Firefox</option>
+			<option value="Other">Other</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="form_field_feedbacktype"><b>Feedback or Issue?:</b></label>
+		<select class="fieldInput form-control" id="form_field_feedbacktype" name="feedbacktype">
+			<option value="0">Select Feedback/Issue</option>
+			<option value="Feedback">Feedback</option>
+			<option value="Issue">Issue</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="form_field_category"><b>Category?:</b></label>
+		<select class="fieldInput form-control" id="form_field_category" name="category">
+			<option value="0">Select Category</option>
+			<option value="Recommendation">Recommendation</option>
+			<option value="Image Issue">Image Issue</option>
+			<option value="Link Issue">Link Issue</option>
+			<option value="Spelling/Grammar/Text">Spelling/Grammar/Text</option>
+			<option value="Display (Appearance)">Display (Appearance)</option>
+			<option value="Wish List (Enhancement)">Wish List (Enhancement)</option>
+		</select>
+	</div>
+	<div class="form-group">
+		<label for="form_field_comments"><b>Comments:</b></label>
+		<textarea rows="3" class="fieldInput form-control" id="form_field_comments" name="comments" ></textarea>
+	</div>
+	<div class="form-group">
+		<button type="submit" class="btn btn-primary">Submit</button>
+	</div>
+</form>
+				  </div>
+				</div>
+				<p class="text-center m-1">
+					<a class="btn btn-info" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Feedback <i class="fas fa-caret-square-down"></i></a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	//console.log("Page location is " + window.location.href);
+	document.getElementById("form_field_page").value = window.location.href;
+</script>
+-->
+
+	<span class="d-none"><!--
+	<div class="x-d-none">
+		<p class="text-center">
+		<span class="d-none d-xl-block">XL</span>
+		<span class="d-none d-lg-block d-xl-none">LG</span>
+		<span class="d-none d-md-block d-lg-none">MD</span>
+		<span class="d-none d-sm-block d-md-none">SM</span>
+		<span class="d-block d-sm-none">XS</span>
+		</p>
+	</div>	
+--></span>
+	
+	
+	
+	<div class="container-fluid" id="header"> 
+	  <header class="sonj row justify-content-center ">
+		<div id="logo" class="col-sm-8 col-lg-6 col-xl-5">
+			<a href="https://www.nj.gov/">
+			<h1 class="my-2"><img src="/nj/design/images/state_seal_white.png" alt="State of New Jersey Seal" title="">Official Site of The State of New Jersey</h1>
+			</a>
+		</div>
+		<div class=" col-sm-4 col-lg-6 col-xl-5">
+		  <div class="gov-bar text-right d-none d-lg-block"><a href="https://nj.gov/governor/" target="_blank">Governor Phil Murphy &bull; Lt. Governor Sheila Oliver</a> </div>
+		  <ul  class="my-sm-2 my-lg-0 social statewide text-right">
+			<li class="d-none d-lg-inline"><a href="https://nj.gov">NJ.gov</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/njgov/alphaserv.html">Services</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/nj/gov/deptserv/">Agencies</a></li>
+			<li class="d-none d-lg-inline"><a href="https://nj.gov/faqs/">FAQs</a></li>
+			<li class="sonj-translate">
+				<a href="https://translate.google.com/">Translate</a>
+				<div class="drop px-4 pb-3">
+					<button type="button" class="pl-0 btn btn-link float-left drop-close"><i class="fas fa-times-circle"></i> close</button>
+					<div id="google_translate_element"></div><script type="text/javascript">
+					function googleTranslateElementInit() {
+					  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL}, 'google_translate_element');
+					}
+					</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+					<p class="disclaimer pt-3">The State of NJ site may contain optional links, information, services and/or content from other websites operated by third parties that are provided as a convenience, such as Google&trade; Translate. Google&trade; Translate is an online service for which the user pays nothing to obtain a purported language translation. The user is on notice that neither the State of NJ site nor its operators review any of the services, information and/or content from anything that may be linked to the State of NJ site for any reason. -<a href="https://nj.gov/nj/home/disclaimer.html" target="_blank"><strong>Read Full Disclaimer <i class="fas fa-link"></i></strong></a></p>
+				</div>
+			</li>
+			<li class="sonj-search">
+				<a href="https://nj.gov/search/" id="search-label"  role="button">Search <i class="fas fa-search"></i></a>
+				<div class="drop px-4 pb-3">
+					<button type="button" class="pl-0 btn btn-link float-left drop-close"><i class="fas fa-times-circle"></i> close</button>
+					<form id="search" action="https://nj.gov/search/" old-action="https://search.state.nj.us/query.html" name="search">
+						<div class="input-group">
+							<input type="text" class="form-control p-1" placeholder="Type Search Here" aria-label="Search Query" aria-describedby="search-label" name="qt" id="qt">
+							<div class="input-group-append">
+								<button type="submit" class="input-group-text"><i class="fas fa-search"></i></button>
+							</div>
+						</div>
+					</form>
+				</div>
+			</li>
+		  </ul>
+		</div>
+	  </header>
+	</div>
+	
+	
+
+<div class="container-fluid sonj-nav labor-nav department-level"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar disabled-navbar-expand-lg navbar-dark x-bg-light px-0 justify-content-between">
+			  <h2 class="navbar-brand x-mr-auto disabled-d-lg-none" href='/labor/'>Department of Labor and Workforce Development</h2>
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-labor" aria-controls="navbarSupportedContent-labor" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent-labor">
+				<ul class="navbar-nav mr-auto x-nav-pills">
+
+
+	<li class="nav-item  pr-4" id="labor-pNav1" data-pnav="lwdhome"><a class="nav-link " href="https://www.nj.gov/labor/" data-sNav_scalar="0"  >Home</a>
+	</li>
+	<li class="nav-item dropdown pr-4" id="labor-pNav2" data-pnav="claims"><a class="nav-link dropdown-toggle" href="#" data-sNav_scalar="6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >File or Access Your Claim</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-pNav2">
+			<li><a href="https://myleavebenefits.nj.gov/worker/tdi/" class="dropdown-item">Temporary Disability Insurance</a>
+			</li>
+			<li><a href="https://myleavebenefits.nj.gov/worker/fli/" class="dropdown-item">Family Leave Insurance</a>
+			</li>
+			<li><a href="https://myleavebenefits.nj.gov/worker/maternity/" class="dropdown-item">Maternity Leave</a>
+			</li>
+			<li><a href="https://myunemployment.nj.gov/" class="dropdown-item">Unemployment Insurance</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/dds/ddsindex.html" class="dropdown-item">Social Security Disability</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4" id="labor-pNav3" data-pnav="worker-protections"><a class="nav-link dropdown-toggle" href="#" data-sNav_scalar="7" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Worker Protections</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-pNav3">
+			<li><a href="https://www.nj.gov/labor/worker-protections/myworkrights/" class="dropdown-item">Your Rights at Work</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/wc/wc_index.html" class="dropdown-item">Workers' Compensation</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/lsse/safetyhealth_index.html" class="dropdown-item">Safety and Health</a>
+				<ul>
+					<li><a href="https://www.nj.gov/labor/lsse/content/PSOSH_Forms.html" class="dropdown-item">Licenses & Permits</a></li>
+				</ul>
+			</li>
+			<li><a href="https://www.nj.gov/labor/wagehour/wagehour_index.html" class="dropdown-item">Wage &amp; Hour Compliance</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/equalpay/equalpay.html" class="dropdown-item">Equal Pay Act</a>
+			</li>
+			<li><a href="/labor/worker-protections/earnedsick" class="dropdown-item">Paid Sick Leave</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4" id="labor-pNav4" data-pnav="career-services"><a class="nav-link dropdown-toggle" href="#" data-sNav_scalar="4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Career Services</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-pNav4">
+			<li><a href="/labor/career-services/onestops" class="dropdown-item">One-Stop Career Center Services</a>
+			</li>
+			<li><a href="https://nj.gov/labor/apprenticeship/" class="dropdown-item">Apprenticeship</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4" id="labor-pNav5" data-pnav="employer-services"><a class="nav-link dropdown-toggle" href="#" data-sNav_scalar="9" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Employer Services</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-pNav5">
+			<li><a href="https://nj.gov/labor/ea/ea_index.html" class="dropdown-item">Employer Accounts</a>
+				<ul>
+					<li><a href="https://www.nj.gov/labor/ea/employer-services/who-qualifies/" class="dropdown-item">Register a New Business</a></li>
+					<li><a href="https://www1.state.nj.us/TYTR_BusinessFilings/jsp/common/Login.jsp?taxcode=45" class="dropdown-item">File a Quarterly Report</a></li>
+					<li><a href="https://www.nj.gov/labor/ea/employer-services/register-update/employeraccess.shtml" class="dropdown-item">Employer Access</a></li>
+				</ul>
+			</li>
+			<li><a href="/labor/employer-services/warn" class="dropdown-item">File a WARN Notice</a>
+			</li>
+			<li><a href="/labor/employer-services/business" class="dropdown-item">Business Support</a>
+			</li>
+			<li><a href="/labor/employer-services/internship-opportunities" class="dropdown-item">Internship Opportunities</a>
+			</li>
+			<li><a href="/labor/career-services/apprenticeship/index.shtml" class="dropdown-item">Apprenticeship </a>
+			</li>
+			<li><a href="/labor/employer-services/industry-partnerships" class="dropdown-item">Industry Partnerships</a>
+			</li>
+			<li><a href="https://nj.gov/labor/handbook/content/contents.html" class="dropdown-item">Employer Handbook</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/lwdhome/content/employerpacketforms.html" class="dropdown-item">Employer Poster Packet</a>
+			</li>
+			<li><a href="https://nj.gov/labor/equalpay/equalpay.html" class="dropdown-item">Equal Pay Act</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4" id="labor-pNav6" data-pnav="research-info"><a class="nav-link dropdown-toggle" href="#" data-sNav_scalar="4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >Research &amp; Information</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-pNav6">
+			<li><a href="https://nj.gov/labor/lpa/LMI_index.html" class="dropdown-item">Labor Market Information</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/programs/grants/ngo_index.html" class="dropdown-item">Grant Opportunities</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/roles/legal/index.html" class="dropdown-item">Legal Notices</a>
+			</li>
+			<li><a href="/labor/lwdhome/press/" class="dropdown-item">Press Releases</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item  pr-4" id="labor-pNav7" data-pnav="aboutlwd"><a class="nav-link " href="/labor/aboutlwd" data-sNav_scalar="0"  >About Us</a>
+	</li>
+
+
+				</ul>
+			  </div>
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+
+		<div class="container-fluid d-none d-lg-block"> 
+	  <div class="row justify-content-center ">
+		<div id="site-name" class="department col-12 col-xl-10 py-3">
+			<h2 class="">
+				<span class="align-middle department">Division of Unemployment Insurance</span>
+				<img src="/labor/myunemployment/assets/images/myunemployment_logo.png" alt="URL reading ( My Unemployment . NJ . Gov )" class="float-right">
+			</h2>
+		</div>
+	  </div>
+	</div>
+
+	
+	<div class="x-container-fluid d-none d-sm-inline sticky-social d-print-none">
+	<!--
+	<div class="row justify-content-end">
+		<div class="col-sm-1 p-0">
+	-->
+			<a href="#" class="toggle-sticky"><i class="fas fa-angle-double-right fa-1x sonj-gray toggle-target"></i><i class="fas fa-angle-double-left fa-1x sonj-gray d-none  toggle-target"></i></a>
+			<a href="https://twitter.com/NJLaborDept" class=" toggle-target"><i class="fab fa-twitter-square fa-2x sonj-gray"></i></a> 
+			<a href="https://www.facebook.com/NJLabor/" class=" toggle-target"><i class="fab fa-facebook-square fa-2x sonj-gray"></i></a> 
+	<!--
+			<a href="#" class=" toggle-target"><i class="fab fa-instagram fa-2x sonj-gray"></i></a> 
+			<a href="#" class=" toggle-target"><i class="fab fa-youtube-square fa-2x sonj-gray"></i></a> 
+			<a href="#" class=" toggle-target"><i class="fab fa-pinterest-square fa-2x sonj-gray"></i></a> 
+			<a href="#" class=" toggle-target"><i class="fab fa-flickr fa-2x sonj-gray"></i></a> 
+			<a href="#" class=" toggle-target"><i class="fab fa-tumblr-square fa-2x sonj-gray"></i></a>
+			<a href="#" class=" toggle-target"><i class="fab fa-linkedin fa-2x sonj-gray"></i></a>
+
+		</div>
+	</div>
+	-->
+</div>
+
+	
+	
+
+<div class="container-fluid sonj-nav tdi-fli-nav department-level"> 
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10">
+			<nav class="navbar navbar-expand-lg navbar-light x-bg-light px-0 justify-content-between">
+			  <h2 class="navbar-brand x-mr-auto d-lg-none" href='/labor/myunemployment/'>Division of Unemployment Insurance</h2>
+			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-tdi-fli" aria-controls="navbarSupportedContent-tdi-fli" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			  </button>
+
+			  <div class="collapse navbar-collapse" id="navbarSupportedContent-tdi-fli">
+				<ul class="navbar-nav mr-auto x-nav-pills">
+
+
+	<li class="nav-item  pr-4 font-weight-bold" id="labor-myunemployment-pNav1" data-pnav="home"><a class="nav-link " href="/labor/myunemployment" data-sNav_scalar="0"   target="" >Home <i class="fas fa-home"></i></a>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav2" data-pnav="before"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/before" data-sNav_scalar="5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >Before You Apply</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav2">
+			<li><a href="/labor/myunemployment/before/about" class="dropdown-item" target="" >About Unemployment Insurance</a>
+				<ul>
+					<li><a href="/labor/myunemployment/before/about/who" class="dropdown-item" target="" >Who Is Eligible for Benefits?</a></li>
+					<li><a href="/labor/myunemployment/before/about/howtoapply" class="dropdown-item" target="" >Step-by-Step Guide</a></li>
+					<li><a href="/labor/myunemployment/before/about/payment" class="dropdown-item" target="" >Payment Options</a></li>
+					<li><a href="/labor/myunemployment/before/about/calculator" class="dropdown-item" target="" >Benefit Calculator</a></li>
+				</ul>
+			</li>
+			<li><a href="/labor/myunemployment/before/createaccount" class="dropdown-item" target="" >Create an Online Account</a>
+			</li>
+			<li><a href="/labor/myunemployment/before/circumstances" class="dropdown-item" target="" >Special Cases</a>
+				<ul>
+					<li><a href="/labor/myunemployment/before/about/who/schoolemployees.shtml" class="dropdown-item" target="" >Teachers & School Employees</a></li>
+					<li><a href="/labor/myunemployment/before/about/who/corpbusiness.shtml" class="dropdown-item" target="" >Corporate Officers & Business Owners</a></li>
+					<li><a href="/labor/myunemployment/before/circumstances/commuters" class="dropdown-item" target="" >Information for Commuters</a></li>
+					<li><a href="/labor/myunemployment/before/circumstances/ddu" class="dropdown-item" target="" >Disability During Unemployment</a></li>
+					<li><a href="/labor/myunemployment/before/circumstances/uad" class="dropdown-item" target="" >Unemployment After Disability</a></li>
+					<li><a href="/labor/myunemployment/before/circumstances/disaster" class="dropdown-item" target="" >Disaster Unemployment Assistance</a></li>
+				</ul>
+			</li>
+			<li><a href="/labor/myunemployment/before/fraud" class="dropdown-item" target="" >Unemployment Fraud</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/PR94/" class="dropdown-item" target="" >Your Rights & Responsibilities</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav3" data-pnav="apply"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/apply" data-sNav_scalar="9" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >If You Already Filed a Claim</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav3">
+			<li><a href="https://myunemployment.nj.gov/labor/myunemployment/apply/phoneintro" class="dropdown-item" target="" >Phone Applicants: Create an Account</a>
+			</li>
+			<li><a href="#" class="dropdown-item" target="" >Online Applicants:</a>
+				<ul>
+					<li><a href="/labor/myunemployment/schedule.shtml" class="dropdown-item" target="" >View the Current Schedule for Claiming Weekly Benefits</a></li>
+					<li><a href="https://lwdlba.state.nj.us/CertQueueMini/employerVerifyForm.htm" class="dropdown-item" target="_blank" >Certify for Weekly Benefits</a></li>
+					<li><a href="https://lwdwebpt.dol.state.nj.us/ClaimStatus/" class="dropdown-item" target="_blank" >Check Claim Status</a></li>
+					<li><a href="https://secure.dol.state.nj.us/Registration" class="dropdown-item" target="_blank" >Update Your Information</a></li>
+					<li><a href="https://secure.dol.state.nj.us/Registration" class="dropdown-item" target="" >Reopen an Existing Claim</a></li>
+					<li><a href="https://secure.dol.state.nj.us/Registration" class="dropdown-item" target="_blank" >Get Tax Forms (1099-G)</a></li>
+				</ul>
+			</li>
+			<li><a href="/labor/myunemployment/before/about/howtoapply/taxes.shtml" class="dropdown-item" target="" >Change Your Tax Withholding</a>
+			</li>
+			<li><a href="/labor/myunemployment/before/circumstances/ddu/" class="dropdown-item" target="" >Is a Health Issue Preventing You from Working?</a>
+			</li>
+			<li><a href="/labor/myunemployment/apply/appointments" class="dropdown-item" target="" >Appointments</a>
+			</li>
+			<li><a href="/labor/myunemployment/apply/extensions" class="dropdown-item" target="" >Benefit Extensions</a>
+			</li>
+			<li><a href="/labor/myunemployment/apply/overpayments" class="dropdown-item" target="" >Overpayments & Refunds</a>
+			</li>
+			<li><a href="/labor/myunemployment/appeals/claimant/" class="dropdown-item" target="" >Appeal a Determination</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/faqs/" class="dropdown-item" target="" >Frequently Asked Questions</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav4" data-pnav="jobseekers"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/jobseekers" data-sNav_scalar="3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >Tools for Jobseekers</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav4">
+			<li><a href="https://www.nj.gov/labor/career-services/onestops/" class="dropdown-item" target="_blank" >One-Stop Career Center Services</a>
+			</li>
+			<li><a href="/labor/myunemployment/jobseekers/training" class="dropdown-item" target="" >Training & Education Programs</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav5" data-pnav="employers"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/employers" data-sNav_scalar="7" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >Tools for Employers</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav5">
+			<li><a href="/labor/myunemployment/employers/letter" class="dropdown-item" target="" >Forms & Publications</a>
+			</li>
+			<li><a href="/labor/myunemployment/employers/school-districts" class="dropdown-item" target="" >School Districts</a>
+			</li>
+			<li><a href="/labor/myunemployment/employers/fraud" class="dropdown-item" target="" >Report Fraud</a>
+			</li>
+			<li><a href="/labor/myunemployment/employers/eadjudication" class="dropdown-item" target="" >E-Adjudication</a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/lwdhome/warn/RapidResponseTeam.html" class="dropdown-item" target="_blank" >Layoffs & Closings</a>
+			</li>
+			<li><a href="/labor/myunemployment/employers/find-workers" class="dropdown-item" target="" >Find New Workers </a>
+			</li>
+			<li><a href="https://www.nj.gov/labor/ea/ea_index.html" class="dropdown-item" target="_blank" >Employer Accounts</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav6" data-pnav="appeals"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/appeals" data-sNav_scalar="5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >Appeals</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav6">
+			<li><a href="/labor/myunemployment/appeals/claimant" class="dropdown-item" target="" >Claimant Appeals</a>
+			</li>
+			<li><a href="/labor/myunemployment/appeals/employer" class="dropdown-item" target="" >Employer Appeals</a>
+			</li>
+			<li><a href="/labor/myunemployment/appeals/register" class="dropdown-item" target="" >Register for Hearing</a>
+			</li>
+			<li><a href="/labor/myunemployment/appeals/tribunal" class="dropdown-item" target="" >About the Appeal Tribunal</a>
+			</li>
+			<li><a href="/labor/myunemployment/appeals/boardofreview" class="dropdown-item" target="" >About the Board of Review</a>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item dropdown pr-4 font-weight-bold" id="labor-myunemployment-pNav7" data-pnav="help"><a class="nav-link dropdown-toggle" href="/labor/myunemployment/help" data-sNav_scalar="6" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"  target="" >Need Help?</a>
+		<ul class="dropdown-menu" aria-labelledby="labor-myunemployment-pNav7">
+			<li><a href="/labor/myunemployment/help/faqs" class="dropdown-item" target="" >Frequently Asked Questions</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/glossary" class="dropdown-item" target="" >Glossary</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/forms" class="dropdown-item" target="" >Forms</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/PR94" class="dropdown-item" target="" >Claimant Rights & Responsibilities</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/boa" class="dropdown-item" target="" >Bank of America Support</a>
+			</li>
+			<li><a href="/labor/myunemployment/help/contact-us" class="dropdown-item" target="" >Contact Us</a>
+				<ul>
+					<li><a href="/labor/myunemployment/help/contact-us/index.shtml#phoneclaimsinfo" class="dropdown-item" target="" >By Phone - Certify for Benefits & Get Information</a></li>
+					<li><a href="/labor/myunemployment/help/contact-us/index.shtml#rcc" class="dropdown-item" target="" >By Phone - Reemployment Call Centers</a></li>
+					<li><a href="/labor/myunemployment/help/contact-us/index.shtml#email" class="dropdown-item" target="" >Send an Online Message</a></li>
+					<li><a href="https://www.nj.gov/labor/career-services/onestops/" class="dropdown-item" target="_blank" >One-Stop Career Center Services</a></li>
+					<li><a href="/labor/myunemployment/help/contact-us/reportfraud" class="dropdown-item" target="" >Report Fraud</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+
+				</ul>
+			  </div>
+			</nav>
+		</div>
+	</div>
+</div>
+<!--login banner-->
+<div class="container-fluid login">
+	<div class="row justify-content-center ">
+		<div id="" class="col-12 col-xl-10 p-0 justify-content-center">
+			<nav class="nav nav-pills justify-content-center nav-justified px-3">
+							
+						<div class="nav nav-pills justify-content-center nav-justified">
+								<span class="d-inline-block text-white py-2 font-weight-bold">FILE A CLAIM:</span> <a class="d-inline-block nav-link" href="https://secure.dol.state.nj.us/sso/XUI/?realm=ui#register/" target="_blank"><i class="fas fa-user-plus"></i> New users register here </a> <a class="d-inline-block nav-link" href="https://secure.dol.state.nj.us/sso/XUI/#login/&realm=ui&goto=https%3A%2F%2Fclaimproxy.dol.state.nj.us%3A443%2Fnjsuccess" target="_blank"><i class="fas fa-sign-in-alt"></i> Existing users log in here</a>
+						</div>
+						<div class="nav nav-pills justify-content-center nav-justified">
+								<span class="d-inline-block text-white py-2 font-weight-bold">ALREADY FILED?</span> 
+								<a class="d-inline-block nav-link" href="https://lwdwebpt.dol.state.nj.us/ClaimStatus/" target="_blank"><i class="fas fa-check-circle"></i><!--<i class="fas fa-file-invoice-dollar"></i>--> Check claim status here </a>
+								<a class="d-inline-block nav-link" href="https://myunemployment.nj.gov/labor/myunemployment/schedule.shtml"><i class="fas fa-dollar-sign"></i> Certify for weekly benefits</a>
+								
+						</div>
+			
+				<!--
+				<a class="nav-link" href="https://myunemployment.nj.gov/labor/myunemployment/schedule.shtml" target="_blank"><i class="fas fa-dollar-sign"></i> Certify for weekly benefits/a>
+				<a class="nav-link" href="https://lwdwebpt.dol.state.nj.us/ClaimStatus/" target="_blank"><i class="fas fa-file-invoice-dollar"></i> Check claim status</a>
+				<a class="nav-link" href="https://secure.dol.state.nj.us/sso/XUI/#login/&realm=ui&goto=https%3A%2F%2Fclaimproxy.dol.state.nj.us%3A443%2Fnjsuccess" target="_blank"><i class="fas fa-sign-in-alt"></i> File a new claim</a>
+				<a class="nav-link" href="https://secure.dol.state.nj.us/sso/XUI/?realm=ui#register/" target="_blank"><i class="fas fa-user-plus"></i> Register</a>
+				-->
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+
+	
+	
+	
+	<div class="container-fluid content mt-3" id="content">
+		<div class="row justify-content-center">
+			<div class="col col-xl-10 ">
+
+
+
+
+
+
+
+				<!-- start of Icon row -->
+				<div class="row justify-content-center hp-row-2 mb-5">
+
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/topquestions.shtml#pending" target="" >
+									<i class="fas fa-user-clock fa-5x d-fa-3x orange"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">"What does it mean if my claim is pending, or not payable at this time?"</p>
+								<p>Many claimants see these messages and aren't sure what, if anything, they need to do about them.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/topquestions.shtml#pending" target="">LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/topquestions.shtml#call" target="" >
+									<i class="fas fa-phone-alt fa-5x d-fa-3x yellow"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">"What if I see a message to contact the call center or speak to an agent?"</p>
+								<p>This could refer to a few different situations, and you may not need to speak to an agent at all.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/topquestions.shtml#call" target="">LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/topquestions.shtml#benefit" target="" >
+									<i class="fas fa-comment-dollar fa-5x d-fa-3x green"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">"My claim shows $0 in the WBR amount."</p>
+								<p>If your claim status is "Filed," with a zero ($0) amount in the Weekly Benefit Rate (WBR), we are still reviewing your claim.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/topquestions.shtml#benefit" target="">LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/topquestions.shtml#reset" target="" >
+									<i class="fas fa-unlock-alt fa-5x d-fa-3x blue"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">"How can I reset my PIN or password?"</p>
+								<p>We can help if you're having trouble with your online account password and/or PIN to certify for weekly benefits.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/topquestions.shtml#reset" target="">LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+				<!-- end of Icon row -->
+
+	
+
+
+
+
+
+
+
+				<!-- START OF TOP ROW -->
+				<div class="row mb-5">
+					<div class="col col-12 mb-3 x-col-md-9 x-mb-md-0">
+
+
+
+						<div id="tdi-fli-carousel" class="sonj carousel slide" data-ride="carousel" data-interval="5000">
+							<ol class="carousel-indicators">
+
+		
+			
+			<li data-target="#tdi-fli-carousel" data-slide-to="0" class="active"></li>
+				
+			<!-- item_count 0 -->
+		
+			
+			<li data-target="#tdi-fli-carousel" data-slide-to="1" class=""></li>
+				
+			<!-- item_count 1 -->
+		
+			
+			<li data-target="#tdi-fli-carousel" data-slide-to="2" class=""></li>
+				
+			<!-- item_count 2 -->
+		
+			
+			<li data-target="#tdi-fli-carousel" data-slide-to="3" class=""></li>
+				
+			<!-- item_count 3 -->
+		
+			
+			<li data-target="#tdi-fli-carousel" data-slide-to="4" class=""></li>
+				
+			<!-- item_count 4 -->
+		
+
+							</ol>
+							<div class="carousel-inner">
+
+
+		
+			
+				<div class="carousel-item active">
+									<img class="d-block w-100" src="/labor/myunemployment/assets/images/homepage/GettyImages-970308260_1613x539.jpg" alt="empty school classroom" />
+				
+									<div class="carousel-caption d-block right">
+								
+										<h5 class="font-weight-bold">School Districts: Need to report employees not returning this fall?</h5>
+									
+								
+										<p>Use our spreadsheet to streamline the process.</p>
+									
+								
+										<a href="/labor/myunemployment/employers/school-districts/index.shtml" class="btn btn-light" target="">LEARN MORE ></a>
+									
+									</div>
+				
+								</div>
+			<!-- item_count 0 -->
+		
+			
+			
+				<div class="carousel-item ">
+									<img class="d-block w-100" src="/labor/myunemployment/assets/images/homepage/GettyImages-1225844757_1613x539.jpg" alt="barista in a cafe behind the counter wearing a mask" />
+				
+									<div class="carousel-caption d-block right">
+								
+										<h5 class="font-weight-bold">Returning to Work Amid COVID-19</h5>
+									
+								
+										<p>Read our FAQ on unemployment, worker health & safety protections, and caregiving.</p>
+									
+								
+										<a href="https://www.nj.gov/labor/worker-protections/returntowork.shtml" class="btn btn-light" target="_blank">LEARN MORE ></a>
+									
+									</div>
+				
+								</div>
+			<!-- item_count 1 -->
+		
+			
+			
+				<div class="carousel-item ">
+									<img class="d-block w-100" src="/labor/myunemployment/assets/images/homepage/GettyImages-1154657745_1613x539.jpg" alt="woman using a laptop computer" />
+				
+									<div class="carousel-caption d-block left">
+								
+										<h5 class="font-weight-bold">Are you a PUA-eligible claimant who got an email to start certifying for benefits?</h5>
+									
+								
+										<p>We have important instructions for you.</p>
+									
+								
+										<a href="/labor/myunemployment/puainstructions.shtml" class="btn btn-light" target="">LEARN MORE ></a>
+									
+									</div>
+				
+								</div>
+			<!-- item_count 2 -->
+		
+			
+			
+				<div class="carousel-item ">
+									<img class="d-block w-100" src="/labor/myunemployment/assets/images/homepage/GettyImages-1035436426_1613x539.jpg" alt="woman working from home " />
+				
+									<div class="carousel-caption d-block right">
+								
+										<h5 class="font-weight-bold">Information about expanded Unemployment benefits and paid leave rights.</h5>
+									
+								
+										<p>Read our coronavirus emergency FAQ before you apply.</p>
+									
+								
+										<a href="/labor/myunemployment/covidFAQ.shtml" class="btn btn-light" target="">LEARN MORE ></a>
+									
+									</div>
+				
+								</div>
+			<!-- item_count 3 -->
+		
+			
+			
+				<div class="carousel-item ">
+									<img class="d-block w-100" src="/labor/myunemployment/assets/images/homepage/GettyImages-1177334847_1613x539.jpg" alt="man using a laptop computer at home" />
+				
+									<div class="carousel-caption d-block ">
+								
+										<h5 class="font-weight-bold">Information for self-employed individuals</h5>
+									
+								
+										<p>Learn how to apply for Pandemic Unemployment Assistance (PUA).</p>
+									
+								
+										<a href="/labor/myunemployment/independentcontractors.shtml" class="btn btn-light" target="">START HERE ></a>
+									
+									</div>
+				
+								</div>
+			<!-- item_count 4 -->
+		
+
+
+							</div>
+							<a class="carousel-control-prev" href="#tdi-fli-carousel" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#tdi-fli-carousel" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
+
+					</div>
+					<!-- End of Carousel Column -->
+
+				</div>
+				<!-- END OF TOP ROW -->
+
+	
+
+
+
+
+
+
+
+				<!-- start of Icon row -->
+				<div class="row justify-content-center hp-row-2 mb-5">
+
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/before/about/index.shtml" target="" >
+									<i class="fas fa-question-circle fa-5x d-fa-3x orange"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">I just lost my job. Now what?</p>
+								<p>Learn about New Jersey Unemployment Insurance and see if you're eligible for benefits.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/before/about/index.shtml" target="">START HERE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="/labor/myunemployment/before/about/howtoapply/applyonline.shtml" target="" >
+									<i class="fas fa-list-ol fa-5x d-fa-3x yellow"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">How do I complete an application?</p>
+								<p>Get step-by-step instructions for our application process and find out what happens after you file.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/before/about/howtoapply/applyonline.shtml" target="">LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="https://lwdwebpt.dol.state.nj.us/CertQueueMini/employerVerifyForm.htm" target="_blank" >
+									<i class="fas fa-dollar-sign fa-5x d-fa-3x green"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">I want to certify for and claim benefits.</p>
+								<p>You must&nbsp;confirm each week that you are <a href="/labor/myunemployment/help/faqs/eligibility.shtml#remain">still eligible for benefits </a>in order to get paid.</p>
+	
+								<p>
+								<a href="https://lwdwebpt.dol.state.nj.us/CertQueueMini/employerVerifyForm.htm" target="_blank">LOG IN TO YOUR ACCOUNT ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-6 col-md-3">
+						<div class="card border-0 text-center">
+							<div class="card-body">
+								<p>
+									<a href="https://secure.dol.state.nj.us/Registration" target="_blank" >
+									<i class="fas fa-user-circle fa-5x d-fa-3x blue"></i>
+									</a>
+								</p>
+								<p class="font-weight-bold h5">I need to update my information.</p>
+								<p>You can change your address, phone number, and other information from the online dashboard.</p>
+	
+								<p>
+								<a href="https://secure.dol.state.nj.us/Registration" target="_blank">LOG IN TO YOUR ACCOUNT ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+				<!-- end of Icon row -->
+
+	
+
+
+
+
+				<!-- start of Large Card row -->
+				<div class="row justify-content-center hp-row-3 mb-5">
+
+
+					<div class=" col-md-4">
+						<div class="card border-0  d-block">
+							<a href="/labor/myunemployment/before/about/payment/index.shtml" target="" ><img class="card-img-top rounded-0 capped" src="/labor/myunemployment/assets/images/homepage/GettyImages-1079725528_960x480px.jpg" alt="woman with a debit card and laptop" /></a>
+							<div class="card-header  font-weight-bold x-text-center px-0 border-0 bg-white">Explore your payment options</div>
+							<div class="card-body px-0 pt-0">
+								<p>You can have your benefits deposited directly to your bank account, or loaded onto a prepaid Bank of America debit card.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/before/about/payment/index.shtml" target=""><span class="sr-only"></span>LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class=" col-md-4">
+						<div class="card border-0  d-block">
+							<a href="/labor/myunemployment/jobseekers/training/training.shtml" target="" ><img class="card-img-top rounded-0 capped" src="/labor/myunemployment/assets/images/homepage/GettyImages-944678614_960x480px.jpg" alt="HVAC workers" /></a>
+							<div class="card-header  font-weight-bold x-text-center px-0 border-0 bg-white">Training and education opportunities</div>
+							<div class="card-body px-0 pt-0">
+								<p>We offer opportunities for unemployed workers to obtain job training or education while collecting benefits.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/jobseekers/training/training.shtml" target=""><span class="sr-only"></span>LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+					<div class=" col-md-4">
+						<div class="card border-0  d-block">
+							<a href="/labor/myunemployment/help/forms/index.shtml" target="" ><img class="card-img-top rounded-0 capped" src="/labor/myunemployment/assets/images/homepage/GettyImages-465624736_960x480px.jpg" alt="woman looking at opened mail" /></a>
+							<div class="card-header  font-weight-bold x-text-center px-0 border-0 bg-white">The letters and forms we send</div>
+							<div class="card-body px-0 pt-0">
+								<p>Knowing what to expect in the mail can help you better manage your Unemployment Insurance claim.</p>
+	
+								<p>
+								<a href="/labor/myunemployment/help/forms/index.shtml" target=""><span class="sr-only"></span>LEARN MORE ></a>
+								</p>
+		
+							</div>
+						</div>
+					</div>
+
+
+				</div>
+				<!-- end of Large Card row -->
+
+					
+
+
+			</div>
+		</div>
+	</div>
+
+	
+
+	<div class="footer site-footer mt-5 pb-3" >
+		<div class="container-fluid"> 
+			<div class="row x-no-gutters justify-content-center">
+				<div class="col-lg-9 col-xl-8">
+					<h3><a href="/labor/myunemployment/">Division of Unemployment Insurance</a></h3>
+					<div class="columned">
+
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment" target="" >Home</a></h4>
+		
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/before" target="" >Before You Apply</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/labor/myunemployment/before/about" target="" >About Unemployment Insurance</a></li>
+			<li><a href="/labor/myunemployment/before/createaccount" target="" >Create an Online Account</a></li>
+			<li><a href="/labor/myunemployment/before/circumstances" target="" >Special Cases</a></li>
+			<li><a href="/labor/myunemployment/before/fraud" target="" >Unemployment Fraud</a></li>
+			<li><a href="/labor/myunemployment/help/PR94/" target="" >Your Rights & Responsibilities</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/apply" target="" >If You Already Filed a Claim</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="https://myunemployment.nj.gov/labor/myunemployment/apply/phoneintro" target="" >Phone Applicants: Create an Account</a></li>
+			<li><a href="#" target="" >Online Applicants:</a></li>
+			<li><a href="/labor/myunemployment/before/about/howtoapply/taxes.shtml" target="" >Change Your Tax Withholding</a></li>
+			<li><a href="/labor/myunemployment/before/circumstances/ddu/" target="" >Is a Health Issue Preventing You from Working?</a></li>
+			<li><a href="/labor/myunemployment/apply/appointments" target="" >Appointments</a></li>
+			<li><a href="/labor/myunemployment/apply/extensions" target="" >Benefit Extensions</a></li>
+			<li><a href="/labor/myunemployment/apply/overpayments" target="" >Overpayments & Refunds</a></li>
+			<li><a href="/labor/myunemployment/appeals/claimant/" target="" >Appeal a Determination</a></li>
+			<li><a href="/labor/myunemployment/help/faqs/" target="" >Frequently Asked Questions</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/jobseekers" target="" >Tools for Jobseekers</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="https://www.nj.gov/labor/career-services/onestops/" target="_blank" >One-Stop Career Center Services</a></li>
+			<li><a href="/labor/myunemployment/jobseekers/training" target="" >Training & Education Programs</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/employers" target="" >Tools for Employers</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/labor/myunemployment/employers/letter" target="" >Forms & Publications</a></li>
+			<li><a href="/labor/myunemployment/employers/school-districts" target="" >School Districts</a></li>
+			<li><a href="/labor/myunemployment/employers/fraud" target="" >Report Fraud</a></li>
+			<li><a href="/labor/myunemployment/employers/eadjudication" target="" >E-Adjudication</a></li>
+			<li><a href="https://www.nj.gov/labor/lwdhome/warn/RapidResponseTeam.html" target="_blank" >Layoffs & Closings</a></li>
+			<li><a href="/labor/myunemployment/employers/find-workers" target="" >Find New Workers </a></li>
+			<li><a href="https://www.nj.gov/labor/ea/ea_index.html" target="_blank" >Employer Accounts</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/appeals" target="" >Appeals</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/labor/myunemployment/appeals/claimant" target="" >Claimant Appeals</a></li>
+			<li><a href="/labor/myunemployment/appeals/employer" target="" >Employer Appeals</a></li>
+			<li><a href="/labor/myunemployment/appeals/register" target="" >Register for Hearing</a></li>
+			<li><a href="/labor/myunemployment/appeals/tribunal" target="" >About the Appeal Tribunal</a></li>
+			<li><a href="/labor/myunemployment/appeals/boardofreview" target="" >About the Board of Review</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+						<ul>
+	
+							<li>
+								<h4><a href="/labor/myunemployment/help" target="" >Need Help?</a></h4>
+				<ul  class="d-none d-md-flex">
+			<li><a href="/labor/myunemployment/help/faqs" target="" >Frequently Asked Questions</a></li>
+			<li><a href="/labor/myunemployment/help/glossary" target="" >Glossary</a></li>
+			<li><a href="/labor/myunemployment/help/forms" target="" >Forms</a></li>
+			<li><a href="/labor/myunemployment/help/PR94" target="" >Claimant Rights & Responsibilities</a></li>
+			<li><a href="/labor/myunemployment/help/boa" target="" >Bank of America Support</a></li>
+			<li><a href="/labor/myunemployment/help/contact-us" target="" >Contact Us</a></li>
+		</ul>
+
+							</li>
+		
+						</ul>
+
+	
+
+					</div>
+				</div>
+				<div class="col-lg-3 col-xl-2">
+										<h3>Statewide</h3>
+					<ul class="statewide d-inline-block float-left mr-1 mr-sm-5 mr-lg-0">
+						<li class=""><a href="//nj.gov/governor/admin/about/">Governor Phil Murphy</a></li>
+						<li class=""><a href="//nj.gov/governor/admin/lt/">Lt. Governor Sheila Oliver</a></li>
+						<li><a href="//nj.gov/">NJ Home</a></li>
+						<li><a href="//nj.gov/nj/gov/njgov/alphaserv.html">Services A to Z</a></li>
+						<li><a href="//nj.gov/nj/gov/deptserv/">Departments/Agencies</a></li>
+						<li><a href="//nj.gov/faqs/">FAQs</a></li>
+						<li><a href="//nj.gov/nj/feedback.html">Contact Us</a></li>
+						<li><a href="//nj.gov/nj/privacy.html">Privacy Notice</a></li>
+						<li><a href="//nj.gov/nj/legal.html">Legal Statement &amp; Disclaimers</a></li>
+						<li><a href="//nj.gov/nj/accessibility.html">Accessibility</a></li>
+					</ul>
+					<img src="/nj/design/images/digital-nj.png" alt=" Digital NJ Logo (the letters N and J with the sillouette of the state of New Jersey knocked out)" class="digital-nj img-fluid max-width  float-left "/>
+				</div>
+			</div>
+		</div>
+	</div>
+
+ 
+	
+		<footer class="footer sonj" >
+		<div class="container-fluid"> 
+			<div class="row no-gutters justify-content-center">
+				<div class="col-sm-3 col-xl-2">
+										<a href="//nj.gov/opra/" class="mb-4 mr-4 d-inline-block  float-left"><img src="/nj/design/images/opra.png"  alt="Open Public Records Act (OPRA)" class="opra" /></a>
+
+										<a href="https://my.state.nj.us/openam/UI/Login" class="mb-4 d-inline-block float-left"><img src="/nj/design/images/myNJ.png"  alt="My New Jersey Portal" class="mynj" /></a> 
+				</div>
+				<div class="col-sm-9 col-xl-8  text-right">
+					<a href="https://twitter.com/NJLaborDept" class="ml-1"><i class="fab fa-twitter-square fa-2x sonj-gray"></i></a> 
+					<a href="https://www.facebook.com/NJLabor/" class="ml-1"><i class="fab fa-facebook-square fa-2x sonj-gray"></i></a> 
+					<!--
+					<a href="#" class="ml-1"><i class="fab fa-instagram fa-2x sonj-gray"></i></a> 
+					<a href="#" class="ml-1"><i class="fab fa-youtube-square fa-2x sonj-gray"></i></a> 
+					<a href="#" class="ml-1"><i class="fab fa-pinterest-square fa-2x sonj-gray"></i></a> 
+					<a href="#" class="ml-1"><i class="fab fa-flickr fa-2x sonj-gray"></i></a> 
+					<a href="#" class="ml-1"><i class="fab fa-linkedin fa-2x sonj-gray"></i></a> 
+					<a href="#" class="ml-1"><i class="fab fa-tumblr-square fa-2x sonj-gray"></i></a>
+					-->
+					<br>
+					Copyright &copy; State of New Jersey, 1996-2020<br>
+					Department of Labor and Workforce Development<br>
+					1 John Fitch Plaza,<br>
+					Trenton, NJ 08625
+				</div>
+			</div>
+			<div class="row no-gutters justify-content-center">
+				<div class="col-12 col-xl-10  text-right"><a href="https://tech.nj.gov/"><img src="/nj/design/images/njoit.png"  alt="powered by njoit"/></a></div>
+			</div>
+		</div>
+	</footer>
+	 
+	
+	
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<!-- Bootstrap core JavaScript -->
+	<!-- ================================================== -->
+	<script src="/nj/design/js/jquery-3.3.1.min.js" ></script>
+	<!--<script src="//code.jquery.com/jquery-3.2.1.slim.min.js" ></script>--><!-- integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
+	<script src="/nj/design/js/bootstrap.bundle.min.js" ></script>
+	<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" ></script>--> <!-- integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>-->
+	<!-- <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" ></script>--> <!-- integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>-->
+	<!-- Font Awesome -->
+	<script defer src="/nj/design/fontawesome/js/all.js" ></script>
+	<!--<script defer src="//use.fontawesome.com/releases/v5.0.9/js/all.js" ></script>--> <!-- integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script>-->
+	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	<script src="/nj/design/js/ie10-viewport-bug-workaround.js"></script>
+	
+	<script src="/nj/design/js/sonj-header.js"></script>
+
+	<script src="/nj/design/js/sticky-social.js"></script>
+	
+	<script src="/nj/design/js/navigation.js"></script>
+	
+	<script type="text/javascript" src="/nj/design/util/slick/slick.min.js"></script>
+	<script src="/nj/design/js/slick-init.js"></script>
+ 
+	
+	<script src="/labor/myunemployment/assets/js/deep-link.js"></script>
+<script src="/labor/myunemployment/assets/js/cookies.js"></script>
+<script src="/labor/myunemployment/assets/js/access-check.js"></script>
+<script src="/labor/myunemployment/assets/js/link-correction.js"></script>
+<script src="/labor/myunemployment/assets/js/carousel-check.js"></script>
+<script src="/labor/myunemployment/assets/js/contact-form.js"></script>
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+  <!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
+  <!-- Version: 8.6.2 -->
+  <!-- Tag Builder Version: 3.0  -->
+  <!-- Created: 7/15/2010 7:20:59 PM -->
+<meta name="WT.cg_n" content="My Unemployment" />
+<script src="https://www.nj.gov/labor/assets/scripts/webtrends.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript"> 
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.state.nj.us/dcsg4p1j400000gs8e81nn892_6u8j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->		
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140253594-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-140253594-8', {
+    'linker': {
+      'domains': ['nj.gov', 'nj.us']
+    }
+  });
+</script>
+
+
+
+
+
+
+
+
+ 
+
+	
+
+	
+	<div id="messageModal" data-modalID="modal1599331135" class="modal fade bd-example-modal-lg customModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header capped orange">
+				<h5 class="modal-title">Latest news and updates</h5>
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<table style="height: 47px; background-color: #ffffff; border-color: #F26E4D;" border="2" width="100%" cellspacing="2" cellpadding="10">
+<tbody>
+<tr>
+<td><span style="font-size: 14pt; color: #000000;"><strong>$300 FEDERAL PAYMENTS: </strong>New Jersey has applied to FEMA for the Lost Wage Assistance, but it will take several weeks after our application is approved to have the programming in place to make these payments. We are waiting for federal guidance on how they want us to set up this program. We'll have more information for you as soon as possible. <br /></span></td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="font-size: 12pt;"><br />NEED TO CERTIFY FOR BENEFITS?&nbsp;</span></strong><span style="font-size: 12pt;"><a href="/labor/myunemployment/schedule.shtml">Click here</a> to view the latest version of the schedule (updated 9/5).</span></p>
+<hr />
+<p><strong><span style="font-size: 12pt;">EXTENSIONS OF UNEMPLOYMENT BENEFITS:</span></strong> <span style="font-size: 12pt;"><a href="/labor/myunemployment/apply/extensions/index.shtml">Click here</a> to find out if you qualify, and what action you may need to take.</span></p>
+<hr />
+<p><span style="font-size: 12pt;"><strong>NEED TO SUBMIT A NEW UNEMPLOYMENT CLAIM? </strong>You may do so online anytime. You must read our&nbsp;<a href="/labor/myunemployment/covidFAQ.shtml">coronavirus emergency FAQ</a> before you apply.<br /></span></p>
+			</div>
+			<div class="modal-footer clearfix">
+				<button type="button btn-primary" class="x-close btn btn-primary" data-dismiss="modal" aria-label="Close">
+					Close <span aria-hidden="true">&times;</span>
+				</button>
+			</div>
+		</div>
+	  </div>
+	</div>
+	<script>
+		/* 
+			IF we set a cookie the ID should be some random value or time since epoch so that it is unique-ish to the message and only controls display of that message and not others
+		*/	
+
+
+		var cookieID = 'modal1599331135';
+	
+	
+		//console.log('cookieID:'+cookieID);
+		//check for cookie
+		if(getCookie(cookieID)){
+			//console.log("Cookie Exists");
+		}else{
+			//console.log("Cookie Doesn't Exist");
+			//Load Modal on page load
+			$('#messageModal').modal('show');
+			setCookie(cookieID, cookieID, 1)
+		}
+	</script>	
+
+		
+
+
+	
+	
+	
+	
+		<!-- Custom Code -->
+		  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <style>
+    df-messenger {
+      --df-messenger-button-titlebar-color: #4c5870;
+      --df-messenger-send-icon: #4c5870;
+      --df-messenger-chip-color: #8899b9;
+    }
+  </style>
+
+    <script>
+    window.onload = function () {
+      var head = document.getElementsByTagName('body')[0];
+      var js = document.createElement("script");
+      let userAgentString = navigator.userAgent;
+      let IExplorerAgent =
+        userAgentString.indexOf("MSIE") > -1 || (!!document.documentMode == true);
+      var df = document.querySelector('df-messenger');
+      if (IExplorerAgent) {
+        console.log("DF-messenger not visible on IE")
+      }
+      else {
+        js.src = "https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1";
+        head.appendChild(js);
+        messenger();
+      }
+
+    }
+    function messenger() {
+      window.addEventListener('dfMessengerLoaded', function () {
+        var messenger = document.querySelector('df-messenger');
+        messenger.renderCustomText(`Welcome to the NJ Department of Labor's information virtual assistant, DOLi.  
+         Please click here to ask your question.`)
+        var chat = messenger.shadowRoot.querySelector('df-messenger-chat').shadowRoot.querySelector('df-message-list').shadowRoot.getElementById('messageList').firstChild.nextElementSibling;
+        if (chat) {
+          chat.innerHTML = `Welcome to the NJ Department of Labor's information virtual assistant, DOLi.  
+             <br> Please <span style="text-decoration: underline"> click here </span> to ask your question.`
+          chat.setAttribute('style', 'background-color: #4c5870; color: white')
+        }
+        messenger.showMinChat();
+        let wrap = document
+          .querySelector('df-messenger')
+          .shadowRoot.querySelector('df-messenger-chat')
+          .shadowRoot.querySelector('df-message-list')
+          .shadowRoot.querySelector('div#messageList')
+        wrap.addEventListener('mouseover', () => {
+          messenger.setAttribute('intent', 'WELCOME')
+        })
+        wrap.addEventListener('mouseout', () => {
+          messenger.removeAttribute('intent')
+        })
+        var closeIcon = document
+          .querySelector('df-messenger')
+          .shadowRoot.querySelector('df-messenger-chat')
+          .shadowRoot.querySelector('df-message-list')
+          .shadowRoot.querySelector('div')
+          .querySelector('div#dismissIcon')
+        closeIcon.addEventListener('click', () => {
+          messenger.setAttribute('intent', 'WELCOME')
+        })
+      })
+      let df = document.querySelector('df-messenger');
+      df.addEventListener("df-request-sent", function (event) {
+        var firstMessage = df.shadowRoot.querySelector('df-messenger-chat').shadowRoot.querySelector('df-message-list').shadowRoot.getElementById('messageList').firstChild.nextElementSibling;
+        if (firstMessage) {
+          firstMessage.setAttribute('style', 'background-color: white; color: black')
+        }
+      })
+    }
+  </script>
+  <df-messenger chat-title="NJ DOL-Virtual Assistant" agent-id="27716dd7-fc00-4458-a1c1-b88bfbe4f9db"
+    chat-icon="https://storage.googleapis.com/nj-dol-logo-prod/nj-dol_white.png" language-code="en" wait-open>
+  </df-messenger>
+		<!-- END Custom Code -->
+	
+	
+	
+	
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=254757174"></script>
+</body>
+</html>
+
+

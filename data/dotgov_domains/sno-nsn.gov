@@ -1,0 +1,25 @@
+#########################################################################
+# robots.txt generated at http://www.mcanerin.com			#
+#File Name	:robots.txt						#
+#Date Created	:Feb 15th, 2013						#
+#Descr		:This file is used for temp sites and symlinked to dir.	#
+#Author		:Charlie						#
+#########################################################################
+
+User-agent: *
+Disallow: /
+##Block or Allow Dirs below##
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /docs/
+Disallow: /includes/
+Disallow: /images/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /rss/
+Disallow: /search/
+Disallow: /stats/
+Disallow: /templates/
+Disallow: /themes/
+Disallow: /temp_pa/
+Disallow: /docs/

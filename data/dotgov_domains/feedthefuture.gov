@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /readme.html
+Disallow: /README.md
+Disallow: /license.txt
+Disallow: /wplogin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Allow: /wp-content/uploads/
+Disallow: */search/
+Sitemap: https://www.feedthefuture.gov/sitemap_index.xml

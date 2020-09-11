@@ -78,6 +78,7 @@
 <link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?qg57o4" />
 <link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?qg57o4" />
 <link rel="stylesheet" media="all" href="/modules/contrib/anchor_link/css/anchor_link.css?qg57o4" />
+<link rel="stylesheet" media="all" href="/modules/contrib/back_to_top/css/back_to_top.css?qg57o4" />
 <link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?qg57o4" />
 <link rel="stylesheet" media="all" href="/libraries/codesnippet/lib/highlight/styles/github.css?qg57o4" />
 <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans|Source+Sans+Pro" />
@@ -154,7 +155,7 @@
     </svg>
   </span>
 </button>
-<input autocomplete="off" data-drupal-selector="form-dsuvjeypejpsim-66feq2ynrrfknlizf6hmt0er9fak" type="hidden" name="form_build_id" value="form-DsUvJeYPejPsiM-66fEQ2YNrRfknLIZF6hmT0ER9Fak" />
+<input autocomplete="off" data-drupal-selector="form-tz9s7saoyeix5m6lhalnjn1lkyskqmmd0xqopmed9t0" type="hidden" name="form_build_id" value="form-tZ9S7SaoyEIX5m6lHalnJn1LkYSkQMMd0XQOPMEd9T0" />
 <input data-drupal-selector="edit-bing-search-form" type="hidden" name="form_id" value="bing_search_form" />
 
 <button data-twig-suggestion="voice_search_submit" onclick="return false;" data-drupal-selector="edit-voice-button" type="submit" id="edit-voice-button" name="op" value="" class="button js-form-submit form-submit" title="VoiceSearch" aria-label="Reveal navigation">
@@ -305,12 +306,7 @@
   
   
       <article class="bg_fluid bg_white layout-content main-article container clearfix" role="content">
-        <div id="block-nia-local-tasks" class="block_local_tasks">
-  
-    
-      
-  </div>
-
+        
 
   
 
@@ -611,7 +607,7 @@
   </div>
 
     
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"taxonomy\/term\/3556","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","data":{"extlink":{"extTarget":true,"extTargetNoOverride":null,"extNofollow":null,"extFollowNoOverride":null,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":".*\\.gov","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving the National Institute on Aging website to go to a non-government site.\r\n\r\nNIA is not responsible for the availability or content of these external, non-government sites, nor does NIA endorse, warrant, or guarantee the products, services, or information described or offered.","mailtoClass":"mailto","mailtoLabel":"(link sends email)"}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"credentials":{"lexkey":"ASIAYWMR7XTPZTC3YAX5","lexsecret":"FFVZZVbeBui4hyZW9j8MzB4y5FIQrzhxk5NQO2Mx","lextoken":"FwoGZXIvYXdzEFcaDGSYERDkLOQDNWYTJCKCAS\/Bim+Yu0+yaAcPCdTpbBwhk9\/EbMg5wG1UEXF32Rviw27MDV0LTtm4QOrVZPMnvlahCNdWAizYbT8sG+4pKotO0GLIvIPNVwvGG2Q41Z6b1mKsfb5ThuHrxJDGeKmSpdLxUTDYC1AsTyrkuEwnav5uIfMhORtg502RbD3YTAgSwvwo4orl+gUyKEFmqG6HlVmRaSWI5hTLD4wwoPfPnL68OpHmmyFwq1bYOQK\/9H3D+x8="},"user":{"uid":0,"permissionsHash":"8c876b7857a66cb2eb2a0507aaedfb2e92c1b730f15678944483b1ba367be842"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"taxonomy\/term\/3556","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","back_to_top":{"back_to_top_button_trigger":100,"back_to_top_prevent_on_mobile":true,"back_to_top_prevent_in_admin":false,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":null,"extNofollow":null,"extFollowNoOverride":null,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":".*\\.gov","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"You are now leaving the National Institute on Aging website to go to a non-government site.\r\n\r\nNIA is not responsible for the availability or content of these external, non-government sites, nor does NIA endorse, warrant, or guarantee the products, services, or information described or offered.","mailtoClass":"mailto","mailtoLabel":"(link sends email)"}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"credentials":{"lexkey":"ASIAYWMR7XTP5EN323FJ","lexsecret":"ZlWFaBc4WR1W\/RuCO1m0Wdr4qJuiOMFcqNGKHEez","lextoken":"FwoGZXIvYXdzEH4aDFDjBR4VbeWCpSOKwCKCAfnNUSdaTO\/qR62CMpTN91jblHfXvIAdHWaS4MXw9wvrhUlK210TQkSX3bzGKwNoweT2I7oQlV3AE+9f2mydenAEOLIO4HV33bAwc1xm0fNrMehFyh7sNALDVCcPx9vGBiX6Xz4+EksJsYRVWu1Jzt46sbPtOxPdd6Nf2b6CW1x2cEgowNLt+gUyKC9dNkq6VWhyPbgZM2CbcLMbBYokN\/qrU64sQ3zDgQ3AasPqSxmYvXk="},"user":{"uid":0,"permissionsHash":"8c876b7857a66cb2eb2a0507aaedfb2e92c1b730f15678944483b1ba367be842"}}</script>
 <script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
 <script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
@@ -620,8 +616,10 @@
 <script src="/core/misc/drupalSettingsLoader.js?v=8.7.14"></script>
 <script src="/core/misc/drupal.js?v=8.7.14"></script>
 <script src="/core/misc/drupal.init.js?v=8.7.14"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/effect-min.js?v=1.12.1"></script>
 <script src="https://static.addtoany.com/menu/page.js" async></script>
 <script src="/modules/contrib/addtoany/js/addtoany.js?v=8.7.14"></script>
+<script src="/modules/contrib/back_to_top/js/back_to_top.js?v=8.7.14"></script>
 <script src="/themes/nia/js/fixedheader.js?v=8.7.14"></script>
 <script src="/themes/nia/js/flexnav.js?v=8.7.14"></script>
 <script src="/themes/nia/js/fold.js?v=8.7.14"></script>

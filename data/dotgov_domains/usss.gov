@@ -74,9 +74,6 @@ display: block;
 <script async id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHS"></script>
 </head>
 <body>
-<div class="alert">
-<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
-Important Coronavirus Public Service Announcement <a class="button" href="/coronavirus">View</a></div>
 <a class="sr-only sr-only-focusable" href="#content" tabindex="1">Skip to main content</a>
 <div id="menu-collapse-parent" class="nav-wrapper fixed-menu">
 <div class="blank-panel panel">
@@ -387,7 +384,7 @@ ECTF & FCTF Locator
 <div id="content" tabindex="-1" style="max-width: 2000px; margin: 0 auto; z-index: 100; position: relative;">
 <div id="carousel" class="carousel carousel-border slide" data-ride="carousel" data-interval="10000">
 <ol class="carousel-indicators">
-<li tabindex="0" role="button" title="State of the Homeland" data-target="#carousel" data-slide-to="0" class="active"></li>
+<li tabindex="0" role="button" title="Mass Attacks in Public Spaces - 2019" data-target="#carousel" data-slide-to="0" class="active"></li>
 <li tabindex="0" role="button" title="Standing Post Podcast" data-target="#carousel" data-slide-to="1"></li>
 <li tabindex="0" role="button" title="U.S. Secret Service Protection Mission" data-target="#carousel" data-slide-to="2"></li>
 <li tabindex="0" role="button" title="About U.S. Secret Service" data-target="#carousel" data-slide-to="3"></li>
@@ -396,7 +393,7 @@ ECTF & FCTF Locator
 </ol>
 <div class="carousel-inner" role="listbox">
 
-<a href="https://www.dhs.gov/live" class="item active background-carousel carousel-image" style="background-image: url('/images/banners/SOTH-2020.jpg');" alt="State of the Homeland"></a> 
+<a href="/data/protection/ntac/MAPS2019.pdf" class="item active background-carousel carousel-image" style="background-image: url('/images/banners/2019-NTAC-MAPS.jpg');" alt="Mass Attacks in Public Spaces - 2019"></a> 
 
 <a href="/press/social-media/" class="item background-carousel carousel-image" style="background-image: url('/images/banners/UDS-Swangler-2000x475.jpg');" alt="Standing Post Podcast"></a> 
 

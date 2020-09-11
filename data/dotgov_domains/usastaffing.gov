@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>USA Staffing - Sign In</title>
+    <link rel="apple-touch-icon-precomposed" title="apple-touch-icon-144-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" title="apple-touch-icon-114-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" title="apple-touch-icon-72-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" title="apple-touch-icon-57-precomposed" sizes="57x57" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+    <style id="xfs-protection">body{display: none !important;}</style>
+<script type="text/javascript">
+    if (self === top) {
+        var xfsProtection = document.getElementById('xfs-protection');
+        xfsProtection.parentNode.removeChild(xfsProtection);
+    } else {
+        top.location = self.location;
+    }
+</script>
+    <link href="/Content/theme/usas?v=fkSI-AuugxSLqEl_NGUgxA-sm2g_OVj6VVmY-hCMtXc1" rel="stylesheet"/>
+
+    <script src="/bundles/js/modernizr?v=hPVabUcpVRrVkQf-QfWhKYSj7xEvBt7tE_X8AcHqizE1"></script>
+
+    
+</head>
+<body>
+    <div id="main-container">
+        <div class="container" id="login-container">
+            <div class="row hidden-xs">
+                <div style="height:40px"></div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="row well-login">
+                        <div id="login-left-well" class="col-sm-4 legaltext pad-vertical">
+                            <img src="/Content/images/logo.png" alt="USA Staffing Logo" class="img-responsive center-block" />
+                            <p>
+                                <p>
+    <strong>
+        USA Staffing&reg; is an Official U.S. Government System for authorized use only. Unauthorized use of this system or the information
+        on this system could result in criminal prosecution.
+    </strong>
+</p>
+<p>
+    <strong>
+        Signing into USA Staffing&reg; indicates you have read and accepted the Full Terms and Conditions of Use and you consent to security
+        testing and monitoring.
+    </strong>
+</p>
+<p>
+    <b>Full Terms and Conditions of Use</b>
+</p>
+<p>
+    USA Staffing&reg; is a U.S. Government information system to be used by authorized users only. Information from this system resides on
+    computer systems funded by the government.
+</p>
+<p>
+    The data and documents on this system include Federal records that contain sensitive information protected by various Federal statutes,
+    including the Privacy Act, 5 U.S.C.  § 552a. The use of personally owned devices to process, store, or transmit USA Staffing&reg; Personally
+    Identifiable Information (PII) is prohibited.
+</p>
+<p>
+    All access or use of this system constitutes user understanding and acceptance of these terms and constitutes unconditional consent to
+    review, monitor, record, audit, and take action by all authorized government and law enforcement personnel.
+</p>
+<p>
+    Unauthorized user attempts or acts to (1) access, view, upload, change, or delete information on this system, (2) modify this system,
+    (3) deny access to this system, (4) accrue resources for unauthorized use, or (5) otherwise misuse this system are strictly prohibited.
+    Such attempts or acts are subject to action that may result in criminal, civil, or administrative penalties.
+</p>
+
+                            </p>
+                        </div>
+                        
+
+<div id="login-form" class="col-sm-8">
+    <div class="pad-lg-vertical">
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+
+                <div id="smCredentials">
+                        <div class="hidden-xs">
+                            <a href="/account/CertificateSignIn?returnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-11T13%253A36%253A47Z">
+                                <img class="smart-card-image" alt="smart card" src="/Content/images/smartcard.png" />Sign in with smart card
+                            </a>
+                        </div>
+                </div>
+
+                <div id="netCredentials">
+<form action="/account/signin?ReturnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-11T13%253A36%253A47Z&amp;wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-11T13%3A36%3A47Z" method="post"><input name="__RequestVerificationToken" type="hidden" value="i4qD_7E1HW9njRXh_8QQD2mReeWWOxlodu4uK-B3O8nMVbH9ovNC2zcs92JRBWW0xy9-BmvvW1k1Yv0c56KZ3jmGcG81" />
+                            <h1>
+                                <small>Sign In</small>
+                            </h1>
+                            <div class="form-group">
+                                <label class="control-label sr-only" for="UserName">Email Address</label>
+                                <input autocomplete="off" class="form-control input-lg" data-val="true" data-val-email="- Valid Email Address is required." data-val-maxlength="The field User name must be a string or array type with a maximum length of &#39;255&#39;." data-val-maxlength-max="255" data-val-required="The User name field is required." id="UserName" maxlength="255" name="UserName" placeholder="Email Address" type="text" value="" />
+                                <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="form-group margin-bottom-5px">
+                                <label class="control-label sr-only" for="Password">Password</label>
+                                <input autocomplete="off" class="form-control input-lg" data-val="true" data-val-required="The Password field is required." id="Password" maxlength="255" name="Password" placeholder="Password" type="password" />
+                                <span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="row margin-bottom-25px">
+                                <div class="col-xs-6">
+<a href="/account/ResetPassword" returnUrl="/issue/wsfed?wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-11T13%3A36%3A47Z">Reset Password</a>                                </div>
+                                <div class="col-xs-6 text-right">
+                                    <a href="#" onclick="return togglePasswordVisibility(this);">Show Password</a>
+                                </div>
+                            </div>
+                            <div class="text-right">
+                                    <input class="btn btn-info btn-lg" type="submit" value="Sign In" />
+                            </div>
+</form>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="termsModal" class="modal fade" role="dialog" aria-labelledby="termsModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel">USA STAFFING - Great Government Starts Here</h4>
+            </div>
+            <div class="modal-body">
+                <h3>USA Staffing Rules of Behavior</h3><br />
+
+                <p>
+                    In accordance with the <a href="https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-16.pdf" target="_blank"
+                                              title="OMB Memorandum M-06-16">
+                        Office of Management and Budget (OMB) Memorandum
+                        M-06-16, Protection of Sensitive Agency Information
+                    </a>, and to protect the confidentiality,
+                    integrity and availability of the U.S. Office of Personnel Management's (OPM's)
+                    USA Staffing system, rules of behavior on the safe handling of data must be
+                    followed when accessing <a href="/Account/definitions#PII" target="_blank" 
+                                               title="Personally Identifiable Information">Personally Identifiable Information (PII)</a> 
+                    in USA Staffing. The loss of PII can result in
+                    substantial harm, embarrassment, and inconvenience to individuals and may lead
+                    to identity theft or other fraudulent use of the information.
+                </p><br />
+
+                <p class="altDisplayRules">
+                    &#8730; I acknowledge that I have access to download <a href="/Account/definitions#CUI" target="_blank"
+                                                                            title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a>
+                    in the USA Staffing system.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I acknowledge my responsibility
+                    to ensure the confidentiality, integrity, and availability of USA Staffing
+                    information in a manner consistent with its sensitivity.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; By being granted access to <a href="/Account/definitions#CUI" target="_blank"
+                                                          title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a>,
+                    I am obligated to protect this information from unauthorized disclosure.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I agree that my obligation to safeguard the confidentiality
+                    of <a href="/Account/definitions#CUI" target="_blank"
+                          title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a>
+                    shall be in effect until a transfer of duties no longer requires access to this
+                    data or until termination of my employment.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will obtain, use or disclose such data only in connection
+                    with the performance of my official duties solely for authorized purposes. I
+                    will not disclose any data to other agencies or persons not expressly
+                    authorized to receive or have access to it. I will make any such authorized
+                    disclosures in accordance with established regulations and procedures.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will <a href="/Account/definitions#encrypt" target="_blank"
+                                      title="encrypt">encrypt</a> any PII data downloaded from USA Staffing on
+                    any portable storage device, including laptops, PDAs, iPods, thumb drives,
+                    external hard drives, etc.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will erase PII data downloaded from USA Staffing within 90
+                    days unless its official use is still required.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will immediately report any <a href="/Account/definitions#securitybreach" target="_blank"
+                                                             title="Security Breach">security breach</a>, password compromises,
+                    anomalies in system performance, or suspicious activities. I will ensure that
+                    security breaches are reported to a Federal incident response center, <a href="http://www.us-cert.gov/federal/reportingRequirements.html" target="_blank"
+                                                                                             title="US-CERT">US-CERT</a>, located within the Department of Homeland
+                    Security.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will protect my passwords and authentication tokens from
+                    disclosure and loss at all times. I will employ passwords in accordance with
+                    USA Staffing's password policy.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will change my default passwords immediately when assigned.
+                    I will never reveal my passwords to unauthorized individuals. I will not
+                    construct my password from obvious personal data, (i.e. social security number,
+                    telephone numbers, relative's names, pet's name, etc.).
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will not allow others to use my User ID and I will not
+                    access other users' accounts. I will not attempt to access accounts or data
+                    that are not expressly authorized to me. I understand that I am accountable for
+                    all actions taken under my User ID.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I understand that any changes in my employment status or
+                    changes in my job responsibilities may require my access to be modified or
+                    terminated.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will ensure that any work performed remotely or off-site
+                    will be provided the same level of protection as provided at the office.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will ensure proper protection and disposition of printed
+                    documents containing PII obtained through the USA Staffing system.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I understand that all conditions and obligations imposed upon
+                    me by these rules apply during the time I am granted access to the USA Staffing
+                    system. I understand I am being granted permission to access OPM's USA Staffing
+                    system and data as specified above, and that my use of this access may be
+                    monitored for compliance.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I understand that any system user who does not comply with
+                    these rules is subject to penalties including suspension or cancellation of
+                    system privileges and possible criminal prosecution. OPM will enforce the use
+                    of penalties against any user who willfully violates Federal system security.
+                </p><br />
+
+                <p>
+                    For cases in which a system user engages with an external assessment provider 
+                    including, but not limited to The Office of Personnel Management’s USA Hire 
+                    system, the user agrees that:
+                </p><br />
+
+                <p class="altDisplayRules">
+                    &#8730; I understand a formal interagency agreement must be in place between 
+                    my agency and OPM prior to receiving access to, and using, USA Hire.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I understand I may only use the USA Hire system and USA Hire materials
+                    (including USA Hire assessments) in a manner consistent with the terms of the 
+                    formal agreement or contract denoted above.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I understand that access to the USA Hire assessments must be restricted 
+                    to applicants responding to a job opening who meet the minimum qualifications 
+                    for that job opening (i.e., I am not authorized to view or modify the content 
+                    of any USA Hire assessment).
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I understand that in cases where I may be exposed to USA Hire assessment 
+                    content, I may not discuss, share, or reproduce the assessment content 
+                    (e.g., questions, scoring information).
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I understand I must immediately report any suspected breach of these 
+                    rules related to USA Hire to the OPM point of contact for the interagency 
+                    agreement or contract and USAHire@opm.gov
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I understand that OPM reserves the right to terminate anyone’s access 
+                    to and use of the USA Hire system and materials (including assessments) at 
+                    any time for violating these requirements.
+                </p><br />
+
+                <p>
+                    For cases in which a system user is granted access to Applicant Flow Data 
+                    including, but not limited to data on an applicant’s race, ethnicity, 
+                    or disability, the user agrees that:
+                </p><br />
+
+                <p class="altDisplayRules">
+                    &#8730; I acknowledge that I have access to download <a href="/Account/definitions#CUI" target="_blank"
+                            title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a> 
+                     about applicants.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I acknowledge my responsibility to mitigate any risk of the data being 
+                    used to affect staffing decisions.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I acknowledge my responsibility that use of this data will be 
+                    consistent with the ‘Purpose and Routine Uses’ language provided to applicants 
+                    in the USAJOBS Demographic profile.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I acknowledge my responsibility that this data shall not be used for:<br />
+                    ‒	Influencing the decision to close or extend job announcements<br />
+                    ‒	Influencing the decision to cancel recruitment actions<br />
+                    ‒	Influencing the decision to use or not use a referral list of applicants<br />
+                    ‒	Influencing selection decisions<br />
+                    ‒	Identifying the race, ethnicity, or gender of specific named employees
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I understand that this data can be used for:<br />
+                    ‒	Aggregate human capital reporting<br />
+                    ‒	Determining rates of demographic representation in recruitment efforts<br />
+                    ‒	Determining rates of demographic representation in hiring or merit promotion selections<br />
+                    ‒	Determining rates of qualifications among demographic groups<br />
+                    ‒	Evaluating the effectiveness of recruitment in reaching targeted demographic groups
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I agree to these rules and the appropriate safeguarding of data.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I assume liability for misuse of data caused by sharing data with other recipients.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I acknowledge my responsibility to ensure the confidentiality, integrity, 
+                    and availability of applicant data in a manner consistent with its sensitivity.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; By being granted access to <a href="/Account/definitions#CUI" target="_blank"
+                        title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a>, 
+                    I am obligated to protect this information from unauthorized disclosure.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I agree that my obligation to safeguard the confidentiality of <a href="/Account/definitions#CUI" target="_blank"
+                        title="Controlled Unclassified Information">Controlled Unclassified Information (CUI)</a>
+                     information shall be in effect until 
+                    a transfer of duties no longer requires access to this data or until termination 
+                    of my employment.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will obtain, use or disclose such data only in connection with the 
+                    performance of my official duties solely for authorized purposes.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will not disclose any data to other agencies or persons not expressly 
+                    authorized to receive or have access to it. I will make any such authorized 
+                    disclosures in accordance with established regulations and procedures.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will encrypt any applicant data on any portable storage device, 
+                    including laptops, PDAs, iPods, thumb drives, external hard drives, etc.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; I will immediately report any security breach, password compromises, 
+                    anomalies in system performance, or suspicious activities. I will ensure 
+                    that security breaches are reported to a Federal incident response center, 
+                    US-CERT8, located within the Department of Homeland Security.
+                </p>
+
+                <p class="altDisplayRules">
+                    &#8730; I will protect my passwords and authentication tokens from disclosure 
+                    and loss at all times. I will employ passwords in accordance with USA Staffing’s 
+                    password policy.
+                </p>
+
+                <p class="displayRules">
+                    &#8730; Under this agreement, on behalf of my agency, I accept responsibility 
+                    for carrying out its terms and conditions. I further agree that all necessary 
+                    administrative steps will be taken to assure that persons who have access to this 
+                    data will be informed of this agreement and will be required to comply with it.
+                </p><br />
+
+                <p>
+                    These restrictions are consistent with and do not supersede, conflict with or
+                    otherwise alter the employee obligations, rights or liabilities created by
+                    Executive Order 12356; Section 7211 of Title 5, United States Code (governing
+                    disclosures to Congress); Section 2302(b)(8) of Title 5, United States Code, as
+                    amended by the Whistleblower Protection Act (governing disclosures of
+                    illegality, waste, fraud, abuse or public health or safety threats); the
+                    Intelligence Protection Act of 1982 (50 U.S.C. 421 et seq.) (governing
+                    disclosures that could expose confidential Government agents), and the statutes
+                    which protect against disclosure that may compromise the national security,
+                    including Sections 641, 793, 794, 798 and 952 of Title 18, United States Code,
+                    and Section 4(b) of the Subversive Activities Act of 1950 (50 U.S.C. Section
+                    783(b)). This agreement shall not nullify or affect in any manner any other secrecy or
+                    nondisclosure Agreement which I have executed or may execute with the United
+                    States Government.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <div id="AcceptButton" style="text-align:left"><a href="/account/AcceptTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-11T13%253A36%253A47Z">I Accept</a> - by accepting, I acknowledge and understand my responsibilities, and will comply with these rules of behavior for USA Staffing.</div>
+                <br />
+                <br />
+                <div id="DeclineButton" style="text-align:left"><a href="/account/DeclineTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-11T13%253A36%253A47Z">I Decline</a></div>
+                <br />
+                <br />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="helpFormModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h3 id="helpTicketLegend">Submit a Help Ticket</h3>
+            </div>
+            <div id="helpform-modal-body" class="modal-body"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="myalert" class="row" style="display:none;">
+    <div class="col-md-10 col-md-offset-1">
+        <div id="alertMessage"></div>
+    </div>
+</div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+	<script language="javascript" type="text/javascript">
+        if (top.location != self.location) {
+            top.location = self.location;
+        } else if (parent && parent.frames && parent.frames.length > 0) {
+            top.location = self.location;
+        }
+	</script>
+
+    <script src="/bundles/js/base-js?v=U2-5rcukCnl8uaXKF5kJ4_ZpDhdf9f_RjnORNXAWyzo1"></script>
+
+    
+
+    <script type="text/javascript">
+        yepnope({
+            test: Modernizr.input.placeholder,
+            nope: [
+                '/Content/placeholder/placeholder.min.css',
+                '/Scripts/placeholder/placeholder.min.js'
+            ]
+        });        
+    </script>
+
+    <script src="/Scripts/HelpForm.js"></script>
+
+    <script type="text/javascript">
+        if('False' == 'True') {
+            bootstrapAlert('#alertMessage', 'If your account is found, a notification will be sent to the email address provided. Please contact your USA Staffing Office Administrator if you do not receive a password reset email.', 6500);
+        }
+    </script>
+
+</body>
+</html>

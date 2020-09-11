@@ -1,0 +1,1780 @@
+
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 7]><html class="no-js lt-ie9 ie7 oldie"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8"><![endif]-->
+<!--[if IE 9]><html class="no-js ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js"><!--<![endif]-->
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+    <meta name="description" content="Make Effective Decisions" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+
+    <title>
+    Assess
+ - GSA Sustainable Facilites Tool</title>
+
+    <link href="/Content/Stylesheets/css/font-face.css" rel="stylesheet"/>
+    <link href="/Content/Stylesheets/css/vendors/font-awesome/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Content/Stylesheets/css/megamenu/mgmenu.css" rel="stylesheet"/>
+<link href="/Content/Stylesheets/css/slicknav/slicknav.css" rel="stylesheet"/>
+<link href="/Content/Stylesheets/css/import_sftool.css" rel="stylesheet"/>
+
+    
+
+    <script src="/Scripts/modernizr/modernizr.2.7.0.js"></script>
+
+
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/Content/Stylesheets/css/lt-ie9-bootstrap.css" type="text/css" media="screen"/>
+        <script src="/Scripts/misc/html5shiv.js"></script>
+        <script src="/Scripts/misc/respond.min.js"></script>
+    <![endif]-->
+
+    
+
+        <script type="text/javascript">
+            /*
+             *  Google Analytics
+             *  Must be in head in order for Webmaster Tools to verify this site using Google Analytics technique.
+             */
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-6983436-8']);
+            _gaq.push(['_setDomainName', 'sftool.gov']);
+            _gaq.push(['_setAllowLinker', true]);
+
+
+            //It appears that all other gaq push's (that you want sent to google analytics) should occur before pushing _trackPageview. --%>
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <script id="_fed_an_ua_tag" type="text/javascript" src="/Scripts/google/federated-analytics.all.min.js?agency=GSA&subagency=OGP"></script>
+
+    <!-- For Google Recaptcha -->
+    <script type="text/javascript">
+        var recaptchaOnLoad = function() {
+            // check if captchas exists before rendering
+            if (document.getElementById("recaptcha-single-instance")) {
+                grecaptcha.render('recaptcha-single-instance', {
+                    'sitekey': "6LfGV2oUAAAAANuN6pAcPYK6Rc8mAA-SpJt3aSaM"
+                });
+            }
+        };
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaOnLoad&render=explicit" async defer></script>
+</head>
+<body>
+    <a class="accessible" href="#main">[Skip to Content]</a>
+    <div id="header">
+
+
+
+<div id="site-header" >
+    <div id="sh-inner">
+        <div id="site-menu" class="mgmenu_container">
+            
+
+
+<div id="site-toolbar">
+    <div id="user-control">
+<a href="/account/login">Log On</a>
+
+    </div>
+</div>
+
+
+      
+
+            <ul class="mgmenu align_right">
+                <!-- Begin Mega Menu -->
+                <li id="mi-home">
+                    <a href="/" id="menu-logo" class="textReplace ib">Sustainable Facilities Tool</a>
+                    
+                        <h1 id="sftool-main-heading">
+                            Sustainable Facilities Tool
+                            
+                                <small>General Services Administration</small>
+                            
+                        </h1>
+                    
+                         
+                </li>
+                <li id="mi-learn">
+                    <a href="/learn" class="">
+                        <span>
+                            Learn
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth row" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/learn"><span class="fa fa-home"></span> Learn Overview</a>
+                        <h3><span class="sr-only">Learn Topics</span></h3>
+<div class="col-xs-8 small-8 columns lPad3 lp3">
+<div class="row">
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Learn Energy" href="/learn#learn-energy">Energy</a></h4>
+<ul class="bullet bMargin2 bm2">
+<li><a href="/learn/about/44/energy-atmosphere">Energy &amp; Atmosphere</a></li>
+<li><a href="/learn/about/426/plug-loads">Plug Loads</a></li>
+<li><a href="/plan/420/net-energy">Net Zero Energy</a></li>
+<li><a href="/explore/green-building/section/9/hvac/system-overview">HVAC Systems</a></li>
+<li><a href="/explore/green-building/section/1/lighting/system-overview">Lighting Systems</a></li>
+<li><a href="/explore/green-building/section/86/submetering/system-overview">Submetering Systems</a></li>
+<li><a href="/plan/submetering">Submetering Wizard</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Learn Water" href="/learn#learn-water">Water</a></h4>
+<ul class="bullet bMargin2 bm2">
+<li><a href="/learn/about/45/water-efficiency">Water Efficiency</a></li>
+<li><a href="/explore/green-building/section/18/water/system-overview">Water Systems</a></li>
+<li><a href="/explore/green-building/section/76/planted-roof/system-overview">Planted Roof Systems</a></li>
+<li><a href="/explore/green-workspace/82/tenant-restroom">Restrooms</a></li>
+<li><a href="/explore/green-workspace/88/cafeteria#cleaning-station/design-guidance">Cleaning Stations</a></li>
+<li><a href="/greenprocurement/green-services/3/landscaping-services">Landscaping Services</a></li>
+<li><a href="/greenprocurement/green-products/23/plumbing-systems/0">Plumbing Products</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Learn Health" href="/learn#learn-health">Health</a></h4>
+<ul class="bullet bMargin2 bm2">
+<li><a href="/learn/about/625">COVID-19 Resources</a></li>
+<li><a href="/learn/about/576/buildings-health">Buildings and Health</a></li>
+<li><a href="/learn/about/626">Enhancing Health with Indoor Air</a></li>
+<li><a href="/learn/about/577/circadian-light">Circadian Light</a></li>
+<li><a href="/learn/about/580/biophilic-design">Biophilic Design</a></li>
+<li><a href="/learn/about/1/indoor-environmental-quality-ieq">Indoor Environmental Quality</a></li>
+<li><a href="/explore/green-building/section/30/ieq/system-overview">IEQ Systems</a></li>
+</ul>
+</div>
+</div>
+<div class="row tMargin2 tm2">
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Learn Other Topics" href="/learn#learn-other-topics"> Other Topics </a></h4>
+<ul class="bullet">
+<li><a href="/learn/about/41/sustainability">What is Sustainability?</a></li>
+<li><a href="/learn/about/43/materials-resources">Materials &amp; Resources</a></li>
+<li><a href="/learn/about/46/sustainable-sites">Sustainable Sites</a></li>
+<li><a href="/learn/about/371/environmental-programs">Environmental Programs</a></li>
+<li><a href="/learn/about/502/child-care-centers">Child Care Centers</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Learn Federal Requirements" href="/learn#learn-fed-requirements">Federal Requirements </a></h4>
+<ul class="bullet">
+<li><a href="/learn/2/legal-requirements">Annotated Executive Orders</a></li>
+<li><a href="/learn/2/legal-requirements#laws">Laws</a></li>
+<li><a href="/learn/2/legal-requirements#executive orders">Executive Orders</a></li>
+<li><a href="/learn/2/legal-requirements#guiding principles">Guiding Principles</a></li>
+<li><a href="/learn/2/legal-requirements#regulations">Regulations</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a target="_self" title="Agency Green Building Practices" href="/learn/10129/agency-practices">Agency Practices</a></h4>
+<ul class="bullet bMargin2 bm2">
+<li><a href="/learn/about/435/department-defense-dod-sustainable-product-purchasing">Department of Defense (DoD) Sustainable Product Purchasing</a></li>
+<li><a href="/learn/agency-practices/444/iswg-policies-strategies">Policies &amp; Strategies</a></li>
+<li><a href="/learn/agency-practices/445/iswg-tools">Tools &amp; Training</a></li>
+<li><a href="/learn/agency-practices/446/iswg-case-studies">Best Practices &amp; Case Studies</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xs-4 small-4 columns featured">
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title">Health &amp; Wellness Guidance Crosswalk</h4>
+<div class="featured-body"><img src="/Content/Images/Icons/check-blue.png" style="float: right; margin-right: 12px; margin-top: 6px;" />
+<p class="tm0">Connect the dots between the Guiding Principles for Sustainable Federal Buildings and other industry standards, guidelines and rating systems. Updated for LEED v4.1 and WELL v2 in May 2019!</p>
+</div>
+<a href="/learn/crosswalk" class="featured-link tm0">Explore the Crosswalk </a></div>
+</div>
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title">Plug Loads</h4>
+<div class="featured-body"><img src="/Content/Images/Menu/plug-load.jpg" style="float: left; width: 126px; margin-right: 12px; margin-top: 6px;" />
+<p class="tm0">Plug loads refer to energy used by equipment that is plugged into an outlet. In an office, key plug loads include computer and monitors,                                             printers, and copiers. Plug loads can average approximately <strong>30%</strong> of electricity use in office settings, much of which can                                             be attributed to parasitic loads.</p>
+</div>
+<a href="/learn/about/426/plug-loads" class="featured-link tm0"> Continue reading: Plug Loads </a></div>
+</div>
+</div>
+                    </div>
+                </li>
+                <li id="mi-plan">
+                    <a href="/plan" class="">
+                        <span>
+                            Plan
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/plan"><span class="fa fa-home"></span> Plan Overview</a>
+                        <h3><span class="sr-only">Plan Topics</span></h3>
+<div class="col-xs-8 small-8 columns">
+<div class="col-xs-4 small-4 columns">
+<h4><a href="/plan/250/keys-success"> Overall Strategies </a></h4>
+<ul class="bullet">
+<li><a href="/plan/261">Integrative Design Process</a></li>
+<li><a href="/plan/upgrades">Cost-Effective Upgrades</a></li>
+<li><a href="/plan/399">Life Cycle Perspective</a></li>
+<li><a href="/plan/419">Using Acquisition Life Cycle Tools</a></li>
+<li><a href="/plan/541">Verifying Delivery</a></li>
+<li><a href="/plan/545">Responsible Business Conduct</a></li>
+<li><a href="/plan/submetering">Submetering Wizard</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a href="/plan/263/plan-section-guidance"> Project Types </a></h4>
+<ul class="bullet">
+<li><a href="/plan/264/materials-furniture-furnishings-replacement">Materials, Furniture, and Furnishings Replacement</a></li>
+<li><a href="/plan/265/space-reconfiguration-renovation-projects">Space Reconfiguration and Renovation Projects</a></li>
+<li><a href="/plan/266/under-10-000-sf-interiors-gut-rehab-project">Under 10,000 SF Interiors Gut Rehab Project</a></li>
+<li><a href="/plan/267/building-systems-upgrades">Building Systems Upgrades</a></li>
+<li><a href="/plan/268/building-operations-maintenance-services">Building Operations and Maintenance Services</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a href="/plan/87/overview"> Plan for the Future </a></h4>
+<ul class="bullet">
+<li> <a href="/plan/420/net-energy">Net Zero Energy</a> </li>
+<li> <a href="/plan/430">Enhancing Resilience</a> 
+<ul>
+<li><a href="/plan/409">Federal Agency Plans</a></li>
+<li><a href="/plan/431">Tips for Hosting a Risk Workshop</a></li>
+<li><a href="/plan/432">Resilience Planning Examples</a></li>
+</ul>
+</li>
+<li> <a href="/plan/553/">Framework for Managing Climate Risks to Federal Agency Supply Chains</a> </li>
+</ul>
+</div>
+</div>
+<div class="col-xs-4 small-4 columns featured">
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title">Cost-Effective Upgrades</h4>
+<div class="featured-body"><img src="/Content/Images/Icons/upgrades.png" style="height: 70px; float: right; margin-left: 5px; margin-top: 5px;" />
+<p class="tm0">Determine which upgrades could be most cost-effective based on the size and location of your building.</p>
+</div>
+<a class="featured-link tm0" href="/plan/upgrades">Discover Potential Upgrades </a></div>
+</div>
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title">Collaborative Strategies for Project Teams</h4>
+<div class="featured-body">
+<p class="tm0">Use integrative design approaches and collaborative practices to save time and money.</p>
+</div>
+<a class="featured-link tm0" href="/plan/583/collaborative-strategies-project-teams">View Strategies </a></div>
+</div>
+</div>
+                    </div>
+                </li>
+                <li id="mi-explore">
+                    <a href="/Explore" class="">
+                        <span>
+                            Explore
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/explore"><span class="fa fa-home"></span> Explore Overview</a>
+                        <h3><span class="sr-only">Explore Topics</span></h3>
+<div class="col-xs-4 small-4 columns featured first-child">
+<div class="f-article full-width">
+<div>
+<div class="featured-body pad0 p0"><img height="387" width="400" src="/Content/Images/Menu/workspaces-preview.jpg" class="full-width" /> <a class="learn-more fullscreen" href="/explore#workspaces">
+<div>
+<p class="bm0">Explore interior office workspaces and learn about sustainable design best practices as you compare materials.</p>
+<span> Explore                                                     <i class="fa fa-long-arrow-right"></i> </span></div>
+</a></div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 small-4 columns pad0 p0">
+<div class="col-xs-6 small-6 columns">
+<h4><a href="/explore#workspaces"> Workspaces </a></h4>
+<ul class="bullet">
+<li><a href="/explore/green-workspace/85/breakpantry">Break/Pantry</a></li>
+<li><a href="/explore/green-workspace/88/cafeteria">Cafeteria</a></li>
+<li><a href="/learn/about/502/child-care-centers">Child Care Centers</a></li>
+<li><a href="/explore/green-workspace/86/computerlan-room">Computer/LAN Room</a></li>
+<li><a href="/explore/green-workspace/83/enclosed-conference">Enclosed Conference</a></li>
+<li><a href="/explore/green-workspace/89/laboratory">Laboratory</a></li>
+<li><a href="/explore/green-workspace/61/open-office-area">Open Office Area</a></li>
+<li><a href="/explore/green-workspace/84/open-teaming-space">Open Teaming Space</a></li>
+<li><a href="/explore/green-workspace/47/private-office">Private Office</a></li>
+<li><a href="/explore/green-workspace/48/receptionlobby">Reception/Lobby</a></li>
+<li><a href="/explore/green-workspace/87/support-area">Support Area</a></li>
+<li><a href="/explore/green-workspace/81/tenant-corridor">Tenant Corridor</a></li>
+<li><a href="/explore/green-workspace/82/tenant-restroom">Tenant Restroom</a></li>
+</ul>
+</div>
+<div class="col-xs-6 small-6 columns right pull-right text-right">
+<h4><a href="/explore#building-systems"> Building Systems </a></h4>
+<ul style="margin-right: 4px;" class="bullet">
+<li class="reverse-bullet"><a href="/explore/green-building/section/9/hvac/system-overview">HVAC</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/30/ieq/system-overview">IEQ</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/1/lighting/system-overview">Lighting</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/76/planted-roof/system-overview">Planted Roof</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/57/solid-waste/system-overview">Solid Waste</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/86/submetering/system-overview">Submetering</a></li>
+<li class="reverse-bullet"><a href="/explore/green-building/section/18/water/system-overview">Water</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-4 small-4 columns featured">
+<div class="f-article full-width">
+<div>
+<div class="featured-body pad0 p0"><img height="387" width="400" src="/Content/Images/Menu/building-systems-preview.jpg" class="full-width" /> <a class="learn-more fullscreen" href="/explore#building-systems">
+<div>
+<p class="bm0">Explore building systems, their relationships to one another, and the integrative team necessary to reach sustainability goals.</p>
+<span> Explore                                                     <i class="fa fa-long-arrow-right"></i> </span></div>
+</a></div>
+</div>
+</div>
+</div>
+                    </div>
+                </li>
+                <li id="mi-procure">
+                    <a href="/greenprocurement" class="">
+                        <span>
+                            Procure
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth row" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/greenprocurement"><span class="fa fa-home"></span> Procure Overview</a>
+                        <h3><span class="sr-only">Procure Topics</span></h3>
+<div class="col-xs-8 small-8 columns">
+<div class="col-xs-8 small-8 columns">
+<h4 class="b"><a href="/greenprocurement#categories"> Products </a></h4>
+<ul class="bullet left pull-left nm rMargin2 rm1">
+<li><a href="/greenprocurement/green-products/21/appliances/0">Appliances</a></li>
+<li><a href="/greenprocurement/green-products/28/biomedical-equipment-supplies/0">Biomedical Equipment and Supplies</a></li>
+<li><a href="/greenprocurement/green-products/3/building-finishes/0">Building Finishes</a></li>
+<li><a href="/greenprocurement/green-products/27/building-furnishings/0">Building Furnishings</a></li>
+<li><a href="/greenprocurement/green-products/4/cafeteria-products/0">Cafeteria Products</a></li>
+<li><a href="/greenprocurement/green-products/5/cleaning-products/0">Cleaning Products</a></li>
+<li><a href="/greenprocurement/green-products/1/construction-materials/0">Construction Materials</a></li>
+<li><a href="/greenprocurement/green-products/13/contracted-printing-products/0">Contracted Printing Products</a></li>
+<li><a href="/greenprocurement/green-products/26/doors-windows/0">Doors and Windows</a></li>
+<li><a href="/greenprocurement/green-products/24/hvacmechanical/0">HVAC/Mechanical</a></li>
+<li><a href="/greenprocurement/green-products/6/landscaping-products/0">Landscaping Products</a></li>
+<li><a href="/greenprocurement/green-products/22/lighting-ceiling-fans/0">Lighting and Ceiling Fans</a></li>
+<li><a href="/greenprocurement/green-products/7/lube-oil-hydraulic-fluid-grease/0">Lube, Oil, Hydraulic Fluid, &amp; Grease</a></li>
+<li><a href="/greenprocurement/green-products/8/miscellaneous/0">Miscellaneous</a></li>
+</ul>
+<ul class="bullet left pull-left nm">
+<li><a href="/greenprocurement/green-products/9/non-paper-office-products/0">Non-Paper Office Products</a></li>
+<li><a href="/greenprocurement/green-products/10/office-electronics/0">Office Electronics</a></li>
+<li><a href="/greenprocurement/green-products/11/paper-office-products/0">Paper Office Products</a></li>
+<li><a href="/greenprocurement/green-products/12/park-recreation/0">Park and Recreation</a></li>
+<li><a href="/greenprocurement/green-products/20/personal-care/0">Personal Care</a></li>
+<li><a href="/greenprocurement/green-products/23/plumbing-systems/0">Plumbing Systems</a></li>
+<li><a href="/greenprocurement/green-products/14/refrigeration-systems/0">Refrigeration Systems</a></li>
+<li><a href="/greenprocurement/green-products/15/renewable-energy/0">Renewable Energy</a></li>
+<li><a href="/greenprocurement/green-products/16/roadway-construction/0">Roadway Construction</a></li>
+<li><a href="/greenprocurement/green-products/1048/shipping-packaging-packing-supplies/0">Shipping, Packaging &amp; Packing</a></li>
+<li><a href="/greenprocurement/green-products/25/special-construction-products/0">Special Construction Products</a></li>
+<li><a href="/greenprocurement/green-products/17/traffic-control/0">Traffic Control</a></li>
+<li><a href="/greenprocurement/green-products/18/vehicles-vehicle-products/0">Vehicles and Vehicle Products</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-4 columns">
+<h4><a href="/greenprocurement#categories"> Services </a></h4>
+<ul class="bullet nm">
+<li><a href="/greenprocurement/green-services/9/cafeteria-food-services">Cafeteria &amp; Food Services</a></li>
+<li><a href="/greenprocurement/green-services/5/electronic-equipment-leasing">Electronic Equipment Leasing</a></li>
+<li><a href="/greenprocurement/green-services/6/fleet-maintenance">Fleet Maintenance</a></li>
+<li><a href="/greenprocurement/green-services/7/janitorial-services">Janitorial Services</a></li>
+<li><a href="/greenprocurement/green-services/3/landscaping-services">Landscaping Services</a></li>
+<li><a href="/greenprocurement/green-services/8/laundry-services">Laundry Services</a></li>
+<li><a href="/greenprocurement/green-services/10/meeting-conference-services">Meeting &amp; Conference Services</a></li>
+<li><a href="/greenprocurement/green-services/4/pest-management">Pest Management</a></li>
+<li><a href="/greenprocurement/green-services/11/transportation-services">Transportation Services</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-4 small-4 columns featured">
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title bMargin2 bm2">Green Procurement Compilation</h4>
+<div>
+<p>The <a target="_self" href="/greenprocurement" title="GPC Hompage">Green Procurement Compilation (GPC)</a> is a comprehensive green purchasing resource designed for federal contracting personnel and program managers.</p>
+<a href="/greenprocurement/about" class="featured-link tm0"> Learn more about the GPC </a></div>
+</div>
+</div>
+<div class="f-article full-width">
+<div>
+<h4 class="featured-title bMargin2 bm2">Sample Contract Language for Environmental Programs</h4>
+<div>
+<p>View generic solicitation/contract language that can be used to incorporate minimum sustainability requirements into contracts for products.</p>
+<a href="/greenprocurement/sample-contract-language" class="featured-link tm0"> View Sample Contract Language </a></div>
+</div>
+</div>
+</div>
+                    </div>
+                </li>
+                <li id="mi-assess">
+                    <a href="/Assess" class="active">
+                        <span>
+                            Assess
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth row" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/assess"><span class="fa fa-home"></span> Assess Overview</a>
+                        <h3><span class="sr-only">Assess Topics</span></h3>
+<div class="col-xs-4 small-3 columns featured">
+<div class="f-article full-width" align="center"><a href="/fedsat"><img alt="FEDSAT logo" src="/content/attachments/fedsat-logo.svg" width="80%" /></a></div>
+</div>
+<div class="col-xs-8 small-6 columns">
+<div class="col-xs-4 small-6 columns">
+<p style="font-size: 21px; color: #3a3d41; font-weight: 600; line-height: 1.24; margin: 0 0 6px 0; padding: 0;"><a title="Assess Training" href="/assess#training">Training</a></p>
+<ul class="bullet">
+<li><a href="/assess/about/589/fmi-program-updates#USACE">Army Corps of Engineers &ndash; Sustainability &amp; Energy Webinar Series</a></li>
+<li><a href="https://facilitiescareermap.feapc.com" target="_blank">Consortium for Building Energy Innovation &ndash; Career Mapping Tool<span><img src="/Content/Images/Icons/external-link.png" title="Non government site opens in new window." alt="non government site opens in new window" /></span></a></li>
+<li><a href="/Content/attachments/Facility%20Manager%20JTA%20For%20Public%20Comment.pdf">DOE/NREL Job/Task Analysis &ndash; Facility Manager</a></li>
+<li><a href="/assess/about/591">Federal Government Links, Knowledge Portals, &amp; Publications</a></li>
+<li><a href="/assess/about/590">Industry Links, Knowledge Portals, &amp; White Papers</a></li>
+<li><a href="/assess/about/592">University and College Resource Links</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#VA">Veterans Administration Facilities Management School</a></li>
+</ul>
+</div>
+<div class="col-xs-4 small-6 columns">
+<p style="font-size: 21px; color: #3a3d41; font-weight: 600; line-height: 1.24; margin: 0 0 6px 0; padding: 0;"><a title="Assess References" href="/assess#references">References</a></p>
+<ul class="bullet">
+<!--
+<li><a href="/assess/about/596" _mce_href="/assess/about/596"><strong>New Courses Open for Public Comment</strong></a></li>
+-->
+<li><a href="/assess/about/596/">Courses Reviewed and Public Comment</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#FMITemplate2019">Training Submission Template</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#2019FBPTA">2019 FBPTA Core Competencies &amp; Recommend Curriculum</a></li>
+<li><a href="/Content/attachments/Proficiency%20Level%20Approach%20Update%20-%20March%2013.2018.pdf">Proficiency Levels</a></li>
+<li><a href="/assess/about/612">Accelerate FM User Manual and Training Guide</a></li>
+<li><a href="/assess/about/589">Archive</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-4 small-3 columns featured">
+<div class="f-article full-width" align="center"><a href="https://afm.fmi.gov"><img alt="AccelerateFM logo" src="/content/attachments/afm-logo.svg" width="80%" /><span><img alt="opens in new window" title="Link opens in new window." src="/Content/Images/Icons/new-window.png" /></span></a></div>
+</div>
+                    </div>
+                </li>
+                <li id="mi-share">
+                    <a href="/share" class="">
+                        <span>
+                            Share
+                        </span>
+                    </a>
+                    <div class="dropdown_fullwidth row" style="display: none;">
+                        <a class="mi-touch-home hidden" href="/share"><span class="fa fa-home"></span> Share Overview</a>
+                        <h3><span class="sr-only">Share Topics</span></h3>
+<div style="padding-left: 225px;" class="col-xs-12 small-12 columns">
+<h4 class="b"><a href="/share/stories">Community Case Studies </a></h4>
+<img style="position: absolute; left: 23px; top: 3px; max-height: 220px;" src="/Content/Images/Menu/sharebldg.jpg" class="left pull-left" /> 
+<ul class="bullet left pull-left nm rMargin2 rm1">
+<li><a href="/share/story/582">The Impact of GSA's High-Performance Buildings</a></li>
+<li><a href="/share/story/417">High-Performance Real Estate with Existing Buildings: The Bennett Federal Building</a></li>
+<li><a href="/share/story/412">The 911 Federal Building: Paying Attention to Building Performance</a></li>
+<li><a href="/share/story/561">U.S. Custom House in Portland, Maine</a></li>
+<li><a href="/share/story/562">Philip J. Philbin Federal Building</a></li>
+<li><a href="/share/story/376">Norris Cotton Federal Building</a></li>
+<li><a href="/share/story/406">Historically Sustainable Nakamura Courthouse</a></li>
+</ul>
+<ul class="bullet left pull-left nm">
+<li><a href="/share/story/105">Collaborative Knowledge Work Environments</a></li>
+<li><a href="/share/story/121">Connected Workplace</a></li>
+<li><a href="/share/story/101">Centralized Filing</a></li>
+<li><a href="/share/story/411">GSA Green Carpet Spec</a></li>
+<li><a href="/share/story/404">Cost and Benefit of Green Cleaning</a></li>
+</ul>
+</div>
+                    </div>
+                </li>
+                <li id="mi-search">
+                    <div id="mi-search-inner">
+                        <button type="button" class="clean-btn" style="margin-top: 3px; padding-bottom: 19px">
+                            <img src="/Content/Images/Icons/search.png"/>
+                            <span class="sr-only">Search</span>
+                        </button>
+                    </div>
+                </li>
+            </ul>
+            <div id="site-search-block" style="display:none">
+                
+        <form method="get" action="/search" id="siteSearch" class="row collapse">
+            <div class="small-10 columns col-xs-10 rp0">
+                <input type="text" id="site-search-textbox" name="Query" placeholder="Search for sustainable best practices, building materials, and more..." />
+            </div>
+            <div class="small-2 columns col-xs-2 lp0">
+                <button type="submit" id="site-search-submitbutton">
+                    <span class="fa fa-circle-o-notch invisible"></span>
+                    Search
+                </button>
+            </div>
+        </form>
+
+
+
+
+
+
+
+
+
+
+            </div>
+	    </div>
+    </div>
+</div>
+
+
+
+<div id="site-header-mobile" style="display:none">
+    <ul>
+        <li class="shm-user-account">
+            <div id="user-control">
+                
+                    <span class="fa fa-user rm1 rMargin1"></span>
+                    <a href="/Account/LogIn">Log On</a>
+                
+
+            </div>
+        </li>
+        <li> <a class="sn-parent" href="/learn">LEARN</a> 
+<ul>
+<li> <span><a target="_self" title="Learn Energy" href="/learn#learn-energy">Energy</a></span> 
+<ul>
+<li><a href="/learn/about/44/energy-atmosphere">Energy &amp; Atmosphere</a></li>
+<li><a href="/learn/about/426/plug-loads">Plug Loads</a></li>
+<li><a href="/plan/420/net-energy">Net Zero Energy</a></li>
+<li><a href="/explore/green-building/section/9/hvac/system-overview">HVAC Systems</a></li>
+<li><a href="/explore/green-building/section/1/lighting/system-overview">Lighting Systems</a></li>
+<li><a href="/explore/green-building/section/86/submetering/system-overview">Submetering Systems</a></li>
+<li><a href="/explore/green-building/section/40/water/resources-impact#energy">Energy Use of Water Systems</a></li>
+</ul>
+</li>
+<li> <span><a target="_self" title="Learn Water" href="/learn#learn-water">Water</a></span> 
+<ul>
+<li><a href="/learn/about/45/water-efficiency">Water Efficiency</a></li>
+<li><a href="/explore/green-building/section/18/water/system-overview">Water Systems</a></li>
+<li><a href="/explore/green-building/section/76/planted-roof/system-overview">Planted Roof Systems</a></li>
+<li><a href="/explore/green-workspace/82/tenant-restroom">Restrooms</a></li>
+<li><a href="/explore/green-workspace/88/cafeteria#cleaning-station/design-guidance">Cleaning Stations</a></li>
+<li><a href="/greenprocurement/green-services/3/landscaping-services">Landscaping Services</a></li>
+<li><a href="/greenprocurement/green-products/23/plumbing-systems/0">Plumbing Products</a></li>
+</ul>
+</li>
+<li> <span><a target="_self" title="Learn Health" href="/learn#learn-health">Health</a></span> 
+<ul>
+<li><a href="/learn/about/625">COVID-19 Resources</a></li>
+<li><a href="/learn/about/576/buildings-health">Buildings and Health</a></li>
+<li><a href="/learn/about/626">Enhancing Health with Indoor Air</a></li>
+<li><a href="/learn/about/577/circadian-light">Circadian Light</a></li>
+<li><a href="/learn/about/580/biophilic-design">Biophilic Design</a></li>
+<li><a href="/learn/about/1/indoor-environmental-quality-ieq">Indoor Environmental Quality</a></li>
+<li><a href="/explore/green-building/section/30/ieq/system-overview">IEQ Systems</a></li>
+</ul>
+</li>
+<li> <a href="/learn/1/sustainability-topics">Other Topics</a> 
+<ul>
+<li><a href="/learn/about/41/sustainability">What is Sustainability?</a></li>
+<li><a href="/learn/about/43/materials-resources">Materials &amp; Resources</a></li>
+<li><a href="/learn/about/46/sustainable-sites">Sustainable Sites</a></li>
+<li><a href="/learn/about/371/environmental-programs">Environmental Programs</a></li>
+<li><a href="/learn/about/502/child-care-centers">Child Care Centers</a></li>
+</ul>
+</li>
+<li><a href="/learn/2">Federal Requirements</a> 
+<ul>
+<li><a href="/learn/2/legal-requirements">Annotated Executive Orders</a>&nbsp;</li>
+<li><a href="/learn/2/legal-requirements#laws">Laws</a></li>
+<li><a href="/learn/2/legal-requirements#executive orders">Executive Orders</a></li>
+<li><a href="/learn/2/legal-requirements#guiding principles">Guiding Principles</a></li>
+<li><a href="/learn/2/legal-requirements#regulations">Regulations</a></li>
+</ul>
+</li>
+<li> <a href="/learn/10129/agency-practices">Agency Practices</a> 
+<ul>
+<li><a href="/learn/about/435/department-defense-dod-sustainable-product-purchasing">Department of Defense (DoD) Sustainable Product Purchasing</a></li>
+<li><a href="/learn/agency-practices/444/iswg-policies-strategies">Policies &amp; Strategies</a></li>
+<li><a href="/learn/agency-practices/445/iswg-tools">Tools &amp; Training</a></li>
+<li><a href="/learn/agency-practices/446/iswg-case-studies">Best Practices &amp; Case Studies</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li> <a class="sn-parent" href="/plan">PLAN</a> 
+<ul>
+<li> <a href="/plan/250/keys-success">Overall Strategies</a> 
+<ul>
+<li><a href="/plan/261/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/plan/upgrades">Cost-Effective Upgrades</a></li>
+<li><a href="/plan/399/life-cycle-approach">Life Cycle Approach</a></li>
+<li><a href="/plan/419">Using Acquisition Lifecycle Tools</a></li>
+<li><a href="/plan/541/verifying-delivery-sustainable-products-services">Verifying Delivery</a></li>
+<li><a href="/plan/545">Responsible Business Conduct</a> 
+<ul>
+<li><a href="/plan/546">Responsible Business Initiatives, Guidelines, and Standards</a></li>
+<li><a href="/plan/565">Responsible Business Case Studies</a></li>
+</ul>
+</li>
+<li><a href="/plan/submetering">Submetering Wizard</a></li>
+</ul>
+</li>
+<li> <a href="/plan/263/project-guidance">Project Types</a> 
+<ul>
+<li><a href="/plan/264/materials-furniture-furnishings-replacement">Materials, Furniture, and Furnishings Replacement</a></li>
+<li><a href="/plan/265/space-reconfiguration-renovation-projects">Space Reconfiguration and Renovation Projects</a></li>
+<li><a href="/plan/266/under-10-000-sf-interiors-gut-rehab-project">Under 10,000 SF Interiors Gut Rehab Project</a></li>
+<li><a href="/plan/267/building-systems-upgrades">Building Systems Upgrades</a></li>
+<li><a href="/plan/268/sustainable-building-operations-maintenance-services">Sustainable Building Operations and Maintenance Services</a></li>
+</ul>
+</li>
+<li> <a href="/plan/87/overview">Plan for the Future</a> 
+<ul>
+<li> <a href="/plan/420/net-energy">Net Zero Energy</a> 
+<ul>
+<li><a href="/plan/421">Transformation to Net Zero Energy</a></li>
+<li><a href="/plan/422">Net Zero Examples</a></li>
+<li><a href="/plan/423">Additional Resources</a></li>
+</ul>
+</li>
+<li> <a href="/plan/430">Enhancing Resilience</a> 
+<ul>
+<li><a href="/plan/409">Federal Agency Plans</a></li>
+<li><a href="/plan/431">Tips for Hosting a Risk Workshop</a></li>
+<li><a href="/plan/432">Resilience Planning Examples</a></li>
+<li><a href="/plan/433">Additional Resources</a></li>
+</ul>
+</li>
+<li> <a href="/plan/553/">Framework for Managing Climate Risks to Federal Agency Supply Chains</a> </li>
+</ul>
+</li>
+</ul>
+</li>
+<li> <a class="sn-parent" href="/explore">EXPLORE</a> 
+<ul>
+<li> Workspaces 								                                 
+<ul>
+<li><a href="/explore/green-workspace/85/breakpantry">Break/Pantry</a></li>
+<li><a href="/explore/green-workspace/88/cafeteria">Cafeteria</a></li>
+<li><a href="/learn/about/502/child-care-centers">Child Care Centers</a></li>
+<li><a href="/explore/green-workspace/86/computerlan-room">Computer/LAN Room</a></li>
+<li><a href="/explore/green-workspace/83/enclosed-conference">Enclosed Conference</a></li>
+<li><a href="/explore/green-workspace/89/laboratory">Laboratory</a></li>
+<li><a href="/explore/green-workspace/61/open-office-area">Open Office Area</a></li>
+<li><a href="/explore/green-workspace/84/open-teaming-space">Open Teaming Space</a></li>
+<li><a href="/explore/green-workspace/47/private-office">Private Office</a></li>
+<li><a href="/explore/green-workspace/48/receptionlobby">Reception/Lobby</a></li>
+<li><a href="/explore/green-workspace/87/support-area">Support Area</a></li>
+<li><a href="/explore/green-workspace/81/tenant-corridor">Tenant Corridor</a></li>
+<li><a href="/explore/green-workspace/82/tenant-restroom">Tenant Restroom</a></li>
+</ul>
+</li>
+<li> Building Systems 								                                 
+<ul>
+<li> <a href="/explore/green-building/section/9/hvac/system-overview">HVAC</a> 
+<ul>
+<li><a href="/explore/green-building/section/10/hvac/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/44/hvac/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/45/hvac/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/46/hvac/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/47/hvac/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/12/hvac/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/13/hvac/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/14/hvac/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/30/ieq/system-overview">IEQ</a> 
+<ul>
+<li><a href="/explore/green-building/section/31/ieq/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/48/ieq/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/49/ieq/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/50/ieq/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/51/ieq/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/33/ieq/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/34/ieq/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/35/ieq/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/1/lighting/system-overview">Lighting</a> 
+<ul>
+<li><a href="/explore/green-building/section/2/lighting/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/36/lighting/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/37/lighting/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/38/lighting/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/39/lighting/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/5/lighting/relevant-mandates-and-rating-systems">System Bundling</a></li>
+<li><a href="/explore/green-building/section/34/ieq/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/6/lighting/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/76/planted-roof/system-overview">Planted Roof</a> 
+<ul>
+<li><a href="/explore/green-building/section/77/planted-roof/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/82/planted-roof/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/83/planted-roof/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/84/planted-roof/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/85/planted-roof/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/79/planted-roof/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/80/planted-roof/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/81/planted-roof/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/57/solid-waste/system-overview">Solid Waste</a> 
+<ul>
+<li><a href="/explore/green-building/section/59/solid-waste/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/69/solid-waste/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/71/solid-waste/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/73/solid-waste/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/75/solid-waste/om-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/63/solid-waste/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/65/solid-waste/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/67/solid-waste/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/86/submetering/system-overview">Submetering</a> 
+<ul>
+<li><a href="/explore/green-building/section/87/submetering/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/92/submetering/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/93/submetering/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/94/submetering/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/95/submetering/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/89/submetering/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/90/submetering/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/91/submetering/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+<li> <a href="/explore/green-building/section/18/water/system-overview">Water</a> 
+<ul>
+<li><a href="/explore/green-building/section/19/water/integrative-design-process">Integrative Design Process</a></li>
+<li><a href="/explore/green-building/section/40/water/resources-impact">Resources Impact</a></li>
+<li><a href="/explore/green-building/section/41/water/human-impact">Human Behavior Impact</a></li>
+<li><a href="/explore/green-building/section/42/water/financial-impact">Financial Impact</a></li>
+<li><a href="/explore/green-building/section/43/water/o-m-impact">O &amp; M Impact</a></li>
+<li><a href="/explore/green-building/section/21/water/system-bundling">System Bundling</a></li>
+<li><a href="/explore/green-building/section/22/water/relevant-mandates-and-rating-systems">Mandates/Rating Systems</a></li>
+<li><a href="/explore/green-building/section/23/water/resources-and-case-studies">Resources/Case Studies</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li> <a class="sn-parent" href="/greenprocurement">PROCURE</a> 
+<ul>
+<li> Products 								                                 
+<ul>
+<li><a href="/greenprocurement/green-products/21/appliances/0">Appliances</a></li>
+<li><a href="/greenprocurement/green-products/28/biomedical-equipment-supplies/0">Biomedical Equipment and Supplies</a></li>
+<li><a href="/greenprocurement/green-products/3/building-finishes/0">Building Finishes</a></li>
+<li><a href="/greenprocurement/green-products/27/building-furnishings/0">Building Furnishings</a></li>
+<li><a href="/greenprocurement/green-products/4/cafeteria-products/0">Cafeteria Products</a></li>
+<li><a href="/greenprocurement/green-products/5/cleaning-products/0">Cleaning Products</a></li>
+<li><a href="/greenprocurement/green-products/1/construction-materials/0">Construction Materials</a></li>
+<li><a href="/greenprocurement/green-products/13/contracted-printing-products/0">Contracted Printing Products</a></li>
+<li><a href="/greenprocurement/green-products/26/doors-windows/0">Doors and Windows</a></li>
+<li><a href="/greenprocurement/green-products/24/hvacmechanical/0">HVAC/Mechanical</a></li>
+<li><a href="/greenprocurement/green-products/6/landscaping-products/0">Landscaping Products</a></li>
+<li><a href="/greenprocurement/green-products/22/lighting-ceiling-fans/0">Lighting and Ceiling Fans</a></li>
+<li><a href="/greenprocurement/green-products/7/lube-oil-hydraulic-fluid-grease/0">Lube, Oil, Hydraulic Fluid, &amp; Grease</a></li>
+<li><a href="/greenprocurement/green-products/8/miscellaneous/0">Miscellaneous</a></li>
+<li><a href="/greenprocurement/green-products/9/non-paper-office-products/0">Non-Paper Office Products</a></li>
+<li><a href="/greenprocurement/green-products/10/office-electronics/0">Office Electronics</a></li>
+<li><a href="/greenprocurement/green-products/11/paper-office-products/0">Paper Office Products</a></li>
+<li><a href="/greenprocurement/green-products/12/park-recreation/0">Park and Recreation</a></li>
+<li><a href="/greenprocurement/green-products/20/personal-care/0">Personal Care</a></li>
+<li><a href="/greenprocurement/green-products/23/plumbing-systems/0">Plumbing Systems</a></li>
+<li><a href="/greenprocurement/green-products/14/refrigeration-systems/0">Refrigeration Systems</a></li>
+<li><a href="/greenprocurement/green-products/15/renewable-energy/0">Renewable Energy</a></li>
+<li><a href="/greenprocurement/green-products/16/roadway-construction/0">Roadway Construction</a></li>
+<li><a href="/greenprocurement/green-products/1048/shipping-packaging-packing-supplies/0">Shipping, Packaging &amp; Packing</a></li>
+<li><a href="/greenprocurement/green-products/25/special-construction-products/0">Special Construction Products</a></li>
+<li><a href="/greenprocurement/green-products/17/traffic-control/0">Traffic Control</a></li>
+<li><a href="/greenprocurement/green-products/18/vehicles-vehicle-products/0">Vehicles and Vehicle Products</a></li>
+</ul>
+</li>
+<li> Services 								                                 
+<ul>
+<li><a href="/greenprocurement/green-services/9/cafeteria-food-services">Cafeteria &amp; Food Services</a></li>
+<li><a href="/greenprocurement/green-services/5/electronic-equipment-leasing">Electronic Equipment Leasing</a></li>
+<li><a href="/greenprocurement/green-services/6/fleet-maintenance">Fleet Maintenance</a></li>
+<li><a href="/greenprocurement/green-services/7/janitorial-services">Janitorial Services</a></li>
+<li><a href="/greenprocurement/green-services/3/landscaping-services">Landscaping Services</a></li>
+<li><a href="/greenprocurement/green-services/8/laundry-services">Laundry Services</a></li>
+<li><a href="/greenprocurement/green-services/10/meeting-conference-services">Meeting &amp; Conference Services</a></li>
+<li><a href="/greenprocurement/green-services/4/pest-management">Pest Management</a></li>
+<li><a href="/greenprocurement/green-services/11/transportation-services">Transportation Services</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/assess">ASSESS</a> 
+<ul>
+<li><a href="https://afm.fmi.gov/">AccelerateFM</a></li>
+<li><a href="/fedsat">FEDSAT</a></li>
+<li><a href="/assess#training" title="Assess Training" target="_self"> Training</a> 
+<ul>
+<li><a href="/assess/about/589/fmi-program-updates#USACE">Army Corps of Engineers &ndash; Sustainability &amp; Energy Webinar Series</a></li>
+<li><a href="https://facilitiescareermap.feapc.com" target="_blank">Consortium for Building Energy Innovation &ndash; Career Mapping Tool<span><img alt="non government site opens in new window" title="Non government site opens in new window." src="/Content/Images/Icons/external-link.png" /></span></a></li>
+<li><a href="/Content/attachments/Facility%20Manager%20JTA%20For%20Public%20Comment.pdf">DOE/NREL Job/Task Analysis &ndash; Facility Manager</a></li>
+<li><a href="/assess/about/591">Federal Government Links, Knowledge Portals, &amp; Publications</a></li>
+<li><a href="/assess/about/590">Industry Links, Knowledge Portals, &amp; White Papers</a></li>
+<li><a href="/assess/about/592">University and College Resource Links</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#VA">Veterans Administration Facilities Management School</a></li>
+</ul>
+</li>
+<li><a href="/assess#references" title="Assess References" target="_self"> References</a> 
+<ul>
+<!-- Commented out code for new course open for comment
+<li><a href="/assess/about/615" _mce_href="/assess/about/615"><strong>New Course Open for Public Comment</strong></a></li>
+-->
+<li><a href="/assess/about/596/fmi-courses-reviewed-public-comment">Courses Reviewed and Public Comment</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#FMITemplate2019">Training Submission Template</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#2018FBPTA">2019 FBPTA Core Competencies &amp; Recommend Curriculum</a></li>
+<li><a href="/Content/attachments/Proficiency%20Level%20Approach%20Update%20-%20March%2013.2018.pdf">Proficiency Levels</a></li>
+<li><a href="/assess/about/612/accelerate-fm-user-manual-training-guide">Accelerate FM User Manual and Training Guide</a></li>
+<li><a href="/assess/about/589/fmi-program-updates">Archive</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/share" style="border: 0;">SHARE</a></li>
+    </ul>
+</div>
+   
+    </div>
+    
+
+    <div id="main">
+        <div class="page clearfix">
+            
+<!-- Begin Content Block -->
+<div class="fmi-landing"><!-- left pane --> <section class="left-pane"> <a href="/assess" class="home-link">
+<h2><span><strong>F</strong>acilities</span> <span><strong>M</strong>anagement</span> <span><strong>I</strong>nstitute</span></h2>
+</a> 
+<hr />
+<p style="max-width: 900px;">The Facilities Management Institute (FMI) exists to help facilities management&nbsp;professionals thrive in a rapidly changing environment.                              FMI&nbsp;provides easily accessible&nbsp;online tools and resources explicitly designed to advance your <b>skills, knowledge and professional development</b>.                              <br /><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="about">Learn More</button></p>
+<div class="spacer-3 spacer-0-tablet"></div>
+<nav>
+<h3>Additional Resources</h3>
+<ul>
+<li><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="training">Training</button></li>
+<li><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="references">References</button></li>
+<li><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="feedback">Feedback</button></li>
+</ul>
+</nav> </section> <!-- END left pane --> <!-- content pane --> <section class="content-pane"> <!-- announcement --> <section class="announcement toggle-off">
+<h4 style="padding: 0; margin: 0; font-size: 1.125em;" class="h5">New Documents Open for Public Comment: <br /><a href="/assess/about/589/fmi-program-updates#2019FBPTA">2019 FBPTA Core Competencies &amp; Recommended Curriculum</a> &amp; <a href="/assess/about/596">New Courses</a></h4>
+<!--
+<div class="spacer-025"></div>
+<p>This is an optional description block</p>
+--> </section> <!-- END announcement --> <!-- intro --> <section class="slide-pane active" id="intro">
+<div class="card-row">
+<div class="card">
+<div class="card-header"><a href="/fedsat"><img alt="FEDSAT logo" src="/content/attachments/fedsat-logo.svg" /></a></div>
+<div class="card-title">
+<h5><small>Step 1</small> Basic Compliance</h5>
+</div>
+<div class="card-description">
+<p>Start by identifying your basic skill gaps with our free, online assessment. We&rsquo;ll direct you to free resources you can use to fill them.</p>
+<div class="spacer-1"></div>
+<a class="btn" href="/fedsat">Click to learn more</a>
+<div class="spacer-1"></div>
+</div>
+</div>
+<div class="card">
+<div class="card-header"><a target="_blank" href="https://afm.fmi.gov"><img alt="AccelerateFM logo" src="/content/attachments/afm-logo.svg" /><span><img style="height: 1em;" src="/Content/Images/Icons/new-window.png" title="Link opens in new window." alt="opens in new window" /></span></a></div>
+<div class="card-title">
+<h5><small>Step 2</small> Advanced Career Planning</h5>
+</div>
+<div class="card-description">
+<p>See how your current training and credentials prepare you for your current job or your next job. Make a training plan to advance your career.</p>
+<div class="spacer-1"></div>
+<a class="btn" target="_blank" href="https://afm.fmi.gov">Click to learn more<span><img src="/Content/Images/Icons/new-window.png" alt="opens in new window" /></span></a>
+<div class="spacer-1"></div>
+</div>
+</div>
+</div>
+<div class="card-row">
+<div class="card">
+<div class="spacer-1"></div>
+<div class="card-title">
+<h5><small>Public</small> Not a Federal Employee?</h5>
+</div>
+<div class="card-description">
+<p>Our tools are available to all. Plan your career in industry or prepare for a government role.  Show that your firm&rsquo;s employees are qualified to work on federal facilities.</p>
+<div class="spacer-1"></div>
+<button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="public" tabindex="0">Click to learn more</button>
+<div class="spacer-1"></div>
+</div>
+</div>
+<div class="card">
+<div class="spacer-1"></div>
+<div class="card-title">
+<h5><small>Roles</small> Key Topics for Every Position</h5>
+</div>
+<div class="card-description">
+<p>Explore the topics covered by our resources and learn which are highest priority for your specific role.</p>
+<div class="spacer-1"></div>
+<button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane="roles" tabindex="0">Click to learn more</button>
+<div class="spacer-1"></div>
+</div>
+</div>
+</div>
+<div class="spacer-5"></div>
+</section> <!-- END intro --> <!-- about pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="about">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / About FMI</div>
+<div class="spacer"></div>
+<h3 style="font-size: 2.625em; background: none; display: block; padding-left: 0;" class="h2">About FMI</h3>
+<p>FMI brings together government, industry and academia with the goal of integrating, aligning and innovating all aspects of the Facilities Operations and Management profession through continuous collaboration on core competencies, curriculum, and continuing education.</p>
+<div class="spacer"></div>
+<h4>Legislative Intent</h4>
+<p>Taxpayer investment in Federal facilities must be protected and leveraged through the cost savings involved in maximizing building performance. Achieving this level of performance requires a government wide program that stresses training and continuing education in the implementation of industry best practices and life cycle operations and management.                                 <br /> - Senate Committee on Environment and Public Works Report (paraphrased)</p>
+</section> <!-- END about pane --> <!-- training pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="training">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / Training</div>
+<div class="spacer-1"></div>
+<div class="img-hero"><img src="/content/attachments/fmi_training_banner.jpg" /></div>
+<div class="spacer-2"></div>
+<h4>Training Resources and Providers</h4>
+<ul class="links">
+<li><a href="/assess/about/589/fmi-program-updates#USACE">Army Corps of Engineers &ndash; Sustainability &amp; Energy Webinar Series</a></li>
+<li><a target="_blank" href="https://facilitiescareermap.feapc.com">Consortium for Building Energy Innovation &ndash; Career Mapping Tool <span><img src="/Content/Images/Icons/external-link.png" alt="non government site opens in new window" /></span></a></li>
+<li><a href="/content/attachments/Facility%20Manager%20JTA%20For%20Public%20Comment.pdf">DOE/NREL Job/Task Analysis &ndash; Facility Manager</a></li>
+<li><a href="/assess/about/591">Federal Government Links, Knowledge Portals, &amp; Publications</a></li>
+<li><a href="/assess/about/590">Industry Links, Knowledge Portals, &amp; White Papers</a></li>
+<li><a href="/assess/about/592">University and College Resource Links</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#VA">Veterans Administration Facilities Management School</a></li>
+</ul>
+</section> <!-- END training pane --> <!-- references pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="references">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / References</div>
+<div class="spacer-1"></div>
+<div class="img-hero"><img src="/content/attachments/fmi_references_banner.jpg" /></div>
+<div class="spacer-2"></div>
+<h4>FMI Documentation</h4>
+<ul class="links">
+<li><a href="/assess/about/596">Courses Reviewed and Public Comment</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#FMITemplate2018">Training Submission Template</a></li>
+<li><a href="/assess/about/589/fmi-program-updates#2019FBPTA">2019 FBPTA Core Competencies &amp; Recommend Curriculum</a></li>
+<li><a href="/content/attachments/Proficiency%20Level%20Approach%20Update%20-%20March%2013.2018.pdf">Proficiency Levels</a></li>
+<li><a href="/assess/about/612">Accelerate FM User Manual and Training Guide</a></li>
+<li><a href="/assess/about/589">Archive</a></li>
+</ul>
+<h4>Sources</h4>
+<ul class="links">
+<li><a href="/content/attachments/Federal%20Buildings%20Personnel%20Act-PUBLIC%20LAW.pdf">FBPTA Public Law 111-308</a></li>
+<li><a target="_blank" href="https://betterbuildingssolutioncenter.energy.gov/workforce/better-buildings-workforce-guidelines">DOE Better Buildings Workforce Guidelines<span><img src="/Content/Images/Icons/new-window.png" alt="opens in new window" /></span> </a></li>
+</ul>
+</section> <!-- END references pane --> <!-- feedback pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="feedback">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / Feedback</div>
+<div class="spacer-1"></div>
+<div class="img-hero"><img src="/content/attachments/fmi_feedback_banner.jpg" /></div>
+<div class="spacer-2"></div>
+<h4>Program Points of Contact</h4>
+<a href="mailto:AskFMI@gsa.gov" class="link-lg">AskFMI@gsa.gov</a>
+<p>All feedback on FMI documents and notices that are open for comment should be sent via email to <a href="mailto:AskFMI@gsa.gov">AskFMI@gsa.gov</a>. Comments through other avenues will not be accepted. Once comments are collected, they will be posted publicly alongside the document.</p>
+<div class="spacer-1"></div>
+<h4>Frequently Asked Questions</h4>
+<p class="lead">Who is required to comply with the <a href="/content/attachments/Federal%20Buildings%20Personnel%20Act-PUBLIC%20LAW.pdf">Federal Buildings Personnel Training Act;</a> are there specific occupational series?</p>
+<p>All personnel directly involved in building operations and maintenance or energy management at the building level are impacted by the Act. Given the different approaches that each Federal agency takes to these functions it is not possible to list the functions by occupational series, however, in general this will apply to personnel performing facility management, building or installed-equipment operations, energy management, and safety and design functions related to facility or energy management. Personnel in these categories are frequently, though not always, in the GS-8XX, 11XX, and 16XX series, or, wage grade positions involved in building or installed equipment operations. Consult your supervisor, or, send questions regarding your specific situation to&nbsp;<a href="mailto:AskFMI@gsa.gov">AskFMI@gsa.gov</a>.</p>
+</section> <!-- END feedback pane --> <!-- public pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="public">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / Not a Federal Employee?</div>
+<div class="spacer-1"></div>
+<div class="img-hero halfed text-center"><img style="width: 33%;" alt="FEDSAT logo" src="/content/attachments/fedsat-logo.svg" /> <img alt="AccelerateFM logo" src="/content/attachments/afm-logo.svg" style="width: 33%;" /></div>
+<div class="spacer-3"></div>
+<p>Do you or your firm perform operations and maintenance, energy management, or other facilities-related functions in federal buildings? If so, <a href="/content/attachments/Federal%20Buildings%20Personnel%20Act-PUBLIC%20LAW.pdf">Public Law 111-308 (FBPTA)</a> applies to you. FMI's free tools and resources will help you comply with the law, advance your career, and distinguish you from the competition in this rapidly-developing field.                                 Start with <a href="/fedsat">FEDSAT</a>. Completing it is a great way to see if you have the basic knowledge required by the FBPTA. As you take this open-book test you will see where you need additional training and find links to free, online resources to help.  At the end you can print a certificate of completion that demonstrates basic compliance with this Act.                                 How can you and your organization move beyond basic and set yourselves apart? <a href="https://afm.fmi.gov/">Accelerate FM<span><img src="/Content/Images/Icons/new-window.png" alt="opens in new window" /></span> </a> takes you to advanced compliance. Select the facilities role you perform, find the knowledge required to move from entry to journeyman to master levels within your field, and find training and credentials aligned to those requirements.  AFM will help you track and report your progress over time.  Use AFM to demonstrate the skills that you and your workforce have.</p>
+</section> <!-- END public pane --> <!-- roles pane --> <section style="transform: translate3d(100%, 0, 0);" class="slide-pane" id="roles">
+<div class="bread-crumb"><button class="ui-autocomplete-loading no-border" type="button" data-toggle-pane-close="close" tabindex="0">Back to Overview</button> / Key Topics for Every Position</div>
+<div class="spacer-1"></div>
+<p>Facility management is a team approach. No one person is expected to know everything, but, across an entire agency, across all facilities, energy, and building operations &ndash; they should all be met. Where do you fit in?</p>
+<div class="img-hero full"><img alt="Decorative matrix mapping 7 core competencies to 6 building roles. Most cells are shaded as either requiring expert knowledge or awareness. The core competencies highlighted are:  Manage O&amp;M, Perform O&amp;M, Technology, Energy &amp; Water, Safety, Project Management, and Budget &amp; Performance. The roles are:  Asset Manager, Building Operator, Building Trades, Energy Manager, Facility Manager, and Project Manager." src="/content/attachments/competencies-matrix.svg" /></div>
+</section> <!-- END public pane --> </section> <!-- END content pane --></div>
+<script type="text/javascript">// <![CDATA[
+            
+                        function loadJQuery(){
+                            var waitForLoad = function () {
+                                if (typeof jQuery != "undefined") {
+                                    // loaded
+
+                                    var deeplinkedPane = $(location).attr('hash');
+                                    readDeeplink(deeplinkedPane);
+
+                                    $(document)
+                                        .on('click', '[data-toggle-pane]', togglePane)
+                                        .on('keypress', '[data-toggle-pane]', togglePane);
+            
+                                    $(document)
+                                        .on('click', '[data-toggle-pane-close]', closePane)
+                                        .on('keypress', '[data-toggle-pane-close]', closePane);
+                                } else {
+                                    // not loaded yet. try again.
+                                    window.setTimeout(waitForLoad, 500);
+                                }
+                            };
+                            window.setTimeout(waitForLoad, 500);   
+                        }
+                        window.onload = loadJQuery;
+            
+                        function togglePane(e) {
+                            if (e.which == '13' || e.type == 'click') {
+                                var $activeButton = $(this);
+                                var $allButtons = $('[data-toggle-pane]');
+                                var $activePane = $('#' + $activeButton.data('toggle-pane'));
+                                var $allPanes = $('.slide-pane');
+                                var $announcement = $('.announcement');
+                                
+                                // ignore currently selected
+                                if ($activeButton.hasClass('active')) return;
+            
+                                // set active classes
+                                $allButtons.removeClass('active');
+                                $activeButton.addClass('active');
+                                $allPanes.removeClass('active');
+                                $activePane.addClass('active');
+            
+                                // hide announcement
+                                $announcement.attr("style", "display: none !important");
+            
+                                //if (/Mobi|Android/i.test(navigator.userAgent)) {
+                                    $(window).scrollTop($activePane.offset().top);
+                                //}
+                            }
+                        }
+            
+                        function closePane(e) {
+                            if (e.which == '13' || e.type == 'click') {
+                                var $introPane = $('#intro.slide-pane');
+                                var $allPanes = $('.slide-pane');
+                                var $allButtons = $('[data-toggle-pane]');
+                                var $announcement = $('.announcement');
+            
+                                $allPanes.removeClass('active');
+                                $allButtons.removeClass('active');
+                                $introPane.addClass('active');
+            
+                                // show announcement
+                                $announcement.show();
+                                $announcement.css({'display':'block'});
+                            }
+                        }
+
+                    function setDeeplink(el) {
+                        // enter key or click
+                        var pane = $(el).data('toggle-pane');
+
+                        // update url
+                        var hash = '#' + pane;
+                        window.history.replaceState('', '', hash);
+                       
+                    }
+
+                    function readDeeplink(pane) {
+                        if (pane.length > 0) {
+                            pane = pane.replace('#','');
+                            var $deeplinkedEl = $('[data-toggle-pane="' + pane + '"]');
+                            if ($deeplinkedEl.length > 0) {
+                               
+                                setTimeout(function () {
+                                    $deeplinkedEl.trigger('click');
+                                }, 250);
+                            }   
+                        }
+                    }
+// ]]></script>
+<style><!--
+                        #main {
+                            padding: 0!important;
+                        }
+            
+                        #main h5 {
+                            padding: 0;
+                            margin: 0;
+                        }
+            
+                        #main h4 {
+                            font-size: 1.7rem;
+                        }
+        
+                        a.home-link:hover,
+                        a.home-link:focus,
+                        a.home-link:active {
+                            text-decoration: none!important;
+                        }
+            
+                        .img-hero {
+                            max-width: 900px;
+                        }
+            
+                        .img-hero img {
+                            max-width: 100%;
+                            height: auto;
+                        }
+            
+                        .img-hero.halfed img {
+                            max-width: 50%;
+                            display: inline-block;
+                            margin: auto;
+                            padding: 0 4rem;
+                        }
+            
+                        .img-hero.full img {
+                            max-width: none;
+                            width: 100%;
+                            height: auto;
+                        }
+                        .goalRecommendation Title {
+                            /* override */
+                            color: #fff;
+                            line-height: 1;
+                        }
+            
+                        ul.links {
+                            font-size: 1.3rem;
+                            font-weight: 600;
+                        }
+            
+                        ul.links > li {
+                            padding: 0.375rem 0;
+                        }
+            
+                        .page {
+                            background-color: #eee;
+                            padding: 0!important;
+                            margin: 0!important;
+                            max-width: 100%!important;
+                        }
+            
+                        .fmi-landing {
+                            display: flex;
+                            flex-wrap: nowrap;
+                            align-items: stretch;
+                            align-content: stretch;
+                            height: 100%;
+                            /*height: 850px;*/
+                        }
+            
+                        .left-pane {
+                            width: 37.5rem;
+                            background-color: rgb(47, 85, 151);
+                            padding: 3rem 3.5rem;
+                            background: 
+                                linear-gradient(
+                                    rgba(47, 85, 151, 0.85), 
+                                    rgba(47, 85, 151, 0.85)
+                                ),
+                                url(/content/attachments/gsa-building.jpg);
+                                background-size: 100%;
+                                background-repeat: no-repeat;
+                        }
+            
+                        .left-pane h2 {
+                            font-size: 2.7rem;
+                            color: #fff;
+                            letter-spacing: .5px;
+                        }
+            
+                        .left-pane h2 > span {
+                            display: block;
+                        }
+            
+                        .left-pane h2 strong {
+                            color: rgb(255, 255, 0);
+                        }
+            
+                        .left-pane hr {
+                            width: 100px;
+                            display: inline-block;
+                            margin: 2.25rem 0 2rem;
+                            border-width: 2px 0 0;
+                            border-color: rgb(255, 255, 0);
+                        }
+            
+                        .left-pane p,
+                        .left-pane p button {
+                            color: #fff;
+                            font-size: 1.3rem;
+                            line-height: 1.5;
+                        }
+            
+                        .left-pane p button {
+                            background: none;
+                            padding: 0;
+                            border-radius: 0;
+                            outline: 0;
+                            border: 0;
+                            display: inline;
+                            text-decoration: underline;
+                        }
+            
+                        .left-pane p button:hover,
+                        .left-pane p button:focus {
+                            color: rgb(255, 255, 0);
+                        }
+            
+            
+                        .left-pane nav h3 {
+                            text-transform: uppercase;
+                            color: #fff;
+                            background: none;
+                            padding: 0;
+                            font-size: 1rem;
+                            letter-spacing: 1px;
+                            font-weight: normal;
+                            margin-bottom: 1rem!important;
+                        }
+            
+                        .left-pane nav ul li > button {
+                            background: none;
+                            padding: 0;
+                            border-radius: 0;
+                            border: 0;
+                            font-size: 2.6rem;
+                            line-height: 1.3;
+                            margin: 0 0 0.75rem 0;
+                            transition: color .2s ease!important;
+                        }
+            
+            
+                        .left-pane nav ul li > button:hover,
+                        .left-pane nav ul li > button:focus,
+                        .left-pane nav ul li > button:active,
+                        .left-pane nav ul li > button.active {
+                            color: rgb(255, 255, 0);
+                        }
+            
+                        .content-pane {
+                            position: relative;
+                            flex: 1; /* stetch width */
+                            background-color: whitesmoke;
+                            min-height: 975px;
+                        }
+            
+                        .slide-pane {
+                            background-color: whitesmoke;
+                            border-top: solid 1px #e2e2e2;
+                            overflow-y: auto;
+                            padding: 1.5rem 5rem 2rem 5rem;
+                            opacity: 0;
+                            display: none;
+                            transform: translate3d(100%, 0, 0);
+                            font-weight: 600;
+                        }
+            
+                        .slide-pane.active {
+                            opacity: 1;
+                            display: block;
+                            transform: translate3d(0, 0, 0)!important;
+                        }
+            
+                        .slide-pane .link-lg {
+                            font-size: 1.4rem;
+                        }
+            
+                        .slide-pane p,
+                        .slide-pane p.lead {
+                            font-size: 1.2rem;
+                            color: rgb(113, 117, 121);
+                            line-height: 1.5!important;
+                        }
+            
+                        .slide-pane p.lead {
+                            color: #333;
+                            font-weight: 700;
+                        }
+            
+                        .announcement {
+                            display: none!important;
+                            text-align: center;
+                            color: #4565FC;
+                            background-color: rgb(217, 224, 255);
+                            padding: 1.25rem 1rem 1.15rem 1rem;
+                        }
+            
+                        .announcement.toggle-on {
+                            display: block!important;
+                        }
+            
+                        .announcement h5 {
+                            font-size: 1.4rem;
+                            color: #4565FC;
+                        }
+            
+                        .announcement p {
+                            margin: 0;
+                            font-size: 1rem;
+                        }
+            
+                        .bread-crumb {
+                            font-size: 1.2rem;
+                            font-weight: 800;
+                            color: rgb(113, 117, 121);
+                        }
+            
+                        .bread-crumb button {
+                            color: #4565FC;
+                            padding: 0;
+                            display: inline;
+                            text-decoration: underline;
+                            font-weight: 800;
+                            padding-right: 5px;
+                        }
+            
+                        .bread-crumb button:hover,
+                        .bread-crumb button:focus {
+                            opacity: 0.7;
+                        }
+            
+                        .card-row {
+                            display: flex;
+                            flex-wrap: wrap;
+                            justify-content: center;
+                        }
+            
+                        .card {
+                            display: flex;
+                            flex: 1 0 0%;
+                            flex-direction: column;
+                            text-align: center;
+                            min-height: 200px;
+                            width: 45%;
+                            max-width: 500px;
+                            margin: 1rem 1.5rem 2rem 1.5rem;
+                            padding: 0 3rem;
+                            border-radius: 12px;
+                            border: solid 1px #eee;
+                            background-color: #fff;
+                            box-shadow: 0px 2px 6px rgb(215, 218, 223);
+                        }
+            
+                        .card-header {
+                            padding: 2rem 0 0 0;
+                        }
+                    
+                        .card-header img {
+                            display: block;
+                            margin: auto;
+                            height: 9rem;
+                        }
+            
+                        .card-title {
+                            padding: 2rem 0;
+                        }
+            
+                        .card-title h5 {
+                            font-size: 1.6rem;
+                            font-weight: 800;
+                            line-height: 1.3;
+                        }
+            
+                        .card-title small {
+                            display: block;
+                            color: #4565FC;
+                            font-size: 1.1rem;
+                            line-height: 1.3!important;
+                            padding: 0 0 0.5rem 0;
+                            font-weight: 600;
+                            text-transform: uppercase;
+                        }
+            
+                        .card-description {
+                            display: -webkit-box;
+                            display: -ms-flexbox;
+                            display: flex;
+                            flex: 1 1 auto;
+                            flex-direction: column!important;
+                           
+                        }
+            
+                        .card-description p {
+                            color: rgb(113, 117, 121);
+                            margin: 0 0 0.5rem 0;
+                        }
+            
+                        .card-description button,
+                        .card-description a.btn {
+                            margin: 0;
+                            margin-top: auto;
+                            color: #4565FC;
+                            font-size: 1.3rem;
+                            font-weight: 700;
+                            padding: 0!important;
+                            line-height: 1.5;
+                        }
+            
+            
+                        .card-description button:hover,
+                        .card-description button:focus {
+                            text-decoration: underline;
+                        }
+                       
+                        /*  - Responsive  -*/
+            
+                        html {
+                            font-size: 11pt!important;
+                        }
+            
+                        /* small desktop */
+                        @media (max-width: 1800px) { 
+                            html {
+                                font-size: 10pt!important;
+                            }
+                        }
+                          
+                        /* tablet */
+                        @media (max-width: 1365px) {
+            
+                            .spacer-0-tablet {
+                                padding: 0!important;
+                            }
+            
+                            html {
+                                font-size: 9pt!important;
+                            }
+            
+                            .fmi-landing {
+                                flex-wrap: wrap;
+                                height: auto;
+                            }
+            
+                            .left-pane {
+                                width: 100%;
+                                padding: 2rem;
+                            }
+            
+                            .left-pane hr {
+                                margin: 1.25rem 0 1rem;
+                            }
+            
+                            .left-pane h1 > span {
+                                display: inline;
+                            }
+            
+                            .slide-pane {
+                                padding: 1.5rem 1.5rem 2rem 1.5rem;
+                            }
+            
+                            .announcement.toggle-on {
+                                color: #fff;
+                                background-color: #4565FC;
+                                border-bottom: solid 1px #fff;
+                            }
+            
+                            .announcement.toggle-on h5,
+                            .announcement.toggle-on p {
+                                color: #fff;
+                            }
+            
+                            .card {
+                                flex: auto;
+                                width: 44%;
+                            }
+            
+                        }
+            
+                        /* phone */
+                        @media (max-width: 699px) {
+                            html {
+                                font-size: 8pt!important;
+                            }
+            
+                            .left-pane h1 {
+                                font-size: 2rem;
+                            }
+            
+                            .left-pane hr {
+                                margin: .5rem 0 .25rem;
+                            }
+            
+                            .left-pane h1 > span {
+                                display: block;
+                            }
+            
+                            .left-pane nav h5 {
+                                margin-bottom: 1rem!important;
+                            }
+            
+                            .left-pane nav ul li > button {
+                                font-size: 2.1rem;
+                            }
+            
+                            .card {
+                                width: 100%!important;
+                            }
+            
+                            .img-hero.halfed img {
+                                max-width: 45%;
+                                padding: 0;
+                            }
+            
+                            .slide-pane {
+                                padding: 1.5rem 2rem 2rem 2rem;
+                            }
+            
+                            .bread-crumb {
+                                font-size: 1.2rem;
+                            }
+                        }
+                        
+                  
+                        /*   Utilities   */
+            
+                        .spacer {
+                            padding-bottom: 2rem;
+                        }
+            
+                        .spacer-025 {
+                            padding-bottom: 0.25rem;
+                        }
+            
+                        .spacer-05 {
+                            padding-bottom: 0.5rem;
+                        }
+            
+                        .spacer-075 {
+                            padding-bottom: 0.75rem;
+                        }
+            
+                        .spacer-1 {
+                            padding-bottom: 1rem;
+                        }
+            
+                        .spacer-15 {
+                            padding-bottom: 1.5rem;
+                        }
+            
+                        .spacer-2 {
+                            padding-bottom: 2rem;
+                        }
+            
+                        .spacer-3 {
+                            padding-bottom: 3rem;
+                        }
+                        
+                        .spacer-4 {
+                            padding-bottom: 4rem;
+                        }
+            
+                        .spacer-5 {
+                            padding-bottom: 5rem;
+                        }
+--></style>
+<!-- End Content Block -->
+        </div>
+        <div class="push"></div>
+    </div>
+    <div id="footer">
+        <div class="row">
+<style><!--
+  #footer {
+    background: #bacae0;
+  }
+
+  #footer .footer-btn {
+    background-color: #bacae0;
+    border: solid 2px #282729;
+  }
+
+  #footer .footer-btn:hover {
+    background-color: #eee;
+    border-color: #eee;
+  }
+
+  #footer li, #footer a, #footer div, #footer span {
+    color: #282729;
+  }
+
+  #footer h4, #footer h5, #footer .h4, #footer .h5 {
+    color: #000000;
+    font-size: 1.23em;
+    clear: both;
+  }
+
+  #footer a:hover,
+  #footer a.gsa:hover,
+  #footer #stayConnected ul li a:hover {
+    color: #125087 !important;
+  }
+
+#footer large-offset-1 {
+  margin-left:7%;
+}
+
+@media (max-width: 800px) {
+  #footer-resources li a {
+    font-size: 1.3em;
+    padding: 0 3px;
+  }
+}
+--></style>
+<h2><span class="sr-only">Footer Section</span></h2>
+<h3 style="background: transparent; padding: 0;"><span class="sr-only">Footer Content</span></h3>
+<div class="col-sm-4 col-sm-offset-1 large-4 large-offset-1 columns">
+<ul class="footer-links text-left list-unstyled">
+<li class="tm0">
+<h4 class="h5 m0" style="color: #000000;">Navigation</h4>
+</li>
+<li><a href="/">Home</a></li>
+<li><a href="/home/about">About</a></li>
+<li><a href="/learn">Learn</a></li>
+<li><a href="/plan">Plan</a></li>
+<li><a href="/Explore">Explore</a></li>
+<li><a href="/greenprocurement">Procure</a></li>
+<li><a href="/Assess">Assess</a></li>
+<li><a href="/share">Share</a></li>
+</ul>
+</div>
+<div class="col-sm-3 large-3 columns text-left lp3 lPad3">
+<ul class="footer-links list-unstyled">
+<li class="tm0">
+<h4 class="h5 m0" style="color: #000000;">Resources</h4>
+</li>
+<li><a href="/home/about">Helpful Tools</a></li>
+<li><a href="/green-guidance">User Guides</a></li>
+<li><a href="/developer">Developer</a></li>
+<li><a href="/home/sitemap">Sitemap</a></li>
+<li><a href="http://get.adobe.com/reader/" target="_blank" title="Download Adobe Reader">Adobe Reader<span><img alt="non government site opens in new window" src="/Content/Images/Icons/external-link.png" /></span> </a></li>
+</ul>
+</div>
+<div class="col-sm-3 col-sm-offset-1 large-3 large-offset-1 columns">
+<div class="social-wrap text-left">
+<div id="providedBy" style="width: 100%;">
+<h4 class="h5 hidden-xs hide-for-small tm0" style="color: #000000;">Provided By</h4>
+<ul class="list-unstyled">
+<li> <a target="_blank" class="gsa" href="http://www.gsa.gov" title="U.S. General Services Administration"> <span></span> <span style="top: 38px; overflow: visible; position: absolute; left: 71px; line-height: 1; font-size: 13px;"><br /><br />U.S. General Services Administration<span><img alt="opens in new window" src="/Content/Images/Icons/new-window.png" /></span></span></a> </li>
+</ul>
+</div>
+<div id="stayConnected">
+<h4 class="h5 hidden-xs hide-for-small" style="color: #000000;">Stay Connected</h4>
+<ul class="list-unstyled bm2 bMargin2">
+<li class="facebook-icon"><a href="http://www.facebook.com/sftool" target="_blank" title="SFTool on Facebook"><span><img alt="non government site opens in new window" src="/Content/Images/Icons/external-link.png" /></span></a></li>
+<li class="twitter-icon"><a href="http://twitter.com/sftool" target="_blank" title="SFTool on Twitter"><span><img alt="non government site opens in new window" src="/Content/Images/Icons/external-link.png" /></span></a></li>
+<li class="pinterest-icon"><a href="http://pinterest.com/sftool/" target="_blank" title="SFTool on Pinterest"><span><img alt="non government site opens in new window" src="/Content/Images/Icons/external-link.png" /></span></a></li>
+</ul>
+</div>
+<a href="/home/contact" class="footer-btn tiny button" style="margin-bottom: 10px; display: block; max-width: 200px;"> <span style="vertical-align: 2px;">Contact</span><svg aria-hidden="true" height="14.67" width="14.6" style="margin-left: 6px; display: inline-block;">
+<path xmlns="http://www.w3.org/2000/svg" style="fill: #282729; fill-opacity: 1; stroke: #282729; stroke-width: 0.00818766; stroke-opacity: 1;" id="path905" d="m 14.595906,6.2767708 v 6.5368772 q 0,0.543393 -0.38271,0.93029 -0.38271,0.386968 -0.920129,0.386968 H 1.3069342 q -0.53742161,0 -0.92013098,-0.386968 -0.38270939,-0.386897 -0.38270939,-0.93029 V 6.2767708 Q 0.36237497,6.6801859 0.82651184,6.9930355 3.7741882,9.0182989 4.8734598,9.8333894 5.3375966,10.179132 5.6266644,10.372616 5.9157321,10.5661 6.3961545,10.767772 6.876577,10.969515 7.2918572,10.969515 h 0.016286 q 0.4152802,0 0.8957027,-0.201743 Q 8.6842682,10.5661 8.973336,10.372616 9.2624042,10.179132 9.7265405,9.8333894 11.110808,8.8207209 13.781631,6.9930355 14.245767,6.6719984 14.595906,6.2767708 Z m 0,-2.4204192 q 0,0.6504055 -0.398994,1.2431392 Q 13.797916,5.6922963 13.203495,6.1121584 10.14182,8.2608809 9.3926871,8.7878272 9.3112556,8.8452834 9.0466204,9.0389113 8.7819809,9.2323954 8.6069118,9.3517609 8.4318426,9.4711265 8.1834887,9.6192922 7.9351347,9.7675294 7.7152804,9.8415754 7.495426,9.9156954 7.3081429,9.9156954 h -0.016286 q -0.1872831,0 -0.4071375,-0.07412 Q 6.6648653,9.7675304 6.4165114,9.6192922 6.1681576,9.4711265 5.9930884,9.3517609 5.8180193,9.2323954 5.5533798,9.0389113 5.2887404,8.8454272 5.2073128,8.7878272 4.4663223,8.2608809 3.0739117,7.2853445 1.681501,6.3097363 1.4046475,6.1121584 0.89979675,5.7663431 0.45194542,5.1612563 0.00409383,4.5561695 0.00409383,4.0374826 q 0,-0.6421462 0.33792421,-1.0702676 Q 0.67994224,2.5390937 1.3069342,2.5390937 H 13.293067 q 0.529278,0 0.916058,0.3869683 0.386781,0.3868965 0.386781,0.9302896 z"></path></svg></a> <a href="/feedback/new" class=" footer-btn tiny button" style="margin-bottom: 10px; display: block; max-width: 200px;"><span style="vertical-align: 2px;"> Give Feedback </span> <svg aria-hidden="true" height="16" width="16.139999" style="margin-left: 6px; display: inline-block;">
+<path xmlns="http://www.w3.org/2000/svg" style="stroke-width: 0.00883239; fill: #282729; fill-opacity: 1; stroke: #282729; stroke-opacity: 1;" id="path825" d="m 11.314286,7.3007024 q 0,1.34942 -0.755357,2.49496 -0.7553576,1.1455496 -2.0611611,1.8105496 -1.3058036,0.665 -2.840625,0.665 -0.6910715,0 -1.4142858,-0.15532 -0.9964285,0.8543 -2.2339285,1.24263 -0.2892857,0.0874 -0.6910715,0.15532 H 1.29375 q -0.088393,0 -0.1647321,-0.0777 -0.076339,-0.0777 -0.092411,-0.20387 -0.00804,-0.0291 -0.00804,-0.0631 0,-0.034 0.00402,-0.0631 0.00402,-0.0291 0.016071,-0.0583 l 0.020089,-0.0485 0.028125,-0.0534 0.032143,-0.0485 0.036161,-0.0485 0.032143,-0.0437 q 0.040179,-0.0583 0.1848215,-0.2427 0.1446428,-0.18446 0.2089285,-0.28639 0.064286,-0.10194 0.1808036,-0.28153 0.1165179,-0.1796 0.2008929,-0.37376 0.084375,-0.19416 0.1647321,-0.42716 Q 1.1410689,10.494652 0.57053321,9.4753124 0,8.4559624 0,7.3007124 q 0,-1.34942 0.75535714,-2.49497 0.75535716,-1.14555 2.06116076,-1.81055 1.3058035,-0.665 2.840625,-0.665 1.5348214,0 2.840625,0.665 1.3058035,0.665 2.0611611,1.81055 0.755357,1.14555 0.755357,2.49497 z M 14.4,9.7859624 q 0,1.1649596 -0.570536,2.1794496 -0.570535,1.01449 -1.566964,1.71347 0.08036,0.23299 0.164732,0.42715 0.08437,0.19417 0.200893,0.37376 0.116518,0.1796 0.180804,0.28154 0.06429,0.10193 0.208928,0.28638 0.144643,0.18446 0.184822,0.24271 0.008,0.01 0.03214,0.0437 0.02411,0.034 0.03616,0.0485 0.01205,0.0146 0.03214,0.0485 0.02009,0.034 0.02813,0.0534 l 0.02009,0.0485 0.01607,0.0582 0.004,0.0631 -0.008,0.0631 q -0.02411,0.13591 -0.104464,0.21358 -0.08036,0.0777 -0.176786,0.0679 -0.401786,-0.0679 -0.691072,-0.15533 -1.2375,-0.38832 -2.233928,-1.24263 -0.7232144,0.15533 -1.4142859,0.15533 -2.1776785,0 -3.7928571,-1.28146 0.4660714,0.0388 0.7071429,0.0388 1.29375,0 2.4830357,-0.43686 1.1892857,-0.43686 2.1214284,-1.25234 1.004464,-0.89313 1.542857,-2.0580996 0.538393,-1.16496 0.538393,-2.46584 0,-0.74752 -0.184821,-1.47562 1.036607,0.68927 1.639285,1.72803 0.602679,1.03876 0.602679,2.23285 z"></path></svg></a></div>
+</div>
+<div><a href="https://gsa.gov/">GSA.gov<span><img alt="opens in new window" src="/Content/Images/Icons/new-window.png" /></span> </a> | 							<a href="https://www.usa.gov/">USA.gov<span><img alt="opens in new window" src="/Content/Images/Icons/new-window.png" /></span> </a> | 							<a href="/home/accessibilityaids">Accessibility </a> | 							<a href="/home/privacypolicy" title="Privacy Policy">Privacy Policy</a> | <a href="/learn/about/566" title="Web Policies and Important Links">Web Policies</a></div>
+
+
+    <p>
+
+    </p>
+
+
+
+
+
+        </div>
+    </div>
+
+    
+    
+    <script src="/Scripts/jquery/jquery-3.4.1.js"></script>
+
+    <script src="https://code.jquery.com/jquery-migrate-3.0.1.min.js" integrity="sha256-F0O1TmEa4I8N24nY0bya59eP6svWcshqX1uzwaWC4F4=" crossorigin="anonymous"></script>
+  
+<script src="/Scripts/jquery-ui/jquery-ui-autocomplete.js"></script>
+<script src="/Scripts/jquery-tools/jquery-tools.tabs-tips-scroll.js"></script>
+<script src="/Scripts/misc/jRespond.js"></script>
+<script src="/Scripts/sftool/sftool.js"></script>
+<script src="/Scripts/megamenu/mgmenu.js"></script>
+<script src="/Scripts/megamenu/mgmenu_plugins.js"></script>
+<script src="/Scripts/sftool/site-menu.js"></script>
+<script src="/Scripts/jquery/jquery.placeholder.js"></script>
+<script src="/Scripts/slicknav/jquery.slicknav.js"></script>
+<script src="/Scripts/foundation/foundation.js"></script>
+<script src="/Scripts/foundation/foundation.dropdown.js"></script>
+<script src="/Scripts/foundation/foundation.reveal.js"></script>
+
+    
+
+    <script type="text/javascript">
+		$(function() {
+            //Project Menu -- To Backbone!
+            window.SfTool.activeProjectId = false;
+
+            $('#projectNav--Link').on('click', function(e) {
+                if (!window.SfTool.activeProjectId) return; // We don't want to prevent the bubble if there isn't a menu.
+                e.preventDefault();
+                var $this = $(this),
+                    $target = $($this.attr('data-target')),
+                    width = $target.width();
+                position = $this.position();
+                $target.css('top', position.top + 12 + 'px')
+                    .css('right', 0 + 'px');
+                $target.toggle();
+            });
+
+            $("#projectNav").on("click", '.removeMaterialLink', function(e) {
+                e.preventDefault();
+                var $this = $(this),
+                    href = $this.attr("href"),
+                    materialId = $this.attr('data-material-id');
+                //We know we are removing the material so isAdd is false
+                //and we also know that we don't use the material name when we are removing...
+                window.SfTool.MaterialAction(false, '', window.SfTool.activeProjectId, materialId, href);
+            });
+
+            //END Project Menu
+
+            // has to be down here bc the <span> injection can mess up the existing javascript.
+            var searchTerm = window.SfTool.getParameterByName('hw');
+            if (typeof searchTerm === 'string') {
+                // oh goodness this prefix is such a stupid hack
+                // but just accept it.  seriously.  it harms nobody.
+                searchTerm = "?h=" + searchTerm;
+                window.SfTool.localSearchHighlight(searchTerm);
+            };
+
+            /*
+            * Autocomplete
+           */
+                    
+                        window.SfTool.initializeAutocomplete("#siteSearch input:text", "/content/json/autocomplete_sftool.json");
+                    
+
+
+            /*
+             * Some stuff that was in sftool.js, but doesn't belong there because it's not library code.
+             */
+            $('.CRUDMsg').fadeOut(2000, function () {
+                // Animation complete.
+            });
+
+            // input placeholders
+            $('input').placeholder();
+        });
+
+        // registers media breakpoints for jScript
+        var jRes = jRespond([
+        {
+            label: 'mobile',
+            enter: 0,
+            exit: 361
+        },
+        {
+            label: 'tablet',
+            enter: 0,
+            exit: 800
+        },
+        {
+            label: 'tablet-alt',
+            enter: 768,
+            exit: 800
+        },
+        {
+            label: 'desktop',
+            enter: 801,
+            exit: 10000
+        }]);
+
+        // initializes foundation plugins
+        $(document).foundation();
+    </script>
+    
+    
+</body>
+</html>

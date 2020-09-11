@@ -1,0 +1,29 @@
+User-agent: BLP_bbot/0.1
+Disallow: /
+User-agent: BLP_bbot
+Disallow: /
+User-agent: *
+# Directories
+Disallow: /App_Data/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /ClientBin/
+Disallow: /Custom/
+Disallow: /Mobile
+Disallow: /MVC/
+Disallow: /obj/
+Disallow: /Properties/
+# Paths (clean URLs)
+Disallow: /Service References/
+Disallow: /Services/
+Disallow: /Sitefinity/
+Disallow: /Template/
+# Files
+Disallow: /*.config
+Disallow: /*.cs
+Disallow: /*.css
+Disallow: /*.js
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /UPGRADE.txt
+Disallow: /Module*.zip

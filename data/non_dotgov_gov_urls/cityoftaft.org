@@ -1,0 +1,444 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Official Website
+</title>
+
+
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+<link href="/clientcommon/scripts/jquery/base/ui.core.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 991px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" /><link href="common/css/design.css" rel="stylesheet" />
+
+
+ 
+ 
+
+
+    <style>
+
+
+        .itemDate, .breadCrumb, .breadCrumb a{
+            color: #404040!important;
+        }
+
+          .pageLeftNoHigh span, .pageLeftNoHigh p, .pageLeftNoHigh td, .pageLeftNoHigh, .pageLeftHigh, .pageLefHigh div, .pageLeftNoHigh div, .pageLeftHigh div span, .pageLeftNoHigh div span,
+    .pageLeftHigh span, .pageLeftHigh p, .pageLeftHigh td 
+    {
+        
+        font-size: 1rem!important;
+        font-family: Arial!important;
+        line-height: 1.5!important;
+   
+    }
+      
+
+        @media (min-width: 1500px) {.container {
+    max-width: 1440px;
+}
+}
+       </style>
+
+             
+
+
+   
+       <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+
+   
+
+ <link href="/WebResource.axd?d=rgiAmwuUVRJtly34k_TBfm8kBrRV4vAz1upYjRV4BJLf9y5nsFnTRUC5WErVGNhgaH5Z-D4VeM0RrAwJXNy4EQ2pj6KJ8d_t9BG0_nYZqcIOzJEaPiNQp8v3FqUqEnJ6nbe5m40C6WCzNNLKwzCxXlXjBIgx86dJ0PZSNmBaO2I1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=-tz_OHBXC1t1lKNbxWS4UbLNghFIR1_dZUYum9R7z8sfFXQZft21BOatkoQtdR9oN1GDjc1aCsjY8hpr2AZ2oDHUMbGQN4bOHz9HH6QfGs0UBi1A-tOiho3hhRl5T5YuAoRSWhJntgTBeBDAD1-zOw2&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=bnkLoFMJAolUrIEWe6NVqwEt4UeW1vy_epZ77PPoLQ6H3WPVGLITEZfNDRm5eO5TBoJcHsMj7TwhKpIru_4dqWfyu7iz_tCEOx_nv6QMEpDiAY1rO3USoHbs6-Uip8ZXlAcgbFTQN6bthL5KTnyc9qBi41PezF6v1E9Wql0JXtw1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body>
+
+    <div class="skipnav" style="background-color: #000000;"><a href="#maincontent">Skip to main content</a></div>
+
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgMPZBYMAgYPFgIeBFRleHQF1wI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL3B2aWV3LmFzcHg/aWQ9NTY3NSZhbXA7Y2F0aWQ9NTYyIj5DcmltZSBNYXBwaW5nPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvcHZpZXcuYXNweD9pZD01MzkxJmFtcDtjYXRpZD01NjIiPkZpbmFuY2UgRGVwYXJ0bWVudDwvYT48L2Rpdj48ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL3B2aWV3LmFzcHg/aWQ9NTM3NyZhbXA7Y2F0aWQ9NTYyIj5IdW1hbiBSZXNvdXJjZXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0ic2lkZUl0ZW0iPjxhIGhyZWY9ImJpZHMuYXNweCI+QmlkIE9wcG9ydHVuaXRpZXM8L2E+PC9kaXY+ZAIJDw8WCB4VRW5hYmxlRW1iZWRkZWRTY3JpcHRzZx4cRW5hYmxlRW1iZWRkZWRCYXNlU3R5bGVzaGVldGceElJlc29sdmVkUmVuZGVyTW9kZQspclRlbGVyaWsuV2ViLlVJLlJlbmRlck1vZGUsIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjAuMi42MTcuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNAEeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGRkAgoPFgIfAAWtATxhIGhyZWY9Imh0dHBzOi8vY2l0eW9mdGFmdC5vcmcvbm90Zm91bmQuYXNweD9wcmludD0xIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB2c3BhY2U9IjciIHNyYz0iL2NsaWVudGNvbW1vbi9pbWFnZXMvcHJpbnQuZ2lmIiAgYm9yZGVyPSIwIiBhbHQ9IlByaW50ZXIgRnJpZW5kbHkgVmVyc2lvbiIgLz48L2E+ZAILD2QWAgIBDw8WAh8ABQ5QYWdlIE5vdCBGb3VuZGRkAgwPFgIfAAWMBDxkaXYgc3R5bGU9ImxpbmUtaGVpZ2h0OjEuNjsiPjxzcGFuIGNsYXNzPSJmb290ZXJOYW1lIj5DaXR5IG9mIFRhZnQ8L3NwYW4+PGJyIC8+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+MjA5IEUuIEtlcm4gU3Q8L3NwYW4+PHNwYW4gY2xhc3M9Im1vYmlsZURpdiI+IFRhZnQsIENBIDkzMjY4PC9zcGFuPjxicj5QaG9uZTogKDY2MSkgNzYzLTEyMjImbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7IDxzcGFuIHN0eWxlPSIgd2hpdGUtc3BhY2U6IG5vd3JhcDsiPkZheDogKDY2MSkgNzY1LTI0ODA8L3NwYW4+PC9kaXY+PGEgaHJlZj0iL2RlZmF1bHQuYXNweCI+SG9tZTwvYT4mbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3N0YWZmLmFzcHgiPkNvbnRhY3QgVXM8L2E+Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9zaXRlbWFwLmFzcHgiPlNpdGUgTWFwPC9hPiZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDs8YSBocmVmPSIvdGVybXNvZnVzZS5hc3B4Ij5BY2Nlc3NiaWxpdHk8L2E+Jm5ic3A7Jm5ic3A7ZAINDxYCHwAFhwQ8YSBocmVmPSIvbm90aWZ5LmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zZW5ld3MucG5nIiBhbHQ9IkUtbm90aWZ5IiBzdHlsZT0iYm9yZGVyOiAwOyI+PC9hPiZuYnNwOzxhIGhyZWY9Ii9yc3MuYXNweCI+PGltZyBzcmM9Ii9jb21tb24vaW1hZ2VzLzNyc3MucG5nIiBhbHQ9IlJTUyBGZWVkcyIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL2NpdHlvZnRhZnQiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM3R3aXR0ZXIucG5nIiBhbHQ9IlR3aXR0ZXIiIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL0NpdHktT2YtVGFmdC1DYWxpZm9ybmlhLTUxNzk1NDA3NDkxNjgyMS8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2ZhY2Vib29rLnBuZyIgYWx0PSJGYWNlYm9vayIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDtkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBQ9jdGwwMCRpbWdTZWFyY2gFDGN0bDAwJHJTaGFyZQrpC2TIuGjkflKP5gY1k34JwI32A6DFOyifdW2RKZMP" />
+
+
+<script src="/ScriptResource.axd?d=_tCDzD9I8TC20JVn1a3S8NzJFXQcrxuaRd9yf68k8KwUAWlLf08ITKKEdBuBwKf3OSz7hb9_cg5sFreZF9KB4aocPFXZqchHgRvjrb_UdblASsOtVcK17p_MXzopl-wzhfYG_b0zAolTbl9riirrG-iX02uGBaoyHcYPsJitZ3wNZ-cKLeknn-qiHPboLRe60&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=NjBoAjrCUrl9PfXrS3fR4JIwFpuKWOKZ9Ar_g1lDIuSu--rgaoKkM-3Z3t2ZBDJgE2TvSBBW2O8gZnt1FrD_6ITpXM5AlY1F6U1gTqKGSW1455sQQJn7e-rL1okKylCpNQRoXuIGz1qdj7B2zdbuAw2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XHrXgiYxyJaPe7Hf7jc-q9x6rFYlwe8DcMAB_OZ9oxY7JhH1OMP4gnIVD37PZ8zeayHvJQRpYtldJDpZpK7tC6pJHw1J4rmvYoTwAliNrX49QBXh5VMRK8aJFeIXR7E4O2FBnBHDCdSn3KaORSvAOQ2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZpaWEqxrk6TymfOl2JGHTzHMwHZlOUUG3vQHdDhSXj1C4nu80kboF8QURAyK8dUAJfVJnrYymzH-fCBAV6ByGAH85EMBFrp6z4rb5yQ8WParOPL7GU1wLqAgZYpEZvPzzFo9wxni8-a1u_SNFI8MHg2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vK-9smGclMXQCSLoJQ8l0xteYJzbGqHJfk6i1QgjTX0DWgeXgK9DYG_IquIAvgJz0zZdsqJtikZGAFVQ200Vv5C_Ev9LTZvmCZ-5ZFAjzhWhNqiux41_OF4WkDyKet9-wiXVUKj8H_0jQ8gqTKvaUaTe6IUyzIOE8sODm8soiiIbARbhXKlUkRFDQHVX3AjF0&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0v5P3lDwVbJqanm_KOCXXBg6xf3RwnP0i2kiuA-VKTJmhOE_fbs2BSFiqCVNlPlDTsBd26RCT-C1C-d_1h6mO-vGfemXJAI9kMx9vXmp1KazUwcuCWaYuRQ04o6A0NDhFrOJEdi3Ix_pQGchISGjP29f4Ci1EqjKnXjMxWQ9_w01&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=UFR8dyrpzrHtRiJbomhEziehvkVdAJapELShiYFZ67DZdP3KKI_bCBrkdXygTFnmFES_JpGgztKkKHpQedGGF64x524aRc7AHbYuXIerJBiVerBeBweCrHm-8dRQtLDrgCMH2GY5waIX6OsvrqV0W_Rob9zWBmqoQdOY_rnC_dY1&amp;t=3322f07f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZ8uHn4/MXamadurILdFyvw4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75Uq6b82U3qWc4Sioii/GCAQJuokrRyEgOs1HVW5z71xjQ==" />
+
+          
+
+      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5171&catid=561">City Government</a></div><div class="mobileMenuItemR" id="mm561">+</div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5998&catid=561">City Council</a></div><div class="mobileMenuItemRS" id="mm5615998">+</div></div><div class="mobileMenuItemSubS sm5615998"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9632&catid=561">Agendas, Minutes & Videos</a></div></div><div class="mobileMenuItemSubS sm5615998"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6997&catid=561">History</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6340&catid=561">City Attorney</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22262&catid=561">City Clerk</a></div><div class="mobileMenuItemRS" id="mm56122262">+</div></div><div class="mobileMenuItemSubS sm56122262"><div class="mobileMenuItemL"><a href="/pview.aspx?id=30428&catid=561">Council Appointments to Boards and Commissions</a></div></div><div class="mobileMenuItemSubS sm56122262"><div class="mobileMenuItemL"><a href="/pview.aspx?id=31949&catid=561">Grand Jury Reports</a></div></div><div class="mobileMenuItemSubS sm56122262"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33891&catid=561">SB 272</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5397&catid=561">City Treasurer</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5359&catid=561">Boards and Commissions</a></div><div class="mobileMenuItemRS" id="mm5615359">+</div></div><div class="mobileMenuItemSubS sm5615359"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5360&catid=561">Planning Commission</a></div></div><div class="mobileMenuItemSubS sm5615359"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5924&catid=561">Taft Oversight Board</a></div><div class="mobileMenuItemRS3" id="mm5615924">+</div></div><div class="mobileMenuItemSubS3 sm5615924"><div class="mobileMenuItemL"><a href="/pview.aspx?id=11387&catid=561">Agendas</a></div></div><div class="mobileMenuItemSubS3 sm5615924"><div class="mobileMenuItemL"><a href="/pview.aspx?id=11388&catid=561">Oversight Board Resolutions</a></div></div><div class="mobileMenuItemSubS3 sm5615924"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10438&catid=561">Recognized Obligation Payment Schedules (ROPS)</a></div></div><div class="mobileMenuItemSubS3 sm5615924"><div class="mobileMenuItemL"><a href="/pview.aspx?id=11390&catid=561">Required Items</a></div></div><div class="mobileMenuItemSubS sm5615359"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5922&catid=561">Taft Public Financing Authority</a></div><div class="mobileMenuItemRS3" id="mm5615922">+</div></div><div class="mobileMenuItemSubS3 sm5615922"><div class="mobileMenuItemL"><a href="/pview.aspx?id=43168&catid=561">Agenda and Minutes</a></div></div><div class="mobileMenuItemSubS sm5615359"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5923&catid=561">Taft Public Improvement Corporation</a></div><div class="mobileMenuItemRS3" id="mm5615923">+</div></div><div class="mobileMenuItemSubS3 sm5615923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56224&catid=561">Agendas and Minutes</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5961&catid=561">City Organizational Chart</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5913&catid=561">Municipal Code</a></div><div class="mobileMenuItemRS" id="mm5615913">+</div></div><div class="mobileMenuItemSubS sm5615913"><div class="mobileMenuItemL"><a href="/pview.aspx?id=8577&catid=561">Zoning Ordinance</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5405&catid=561">Document Center</a></div></div><div class="mobileMenuItemSub sm561"><div class="mobileMenuItemL"><a href="/pview.aspx?id=40512&catid=561">Public Hearing Notices</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5172&catid=562">Departments</a></div><div class="mobileMenuItemR" id="mm562">+</div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5372&catid=562">Administration - City Manager</a></div><div class="mobileMenuItemRS" id="mm5625372">+</div></div><div class="mobileMenuItemSubS sm5625372"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5373&catid=562">City Clerk</a></div><div class="mobileMenuItemRS3" id="mm5625373">+</div></div><div class="mobileMenuItemSubS3 sm5625373"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9633&catid=562">Agendas, Minutes & Videos</a></div></div><div class="mobileMenuItemSubS3 sm5625373"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5374&catid=562">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSubS3 sm5625373"><div class="mobileMenuItemL"><a href="/pview.aspx?id=7027&catid=562">History</a></div></div><div class="mobileMenuItemSubS sm5625372"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5375&catid=562">City Manager</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5380&catid=562">Animal Shelter</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5391&catid=562">Finance Department</a></div><div class="mobileMenuItemRS" id="mm5625391">+</div></div><div class="mobileMenuItemSubS sm5625391"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5746&catid=562">Business Licenses</a></div></div><div class="mobileMenuItemSubS sm5625391"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5760&catid=562">Financial Reports</a></div></div><div class="mobileMenuItemSubS sm5625391"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5753&catid=562">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6892&catid=562">Fire Department</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22269&catid=562">Housing Programs</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5377&catid=562">Human Resources</a></div><div class="mobileMenuItemRS" id="mm5625377">+</div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5378&catid=562">Job Openings</a></div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5732&catid=562">Job Specifications</a></div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5704&catid=562">Memorandum of Understanding (MOU's)</a></div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5683&catid=562">Policies and Procedures</a></div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5613&catid=562">City Employees Site</a></div><div class="mobileMenuItemRS3" id="mm5625613">+</div></div><div class="mobileMenuItemSubS3 sm5625613"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9781&catid=562">Employee Assistance Program (EAP)</a></div></div><div class="mobileMenuItemSubS3 sm5625613"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5881&catid=562">Employee Handbook</a></div></div><div class="mobileMenuItemSubS3 sm5625613"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5891&catid=562">Policies and Procedures</a></div></div><div class="mobileMenuItemSubS sm5625377"><div class="mobileMenuItemL"><a href="/pview.aspx?id=11841&catid=562">City of Taft Classification Salary Matrix</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5355&catid=562">Planning and Development</a></div><div class="mobileMenuItemRS" id="mm5625355">+</div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=34671&catid=562">Americans with Disabilities Act (ADA) Transition Plan</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5393&catid=562">Building Department</a></div><div class="mobileMenuItemRS3" id="mm5625393">+</div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5626&catid=562">Application Requirements</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10002&catid=562">Building Permit Application</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=40170&catid=562">Building Safety Brochures</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5395&catid=562">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5630&catid=562">Is a Permit Required?</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5625&catid=562">Permit Application Process</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=38626&catid=562">Subdivision and Engineering Standards</a></div></div><div class="mobileMenuItemSubS3 sm5625393"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5629&catid=562">Working Without Permits</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5358&catid=562">Economic Development</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=7699&catid=562">Housing Element</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6293&catid=562">Planning Applications &amp; Tools</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6973&catid=562">Taft General Plan</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6975&catid=562">Taft Subdivision Ordinance</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9489&catid=562">Zoning Map</a></div></div><div class="mobileMenuItemSubS sm5625355"><div class="mobileMenuItemL"><a href="/pview.aspx?id=7660&catid=562">Zoning Ordinance</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5379&catid=562">Police Department</a></div><div class="mobileMenuItemRS" id="mm5625379">+</div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5614&catid=562">Code Enforcement</a></div><div class="mobileMenuItemRS3" id="mm5625614">+</div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5615&catid=562">Abandoned Cars</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5619&catid=562">Graffiti</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5621&catid=562">Illegal Dumping</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5618&catid=562">Junk, Litter And Debris</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5617&catid=562">Parking</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5616&catid=562">Property Maintenance</a></div></div><div class="mobileMenuItemSubS3 sm5625614"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5620&catid=562">Vacant Property</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5677&catid=562">Common questions</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5675&catid=562">Crime Mapping</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5672&catid=562">History</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56230&catid=562">Jail Facility / Type 1</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56228&catid=562">Policies &amp; Procedures / Training Standards</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5761&catid=562">Resources</a></div></div><div class="mobileMenuItemSubS sm5625379"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5410&catid=562">Submit a Crime Tip</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5362&catid=562">Public Works</a></div><div class="mobileMenuItemRS" id="mm5625362">+</div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32094&catid=562">Encroachment Permit</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=34695&catid=562">Filming</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5369&catid=562">Refuse and Recycling</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5603&catid=562">Report a Concern</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5368&catid=562">Sewer</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5367&catid=562">Streets</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=38631&catid=562">Subdivision and Engineering Standards</a></div></div><div class="mobileMenuItemSubS sm5625362"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5366&catid=562">Veteran's Park</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=13112&catid=562">Records Administration</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5385&catid=562">Taft Area Transit</a></div><div class="mobileMenuItemRS" id="mm5625385">+</div></div><div class="mobileMenuItemSubS sm5625385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5764&catid=562">ADA/Senior Application Forms</a></div></div><div class="mobileMenuItemSubS sm5625385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5816&catid=562">Brochures</a></div></div><div class="mobileMenuItemSubS sm5625385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5721&catid=562">Bus Passes</a></div></div><div class="mobileMenuItemSubS sm5625385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26094&catid=562">Title VI Notice to Public</a></div><div class="mobileMenuItemRS3" id="mm56226094">+</div></div><div class="mobileMenuItemSubS3 sm56226094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26098&catid=562">Title VI Complaint Form</a></div></div><div class="mobileMenuItemSubS3 sm56226094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26096&catid=562">Title VI Complaint Procedure</a></div></div><div class="mobileMenuItemSubS3 sm56226094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26095&catid=562">Title VI Notice to Public</a></div></div><div class="mobileMenuItemSub sm562"><div class="mobileMenuItemL"><a href="/pview.aspx?id=6751&catid=562">Taft Modified Community Correctional Facility (MCC</a></div><div class="mobileMenuItemRS" id="mm5626751">+</div></div><div class="mobileMenuItemSubS sm5626751"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33988&catid=562">Prison Rape Elimination Act (PREA)</a></div><div class="mobileMenuItemRS3" id="mm56233988">+</div></div><div class="mobileMenuItemSubS3 sm56233988"><div class="mobileMenuItemL"><a href="/pview.aspx?id=34098&catid=562">Prison Rape Elimination Act (PREA) - Reports</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5173&catid=563">Residents</a></div><div class="mobileMenuItemR" id="mm563">+</div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5920&catid=563">Businesses Serving our Community</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5407&catid=563">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5623&catid=563">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5538&catid=563">Get e-Notifications</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22269&catid=563">Housing Programs</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5398&catid=563">Local Utilities</a></div><div class="mobileMenuItemRS" id="mm5635398">+</div></div><div class="mobileMenuItemSubS sm5635398"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18730&catid=563">SoCalGas Assistance Programs</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5911&catid=563">Local, State and Federal Representatives</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56233&catid=563">Online Payment System</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37093&catid=563">Recreational Vehicle (RV) Dump Site</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5756&catid=563">Refuse Service</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5403&catid=563">Report a Concern</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5399&catid=563">Schools</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32339&catid=563">Streets</a></div></div><div class="mobileMenuItemSub sm563"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5385&catid=563">Taft Area Transit</a></div><div class="mobileMenuItemRS" id="mm5635385">+</div></div><div class="mobileMenuItemSubS sm5635385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5764&catid=563">ADA/Senior Application Forms</a></div></div><div class="mobileMenuItemSubS sm5635385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5816&catid=563">Brochures</a></div></div><div class="mobileMenuItemSubS sm5635385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5721&catid=563">Bus Passes</a></div></div><div class="mobileMenuItemSubS sm5635385"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26094&catid=563">Title VI Notice to Public</a></div><div class="mobileMenuItemRS3" id="mm56326094">+</div></div><div class="mobileMenuItemSubS3 sm56326094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26098&catid=563">Title VI Complaint Form</a></div></div><div class="mobileMenuItemSubS3 sm56326094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26096&catid=563">Title VI Complaint Procedure</a></div></div><div class="mobileMenuItemSubS3 sm56326094"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26095&catid=563">Title VI Notice to Public</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5174&catid=564">Visitors</a></div><div class="mobileMenuItemR" id="mm564">+</div></div><div class="mobileMenuItemSub sm564"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5407&catid=564">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm564"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37093&catid=564">Recreational Vehicle (RV) Dump Site</a></div></div><div class="mobileMenuItemSub sm564"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5402&catid=564">Taft Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm564"><div class="mobileMenuItemL"><a href="/pview.aspx?id=7269&catid=564">Taft History</a></div></div><div class="mobileMenuItemSub sm564"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5383&catid=564">Taft's Historic Fort</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5175&catid=565">Business</a></div><div class="mobileMenuItemR" id="mm565">+</div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5406&catid=565">Bid Opportunities</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5754&catid=565">Business FAQs</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5755&catid=565">Business Licenses</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5920&catid=565">Businesses Serving our Community</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56232&catid=565">COVID-19 Small Business Resources</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=56233&catid=565">Online Payment System</a></div></div><div class="mobileMenuItemSub sm565"><div class="mobileMenuItemL"><a href="/pview.aspx?id=5402&catid=565">Taft Chamber of Commerce</a></div></div></div><div id="m5171" class="levelSub level1"><div id="mi5998" class="menuItem menuChild"><a href="/pview.aspx?id=5998&catid=561"">City Council</a></div><div id="mi6340" class="menuItem "><a href="/pview.aspx?id=6340&catid=561"">City Attorney</a></div><div id="mi22262" class="menuItem menuChild"><a href="/pview.aspx?id=22262&catid=561"">City Clerk</a></div><div id="mi5397" class="menuItem "><a href="/pview.aspx?id=5397&catid=561"">City Treasurer</a></div><div id="mi5359" class="menuItem menuChild"><a href="/pview.aspx?id=5359&catid=561"">Boards and Commissions</a></div><div id="mi5961" class="menuItem "><a href="/pview.aspx?id=5961&catid=561"">City Organizational Chart</a></div><div id="mi5913" class="menuItem menuChild"><a href="/pview.aspx?id=5913&catid=561"">Municipal Code</a></div><div id="mi5405" class="menuItem "><a href="/pview.aspx?id=5405&catid=561"">Document Center</a></div><div id="mi40512" class="menuItem "><a href="/pview.aspx?id=40512&catid=561"">Public Hearing Notices</a></div></div><div id="m5172" class="levelSub level1"><div id="mi5372" class="menuItem menuChild"><a href="/pview.aspx?id=5372&catid=562"">Administration - City Manager</a></div><div id="mi5380" class="menuItem "><a href="/pview.aspx?id=5380&catid=562"">Animal Shelter</a></div><div id="mi5391" class="menuItem menuChild"><a href="/pview.aspx?id=5391&catid=562"">Finance Department</a></div><div id="mi6892" class="menuItem "><a href="/pview.aspx?id=6892&catid=562"">Fire Department</a></div><div id="mi22269" class="menuItem "><a href="/pview.aspx?id=22269&catid=562"">Housing Programs</a></div><div id="mi5377" class="menuItem menuChild"><a href="/pview.aspx?id=5377&catid=562"">Human Resources</a></div><div id="mi5355" class="menuItem menuChild"><a href="/pview.aspx?id=5355&catid=562"">Planning and Development</a></div><div id="mi5379" class="menuItem menuChild"><a href="/pview.aspx?id=5379&catid=562"">Police Department</a></div><div id="mi5362" class="menuItem menuChild"><a href="/pview.aspx?id=5362&catid=562"">Public Works</a></div><div id="mi13112" class="menuItem "><a href="/pview.aspx?id=13112&catid=562"">Records Administration</a></div><div id="mi5385" class="menuItem menuChild"><a href="/pview.aspx?id=5385&catid=562"">Taft Area Transit</a></div><div id="mi6751" class="menuItem menuChild"><a href="/pview.aspx?id=6751&catid=562"">Taft Modified Community Correctional Facility (MCC</a></div></div><div id="m5173" class="levelSub level1"><div id="mi5920" class="menuItem "><a href="/pview.aspx?id=5920&catid=563"">Businesses Serving our Community</a></div><div id="mi5407" class="menuItem "><a href="/pview.aspx?id=5407&catid=563"">Calendar of Events</a></div><div id="mi5623" class="menuItem "><a href="/pview.aspx?id=5623&catid=563"">Frequently Asked Questions</a></div><div id="mi5538" class="menuItem "><a href="/pview.aspx?id=5538&catid=563"">Get e-Notifications</a></div><div id="mi22269" class="menuItem "><a href="/pview.aspx?id=22269&catid=563"">Housing Programs</a></div><div id="mi5398" class="menuItem menuChild"><a href="/pview.aspx?id=5398&catid=563"">Local Utilities</a></div><div id="mi5911" class="menuItem "><a href="/pview.aspx?id=5911&catid=563"">Local, State and Federal Representatives</a></div><div id="mi56233" class="menuItem "><a href="/pview.aspx?id=56233&catid=563" target="_blank"">Online Payment System</a></div><div id="mi37093" class="menuItem "><a href="/pview.aspx?id=37093&catid=563"">Recreational Vehicle (RV) Dump Site</a></div><div id="mi5756" class="menuItem "><a href="/pview.aspx?id=5756&catid=563"">Refuse Service</a></div><div id="mi5403" class="menuItem "><a href="/pview.aspx?id=5403&catid=563"">Report a Concern</a></div><div id="mi5399" class="menuItem "><a href="/pview.aspx?id=5399&catid=563"">Schools</a></div><div id="mi32339" class="menuItem "><a href="/pview.aspx?id=32339&catid=563"">Streets</a></div><div id="mi5385" class="menuItem menuChild"><a href="/pview.aspx?id=5385&catid=563"">Taft Area Transit</a></div></div><div id="m5174" class="levelSub level1"><div id="mi5407" class="menuItem "><a href="/pview.aspx?id=5407&catid=564"">Calendar of Events</a></div><div id="mi37093" class="menuItem "><a href="/pview.aspx?id=37093&catid=564"">Recreational Vehicle (RV) Dump Site</a></div><div id="mi5402" class="menuItem "><a href="/pview.aspx?id=5402&catid=564" target="_blank"">Taft Chamber of Commerce</a></div><div id="mi7269" class="menuItem "><a href="/pview.aspx?id=7269&catid=564"">Taft History</a></div><div id="mi5383" class="menuItem "><a href="/pview.aspx?id=5383&catid=564"">Taft's Historic Fort</a></div></div><div id="m5175" class="levelSub level1"><div id="mi5406" class="menuItem "><a href="/pview.aspx?id=5406&catid=565"">Bid Opportunities</a></div><div id="mi5754" class="menuItem "><a href="/pview.aspx?id=5754&catid=565"">Business FAQs</a></div><div id="mi5755" class="menuItem "><a href="/pview.aspx?id=5755&catid=565"">Business Licenses</a></div><div id="mi5920" class="menuItem "><a href="/pview.aspx?id=5920&catid=565"">Businesses Serving our Community</a></div><div id="mi56232" class="menuItem "><a href="/pview.aspx?id=56232&catid=565"">COVID-19 Small Business Resources</a></div><div id="mi56233" class="menuItem "><a href="/pview.aspx?id=56233&catid=565" target="_blank"">Online Payment System</a></div><div id="mi5402" class="menuItem "><a href="/pview.aspx?id=5402&catid=565" target="_blank"">Taft Chamber of Commerce</a></div></div><div id="m5355" class="levelSub level2"><div id="mi34671" class="menuItem "><a href="/pview.aspx?id=34671&catid=0"">Americans with Disabilities Act (ADA) Transition Plan</a></div><div id="mi5393" class="menuItem menuChild"><a href="/pview.aspx?id=5393&catid=0"">Building Department</a></div><div id="mi5358" class="menuItem "><a href="/pview.aspx?id=5358&catid=0"">Economic Development</a></div><div id="mi7699" class="menuItem "><a href="/pview.aspx?id=7699&catid=0"">Housing Element</a></div><div id="mi6293" class="menuItem "><a href="/pview.aspx?id=6293&catid=0"">Planning Applications &amp; Tools</a></div><div id="mi6973" class="menuItem "><a href="/pview.aspx?id=6973&catid=0"">Taft General Plan</a></div><div id="mi6975" class="menuItem "><a href="/pview.aspx?id=6975&catid=0"">Taft Subdivision Ordinance</a></div><div id="mi9489" class="menuItem "><a href="/pview.aspx?id=9489&catid=0"">Zoning Map</a></div><div id="mi7660" class="menuItem "><a href="/pview.aspx?id=7660&catid=0"">Zoning Ordinance</a></div></div><div id="m5359" class="levelSub level2"><div id="mi5360" class="menuItem "><a href="/pview.aspx?id=5360&catid=0"">Planning Commission</a></div><div id="mi5924" class="menuItem menuChild"><a href="/pview.aspx?id=5924&catid=0"">Taft Oversight Board</a></div><div id="mi5922" class="menuItem menuChild"><a href="/pview.aspx?id=5922&catid=0"">Taft Public Financing Authority</a></div><div id="mi5923" class="menuItem menuChild"><a href="/pview.aspx?id=5923&catid=0"">Taft Public Improvement Corporation</a></div></div><div id="m5362" class="levelSub level2"><div id="mi32094" class="menuItem "><a href="/pview.aspx?id=32094&catid=0"">Encroachment Permit</a></div><div id="mi34695" class="menuItem "><a href="/pview.aspx?id=34695&catid=0"">Filming</a></div><div id="mi5369" class="menuItem "><a href="/pview.aspx?id=5369&catid=0"">Refuse and Recycling</a></div><div id="mi5603" class="menuItem "><a href="/pview.aspx?id=5603&catid=0"">Report a Concern</a></div><div id="mi5368" class="menuItem "><a href="/pview.aspx?id=5368&catid=0"">Sewer</a></div><div id="mi5367" class="menuItem "><a href="/pview.aspx?id=5367&catid=0"">Streets</a></div><div id="mi38631" class="menuItem "><a href="/pview.aspx?id=38631&catid=0"">Subdivision and Engineering Standards</a></div><div id="mi5366" class="menuItem "><a href="/pview.aspx?id=5366&catid=0"">Veteran's Park</a></div></div><div id="m5372" class="levelSub level2"><div id="mi5373" class="menuItem menuChild"><a href="/pview.aspx?id=5373&catid=0"">City Clerk</a></div><div id="mi5375" class="menuItem "><a href="/pview.aspx?id=5375&catid=0"">City Manager</a></div></div><div id="m5373" class="levelSub level3"><div id="mi9633" class="menuItem "><a href="/pview.aspx?id=9633&catid=0"">Agendas, Minutes & Videos</a></div><div id="mi5374" class="menuItem "><a href="/pview.aspx?id=5374&catid=0"">Frequently Asked Questions</a></div><div id="mi7027" class="menuItem "><a href="/pview.aspx?id=7027&catid=0"">History</a></div></div><div id="m5377" class="levelSub level2"><div id="mi5378" class="menuItem "><a href="/pview.aspx?id=5378&catid=0"">Job Openings</a></div><div id="mi5732" class="menuItem "><a href="/pview.aspx?id=5732&catid=0"">Job Specifications</a></div><div id="mi5704" class="menuItem "><a href="/pview.aspx?id=5704&catid=0"">Memorandum of Understanding (MOU's)</a></div><div id="mi5683" class="menuItem "><a href="/pview.aspx?id=5683&catid=0"">Policies and Procedures</a></div><div id="mi5613" class="menuItem menuChild"><a href="/pview.aspx?id=5613&catid=0"">City Employees Site</a></div><div id="mi11841" class="menuItem "><a href="/pview.aspx?id=11841&catid=0"">City of Taft Classification Salary Matrix</a></div></div><div id="m5379" class="levelSub level2"><div id="mi5614" class="menuItem menuChild"><a href="/pview.aspx?id=5614&catid=0"">Code Enforcement</a></div><div id="mi5677" class="menuItem "><a href="/pview.aspx?id=5677&catid=0"">Common questions</a></div><div id="mi5675" class="menuItem "><a href="/pview.aspx?id=5675&catid=0"">Crime Mapping</a></div><div id="mi5672" class="menuItem "><a href="/pview.aspx?id=5672&catid=0"">History</a></div><div id="mi56230" class="menuItem "><a href="/pview.aspx?id=56230&catid=0"">Jail Facility / Type 1</a></div><div id="mi56228" class="menuItem "><a href="/pview.aspx?id=56228&catid=0"">Policies &amp; Procedures / Training Standards</a></div><div id="mi5761" class="menuItem "><a href="/pview.aspx?id=5761&catid=0"">Resources</a></div><div id="mi5410" class="menuItem "><a href="/pview.aspx?id=5410&catid=0"">Submit a Crime Tip</a></div></div><div id="m5385" class="levelSub level2"><div id="mi5764" class="menuItem "><a href="/pview.aspx?id=5764&catid=0"">ADA/Senior Application Forms</a></div><div id="mi5816" class="menuItem "><a href="/pview.aspx?id=5816&catid=0"">Brochures</a></div><div id="mi5721" class="menuItem "><a href="/pview.aspx?id=5721&catid=0"">Bus Passes</a></div><div id="mi26094" class="menuItem menuChild"><a href="/pview.aspx?id=26094&catid=0"">Title VI Notice to Public</a></div></div><div id="m5391" class="levelSub level2"><div id="mi5746" class="menuItem "><a href="/pview.aspx?id=5746&catid=0"">Business Licenses</a></div><div id="mi5760" class="menuItem "><a href="/pview.aspx?id=5760&catid=0"">Financial Reports</a></div><div id="mi5753" class="menuItem "><a href="/pview.aspx?id=5753&catid=0"">Frequently Asked Questions</a></div></div><div id="m5393" class="levelSub level3"><div id="mi5626" class="menuItem "><a href="/pview.aspx?id=5626&catid=0"">Application Requirements</a></div><div id="mi10002" class="menuItem "><a href="/pview.aspx?id=10002&catid=0"">Building Permit Application</a></div><div id="mi40170" class="menuItem "><a href="/pview.aspx?id=40170&catid=0"">Building Safety Brochures</a></div><div id="mi5395" class="menuItem "><a href="/pview.aspx?id=5395&catid=0"">Frequently Asked Questions</a></div><div id="mi5630" class="menuItem "><a href="/pview.aspx?id=5630&catid=0"">Is a Permit Required?</a></div><div id="mi5625" class="menuItem "><a href="/pview.aspx?id=5625&catid=0"">Permit Application Process</a></div><div id="mi38626" class="menuItem "><a href="/pview.aspx?id=38626&catid=0"">Subdivision and Engineering Standards</a></div><div id="mi5629" class="menuItem "><a href="/pview.aspx?id=5629&catid=0"">Working Without Permits</a></div></div><div id="m5398" class="levelSub level2"><div id="mi18730" class="menuItem "><a href="/pview.aspx?id=18730&catid=0"">SoCalGas Assistance Programs</a></div></div><div id="m5613" class="levelSub level3"><div id="mi9781" class="menuItem "><a href="/pview.aspx?id=9781&catid=0"">Employee Assistance Program (EAP)</a></div><div id="mi5881" class="menuItem "><a href="/pview.aspx?id=5881&catid=0"">Employee Handbook</a></div><div id="mi5891" class="menuItem "><a href="/pview.aspx?id=5891&catid=0"">Policies and Procedures</a></div></div><div id="m5614" class="levelSub level3"><div id="mi5615" class="menuItem "><a href="/pview.aspx?id=5615&catid=0"">Abandoned Cars</a></div><div id="mi5619" class="menuItem "><a href="/pview.aspx?id=5619&catid=0"">Graffiti</a></div><div id="mi5621" class="menuItem "><a href="/pview.aspx?id=5621&catid=0"">Illegal Dumping</a></div><div id="mi5618" class="menuItem "><a href="/pview.aspx?id=5618&catid=0"">Junk, Litter And Debris</a></div><div id="mi5617" class="menuItem "><a href="/pview.aspx?id=5617&catid=0"">Parking</a></div><div id="mi5616" class="menuItem "><a href="/pview.aspx?id=5616&catid=0"">Property Maintenance</a></div><div id="mi5620" class="menuItem "><a href="/pview.aspx?id=5620&catid=0"">Vacant Property</a></div></div><div id="m5913" class="levelSub level2"><div id="mi8577" class="menuItem "><a href="/pview.aspx?id=8577&catid=0"">Zoning Ordinance</a></div></div><div id="m5922" class="levelSub level3"><div id="mi43168" class="menuItem "><a href="/pview.aspx?id=43168&catid=0"">Agenda and Minutes</a></div></div><div id="m5923" class="levelSub level3"><div id="mi56224" class="menuItem "><a href="/pview.aspx?id=56224&catid=0"">Agendas and Minutes</a></div></div><div id="m5924" class="levelSub level3"><div id="mi11387" class="menuItem "><a href="/pview.aspx?id=11387&catid=0"">Agendas</a></div><div id="mi11388" class="menuItem "><a href="/pview.aspx?id=11388&catid=0"">Oversight Board Resolutions</a></div><div id="mi10438" class="menuItem "><a href="/pview.aspx?id=10438&catid=0"">Recognized Obligation Payment Schedules (ROPS)</a></div><div id="mi11390" class="menuItem "><a href="/pview.aspx?id=11390&catid=0"">Required Items</a></div></div><div id="m5998" class="levelSub level2"><div id="mi9632" class="menuItem "><a href="/pview.aspx?id=9632&catid=0"">Agendas, Minutes & Videos</a></div><div id="mi6997" class="menuItem "><a href="/pview.aspx?id=6997&catid=0"">History</a></div></div><div id="m6751" class="levelSub level2"><div id="mi33988" class="menuItem menuChild"><a href="/pview.aspx?id=33988&catid=0"">Prison Rape Elimination Act (PREA)</a></div></div><div id="m22262" class="levelSub level2"><div id="mi30428" class="menuItem "><a href="/pview.aspx?id=30428&catid=0"">Council Appointments to Boards and Commissions</a></div><div id="mi31949" class="menuItem "><a href="/pview.aspx?id=31949&catid=0"">Grand Jury Reports</a></div><div id="mi33891" class="menuItem "><a href="/pview.aspx?id=33891&catid=0"">SB 272</a></div></div><div id="m26094" class="levelSub level3"><div id="mi26098" class="menuItem "><a href="/pview.aspx?id=26098&catid=0"">Title VI Complaint Form</a></div><div id="mi26096" class="menuItem "><a href="/pview.aspx?id=26096&catid=0"">Title VI Complaint Procedure</a></div><div id="mi26095" class="menuItem "><a href="/pview.aspx?id=26095&catid=0"">Title VI Notice to Public</a></div></div><div id="m33988" class="levelSub level3"><div id="mi34098" class="menuItem "><a href="/pview.aspx?id=34098&catid=0"">Prison Rape Elimination Act (PREA) - Reports</a></div></div><div class="bigMenuCon" id="bm561"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=5998&catid=561">City Council</a></h1>
+<h4><a href="/pview.aspx?id=9632&catid=561">Agendas, Minutes & Videos</a></h4>
+<h4><a href="/pview.aspx?id=6997&catid=561">History</a></h4>
+<h1><a href="/pview.aspx?id=6340&catid=561">City Attorney</a></h1>
+<h1><a href="/pview.aspx?id=22262&catid=561">City Clerk</a></h1>
+<h4><a href="/pview.aspx?id=30428&catid=561">Council Appointments to Boards and Commissions</a></h4>
+<h4><a href="/pview.aspx?id=31949&catid=561">Grand Jury Reports</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=22262&catid=561">City Clerk <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=33891&catid=561">SB 272</a></h4>
+<h1><a href="/pview.aspx?id=5397&catid=561">City Treasurer</a></h1>
+<h1><a href="/pview.aspx?id=5359&catid=561">Boards and Commissions</a></h1>
+<h4><a href="/pview.aspx?id=5360&catid=561">Planning Commission</a></h4>
+<h4><a href="/pview.aspx?id=5924&catid=561">Taft Oversight Board</a></h4>
+<h4><a href="/pview.aspx?id=5922&catid=561">Taft Public Financing Authority</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=5359&catid=561">Boards and Commissions <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=5923&catid=561">Taft Public Improvement Corporation</a></h4>
+<h1><a href="/pview.aspx?id=5961&catid=561">City Organizational Chart</a></h1>
+<h1><a href="/pview.aspx?id=5913&catid=561">Municipal Code</a></h1>
+<h4><a href="/pview.aspx?id=8577&catid=561">Zoning Ordinance</a></h4>
+<h1><a href="/pview.aspx?id=5405&catid=561">Document Center</a></h1>
+<h1><a href="/pview.aspx?id=40512&catid=561">Public Hearing Notices</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm562"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=5372&catid=562">Administration - City Manager</a></h1>
+<h4><a href="/pview.aspx?id=5373&catid=562">City Clerk</a></h4>
+<h4><a href="/pview.aspx?id=5375&catid=562">City Manager</a></h4>
+<h1><a href="/pview.aspx?id=5380&catid=562">Animal Shelter</a></h1>
+<h1><a href="/pview.aspx?id=5391&catid=562">Finance Department</a></h1>
+<h4><a href="/pview.aspx?id=5746&catid=562">Business Licenses</a></h4>
+<h4><a href="/pview.aspx?id=5760&catid=562">Financial Reports</a></h4>
+<h4><a href="/pview.aspx?id=5753&catid=562">Frequently Asked Questions</a></h4>
+<h1><a href="/pview.aspx?id=6892&catid=562">Fire Department</a></h1>
+<h1><a href="/pview.aspx?id=22269&catid=562">Housing Programs</a></h1>
+<h1><a href="/pview.aspx?id=5377&catid=562">Human Resources</a></h1>
+<h4><a href="/pview.aspx?id=5378&catid=562">Job Openings</a></h4>
+<h4><a href="/pview.aspx?id=5732&catid=562">Job Specifications</a></h4>
+<h4><a href="/pview.aspx?id=5704&catid=562">Memorandum of Understanding (MOU's)</a></h4>
+<h4><a href="/pview.aspx?id=5683&catid=562">Policies and Procedures</a></h4>
+<h4><a href="/pview.aspx?id=5613&catid=562">City Employees Site</a></h4>
+<h4><a href="/pview.aspx?id=11841&catid=562">City of Taft Classification Salary Matrix</a></h4>
+<h1><a href="/pview.aspx?id=5355&catid=562">Planning and Development</a></h1>
+<h4><a href="/pview.aspx?id=34671&catid=562">Americans with Disabilities Act (ADA) Transition Plan</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=5355&catid=562">Planning and Development <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=5393&catid=562">Building Department</a></h4>
+<h4><a href="/pview.aspx?id=5358&catid=562">Economic Development</a></h4>
+<h4><a href="/pview.aspx?id=7699&catid=562">Housing Element</a></h4>
+<h4><a href="/pview.aspx?id=6293&catid=562">Planning Applications &amp; Tools</a></h4>
+<h4><a href="/pview.aspx?id=6973&catid=562">Taft General Plan</a></h4>
+<h4><a href="/pview.aspx?id=6975&catid=562">Taft Subdivision Ordinance</a></h4>
+<h4><a href="/pview.aspx?id=9489&catid=562">Zoning Map</a></h4>
+<h4><a href="/pview.aspx?id=7660&catid=562">Zoning Ordinance</a></h4>
+<h1><a href="/pview.aspx?id=5379&catid=562">Police Department</a></h1>
+<h4><a href="/pview.aspx?id=5614&catid=562">Code Enforcement</a></h4>
+<h4><a href="/pview.aspx?id=5677&catid=562">Common questions</a></h4>
+<h4><a href="/pview.aspx?id=5675&catid=562">Crime Mapping</a></h4>
+<h4><a href="/pview.aspx?id=5672&catid=562">History</a></h4>
+<h4><a href="/pview.aspx?id=56230&catid=562">Jail Facility / Type 1</a></h4>
+<h4><a href="/pview.aspx?id=56228&catid=562">Policies &amp; Procedures / Training Standards</a></h4>
+<h4><a href="/pview.aspx?id=5761&catid=562">Resources</a></h4>
+<h4><a href="/pview.aspx?id=5410&catid=562">Submit a Crime Tip</a></h4>
+<h1><a href="/pview.aspx?id=5362&catid=562">Public Works</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=5362&catid=562">Public Works <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=32094&catid=562">Encroachment Permit</a></h4>
+<h4><a href="/pview.aspx?id=34695&catid=562">Filming</a></h4>
+<h4><a href="/pview.aspx?id=5369&catid=562">Refuse and Recycling</a></h4>
+<h4><a href="/pview.aspx?id=5603&catid=562">Report a Concern</a></h4>
+<h4><a href="/pview.aspx?id=5368&catid=562">Sewer</a></h4>
+<h4><a href="/pview.aspx?id=5367&catid=562">Streets</a></h4>
+<h4><a href="/pview.aspx?id=38631&catid=562">Subdivision and Engineering Standards</a></h4>
+<h4><a href="/pview.aspx?id=5366&catid=562">Veteran's Park</a></h4>
+<h1><a href="/pview.aspx?id=13112&catid=562">Records Administration</a></h1>
+<h1><a href="/pview.aspx?id=5385&catid=562">Taft Area Transit</a></h1>
+<h4><a href="/pview.aspx?id=5764&catid=562">ADA/Senior Application Forms</a></h4>
+<h4><a href="/pview.aspx?id=5816&catid=562">Brochures</a></h4>
+<h4><a href="/pview.aspx?id=5721&catid=562">Bus Passes</a></h4>
+<h4><a href="/pview.aspx?id=26094&catid=562">Title VI Notice to Public</a></h4>
+<h1><a href="/pview.aspx?id=6751&catid=562">Taft Modified Community Correctional Facility (MCC</a></h1>
+<h4><a href="/pview.aspx?id=33988&catid=562">Prison Rape Elimination Act (PREA)</a></h4>
+</div></div></div><div class="bigMenuCon" id="bm563"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=5920&catid=563">Businesses Serving our Community</a></h1>
+<h1><a href="/pview.aspx?id=5407&catid=563">Calendar of Events</a></h1>
+<h1><a href="/pview.aspx?id=5623&catid=563">Frequently Asked Questions</a></h1>
+<h1><a href="/pview.aspx?id=5538&catid=563">Get e-Notifications</a></h1>
+<h1><a href="/pview.aspx?id=22269&catid=563">Housing Programs</a></h1>
+<h1><a href="/pview.aspx?id=5398&catid=563">Local Utilities</a></h1>
+<h4><a href="/pview.aspx?id=18730&catid=563">SoCalGas Assistance Programs</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=5911&catid=563">Local, State and Federal Representatives</a></h1>
+<h1><a href="/pview.aspx?id=56233&catid=563" target="blank">Online Payment System</a></h1>
+<h1><a href="/pview.aspx?id=37093&catid=563">Recreational Vehicle (RV) Dump Site</a></h1>
+<h1><a href="/pview.aspx?id=5756&catid=563">Refuse Service</a></h1>
+<h1><a href="/pview.aspx?id=5403&catid=563">Report a Concern</a></h1>
+<h1><a href="/pview.aspx?id=5399&catid=563">Schools</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=32339&catid=563">Streets</a></h1>
+<h1><a href="/pview.aspx?id=5385&catid=563">Taft Area Transit</a></h1>
+<h4><a href="/pview.aspx?id=5764&catid=563">ADA/Senior Application Forms</a></h4>
+<h4><a href="/pview.aspx?id=5816&catid=563">Brochures</a></h4>
+<h4><a href="/pview.aspx?id=5721&catid=563">Bus Passes</a></h4>
+<h4><a href="/pview.aspx?id=26094&catid=563">Title VI Notice to Public</a></h4>
+</div></div></div><div class="bigMenuCon" id="bm564"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=5407&catid=564">Calendar of Events</a></h1>
+<h1><a href="/pview.aspx?id=37093&catid=564">Recreational Vehicle (RV) Dump Site</a></h1>
+<h1><a href="/pview.aspx?id=5402&catid=564" target="blank">Taft Chamber of Commerce</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=7269&catid=564">Taft History</a></h1>
+<h1><a href="/pview.aspx?id=5383&catid=564">Taft's Historic Fort</a></h1>
+</div><div class="menuCol"></div></div></div><div class="bigMenuCon" id="bm565"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=5406&catid=565">Bid Opportunities</a></h1>
+<h1><a href="/pview.aspx?id=5754&catid=565">Business FAQs</a></h1>
+<h1><a href="/pview.aspx?id=5755&catid=565">Business Licenses</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=5920&catid=565">Businesses Serving our Community</a></h1>
+<h1><a href="/pview.aspx?id=56232&catid=565">COVID-19 Small Business Resources</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=56233&catid=565" target="blank">Online Payment System</a></h1>
+<h1><a href="/pview.aspx?id=5402&catid=565" target="blank">Taft Chamber of Commerce</a></h1>
+</div></div></div><div class="eAlert"><div class="alertBG"><div class="eAlertIn"><a href="/emergency.aspx"><b>City Hall Closed to the Public but still providing Services: </b>Please Call (661)763-1222 for Assistance - Click to see meeting procedures pursuant to Executive Order N-29-2</a></div></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="default.aspx">Taft CA</a></div>
+
+                </td></tr></table>
+        </div>
+
+
+        <div style="position:relative;">
+ 
+   <div class="mainContainer container"></div><div class="topMenuBar" ></div>
+
+   
+
+    <div class="header" style="display: none;"> 
+        
+         <div class="topline" ></div>
+       
+   
+
+</div>
+       
+       <div class="secondContainer container mb-2">
+           <div class="row">
+               <div class="col-lg-3 topLeft">
+                <a href="/default.aspx"><img src="/common/images/header.png" alt="Return to home page" style="max-width: 100%; border: 0; "/></a>
+
+           </div><div class="col-lg-9">
+      
+       
+           <nav class="col menuBar mobileHide printHide">
+                    <div style="display: none; width:0%;" class="catMenu" id="t-1" tid="566"><a href="/default.aspx"">Home</a></div><div style="width:24%;" class="catMenu catMenu2" id="t5171" tid="561"><a href="/pview.aspx?id=5171&catid=561">City Government</a></div><div style="width:21%;" class="catMenu catMenu3" id="t5172" tid="562"><a href="/pview.aspx?id=5172&catid=562">Departments</a></div><div style="width:18%;" class="catMenu catMenu4" id="t5173" tid="563"><a href="/pview.aspx?id=5173&catid=563">Residents</a></div><div style="width:18%;" class="catMenu catMenu5" id="t5174" tid="564"><a href="/pview.aspx?id=5174&catid=564">Visitors</a></div><div style="width:18%;" class="catMenu catMenu6" id="t5175" tid="565"><a href="/pview.aspx?id=5175&catid=565">Business</a></div>
+          </nav>
+       <div class="pt-3 pb-3 topSearch">
+                  <div class="searchingBox">
+                       <div class="searchingText">
+        
+        <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" placeholder="I&#39;m looking for..." aria-label="Search text box" />
+       </div>
+                        <div class="searchGo" style="height: 40px;">
+        <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" alt="Search Site" src="common/images/go.png" border="0" />
+           
+</div></div></div></div>
+    </div>
+    
+       <div class="row secondRow">
+    <div class="sLeft pt-2 col-lg-3 order-2 order-lg-1 text-left">
+    
+       
+  
+                  <div class="sideItem"><a href="/pview.aspx?id=5675&amp;catid=562">Crime Mapping</a></div><div class="sideItem"><a href="/pview.aspx?id=5391&amp;catid=562">Finance Department</a></div><div class="sideItem"><a href="/pview.aspx?id=5377&amp;catid=562">Human Resources</a></div><div class="sideItem"><a href="bids.aspx">Bid Opportunities</a></div>
+
+         
+
+<div class="sideMenuUnder">&nbsp;</div>
+        </div>
+
+  
+
+              <div class="sRight pt-2 col-lg-9 order-1 order-lg-2 bg-white text-left;">
+           
+
+
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    <a href="/default.aspx">Home</a> > 
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.45 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li>
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="https://cityoftaft.org/notfound.aspx?print=1" target="_blank"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Printer Friendly Version" /></a>
+      
+        </div>
+            </div></div>
+
+     <a name="maincontent" id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle">Page Not Found</span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+     The page you are looking for can not be found. 
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+     
+    
+</div>
+</div>
+       
+           </div>
+        
+    
+
+         <div class="container-fluid myFooter">
+         
+          <div class="container">
+              <div class="row">
+           <div class="col-lg-3 fLeft"><img src="/common/images/footerlogo.png" style="max-width:100%;" Alt="" />
+              
+               
+           </div>
+           <div class=" col-lg-6 fCenter">
+                <div style="line-height:1.6;"><span class="footerName">City of Taft</span><br /><span class="mobileDiv">209 E. Kern St</span><span class="mobileDiv"> Taft, CA 93268</span><br>Phone: (661) 763-1222&nbsp;&nbsp;|&nbsp;&nbsp; <span style=" white-space: nowrap;">Fax: (661) 765-2480</span></div><a href="/default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/staff.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/termsofuse.aspx">Accessbility</a>&nbsp;&nbsp;
+<br /><br />
+               Government Websites by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">MunicipalCMS</a>
+               
+
+               </div>
+              
+              
+               
+
+    
+           <div class="col-lg-3 fRight mb-2">
+             
+               
+               <div class="footerSocial">
+               <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="E-notify" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;<a href="https://twitter.com/cityoftaft" target="_blank"><img src="/common/images/3twitter.png" alt="Twitter" style="border: 0;"></a>&nbsp;<a href="https://www.facebook.com/City-Of-Taft-California-517954074916821/" target="_blank"><img src="/common/images/3facebook.png" alt="Facebook" style="border: 0;"></a>&nbsp;
+                   </div>
+           </div></div>
+      
+              </div>
+
+    
+      
+               
+
+   
+
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Please ignore" />
+        </div> 
+
+        <div id="galleryCon">
+
+        </div>
+        <div class="bgGray">&nbsp;</div>
+
+                 </div></div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+
+
+     <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-35854059-9']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+</script>
+
+</body>
+</html>
+
+
+
+    

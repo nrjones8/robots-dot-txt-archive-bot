@@ -1,0 +1,14 @@
+# robots.txt for http://www.regulations.gov/
+# NOTE: Wildcards aren't officially supported in the Disallow, but Google and other big ones support it
+
+User-agent: *
+Disallow: /*search_results.jsp
+Disallow: /?_escaped_fragment_=searchResults
+Disallow: /?_escaped_fragment_=submitComment
+Disallow: /docketBrowser
+Disallow: /searchResults
+Disallow: /comment
+Disallow: /api/
+Disallow: /contentStreamer
+Disallow: /migration/
+Disallow: /fdmspublic/

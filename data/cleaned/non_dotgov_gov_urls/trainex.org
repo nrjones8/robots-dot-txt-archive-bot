@@ -1,0 +1,40 @@
+# robots.txt file for http://www.trainex.org Updated September 2011
+#
+# April 2015 - Increased crawler delay and added mJ12
+# November 2013 - Tightened Bingbot.. soooo annoying, Bingbot -1 -1 -1
+# Oct 2010 - Added * crawl delay
+# April 2011 - Increased google crawl delay to 30
+# September 2011 - Added ahrefsbot, Baiduspider
+User-agent: EmailSiphon
+Disallow: /
+User-agent: EmailWolf
+Disallow : /
+User-agent: Teleport+Pro/1.29
+Disallow: /
+User-agent: Googlebot
+Crawl-delay: 45
+User-agent: Slurp
+User-agent: Slurp!
+User-agent: Yahoo! Slurp
+Crawl-delay: 30
+ 
+User-Agent: Charlotte
+Disallow: /
+User-agent: msnbot
+User-agent: msnbot/2.0b
+Crawl-delay: 45
+Disallow: /register*
+User-agent: *
+Crawl-delay: 45
+ 
+User-agent: bingbot
+Crawl-delay: 45
+Disallow: /register*
+User-agent: sitebot 
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: MJ12bot
+Disallow: /

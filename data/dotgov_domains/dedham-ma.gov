@@ -45,7 +45,7 @@
             });
         })(jQuery);
     </script>
-    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6InI2TTY3ekZtZFhHNERSTlc4L2RRRHc9PSJ9.RIFto5CMXlAL5HJMuahDNug0HrCLLhzvfVjPunMLxcOfcK212rvXqz1pG4tOSS1PM72yYonK2hyh7dJXYHMAQu_gEodcWN5v.yX9neH1ENdJEREAFofxrzg.NmJzGk3CEXWb7AgFENW_VQFis0efAtKNUPcYFUWM8OVxytVhyLPqT68pl435vb2QnamnXIZ2GZzQATewLqFuowURHidhw7nn2FpdU69l5h-MSIpZ4tDaE41U6Gxk47Kso1NmMOib1y0zjLQxbl2kG1f_e0-ZiRn3cOn6fMJqH3EaCI3xBvR2JcRsKLG9V1TJqoZCYbUsZsqBMQkfxPAoo6FC4WcxJyVt7v9G0lCc1-Y.C-V5UExDEIqKY8VdVH5USA2TmShjr5VA3movGzBJQAA";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ilc3VU96SjMwUXpGaG5lcm5ydHZXcUE9PSJ9.Z-eJmtH87zpNlGCzbpR91Zoi5Tc34O79VzvDVFsUcDBjTAEthSjZQl8HUeuab2LMklwzGNrRXdnGxmJflWN06WE1qKDxp8Qa.aPyg_3VOZdaUpyFrNE0lUA.agJ5_4Mi9Y60puOtrlLrjRaOfHaOcDIm30aqKwELhGEj140slXOqA1CdZcsAE9cIHjf1RQIU9EbkWlmFfeE-kHuX9q8JYcHbGrmuUiKdcbqFC96bxF8jGYde94yrEYFXrcmFGpdawIy_KOj1t4e-zjW1_I3JHg_C_pvRxrEUSlHYxGAM6iZZU6_j75uHe25dpUZ0q9Xi3arT1YM5m0lIKu6UcEC1OlLjBRWcxJtnzfw.RiOIR0JyNvIQXmUPhW8jyTbpna1FWF9uiqRGBHs2p_M";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -192,6 +192,18 @@
         
     
     
+<!--stopindex-->
+<div class="alert_container">
+    <a class="hide" id="alert_controls" data-action="/Home/SetTopTipCookie">Show/Hide</a>
+    <div class="important_alert_wrapper ">
+        <div class="alert_right">
+            <div class="important_alert"><strong><a href="/?splash=https%3a%2f%2fdedhamcovid19.com%2f&____isexternal=true" target="_blank" id="link_1586985845271">View Dedham updates on COVID-19.</a></strong> Town Hall remains closed to the public until further notice, but Town <a href="/services/town-services-a-to-z">staff are providing services remotely</a>.
+<p>&nbsp;</p></div>
+        </div>
+    </div>
+</div>
+<!--startindex-->
+
 
 <div class="sitewrapper  site_template mainSpan_wrapper_home">
     <div class="mainSpan" id="mainSpan_wrapper_Screen">
@@ -661,40 +673,45 @@ $(function () {
 
     <li>
         <a href="#">
-            <div class="datebox">Wednesday, September 9</div>
+            <div class="datebox">Monday, September 14</div>
 
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4186/903"><p class="box_item_title">Planning Board</p></a>
+    <a href="/Home/Components/Calendar/Event/4864/903"><p class="box_item_title">Parks &amp; Recreation Commission</p></a>
+			<p class="box_item_summary">7:00pm - </p>
+</div>        </a>
+    </li>
+    <li>
+        <a href="#">
+            <div class="datebox">Wednesday, September 16</div>
+
+
+
+
+<div class="item_info">
+    <a href="/Home/Components/Calendar/Event/4089/903"><p class="box_item_title">Zoning Board of Appeals</p></a>
+			<p class="box_item_summary">7:00pm - </p>
+</div>        </a>
+    </li>
+    <li>
+        <a href="#">
+            <div class="datebox">Thursday, September 17</div>
+
+
+
+
+<div class="item_info">
+    <a href="/Home/Components/Calendar/Event/4840/903"><p class="box_item_title">Planning Board</p></a>
 			<p class="box_item_summary">6:00pm - </p>
 </div>
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4856/903"><p class="box_item_title">Sustainability Advisory Committee</p></a>
-			<p class="box_item_summary">7:00pm - Remote</p>
-</div>
-
-
-
-<div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4858/903"><p class="box_item_title">Emergency Meeting: Board of Health &amp; School Committee</p></a>
-			<p class="box_item_summary">7:00pm - </p>
-</div>        </a>
-    </li>
-    <li>
-        <a href="#">
-            <div class="datebox">Thursday, September 10</div>
-
-
-
-
-<div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4768/903"><p class="box_item_title">Select Board</p></a>
-			<p class="box_item_summary">7:00pm - </p>
+    <a href="/Home/Components/Calendar/Event/4336/903"><p class="box_item_title">Conservation Commission</p></a>
+			<p class="box_item_summary">7:00pm - Town Hall, Lower Conference Room</p>
 </div>        </a>
     </li>
 
@@ -729,6 +746,18 @@ $(function () {
 
     <li>
         <a href="#">
+            <div class="datebox">Saturday, October 3</div>
+
+
+
+
+<div class="item_info">
+    <a href="/Home/Components/Calendar/Event/4866/1016"><p class="box_item_title">Household Hazardous Waste Collection Day</p></a>
+			<p class="box_item_summary">9:00am - Department of Public Works</p>
+</div>        </a>
+    </li>
+    <li>
+        <a href="#">
             <div class="datebox">Monday, October 12</div>
 
 
@@ -761,18 +790,6 @@ $(function () {
 <div class="item_info">
     <a href="/Home/Components/Calendar/Event/4798/1016"><p class="box_item_title">Town Hall closes at 4:30 p.m.</p></a>
 			<p class="box_item_summary">4:30pm - </p>
-</div>        </a>
-    </li>
-    <li>
-        <a href="#">
-            <div class="datebox">Thursday, November 26</div>
-
-
-
-
-<div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4796/1016"><p class="box_item_title">Thanksgiving Day</p></a>
-			<p class="box_item_summary">All Day - </p>
 </div>        </a>
     </li>
 
@@ -883,8 +900,19 @@ $(function () {
 
 
 <li>
+    <a href="/Home/Components/News/News/2856/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3261/637189296947570000" alt="coronavirus thumbnail"/>
+        <div class="item_info">
+            <span class="box_item_title">Officials Urge Residents to Follow COVID-19 Prevention Guidance</span>
+                <p class="box_item_summary">Recent gatherings of young people resulted in two clusters of positive cases.</p>
+        </div>
+    </a>
+</li>
+
+
+<li>
     <a href="/Home/Components/News/News/2854/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3730/637352465632656588" alt="HUD seal"/>
+            <img src="/Home/ShowPublishedImage/3730/637352465632670000" alt="HUD seal"/>
         <div class="item_info">
             <span class="box_item_title">Grants available for Dedham&#39;s small business owners</span>
                 <p class="box_item_summary">Funding up to $10,000. Application deadline is 5 p.m. on Friday, September 25. </p>
@@ -932,17 +960,6 @@ $(function () {
         <div class="item_info">
             <span class="box_item_title">Town seeks five volunteers to serve as Library Trustees</span>
                 <p class="box_item_summary">Appointed members will serve until the 2021 Town Election.</p>
-        </div>
-    </a>
-</li>
-
-
-<li>
-    <a href="/Home/Components/News/News/2832/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3608/637329951764530000" alt="Bids"/>
-        <div class="item_info">
-            <span class="box_item_title">Invitation for Bids: Replacement of HVAC rooftop units</span>
-                <p class="box_item_summary">The Facilities Department is seeking sealed bids to remove and replace existing HVAC rooftop units and associated systems...</p>
         </div>
     </a>
 </li>
@@ -1096,7 +1113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"0gcobq003twes12zv5wf5oh5","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"qb135krklgsz5f24tawxqtec","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

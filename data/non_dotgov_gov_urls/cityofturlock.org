@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+<meta name="viewport" content="initial-scale=1.0, width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<title>404 - City of Turlock</title>
+
+<link rel='stylesheet' href='/_css/robotofonts.css' type='text/css'>
+<link rel="stylesheet" href="/_css/flaticon.css" type="text/css">
+<link rel="stylesheet" href="/_css/magnific-popup.css">
+<link rel="stylesheet" href="/_css/formcontrols2.css">
+<link rel="stylesheet" href="/_css/styleturlock.css">
+<link rel="stylesheet" href="/_css/jquery.auto-complete.css">
+<script src="/_scripts/jquery.min.js"></script>
+<script src="/_scripts/jquery.auto-complete.min.js"></script>
+<style>
+.topHeader{
+    min-height: 290px;
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.85) ), url('/_images/4040.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: table-cell;
+    vertical-align: bottom;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<header>
+<div id="pcm" style="display:none;">
+ <div class="container1130" style="position:relative;">
+  <div id="linksforresidents" class="pcmbutton">Links for Residents</div>
+<div id="PeopleMenu" style="position:absolute;top:112px;left:30px;width:calc(100% - 120px);border:8px solid white;border-radius:5px;display:none;padding:20px;">
+ <div id="menu1" style="max-width:30%;display:inline-block;vertical-align:top;padding-right:50px;">
+ </div>
+ <div id="menu2" style="max-width:60%;display:inline-block;vertical-align:top;padding-right:40px;">
+ </div>
+ <div id="menu3" style="max-width:60%;display:inline-block;vertical-align:top;">
+ </div>
+</div>
+  <div id="linksforbusinessesprofessionals" class="pcmbutton">Links for Businesses & Professionals</div>
+  <div id="pcmitems">
+  <div style="display:inline-block;width:7%;vertical-align:top;"></div>
+   <div style="display:inline-block;width:30%;vertical-align:top;">
+    <a href="/doingbusinesswithus/index.asp" class="rbt flaticon-men16">&nbsp; Doing Business with Us</a><br/>
+    <a href="/doingbusinessinturlock/index.asp" class="rbt flaticon-businessman88">&nbsp; Doing Business in Turlock</a><br/>
+    <a href="/capitalprojects/index.asp" class="rbt flaticon-worker5">&nbsp; Capital Projects</a><br/>
+    <a href="/cityfinancesbudget/index.asp" class="rbt flaticon-budget">&nbsp; City Finances & Budget</a><br/>
+    <a href="/workingforus/index.asp" class="rbt flaticon-business53">&nbsp; Working for Us</a><br/>
+    <a href="/specialevents/index.asp" class="rbt flaticon-calendar146">&nbsp; Special Events</a><br/>
+    <a href="/animalservices/index.asp" class="rbt flaticon-dog50">&nbsp; Animal Services</a><br/>
+   </div>
+   <div style="display:inline-block;width:30%;vertical-align:top;">
+    <a href="/buildinginturlock/index.asp" class="rbt flaticon-worker5">&nbsp; Building in Turlock</a><br/>
+    <a href="/watersewergarbageservice/index.asp" class="rbt flaticon-shower5">&nbsp; Water Sewer & Garbage</a><br/>
+    <a href="/neighborhoodissues/index.asp" class="rbt flaticon-home21">&nbsp; Neighborhood Issues</a><br/>
+    <a href="/parksfieldsbuildings/index.asp" class="rbt flaticon-park15">&nbsp; Parks, Fields & Buildings</a><br/>
+    <a href="/housingprograms/index.asp" class="rbt flaticon-real11">&nbsp; Housing Programs</a><br/>
+    <a href="/streetstraffic/index.asp" class="rbt flaticon-road22">&nbsp; Streets & Traffic</a><br/>
+    <a href="/transitservices/index.asp" class="rbt flaticon-transport19">&nbsp; Transit Services</a><br/>
+   </div>
+   <div style="display:inline-block;width:30%;white-space:nowrap;vertical-align:top;">
+    <a href="/policedepartment/index.asp" class="rbt flaticon-security51">&nbsp; Police Department</a><br/>
+    <a href="/firedepartment/index.asp" class="rbt flaticon-transport604">&nbsp; Fire Department</a><br/>
+    <a href="/recreation/index.asp" class="rbt flaticon-soccer19">&nbsp; Recreation</a><br/>
+    <a href="/education/index.asp" class="rbt flaticon-teacher4">&nbsp; Education</a><br/>
+    <a href="/government/index.asp" class="rbt flaticon-public6">&nbsp; Government</a><br/>
+    <a href="/aboutturlock/index.asp" class="rbt flaticon-map30">&nbsp; About Turlock</a><br/>
+   </div>
+  </div>
+ </div>
+</div>
+
+<div id="searcharea" style="display:none;">
+ <div class="container1130">
+  <div style="padding-top:150px;text-align:center;">
+   <form action="/search/go.asp" method=post>
+    <input id=searchb type=text name=k style="width:70%;border:0px;border-bottom:3px solid #fff;background-color:#000;font:24px Roboto;color:white;">
+    <br/><br/>
+<script>
+$('#searchb').autoComplete({
+    minChars: 2,
+    source: function(term, response){
+        $.getJSON('/keywords.asp', { q: term }, function(data){ response(data); });
+    }
+});
+</script>
+    <div style="font:16px Roboto;">
+     <input name="searchplace" value="entiresite" type="radio" checked id="entiresite"><label for="entiresite"> Entire Site</label> &nbsp;&nbsp;&nbsp; 
+     <input name="searchplace" value="thissection" type="radio" id="thissection"><label for="thissection"> 404 Only</label><input type=hidden name="thissection" value="404.asp"><input type=hidden name="thissection1" value="404"> &nbsp;&nbsp;&nbsp; 
+     <span id="othercategories" style="background:#333;cursor:pointer;padding:2px 8px 2px 8px;">Other Categories</span>
+    </div>
+    <div id="othercategoryitems" style="display:none;font:16px Roboto;padding:10px 0px 0px 0px;">
+     <input name="searchplace" type="radio" value="jobdescriptions" id="jobdescriptions"><label for="jobdescriptions"> Job Descriptions</label> &nbsp;&nbsp;&nbsp; 
+     <input name="searchplace" type="radio" value="councilmeetingdocs" id="councilmeetingdocs"><label for="councilmeetingdocs"> Council Meeting Docs</label> &nbsp;&nbsp;&nbsp; 
+     <input name="searchplace" type="radio" value="businesslicenses" id="businesslicenses"><label for="businesslicenses"> Business Licenses</label> &nbsp;&nbsp;&nbsp; 
+     <input name="searchplace" type="radio" value="municipalcode" id="municipalcode"><label for="municipalcode"> Municipal Code</label> &nbsp;&nbsp;&nbsp; 
+    </div>
+    <br/><br/>
+    <button type="submit">Search</button>
+   </form>
+   <div style="padding-top:50px;font:16px Roboto;line-height:22px;"><div style="font:20px Roboto;padding-bottom:30px;">Common searches</div>
+    <div class="searchitems">
+     <a href="/watersewergarbageservice/billspayments/viewpayutilitybill/">pay utility bill</a><br/>
+     <a href="/animalservices/petadoptions/">adoptable animals</a><br/>
+     <a href="/watersewergarbageservice/billspayments/viewpayutilitybill/">landscape watering days</a><br/>
+     <a href="/streetstraffic/leafpickupprogram">leaf pickup days</a><br/>
+    </div>
+    <div class="searchitems">
+     <a href="/aboutturlock/phonenumbers">call the city</a><br/>
+     <a href="/watersewergarbageservice/billspayments/viewpayutilitybill/">landscape watering days</a><br/>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+<iframe id="loginarea" style="display:none;padding:0px;overflow-y:scroll;"></iframe>
+
+
+
+<div id="top-pc" class="topHeader">
+ <div id="bmenubar" style=""></div>
+ <div class="container1130">
+  <div style="position:relative;">
+   <div id="section1">404</div>
+   
+   <div id="breadcrumbnew"><a href="/">Home</a> &nbsp;>&nbsp; <a href="/404">404</a>
+   </div>
+   
+   <div style="position:absolute;right: 365px;top:18px;" id="loginicontainer"><div id="loginicon" style="z-index:99;"></div></div>
+   <div style="position:absolute;right: 275px;" id="searchicontainer"><div id="searchicon" style="z-index:99;"></div></div>
+   <div style="position:absolute;right:130px;"><div id="pcmenubutton" style="z-index:100;text-shadow: 2px 2px rgba(0,0,0,0.3);"><div id="menuicon" style="margin-top:2px;"><span></span><span></span><span></span><span></span></div> MENU</div></div>
+   <div id="pcsb1" style="position:absolute;right:350px;"><div id="pcloginbutton" style="z-index:100;text-shadow: 2px 2px rgba(0,0,0,0.3);margin-left:-50px;padding-left:50px;">LOGIN</div></div>
+   <div id="pcsb" style="position:absolute;right:230px;"><div id="pcsearchbutton" style="z-index:100;text-shadow: 2px 2px rgba(0,0,0,0.3);margin-left:-50px;padding-left:50px;">SEARCH</div></div>
+   <div style="position:absolute;left:80px;"><div id="pccitylogo"><a href="/index.asp"><img alt="City of Turlock" src="/_images/whitelogo.svg" class="shadow" width=85></a></div></div>
+<style>
+.shadow {
+    /* Use -webkit- only if supporting: Chrome < 54, iOS < 9.3, Android < 4.4.4 */
+    -webkit-filter: drop-shadow( 0px 1px 1px #000 ); 
+            filter: drop-shadow( 0px 1px 1px #000 );
+}
+</style>
+   
+  </div>
+ </div>
+</div>
+
+
+<div id="mobilespacer"></div>
+<div id="top-mobile" style="position:fixed;top:0;left:0;width:100%;height:60px;z-index:99;">
+ <div style="position:fixed;top:16px;left:18px;"><img alt="Menu Button" src="/_images/mobile_menu.png" onclick="showglyph()"><div style="position:fixed;top:39px;left:22px;font:8px Roboto;color:white;text-shadow:2px 2px rgba(0,0,0,0.3);" onclick="showglyph()">MENU</div></div>
+ <div style="position:fixed;top:8px;left:calc(50% - 30px);"><img alt="City Logo" src="/_images/whitelogo.svg" width=60 class="shadow"></div>
+ <div style="position:fixed;top:15px;left:calc(100% - 42px);"><img alt="Search Button" src="/_images/mobile_search.png" onclick="showsearch()"><div style="position:fixed;top:39px;left:calc(100% - 42px);font:8px Roboto;color:white;text-shadow:2px 2px rgba(0,0,0,0.3);" onclick="showsearch()">SEARCH</div></div>
+ 
+ <div style="position:fixed;top:15px;left:calc(100% - 90px);"><a href="/_webaccounts/login.asp?showlogin=1" class="login"><img alt="Login Button" src="/_images/mobile_user.png"><div style="position:fixed;top:39px;left:calc(100% - 83px);font:8px Roboto;color:white;text-shadow:2px 2px rgba(0,0,0,0.3);">LOGIN</div></a></div>
+ 
+ <div style="position:fixed;top:60px;width:100%;height:3px;display:inline-block;opacity:0.4"></div>
+ <div id="searchbar" style="position:fixed;top:60px;height:40px;width:100%;background-color:#333333;display:none;z-index:99;"><form action="/search/go.asp" id="search_form" method="post" style="margin:0"><input autocomplete="off" type="text" id="searchbm" name="k" style="font:16px Roboto;padding:4px;margin-top:5px;margin-left:18px;width:calc(100% - 102px);-webkit-appearance:none; border-radius: 0;"><input type="submit" name="commit" value="SEARCH" style="background-color:black;color:white;font:12px Roboto;border:1px solid black;padding:5px;height:32px;-webkit-appearance:none; border-radius: 0;"></form></div>
+ <script>
+  function showglyph() {
+   $("#glyphs").fadeToggle(200);
+   $("#searchbar").hide();
+  }
+  function showsearch() {
+   $("#glyphs").hide();
+   $("#searchbar").slideToggle(200);
+   $("#searchtext").focus();
+  }
+$('#searchbm').autoComplete({
+    minChars: 2,
+    source: function(term, response){
+        $.getJSON('/keywords.asp', { q: term }, function(data){ response(data); });
+    }
+});
+
+ </script>
+ <section id="glyphs" style="display:none;z-index:99;">
+  <div class="glyph"><a href="/doingbusinesswithus"><div class="glyph-icon flaticon-men16"></div>Doing Business with Us</a></div>
+  <div class="glyph"><a href="/doingbusinessinturlock"><div class="glyph-icon flaticon-businessman88"></div>Doing Business in Turlock</a></div>
+  <div class="glyph"><a href="/capitalprojects"><div class="glyph-icon flaticon-worker5"></div>Capital Projects</a></div>
+  <div class="glyph"><a href="/cityfinancesbudget"><div class="glyph-icon flaticon-budget"></div>City Finances & Budget</a></div>
+  <div class="glyph"><a href="/workingforus"><div class="glyph-icon flaticon-business53"></div>Working for Us</a></div>
+  <div class="glyph"><a href="/specialevents"><div class="glyph-icon flaticon-calendar146"></div>Special Events</a></div>
+  <div class="glyph"><a href="/animalservices"><div class="glyph-icon flaticon-dog50"></div>Animal Services</a></div>
+  <div class="glyph"><a href="/buildinginturlock"><div class="glyph-icon flaticon-worker5"></div>Building in Turlock</a></div>
+  <div class="glyph"><a href="/watersewergarbageservice"><div class="glyph-icon flaticon-shower5"></div>Water Sewer & Garbage</a></div>
+  <div class="glyph"><a href="/neighborhoodissues"><div class="glyph-icon flaticon-home21"></div>Neighborhood Issues</a></div>
+  <div class="glyph"><a href="/parksfieldsbuildings"><div class="glyph-icon flaticon-park15"></div>Parks, Fields & Buildings</a></div>
+  <div class="glyph"><a href="/housingprograms"><div class="glyph-icon flaticon-real11"></div>Housing Programs</a></div>
+  <div class="glyph"><a href="/streetstraffic"><div class="glyph-icon flaticon-road22"></div>Streets & Traffic</a></div>
+  <div class="glyph"><a href="/policedepartment"><div class="glyph-icon flaticon-security51"></div>Police Department</a></div>
+  <div class="glyph"><a href="/firedepartment"><div class="glyph-icon flaticon-transport604"></div>Fire Department</a></div>
+  <div class="glyph"><a href="/recreation"><div class="glyph-icon flaticon-soccer19"></div>Recreation</a></div>
+  <div class="glyph"><a href="/education"><div class="glyph-icon flaticon-teacher4"></div>Education</a></div>
+  <div class="glyph"><a href="/transitservices"><div class="glyph-icon flaticon-transport19"></div>Transit Services</a></div>
+  <div class="glyph"><a href="/government"><div class="glyph-icon flaticon-public6"></div>Government</a></div>
+  <div class="glyph"><a href="/aboutturlock"><div class="glyph-icon flaticon-map30"></div>About Turlock</a></div>
+ </section>
+</div>
+
+</header>
+
+<div class="container1130">
+
+
+<div class="fullwidthpage">
+<h1>Uh oh!</h1>
+<h2 style="font-family:Roboto">We couldn't find that page.</h2>
+<br/>
+
+<br/><br/><br/>
+
+
+</div>
+
+</article>
+
+
+
+</div>
+</div>
+
+<div style="position:relative;background-color:#222222;width:100%;margin-top:5px;">
+<br/><br/>
+<center>
+<div id="google_translate_element"></div>
+</center>
+
+ <div class="container1130" style="padding-top:60px;padding-bottom:50px;max-width:1130px;">
+  <div class="evenly">
+   <div class="item" id="item1">
+    <div style="font-size: 24px;font-weight: bold;color:white;padding-bottom:20px;">Popular Pages</div>
+    <a href="/watersewergarbageservice">Water, Sewer & Garbage Service</a><br/>
+    <a href="/government/turlockcitycouncil/councilmeetings.asp">City Council Meetings</a><br/>
+    <a href="/animalservices/shelteranimals">Adoptable Animals</a><br/>
+    <a href="/workingforus">Working for Us</a><br/>
+   </div>
+   <div class="item" id="item2">
+    <div style="font-size: 24px;font-weight: bold;color:white;padding-bottom:20px;">Contact Us</div>
+    <a href="/aboutturlock/phonenumbers">Phone Numbers</a><br/>
+    <a href="/aboutturlock/socialmedia">Social Media</a><br/>
+    <a href="/aboutturlock/emailaddresses">Email Addresses</a><br/>
+    <a href="/aboutturlock/addressesdirections">Addresses & Directions</a><br/>
+   </div>
+   <div class="item" id="item3">
+    <div style="font-size: 24px;font-weight: bold;color:white;padding-bottom:20px;">Stay Informed</div>
+    <a href="/covid19">Novel Coronavirus (COVID-19)</a><br/>
+    <a href="/stayinformed/pressreleases">Press Releases</a><br/>
+    <a href="/stayinformed/emailalerts">Email Alerts</a><br/>
+    <a href="/stayinformed/socialmedia">Follow Us on Social Media</a><br/>
+    <a href="/government/turlockcitycouncil/councilmeetings.asp">City Council Meetings</a><br/>
+    <a href="/stayinformed/rssfeeds">RSS Feeds</a><br/>
+   </div>
+  </div>
+ </div>
+
+
+
+<!-- Hotjar Tracking Code for turlock.ca.us -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:705034,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+ <br/><br/><br/>
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en,es,jv,ko,pa,pt,ru,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+ <div class="credits noindex">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+ <br/><br/><br/>
+
+
+</div>
+
+
+<a href="#0" class="cd-top">Top</a>
+
+<script src="/_scripts/turlock.js"></script>
+<script src="/jsonmenu.asp"></script>
+
+
+
+
+
+
+</body>
+
+</html>

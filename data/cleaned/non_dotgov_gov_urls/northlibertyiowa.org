@@ -1,0 +1,8 @@
+# Default Flywheel robots file
+User-agent: *
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*?v
+Allow: /*?cat
+Disallow: /*?
+Crawl-delay: 3

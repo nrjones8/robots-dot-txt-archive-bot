@@ -1,0 +1,2 @@
+User-agent: PowerMapper
+Allow: /

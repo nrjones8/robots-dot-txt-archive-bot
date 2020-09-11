@@ -1,0 +1,820 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow" />
+<link rel="alternate" href="https://wildwoodcrest.org/robots.txt"/>
+<title>404 | Borough of Wildwood Crest</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Vollkorn&display=swap" rel="stylesheet"> 
+<link rel="SHORTCUT ICON" href="images/wcnj.ico">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MTRVQ5X');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTRVQ5X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#F4F4F4">
+	 <script src="js/jquery-1.9.1.js" type="text/javascript"></script>
+
+<script>
+
+ function announce1() 
+ {
+	var cont = 'announce';
+	$.ajax({
+    type: "POST",
+    url: "setannounce.php",
+    data: {content:cont},
+    success: function(respns) {
+			var response = respns;
+			
+			if(response!="")
+			{
+				
+				document.getElementById('announce').style.display='none';
+			}
+			else if(response=='')
+			{
+				
+				document.getElementById('announce').style.display='block';
+			}
+			}
+      }); 
+}
+
+</script>
+
+<style>
+
+<!-- Marquee Style Tag Starts -->
+
+
+.collapsible:before {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+
+}
+
+
+.collapsible:after {
+  content: '\25BC';
+  color: #bbbbbb;
+  font-weight: bold;
+  //float: right;
+   float: left;
+  margin-left: 5px;
+  font-size : 18px;
+
+}
+
+.active1:after {
+  content: "\25B2";
+      margin-top: -12px;
+}
+
+
+
+
+
+<!-- Marquee Style Tag Ends -->
+</style>
+<style>
+.contentas {
+  padding: 0 18px;
+  //max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f4f4f4;
+}
+</style>
+	
+	<div id="announce" style="padding:5px">
+	<table width="90%" border="0" cellspacing="0" cellpadding="0">
+	
+
+      <tr>
+       
+          <td width="99%" align="center" class="copyright2 size14" style="line-height:15px;">
+		  
+	<span class="collapsible announcementgray"  style="text-align:center;font-size:18px;background-color:#f4f4f4;cursor:pointer;"><label id="imp" style="display:none;">Important Announcement</label></span>
+		<div class="contentas  smallspacing announcementgray">
+			<div>&nbsp;</div>
+		<p><strong style="text-decoration: underline;"><img src="https://wildwoodcrest.org/images/umbrellaicon.png" alt="Umbrella Icon" width="40" height="32" align="middle" />BEACH BOX</strong> REGISTRATION INFORMATION - <a href="https://wildwoodcrest.org/beachboxes.php">CLICK HERE</a>!</p><p>Important information from the Borough of Wildwood Crest regarding COVID-19 (CORONAVIRUS)<a href="https://wildwoodcrest.org/covid19.php"> - Click Here</a></p><p>Wildwood Crest Borough-Wide Yard Sale Saturday, October 3 -- <a href="https://wildwoodcrest.org/images/Wildwood%20Crest%20borough-wide%20yard%20sale%202020.pdf" target="_blank" rel="noopener">Click For More Info</a> -- <a href="https://wildwoodcrest.org/images/Yard%20Sale%20Reg%2010-3-20.pdf" target="_blank" rel="noopener">Click For Registration Form</a></p>		</div>
+		</td>
+        <td width="1%" align="center"><img src="images/t.gif" width="26" height="27" alt="" border="0" /></td>
+      </tr>
+    </table>
+	</div>
+
+
+
+<script>
+
+var coll = document.getElementsByClassName("collapsible");
+var emp = document.getElementsByClassName("emptyrow");
+var es = document.getElementById("extraspace");
+var i;
+
+
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() 
+  {
+
+    this.classList.toggle("active1");
+    var content = this.nextElementSibling;
+	
+    if (content.style.maxHeight)
+	{
+					content.style.maxHeight = null;
+
+				  
+	  
+	  var h=content.scrollHeight + "px";
+	  
+	  $(".contentas").height(h);
+	  // es.style.height= h;
+	 // $("#mydiv").css("margin-top", "-110px");
+
+	$('#imp').css('display','none');
+    } 
+	else 
+	{
+		
+		content.style.maxHeight = content.scrollHeight + "px";
+			   $(".contentas").height("10px");
+		
+$('#imp').css('display','block');
+$('.collapsible:after').css('margin-top','-12px');
+
+		//es.style.height= "0px";
+    
+	 
+    } 
+  });
+} 
+</script>
+
+
+
+	</td>
+  </tr>
+  
+  
+  <tr>
+    <td align="center"> <style>
+
+
+.float{
+	    z-index: 5000;
+
+	position:fixed;
+	width:60px;
+	height:60px;
+	//bottom:40px;
+	//right:0px;
+	left: 25px;
+
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+}
+</style>
+
+
+<!-- Code begins here -->
+
+<a href="beachcam.php" target="_blank" class="float">
+<img src="images/beachcamlarge.png" width="100" height="100">
+</a>
+ 
+ <script src="js/jquery-1.9.1.js"></script>
+
+ <link href="styles.css" rel="stylesheet" type="text/css">
+ 
+ <style>
+ 
+.navbarmn 
+{
+  overflow: hidden;
+}
+
+.navbarmn a 
+{
+  float: left;
+  font-size: 15px;
+  text-align: center;
+  padding: 0px 0px 0px 18px;
+  text-decoration: none;
+}
+
+.dropdownmn 
+{
+  float: left;
+  overflow: hidden;
+}
+
+.dropdownmn .dropbtnmn 
+{
+  font-size: 15px;  
+  border: none;
+  outline: none;
+  padding: 0px 0px 0px 18px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown1mn .dropdown2mn .dropdown3mn 
+{
+  font-size: 15px;  
+  border: none;
+  outline: none;
+  padding: 12px 14px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbarmn a:hover, .dropdownmn:hover .dropbtnmn 
+{
+  cursor: pointer;
+}
+
+.dropdown-contentmn 
+{
+  display: none;
+  position: absolute;
+  /* background-color: #0097D7; */
+  min-width: 365px;
+  z-index: 1000;
+  padding-top: 8px;
+}
+
+.dropdown-content1mn 
+{
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 365px;
+  z-index: 1;
+}
+
+.dropdown-content2mn 
+{
+  display: none;
+  /* position: absolute; */
+  position: relative;
+  background-color: #f9f9f9;
+  min-width: 365px;
+  z-index: 1;
+}
+
+.dropdown-content3mn 
+{
+  display: none;
+  /* position: absolute; */
+  position: relative;
+  background-color: #f9f9f9;
+  min-width: 365px;
+  z-index: 1;
+}
+
+.dropdown-contentmn a 
+{
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  background-color: #0097D7;
+}
+
+.dropdown-contentmn a:hover 
+{
+  background-color: #0175a8;
+}
+
+.dropdownmn:hover .dropdown-contentmn 
+{
+  display: block;
+}
+
+.dropdown1mn:hover .dropdown-content1mn 
+{
+  display: block;
+}
+
+.dropdown2mn:hover .dropdown-content2mn 
+{
+  display: block;
+}
+
+.dropdown3mn:hover .dropdown-content3mn 
+{
+  display: block;
+}
+
+.dropdown-content1mn a:hover 
+{
+	color:#FDB939;
+}
+
+.dropdown-content2mn a:hover 
+{
+	color:#FDB939;
+}
+
+.dropdown-content3mn a:hover 
+{
+	color:#FDB939;
+}
+
+
+
+</style>
+ 
+ 
+ 
+<table width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+        <td width="180"><p><a href="https://wildwoodcrest.org/index.php"><img src="https://wildwoodcrest.org/images/wildwoodcrestnj.png" width="229" height="103" alt="Wildwood Crest New Jersey" border="0" /></a></p></td>
+        <td width="820" align="left" valign="middle" class="size15"><strong>
+		
+		<div class="navbarmn">
+	
+		<div class="dropdownmn">
+			
+			<a href="" class="dropbtnmn">RECREATION/TOURISM</a>
+			<img src="images/bluearrow.png" width="16" height="12" alt="Residents Arrow" border="0" />
+			
+			
+			<div class="dropdown-contentmn" >
+							
+			<a href="https://wildwoodcrest.org/recreation.php" style="border: 0.5px solid #bfc4c8;"  >RECREATION DEPARTMENT</a>
+							
+			<a href="https://wildwoodcrest.org/events.php" style="border: 0.5px solid #bfc4c8;"  >EVENTS & FESTIVALS</a>
+							
+			<a href="https://wildwoodcrest.org/directory.php" style="border: 0.5px solid #bfc4c8;"  >BUSINESS DIRECTORY</a>
+							
+			<a href="https://wildwoodcrest.org/beachcam.php" style="border: 0.5px solid #bfc4c8;"  >BEACH CAM</a>
+							
+			<a href="https://wildwoodcrest.org/video.php" style="border: 0.5px solid #bfc4c8;"  >WATCH OUR VIDEO</a>
+							
+			<a href="https://wildwoodcrest.org/attractions.php" style="border: 0.5px solid #bfc4c8;"  >ATTRACTIONS & VENUES</a>
+							
+			<a href="https://wildwoodcrest.org/lodging.php" style="border: 0.5px solid #bfc4c8;"  >LODGING</a>
+							
+			<a href="https://wildwoodcrest.org/beachboxes.php" style="border: 0.5px solid #bfc4c8;"  >BEACH BOXES</a>
+							
+			<a href="https://wildwoodcrest.org/weddings.php" style="border: 0.5px solid #bfc4c8;"  >WEDDINGS</a>
+							
+			<a href="https://wildwoodcrest.org/weather.php" style="border: 0.5px solid #bfc4c8;"  >WEATHER</a>
+							
+			<a href="https://wildwoodcrest.org/gallery.php" style="border: 0.5px solid #bfc4c8;"  >PHOTO GALLERY</a>
+							
+			</div>
+		</div> 
+		
+		
+		
+		<div class="dropdownmn">
+			
+			<a class="dropbtnmn redlink" href="">DEPARTMENTS</a>
+			<img src="images/yellowarrow.png" width="16" height="12" alt="Borough Hall Arrow" border="0" />
+			
+			<div class="dropdown-contentmn" >
+							
+			<a href="https://wildwoodcrest.org/mayor.php" style="border: 0.5px solid #bfc4c8;" >MAYOR & COMMISSIONERS</a>
+							
+			<a href="https://wildwoodcrest.org/municipalclerk.php" style="border: 0.5px solid #bfc4c8;" >MUNICIPAL CLERK</a>
+							
+			<a href="https://wildwoodcrest.org/planningzoning.php" style="border: 0.5px solid #bfc4c8;" >PLANNING / ZONING</a>
+							
+			<a href="https://wildwoodcrest.org/revenuefinance.php" style="border: 0.5px solid #bfc4c8;" >REVENUE & FINANCE</a>
+							
+			<a href="https://wildwoodcrest.org/taxcollector.php" style="border: 0.5px solid #bfc4c8;" >TAX COLLECTOR</a>
+							
+			<a href="https://wildwoodcrest.org/municipalcourt.php" style="border: 0.5px solid #bfc4c8;" >MUNICIPAL COURT</a>
+							
+			<a href="https://wildwoodcrest.org/publicworks.php" style="border: 0.5px solid #bfc4c8;" >PUBLIC WORKS</a>
+							
+			<a href="https://wildwoodcrest.org/taxaccessor.php" style="border: 0.5px solid #bfc4c8;" >TAX ASSESSOR</a>
+							
+			<a href="https://wildwoodcrest.org/construction.php" style="border: 0.5px solid #bfc4c8;" >CONSTRUCTION</a>
+							
+			<a href="https://wildwoodcrest.org/boardscommittees.php" style="border: 0.5px solid #bfc4c8;" >BOARDS & COMMITTEES</a>
+							
+				
+				
+			</div>
+		</div> 
+		
+		<div class="dropdownmn">
+			
+			<a class="dropbtnmn yellowlink" href="">PUBLIC SAFETY</a>
+			<img src="images/yellowarrow.png" width="16" height="12" alt="Borough Hall Arrow" border="0" />
+			
+			<div class="dropdown-contentmn" >
+							
+			<a href="https://wildwoodcrest.org/ambulance.php" style="border: 0.5px solid #bfc4c8;" >AMBULANCE CORPS</a>
+							
+			<a href="https://wildwoodcrest.org/beachpatrol.php" style="border: 0.5px solid #bfc4c8;" >BEACH PATROL</a>
+							
+			<a href="https://wildwoodcrest.org/codeenforcement.php" style="border: 0.5px solid #bfc4c8;" >CODE ENFORCEMENT</a>
+							
+			<a href="https://wildwoodcrest.org/firedepartment.php" style="border: 0.5px solid #bfc4c8;" >FIRE DEPARTMENT</a>
+							
+			<a href="https://wildwoodcrest.org/fireprevention.php" style="border: 0.5px solid #bfc4c8;" >FIRE PREVENTION</a>
+							
+			<a href="https://wildwoodcrest.org/trafficsafety.php" style="border: 0.5px solid #bfc4c8;" >TRAFFIC SAFETY</a>
+							
+			<a href="https://wildwoodcrest.org/police.php" style="border: 0.5px solid #bfc4c8;" >POLICE DEPARTMENT</a>
+							
+				
+				
+			</div>
+		</div> 
+		
+		<div class="dropdownmn">
+			
+			<a class="dropbtnmn" href="">INFORMATION</a>
+			<img src="images/bluearrow.png"  width="16" height="12" alt="Information Arrow" border="0" />
+			<div class="dropdown-contentmn">
+			<div class="dropdown3mn" id="meeting">
+				<a href="#" style="border: 0.5px solid #bfc4c8;" >MEETINGS, BIDS, BUDGETS & AUDITS</a>
+				<div class="dropdown-content3mn">
+								<table align="left" border="0"  cellpadding="0" cellspacing="0" style="background-color: #0175a8;width:365px;margin-bottom: 10px;">
+				  
+				<tr>
+								<td ><a class="sbmmenu" href="https://wildwoodcrest.org/agendas.php" style="border: none; background-color: #0175a8; font-size: 15px;
+				padding: 10px;margin-left: 20px;">-Agendas</a></td>
+								<td ><a class="sbmmenu" href="https://wildwoodcrest.org/proposals.php" style="border: none; background-color: #0175a8; font-size: 15px;
+				padding: 10px;margin-left: 20px;">-Bid Proposals</a></td>
+						
+				</tr>
+				  
+				<tr>
+								<td ><a class="sbmmenu" href="https://wildwoodcrest.org/budgets.php" style="border: none; background-color: #0175a8; font-size: 15px;
+				padding: 10px;margin-left: 20px;">-Budgets / Audits</a></td>
+								<td ><a class="sbmmenu" href="https://wildwoodcrest.org/meetings.php" style="border: none; background-color: #0175a8; font-size: 15px;
+				padding: 10px;margin-left: 20px;">-Meetings</a></td>
+						
+				</tr>
+				  
+				<tr>
+								<td ><a class="sbmmenu" href="https://wildwoodcrest.org/minutes.php" style="border: none; background-color: #0175a8; font-size: 15px;
+				padding: 10px;margin-left: 20px;">-Minutes</a></td>
+								</table>
+				</div>
+				</div> 
+			
+							
+			<a href="https://wildwoodcrest.org/boroughcode.php" style="border: 0.5px solid #bfc4c8;" >BOROUGH CODE</a>
+							
+			<a href="https://wildwoodcrest.org/specialprojects.php" style="border: 0.5px solid #bfc4c8;" >SPECIAL PROJECTS</a>
+							
+			<a href="https://wildwoodcrest.org/newsletters.php" style="border: 0.5px solid #bfc4c8;" >NEWSLETTERS</a>
+							
+			<a href="https://wildwoodcrest.org/press.php" style="border: 0.5px solid #bfc4c8;" >PRESS RELEASES</a>
+							
+			<a href="https://wildwoodcrest.org/jobs.php" style="border: 0.5px solid #bfc4c8;" >JOB POSTINGS/EMPLOYMENT</a>
+							
+			<a href="https://wildwoodcrest.org/covid19.php" style="border: 0.5px solid #bfc4c8;" >COVID-19 (CORONAVIRUS)</a>
+						</div>
+		</div> 
+		
+	
+			
+		<a href="contact.php" class="redlink">CONTACT</a>
+
+		
+		</div>
+		
+		
+		
+ 
+			
+		
+		
+		</td>
+      </tr>
+	  </table>
+</td>
+  </tr>
+  
+  
+  
+  <tr>
+    <td align="center" background="images/pagebg.jpg" class="repeatx">
+	<table width="1000" border="0" cellpadding="0" cellspacing="0" class="medspacing">
+      <tr>
+        <td><img src="images/t.gif" width="30" height="30" alt="" border="0" /></td>
+      </tr>
+      <tr>
+        <td align="center">
+		<h1 class="montserrat">Error 404 - Page not Found.</h1>
+        <p>Sorry, but the page you were looking for could not be found.</p>
+		</td>
+      </tr>
+      <tr>
+        <td><img src="images/t.gif" width="30" height="30" alt="" border="0" /></td>
+      </tr>
+    </table>
+	</td>
+  </tr>
+  <tr>
+    <td background="images/footerfade.png"><img src="images/t.gif" width="15" height="18" alt="" border="0" /></td>
+  </tr>
+  
+  
+  
+  <tr>
+ <td>
+ <tr><td>
+  <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Button used to open the contact form - fixed at the bottom of the page */
+.open-button {
+/*   background-color: #555; */
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 0px;
+    right: 24px;
+    width: 150px;
+  
+}
+.closebtn{
+	 border: none;
+	  padding: 16px 20px;
+     cursor: pointer;
+	 opacity: 0.8;
+	 
+     float: right;
+	 bottom: 23px;
+	 right: 0px;
+	 width: 150px;
+	
+}
+/* The popup form - hidden by default */
+.form-popup {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+ /*  border: 3px solid #f1f1f1; */
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  padding: 10px;
+ /*  background-color: white; */
+}
+
+/* Full-width input fields */
+.form-container input[type=text], .form-container input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.form-container input[type=text]:focus, .form-container input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+  background-color: #042d55; 
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+.search{
+	background-color: white;
+	border: 3px solid #f1f1f1;
+	padding: 30px;
+}
+
+/* Add a red background color to the cancel button */
+.form-container .cancel {
+ /*  background-color: red; */
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+
+<!--<button class="open-button" onclick="openForm()">Open Form</button>-->
+<img src="images/search.png"  class="open-button" id="openbtn" onclick="openForm()" >
+<div class="form-popup" id="myForm">
+  <form action="search.php" class="form-container">
+  <div class="search">
+    <label for="search" align="center"><b>SEARCH</b></label>
+    <input type="text" placeholder="Enter search Value" name="search" required>
+
+    
+
+    <button type="submit" class="btn">Search</button>
+	</div>
+	<img src="images/search.png" class="closebtn" id="closebtn" onclick="closeForm()">
+    <!--<button type="button" class="btn cancel" onclick="closeForm()">Close</button>-->
+  </form>
+</div>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+  document.getElementById("closebtn").style.display = "block";
+  document.getElementById("openbtn").style.display = "none"
+
+  
+  
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+  document.getElementById("closebtn").style.display = "none";
+   document.getElementById("openbtn").style.display = "block";
+}
+</script>
+
+</body>
+</html>  </td></tr>
+<table id="f" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td background="images/footerfade.png"><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="18" alt="" border="0" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#042D55">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="3"><img src="https://wildwoodcrest.org/images/t.gif" width="25" height="25" alt="" border="0" /></td>
+</tr>
+<tr>
+<td width="410" align="center" valign="middle" class="size20 spacing"><img src="https://wildwoodcrest.org/images/location.png" width="40" height="58" alt="Location" border="0" /><br /><strong><a href="https://wildwoodcrest.org/contact.php" class="copyrightlink">6101 Pacific Avenue</a></strong><br /><span class="white">Wildwood Crest, NJ</span></td>
+<td width="180" align="center" valign="middle"><a href="https://wildwoodcrest.org/index.php"><img src="https://wildwoodcrest.org/images/wildwoodcrest.png" width="180" height="163" alt="Wildwood Crest New Jersey" border="0" /></a></td>
+<td width="410" align="center" valign="middle" class="size20 spacing"><img src="https://wildwoodcrest.org/images/phone.png" width="40" height="58" alt="Phone" border="0" /><br /><strong><a href="tel:6095225176" class="copyrightlink">(609) 522-5176</a></strong><br /><span class="white">General Questions / Inquiries</span></td>
+</tr>
+<tr>
+<td colspan="3"><img src="https://wildwoodcrest.org/images/t.gif" width="25" height="25" alt="" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td background="images/footerimage.jpg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="images/footerfade.png">
+<tbody>
+<tr>
+<td align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td colspan="5"><img src="https://wildwoodcrest.org/images/t.gif" width="25" height="25" alt="" border="0" /></td>
+</tr>
+<tr class="spacing textshadowblue2">
+<td align="left" valign="top">
+<p><img src="https://wildwoodcrest.org/images/t.gif" width="25" height="25" alt="" border="0" /></p>
+</td>
+<td align="left" valign="top"><span><a href="https://wildwoodcrest.org/index.php" class="whitelink"><strong>HOME</strong></a><br /><a href="https://wildwoodcrest.org/contact.php" class="whitelink"><strong>CONTACT</strong></a><br /><a href="https://wildwoodcrest.org/sitemap.php" class="whitelink"><strong>SITE MAP</strong></a><br /><a href="https://wildwoodcrest.org/login.php" class="whitelink"><strong>ADMIN</strong></a></span></td>
+<td align="left" valign="top">
+<p><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="25" alt="" border="0" /></p>
+</td>
+<td align="left" valign="top"><span class="white"><strong>RECREATION/TOURISM</strong></span><strong><br /><a href="https://wildwoodcrest.org/recreation.php" class="copyrightlink">Recreation Department</a><br /><a href="https://wildwoodcrest.org/events.php" class="copyrightlink"><strong>Events &amp; Festivals</strong></a><br /><a href="https://wildwoodcrest.org/directory.php" class="copyrightlink"><strong>Business Directory</strong></a><br /><a href="https://wildwoodcrest.org/attractions.php" class="copyrightlink"><strong>Attractions &amp; Venues</strong></a><br /><a href="https://wildwoodcrest.org/lodging.php" class="copyrightlink"><strong>Lodging</strong></a><br /><a href="https://wildwoodcrest.org/beachboxes.php" class="copyrightlink">Beach Boxes</a><br /><a href="https://wildwoodcrest.org/weddings.php" class="copyrightlink">Weddings</a><br /><a href="https://wildwoodcrest.org/weather.php" class="copyrightlink"><strong>Weather</strong></a><br /><a href="https://wildwoodcrest.org/gallery.php" class="copyrightlink">Photo Gallery</a> </strong></td>
+<td align="left" valign="top"><strong><span class="white">DEPARTMENTS</span></strong><br /><strong> <a href="https://wildwoodcrest.org/mayor.php" class="copyrightlink"> Mayor &amp; Commissioners</a><br /><a href="https://wildwoodcrest.org/municipalclerk.php" class="copyrightlink">Municipal Clerk</a><br /><a href="https://wildwoodcrest.org/planningzoning.php" class="copyrightlink"> Planning / Zoning</a><br /><a href="https://wildwoodcrest.org/revenuefinance.php" class="copyrightlink"> Revenue &amp; Finance</a><br /><a href="https://wildwoodcrest.org/taxcollector.php" class="copyrightlink"> Tax Collector</a><br /><a href="https://wildwoodcrest.org/municipalcourt.php" class="copyrightlink"> Municipal Court</a><br /><a href="https://wildwoodcrest.org/publicworks.php" class="copyrightlink"> Public Works</a><br /><a href="https://wildwoodcrest.org/taxaccessor.php" class="copyrightlink">Tax Accessor</a><br /><a href="https://wildwoodcrest.org/construction.php" class="copyrightlink"> Construction</a><br /><a href="https://wildwoodcrest.org/boardscommittees.php" class="copyrightlink">Boards &amp; Committees</a><br /></strong></td>
+<td align="left" valign="top"><strong><span class="white">PUBLIC SAFETY</span></strong><br /><strong> <a href="https://wildwoodcrest.org/ambulance.php" class="copyrightlink">Ambulance Corps</a><br /><a href="https://wildwoodcrest.org/beachpatrol.php" class="copyrightlink">Beach Patrol</a><br /><a href="https://wildwoodcrest.org/codeenforcement.php" class="copyrightlink"> Code Enforcement</a><br /><a href="https://wildwoodcrest.org/firedepartment.php" class="copyrightlink"> Fire Department</a><br /><a href="https://wildwoodcrest.org/fireprevention.php" class="copyrightlink"> Fire Prevention</a><br /><a href="https://wildwoodcrest.org/police.php" class="copyrightlink"> Police Department</a><br /><a href="https://wildwoodcrest.org/trafficsafety.php" class="copyrightlink"> Traffic Safety</a><br /></strong></td>
+<td align="left" valign="top"><span class="white"><strong>INFORMATION</strong></span><br /><strong><span class="yellow">Meetings, Bids, Budgets &amp; Audits</span></strong><br /><a href="https://wildwoodcrest.org/agendas.php" class="copyrightlink">- Agendas</a><br /><a href="https://wildwoodcrest.org/proposals.php" class="copyrightlink">- Bid Proposals</a><br /><a href="https://wildwoodcrest.org/budgets.php" class="copyrightlink">- Budgets / Audits</a><br /><a href="https://wildwoodcrest.org/meetings.php" class="copyrightlink">- Meetings</a><br /><a href="https://wildwoodcrest.org/minutes.php" class="copyrightlink">- Minutes</a><br /><strong><a href="https://wildwoodcrest.org/boroughcode.php" class="copyrightlink">Borough Code</a><br /><a href="https://wildwoodcrest.org/newsletters.php" class="copyrightlink">Newsletters</a><br /><a href="https://wildwoodcrest.org/press.php" class="copyrightlink">Press Releases </a><br /><a href="https://wildwoodcrest.org/jobs.php" class="copyrightlink">Job Postings/Employment</a><br /><a href="hhttps://wildwoodcrest.org/covid19.php" class="copyrightlink">COVID-19</a><br /></strong></td>
+</tr>
+<tr>
+<td colspan="5"><img src="https://wildwoodcrest.org/images/t.gif" width="25" height="25" alt="" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0097D7">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="18" alt="" border="0" /></td>
+</tr>
+<tr>
+<td align="center" class="size36 white">IT'S BETTER IN THE CREST</td>
+</tr>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="18" alt="" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table width="1000" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="18" alt="" border="0" /></td>
+</tr>
+<tr>
+<td align="center">
+<table width="140" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="12"><a href="https://www.facebook.com/WildwoodCrestNJ/" target="_blank" rel="noopener"><img src="https://wildwoodcrest.org/images/facebook.png" alt="Facebook" width="12" height="25" border="0" /></a></td>
+<td width="12"><img src="https://wildwoodcrest.org/images/t.gif" width="12" height="30" alt="" border="0" /></td>
+<td width="36"><a href="https://www.youtube.com/channel/UCOfTj838QwPw-gOPbaCaMbQ" target="_blank" rel="noopener"><img src="https://wildwoodcrest.org/images/youtube.png" alt="YouTube" width="36" height="25" border="0" /></a></td>
+<td width="12"><img src="https://wildwoodcrest.org/images/t.gif" width="12" height="30" alt="" border="0" /></td>
+<td width="26"><a href="https://www.instagram.com/wildwoodcrest/" target="_blank" rel="noopener"><img src="https://wildwoodcrest.org/images/instagram.png" alt="Instagram" width="26" height="25" border="0" /></a></td>
+<td width="12"><img src="https://wildwoodcrest.org/images/t.gif" width="12" height="30" alt="" border="0" /></td>
+<td width="30"><a href="https://twitter.com/Wildwood_Crest" target="_blank" rel="noopener"><img src="https://wildwoodcrest.org/images/twitter.png" alt="Twitter" width="30" height="25" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="15" alt="" border="0" /></td>
+</tr>
+<tr>
+<td align="center"><img src="https://wildwoodcrest.org/images/linespacer.png" width="583" height="12" alt="" border="0" /></td>
+</tr>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="15" alt="" border="0" /></td>
+</tr>
+<tr>
+<td align="center" class="copyright2 size15">&copy; Borough of Wildwood Crest - All Rights Reserved. Web Site Designed By: <a href="http://designsquare1.com" target="_blank" class="copyrightlink2" rel="noopener">Square 1 Design</a></td>
+</tr>
+<tr>
+<td><img src="https://wildwoodcrest.org/images/t.gif" width="15" height="18" alt="" border="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>  </td>
+ </tr>
+</table>
+</body>
+</html>

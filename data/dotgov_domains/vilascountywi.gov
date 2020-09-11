@@ -690,7 +690,10 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
 	<div id="topfooter" class="clearfix">
 		<div id="footer-effect" style="background:url('./_assets_/images/footer-bg.png') center no-repeat;background-size:cover"></div>
 		<div class="container">
-		<a href="./" id="footer-logo"><img src="_assets_/images/footer-logo.png" alt="footer logo"></a>
+		<div class="pull-left" id="footer-logos">
+		    <a href="./" id="footer-logo"><img src="_assets_/images/footer-logo.png" alt="footer logo"></a><br>
+		    <a href="https://www.govtech.com/dc/digital-counties/Digital-Counties-Survey-2020--Winners-Announced.html" id="footer-logo-2"><img src="_assets_/images/footer-logo-2.png" alt="footer logo second"></a>
+		</div>
 		<div id="footer-links" class="clearfix">
 			<div class="footer-link">
 				<div class="header-editbtn freeform-none">

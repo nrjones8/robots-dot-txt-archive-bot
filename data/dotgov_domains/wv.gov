@@ -1,0 +1,1056 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" __expr-val-dir="ltr" dir="ltr">
+<head><title>
+	
+	State of West Virginia
+
+</title>
+<!-- Security Trim includes meta for prompting IE9 into compatibility mode -->
+<!-- Supresses core ans init js and css only required for admin -->
+<meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta property='og:description' content='WV.gov is the official Web site for the State of West Virginia and is the result of an innovative public-private partnership between the state and West Virginia Interactive.' /><meta property='og:image' content='' /><meta property='og:title' content='Home' /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@wvgov" /><meta name='twitter:description' content='WV.gov is the official Web site for the State of West Virginia and is the result of an innovative public-private partnership between the state and West Virginia Interactive.' /><meta name='twitter:image' content='' /><meta name='twitter:title' content='Home' /><meta name="description" content="WV.gov is the official Web site for the State of West Virginia and is the result of an innovative public-private partnership between the state and West Virginia Interactive." /><script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=mdjxRHK1V7KZ%2BuOTcNNcmQ%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=bjNzjQi8eMdNVSqFjcJsM3UN8MO4RXY8ZnEklKqD6b-mesgIDzaRR9PEbrTPARG6MFQB4vvrbmPZlj6iUXNW346vsul23OvtJx4WD4X4r8kc_3dtl35Eb7ln1TpG-KWJWOlXJrlPmqLf2ZMQ0EvxMwCmfz41&amp;t=3f4a792d"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" /><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/layouts.css?rev=ntZm7Swfe3gVlwGtlb8OdQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=cubXjmzpjBGT%2FzzR9ULbAw%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/WVgov.css"/>
+
+<!--Social Media Image-->
+<meta property="og:image" content="https://www.wv.gov/images/homebkg.jpg" /><meta http-equiv="Expires" content="0" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWHG86B');</script>
+<!-- End Google Tag Manager -->
+
+<!-- favicon -->
+<link rel="shortcut icon" href="/images/icon.ico" type="image/x-icon" />
+
+
+<!-- Custom Style Sheets -->
+<link rel="stylesheet" type="text/css" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.3.1/css/bootstrap.min.css" /><link rel="stylesheet" type="text/css" href="/Style Library/css/all.min.css" /><link rel="stylesheet" type="text/css" href="/Style%20Library/searchstyle.css" /><link rel="stylesheet" type="text/css" href="/Style%20Library/searchstyle(1).css" /><link rel="stylesheet" type="text/css" href="/Style%20Library/WVgov.css" /><link rel="alternate stylesheet" type="text/css" media="screen" title="HC-Theme" href="/Style Library/WVgovHighContrast.css" />
+
+<!-- Fix for Bootstrap -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://apps.wv.gov/scripts/redirect.js"></script>
+<script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12308188-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+function clearText(thefield){
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+}
+$(document).ready(function() {
+		$(".navigation").hideAway();
+ 	        $('#search').css('display', 'block');
+		});
+</script>
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+	jQuery(document).ready(function($) {
+		var filetypes = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i;
+		var baseHref = '';
+		if (jQuery('base').attr('href') != undefined)
+			baseHref = jQuery('base').attr('href');
+		jQuery('a').each(function() {
+			var href = jQuery(this).attr('href');
+			if (href && (href.match(/^https?\:/i)) && (!href.match(document.domain))) {
+				jQuery(this).click(function() {
+					var extLink = href.replace(/^https?\:\/\//i, '');
+					_gaq.push(['_trackEvent', 'External', 'Click', extLink]);
+					if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+						setTimeout(function() { location.href = href; }, 200);
+						return false;
+					}
+				});
+			}
+			else if (href && href.match(/^mailto\:/i)) {
+				jQuery(this).click(function() {
+					var mailLink = href.replace(/^mailto\:/i, '');
+					_gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+				});
+			}
+			else if (href && href.match(filetypes)) {
+				jQuery(this).click(function() {
+					var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+					var filePath = href;
+					_gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+					if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+						setTimeout(function() { location.href = baseHref + href; }, 200);
+						return false;
+					}
+				});
+			}
+		});
+	});
+}
+</script>
+
+</head>
+
+<body onload="javascript:_spBodyOnLoadWrapper();">
+<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWDAIGDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIJDxYCHwALKwQBZAIMDxYCHwALKwQBZAIRDxYCHwALKwQBZAIUDxYCHwALKwQBZAIXDxYCHwALKwQBZAIDD2QWAgIID2QWAgIBD2QWBGYPZBYCAgEPFgIeB1Zpc2libGVoFgJmD2QWBAICD2QWBgIBDxYCHwFoZAIDDxYIHhNDbGllbnRPbkNsaWNrU2NyaXB0BWZqYXZhU2NyaXB0OkNvcmVJbnZva2UoJ1Rha2VPZmZsaW5lVG9DbGllbnRSZWFsJywxLCA1MywgJ2h0dHBzOlx1MDAyZlx1MDAyZnd3dy53di5nb3YnLCAtMSwgLTEsICcnLCAnJykeGENsaWVudE9uQ2xpY2tOYXZpZ2F0ZVVybGQeKENsaWVudE9uQ2xpY2tTY3JpcHRDb250YWluaW5nUHJlZml4ZWRVcmxkHgxIaWRkZW5TY3JpcHQFIlRha2VPZmZsaW5lRGlzYWJsZWQoMSwgNTMsIC0xLCAtMSlkAgUPFgIfAWhkAgMPDxYKHglBY2Nlc3NLZXkFAS8eD0Fycm93SW1hZ2VXaWR0aAIFHhBBcnJvd0ltYWdlSGVpZ2h0AgMeEUFycm93SW1hZ2VPZmZzZXRYZh4RQXJyb3dJbWFnZU9mZnNldFkC6wNkZAIBD2QWBAIDD2QWAgIBDxAWAh8BaGQUKwEAZAIFD2QWAmYPZBYCZg8UKwADZGRkZGQ17Hu9gyes0uVKrXRvQpqEGmPemA==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{751dafc9-9892-41f1-bbbd-af1d5d5b6922}",pageItemId:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
+                            function DoCallBack(filterText)
+                            {WebForm_DoCallback('ctl00$m$g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            }
+                            function CallBackError(result, clientsideString)
+                            {                
+                            }
+                        document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWHG86B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+<noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
+  
+<!-- ribbon -->  
+
+ 
+<!-- Page Content -->
+
+<!-- Accessibility -->
+<div class="skip"><a href="#nav" class="hidden-print">Skip to Navigation</a></div>
+<div class="skip"><a href="#readmaincontent" class="hidden-print">Skip to Main Content</a></div>
+
+<!-- Code For Website Starts Here -->
+<div class="fullsite" id="top" >
+
+<!--Go to Top Button-->
+<a href="#top" class="btn grow" id="myTopBtn" title="Go to top"><i class="fa fa-arrow-circle-up"></i><br/>Top</a>
+
+<!--Enterprise Header-->
+<div class="entheader d-none d-md-block">
+<div class="container-fluid">
+<div class="row">
+<div class="col-12 col-md-5 d-none d-md-block">The Official Website of the State of West Virginia</div>
+<div class="col-12 col-md-7 directories"><a href="/agencies">Agency Directory</a> | <a href="/pages/state-phone-directory.aspx">Phone Directory</a> | <a href="/services">Online Services</a> | <a href="https://appengine.egov.com/apps/wv/wvgov/contactus">Contact Us</a></div>
+</div>
+</div>
+</div>
+<!--End Enterprise Header-->
+
+<!--Background Image Placeholder-->
+<div class="wvBackground">
+
+
+<!--Homepage Image--><p class="wvbkghome"><img src="https://cdn.wvgovstatus.com/sharepoint/wv/homebkg.jpg" alt="" /></p><!--End Homepage Image-->
+
+
+<!--Content contained within photo-->
+<div class="photoContent">
+  
+<!--Navigation-->
+<div class="navigation">
+<nav class="navbar navbar-expand-md navbar-light">
+  <a class="navbar-brand" href="/"><img src="/images/wvgovlogo.png" alt="WV.gov Logo" /></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent" id="nav">
+    <ul class="navbar-nav mr-auto">
+         <li class="nav-item">
+        <a class="nav-link whitelink grow" href="/pages/business.aspx"><i class="fas fa-briefcase"></i><br/>Business</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link whitelink grow" href="/pages/education.aspx"><i class="fas fa-graduation-cap"></i><br/>Education</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link whitelink grow" href="/pages/employment.aspx"><i class="fas fa-handshake-alt"></i><br/>Employment</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link whitelink grow" href="/pages/government.aspx"><i class="fas fa-landmark"></i><br/>Government</a>
+      </li>
+  <li class="nav-item">
+        <a class="nav-link whitelink grow" href="/pages/tourism.aspx"><i class="fas fa-hiking"></i><br/>Tourism</a>
+      </li>
+
+      </ul>
+  </div>
+</nav>
+</div>
+<!--End Navigation-->
+
+<!--Search Placeholder-->
+
+ 
+	<div class="row">
+  <div class="col 12 p-2" style="background:#a52802;padding-top:0em;padding-bottom:0em;margin-bottom:0em;min-height:1em;"><center><a href="https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx"style="color: #ffffff;" target="_blank">Click Here for Current Coronavirus Disease (COVID-19) Alerts and Updates</a>
+  <br/><a style="color:white;" href="https://governor.wv.gov/Pages/Safer-at-Home.aspx" target="_blank">Alert: Gov. Justice issued a “Safer At Home” order effective May 4, 2020</a>
+    <br/><a style="color:white;" href="https://governor.wv.gov/Pages/The-Comeback.aspx" target="_blank">West Virginia Strong – The Comeback: Click to view the plan</a>
+
+  </center></div>
+  </div>
+ 
+<!--Search Area-->
+<div class="container">
+
+<!--Row for custom search-->
+<div class="row">
+<div class="col search">
+
+<!--Custom search start -->
+<div id="search-banner" >
+		<p>
+			<label for="search-input">I want to...</label><input type="text" value="" name="q" id="search-input" autocomplete="off" class="typer" data-keywords="[&quot;find services for veterans&quot;, &quot;obtain my REAL ID&quot;, &quot;find a job&quot;, &quot;start a business&quot;, &quot;purchase a hunting license&quot;]" _vkenabled="true" placeholder="" _originaltype="text" >
+
+			<button id="searchButton" type="button" >
+				Search
+			</button>
+			<button type="button" id="clear-search-button" class="clear-search">Clear Search</button>
+		</p>
+
+	<div id="searchResults" class="clearfix" >
+
+		<ul id="searchTabs">
+			<li id="agenciesTab">
+				<a onclick="listAgencies();" data-tab="agenciesList">Agencies</a></li>
+			<li id="servicesTab">
+				<a onclick="listServices();"data-tab="formsResults">Services</a></li>
+			<li id="webTab">
+				<a  data-tab="googleResults">WV.GOV</a></li>
+		</ul>
+
+		<div id="results">
+			<div id="agenciesList" data-keyword="" data-type="1,2,3,5,6,12,48" data-limit="5">Loading...</div>
+			<div id="formsResults" data-keyword="">Loading...</div>
+			<div id="googleResults" data-keyword="">Loading...</div>
+		</div>
+	</div>
+</div>
+<!--Custom search end -->
+
+</div>
+</div>
+</div><!--End Row for custom search-->
+
+
+<!--Search Buttons-->
+<div class="container">
+<div class="row searchbtnhome">
+<div class="col-12 col-md-4 btncol4">
+<a href="/agencies" class="btn blacksq grow"><span class="insideblkbtn"><i class="fas fa-2x fa-search-location"></i>
+<span class="insidetxt">Find a State Agency</span></span></a></div>
+<div class="col-12 col-md-4 btncol4">
+<a href="https://governor.wv.gov/News/weekly-reviews" target="_blank" rel="noopener" class="btn bluesq grow"><img src="/images/weekinreview_yellow.png" class="hidenormal" alt="Week in Review" /><img class="hidehc" src="/images/weekinreview.png" alt="Week in Review" /></a></div>
+<div class="col-12 col-md-4 btncol4">
+<a href="/services" class="btn blacksq grow"><span class="insideblkbtn"><i class="fas fa-2x fa-laptop"></i><span class="insidetxt">Online 
+Services</span></span></a></div>
+</div>
+
+
+
+<div class="row searchbtnhome searchbtnhometop">
+<div class="col-12 col-md-4 btncol4">
+<a href="/2020Census" class="btn blacksq grow"><span class="insideblkbtn">
+<span class="insidetxt">Census: Be Counted</span></span></a></div>
+<div class="col-12 col-md-4 btncol4">
+<a href="https://jobsandhope.wv.gov/" target="_blank" class="btn blacksq grow"><span class="insideblkbtn">
+<span class="insidetxt">Jobs and Hope</span></span></a></div>
+<div class="col-12 col-md-4 btncol4">
+<a href="https://westvirginia.gov/thriving-industries/" target="_blank" class="btn blacksq grow"><span class="insideblkbtn"><span class="insidetxt">Industries in WV</span></span></a></div>
+</div>
+
+</div>
+<!--End Search Buttons-->
+
+<!--End Search Area-->
+
+<!--End Search Placeholder-->
+
+</div>
+<!--End of content contained within photo-->
+
+</div>
+<!--End Background Image Placeholder-->
+
+
+<!--Sidebar-->
+<div class="stickySettings">
+
+<div class="stickyLink">
+<button type="button" class="btn nobtnbkg" data-toggle="modal" data-target="#settingsModal">
+<a href="#" class="whitelink" title="Settings" alt="Settings"><i class="fas fa-2x fa-cog grow"></i></a></button></div>
+
+<div class="stickyLink gov2go">
+<button type="button" class="btn nobtnbkg" data-toggle="modal" data-target="#Gov2GoModal">
+<a href="#" title="Gov2Go" alt="Gov2Go"><img src="/images/gov2go_yellow.png" class="grow hidenormal" alt="Gov2Go" /><img src="/images/gov2go.png" class="grow hidehc" alt="Gov2Go" /></a></button></div>
+
+</div>
+<!--End Sidebar-->
+
+<!--Settings Modal-->
+<!-- Modal -->
+<div class="modal fade" id="settingsModal" tabindex="-1" role="dialog" aria-labelledby="settingsModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-slideout modal-sm" role="document">
+    <div class="modal-content">        
+      <div class="modal-header">
+        <h2 class="modal-title" id="settingsModalLabel">Settings</h2>
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+
+          </div>
+      <div class="modal-body">
+      <div class="fontsize">
+        <h3>Font Size</h3>
+         <input type="button" class="decrease btn" value=" - Font " />     
+     	 <input type="button" class="resetMe btn" value=" Reset " />
+         <input type="button" class="increase btn" value=" + Font " />
+        </div>
+<div class="pagelayout">
+<h3>Page Layout</h3>
+<a href="javascript:chooseStyle('HC-Theme', 60)" class="btn grow">High Contrast</a>   
+<a href="javascript:chooseStyle('none', 60)" checked="checked" class="btn grow">Normal</a>
+</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn" data-dismiss="modal">Close</button>
+          </div>
+    </div>
+  </div>
+</div>
+<!--End Settings Modal-->
+
+<!--Gov2Go Modal-->
+<!-- Modal -->
+<div class="modal fade" id="Gov2GoModal" tabindex="-1" role="dialog" aria-labelledby="Gov2GoModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-slideout modal-sm" role="document">
+    <div class="modal-content">
+        
+      <div class="modal-header">
+        <h2 class="modal-title" id="Gov2GoModalLabel">Gov2Go</h2>
+        
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true"><i class="fas fa-times"></i></span>
+        </button>
+
+          </div>
+      <div class="modal-body">
+<a href="https://www.getgov2go.com" target="_blank" rel="noopener"><img src="/images/gov2gofull_yellow.png" alt="Gov2Go" class="gov2modallogo hidenormal" />
+<img src="/images/gov2gofull.png" alt="Gov2Go" class="gov2modallogo hidehc" /></a>
+<p>Gov2Go is a personal assistant for government that allows you to always stay on top of your required government interactions. It also offers a range of handy government services based on the state and county you enroll in.</p>
+
+<p>Gov2Go learns about your needs, tracks your government deadlines and reminds you when it’s time to pay or complete a task. Here are some of the services available for West Virginia:</p>
+
+<ul><li><b>West Virginia DMV - Vehicles</b><br/>
+This service reminds users when their West Virginia vehicle is due for renewal and provides an option to renew online.</li>
+
+<li><b>West Virginia Business Annual Report</b><br/>
+This service reminds you to file your annual report for your business each year.</li>
+
+<li><b>West Virginia Quarterly Unemployment Compensation Filing</b><br/>
+This service reminds businesses to file their quarterly unemployment compensation filing with the WorkForce West Virginia.</li>
+
+<li><b>FMCSA Pre-Employment Screening Program (PSP) Data Update Notifications</b><br/>
+This service will notify you when Pre-Employment Screening Program (PSP) records are updated. PSP records contain federal crash and inspection information for commercial drivers.</li>
+
+<li><b>West Virginia AMBER Alerts</b><br/>
+Receive AMBER Alerts on missing children based on your state of residence.</li>
+
+<li><b>West Virginia County and State Taxes</b><br/>
+This service reminds you when your county/state tax payments and assessments are due.</li>
+
+<li><b>West Virginia Elections and Voter Information</b><br/>
+Receive information and notifications for primary and general elections.</li>
+
+<li><b>West Virginia Quarterly Estimated Tax Filing</b><br/>
+This service reminds you to file your quarterly estimated taxes with the West Virginia State Tax Office.</li>
+
+<li><b>West Virginia State Holidays</b><br/>
+This service will remind you when West Virginia state offices are closed for a holiday.</li></ul>
+
+<p>When you visit Gov2Go, you will be able to manage your reminders at any time as well as sign up for additional services. For more information about the Gov2Go app and website go to <a href="https://www.getgov2go.com" target="_blank" rel="noopener">getgov2go.com</a>.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn" data-dismiss="modal">Close</button>
+          </div>
+    </div>
+  </div>
+</div>
+<!--End Gov2Go Modal-->
+
+<!--Main Content-->
+
+<!--Main Content-->
+<a name="readmaincontent"></a>
+
+<!--Featured Online Services--> 
+<div class="container">
+<h2 class="featuredHeading">Featured Online Services</h2>
+<div class="container d-none d-md-block">
+  <div class="scroller scroller-left"><i class="fas fa-3x fa-angle-left bluearrow grow"></i></div>
+  <div class="scroller scroller-right"><i class="fas fa-3x fa-angle-right bluearrow grow"></i></div>
+  <div class="wrapper">
+    <ul class="nav nav-tabs list" id="myTab" role="tablist">
+  <li>
+    <a id="job-tab" class="active" data-toggle="tab" href="#job" role="tab" aria-controls="job" aria-selected="true">Find<br/>a Job</a></li>
+  <li>
+    <a id="license-tab" data-toggle="tab" href="#license" role="tab" aria-controls="license" aria-selected="false">Renew Your<br/>Driver's License</a></li>
+  <li>
+    <a id="business-tab" data-toggle="tab" href="#business" role="tab" aria-controls="business" aria-selected="false">Start a<br/>Business</a></li>
+    <li>
+    <a id="vehicle-tab" data-toggle="tab" href="#vehicle" role="tab" aria-controls="secondjob" aria-selected="false">Renew Your<br/>Vehicle Registration</a></li>
+  <li>
+    <a id="vote-tab" data-toggle="tab" href="#vote" role="tab" aria-controls="secondlicense" aria-selected="false">Register<br/>to Vote</a></li>
+  <li>
+    <a id="hunting-tab" data-toggle="tab" href="#hunting" role="tab" aria-controls="secondbusiness" aria-selected="false">Purchase a<br/>Hunting License</a></li>
+
+</ul>
+</div></div></div>
+
+<div class="container-fluid  d-none d-md-block">
+<div class="tab-content hometabcontent" id="myTabContent">
+<div class="tab-pane fade show active" id="job" role="tabpanel" aria-labelledby="job-tab">
+   
+<div class="container tabmargin">
+<div class="col-12">
+  <div class="col-12" id="jobHolder">
+  <p class="jobmargin">The state offers a wide variety of career opportunities, and is seeking motivated individuals who want to make an impact in the lives of West Virginia residents.  If you enjoy serving the public and are looking for a challenging career, search for a position below.</p>
+  <div id="jobInput">
+  <span><div class="row"><div class="col-8"><label for="job-input" class="obscure">Search for a job</label>
+  	<input type="text" id="job-input" name="job-input" placeholder="Search for a job..."></input>
+	<button id="jobSearchButton" type="button" onclick="listJobs()">Show me available jobs</button></div>
+	<div class="col-4 viewjobs">
+	<a href="javascript:viewAllJobs()"><i class="far fa-arrow-circle-right"></i>&nbsp;
+	View all jobs</a></div></div>
+  </span>
+  <div id="jobContent">
+  
+  </div>
+</div>
+  </div>
+
+</div>
+</div>
+<!--End Container--> 
+</div>
+
+  <div class="tab-pane fade" id="license" role="tabpanel" aria-labelledby="license-tab">
+  <div class="container tabmargin">
+  <div class="col-12">
+  <div class="col-12 col-md-8 subfloat">
+<div class="subbox">
+  <p>Skip a trip to the Division of Motor Vehicles, and renew your driver's license online!</p><p><b>To determine if you are eligible to renew online, you will need the following:</b>
+  <ul class="homebullet"><li>Your driver's license number</li>
+  <li>Your date of birth</li>
+  <li>Last four of your social security number or alien registration number</li></ul>
+  
+  </p>
+  <p>Once renewed, you will receive confirmation of license renewal. Please allow 10-14 days to receive your new license in the mail.</p>
+  </div></div>
+  <div class="col-12 col-md-4 subfloat btnpadding">
+<div class="bigbtn">
+  <p><a href="https://apps.wv.gov/DMV/SelfService/DL" target="_blank" rel="noopener" class="btn grow">Renew Your<br/>Driver's License<br/>
+  <i class="far fa-arrow-circle-right fa-5x"></i></a>  </p>
+  </div>
+   <p class="agencyp"><a class="agencylink" href="https://apps.wv.gov/DMV/SelfService/DL" rel="noopener" target="_blank">go.wv.gov/selfservice</a></p> 
+  </div> 
+  </div>
+</div>
+  
+  </div>
+  <div style="clear:both;"></div>
+  <div class="tab-pane fade" id="business" role="tabpanel" aria-labelledby="business-tab">
+    <div class="container tabmargin">
+    <div class="col-12">
+  <div class="col-12 col-md-8 subfloat">
+<div class="subbox">
+  <p>
+  The fastest, most convenient way to register your business is online through the One Stop Business Portal!</p>
+  <p><b>Online filing completes your registration with:</b>
+  <ul class="homebullet"><li>West Virginia Secretary of State (if applicable)</li>
+  <li>West Virginia State Tax Department</li>
+  <li>WorkForce West Virginia (Unemployment Compensation)</li></ul> 
+    </p>
+    </div></div>
+     <div class="col-12 col-md-4 subfloat btnpadding">
+<div class="bigbtn">
+  <p><a href="https://onestop.wv.gov/" target="_blank" rel="noopener" class="btn grow">Register Your<br/>Business Online<br/>
+  <i class="far fa-arrow-circle-right fa-5x"></i></a>  </p>
+  </div>
+   <p class="agencyp"><a class="agencylink" href="https://onestop.wv.gov/" rel="noopener" target="_blank">onestop.wv.gov</a></p>
+  </div></div>
+</div> 
+  </div>
+  <div style="clear:both;"></div>
+
+  <div class="tab-pane fade" id="vehicle" role="tabpanel" aria-labelledby="vehicle-tab">
+      <div class="container tabmargin">
+      <div class="col-12">
+     <div class="col-12 col-md-8 subfloat">
+<div class="subbox">
+  <p>The West Virginia Division of Motor Vehicles has enabled this service to allow you to renew your vehicle registration online. The service lets you pay your vehicle renewal fees quickly and conveniently using a credit card. 
+ </p> <p><b>To renew online, you must provide the following information:</b>
+ <ul class="homebullet">
+ <li>Your license plate number</li>
+ <li>Your title number</li>
+ <li>All required information on your insurance</li>
+ <li>Proof of personal property tax payment</li>
+ <li>A valid credit card for payment</li></ul>
+</p>
+</div></div>
+     <div class="col-12 col-md-4 subfloat btnpadding">
+<div class="bigbtn">
+    <p><a href="https://apps.wv.gov/DMV/SelfService/VehicleRenewal/VerifyEligibility" target="_blank" rel="noopener" class="btn grow">Renew Your<br/>Vehicle Registration<br/>
+  <i class="far fa-arrow-circle-right fa-5x"></i></a>  </p>
+  </div>
+   <p class="agencyp"><a class="agencylink" href="https://apps.wv.gov/DMV/SelfService/VehicleRenewal/VerifyEligibility" target="_blank" rel="noopener">go.wv.gov/selfservice</a></p>
+  </div></div>
+</div>
+  
+  </div>
+  <div style="clear:both;"></div>
+  <div class="tab-pane fade" id="vote" role="tabpanel" aria-labelledby="vote-tab">
+  
+     <div class="container tabmargin">
+     <div class="col-12">
+      <div class="col-12 col-md-8 subfloat">
+<div class="subbox">
+  <p>
+  <b>To register to vote or update your voter registration online, you must provide the following information:</b>
+<ul class="homebullet">
+    <li>Your name as it appears on your West Virginia driver's license or ID card</li>
+    <li>Your date of birth</li>
+    <li>Your West Virginia driver's license or ID card number</li>
+    <li>Your last four digits of your Social Security Number</li>
+</ul></p>
+<p>When you complete the application online it will be submitted to your county clerk for processing. The county clerk will notify you if your application has been accepted or rejected. 
+</p>
+</div></div>
+     <div class="col-12 col-md-4 subfloat btnpadding">
+<div class="bigbtn">
+    <p><a href="https://ovr.sos.wv.gov/Register/Landing#Qualifications" target="_blank" rel="noopener" class="btn grow">Register<br/>to Vote<br/>
+  <i class="far fa-arrow-circle-right fa-5x"></i></a>  </p>
+  </div>
+   <p class="agencyp"><a class="agencylink" href="https://ovr.sos.wv.gov/Register/Landing#Qualifications" target="_blank" rel="noopener">ovr.sos.wv.gov</a></p>
+  </div>
+  </div></div>
+  
+  </div>
+  <div style="clear:both;"></div>
+  <div class="tab-pane fade" id="hunting" role="tabpanel" aria-labelledby="hunting-tab">
+  
+     <div class="container tabmargin">
+     <div class="col-12">
+      <div class="col-12 col-md-8 subfloat">
+<div class="subbox">
+  <p>Purchasing a license is more convenient than ever before! Quickly and Easily access licenses, regulations and other important information about outdoor recreation in West Virginia.
+</p><p><b>Using this service, you can:</b>
+<ul class="homebullet"><li>Purchase, renew and reprint a license</li>
+<li>Manage your DNR profile</li>
+<li>Print field tags</li>
+<li>Check game</li></ul></p>
+</div></div>
+     <div class="col-12 col-md-4 subfloat btnpadding">
+<div class="bigbtn">
+<p><a href="https://www.wvhunt.com/" target="_blank" rel="noopener" class="btn grow">Purchase a<br/>Hunting License<br/>
+ <i class="far fa-arrow-circle-right fa-5x"></i></a>  </p>
+  </div>
+   <p class="agencyp"><a class="agencylink" href="https://www.wvhunt.com/" target="_blank" rel="noopener">wvhunt.com</a></p>
+  </div>
+  </div></div>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+</div>
+
+<!--Mobile Services-->
+<div class="d-md-none">
+<div id="accordion" class="homeaccordion">
+  <div class="card">
+    <div class="card-header collapsed" id="headingOne" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      <h3 class="mb-0 container">       
+         Find a Job        
+      </h3>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+     <div class="card-body">
+
+<div class="container tabmargin">
+  <div id="jobHolder">
+  <p class="jobmargin">The state offers a wide variety of career opportunities, and is seeking motivated individuals who want to make an impact in the lives of West Virginia residents.  If you enjoy serving the public and are looking for a challenging career, search for a position below.</p>
+  <div id="jobInput">
+  <span><div class="row"><div class="col-12"><label for="job-input2" class="obscure">Search for a job</label>
+  	<input type="text" id="job-input2" name="job-input2" placeholder="Search for a Job..."></input>
+	<button id="jobSearchButton" type="button" onclick="listJobsMobile()">Available Jobs</button></div>
+	<div class="col-12 viewjobs">
+	<a href="javascript:viewAllJobs()"><i class="far fa-arrow-circle-right"></i>&nbsp;
+	View all jobs</a></div></div>
+  </span>
+  <div id="jobContent2">
+  
+  </div>
+
+ 
+</div></div></div>
+
+
+
+      </div>
+
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header collapsed" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+      <h3 class="mb-0 container">        
+       Renew Your Driver's License
+      </h3>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+      <div class="card-body">
+<div class="container">
+<p>Skip a trip to the Division of Motor Vehicles, and renew your driver's license online!</p>
+
+<p>To determine if you are eligible to renew online, you will need the following:
+
+   <ul><li>Your driver's license number</li>
+    <li>Your date of birth</li>
+    <li>Last four of your social security number or alien registration number</li></ul></p>
+
+<p>Once renewed, you will receive confirmation of license renewal. Please allow 10-14 days to receive your new license in the mail.</p>
+<p><a href="https://apps.wv.gov/DMV/SelfService/DL" target="_blank" rel="noopener" class="btn grow">Renew Your Driver's License&nbsp;<i class="far fa-arrow-circle-right"></i></a></p>
+</div>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header collapsed" id="headingThree" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+      <h3 class="mb-0 container">
+        
+       Start a Business
+       
+      </h3>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+<div class="container">
+
+  <p>
+  The fastest, most convenient way to register your business is online through the One Stop Business Portal!</p>
+  <p><b>Online filing completes your registration with:</b>
+  <ul class="homebullet"><li>West Virginia Secretary of State (if applicable)</li>
+  <li>West Virginia State Tax Department</li>
+  <li>WorkForce West Virginia (Unemployment Compensation)</li></ul> 
+  
+    </p>
+<p><a href="https://onestop.wv.gov/" target="_blank" rel="noopener" class="btn grow">Start a Business&nbsp;<i class="far fa-arrow-circle-right"></i></a></p>
+
+</div>
+      </div>
+    </div>
+  </div>
+<div class="card">
+    <div class="card-header collapsed" id="headingFour" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+      <h3 class="mb-0 container">
+      Renew Your Vehicle Registration
+      
+      </h3>
+    </div>
+
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
+      <div class="card-body">
+<div class="container">
+
+  <p>The West Virginia Division of Motor Vehicles has enabled this service to allow you to renew your vehicle registration online. The service lets you pay your vehicle renewal fees quickly and conveniently using a credit card. 
+ </p> <p><b>To renew online, you must provide the following information:</b>
+ <ul class="homebullet">
+ <li>Your license plate number</li>
+ <li>Your title number</li>
+ <li>All required information on your insurance</li>
+ <li>Proof of personal property tax payment</li>
+ <li>A valid credit card for payment</li></ul>
+  
+</p>
+
+<p><a href="https://apps.wv.gov/DMV/SelfService/VehicleRenewal/VerifyEligibility" target="_blank" rel="noopener" class="btn grow">Renew Your Vehicle Registration&nbsp;<i class="far fa-arrow-circle-right"></i></a></p>
+
+</div>
+      </div>
+    </div></div>
+
+  <div class="card">
+    <div class="card-header collapsed" id="headingFive" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+      <h3 class="mb-0 container">
+        
+  Register to Vote
+       
+      </h3>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordion">
+      <div class="card-body">
+<div class="container">
+<p>
+  <b>To register to vote or update your voter registration online, you must provide the following information:</b>
+<ul class="homebullet">
+    <li>Your name as it appears on your West Virginia driver's license or ID card</li>
+    <li>Your date of birth</li>
+    <li>Your West Virginia driver's license or ID card number</li>
+    <li>Your last four digits of your Social Security Number</li>
+</ul></p>
+<p>When you complete the application online it will be submitted to your county clerk for processing. The county clerk will notify you if your application has been accepted or rejected. 
+</p>
+
+<p><a href="https://ovr.sos.wv.gov/Register/Landing#Qualifications" target="_blank" rel="noopener" class="btn grow">Register to Vote&nbsp;<i class="far fa-arrow-circle-right"></i></a></p>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header collapsed" id="headingSix" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+      <h3 class="mb-0 container">
+        
+ Purchase a Hunting License
+       
+      </h3>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordion">
+      <div class="card-body" style="border-bottom:5px solid #f4ad2c;">
+<div class="container">
+
+  <p>Purchasing a license is more convenient than ever before! Quickly and Easily access licenses, regulations and other important information about outdoor recreation in West Virginia.
+</p><p><b>Using this service, you can:</b>
+<ul class="homebullet"><li>Purchase, renew and reprint a license</li>
+<li>Manage your DNR profile</li>
+<li>Print field tags</li>
+<li>Check game</li></ul></p>
+
+<p><a href="https://www.wvhunt.com/" target="_blank" rel="noopener" class="btn grow">Purchase a Hunting License&nbsp;<i class="far fa-arrow-circle-right"></i></a></p>
+
+</div>
+      </div>
+    </div>
+  </div>
+
+
+  </div></div>
+<!--End Mobile Services-->
+
+<!--End Featured Online Services-->
+<div style="clear:both;"></div>
+<!--Rotating News-->
+<div class="rotatenews">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td id="MSOZoneCell_WebPartWPQ1" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td valign="top"><div WebPartID="7a649a5f-ad6f-426c-aa25-1c5b8b3b87da" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="cbqwp" class="cbq-layout-main">
+    	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel"><a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fas fa-4x fa-angle-left yellowarrow grow"></i></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-4x fa-angle-right yellowarrow grow"></i></span>
+    <span class="sr-only">Next</span>
+  </a><div class="carousel-inner">
+		<div class="carousel-item active" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="videowrapper"><div class="myVideo_iframe" style="visibility: hidden">width="560" height="315" src="https://www.youtube.com/embed/1yTLYzeCROY?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Mail Pouch Barns"</div></div><div class="newsDescription"><h2>Mail Pouch Barns</h2><div class="shortdes">The early outdoor advertising that started in West Virginia and grew into a national icon</div><a class="btn grow" target="_blank" href="https://www.wv.gov/blog/Pages/Mail-Pouch-Barns.aspx">Read More</a></div></div><div class="carousel-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="videowrapper"><div class="myVideo_iframe" style="visibility: hidden"> width="560" height="315" src="https://www.youtube.com/embed/vCM0XrSynFw?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to respond to the US Census"</div></div><div class="newsDescription"><h2>How to respond to the US Census</h2><div class="shortdes">A quick guide to completing the US Census</div><a class="btn grow" target="_blank" href="https://2020census.gov/">Read More</a></div></div><div class="carousel-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="myPhoto" style="visibility: hidden">src="https://wvstateparks.com/wp-content/uploads/2018/09/Jody-Murphy-mywvstateparks-640x481.jpeg" alt="Share Your WV State Park Story"</div><div class="newsDescription"><h2>Share Your WV State Park Story</h2><div class="shortdes">Relive your fondest memories by sharing your West Virginia State Parks story.</div><a class="btn grow" target="_blank" href="https://wvstateparks.com/share-your-story/">Read More</a></div></div><div class="carousel-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="videowrapper"><div class="myVideo_iframe" style="visibility: hidden"> width="560" height="315" src="https://www.youtube.com/embed/w4hCZACpFYU?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="How to Inspect a Bridge"</div></div><div class="newsDescription"><h2>How to Inspect a Bridge</h2><div class="shortdes">Ever wondered how we inspect a bridge? Check it out!</div><a class="btn grow" target="_blank" href="https://transportation.wv.gov/">Read More</a></div></div>
+			</div> </div>
+		</div></div></td>
+			</tr>
+		</table></td>
+	</tr>
+</table>
+</div>
+<div class="morenews"><a href="/news" class="whitelink allcaps grow" style="border-right:1px solid white; padding-right:20px; margin-right:20px;">More News &amp; Media&nbsp;<i class="far fa-arrow-circle-right"></i></a><a href="/blog" class="whitelink allcaps grow">Inside WV&nbsp;<i class="far fa-arrow-circle-right"></i></a></div>
+<!--End Rotating News-->
+<!--Agency Button Links-->
+<div class="container">
+<div class="row govbtnrowtop">
+<div class="col-6 col-sm-3"><a href="https://governor.wv.gov" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/govicon.png" alt="Governor's Office" /><br/>Governor's Office</a></div>
+<div class="col-6 col-sm-3"><a href="https://sos.wv.gov" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/sosicon.png" alt="Secretary of State" /><br/>Secretary of State</a></div>
+<div class="col-6 col-sm-3"><a href="https://ago.wv.gov" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/agicon.png" alt="Attorney General" /><br/>Attorney General</a></div>
+<div class="col-6 col-sm-3"><a href="https://www.wvsto.com" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/treasurericon.png" alt="State Treasurer's Office" /><br/>State Treasurer's Office</a></div>
+</div>
+<div class="row govbtnrowbottom">
+<div class="col-6 col-sm-3"><a href="https://www.wvsao.gov" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/auditoricon.png" alt="State Auditor's Office" /><br/>State Auditor's Office</a></div>
+<div class="col-6 col-sm-3"><a href="http://www.wvlegislature.gov/" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/legicon.png" alt="Legislature" /><br/>Legislature</a></div>
+<div class="col-6 col-sm-3"><a href="http://www.courtswv.gov/" target="_blank" rel="noopener" class="btn govbtn grow"><img src="/images/judiciaryicon.png" alt="Judiciary" /><br/>Judiciary</a></div>
+<div class="col-6 col-sm-3"><a href="https://veterans.wv.gov" class="btn govbtn grow"><img src="/images/veticon.png" alt="Department of Veterans Assistance" /><br/>Veterans Assistance</a></div>
+</div></div>
+<div class="moreagencies">
+<a class="whitelink allcaps grow" href="/agencies">Find a State Agency&nbsp;<i class="far fa-arrow-circle-right"></i></a>
+
+
+</div>
+<!--End Agency Button Links-->
+
+<!--End Main Content-->
+
+
+<!-- End Main Content -->
+
+<!--Footer-->
+<div class="footer whitelink">
+<div class="container">
+
+<div class="row">
+<div class="col-12 col-sm-6 col-md-3">
+<h2><a href="/">WV.gov <i class="fas fa-caret-right"></i></a></h2>
+<a href="/Pages/About-WV.gov.aspx">About Us</a><br/>
+<a href="https://appengine.egov.com/apps/wv/wvgov/feedback">Send Feedback</a><br/>
+<a href="https://appengine.egov.com/apps/wv/wvgov/survey">Visitor Survey</a></div>
+<div class="col-12 col-sm-6 col-md-3">
+<h2><a href="/help">Help <i class="fas fa-caret-right"></i></a></h2>
+
+<a href="/pages/FAQS.aspx">FAQs</a><br/>
+<a href="https://appengine.egov.com/apps/wv/wvgov/contactus">Contact Us</a><br/>
+<a href="/pages/livechat.aspx">Live Chat</a></div>
+<div class="col-12 col-sm-6 col-md-3">
+<h2><a href="/policies">Policies <i class="fas fa-caret-right"></i></a></h2>
+
+<a href="/policies/pages/privacy.aspx">Privacy Policy</a><br/>
+<a href="/policies/pages/security.aspx">Security Policy</a><br/>
+<a href="/policies/pages/accessibility.aspx">Accessibility Policy</a></div>
+<div class="col-12 col-sm-6 col-md-3">
+<h2><a href="/pages/social-media.aspx">Stay Connected <i class="fas fa-caret-right"></i></a></h2>
+<div class="row socialrow">
+
+<div class="col-4 socialicon">
+
+<a href="https://apps.wv.gov/portal/rss/limit/50" title="RSS" target="_blank"><i class="fas fa-rss-square grow"></i></a>
+</div>
+<div class="col-4 socialicon">
+
+<a href="https://appengine.egov.com/apps/wv/wvgov/contactus" title="Contact Us" target="_blank"><i class="fas fa-envelope grow"></i></a>
+</div>
+<div class="col-4 socialicon">
+
+<a data-toggle="modal" data-target="#Gov2GoModal" style="cursor:pointer;" title="Gov2Go"><img src="/images/gov2go_yellow.png" class="gov2go grow hidenormal" alt="Gov2Go" /><img src="/images/gov2go.png" class="gov2go grow hidehc" alt="Gov2Go" /></a>
+</div>
+
+
+
+
+
+</div>
+
+<div class="row socialrow">
+<div class="col-4 socialicon">
+
+<a href="https://www.facebook.com/wvgov" title="WV.gov Facebook" target="_blank"><i class="fab fa-facebook-f grow"></i></a>
+</div>
+<div class="col-4 socialicon">
+
+<a href="https://twitter.com/wvgov" title="WV.gov Twitter" target="_blank"><i class="fab fa-twitter grow"></i></a>
+</div>
+
+<div class="col-4 socialicon">
+
+<a href="https://www.wv.gov/pages/social-media.aspx" title="See All Agency Social Media"><i class="fas fa-angle-double-right grow"></i></a>
+</div>
+
+
+</div>
+
+
+
+
+
+
+<!--
+
+<div class="row">
+<div class="col-12"><a href="https://www.wv.gov/pages/social-media.aspx">See All Agency Social Media</a></div>
+
+</div>-->
+</div>
+</div>
+<div class="row"><div class="col copyright"><script type="text/javascript" src="https://apps.wv.gov/Scripts/wvgovfooter.js"></script></div></div>
+</div>
+</div>
+<!--End Footer-->
+</div>
+<!-- End Full Site -->
+
+<div id="ctl00_panelZone">
+	<div style='display:none' id='hidZone'><menu class="ms-SrvMenuUI">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu></div>
+</div><input type='hidden' id='_wpcmWpid' name='_wpcmWpid' value='' /><input type='hidden' id='wpcmVal' name='wpcmVal' value=''/>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);
+function EnsureScripts(scriptInfoList, finalFunction)
+{
+if (scriptInfoList.length == 0)
+{
+finalFunction();
+}
+else
+{
+var scriptInfo = scriptInfoList.shift();
+var rest = function () { EnsureScripts(scriptInfoList, finalFunction); };
+var defd;
+try
+{
+eval('defd = typeof(' + scriptInfo[1] + ');');
+}
+catch (e)
+{
+defd = 'undefined';
+}
+if (scriptInfo[2])
+{
+EnsureScript(scriptInfo[0], defd, null);
+ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]);
+}
+else
+{
+EnsureScript(scriptInfo[0], defd, rest);
+}
+}
+}
+function PublishingRibbonUpdateRibbon()
+{
+var pageManager = SP.Ribbon.PageManager.get_instance();
+if (pageManager)
+{
+pageManager.get_commandDispatcher().executeCommand('appstatechanged', null);
+}
+}var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{751dafc9-9892-41f1-bbbd-af1d5d5b6922}",itemId: 1,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+}
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da_init() {
+    EnsureScript('mediaplayer.js', 
+        typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
+    ExecuteOrDelayUntilScriptLoaded(
+        function() {
+            if (Silverlight.isInstalled('2.0')) {
+                mediaPlayer.createOverlayPlayer();
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da'), ["wmv","wma","mp3","mp4"],'');
+            }
+        }, 'mediaplayer.js');
+}
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da_init'); }
+//]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=Tpcmo1\u00252FSu6R0yewHowDl5g\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=RiGU6\u00252FvAzNgOjxKFQLw9pw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002fsp.js?rev=\u00252B4ZEyA892P3T0504qi0paw\u00253D\u00253D");RegisterSodDep("sp.js", "sp.core.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=OOyJv78CADNBeet\u00252FvTvniQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "sp.core.js");RegisterSodDep("ribbon", "sp.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "sp.res.resx");RegisterSodDep("ribbon", "sp.runtime.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=epwnP\u00252FbdljnctbCVld1nnA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mediaplayer.js", "\u002f_layouts\u002fmediaplayer.js?rev=Q6vfD9BNL\u00252B9PvwgrVEcc\u00252FA\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSodDep("browserScript", "msstring.js");</script></form>
+<!--  Hidden Placeholders -->
+
+<!--  End of Hidden Placeholders -->
+
+<!-- Scripts -->
+<script type="text/javascript" src="/_catalogs/masterpage/scripts/bootstrap.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/scripts/main.js"></script>
+<script type="text/javascript" src="/_catalogs/masterpage/scripts/search.min.js"></script>
+<script type="text/javascript" >
+	var pattern = /http(s)*:\/\/translate.google.com+/;
+
+    if (window.top !== window.self && !pattern.test(window.top.location)) {
+        document.body.innerHTML='The official website is hosted at wv.gov.';
+      
+        window.self.onload=function(evt){
+            document.body.innerHTML='The official website is hosted at wv.gov.';
+        };
+    }
+</script>
+</body>
+</html>

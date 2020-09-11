@@ -1,0 +1,112 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8"></meta>
+        <title>General Error</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+        <meta name="description" content=""></meta>
+        <meta name="author" content=""></meta>
+
+        <!-- Le styles -->
+        <link href="/apology_files/css/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="/apology_files/css/EpicTheme.css" type="text/css" />
+        <link rel="stylesheet" href="/apology_files/css/header.css" type="text/css" />
+        <link rel="stylesheet" href="/apology_files/css/thin_header.css" type="text/css" />
+        <link rel="stylesheet" href="/apology_files/css/custom_bootstrap.css" type="text/css" />
+
+        <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="assets/js/html5.js"></script>
+            <link rel="stylesheet" href="/apology_files/css/thick_thin8.css" type="text/css" />
+        <![endif]-->
+        <style type="text/css">
+            .info-box{
+                background-color:#EEF3F6;
+                border:1px solid #ABA7A7;
+                font-size:13px;
+                font-weight:bold;
+                margin-bottom:10px;
+                padding:10px;
+            }
+        </style>
+    </HEAD><body class="default">
+    <div class="EpicTheme">
+        <div id="headingBar">
+            <a href="https://www.esp.gov/" title="Home"><span id="badge">
+                <img src="/apology_files/images/EPICcoin.png" alt="El Paso Intelligence Center 40th Anniversary Logo" title="El Paso Intelligence Center 40th Anniversary Logo" />
+            </span></a>
+            <div id="spaceForBadge"></div>
+            <div class="navWrapper">
+                <div class="homeWelcome">General Error</div>
+                <a title="Log off" class="logout pull-right" style="font-size: 12px; margin-top: 5px; margin-right: 5px;" href="https://www.esp.gov">Sign In</a>
+            </div>
+    	</div>
+    	<div id="spaceForHeadingBar"></div>
+
+        <div id="fullHeight" style="min-height:1px">
+            <div id="middle">
+                <h5 style="margin-left:10px;">
+                    <br />
+                    An error has occurred. Please click
+                    <a style="line-height:1.1;font-size:14px;vertical-align:top;" href="https://www.esp.gov"><b>here</b></a>
+                    to return to the login screen.<br />
+                    <br />
+                    If you continue to see this error, please close your internet browser and try again.<br />
+                </h5>
+            </div>
+        </div>
+        <a id="contactInfo"></a>
+        <div class="containerEpic bottomDesign" style="width:100%;"></div>
+        <div class="footer gradient" id="footerBar">
+            <div class="containerEpic-fluid">
+                <div class="clearfix visible-xs visible-sm visible-md visible-lg"></div>
+                <!-- footer tag hidden on mobile, left on ie8 and bigger than mobile -->
+                <div class="col-sm-4 hidden-xs ">
+                    <div class="footerTagRight" title="We are one EPIC!"></div>
+                </div>
+                <!-- Contact us right and with anchor on mobile, right and no anchor on ie8 and bigger than mobile -->
+                <div class="col-xs-12 col-sm-8 pull-right"><ul>
+                    <li class="hidden-sm hidden-md hidden-lg hidden-ie8"><span>
+                        <a href="tel:18888733742" title="1-888-USE-EPIC">1-888-873-3742</a>
+                    </span></li>
+                    <li class="pull-right hidden-xs"><span class="listing">1-888-873-3742</span></li>
+                </ul></div>
+                <div class="clearfix visible-xs visible-sm visible-md visible-lg"></div>
+                <!-- Comments left on mobile, right on ie8 and bigger than mobile -->
+                <div class="col-xs-12 hidden-sm hidden-md hidden-lg hidden-ie8"><ul>
+                    <li><span>GENERAL COMMENTS</span></li>
+                    <li><a href="mailto:tellepic@epic.gov" title="Send comments to tellepic@epic.gov">TellEPIC@epic.gov</a></li>
+                </ul></div>
+                <div class="hidden-xs col-xs-12"><ul class="pull-right">
+                    <li><span>GENERAL COMMENTS</span></li>
+                    <li><a href="mailto:tellepic@epic.gov" title="Send comments to tellepic@epic.gov">TellEPIC@epic.gov</a></li>
+                </ul></div>
+                <div class="clearfix visible-xs visible-sm visible-md visible-lg"></div>
+                <div class="col-xs-12"><p></p></div>
+                <div class="clearfix visible-xs"></div>
+            </div>
+            <div class="bottomDesign"></div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        window.addEventListener("load", resizeFunction);
+        window.addEventListener("resize", resizeFunction);
+
+        function resizeFunction() {
+            var newHeight=1;
+            var adjustedHeight=getComputedHeight("spaceForHeadingBar");
+            adjustedHeight+=getComputedHeight("footerBar")+35;
+
+            var newHeight=(window.innerHeight) - adjustedHeight;
+            if (newHeight < 1){
+                newHeight=1;
+            }
+            document.getElementById("fullHeight").style.minHeight=newHeight+'px';
+        }
+
+        function getComputedHeight(theElt){
+            tmphght = document.getElementById(theElt).offsetHeight;
+            return tmphght;
+        }
+    </script>
+</body></html>

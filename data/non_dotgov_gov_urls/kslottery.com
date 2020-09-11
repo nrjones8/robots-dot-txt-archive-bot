@@ -1,0 +1,14 @@
+﻿User-agent: *
+Allow: /images/sitemap.xml
+Sitemap: https://www.kslottery.com/images/sitemap.xml
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /css/
+Disallow: /data/
+Disallow: /FileUploads/
+Disallow: /Graphics/
+Disallow: /Scripts/
+Disallow: /usercontrols/
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /Scripts/

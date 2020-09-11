@@ -1,0 +1,1 @@
+Sitemap: http://minationalguard.com/sitemap.xml

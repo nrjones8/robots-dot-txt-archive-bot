@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"coC_jJIVExe9lEY5CiuZhlGBEZblgovZfIWpMGYVpS6Jxzy0aEFek9MT_Axite2OnosHDtFcIR1Jqio74AOm5sXf3081\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"1wgAIrxqHvzDQPddhSNDnY5UOMTObkyrFapaU7mdcJDkf1BBP3sLQY70A5IDXwC1dHr2E7_ZZidHRm6a5j7vRXW86zY1\" />");
 						}
 					}
 				}, false);
@@ -1185,13 +1185,13 @@ Sa
 <td>
 <span>8</span>
 </td>
-<td class="today">
+<td>
 <span>9</span>
 </td>
 <td>
 <span>10</span>
 </td>
-<td>
+<td class="today">
 <span>11</span>
 </td>
 <td>
@@ -1205,7 +1205,7 @@ Sa
 <span>14</span>
 </td>
 <td>
-<span>15</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=15&amp;CID=35,47,43,49,14,25,26,30,22,60'>15</a>
 </td>
 <td>
 <span>16</span>
@@ -1286,6 +1286,22 @@ Sa
 
 
 <li class="widgetItem " >
+			<h4 class="widgetTitle">Tue Sep. 15  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=956">Historical Commission Meeting</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
 			<h4 class="widgetTitle">Thu Sep. 17  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=952">Planning Commission Meeting</a></strong>
@@ -1337,22 +1353,6 @@ Sa
 			<h4 class="widgetTitle">Thu Sep. 24  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=878">Broadband Committee Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Sep. 28  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=911">Parks and Recreation Advisory Commission</a></strong>
 
 		</div>
 				</li>

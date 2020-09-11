@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Mission Kansas Official Website
+</title><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cinzel" />
+
+<script src="/clientcommon/jquery/jquery1.10.2min.js" type="text/javascript"></script>
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+<link href="/clientcommon/scripts/jquery/base/ui.core.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="common/css/design.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 800px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+ 
+    <style>
+
+        .smallLeft img, .smallRight img{
+            padding-right: 40px!important;
+        }
+
+        .mobileSiteName a {
+            color:#FFFFFF;
+            text-decoration: none;
+        }
+
+        .mobileSiteName a:hover {
+            color:#FFFFFF;
+            text-decoration: underline;
+        }
+
+  
+           .mobileShowBlock
+        {
+            display: none;
+        }
+
+
+            @media only screen and (max-width: 800px) {
+  
+            .mobileShowBlock
+
+            {
+                display: block;
+            }
+
+            .secondRight{
+                padding-left: 15px;
+                width: 95%;
+            }
+
+                
+}
+
+
+    </style>
+
+
+    
+      <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+
+
+
+        <script>
+        $(document).ready(function () {
+
+            $("#txtPID").attr("aria-label", "tracking code. please ignore.")
+            ///$("#uTG2I6_a").attr('aria-label', '$("#uTG2I6").text()');
+            var blref;
+            var blid;
+
+            $("a").each(function () {
+                if ($(this).text() == "") {
+                    
+                    if (this.id != "") {
+                        if (this.id.indexOf("uTG") >= 0) {
+                            blref = this.id.replace("_a", "");
+                            $("#" + this.id).attr("aria-label", $("#" + blref).text());
+                        }
+
+                        if (this.id.indexOf("uSI") >= 0 || this.id.indexOf("uSG") >= 0) {
+                            blref = this.id.replace("_a", "");
+                            $("#" + this.id).attr("aria-label", $("#" + blref).text());
+                        }
+                    }
+                }
+
+            });
+        });
+     </script>
+
+
+    <style>
+ .visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+                #skiptocontent a {
+	padding:6px;
+	position: absolute;
+	top:-40px;
+	left:0px;
+	color:white;
+	border-right:1px solid white;
+	border-bottom:1px solid white;
+	border-bottom-right-radius:8px;
+	background:transparent;
+	-webkit-transition: top 1s ease-out, background 1s linear;
+    transition: top 1s ease-out, background 1s linear;
+    z-index: 100;
+}
+
+#skiptocontent a:focus {
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:#000000;
+	outline:0;	
+	-webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+}
+
+
+    </style>
+
+
+
+ <link href="/WebResource.axd?d=0HNEECT_iefQEmI5Bua4WG5BnLLV10sUG6DeZ5BONSWLiwJc4S5UoE_qIBVSKoaqh1wyzBhH-74RE_crImUtqACpepLGUSlIcYg_CP6syYtu98ULucXUsBkfK-aA6mNoteQlJdxZ-VTp4dzJnVH_9nSLBGGFXHtg0aT0HyrnGdc1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=wMzfMIoyoTr43gBhlxWrXG6Jsqei-ttPlFr-60NUoRdX92AZG8ostE2ZNYDyfnp88Uxk2OK9fom-GL-ky09D9BXV7Na8v6k4Ak0mW1YkS29p7HcncJe20sEujatjPLe9N5GxiVRsGsOFVpw-DqJqsw2&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=M2k2E4TvXPBYu3kZSenDet6kZTLJl2LyqtE6-A6f4DRa-JFXSwe1NFXGRvSMrDniRZiSjGcaeFx-b2mJ8fDQ0Up164VYYINEM2_2EGSq-vxaJ5m6Yi9yxY81bcgf_9MpQ3jBguodyn9RMa0KP9AWAbJ760lRwqXfYf92sITkeLw1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body>
+    <div id="skiptocontent"><a href="#maincontent" class="">Skip to main content</a></div>
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgMPZBYKAgkPDxYIHhVFbmFibGVFbWJlZGRlZFNjcmlwdHNnHhxFbmFibGVFbWJlZGRlZEJhc2VTdHlsZXNoZWV0Zx4SUmVzb2x2ZWRSZW5kZXJNb2RlCylyVGVsZXJpay5XZWIuVUkuUmVuZGVyTW9kZSwgVGVsZXJpay5XZWIuVUksIFZlcnNpb249MjAyMC4yLjYxNy40NSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj0xMjFmYWU3ODE2NWJhM2Q0AR4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZGQCCg8WAh4EVGV4dAWsATxhIGhyZWY9Imh0dHBzOi8vbWlzc2lvbmtzLm9yZy9ub3Rmb3VuZC5hc3B4P3ByaW50PTEiIHRhcmdldD0iX2JsYW5rIj48aW1nIHZzcGFjZT0iNyIgc3JjPSIvY2xpZW50Y29tbW9uL2ltYWdlcy9wcmludC5naWYiICBib3JkZXI9IjAiIGFsdD0iUHJpbnRlciBGcmllbmRseSBWZXJzaW9uIiAvPjwvYT5kAgsPZBYCAgEPDxYCHwQFDlBhZ2UgTm90IEZvdW5kZGQCDA8WAh8EBfcDPGEgaHJlZj0iL25vdGlmeS5hc3B4Ij48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2VuZXdzLnBuZyIgYWx0PSJFLW5vdGlmeSIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSIvcnNzLmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zcnNzLnBuZyIgYWx0PSJSU1MgRmVlZHMiIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cudHdpdHRlci5jb20vQ2l0eW9mTWlzc2lvbktTIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9jb21tb24vaW1hZ2VzLzN0d2l0dGVyLnBuZyIgYWx0PSJUd2l0dGVyIiBzdHlsZT0iYm9yZGVyOiAwOyI+PC9hPiZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9DaXR5b2ZNaXNzaW9uS1MiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2ZhY2Vib29rLnBuZyIgYWx0PSJGYWNlYm9vayIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDtkAg0PFgIfBAXGATxkaXYgPiB8IDYwOTAgV29vZHNvbiBNaXNzaW9uLCBLUyA2NjIwMiZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDtQaG9uZTogOTEzLTY3Ni04MzUwPC9kaXY+PGEgaHJlZj0iL3N0YWZmLmFzcHgiPkNvbnRhY3QgVXM8L2E+Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9zaXRlbWFwLmFzcHgiPlNpdGUgTWFwPC9hPiZuYnNwOyZuYnNwO2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGGN0bDAwJG1vYmlsZVNlYXJjaEJ1dHRvbgUPY3RsMDAkaW1nU2VhcmNoBQxjdGwwMCRyU2hhcmU3iU/xnz4hZhoj6WHnpx9hJnP6Yw8YDj+BT7W0PJovGw==" />
+
+
+<script src="/ScriptResource.axd?d=9CCq67lwmj7iNHYvR35nHLeqb2cKEBIt17k_zb_8gR91FuBTHGwdj5XqhZlLdZM2TsO9GHbNAFICJOs2EyH-F_JNDvXkDjR3rK-ccpXFZX3_ONXfPx2PkeHxPjFPlyzovu6o5kD0379km2i0NIVdHpk1LD-ShCTTbuIK5Iy5VWQ1&amp;t=2a797f5c" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=vT6kjPyE9oymQxesBAHpX0O90SyMNO7oVysVm_ukixeSKJmpYGSzhF5ASZJeQFUZbqpYzpzg9oZ7_qDYGGfJzKKE-TmpmxksONA_XHygCzzNykkFZPdrN6ndfDCIClNRA5uxA4uP4KqFxPlgvdN-Lg2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=IOcmLy8ey62GdStBsfRwbsTDOwFGldTnQkUOuXZRsCMVB-6rYr30YdTEQF9a8wpeEIXc5CmBiAmwdKabBNWKsJ-arBaxS1bBPysGO5kskfS4ZctKImqygp4zo9Bzg6IDmJnebK6QwivTvFSQs9g7xQ2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=G0TbxeZMRIL41O4D0Ezyq9_ywy7Kd207QuzUXzAHJ_9SVdZNvfl9-3cdYi2f7YESHV6-HV28LJWm0bhHAnIQjxwOiCjSMpXzYNOXny1W6uLAnJEQdTwCPybaGEDgcqFzrsjQMA0drUNZ86mOObse2A2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=H2dYsMzQZyX4a5bAF3k3xQetrP9Wh9UDsYRoQiVOSNwYe8eH5T14QRRSIdHQw59PLKRbkv6eutDID7tY5I5oz8SrgNM4TSBTCaLud5X6KJHL-RHjDiOj090L-1JevyNFiOIuodG6QwJH7nRZwKAL5bXAziBiBp-KQiSdxQZd867h-sebMRnINRqmY_-mPmat0&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=JX96D7xvOdwVhEtNno7gVpzV9Oq7Tzp-dZ1vOXPpuUbLWuOQBoSLPY9u6Jq7Xhqq-8cyaYNfInnBnkRWhVyf9eDOTvL2iEbQa1edslML_tH-9fI2-zDXA-GfDmB0FFAE9l4DFu3qfTqFu2n1drE72OBfhBrxvGG6SuHu83mLAs81&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=iODuPxTeKS87PM3KGV6FhEhN-bMiukUYM9Zyqy5nX4WdjPoG-dhxLFS0-R_qGkXRBzSfzrn4aSpbyQ_CiMHhZS2nq2EAy8dWVKZ2yzFqlVBnXAIT1wWKf1NKsnYDpkjdVDSqMeBlH04-bMit7PgqwsSYlhGD6P3xT1m350AFrX81&amp;t=3322f07f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAj3fA8eJnC5z8+DBCdPW5snb4kNSKk4SZaSBjaLedWYW2Ewi/qbHci/YLcP8+vT3DXj7dallA1vzavOzYqdPeuHM0luT5K0/0xT0Ld0vfmN481YZOFMT3u1o2R/T8VIeUOHsJDRwETFl8xIS4tbrYAQXSE4rHATOpYtpEK3/SjvlaFNGRpX0C0s5PbLbPaOkuMiEJR2pIvDlCfUczDu8ZoG" />
+        <div class="mainContainer">
+          <div class="menuBar" >
+                 
+<div style="width:13%;" class="catMenu" id="t-1" tid="659"><a href="/default.aspx"">Home</a></div><div style="width:14%;" class="catMenu" id="t15036" tid="654"><a href="/pview.aspx?id=15036&catid=654">Live</a></div><div style="width:14%;" class="catMenu" id="t15037" tid="655"><a href="/pview.aspx?id=15037&catid=655">Work</a></div><div style="width:15%;" class="catMenu" id="t15038" tid="656"><a href="/pview.aspx?id=15038&catid=656">Play</a></div><div style="width:15%;" class="catMenu" id="t15039" tid="657"><a href="/pview.aspx?id=15039&catid=657">City</a></div><div style="width:26%;" class="catMenu" id="t15040" tid="658"><a href="/pview.aspx?id=15040&catid=658">How Do I?</a></div>
+            <div style="clear: both;"></div>
+
+     </div>
+
+
+      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=15036&catid=654">Live</a></div><div class="mobileMenuItemR" id="mm654">+</div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16307&catid=654">Parks and Recreation</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16264&catid=654">Community Numbers</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16261&catid=654">Get E-Notifications</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16260&catid=654">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16516&catid=654">Notify JoCo (Link)</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16259&catid=654">Report a Concern</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33554&catid=654">Charitable Giving</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33566&catid=654">COVID-19 Community Resources</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=29519&catid=654">Memorial Flag Fund</a></div><div class="mobileMenuItemRS" id="mm65429519">+</div></div><div class="mobileMenuItemSubS sm65429519"><div class="mobileMenuItemL"><a href="/pview.aspx?id=29522&catid=654">Flag Fund Honorees</a></div></div><div class="mobileMenuItemSub sm654"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26628&catid=654">Mission Magazine</a></div><div class="mobileMenuItemRS" id="mm65426628">+</div></div><div class="mobileMenuItemSubS sm65426628"><div class="mobileMenuItemL"><a href="/pview.aspx?id=29765&catid=654">Past Issues</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=15037&catid=655">Work</a></div><div class="mobileMenuItemR" id="mm655">+</div></div><div class="mobileMenuItemSub sm655"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16265&catid=655">Business Directory</a></div></div><div class="mobileMenuItemSub sm655"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16266&catid=655">Chamber of Commerce (Link)</a></div></div><div class="mobileMenuItemSub sm655"><div class="mobileMenuItemL"><a href="/pview.aspx?id=19371&catid=655">Job Opportunities</a></div></div><div class="mobileMenuItemSub sm655"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22358&catid=655">Kansas Business Center (Link)</a></div></div><div class="mobileMenuItemSub sm655"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16267&catid=655">Open Bids</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=15038&catid=656">Play</a></div><div class="mobileMenuItemR" id="mm656">+</div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16307&catid=656">Parks and Recreation</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22108&catid=656">Powell Community Center</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22109&catid=656">Mission Family Aquatic Center</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22110&catid=656">Outdoor Parks, Shelters and Trails</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16260&catid=656">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33508&catid=656">Celebration Tree Program</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=25501&catid=656">Mission Market</a></div><div class="mobileMenuItemRS" id="mm65625501">+</div></div><div class="mobileMenuItemSubS sm65625501"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33579&catid=656">Preordering Details</a></div></div><div class="mobileMenuItemSubS sm65625501"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26423&catid=656">2020 Market Vendor Application (Link)</a></div></div><div class="mobileMenuItemSubS sm65625501"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26111&catid=656">Farmers Market FAQ</a></div></div><div class="mobileMenuItemSubS sm65625501"><div class="mobileMenuItemL"><a href="/pview.aspx?id=32805&catid=656">Market in the News</a></div></div><div class="mobileMenuItemSubS sm65625501"><div class="mobileMenuItemL"><a href="/pview.aspx?id=31168&catid=656">Market text alerts: Sign Up!</a></div></div><div class="mobileMenuItemSub sm656"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33567&catid=656">Virtual Health &amp; Wellness</a></div><div class="mobileMenuItemRS" id="mm65633567">+</div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItemSubS sm65633567"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33568&catid=656">Virtual Workout Videos</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=15039&catid=657">City</a></div><div class="mobileMenuItemR" id="mm657">+</div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16270&catid=657">Governing Body</a></div><div class="mobileMenuItemRS" id="mm65716270">+</div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18409&catid=657">Ward Boundaries</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18445&catid=657">Mayor Ron Appletoft</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18419&catid=657">Ward I Councilmember Trent Boultinghouse</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33534&catid=657">Ward I Councilmember Hillary Parker Thomas</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18429&catid=657">Ward II Councilmember Nick Schlossmacher</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18432&catid=657">Ward II Councilmember Arcie Rothrock</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18436&catid=657">Ward III Councilmember Kristin Inman</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18435&catid=657">Ward III Councilmember Debbie Kring</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33531&catid=657">Ward IV Councilmember Ken Davis</a></div></div><div class="mobileMenuItemSubS sm65716270"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33533&catid=657">Ward IV Councilmember Sollie Flora</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16269&catid=657">Agendas and Minutes</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33563&catid=657">Legislative Priorities</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16452&catid=657">Boards and Commissions</a></div><div class="mobileMenuItemRS" id="mm65716452">+</div></div><div class="mobileMenuItemSubS sm65716452"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16453&catid=657">Board of Zoning Appeals</a></div></div><div class="mobileMenuItemSubS sm65716452"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16455&catid=657">Parks, Recreation, and Tree Commission</a></div></div><div class="mobileMenuItemSubS sm65716452"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16454&catid=657">Planning Commission</a></div></div><div class="mobileMenuItemSubS sm65716452"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16457&catid=657">Sustainability Commission</a></div></div><div class="mobileMenuItemSubS sm65716452"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16457&catid=657">Sustainability Commission</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18655&catid=657">City Code (Link)</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16271&catid=657">Departments</a></div><div class="mobileMenuItemRS" id="mm65716271">+</div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16294&catid=657">Administration</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16294&catid=657">Administration</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16294&catid=657">Administration</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16294&catid=657">Administration</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16296&catid=657">Community Development</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16299&catid=657">Municipal Court</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16299&catid=657">Municipal Court</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16299&catid=657">Municipal Court</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16301&catid=657">Parks and Recreation</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16301&catid=657">Parks and Recreation</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16301&catid=657">Parks and Recreation</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16301&catid=657">Parks and Recreation</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16305&catid=657">Police Department</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16306&catid=657">Public Works</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16306&catid=657">Public Works</a></div></div><div class="mobileMenuItemSubS sm65716271"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16306&catid=657">Public Works</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33565&catid=657">Recycling, Trash, Yard Waste</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16272&catid=657">Staff Directory</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16273&catid=657">Job Openings</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18846&catid=657">City Employee Information</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33553&catid=657">Non-Discrimination Ordinance</a></div></div><div class="mobileMenuItemSub sm657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16274&catid=657">Our History</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=15040&catid=658">How Do I?</a></div><div class="mobileMenuItemR" id="mm658">+</div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16259&catid=658">Report a Concern</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16275&catid=658">Apply For...</a></div><div class="mobileMenuItemRS" id="mm65816275">+</div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=17678&catid=658">Alcohol Liquor License</a></div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=23425&catid=658">Assistance Programs</a></div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18448&catid=658">Building Permit</a></div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=23426&catid=658">Business Improvement Grant</a></div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=17664&catid=658">Business License or Permit</a></div></div><div class="mobileMenuItemSubS sm65816275"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16289&catid=658">City Jobs</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33493&catid=658">Claim a Towed Vehicle</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16276&catid=658">Contact...</a></div><div class="mobileMenuItemRS" id="mm65816276">+</div></div><div class="mobileMenuItemSubS sm65816276"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16288&catid=658">City Council</a></div></div><div class="mobileMenuItemSubS sm65816276"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16287&catid=658">City Staff</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=19107&catid=658">Pay Traffic Tickets</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33582&catid=658">Receive Fingerprinting Services</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16279&catid=658">Register...</a></div><div class="mobileMenuItemRS" id="mm65816279">+</div></div><div class="mobileMenuItemSubS sm65816279"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16290&catid=658">for E-Notifications</a></div></div><div class="mobileMenuItemSubS sm65816279"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18318&catid=658">Garage Sales</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=19103&catid=658">Request Open Records</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16280&catid=658">View...</a></div><div class="mobileMenuItemRS" id="mm65816280">+</div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16282&catid=658">Agendas and Minutes</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18596&catid=658">Laserfiche Archives</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=18500&catid=658">City Council Meeting Videos</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16283&catid=658">Codes and Ordinances</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16285&catid=658">Forms and Documents</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16284&catid=658">Employment Opportunities</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16286&catid=658">Open Bids & RFPs</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26629&catid=658">Mission Magazine</a></div></div><div class="mobileMenuItemSubS sm65816280"><div class="mobileMenuItemL"><a href="/pview.aspx?id=33530&catid=658">State Legislative Platform</a></div></div><div class="mobileMenuItemSub sm658"><div class="mobileMenuItemL"><a href="/pview.aspx?id=19101&catid=658">Volunteer</a></div></div></div><div id="m15036" class="levelSub level1"><div id="mi16307" class="menuItem "><a href="/pview.aspx?id=16307&catid=654">Parks and Recreation</a></div><div id="mi16264" class="menuItem "><a href="/pview.aspx?id=16264&catid=654">Community Numbers</a></div><div id="mi16261" class="menuItem "><a href="/pview.aspx?id=16261&catid=654">Get E-Notifications</a></div><div id="mi16260" class="menuItem "><a href="/pview.aspx?id=16260&catid=654">Calendar of Events</a></div><div id="mi16516" class="menuItem "><a href="/pview.aspx?id=16516&catid=654" target="_blank">Notify JoCo (Link)</a></div><div id="mi16259" class="menuItem "><a href="/pview.aspx?id=16259&catid=654">Report a Concern</a></div><div id="mi33554" class="menuItem "><a href="/pview.aspx?id=33554&catid=654">Charitable Giving</a></div><div id="mi33566" class="menuItem "><a href="/pview.aspx?id=33566&catid=654">COVID-19 Community Resources</a></div><div id="mi29519" class="menuItem menuChild"><a href="/pview.aspx?id=29519&catid=654">Memorial Flag Fund</a></div><div id="mi26628" class="menuItem menuChild"><a href="/pview.aspx?id=26628&catid=654">Mission Magazine</a></div></div><div id="m15037" class="levelSub level1"><div id="mi16265" class="menuItem "><a href="/pview.aspx?id=16265&catid=655">Business Directory</a></div><div id="mi16266" class="menuItem "><a href="/pview.aspx?id=16266&catid=655" target="_blank">Chamber of Commerce (Link)</a></div><div id="mi19371" class="menuItem "><a href="/pview.aspx?id=19371&catid=655">Job Opportunities</a></div><div id="mi22358" class="menuItem "><a href="/pview.aspx?id=22358&catid=655" target="_blank">Kansas Business Center (Link)</a></div><div id="mi16267" class="menuItem "><a href="/pview.aspx?id=16267&catid=655">Open Bids</a></div></div><div id="m15038" class="levelSub level1"><div id="mi16307" class="menuItem "><a href="/pview.aspx?id=16307&catid=656">Parks and Recreation</a></div><div id="mi22108" class="menuItem "><a href="/pview.aspx?id=22108&catid=656">Powell Community Center</a></div><div id="mi22109" class="menuItem "><a href="/pview.aspx?id=22109&catid=656">Mission Family Aquatic Center</a></div><div id="mi22110" class="menuItem "><a href="/pview.aspx?id=22110&catid=656">Outdoor Parks, Shelters and Trails</a></div><div id="mi16260" class="menuItem "><a href="/pview.aspx?id=16260&catid=656">Calendar of Events</a></div><div id="mi33508" class="menuItem "><a href="/pview.aspx?id=33508&catid=656">Celebration Tree Program</a></div><div id="mi25501" class="menuItem menuChild"><a href="/pview.aspx?id=25501&catid=656">Mission Market</a></div><div id="mi33567" class="menuItem menuChild"><a href="/pview.aspx?id=33567&catid=656">Virtual Health &amp; Wellness</a></div></div><div id="m15039" class="levelSub level1"><div id="mi16270" class="menuItem menuChild"><a href="/pview.aspx?id=16270&catid=657">Governing Body</a></div><div id="mi16269" class="menuItem "><a href="/pview.aspx?id=16269&catid=657">Agendas and Minutes</a></div><div id="mi33563" class="menuItem "><a href="/pview.aspx?id=33563&catid=657">Legislative Priorities</a></div><div id="mi16452" class="menuItem menuChild"><a href="/pview.aspx?id=16452&catid=657">Boards and Commissions</a></div><div id="mi18655" class="menuItem "><a href="/pview.aspx?id=18655&catid=657">City Code (Link)</a></div><div id="mi16271" class="menuItem menuChild"><a href="/pview.aspx?id=16271&catid=657">Departments</a></div><div id="mi33565" class="menuItem "><a href="/pview.aspx?id=33565&catid=657">Recycling, Trash, Yard Waste</a></div><div id="mi16272" class="menuItem "><a href="/pview.aspx?id=16272&catid=657">Staff Directory</a></div><div id="mi16273" class="menuItem "><a href="/pview.aspx?id=16273&catid=657">Job Openings</a></div><div id="mi18846" class="menuItem "><a href="/pview.aspx?id=18846&catid=657">City Employee Information</a></div><div id="mi33553" class="menuItem "><a href="/pview.aspx?id=33553&catid=657">Non-Discrimination Ordinance</a></div><div id="mi16274" class="menuItem "><a href="/pview.aspx?id=16274&catid=657">Our History</a></div></div><div id="m15040" class="levelSub level1"><div id="mi16259" class="menuItem "><a href="/pview.aspx?id=16259&catid=658">Report a Concern</a></div><div id="mi16275" class="menuItem menuChild"><a href="/pview.aspx?id=16275&catid=658">Apply For...</a></div><div id="mi33493" class="menuItem "><a href="/pview.aspx?id=33493&catid=658">Claim a Towed Vehicle</a></div><div id="mi16276" class="menuItem menuChild"><a href="/pview.aspx?id=16276&catid=658">Contact...</a></div><div id="mi19107" class="menuItem "><a href="/pview.aspx?id=19107&catid=658">Pay Traffic Tickets</a></div><div id="mi33582" class="menuItem "><a href="/pview.aspx?id=33582&catid=658">Receive Fingerprinting Services</a></div><div id="mi16279" class="menuItem menuChild"><a href="/pview.aspx?id=16279&catid=658">Register...</a></div><div id="mi19103" class="menuItem "><a href="/pview.aspx?id=19103&catid=658">Request Open Records</a></div><div id="mi16280" class="menuItem menuChild"><a href="/pview.aspx?id=16280&catid=658">View...</a></div><div id="mi19101" class="menuItem "><a href="/pview.aspx?id=19101&catid=658">Volunteer</a></div></div><div id="m16270" class="levelSub level2"><div id="mi18409" class="menuItem "><a href="/pview.aspx?id=18409&catid=0">Ward Boundaries</a></div><div id="mi18445" class="menuItem "><a href="/pview.aspx?id=18445&catid=0">Mayor Ron Appletoft</a></div><div id="mi18419" class="menuItem "><a href="/pview.aspx?id=18419&catid=0">Ward I Councilmember Trent Boultinghouse</a></div><div id="mi33534" class="menuItem "><a href="/pview.aspx?id=33534&catid=0">Ward I Councilmember Hillary Parker Thomas</a></div><div id="mi18429" class="menuItem "><a href="/pview.aspx?id=18429&catid=0">Ward II Councilmember Nick Schlossmacher</a></div><div id="mi18432" class="menuItem "><a href="/pview.aspx?id=18432&catid=0">Ward II Councilmember Arcie Rothrock</a></div><div id="mi18436" class="menuItem "><a href="/pview.aspx?id=18436&catid=0">Ward III Councilmember Kristin Inman</a></div><div id="mi18435" class="menuItem "><a href="/pview.aspx?id=18435&catid=0">Ward III Councilmember Debbie Kring</a></div><div id="mi33531" class="menuItem "><a href="/pview.aspx?id=33531&catid=0">Ward IV Councilmember Ken Davis</a></div><div id="mi33533" class="menuItem "><a href="/pview.aspx?id=33533&catid=0">Ward IV Councilmember Sollie Flora</a></div></div><div id="m16271" class="levelSub level2"><div id="mi16294" class="menuItem menuChild"><a href="/pview.aspx?id=16294&catid=0">Administration</a></div><div id="mi16296" class="menuItem menuChild"><a href="/pview.aspx?id=16296&catid=0">Community Development</a></div><div id="mi16299" class="menuItem menuChild"><a href="/pview.aspx?id=16299&catid=0">Municipal Court</a></div><div id="mi16301" class="menuItem menuChild"><a href="/pview.aspx?id=16301&catid=0">Parks and Recreation</a></div><div id="mi16305" class="menuItem menuChild"><a href="/pview.aspx?id=16305&catid=0">Police Department</a></div><div id="mi16306" class="menuItem menuChild"><a href="/pview.aspx?id=16306&catid=0">Public Works</a></div></div><div id="m16275" class="levelSub level2"><div id="mi17678" class="menuItem "><a href="/pview.aspx?id=17678&catid=0">Alcohol Liquor License</a></div><div id="mi23425" class="menuItem "><a href="/pview.aspx?id=23425&catid=0">Assistance Programs</a></div><div id="mi18448" class="menuItem "><a href="/pview.aspx?id=18448&catid=0">Building Permit</a></div><div id="mi23426" class="menuItem "><a href="/pview.aspx?id=23426&catid=0">Business Improvement Grant</a></div><div id="mi17664" class="menuItem menuChild"><a href="/pview.aspx?id=17664&catid=0">Business License or Permit</a></div><div id="mi16289" class="menuItem "><a href="/pview.aspx?id=16289&catid=0">City Jobs</a></div></div><div id="m16276" class="levelSub level2"><div id="mi16288" class="menuItem "><a href="/pview.aspx?id=16288&catid=0">City Council</a></div><div id="mi16287" class="menuItem "><a href="/pview.aspx?id=16287&catid=0">City Staff</a></div></div><div id="m16279" class="levelSub level2"><div id="mi16290" class="menuItem "><a href="/pview.aspx?id=16290&catid=0">for E-Notifications</a></div><div id="mi18318" class="menuItem "><a href="/pview.aspx?id=18318&catid=0" target="_blank">Garage Sales</a></div></div><div id="m16280" class="levelSub level2"><div id="mi16282" class="menuItem "><a href="/pview.aspx?id=16282&catid=0">Agendas and Minutes</a></div><div id="mi18596" class="menuItem "><a href="/pview.aspx?id=18596&catid=0">Laserfiche Archives</a></div><div id="mi18500" class="menuItem "><a href="/pview.aspx?id=18500&catid=0">City Council Meeting Videos</a></div><div id="mi16283" class="menuItem "><a href="/pview.aspx?id=16283&catid=0" target="_blank">Codes and Ordinances</a></div><div id="mi16285" class="menuItem "><a href="/pview.aspx?id=16285&catid=0">Forms and Documents</a></div><div id="mi16284" class="menuItem "><a href="/pview.aspx?id=16284&catid=0">Employment Opportunities</a></div><div id="mi16286" class="menuItem "><a href="/pview.aspx?id=16286&catid=0">Open Bids & RFPs</a></div><div id="mi26629" class="menuItem "><a href="/pview.aspx?id=26629&catid=0">Mission Magazine</a></div><div id="mi33530" class="menuItem "><a href="/pview.aspx?id=33530&catid=0" target="_blank">State Legislative Platform</a></div></div><div id="m16294" class="levelSub level3"><div id="mi16515" class="menuItem "><a href="/pview.aspx?id=16515&catid=0">Frequently Asked Questions</a></div><div id="mi19102" class="menuItem "><a href="/pview.aspx?id=19102&catid=0">Open Records Requests</a></div></div><div id="m16296" class="levelSub level3"><div id="mi16298" class="menuItem menuChild"><a href="/pview.aspx?id=16298&catid=0">Planning and Zoning</a></div><div id="mi16297" class="menuItem menuChild"><a href="/pview.aspx?id=16297&catid=0">Neighborhood Services</a></div><div id="mi17589" class="menuItem "><a href="/pview.aspx?id=17589&catid=0">Building Permits and Codes</a></div><div id="mi33520" class="menuItem "><a href="/pview.aspx?id=33520&catid=0">Sign Permits</a></div><div id="mi18299" class="menuItem "><a href="/pview.aspx?id=18299&catid=0">Business Improvement Grant</a></div><div id="mi25445" class="menuItem "><a href="/pview.aspx?id=25445&catid=0">Communities for All Ages</a></div><div id="mi33552" class="menuItem "><a href="/pview.aspx?id=33552&catid=0">Current Development and Construction Projects</a></div></div><div id="m16297" class="levelSub level4"><div id="mi33539" class="menuItem "><a href="/pview.aspx?id=33539&catid=0">Accessory Animal Permit</a></div><div id="mi33535" class="menuItem "><a href="/pview.aspx?id=33535&catid=0">Code Enforcement</a></div><div id="mi18312" class="menuItem "><a href="/pview.aspx?id=18312&catid=0">Community Grants and Assistance</a></div><div id="mi18325" class="menuItem "><a href="/pview.aspx?id=18325&catid=0">Recycling, Trash, Yard Waste</a></div><div id="mi18321" class="menuItem "><a href="/pview.aspx?id=18321&catid=0">Rental Licensing and Inspections</a></div><div id="mi33555" class="menuItem "><a href="/pview.aspx?id=33555&catid=0">Residential Property Maintenance Codes Overview</a></div><div id="mi18326" class="menuItem "><a href="/pview.aspx?id=18326&catid=0">Volunteer Opportunities</a></div></div><div id="m16299" class="levelSub level3"><div id="mi16606" class="menuItem "><a href="/pview.aspx?id=16606&catid=0">Court Procedures</a></div><div id="mi29292" class="menuItem "><a href="/pview.aspx?id=29292&catid=0" target="_blank">Fine/Fee Schedule</a></div><div id="mi33559" class="menuItem "><a href="/pview.aspx?id=33559&catid=0">Traffic and Public Offense Codes</a></div></div><div id="m16301" class="levelSub level3"><div id="mi16302" class="menuItem menuChild"><a href="/pview.aspx?id=16302&catid=0">Powell Community Center</a></div><div id="mi18683" class="menuItem "><a href="/pview.aspx?id=18683&catid=0" target="_blank">Register Here!</a></div><div id="mi16304" class="menuItem menuChild"><a href="/pview.aspx?id=16304&catid=0">Outdoor Parks and Shelters</a></div><div id="mi16303" class="menuItem menuChild"><a href="/pview.aspx?id=16303&catid=0">Mission Family Aquatic Center</a></div></div><div id="m16302" class="levelSub level4"><div id="mi17903" class="menuItem "><a href="/pview.aspx?id=17903&catid=0">Membership Information</a></div><div id="mi17902" class="menuItem "><a href="/pview.aspx?id=17902&catid=0">Facility Information</a></div><div id="mi17911" class="menuItem menuChild"><a href="/pview.aspx?id=17911&catid=0">Event Space</a></div><div id="mi24576" class="menuItem "><a href="/pview.aspx?id=24576&catid=0">Calendar</a></div><div id="mi17913" class="menuItem "><a href="/pview.aspx?id=17913&catid=0">Register Here!</a></div><div id="mi20378" class="menuItem "><a href="/pview.aspx?id=20378&catid=0">Birthday Parties</a></div><div id="mi17908" class="menuItem menuChild"><a href="/pview.aspx?id=17908&catid=0">50 &amp; Beyond</a></div><div id="mi17905" class="menuItem menuChild"><a href="/pview.aspx?id=17905&catid=0">Adults</a></div><div id="mi17904" class="menuItem menuChild"><a href="/pview.aspx?id=17904&catid=0">Aquatics</a></div><div id="mi17910" class="menuItem menuChild"><a href="/pview.aspx?id=17910&catid=0">Special Events</a></div><div id="mi17909" class="menuItem "><a href="/pview.aspx?id=17909&catid=0">Specialized Recreation</a></div><div id="mi17907" class="menuItem menuChild"><a href="/pview.aspx?id=17907&catid=0">Youth</a></div><div id="mi17906" class="menuItem "><a href="/pview.aspx?id=17906&catid=0">Staff</a></div><div id="mi17914" class="menuItem "><a href="/pview.aspx?id=17914&catid=0" target="_blank">Contact Us</a></div></div><div id="m16303" class="levelSub level4"><div id="mi18046" class="menuItem "><a href="/pview.aspx?id=18046&catid=0">Daily Fees &amp; Membership Information</a></div><div id="mi18029" class="menuItem "><a href="/pview.aspx?id=18029&catid=0">Facility Information</a></div><div id="mi18055" class="menuItem "><a href="/pview.aspx?id=18055&catid=0">Pool Parties</a></div><div id="mi18053" class="menuItem "><a href="/pview.aspx?id=18053&catid=0">Pool Programs</a></div><div id="mi33543" class="menuItem "><a href="/pview.aspx?id=33543&catid=0">City of Mission Swim Club</a></div><div id="mi33540" class="menuItem "><a href="/pview.aspx?id=33540&catid=0">MFAC Rules</a></div><div id="mi33518" class="menuItem "><a href="/pview.aspx?id=33518&catid=0">Special Events</a></div></div><div id="m16304" class="levelSub level4"><div id="mi18064" class="menuItem "><a href="/pview.aspx?id=18064&catid=0">Paved Trails</a></div><div id="mi18042" class="menuItem "><a href="/pview.aspx?id=18042&catid=0">Sport Field Rental Policies</a></div><div id="mi22099" class="menuItem "><a href="/pview.aspx?id=22099&catid=0">Parks Reservation Policies</a></div></div><div id="m16305" class="levelSub level3"><div id="mi33584" class="menuItem "><a href="/pview.aspx?id=33584&catid=0">8cantwait Policies in Mission</a></div><div id="mi16812" class="menuItem "><a href="/pview.aspx?id=16812&catid=0" target="_blank">Accident Reports</a></div><div id="mi17538" class="menuItem "><a href="/pview.aspx?id=17538&catid=0">Alarm System Registration</a></div><div id="mi20400" class="menuItem "><a href="/pview.aspx?id=20400&catid=0">Child Seat Installation</a></div><div id="mi18628" class="menuItem "><a href="/pview.aspx?id=18628&catid=0">Claiming a Towed Vehicle</a></div><div id="mi30834" class="menuItem "><a href="/pview.aspx?id=30834&catid=0">Discovery Request (Click to download form)</a></div><div id="mi33175" class="menuItem "><a href="/pview.aspx?id=33175&catid=0">Fingerprinting Services</a></div><div id="mi16608" class="menuItem "><a href="/pview.aspx?id=16608&catid=0">Frequently Asked Questions</a></div><div id="mi19106" class="menuItem "><a href="/pview.aspx?id=19106&catid=0">Paying a Traffic Ticket</a></div><div id="mi22391" class="menuItem "><a href="/pview.aspx?id=22391&catid=0">Prescription Drug Drop-Off</a></div><div id="mi18663" class="menuItem "><a href="/pview.aspx?id=18663&catid=0">Traffic and Public Offense Codes</a></div><div id="mi18853" class="menuItem "><a href="/pview.aspx?id=18853&catid=0">Vacant House Watch</a></div><div id="mi31208" class="menuItem "><a href="/pview.aspx?id=31208&catid=0">What to Expect When Calling 9-1-1</a></div></div><div id="m16306" class="levelSub level3"><div id="mi28558" class="menuItem "><a href="/pview.aspx?id=28558&catid=0">Street Program</a></div><div id="mi33507" class="menuItem "><a href="/pview.aspx?id=33507&catid=0" target="_blank">YourGov Maintenance Reporting</a></div></div><div id="m16452" class="levelSub level2"><div id="mi16453" class="menuItem "><a href="/pview.aspx?id=16453&catid=0">Board of Zoning Appeals</a></div><div id="mi16455" class="menuItem "><a href="/pview.aspx?id=16455&catid=0">Parks, Recreation, and Tree Commission</a></div><div id="mi16454" class="menuItem "><a href="/pview.aspx?id=16454&catid=0">Planning Commission</a></div><div id="mi16457" class="menuItem menuChild"><a href="/pview.aspx?id=16457&catid=0">Sustainability Commission</a></div></div><div id="m16457" class="levelSub level3"><div id="mi33560" class="menuItem "><a href="/pview.aspx?id=33560&catid=0">Communities for All Ages</a></div><div id="mi33514" class="menuItem "><a href="/pview.aspx?id=33514&catid=0">Household Battery Recycling</a></div></div><div id="m17904" class="levelSub level5"><div id="mi29578" class="menuItem "><a href="/pview.aspx?id=29578&catid=0">Adult Water Classes &amp; Lessons</a></div><div id="mi29584" class="menuItem "><a href="/pview.aspx?id=29584&catid=0">Aquatic Swim Lessons &amp; Programs</a></div></div><div id="m17905" class="levelSub level5"><div id="mi29548" class="menuItem "><a href="/pview.aspx?id=29548&catid=0">Adult Class Descriptions</a></div><div id="mi33499" class="menuItem "><a href="/pview.aspx?id=33499&catid=0">Enrichment</a></div><div id="mi33511" class="menuItem "><a href="/pview.aspx?id=33511&catid=0">Tournaments &amp; Leagues</a></div><div id="mi33561" class="menuItem "><a href="/pview.aspx?id=33561&catid=0">American Stroke Foundation</a></div></div><div id="m17907" class="levelSub level5"><div id="mi23594" class="menuItem menuChild"><a href="/pview.aspx?id=23594&catid=0">Camps</a></div><div id="mi29589" class="menuItem "><a href="/pview.aspx?id=29589&catid=0">Youth Dance, Fitness &amp; Sports</a></div><div id="mi29593" class="menuItem "><a href="/pview.aspx?id=29593&catid=0">Youth Enrichment</a></div></div><div id="m17908" class="levelSub level5"><div id="mi29601" class="menuItem "><a href="/pview.aspx?id=29601&catid=0">50 &amp; Beyond Enrichment</a></div><div id="mi33500" class="menuItem "><a href="/pview.aspx?id=33500&catid=0">50 &amp; Beyond Fitness</a></div><div id="mi29571" class="menuItem "><a href="/pview.aspx?id=29571&catid=0">Day &amp; Extended Trips</a></div></div><div id="m17910" class="levelSub level5"><div id="mi17949" class="menuItem "><a href="/pview.aspx?id=17949&catid=0">Bunny Eggstravaganza</a></div><div id="mi33498" class="menuItem "><a href="/pview.aspx?id=33498&catid=0">Burn Before the Turkey</a></div><div id="mi33550" class="menuItem "><a href="/pview.aspx?id=33550&catid=0">Grinch Candy Cane Hunt</a></div><div id="mi33496" class="menuItem "><a href="/pview.aspx?id=33496&catid=0">Membership Drive</a></div><div id="mi18631" class="menuItem "><a href="/pview.aspx?id=18631&catid=0">Thanks for Seniors</a></div></div><div id="m17911" class="levelSub level5"><div id="mi33506" class="menuItem "><a href="/pview.aspx?id=33506&catid=0">Business Conference Rates</a></div><div id="mi33384" class="menuItem menuChild"><a href="/pview.aspx?id=33384&catid=0">Hourly Rentals</a></div><div id="mi33505" class="menuItem "><a href="/pview.aspx?id=33505&catid=0">Reception Packages</a></div></div><div id="m23594" class="levelSub level6"><div id="mi33513" class="menuItem "><a href="/pview.aspx?id=33513&catid=0">Camp Add-On's</a></div></div><div id="m25501" class="levelSub level2"><div id="mi33579" class="menuItem "><a href="/pview.aspx?id=33579&catid=0">Preordering Details</a></div><div id="mi26423" class="menuItem "><a href="/pview.aspx?id=26423&catid=0" target="_blank">2020 Market Vendor Application (Link)</a></div><div id="mi26111" class="menuItem "><a href="/pview.aspx?id=26111&catid=0">Farmers Market FAQ</a></div><div id="mi32805" class="menuItem "><a href="/pview.aspx?id=32805&catid=0">Market in the News</a></div><div id="mi31168" class="menuItem "><a href="/pview.aspx?id=31168&catid=0">Market text alerts: Sign Up!</a></div></div><div id="m26628" class="levelSub level2"><div id="mi29765" class="menuItem "><a href="/pview.aspx?id=29765&catid=0">Past Issues</a></div></div><div id="m29519" class="levelSub level2"><div id="mi29522" class="menuItem "><a href="/pview.aspx?id=29522&catid=0">Flag Fund Honorees</a></div></div><div id="m30089" class="levelSub level6"><div id="mi30962" class="menuItem "><a href="/pview.aspx?id=30962&catid=0">test</a></div></div><div id="m33384" class="levelSub level6"><div id="mi33494" class="menuItem "><a href="/pview.aspx?id=33494&catid=0">Breakout Room</a></div><div id="mi33502" class="menuItem "><a href="/pview.aspx?id=33502&catid=0">Conference Center Rooms C/D/E</a></div><div id="mi33503" class="menuItem "><a href="/pview.aspx?id=33503&catid=0">Gym</a></div><div id="mi33490" class="menuItem "><a href="/pview.aspx?id=33490&catid=0">Meeting Rooms A &amp; B</a></div><div id="mi33495" class="menuItem "><a href="/pview.aspx?id=33495&catid=0">Multi-Purpose Room</a></div><div id="mi33501" class="menuItem "><a href="/pview.aspx?id=33501&catid=0">Party Room</a></div><div id="mi33504" class="menuItem "><a href="/pview.aspx?id=33504&catid=0">Private Pool Rental</a></div></div><div id="m33535" class="levelSub level5"><div id="mi33544" class="menuItem "><a href="/pview.aspx?id=33544&catid=0" target="_blank">Code Compliance Process</a></div><div id="mi33546" class="menuItem "><a href="/pview.aspx?id=33546&catid=0" target="_blank">Community Grants & Assistance</a></div><div id="mi33545" class="menuItem "><a href="/pview.aspx?id=33545&catid=0" target="_blank">Municipal Code</a></div><div id="mi33548" class="menuItem "><a href="/pview.aspx?id=33548&catid=0">Report A Concern</a></div></div><div id="m33567" class="levelSub level2"><div id="mi33568" class="menuItem menuChild"><a href="/pview.aspx?id=33568&catid=0">Virtual Workout Videos</a></div></div><div id="m33568" class="levelSub level3"><div id="mi33570" class="menuItem "><a href="/pview.aspx?id=33570&catid=0">AquaJam on Land</a></div><div id="mi33571" class="menuItem "><a href="/pview.aspx?id=33571&catid=0">Art of Relaxation</a></div><div id="mi33569" class="menuItem "><a href="/pview.aspx?id=33569&catid=0">Bollywood Fitness</a></div><div id="mi33572" class="menuItem "><a href="/pview.aspx?id=33572&catid=0">Burn &amp; Core</a></div><div id="mi33573" class="menuItem "><a href="/pview.aspx?id=33573&catid=0">Functional Yoga</a></div><div id="mi33576" class="menuItem "><a href="/pview.aspx?id=33576&catid=0">Hula Hoop Fitness &amp; Dance</a></div><div id="mi33574" class="menuItem "><a href="/pview.aspx?id=33574&catid=0">QiGong</a></div><div id="mi33577" class="menuItem "><a href="/pview.aspx?id=33577&catid=0">Saturday Morning Move &amp; Groove</a></div><div id="mi33575" class="menuItem "><a href="/pview.aspx?id=33575&catid=0">Tai Chi</a></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="/default.aspx">Mission KS</a></div>
+
+                </td></tr></table>
+        </div>
+
+                 <div class="searchingMobile mobileShowBlock" style=" width: 100%;  margin-top: 10px; margin-bottom: 10px; ">
+         <div id="ctl00_panMobileSearch">
+	
+     <table style="width: 80%; margin-left: auto; margin-right: auto; border: solid 1px #CCCCCC;">
+         <tr>
+             <td style="width: 75%; text-align: right;"><input name="ctl00$txtMobileSearch" type="text" id="txtMobileSearch" class="txtBox" aria-label="Search text box" placeholder="Search our site..." style="border:0;" /></td>
+             <td style="text-align: right;"><input type="image" name="ctl00$mobileSearchButton" id="ctl00_mobileSearchButton" src="common/images/go.png" alt="Search our site" border="0" /></td>
+         </tr>
+     </table>
+</div>
+             </div>  
+      
+
+   <div class="mainContainer" >
+
+ 
+
+    <div class="header">&nbsp;
+           <div class="topline" >
+
+        
+
+   
+
+</div>
+         
+
+        </div>
+       
+   
+
+
+      
+<div class="secondContainer">
+      
+    <div class="secondLeft">
+    <div class="searching">
+        <div id="ctl00_Panel1">
+	
+       <table border="0" cellpadding="0" cellspacing="0" width="225px"><tr>
+         
+          <td align="right" valign="top" style="padding-left: 5px; ">
+        <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" placeholder="Search our site..." aria-label="Search text box" />
+    </td><td valign="top" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left:5px;
+padding-right: 10px;">
+        <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" src="common/images/go.png" alt="Search Site" border="0" />
+           </td></tr></table>
+            
+</div>
+</div>
+       
+        <div style="clear:both;"></div>
+       
+          
+
+         
+
+<div class="sideMenuUnder">&nbsp;</div>
+
+    </div>
+
+    <div class="secondRight">
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.45 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li>
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="https://missionks.org/notfound.aspx?print=1" target="_blank"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Printer Friendly Version" /></a>
+      
+        </div>
+            </div></div>
+
+     <a name="maincontent" id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle">Page Not Found</span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+     The page you are looking for can not be found. 
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+        <div style="clear: both;"></div>
+
+
+    
+    </div>
+    <div style="clear: both;"></div>
+</div>
+
+      
+       <div class="mainFooter">
+<div class="nameFooter">City of Mission</div>
+<div class="secondLineFooter">6090 Woodson &nbsp;&nbsp; Mission, KS 66202  &nbsp;&nbsp; |  &nbsp;&nbsp; City Hall: 913-676-8350  &nbsp;&nbsp; |  &nbsp;&nbsp; Community Center: 913-722-8200  &nbsp;&nbsp; |  &nbsp;&nbsp;Emergency: 911</div>
+
+<a href="sitemap.aspx">Site Map</a>&nbsp;&nbsp; |&nbsp;&nbsp;<a href="staff.aspx">Contact Us</a>&nbsp;&nbsp; |&nbsp;&nbsp;
+   Powered by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">MunicipalCMS</a>
+  
+  <br /><div style="height:3px;">&nbsp;</div>
+  <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="E-notify" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;<a href="https://www.twitter.com/CityofMissionKS" target="_blank"><img src="/common/images/3twitter.png" alt="Twitter" style="border: 0;"></a>&nbsp;<a href="https://www.facebook.com/CityofMissionKS" target="_blank"><img src="/common/images/3facebook.png" alt="Facebook" style="border: 0;"></a>&nbsp;
+ </div>
+
+
+                
+
+
+        </div>
+      
+               
+
+   
+            </div>
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="please ignore" />
+        </div> 
+
+        <div id="galleryCon">
+
+        </div>
+        <div class="bgGray">&nbsp;</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+    <script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-35854059-28', 'missionks.org');
+    ga('send', 'pageview');
+
+</script>
+
+
+</body>
+</html>
+
+
+
+    

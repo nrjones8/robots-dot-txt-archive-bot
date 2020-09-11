@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
+    <!-- Google tag manager and GA -->
+    <!-- End Global Beta site tag (gtag.js) - Google Analytics -->
+
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-M9B3ZFL');
+    </script>
+    <!-- End Google Tag Manager -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-90259193-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-90259193-1');
+    </script>
+    <!-- Google tag manager and GA END -->
+
+
+<link rel="stylesheet" href="2019-update/css/accordion.css" />
+    <link rel="shortcut icon" type="image/png" href="/mvc/2019-update/img/favicon.png" />
+    <!-- Required meta tags -->
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!--font awesome for icons-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
+
+<link rel="stylesheet" href="2019-update/css/accordion.css" />
+
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous" />
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="2019-update/css/main.css?v=400748c" />
+
+
+    <title>NJ Motor Vehicle Commission</title>
+    <meta name="description" content="The official website of the New Jersey Motor Vehicle Commission.">
+
+    <!-- JavaScript -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="https://use.typekit.net/irl6jah.css">
+
+
+    <!-- Ajax and jquery libraries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <!--  load nav and control the menu and submenu clicking funtion -->
+    <script type="text/javascript">
+        var loaded = false;
+        $(document).ready(function() {
+            $("#navload").load(
+                "/mvc/2019-update/modules/navbar-custom.html",
+                function() {}
+            );
+            $("#mvcFooter").load(
+                "/mvc/2019-update/modules/mvcFooter.html",
+                function() {}
+            );
+        });
+    </script>
+    
+ <!--   
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>-->
+<script>
+$(document).ready(function(){
+$("#myModal").modal('show');
+});
+</script>
+<style>
+    .bs-example{
+    margin: 20px;
+    }
+    .modal-header{
+        padding: 20px 40px;
+        background: #050163;
+        color: #ffffff;
+    }
+.close {
+    color: #fff; 
+    opacity: 1;
+}    
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 80%;
+}   
+ .resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}   
+</style>
+    
+
+</head>
+
+<body>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2445915272305794');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2445915272305794&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9B3ZFL" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- wrapper with overflow hidden to keep from having side scroll -->
+    <div class="wrapper">
+
+        <div class="container-fluid" id="beta-notice" style="
+        background-color: #e6e6e6;
+        color: #3d3d3d;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        z-index: 1;
+        font-size: 0.75rem;
+    ">
+            <header class="row justify-content-center">
+               <!-- <div class=" col-sm-9 col-lg-9 col-xl-9">
+                    <p class="text-center mb-0">
+                        Thanks for visiting our new site! You may temporarily continue to use our <a href="/mvc/mvc/index.html">old
+              site</a>.
+                    </p>
+                </div>-->
+            </header>
+        </div>
+        <!-- header html directly from https://nj.gov/ with minor modifications -->
+        <div class="container-fluid" id="header">
+            <header class="nj row justify-content-center ">
+                <div id="logo" class="col-sm-8 col-lg-6 col-xl-5">
+                    <h1 class="my-2">
+                        <img src="/mvc/2019-update/img/state_seal_white_transparent.png" alt="State of New Jersey Seal" title="" />Official Site of The State of New Jersey
+                    </h1>
+                </div>
+                <div class=" col-sm-4 col-lg-6 col-xl-5">
+                    <div class="gov-bar text-right d-none d-lg-block">
+                        <a href="/governor/" target="_blank">Governor Phil Murphy &bull;</a>
+                        <a href="/governor/admin/lt/" target="_blank">Lt. Governor Sheila Oliver</a>
+                    </div>
+                    <ul class="my-sm-2 my-lg-0 social statewide text-right">
+                        <li class="d-none d-lg-inline">
+                            <a href="https://nj.gov">NJ.gov</a>
+                        </li>
+                        <li class="d-none d-lg-inline">
+                            <a href="/nj/gov/njgov/alphaserv.html">Services</a>
+                        </li>
+                        <li class="d-none d-lg-inline">
+                            <a href="/nj/gov/deptserv/">Agencies</a>
+                        </li>
+                        <li class="d-none d-lg-inline"><a href="https://www.nj.gov/faqs/">FAQs</a></li>
+                    </ul>
+            </header>
+            </div>
+
+            <div id="navload"></div>
+
+            <div class="jumbotron">
+                <div class="container">
+                    <h1 class=" nj-header-h2 display-4">
+                        Hello.<br>
+                    </h1>
+                    <h2 class="nj-header-h2">
+                    Welcome to the Official <br>
+                     Website of the New Jersey Motor Vehicle Commission</h2>
+                    <div class="col-lg-7 col-md-6 col-xs-12">
+                      <h3 class="logo-green uppercase font-mb">How May We help you today?</h3>
+                      <p class="font-regular">You can begin by exploring our most popular services below, or by using our search feature to help get what you need. </p>
+                    </div>
+                    <h2 class="nj-header-h2">&nbsp;</h2>
+                </div>
+            </div>
+            <div id="how-can-we-help-section" class="mb-1 pt-3 text-white text-align-center index-bar">
+                <div class="container">
+                    <div class="row align-items-center">
+                      <div class="col">
+                          <script>
+                                (function() {
+                                    var cx = '011968443031493923266:pdhbsi6h_r8';
+                                    var gcse = document.createElement('script');
+                                    gcse.type = 'text/javascript';
+                                    gcse.async = true;
+                                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                    var s = document.getElementsByTagName('script')[0];
+                                    s.parentNode.insertBefore(gcse, s);
+                                })();
+                            </script>
+                            <gcse:search></gcse:search>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+<div class="bs-example">
+    <div id="myModal" class="modal fade" tabindex="-1">
+       
+        <div class="modal-dialog modal-lg modal-notify modal-info modal-dialog-centered" role="document">
+            <div class="modal-content">
+        <div class="modal-header">
+            <p class="heading lead"><strong>IMPORTANT CHANGES YOU NEED TO KNOW ABOUT:</strong></p>
+
+         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+       </div>
+
+                <div class="modal-body">
+                    <h3>September 9, 2020</h3>   
+                    <p>Most transactions can now be conducted <a href="about/online-list.htm">online</a>.</p> 
+                    <p>If you must <a href="locations/facilitylocations.htm">visit</a> in person.</p> 
+                    <ul>
+                             <li><strong>Licensing Centers</strong> offer license and ID transactions only.</li>
+                             <li><strong>Vehicle Centers</strong> offer registration, title, and license plate transactions only.</li>
+                                              
+                    <li>NOTE: All customers are required to wear face coverings when visiting an agency.</li>
+                    <li>Other FAQs available <a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf">here.</a> </li>
+                      
+                      
+           </ul> 
+
+                    
+                </div>
+       <div class="modal-footer justify-content-center">
+     <a type="button" class="btn btn-outline-primary waves-effect" data-dismiss="modal">Close</a>
+       </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+                
+                <h3><p align="center"><a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf"><font color="red"><strong>COVID-19 Response:</strong></font><strong> Check our new Frequently Asked Questions! Will be updated often.</strong></a></p></h3>
+     
+        <div class="alerta-primary" role="alertdialog">
+          <button type="button" class="close" data-dismiss="alerta" aria-hidden="true">
+          ×</button>
+            <h3>&nbsp; </h3>
+            <h3>Most expiration dates have been extended to at least Sept 30, and many processes at MVC Licensing Centers and Vehicle Centers have changed. See <a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf">FAQ</a> for more.</h3>
+            <h5>&nbsp;</h5>  
+</div>
+<!--<div class="alert alert-danger alert-dismissable" role="alert">
+  	<p><strong>EATONTOWN LICENSING CENTER AND VEHICLE INSPECTION CENTER</strong> are  temporarily unable to process transactions, due to a power outage. (Updated  September 10, 2020, 10:40 am.) </p>
+    <p>Please check back here for updates before heading to the  facility or <a href="locations/facilitylocations.htm">click here</a> for alternative locations. The  MVC apologizes for any  inconvenience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<button type="button" class="btn btn-danger" data-dismiss="alert" aria-hidden="true">
+    Close Alert</button>
+</div>-->
+    
+<div class="alert alert-warning alert-dismissable" role="alert">
+    <p></p>
+    <p></p>
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
+          ×</button>
+<div class="resp-container">
+<iframe class="resp-iframe" src="locations/agency.htm"  style="border:none;" title="Agency"></iframe>
+</div>
+<button type="button" class="btn btn-warning" data-dismiss="alert" aria-hidden="true">
+Close Alert</button>
+</div>
+</div>       
+            
+<div class="image">
+  <div class="container">
+	<div class="card-header-real" id="headingOne">
+        <div class="lockup">
+				<p>&nbsp;</p>
+				<p align="center"><img src="realid/img/hero-lockupa.png" alt="REAL ID is coming"></p>
+	  </div>
+				<p align="center">
+	  <h3 align="center">Click to visit<br>
+                        <div> <a href="https://REALID.nj.gov"><font color="#82c341">REALID.nj.gov</font></a></div></h3>
+					<p align="center">&nbsp;</p>
+				</p>
+    </div>
+  </div>
+</div>
+<div id="quick-links" class="container">
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="card">
+                            <div class="card-body front">
+                                <div class="d-flex justify-content-center mb-3">
+                                    <img class="card-img-top img-fluid" alt="License" src="2019-update/img/icons/SVG/license.svg">
+                                </div>
+                                <h5 class="card-title text-center logo-green">Help With My Driver License or ID Card</h5>
+
+                                <div class="d-flex justify-content-center">
+                                    <a href="" class="btn text-white text-uppercase hiddenmobile">VIEW DETAILS <i
+                    class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="card-back">
+                                <ul class="pl-3 mt-5 d-flex flex-column align-items-center">
+                                    <li>
+                                        <a href="/mvc/license/initiallicense.htm">
+                                            <p class="quicklinks-link">First License<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/mvc/license/licrenew.htm">
+                                            <p class="quicklinks-link">License Renewal<i class="fas fa-long-arrow-alt-right  ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://realidnj.com/">
+                                            <p class="quicklinks-link">Real ID<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/mvc/license/liclost.htm">
+                                            <p class="quicklinks-link">Lost/ Duplicate License<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex justify-content-center mb-3">
+                                    <img class="card-img-top img-fluid" alt="Vehicles" src="2019-update/img/icons/SVG/Asset 1.svg">
+                                </div>
+                                <h5 class="card-title text-center logo-green">Help With My Vehicle</h5>
+                                <div class="d-flex justify-content-center">
+                                    <a href="" class="btn text-white text-uppercase hiddenmobile">VIEW DETAILS <i
+                    class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="card-back">
+                                <ul class="pl-3 mt-5 d-flex flex-column align-items-center">
+                                    <li>
+                                        <a href="/mvc/vehicles/reginitial.htm">
+                                            <p class="quicklinks-link">Vehicle Registration<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/mvc/vehicles/regrenew.htm">
+                                            <p class="quicklinks-link">Registration Renewals<i class="fas fa-long-arrow-alt-right  ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/mvc/vehicles/regreplace.htm">
+                                            <p class="quicklinks-link">Replace Lost Registration<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="/mvc/inspection/aboutinsp.htm">
+                                            <p class="quicklinks-link">Vehicle Inspections<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="card">
+                            <a href="/mvc/online-services.html" aria-label="Online services">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-center mb-3">
+                                        <img class="card-img-top img-fluid" alt="Online Services" src="2019-update/img/icons/SVG/online services-white.svg" alt="Online Services Link and Logo. Here you can apply for a licence online if you qualify">
+                                    </div>
+                                    <h5 class="card-title text-center logo-green">Online Services</h5>
+
+                                    <div class="d-flex justify-content-center">
+                                        <a href="/mvc/online-services.html" class="btn text-white text-uppercase">VIEW DETAILS <i
+                      class="fas fa-long-arrow-alt-right"></i></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm">
+                        <div class="card">
+                            <a href="facilities-location.html" aria-label="Facility locations">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-center mb-3">
+                                        <img class="card-img-top img-fluid" alt="Agency Locations" src="2019-update/img/icons/SVG/car-search.svg">
+                                    </div>
+                                    <h5 class="card-title text-center logo-green">Agency Locations</h5>
+
+                                    <div class="d-flex justify-content-center">
+                                        <a href="/mvc/facilities-location.html" class="btn text-white text-uppercase">VIEW DETAILS <i
+                      class="fas fa-long-arrow-alt-right"></i></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="card">
+                            <a href="/mvc/drivertopics/addchange.htm" aria-label="Address change">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-center mb-3">
+                                        <img class="card-img-top img-fluid" alt="Change Address" src="2019-update/img/icons/SVG/location.svg">
+                                    </div>
+                                    <h5 class="card-title text-center logo-green">Change My Address</h5>
+                                    <div class="d-flex justify-content-center">
+                                        <a href="/mvc/drivertopics/addchange.htm" class="btn text-white text-uppercase">VIEW DETAILS <i
+                      class="fas fa-long-arrow-alt-right"></i></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-sm">
+                        <div class="card">
+                            <a href="/mvc/license/surcharge.htm" aria-label="Surcharges">
+                                <div class="card-body">
+                                    <div class="d-flex justify-content-center mb-3">
+                                        <img class="card-img-top img-fluid" alt="Surcharges" src="2019-update/img/icons/SVG/surcharge.svg">
+                                    </div>
+                                    <h5 class="card-title text-center logo-green">Surcharges</h5>
+
+                                    <div class="d-flex justify-content-center">
+                                        <a href="/mvc/license/surcharge.htm" class="btn text-white text-uppercase">VIEW DETAILS <i
+                      class="fas fa-long-arrow-alt-right"></i></a>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+</div>
+            <div class="quicklinks mb-4 mt-4">
+                <div class="overflow-hidden container-fluid">
+                    <div id="ql-row-one" class="row ">
+                        <div id="dad-driving" class="col-6 pr-2  hide-mobile">
+                            <!-- <img src="2019-update/img/hp-man-driving.jpg" alt="man driving car with his young family" class="img-fluid"> -->
+                        </div>
+                        <div class="col list-group list-group-flush" style="padding: 1rem 1rem 3rem">
+                            <div href="#" class="list-group-item">
+                                <div class="d-flex">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <!-- leave empty -->
+                                    </div>
+                                    <div class="col">
+                                        <h3 class="mt-4">Quick Links</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="/mvc/vehicles/regreplace.htm" class="list-group-item list-group-item-action">
+                                <div class="d-flex">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <img class="icon" src="2019-update/img/icons/SVG/doc.svg" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <p class="quicklinks-link">Lost Your Registration?<i class="fas fa-long-arrow-alt-right logo-blue ml-2"></i> </p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="/mvc/realid/faq.html" class="list-group-item list-group-item-action">
+                                <div class="d-flex">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <img class="icon" src="2019-update/img/icons/SVG/realID.svg" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <p class="quicklinks-link">Do I need "Real ID?"<i class="fas fa-long-arrow-alt-right logo-blue ml-2"></i>
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="/mvc/license/liclost.htm" class="list-group-item list-group-item-action">
+                                <div class="d-flex">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <img class="icon" src="2019-update/img/icons/SVG/license-small.svg" alt="">
+                                    </div>
+                                    <div class="col-6">
+                                        <p class="quicklinks-link">Lost Your License?<i class="fas fa-long-arrow-alt-right logo-blue ml-2"></i>
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                            <a href="/mvc/about/contact.htm" class="list-group-item list-group-item-action">
+                                <div class="d-flex">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <img class="icon" src="2019-update/img/icons/SVG/doc.svg" alt="">
+                                    </div>
+                                    <div class="col">
+                                        <p class="quicklinks-link">Contact Us<i class="fas fa-long-arrow-alt-right logo-blue ml-2"></i></p>
+                                    </div>
+                                </div>
+                            </a>
+                            </a>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="ql-row-two" class="row">
+                        <div class="col-1 hide-mobile"></div>
+                        <div class="col list-group-flush" style="padding: 1.5rem 0 2rem">
+                            <div href="#" class="list-group-item">
+                                <div class="d-flex">
+
+                                    <div class="col pl-0">
+                                        <h3 class="mt-3">Want to Visit Us?</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="/mvc/facilities-location.html" class="list-group-item list-group-item-action">
+                                <h6 class="logo-green">Agency Hours</h6>
+                                <p class="quicklinks-link"> Monday - Friday: 8 a.m. – 4:30 p.m.
+                                     <br> Saturday: 8 a.m. – 3 p.m.
+                                </p>
+                            </a>
+                            <a href="/mvc/facilities-location.html" class="list-group-item list-group-item-action">
+                                <h6 class="logo-green">State Inspection Facility</h6>
+                                <p class="quicklinks-link"> Monday - Friday: 8 a.m. – 4:30 p.m.
+                                    <br> Saturday: 7 a.m. – Noon
+                                </p>
+                            </a>
+                            <a href="/press/archives/2020/Licensing Centers and Vehicle Centers.pdf" class="list-group-item list-group-item-action">
+                                <h6 class="logo-green">Suspension &amp; Restoration Services</h6>
+                                <p class="quicklinks-link">Monday - Friday: 8 a.m. – 4:30 p.m.</p>
+                            </a>
+                            <a href="/mvc/online-services.html" aria-label="Online services">
+                                <div class="d-flex list-group-item list-group-item-action">
+                                    <div class="pr-0 ml-3 col-1">
+                                        <img class="icon-big" src="2019-update/img/icons/SVG/online services.svg" alt="Online Services logo and link">
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="logo-green">Skip the trip</h6>
+                                        <p class="quicklinks-link">Try Online Services<i class="fas fa-long-arrow-alt-right logo-blue ml-2"></i>
+                                        </p>
+                                    </div>
+                                </div>
+                            </a>
+                            </ul>
+
+                        </div>
+                        <div id="woman-driving" class="col-6 pl-2  hide-mobile">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pb-4 pt-4 text-white text-align-center index-bar">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-12 col-sm-12 mr-auto">
+                            <h3 class="logo-green uppercase font-mb">Agency locations </h3>
+                            <p class="font-regular">Select a service and find the location closest to you.</p>
+                        </div>
+                        <div class="col-lg-3 col-sm-6 pr-5 pb-4 col-xs-12">
+                            <a href="facilities-location.html"><button class="btn btn-light btn-lg"><i
+                  class="logo-blue fas fa-map-marked-alt"></i></i>
+                Search our Facility Map</button></a>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+            <div id="map-container">
+                <a href="/mvc/facilities-location.html" aria-label="Facility locations map">
+                    <picture>
+                        <source type="image/webp" srcset="/mvc/2019-update/img/mapplaceholder.webp">
+                        <source type="image/png" srcset="/mvc/2019-update/img/mapplaceholder.png">
+                        <img src="/mvc/2019-update/img/mapplaceholder.png" alt="Facility locations map">
+                    </picture>
+                </a>
+            </div>
+            <footer id="mvcFooter">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6 hide-mobile">
+                            <div class="row ">
+                                <ul class="col-4 ">
+                                    <li><a href="/mvc/online-services.html">Online Services</a></li>
+                                    <li><a href="/mvc/license/initiallicense.htm">Driver License/ID</a></li>
+                                    <li><a href="/mvc/vehicles/reginitial.htm">Vehicle Registration</a></li>
+                                    <li><a href="/mvc/vehicles/titlenew.htm">Titles</a></li>
+                                    <li><a href="/mvc/vehicles/aboutplates.htm">Plates</a></li>
+                                    <li><a href="/mvc/inspection/aboutinsp.htm">Inspections</a></li>
+                                    <li><a href="/mvc/drivertopics/addchange.htm">Change of Address</a></li>
+                                    <li><a href="/mvc/license/6pointid.htm">6 Points of ID</a></li>
+                                    <li><a href="https://www.nj.gov/nj/legal.html">Terms</a></li>
+                                    <li><a href="https://www.nj.gov/nj/privacy.html">Privacy</a></li>
+                                </ul>
+                                <ul class="col-4">
+                                    <li><a href="/mvc/license/liclost.htm">Lost License</a></li>
+                                    <li><a href="/mvc/vehicles/regreplace.htm">Lost Vehicle Registration</a></li>
+                                    <li><a href="/mvc/vehicles/regrenew.htm">Vehicle Renew Registration</a></li>
+                                    <li><a href="/mvc/drivertopics/voterreg.htm">Voter Registration</a></li>
+                                    <li><a href="/mvc/drivertopics/organdonor.htm">Organ Donor</a></li>
+                                    <li><a href="/mvc/drivertopics/nextofkin.htm">Next-of-Kin</a></li>
+                                    <li><a href="/mvc/inspection/aboutinsp.htm">Inspection Process</a></li>
+                                    <li><a href="/mvc/pdf/inspections/FAQinspection.pdf">Inspection FAQs [PDF]</a></li>
+                                </ul>
+                                <ul class="col-4">
+
+                                    <li><a href="/mvc/inspection/failedinsp.htm">Failed Inspection</a></li>
+                                    <li><a href="/mvc/locations/closing.htm">Agency Closures & Delays</a></li>
+                                    <li><a href="/mvc/news/news.htm">Media</a></li>
+                                    <li><a href="/mvc/about/pubmeetings.htm">Public Meetings</a></li>
+                                    <li><a href="/mvc/about/mission.htm">Mission Statement</a></li>
+                                    <li><a href="/mvc/about/forms.htm">Forms</a></li>
+                                    <li><a href="/mvc/about/manuals.htm">Manuals</a></li>
+
+
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 border-left border-white">
+                          <script>
+                                (function() {
+                                    var cx = '011968443031493923266:pdhbsi6h_r8';
+                                    var gcse = document.createElement('script');
+                                    gcse.type = 'text/javascript';
+                                    gcse.async = true;
+                                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                                    var s = document.getElementsByTagName('script')[0];
+                                    s.parentNode.insertBefore(gcse, s);
+                                })();
+                            </script>
+                            <gcse:search></gcse:search>
+                            <div class="row">
+                                <div class="col">
+                                    <a href="/mvc/about/aboutmvc.htm">
+                                        <h5 class="">About Us</h5>
+                                        <img class="img-fluid mb-4" id="nj-footer-logo" src="/mvc/2019-update/img/invertedlogo.svg" alt="New Jersey MVC Logo and link  to about page">
+                                    </a>
+                                    <h5>Follow Us</h5>
+                                    <ul>
+                                        <li><i class="fab fa-facebook"></i><a href="https://www.facebook.com/NewJerseyMVC/">Facebook</a></li>
+                                        <li><i class="fab fa-twitter-square"></i> <a href="https://twitter.com/NJ_MVC">Twitter</a></li>
+                                        <li><i class="fab fa-youtube-square"></i><a href="https://www.youtube.com/user/NewJerseyMVC">Youtube</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col border-left border-white mobile-border-left">
+                                    <h5>New Jersey Motor <br> Vehicle Commission</h5>
+                    <p></p>
+                    <div class="row">
+                <div class="col">
+                    <a href="/mvc/about/aboutmvc.htm">
+                        <h5 class="">Contact Us</h5>
+                    </a>
+                    <ul>
+                        <!--<li><i class="fas fa-map-marker-alt"></i>P.O. Box 160<br> Trenton, NJ 08666</li>
+                        <li><i class="fas fa-phone"></i><a href="tel:+16092926500">(609) 292-6500</a></li>-->
+                        <li><i class="fas fa-assistive-listening-systems"></i><a href="tel:711">7-1-1 NJ Relay</a></li>
+                
+                    </ul>
+                      </div>
+                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <footer class="footer nj">
+                <div class="container-fluid">
+                    <div class="row no-gutters justify-content-center ">
+                        <div class="col-sm-3 col-xl-2 d-block">
+                            <a href="//nj.gov/opra/" class="mb-2 mr-5 d-block float-left"><img src="/mvc/images/opraimg.svg" alt="Opera Logo" class="opra" /></a>
+                            <br />
+
+                        </div>
+                        <div class="col-sm-9 col-xl-8 text-right">
+                            <a href="https://twitter.com/NJGov" class="ml-1" aria-label="Visit us on Twitter">
+                                <i aria-hidden="true" class="fab fa-twitter-square fa-2x nj-gray" alt="Visit us on Twitter"></i></a>
+                            <a href="https://www.facebook.com/NJGov" class="ml-1" aria-label="Visit us on Facebook">
+                                <i aria-hidden="true" class="fab fa-facebook-square fa-2x nj-gray" alt="Visit us on Facebook"></i></a>
+                            <br />
+                            <address>Copyright &copy; State of New Jersey, 1996-2020</address>
+                        </div>
+                    </div>
+                    <div class="row no-gutters justify-content-center">
+                        <div class="col-12 col-xl-10  text-right">
+
+                        </div>
+                    </div>
+            </footer>
+            </div>
+
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=968618980"></script>
+</body>
+
+</html>

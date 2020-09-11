@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /umbraco
+Disallow: /xslt
+Disallow: /python
+Disallow: /scripts
+Disallow: /usercontrols
+Disallow: /umbraco_client
+Disallow: /bin
+Disallow: /data
+Disallow: /config

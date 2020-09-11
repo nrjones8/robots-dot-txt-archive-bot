@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Official Website
+</title>
+  
+<script src="/clientcommon/jquery/jquery1.10.2min.js" type="text/javascript"></script>
+<script src="/ClientCommon/jquery/jquery-ui.min.js"></script>
+
+
+<link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="common/css/design.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 800px)" rel="stylesheet" type="text/css" />
+       
+    <script src="/ClientCommon/scripts/menu.js"></script>
+    <script src="/ClientCommon/scripts/mobile.js"></script>
+    <script src="/ClientCommon/scripts/gallery.js"></script>
+
+ 
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+ 
+    <style>
+        .level6, .level7{
+            display: none;
+        }
+   .breadCrumb a{color:#757575; font-size:1rem;}
+   .menuItem {font-size:1rem;}
+        .bigMenuCon {background-color: #37739e;  }
+         .FooterName{font-size:1.3em;}
+         .social img {    max-width: 50px;}
+        .menuItem a {color:#37739e;}
+            .sideItem a, .sideItemHC a
+    {
+            color: #37739e; 
+    }
+
+        .sideItem:hover, .sideItemHC:hover, .sideMenuItem:hover {
+            background-color: #37739e;
+        }
+.secondRightContent {font-size: 1rem!important;}
+        .footerLeft
+        {
+            width: 25%;
+        }
+
+        .footerRight{
+            width: 20%;
+        }
+
+        .footerCenter{
+            width: 53%;
+        }
+
+        .loadingDiv, .loadingDiv IMG
+        {
+            display: none;
+        }
+  
+ .visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+                #skiptocontent a {
+	padding:6px;
+	position: absolute;
+	top:-40px;
+	left:0px;
+	color:white;
+	border-right:1px solid white;
+	border-bottom:1px solid white;
+	border-bottom-right-radius:8px;
+	background:transparent;
+	-webkit-transition: top 1s ease-out, background 1s linear;
+    transition: top 1s ease-out, background 1s linear;
+    z-index: 100;
+}
+
+#skiptocontent a:focus {
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:#000000;
+	outline:0;	
+	-webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+}
+
+
+    </style>
+
+    
+      <script>
+        $(document).ready(function () {
+            $(".sshLinkItem").each(function () {
+                   $(this).attr("aria-label", $(this).attr("title"));
+            });
+        });
+     </script>
+
+ <link href="/WebResource.axd?d=LOMt2fa3PeNxtjo0uIjbyWfTmvZ558FSE0wrOiRYOc1gpoYHhMRGr26Gy2lRY_Q6IgeYQi7k9KMgx3M6kms2koDghPJLDrh_up2Gt0j5W9o8ma6MWVX_H-iZal6PMNaaNDlLfjqU65sOQ3xoFMlJjpaT8Kg7PrRO9tKS4PIXAxM1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=3qOXQmRE4-vhZUoRGIFx6SBVBHaayDLMJekmOvwoeXJ2rX9eRPija6sjDh0t8avw9aQ8wS6Ry2jwE8azVnB8M49ALSJC_Hppl7F7YzOEe87XMV_7cwKuk4fXcmYhgJpQHse1lnjoDgIFHprqf-rvYg2&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=kFYuq9TbGbyDgAI-6C4c-iS1vWKkuNgYCoov_xh3iv8aV2tDmSy7yKPkxxxu8u23f_MuA-UtD6gXbfS1fWAdIurjgkrPUWH23NQlvoF_2F4hUL-FGF3rdAmBwI9Q_7h9jZSmQVrS0MyvUSNUsVO6xzK4EwsX9QHN_fARwUvou681&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+
+
+<body>
+<div id="skiptocontent"><a href="#maincontent" class="">Skip to main content</a></div>
+
+  
+
+    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTkwOTMyMjcxD2QWAmYPZBYCAgMPZBYMAgYPFgIeBFRleHQFwwI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL3BWaWV3LmFzcHg/aWQ9MTAwNzUmY2F0aWQ9NjA2Ij5Ib3cgRG8gST88L2E+PC9kaXY+PGRpdiBjbGFzcz0ic2lkZUl0ZW0iPjxhIGhyZWY9Ii9mYXFzLmFzcHg/Y2F0ZWdvcnlpZD0wIj5GQVFzPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvZm9ybXMuYXNweD9maWQ9NjIwIj5SZXBvcnQgYSBDb25jZXJuPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvcHZpZXcuYXNweD9pZD05NzAxJmNhdGlkPTYwNSI+VGF4ZXMsIEZlZXMgYW5kIFJhdGVzPC9hPjwvZGl2PmQCCQ8PFggeFUVuYWJsZUVtYmVkZGVkU2NyaXB0c2ceHEVuYWJsZUVtYmVkZGVkQmFzZVN0eWxlc2hlZXRnHhJSZXNvbHZlZFJlbmRlck1vZGULKXJUZWxlcmlrLldlYi5VSS5SZW5kZXJNb2RlLCBUZWxlcmlrLldlYi5VSSwgVmVyc2lvbj0yMDIwLjIuNjE3LjQ1LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTEyMWZhZTc4MTY1YmEzZDQBHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2hkZAIKDxYCHwAFsgE8YSBocmVmPSJodHRwczovL3d3dy5jYXBlY2hhcmxlcy5vcmcvbm90Zm91bmQuYXNweD9wcmludD0xIiB0YXJnZXQ9Il9ibGFuayI+PGltZyB2c3BhY2U9IjciIHNyYz0iL2NsaWVudGNvbW1vbi9pbWFnZXMvcHJpbnQuZ2lmIiAgYm9yZGVyPSIwIiBhbHQ9IlByaW50ZXIgRnJpZW5kbHkgVmVyc2lvbiIgLz48L2E+ZAILD2QWAgIBDw8WAh8ABQ5QYWdlIE5vdCBGb3VuZGRkAgwPFgIfAAXnAjxkaXYgPjxzcGFuIGNsYXNzPSJtb2JpbGVTcGFuIEZvb3Rlck5hbWUiPlRvd24gb2YgQ2FwZSBDaGFybGVzPC9zcGFuPiA8YnIgLz4yIFBsdW0gU3RyZWV0IENhcGUgQ2hhcmxlcywgVkEgMjMzMTA8L2Rpdj48ZGl2PlBob25lOiAoNzU3KSAzMzEtMzI1OSZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDtGYXg6ICg3NTcpIDMzMS00ODIwPC9kaXY+PGEgaHJlZj0iZGVmYXVsdC5hc3B4Ij5Ib21lPC9hPiZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDs8YSBocmVmPSIvc3RhZmYuYXNweCI+Q29udGFjdCBVczwvYT4mbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3NpdGVtYXAuYXNweCI+U2l0ZSBNYXA8L2E+Jm5ic3A7Jm5ic3A7ZAINDxYCHwAFsQI8YSBocmVmPSIvcnNzLmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zcnNzLnBuZyIgYWx0PSJSU1MgRmVlZHMiIHN0eWxlPSJib3JkZXI6IDA7Ij48L2E+Jm5ic3A7PGEgaHJlZj0iaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL011bmljaXBhbC1Db3Jwb3JhdGlvbi1vZi1DYXBlLUNoYXJsZXMtMTQzMjYyMDY5MzU0NTc1NC8/cmVmPWJvb2ttYXJrcyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zZmFjZWJvb2sucG5nIiBhbHQ9IkZhY2Vib29rIiBzdHlsZT0iYm9yZGVyOiAwOyI+PC9hPiZuYnNwO2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFD2N0bDAwJGltZ1NlYXJjaAUMY3RsMDAkclNoYXJlWEx6WNJpgU2/e4VN2XuDGtwKm5yxMF4pvgaF6EVcWyk=" />
+
+
+<script src="/ScriptResource.axd?d=kSTiLx4hxk4qD7MItggiD3OCVD9nU-2XuukoTxJhZmQ4Po6s3C9jhqzo8qi6OAsewqpnW8e98nABkhKqLZQg4p4n11KbdEm29McPwZ3OITeu858Xn7Py9cKPjglKLS_erM95pLL5INI_ibbDtSfnuWlMUKIur5s7LWnSvzueDrHnfF59TFS0L7QaCarWim-E0&amp;t=2a797f5c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=SefHsfpJ1PW-8W71yE7UedjpJlMESHNRdIwyyh-_7Kw7rEulpighur8VOUua69NmVnGRjpkm-zxZAa-0grADyXZ9cK8sjS-03gzPe9wV7B0H7WbrGCoUINu74uopPHD0f66YKXqR4k_eBPHS-dSOGw2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EEmAmOk5ZM0sjbdq3j6XRiPxqYLngwVEkcZXOIQQ4wbIbIYWFUC2WkZ08q3QbRZqYXxaxujDwKD6AU5_hJzserbKnCMGyC-JZxSy_hYZvxQ_U2n5bvxuigHxZ2-rkITYfoIORGXGETexB9A2pWRSoQ2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=KjCkYeYgAGnDS5zlDU3NALBqddiVBPHyczVAyFpXmYjbUH1C66D0Mx9EHvfxalDPwazusQW8nfRGD4J5Bkf2MmFtMwF7jPjZK_9BznZvzmYI9l8YPGc4NrMefnwaBzqQHwECHfDhpxofnEFl96zxjg2&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=XYNA4FfExG-axmV-QDG8wZLiWWXX47PB44X_KhBgngfHtLdUTa3EGGGKZaWP4pfLPU1ijVp9VPgtViZViNCZXrtbH9sdlycztNAXkusHE1wii2_wiK2K5EDoLM2CtZFQXbQ_GkDWqig3HQucxcU-eN_8rB2kpQMhqgUpIYky3W8Li6_VDj06ebQFxDURaUbp0&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ATvuuyNh314ZFS9br_4fmxFVnmADJMJIRhuOzk0cNKpLZIN5nPqpKkBk4GGTcZEUdCB06_1gK0ZBBzb-5jFRrsYuiaffC3o7HHAKCDKXfPBSkzE5l89gM-bvN2YyLHCDBKulS8nnN4xAz-n2fRyxh6dJdnLaCVBjB77wmLOKYt81&amp;t=3322f07f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=xvY6RQ6c-a4ICoiYvq3Swekg1g18MNM5HkJaGJQKIwqEjMXFBZYMUvLLVxXRfO7DF6uZ6nZiYtgbvulag7fd1-REWlWHB4pJ-Pc8O9nczkc4V_RuxW_PZha86FEe7XCSeBqS6csQp9caa_uAoJ56yu5pFukBdmYNWDbjyxGpSFI1&amp;t=3322f07f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAazYJyUC059VrGMHCE/Gd1K4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75WMhz9ukAdivtHtGznXw0RB9+JqTMOSc1ax57lRttmZBg==" />
+
+          <div class="topMenuBar mobileHide" > <div style="height: 60px;" class="menuBar mobileHide">
+<div style="display: none; width:14%;" class="catMenu" id="t-1" tid="609"><a href="/default.aspx"">Home</a></div><div style="width:22%;" class="catMenu catMenu2" id="t9309" tid="604"><a href="/pview.aspx?id=9309&catid=604">Our Community</a></div><div style="width:19%;" class="catMenu catMenu3" id="t9310" tid="605"><a href="/pview.aspx?id=9310&catid=605">Government</a></div><div style="width:19%;" class="catMenu catMenu4" id="t9311" tid="606"><a href="/pview.aspx?id=9311&catid=606">Residents</a></div><div style="width:19%;" class="catMenu catMenu5" id="t9312" tid="607"><a href="/pview.aspx?id=9312&catid=607">Visitors</a></div><div style="width:19%;" class="catMenu catMenu6" id="t9313" tid="608"><a href="/pview.aspx?id=9313&catid=608">Business</a></div>
+            <div style="clear: both;"></div></div></div>
+
+      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9309&catid=604">Our Community</a></div><div class="mobileMenuItemR" id="mm604">+</div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10805&catid=604">Cape Charles By The Bay</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10808&catid=604">Cape Charles Gazette</a></div><div class="mobileMenuItemRS" id="mm60410808">+</div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10810&catid=604">2013 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=11956&catid=604">2014 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=22702&catid=604">2015 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=30904&catid=604">2016 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=35595&catid=604">2017 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37852&catid=604">2018 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37871&catid=604">2019 Gazettes</a></div></div><div class="mobileMenuItemSubS sm60410808"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37899&catid=604">2020 Gazettes</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=31462&catid=604">Cape Charles Main Street, Inc.</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=26618&catid=604">Cape Charles Museum and Welcome Center</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10039&catid=604">Community Profile</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10806&catid=604">Eastern Shore of Virginia Tourism Commission</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10041&catid=604">History of Cape Charles</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=28161&catid=604">Media Page</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10042&catid=604">Our Location</a></div></div><div class="mobileMenuItemSub sm604"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10040&catid=604">Population</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9310&catid=605">Government</a></div><div class="mobileMenuItemR" id="mm605">+</div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9637&catid=605">Agendas and Minutes</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9645&catid=605">Boards and Commissions</a></div><div class="mobileMenuItemRS" id="mm6059645">+</div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9653&catid=605">Board of Zoning Appeals</a></div><div class="mobileMenuItemRS3" id="mm6059653">+</div></div><div class="mobileMenuItemSubS3 sm6059653"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9654&catid=605">Powers and Duties</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10045&catid=605">Building Code Board of Appeals</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10047&catid=605">Harbor Area Review Board</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9648&catid=605">Historic District Review Board</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10046&catid=605">Library Board</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9646&catid=605">Planning Commission</a></div></div><div class="mobileMenuItemSubS sm6059645"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10044&catid=605">Wetlands and Coastal Dune Board</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10807&catid=605">Code of Virginia</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9636&catid=605">Departments</a></div><div class="mobileMenuItemRS" id="mm6059636">+</div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9684&catid=605">Building / Code Enforcement</a></div><div class="mobileMenuItemRS3" id="mm6059684">+</div></div><div class="mobileMenuItemSubS3 sm6059684"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9716&catid=605">Publications and Forms</a></div></div><div class="mobileMenuItemSubS3 sm6059684"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10051&catid=605">Safety Tips</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9685&catid=605">Cape Charles Memorial Library</a></div><div class="mobileMenuItemRS3" id="mm6059685">+</div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10096&catid=605">Computer Lab</a></div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10095&catid=605">Friends of the Library</a></div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10094&catid=605">Library History</a></div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20924&catid=605">Photos</a></div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37906&catid=605">POSTPONED Free Comic Day May 2, 2020</a></div></div><div class="mobileMenuItemSubS3 sm6059685"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20913&catid=605">Programs</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9686&catid=605">Harbor</a></div><div class="mobileMenuItemRS3" id="mm6059686">+</div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10054&catid=605">Forms and Rates</a></div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10091&catid=605">Harbor Events</a></div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10087&catid=605">Harbor Navigational Information</a></div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10088&catid=605">Harbor Operations and Facilities</a></div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=13199&catid=605">Photos</a></div></div><div class="mobileMenuItemSubS3 sm6059686"><div class="mobileMenuItemL"><a href="/pview.aspx?id=36940&catid=605">www.capecharlesharbor.com</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37922&catid=605">Human Resources</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9657&catid=605">Planning and Zoning</a></div><div class="mobileMenuItemRS3" id="mm6059657">+</div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=17121&catid=605">2014 Comprehensive Plan Review</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37896&catid=605">2019 Comprehensive Plan Update</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=13626&catid=605">Annexation Agreement</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37885&catid=605">Applications and Forms</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10100&catid=605">Boards and Commissions</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37842&catid=605">Cape Charles Community Multi-Use Trail Project</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=36911&catid=605">Comprehensive Plan</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37887&catid=605">Flood Insurance Rate Maps</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9715&catid=605">Harbor Area Master Plan</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37886&catid=605">Resilience Adaptation Feasibility Tool (RAFT)</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37849&catid=605">Sanborn Maps</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9713&catid=605">Tree Policies and Regulations</a></div></div><div class="mobileMenuItemSubS3 sm6059657"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10101&catid=605">Zoning Ordinance</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9687&catid=605">Police</a></div><div class="mobileMenuItemRS3" id="mm6059687">+</div></div><div class="mobileMenuItemSubS3 sm6059687"><div class="mobileMenuItemL"><a href="/pview.aspx?id=24101&catid=605">Business Alert Information Team (BAIT)</a></div></div><div class="mobileMenuItemSubS3 sm6059687"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37696&catid=605">Community Safety Guide</a></div></div><div class="mobileMenuItemSubS3 sm6059687"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9724&catid=605">Crime Tip Information</a></div></div><div class="mobileMenuItemSubS3 sm6059687"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9723&catid=605">Police News & Tips</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9688&catid=605">Public Works &amp; Utilities</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9689&catid=605">Recreation</a></div><div class="mobileMenuItemRS3" id="mm6059689">+</div></div><div class="mobileMenuItemSubS3 sm6059689"><div class="mobileMenuItemL"><a href="/pview.aspx?id=16553&catid=605">Events &amp; Programs</a></div></div><div class="mobileMenuItemSubS3 sm6059689"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10107&catid=605">New Roots Youth Garden</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9690&catid=605">Town Clerk</a></div><div class="mobileMenuItemRS3" id="mm6059690">+</div></div><div class="mobileMenuItemSubS3 sm6059690"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9714&catid=605">Freedom of Information</a></div></div><div class="mobileMenuItemSubS3 sm6059690"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9712&catid=605">Records and Publications</a></div></div><div class="mobileMenuItemSubS3 sm6059690"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37872&catid=605">Research Historic Real Estate Tax Records</a></div></div><div class="mobileMenuItemSubS3 sm6059690"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9711&catid=605">Town Meeting Minutes</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10043&catid=605">Town Manager</a></div><div class="mobileMenuItemRS3" id="mm60510043">+</div></div><div class="mobileMenuItemSubS3 sm60510043"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37910&catid=605">Emergency Preparedness and Response Information</a></div></div><div class="mobileMenuItemSubS3 sm60510043"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37858&catid=605">Weekly Reports to Town Council</a></div></div><div class="mobileMenuItemSubS sm6059636"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9691&catid=605">Treasurer</a></div><div class="mobileMenuItemRS3" id="mm6059691">+</div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=12063&catid=605">Annual Financial Reports</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9697&catid=605">Budget Documents</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=13260&catid=605">Business License Tax (BPOL)</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10116&catid=605">Golf Cart Decals</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=36927&catid=605">Other Tax-Related Forms</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37923&catid=605">Procurement - PPEA-PPTA</a></div></div><div class="mobileMenuItemSubS3 sm6059691"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9701&catid=605">Taxes, Fees and Rates</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10032&catid=605">Employment Opportunities</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9638&catid=605">Mayor and Town Council</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10033&catid=605">Staff Directory</a></div></div><div class="mobileMenuItemSub sm605"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10024&catid=605">Town Code</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9311&catid=606">Residents</a></div><div class="mobileMenuItemR" id="mm606">+</div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10031&catid=606">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10805&catid=606">Cape Charles By The Bay</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10028&catid=606">Credit Card Payments</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10806&catid=606">Eastern Shore of Virginia Tourism Commission</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10035&catid=606">Emergency Services</a></div><div class="mobileMenuItemRS" id="mm60610035">+</div></div><div class="mobileMenuItemSubS sm60610035"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10131&catid=606">Report a Concern</a></div></div><div class="mobileMenuItemSubS sm60610035"><div class="mobileMenuItemL"><a href="/pview.aspx?id=37920&catid=606">Water and Sewer Emergencies</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10038&catid=606">Forms and Documents</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10075&catid=606">How do I?</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10034&catid=606">Quick Links</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9381&catid=606">Report a Concern</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10037&catid=606">Taxes, Fees & Rates</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10025&catid=606">Voting</a></div></div><div class="mobileMenuItemSub sm606"><div class="mobileMenuItemL"><a href="/pview.aspx?id=17876&catid=606">Welcome Guide</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9312&catid=607">Visitors</a></div><div class="mobileMenuItemR" id="mm607">+</div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10031&catid=607">Calendar of Events</a></div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10805&catid=607">Cape Charles By The Bay</a></div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10027&catid=607">Eastern Shore Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10806&catid=607">Eastern Shore of Virginia Tourism Commission</a></div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10026&catid=607">Northampton Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm607"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10042&catid=607">Our Location</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=9313&catid=608">Business</a></div><div class="mobileMenuItemR" id="mm608">+</div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10030&catid=608">Bid Opportunities</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10027&catid=608">Eastern Shore Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10038&catid=608">Forms and Documents</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10026&catid=608">Northampton Chamber of Commerce</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10037&catid=608">Taxes, Fees & Rates</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=10024&catid=608">Town Code</a></div></div><div class="mobileMenuItemSub sm608"><div class="mobileMenuItemL"><a href="/pview.aspx?id=17876&catid=608">Welcome Guide</a></div></div></div><div id="m9309" class="levelSub level1"><div id="mi10805" class="menuItem "><a href="/pview.aspx?id=10805&catid=604" target="_blank"">Cape Charles By The Bay</a></div><div id="mi10808" class="menuItem menuChild"><a href="/pview.aspx?id=10808&catid=604"">Cape Charles Gazette</a></div><div id="mi31462" class="menuItem "><a href="/pview.aspx?id=31462&catid=604"">Cape Charles Main Street, Inc.</a></div><div id="mi26618" class="menuItem "><a href="/pview.aspx?id=26618&catid=604"">Cape Charles Museum and Welcome Center</a></div><div id="mi10039" class="menuItem "><a href="/pview.aspx?id=10039&catid=604"">Community Profile</a></div><div id="mi10806" class="menuItem "><a href="/pview.aspx?id=10806&catid=604" target="_blank"">Eastern Shore of Virginia Tourism Commission</a></div><div id="mi10041" class="menuItem "><a href="/pview.aspx?id=10041&catid=604"">History of Cape Charles</a></div><div id="mi28161" class="menuItem "><a href="/pview.aspx?id=28161&catid=604"">Media Page</a></div><div id="mi10042" class="menuItem "><a href="/pview.aspx?id=10042&catid=604"">Our Location</a></div><div id="mi10040" class="menuItem "><a href="/pview.aspx?id=10040&catid=604"">Population</a></div></div><div id="m9310" class="levelSub level1"><div id="mi9637" class="menuItem "><a href="/pview.aspx?id=9637&catid=605"">Agendas and Minutes</a></div><div id="mi9645" class="menuItem menuChild"><a href="/pview.aspx?id=9645&catid=605"">Boards and Commissions</a></div><div id="mi10807" class="menuItem "><a href="/pview.aspx?id=10807&catid=605" target="_blank"">Code of Virginia</a></div><div id="mi9636" class="menuItem menuChild"><a href="/pview.aspx?id=9636&catid=605"">Departments</a></div><div id="mi10032" class="menuItem "><a href="/pview.aspx?id=10032&catid=605"">Employment Opportunities</a></div><div id="mi9638" class="menuItem "><a href="/pview.aspx?id=9638&catid=605"">Mayor and Town Council</a></div><div id="mi10033" class="menuItem "><a href="/pview.aspx?id=10033&catid=605"">Staff Directory</a></div><div id="mi10024" class="menuItem "><a href="/pview.aspx?id=10024&catid=605" target="_blank"">Town Code</a></div></div><div id="m9311" class="levelSub level1"><div id="mi10031" class="menuItem "><a href="/pview.aspx?id=10031&catid=606"">Calendar of Events</a></div><div id="mi10805" class="menuItem "><a href="/pview.aspx?id=10805&catid=606" target="_blank"">Cape Charles By The Bay</a></div><div id="mi10028" class="menuItem "><a href="/pview.aspx?id=10028&catid=606"">Credit Card Payments</a></div><div id="mi10806" class="menuItem "><a href="/pview.aspx?id=10806&catid=606" target="_blank"">Eastern Shore of Virginia Tourism Commission</a></div><div id="mi10035" class="menuItem menuChild"><a href="/pview.aspx?id=10035&catid=606"">Emergency Services</a></div><div id="mi10038" class="menuItem "><a href="/pview.aspx?id=10038&catid=606"">Forms and Documents</a></div><div id="mi10075" class="menuItem "><a href="/pview.aspx?id=10075&catid=606"">How do I?</a></div><div id="mi10034" class="menuItem "><a href="/pview.aspx?id=10034&catid=606"">Quick Links</a></div><div id="mi9381" class="menuItem "><a href="/pview.aspx?id=9381&catid=606"">Report a Concern</a></div><div id="mi10037" class="menuItem "><a href="/pview.aspx?id=10037&catid=606"">Taxes, Fees & Rates</a></div><div id="mi10025" class="menuItem "><a href="/pview.aspx?id=10025&catid=606"">Voting</a></div><div id="mi17876" class="menuItem "><a href="/pview.aspx?id=17876&catid=606"">Welcome Guide</a></div></div><div id="m9312" class="levelSub level1"><div id="mi10031" class="menuItem "><a href="/pview.aspx?id=10031&catid=607"">Calendar of Events</a></div><div id="mi10805" class="menuItem "><a href="/pview.aspx?id=10805&catid=607" target="_blank"">Cape Charles By The Bay</a></div><div id="mi10027" class="menuItem "><a href="/pview.aspx?id=10027&catid=607" target="_blank"">Eastern Shore Chamber of Commerce</a></div><div id="mi10806" class="menuItem "><a href="/pview.aspx?id=10806&catid=607" target="_blank"">Eastern Shore of Virginia Tourism Commission</a></div><div id="mi10026" class="menuItem "><a href="/pview.aspx?id=10026&catid=607" target="_blank"">Northampton Chamber of Commerce</a></div><div id="mi10042" class="menuItem "><a href="/pview.aspx?id=10042&catid=607"">Our Location</a></div></div><div id="m9313" class="levelSub level1"><div id="mi10030" class="menuItem "><a href="/pview.aspx?id=10030&catid=608"">Bid Opportunities</a></div><div id="mi10027" class="menuItem "><a href="/pview.aspx?id=10027&catid=608" target="_blank"">Eastern Shore Chamber of Commerce</a></div><div id="mi10038" class="menuItem "><a href="/pview.aspx?id=10038&catid=608"">Forms and Documents</a></div><div id="mi10026" class="menuItem "><a href="/pview.aspx?id=10026&catid=608" target="_blank"">Northampton Chamber of Commerce</a></div><div id="mi10037" class="menuItem "><a href="/pview.aspx?id=10037&catid=608"">Taxes, Fees & Rates</a></div><div id="mi10024" class="menuItem "><a href="/pview.aspx?id=10024&catid=608" target="_blank"">Town Code</a></div><div id="mi17876" class="menuItem "><a href="/pview.aspx?id=17876&catid=608"">Welcome Guide</a></div></div><div id="m9636" class="levelSub level2"><div id="mi9684" class="menuItem menuChild"><a href="/pview.aspx?id=9684&catid=0"">Building / Code Enforcement</a></div><div id="mi9685" class="menuItem menuChild"><a href="/pview.aspx?id=9685&catid=0"">Cape Charles Memorial Library</a></div><div id="mi9686" class="menuItem menuChild"><a href="/pview.aspx?id=9686&catid=0"">Harbor</a></div><div id="mi37922" class="menuItem "><a href="/pview.aspx?id=37922&catid=0"">Human Resources</a></div><div id="mi9657" class="menuItem menuChild"><a href="/pview.aspx?id=9657&catid=0"">Planning and Zoning</a></div><div id="mi9687" class="menuItem menuChild"><a href="/pview.aspx?id=9687&catid=0"">Police</a></div><div id="mi9688" class="menuItem "><a href="/pview.aspx?id=9688&catid=0"">Public Works &amp; Utilities</a></div><div id="mi9689" class="menuItem menuChild"><a href="/pview.aspx?id=9689&catid=0"">Recreation</a></div><div id="mi9690" class="menuItem menuChild"><a href="/pview.aspx?id=9690&catid=0"">Town Clerk</a></div><div id="mi10043" class="menuItem menuChild"><a href="/pview.aspx?id=10043&catid=0"">Town Manager</a></div><div id="mi9691" class="menuItem menuChild"><a href="/pview.aspx?id=9691&catid=0"">Treasurer</a></div></div><div id="m9645" class="levelSub level2"><div id="mi9653" class="menuItem menuChild"><a href="/pview.aspx?id=9653&catid=0"">Board of Zoning Appeals</a></div><div id="mi10045" class="menuItem "><a href="/pview.aspx?id=10045&catid=0"">Building Code Board of Appeals</a></div><div id="mi10047" class="menuItem "><a href="/pview.aspx?id=10047&catid=0"">Harbor Area Review Board</a></div><div id="mi9648" class="menuItem "><a href="/pview.aspx?id=9648&catid=0"">Historic District Review Board</a></div><div id="mi10046" class="menuItem "><a href="/pview.aspx?id=10046&catid=0"">Library Board</a></div><div id="mi9646" class="menuItem "><a href="/pview.aspx?id=9646&catid=0"">Planning Commission</a></div><div id="mi10044" class="menuItem "><a href="/pview.aspx?id=10044&catid=0"">Wetlands and Coastal Dune Board</a></div></div><div id="m9653" class="levelSub level3"><div id="mi9654" class="menuItem "><a href="/pview.aspx?id=9654&catid=0"">Powers and Duties</a></div></div><div id="m9657" class="levelSub level3"><div id="mi17121" class="menuItem "><a href="/pview.aspx?id=17121&catid=0"">2014 Comprehensive Plan Review</a></div><div id="mi37896" class="menuItem "><a href="/pview.aspx?id=37896&catid=0"">2019 Comprehensive Plan Update</a></div><div id="mi13626" class="menuItem "><a href="/pview.aspx?id=13626&catid=0"">Annexation Agreement</a></div><div id="mi37885" class="menuItem "><a href="/pview.aspx?id=37885&catid=0"">Applications and Forms</a></div><div id="mi10100" class="menuItem "><a href="/pview.aspx?id=10100&catid=0"">Boards and Commissions</a></div><div id="mi37842" class="menuItem "><a href="/pview.aspx?id=37842&catid=0"">Cape Charles Community Multi-Use Trail Project</a></div><div id="mi36911" class="menuItem "><a href="/pview.aspx?id=36911&catid=0"">Comprehensive Plan</a></div><div id="mi37887" class="menuItem "><a href="/pview.aspx?id=37887&catid=0"">Flood Insurance Rate Maps</a></div><div id="mi9715" class="menuItem "><a href="/pview.aspx?id=9715&catid=0"">Harbor Area Master Plan</a></div><div id="mi37886" class="menuItem "><a href="/pview.aspx?id=37886&catid=0"">Resilience Adaptation Feasibility Tool (RAFT)</a></div><div id="mi37849" class="menuItem "><a href="/pview.aspx?id=37849&catid=0"">Sanborn Maps</a></div><div id="mi9713" class="menuItem "><a href="/pview.aspx?id=9713&catid=0"">Tree Policies and Regulations</a></div><div id="mi10101" class="menuItem "><a href="/pview.aspx?id=10101&catid=0"">Zoning Ordinance</a></div></div><div id="m9684" class="levelSub level3"><div id="mi9716" class="menuItem "><a href="/pview.aspx?id=9716&catid=0"">Publications and Forms</a></div><div id="mi10051" class="menuItem "><a href="/pview.aspx?id=10051&catid=0"">Safety Tips</a></div></div><div id="m9685" class="levelSub level3"><div id="mi10096" class="menuItem menuChild"><a href="/pview.aspx?id=10096&catid=0"">Computer Lab</a></div><div id="mi10095" class="menuItem menuChild"><a href="/pview.aspx?id=10095&catid=0"">Friends of the Library</a></div><div id="mi10094" class="menuItem "><a href="/pview.aspx?id=10094&catid=0"">Library History</a></div><div id="mi20924" class="menuItem "><a href="/pview.aspx?id=20924&catid=0"">Photos</a></div><div id="mi37906" class="menuItem "><a href="/pview.aspx?id=37906&catid=0"">POSTPONED Free Comic Day May 2, 2020</a></div><div id="mi20913" class="menuItem menuChild"><a href="/pview.aspx?id=20913&catid=0"">Programs</a></div></div><div id="m9686" class="levelSub level3"><div id="mi10054" class="menuItem "><a href="/pview.aspx?id=10054&catid=0"">Forms and Rates</a></div><div id="mi10091" class="menuItem menuChild"><a href="/pview.aspx?id=10091&catid=0"">Harbor Events</a></div><div id="mi10087" class="menuItem "><a href="/pview.aspx?id=10087&catid=0"">Harbor Navigational Information</a></div><div id="mi10088" class="menuItem "><a href="/pview.aspx?id=10088&catid=0"">Harbor Operations and Facilities</a></div><div id="mi13199" class="menuItem "><a href="/pview.aspx?id=13199&catid=0"">Photos</a></div><div id="mi36940" class="menuItem "><a href="/pview.aspx?id=36940&catid=0" target="_blank"">www.capecharlesharbor.com</a></div></div><div id="m9687" class="levelSub level3"><div id="mi24101" class="menuItem "><a href="/pview.aspx?id=24101&catid=0"">Business Alert Information Team (BAIT)</a></div><div id="mi37696" class="menuItem "><a href="/pview.aspx?id=37696&catid=0" target="_blank"">Community Safety Guide</a></div><div id="mi9724" class="menuItem "><a href="/pview.aspx?id=9724&catid=0"">Crime Tip Information</a></div><div id="mi9723" class="menuItem "><a href="/pview.aspx?id=9723&catid=0"">Police News & Tips</a></div></div><div id="m9689" class="levelSub level3"><div id="mi16553" class="menuItem menuChild"><a href="/pview.aspx?id=16553&catid=0"">Events &amp; Programs</a></div><div id="mi10107" class="menuItem menuChild"><a href="/pview.aspx?id=10107&catid=0"">New Roots Youth Garden</a></div></div><div id="m9690" class="levelSub level3"><div id="mi9714" class="menuItem "><a href="/pview.aspx?id=9714&catid=0"">Freedom of Information</a></div><div id="mi9712" class="menuItem "><a href="/pview.aspx?id=9712&catid=0"">Records and Publications</a></div><div id="mi37872" class="menuItem "><a href="/pview.aspx?id=37872&catid=0"">Research Historic Real Estate Tax Records</a></div><div id="mi9711" class="menuItem "><a href="/pview.aspx?id=9711&catid=0"">Town Meeting Minutes</a></div></div><div id="m9691" class="levelSub level3"><div id="mi12063" class="menuItem "><a href="/pview.aspx?id=12063&catid=0"">Annual Financial Reports</a></div><div id="mi9697" class="menuItem "><a href="/pview.aspx?id=9697&catid=0"">Budget Documents</a></div><div id="mi13260" class="menuItem "><a href="/pview.aspx?id=13260&catid=0"">Business License Tax (BPOL)</a></div><div id="mi10116" class="menuItem "><a href="/pview.aspx?id=10116&catid=0"">Golf Cart Decals</a></div><div id="mi36927" class="menuItem "><a href="/pview.aspx?id=36927&catid=0"">Other Tax-Related Forms</a></div><div id="mi37923" class="menuItem "><a href="/pview.aspx?id=37923&catid=0"">Procurement - PPEA-PPTA</a></div><div id="mi9701" class="menuItem "><a href="/pview.aspx?id=9701&catid=0"">Taxes, Fees and Rates</a></div></div><div id="m10035" class="levelSub level2"><div id="mi10131" class="menuItem "><a href="/pview.aspx?id=10131&catid=0"">Report a Concern</a></div><div id="mi37920" class="menuItem "><a href="/pview.aspx?id=37920&catid=0"">Water and Sewer Emergencies</a></div></div><div id="m10043" class="levelSub level3"><div id="mi37910" class="menuItem menuChild"><a href="/pview.aspx?id=37910&catid=0"">Emergency Preparedness and Response Information</a></div><div id="mi37858" class="menuItem menuChild"><a href="/pview.aspx?id=37858&catid=0"">Weekly Reports to Town Council</a></div></div><div id="m10107" class="levelSub level4"><div id="mi17338" class="menuItem "><a href="/pview.aspx?id=17338&catid=0" target="_blank"">New Roots Youth Garden Programs</a></div></div><div id="m10808" class="levelSub level2"><div id="mi10810" class="menuItem "><a href="/pview.aspx?id=10810&catid=0"">2013 Gazettes</a></div><div id="mi11956" class="menuItem "><a href="/pview.aspx?id=11956&catid=0"">2014 Gazettes</a></div><div id="mi22702" class="menuItem "><a href="/pview.aspx?id=22702&catid=0"">2015 Gazettes</a></div><div id="mi30904" class="menuItem "><a href="/pview.aspx?id=30904&catid=0"">2016 Gazettes</a></div><div id="mi35595" class="menuItem "><a href="/pview.aspx?id=35595&catid=0"">2017 Gazettes</a></div><div id="mi37852" class="menuItem "><a href="/pview.aspx?id=37852&catid=0"">2018 Gazettes</a></div><div id="mi37871" class="menuItem "><a href="/pview.aspx?id=37871&catid=0"">2019 Gazettes</a></div><div id="mi37899" class="menuItem "><a href="/pview.aspx?id=37899&catid=0"">2020 Gazettes</a></div></div><div id="m16553" class="levelSub level4"><div id="mi26346" class="menuItem "><a href="/pview.aspx?id=26346&catid=0"">4th of July</a></div></div><div id="m20913" class="levelSub level4"><div id="mi20921" class="menuItem "><a href="/pview.aspx?id=20921&catid=0"">Story Time</a></div></div><div id="m25032" class="levelSub level4"><div id="mi27661" class="menuItem "><a href="/pview.aspx?id=27661&catid=0"">8/14/15 - History, Writing, and Minecraft . . .  Oh My!</a></div><div id="mi27657" class="menuItem "><a href="/pview.aspx?id=27657&catid=0"">8/7/15 - RootStone Jug Band</a></div></div><div id="m25482" class="levelSub level4"><div id="mi25483" class="menuItem "><a href="/pview.aspx?id=25483&catid=0"">1000 Books Program Overview</a></div><div id="mi25484" class="menuItem "><a href="/pview.aspx?id=25484&catid=0"">1000 Books Program suggested Reading List</a></div></div><div id="m33357" class="levelSub level4"><div id="mi37892" class="menuItem menuChild"><a href="/pview.aspx?id=37892&catid=0"">July Programs</a></div><div id="mi37888" class="menuItem menuChild"><a href="/pview.aspx?id=37888&catid=0"">June 2019 Programs</a></div><div id="mi37891" class="menuItem "><a href="/pview.aspx?id=37891&catid=0"">Summer Story times &amp; Crafts</a></div></div><div id="m37858" class="levelSub level4"><div id="mi37859" class="menuItem "><a href="/pview.aspx?id=37859&catid=0"">2018 Reports</a></div><div id="mi37877" class="menuItem "><a href="/pview.aspx?id=37877&catid=0"">2019 Reports</a></div><div id="mi37898" class="menuItem "><a href="/pview.aspx?id=37898&catid=0"">2020 Reports</a></div></div><div id="m37862" class="levelSub level4"><div id="mi37869" class="menuItem "><a href="/pview.aspx?id=37869&catid=0"">Celebration Friday</a></div><div id="mi37863" class="menuItem "><a href="/pview.aspx?id=37863&catid=0"">Monthly Anniversary Programs</a></div></div><div id="m37888" class="levelSub level5"><div id="mi37890" class="menuItem "><a href="/pview.aspx?id=37890&catid=0"">Tween Night!</a></div><div id="mi37889" class="menuItem "><a href="/pview.aspx?id=37889&catid=0"">Virginia Living Museum</a></div></div><div id="m37910" class="levelSub level4"><div id="mi37918" class="menuItem "><a href="/pview.aspx?id=37918&catid=0"">Coronavirus (COVID-19)</a></div></div><div class="bigMenuCon" id="bm604"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=10805&catid=604" target="blank">Cape Charles By The Bay</a></h1>
+<h1><a href="/pview.aspx?id=10808&catid=604">Cape Charles Gazette</a></h1>
+<h4><a href="/pview.aspx?id=10810&catid=604">2013 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=11956&catid=604">2014 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=22702&catid=604">2015 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=30904&catid=604">2016 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=35595&catid=604">2017 Gazettes</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10808&catid=604">Cape Charles Gazette <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=37852&catid=604">2018 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=37871&catid=604">2019 Gazettes</a></h4>
+<h4><a href="/pview.aspx?id=37899&catid=604">2020 Gazettes</a></h4>
+<h1><a href="/pview.aspx?id=31462&catid=604">Cape Charles Main Street, Inc.</a></h1>
+<h1><a href="/pview.aspx?id=26618&catid=604">Cape Charles Museum and Welcome Center</a></h1>
+<h1><a href="/pview.aspx?id=10039&catid=604">Community Profile</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10806&catid=604" target="blank">Eastern Shore of Virginia Tourism Commission</a></h1>
+<h1><a href="/pview.aspx?id=10041&catid=604">History of Cape Charles</a></h1>
+<h1><a href="/pview.aspx?id=28161&catid=604">Media Page</a></h1>
+<h1><a href="/pview.aspx?id=10042&catid=604">Our Location</a></h1>
+<h1><a href="/pview.aspx?id=10040&catid=604">Population</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm605"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=9637&catid=605">Agendas and Minutes</a></h1>
+<h1><a href="/pview.aspx?id=9645&catid=605">Boards and Commissions</a></h1>
+<h4><a href="/pview.aspx?id=9653&catid=605">Board of Zoning Appeals</a></h4>
+<h4><a href="/pview.aspx?id=10045&catid=605">Building Code Board of Appeals</a></h4>
+<h4><a href="/pview.aspx?id=10047&catid=605">Harbor Area Review Board</a></h4>
+<h4><a href="/pview.aspx?id=9648&catid=605">Historic District Review Board</a></h4>
+<h4><a href="/pview.aspx?id=10046&catid=605">Library Board</a></h4>
+<h4><a href="/pview.aspx?id=9646&catid=605">Planning Commission</a></h4>
+<h4><a href="/pview.aspx?id=10044&catid=605">Wetlands and Coastal Dune Board</a></h4>
+<h1><a href="/pview.aspx?id=10807&catid=605" target="blank">Code of Virginia</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=9636&catid=605">Departments</a></h1>
+<h4><a href="/pview.aspx?id=9684&catid=605">Building / Code Enforcement</a></h4>
+<h4><a href="/pview.aspx?id=9685&catid=605">Cape Charles Memorial Library</a></h4>
+<h4><a href="/pview.aspx?id=9686&catid=605">Harbor</a></h4>
+<h4><a href="/pview.aspx?id=37922&catid=605">Human Resources</a></h4>
+<h4><a href="/pview.aspx?id=9657&catid=605">Planning and Zoning</a></h4>
+<h4><a href="/pview.aspx?id=9687&catid=605">Police</a></h4>
+<h4><a href="/pview.aspx?id=9688&catid=605">Public Works &amp; Utilities</a></h4>
+<h4><a href="/pview.aspx?id=9689&catid=605">Recreation</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=9636&catid=605">Departments <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=9690&catid=605">Town Clerk</a></h4>
+<h4><a href="/pview.aspx?id=10043&catid=605">Town Manager</a></h4>
+<h4><a href="/pview.aspx?id=9691&catid=605">Treasurer</a></h4>
+<h1><a href="/pview.aspx?id=10032&catid=605">Employment Opportunities</a></h1>
+<h1><a href="/pview.aspx?id=9638&catid=605">Mayor and Town Council</a></h1>
+<h1><a href="/pview.aspx?id=10033&catid=605">Staff Directory</a></h1>
+<h1><a href="/pview.aspx?id=10024&catid=605" target="blank">Town Code</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm606"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=10031&catid=606">Calendar of Events</a></h1>
+<h1><a href="/pview.aspx?id=10805&catid=606" target="blank">Cape Charles By The Bay</a></h1>
+<h1><a href="/pview.aspx?id=10028&catid=606">Credit Card Payments</a></h1>
+<h1><a href="/pview.aspx?id=10806&catid=606" target="blank">Eastern Shore of Virginia Tourism Commission</a></h1>
+<h1><a href="/pview.aspx?id=10035&catid=606">Emergency Services</a></h1>
+<h4><a href="/pview.aspx?id=10131&catid=606">Report a Concern</a></h4>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10035&catid=606">Emergency Services <span style="font-size: 11pt;">(Cont'd)</span></a></h1>
+<h4><a href="/pview.aspx?id=37920&catid=606">Water and Sewer Emergencies</a></h4>
+<h1><a href="/pview.aspx?id=10038&catid=606">Forms and Documents</a></h1>
+<h1><a href="/pview.aspx?id=10075&catid=606">How do I?</a></h1>
+<h1><a href="/pview.aspx?id=10034&catid=606">Quick Links</a></h1>
+<h1><a href="/pview.aspx?id=9381&catid=606">Report a Concern</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10037&catid=606">Taxes, Fees & Rates</a></h1>
+<h1><a href="/pview.aspx?id=10025&catid=606">Voting</a></h1>
+<h1><a href="/pview.aspx?id=17876&catid=606">Welcome Guide</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm607"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=10031&catid=607">Calendar of Events</a></h1>
+<h1><a href="/pview.aspx?id=10805&catid=607" target="blank">Cape Charles By The Bay</a></h1>
+<h1><a href="/pview.aspx?id=10027&catid=607" target="blank">Eastern Shore Chamber of Commerce</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10806&catid=607" target="blank">Eastern Shore of Virginia Tourism Commission</a></h1>
+<h1><a href="/pview.aspx?id=10026&catid=607" target="blank">Northampton Chamber of Commerce</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10042&catid=607">Our Location</a></h1>
+</div></div></div><div class="bigMenuCon" id="bm608"><div class="bigMenuConIn"><div class="menuCol"><h1><a href="/pview.aspx?id=10030&catid=608">Bid Opportunities</a></h1>
+<h1><a href="/pview.aspx?id=10027&catid=608" target="blank">Eastern Shore Chamber of Commerce</a></h1>
+<h1><a href="/pview.aspx?id=10038&catid=608">Forms and Documents</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10026&catid=608" target="blank">Northampton Chamber of Commerce</a></h1>
+<h1><a href="/pview.aspx?id=10037&catid=608">Taxes, Fees & Rates</a></h1>
+</div><div class="menuCol"><h1><a href="/pview.aspx?id=10024&catid=608" target="blank">Town Code</a></h1>
+<h1><a href="/pview.aspx?id=17876&catid=608">Welcome Guide</a></h1>
+</div></div></div>
+            <div class="mobileHeader">
+            <table style="width: 100%;" border="0" ><tr><td style="width: 45px;">
+            <div class="mobileMenu">
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            <div class="mlinespace">&nbsp;</div>
+            <div class="rounded mline">&nbsp;</div>
+            
+        </div>
+                </td><td style="text-align: center;">
+            <div class="mobileSiteName"><a href="default.aspx">Cape Charles VA</a></div>
+
+                </td></tr></table>
+        </div>
+
+
+
+ 
+   <div class="mainContainer">
+
+     <a href="/default.aspx"><img src="/common/images/logo.png"  style="width: 100%; border: 0; " alt="Return to home page"/></a>
+
+       <div class="searchBoxDiv2 mobileHide">
+        
+        <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" placeholder="Search our site..." aria-label="Search text box" />
+    
+        <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" class="searchImage" src="common/images/go.png" alt="Search site" border="0" />
+           
+</div><br />
+
+    <div class="header" style="display: none;"> 
+        
+         <div class="topline" ></div>
+       
+   
+
+</div>
+       
+       
+       <div class="secondContainer">
+      
+    
+    
+        <div class="secondLeft mobileHide">
+       
+         
+
+  
+      
+             
+
+              <div style="height: 10px; background-color: transparent;">
+
+        </div>
+           <div class="sideItem"><a href="/pView.aspx?id=10075&catid=606">How Do I?</a></div><div class="sideItem"><a href="/faqs.aspx?categoryid=0">FAQs</a></div><div class="sideItem"><a href="/forms.aspx?fid=620">Report a Concern</a></div><div class="sideItem"><a href="/pview.aspx?id=9701&catid=605">Taxes, Fees and Rates</a></div>
+
+         
+
+<div class="sideMenuUnder">&nbsp;</div>
+        </div>
+
+  
+
+              <div class="secondRight">
+           <a name="maincontent"></a>
+    
+<div class="secondRightContent">
+
+
+            <div class="breadCon">
+                <div class="breadCrumb">
+                    
+                       
+
+                    
+                    
+                <div class="pageFunction" style="vertical-align: top;"> 
+                    
+                  
+                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
+	<!-- 2020.2.617.45 --><ul class="sshContent">
+		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li>
+	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
+</div>
+            
+                     <a href="https://www.capecharles.org/notfound.aspx?print=1" target="_blank"><img vspace="7" src="/clientcommon/images/print.gif"  border="0" alt="Printer Friendly Version" /></a>
+      
+        </div>
+            </div></div>
+
+     <a name="maincontent" id="maincontent" ></a>
+
+  
+
+            
+  
+  
+<div class="pageTitleCon">
+    <div class="pageTitle">
+    <span id="ctl00_cpContent_lblTitle">Page Not Found</span></div>
+
+</div>
+<div class="pageTitleUnder"></div>
+
+<div id="contF">
+
+
+     The page you are looking for can not be found. 
+
+
+              <table  style="width: 98%">
+             <tr>
+                 <td >
+                     Search:</td>
+                 <td>
+                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" />
+                     <input type="submit" name="ctl00$cpContent$cmdSearch" value="Search" id="ctl00_cpContent_cmdSearch" />
+                 </td>
+             </tr>
+         </table>
+         <br /><br /><br /><br /><br /><br />
+
+<div class="modClear">&nbsp;</div>    
+    
+
+</div>
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+
+
+        
+
+
+        <div style="clear: both;"></div>
+
+
+    
+    </div>
+    <div style="clear: both;"></div>
+</div>
+</div>
+        </div>
+
+        
+        <br />
+
+           <div class="mainFooter">
+         
+          <div class="footerIn">
+           <div class="footerLeft"><img src="/common/images/seal.png" alt="Town of Cape Charles - Official Seal" />
+              
+               &nbsp;
+           </div>
+           <div class="footerCenter">
+                <div ><span class="mobileSpan FooterName">Town of Cape Charles</span> <br />2 Plum Street Cape Charles, VA 23310</div><div>Phone: (757) 331-3259&nbsp;&nbsp;|&nbsp;&nbsp;Fax: (757) 331-4820</div><a href="default.aspx">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/staff.aspx">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/sitemap.aspx">Site Map</a>&nbsp;&nbsp;
+
+               <br /><br /><span class="mobileSpan">Government Websites by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Municipal Websites">MunicipalCMS</a></span>
+              
+               </div>
+
+    
+           <div class="footerRight">
+              
+               <div class="footerSocial social">
+               <a href="/rss.aspx"><img src="/common/images/3rss.png" alt="RSS Feeds" style="border: 0;"></a>&nbsp;<a href="https://www.facebook.com/Municipal-Corporation-of-Cape-Charles-1432620693545754/?ref=bookmarks" target="_blank"><img src="/common/images/3facebook.png" alt="Facebook" style="border: 0;"></a>&nbsp;
+                   </div>
+           </div>
+         <div style="clear: both;">&nbsp;</div>
+              </div>
+        </div>
+
+    
+      
+               
+
+   
+
+     
+
+   
+
+          
+              
+    <div style="display: none ;">
+         <span id="ctl00_lblParentID">0</span>
+        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Menu control. Please ignore." />
+        </div> 
+
+        <div id="galleryCon">
+
+        </div>
+        <div class="bgGray">&nbsp;</div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
+});
+//]]>
+</script>
+</form>
+
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-35854059-18']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+
+</body>
+</html>
+
+
+
+    
