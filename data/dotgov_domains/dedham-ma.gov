@@ -45,7 +45,7 @@
             });
         })(jQuery);
     </script>
-    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ilc3VU96SjMwUXpGaG5lcm5ydHZXcUE9PSJ9.Z-eJmtH87zpNlGCzbpR91Zoi5Tc34O79VzvDVFsUcDBjTAEthSjZQl8HUeuab2LMklwzGNrRXdnGxmJflWN06WE1qKDxp8Qa.aPyg_3VOZdaUpyFrNE0lUA.agJ5_4Mi9Y60puOtrlLrjRaOfHaOcDIm30aqKwELhGEj140slXOqA1CdZcsAE9cIHjf1RQIU9EbkWlmFfeE-kHuX9q8JYcHbGrmuUiKdcbqFC96bxF8jGYde94yrEYFXrcmFGpdawIy_KOj1t4e-zjW1_I3JHg_C_pvRxrEUSlHYxGAM6iZZU6_j75uHe25dpUZ0q9Xi3arT1YM5m0lIKu6UcEC1OlLjBRWcxJtnzfw.RiOIR0JyNvIQXmUPhW8jyTbpna1FWF9uiqRGBHs2p_M";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IkpHNFdNTktJUkQ3NDRreWJyVk1XeFE9PSJ9.Bur2fMMa0X6uxU4deXs2YVveJqJxZPyCHzaVedeq_6fBfXn6K39Yjj-If91rGY5qd1Ua0fhx37hqLVqzx0OEvAFSl_ijWHjX.un9UiExbhM_q_6OoC-bq5g.POD-FaN_T7tfknKzvTvqM8bO_pUc6tFYxlJ2UVuLFDkdJbKqUJai87k4mmww0xIEHZqjN4Lv1nlzOCkgf_eGuqYQl_0GExSmlKI-aODI-kykI8t1fZjhHnpfIENuxIcbwN35gTJvsJldcCP_rnWLiACmaOAF4xZxFmKs8GChM9VAR45tGQ8B4MirkE8K7dSDmYzBcwoAzoWiaiN7rQcr859j_XgGbKbt36rVEkxIJ44.DxUIMPS077VCOI9XDEx5Cq6t_PgqPgwYeNP9mYPxXOU";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -611,6 +611,20 @@ $(function () {
         </h2>
             <p class="slide_description">Town Hall is not yet open to the public, but images of the renovated Ames Building are now posted to provide a sneak peek of the impressive civic structure. </p>
 </div></li>
+            <li>
+
+<a href="/#"
+    target="_self" onclick="return false;">
+    <img src="/Home/ShowPublishedImage/3744" alt="shredded paper"/>
+</a>
+
+<div class="slide_content">
+        <h2 class="slide_title">
+            <a href="/#"
+                target="_self"  onclick="return false;">Free Paper Shredding event on Tuesday, Sept. 22</a>
+        </h2>
+            <p class="slide_description">Open to all Dedham residents, those who work in Dedham, and their families. Open 9 a.m. to 1 p.m. on Tuesday, Sept. 22, in the rear parking lot of Dedham Town Hall, 450 Washington Street.</p>
+</div></li>
     </ul>
 
     <script>
@@ -685,33 +699,28 @@ $(function () {
     </li>
     <li>
         <a href="#">
-            <div class="datebox">Wednesday, September 16</div>
+            <div class="datebox">Tuesday, September 15</div>
 
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4089/903"><p class="box_item_title">Zoning Board of Appeals</p></a>
-			<p class="box_item_summary">7:00pm - </p>
-</div>        </a>
-    </li>
-    <li>
-        <a href="#">
-            <div class="datebox">Thursday, September 17</div>
-
-
-
-
-<div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4840/903"><p class="box_item_title">Planning Board</p></a>
-			<p class="box_item_summary">6:00pm - </p>
+    <a href="/Home/Components/Calendar/Event/4882/903"><p class="box_item_title">DOSA - Dedham Organization for Substance Awareness</p></a>
+			<p class="box_item_summary">6:00pm - REMOTE</p>
 </div>
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4336/903"><p class="box_item_title">Conservation Commission</p></a>
-			<p class="box_item_summary">7:00pm - Town Hall, Lower Conference Room</p>
+    <a href="/Home/Components/Calendar/Event/4878/903"><p class="box_item_title">Blue Hills District School Committee</p></a>
+			<p class="box_item_summary">7:00pm - </p>
+</div>
+
+
+
+<div class="item_info">
+    <a href="/Home/Components/Calendar/Event/4876/903"><p class="box_item_title">2030 Master Plan Committee</p></a>
+			<p class="box_item_summary">7:00pm - </p>
 </div>        </a>
     </li>
 
@@ -900,6 +909,28 @@ $(function () {
 
 
 <li>
+    <a href="/Home/Components/News/News/2860/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3742" alt="Representative Paul McMurtry"/>
+        <div class="item_info">
+            <span class="box_item_title">Town receives MassDOT shared streets and spaces grant</span>
+                <p class="box_item_summary">The funding supports improvements to civic spaces to promote public health, safe mobility, and renewed commerce.</p>
+        </div>
+    </a>
+</li>
+
+
+<li>
+    <a href="/Home/Components/News/News/2858/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3726/637348046951470000" alt="0901_01"/>
+        <div class="item_info">
+            <span class="box_item_title">Rustcraft Rd Sewer Improvements Project - Work Schedule for week of 9/14</span>
+                <p class="box_item_summary">The contractor will continue the installation of the 10&quot; force main.</p>
+        </div>
+    </a>
+</li>
+
+
+<li>
     <a href="/Home/Components/News/News/2856/16?backlist=%2f" class="news-item">
             <img src="/Home/ShowPublishedImage/3261/637189296947570000" alt="coronavirus thumbnail"/>
         <div class="item_info">
@@ -938,28 +969,6 @@ $(function () {
         <div class="item_info">
             <span class="box_item_title">September updates from Town Departments</span>
                 <p class="box_item_summary">Download the new issue of Town Hall Talk. </p>
-        </div>
-    </a>
-</li>
-
-
-<li>
-    <a href="/Home/Components/News/News/2848/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3726/637348046951470000" alt="0901_01"/>
-        <div class="item_info">
-            <span class="box_item_title">Rustcraft Rd Sewer Improvements Project - Work Schedule for week of 9/7</span>
-                <p class="box_item_summary">The contractor will continue the installation of the 10&quot; force main.</p>
-        </div>
-    </a>
-</li>
-
-
-<li>
-    <a href="/Home/Components/News/News/2842/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3624/637338922471700000" alt="books on shelf"/>
-        <div class="item_info">
-            <span class="box_item_title">Town seeks five volunteers to serve as Library Trustees</span>
-                <p class="box_item_summary">Appointed members will serve until the 2021 Town Election.</p>
         </div>
     </a>
 </li>
@@ -1113,7 +1122,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"qb135krklgsz5f24tawxqtec","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"11psd0esmnu12eys1gfqhpzb","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

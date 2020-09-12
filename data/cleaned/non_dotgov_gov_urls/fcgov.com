@@ -15,6 +15,7 @@ Disallow: /fctrip/ajax/*
 Disallow: /peakload/*
 Disallow: /openbook/*
 Disallow: /utilities/water-meter-maintenance
+Disallow: /cityclerk/pdf/wc-resources.pdf
 Disallow: /*?PageSpeed=noscript*
 Crawl-Delay: 5
 #crawling post URL's

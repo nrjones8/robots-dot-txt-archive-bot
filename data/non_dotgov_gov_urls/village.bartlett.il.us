@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Bartlett, IL', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Village of Bartlett","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Iis0WVllZi91RWRtVEk4ekJtNHJnZkE9PSJ9.1uUOaOTOseE1wx-OyN1PRbtEcdtUjBImM5hxnhzn8VHexQoyjT0Z-63edfBtQzvc_b3V_O_C38jTiDvycA7ZqWLGwxLsy-Km.-pF-LXdnKJ0Kl809sfTLCw.f9dXXEVxCgpWVzcYkHM_SSK5e_GI466VFff5OazK3PIAN7gbXHnI1HJxVYoB2y9AeJUX5zksIYVifFqBcJXr8-DZxpirAfTeCdzJgSKvBXUgnx92Mt9yDevOwG2g1cUY8iSlgk0zSRnbdcw86fNvlz8p82zqvkNZHwmY7b1oJfYU5nZq1-hVfgTOw83GPmmmNEA5r1L8bG3d0hCJjUwjcjv6-s6yGgYVB97jGObjA_4.IptgKEn54yW9TSIBXCZeRcWJHcu2Rn2W3rUyRUFAwgQ";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Bartlett, IL', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Village of Bartlett","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Imh4OGNaRzQ3VDF3NnRmLzdMNXgxMlE9PSJ9.YIngkEd53O4sDgbt4CUiSG19NtEs-fATWiJ3A8BfhKOnGCeA63fCBx-E8EYDcNF_mjCoz1GuE2RxPe-jqdBeNi2plBQ2LpMS.d5MqSDo7MmOvoPAJAt-Puw.p21VKYGn223QDt1kNbsiHYyyvtSrYlTtAuvGSR8V-GbxRZD3XoYttJXtC_98WlI3VZTRAEDA9VbNpqspqjzZMAbFHvy1QP6yaUxv7DJUTugPJkv8drOmI9PcBQzeVUN2xNdniSyYQ1kceEBfDbTizmGEuQuHgE3ZSe-ou4U9lISNZnYEO4zMnz864hZLwajR6Y71OlGCiZSavok31AGIV2-7OIiL-tRF22rl0_5gwu4.PZAQRCLiIvaA1pSRG2W5rWU8Yrp2EPyxl925gg3gkxk";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -735,11 +735,20 @@ $(function () {
     <ul>		
 	      
 
+<li class="hasimage">
+	<a href="/Home/Components/News/News/2277/16" class="news-item">
+			<div class="image_frame"><img alt="Labor Day Traffic Campaign Results" src="/Home/ShowPublishedImage/354/635422376180470000"/>	</div>
+		<div class="item_info">
+            <p class="box_item_title">Labor Day Traffic Campaign Results</p>
+            <p class="box_item_summary"></p>
+        </div>
+    </a>
+</li>
 <li class="">
 	<a href="/Home/Components/News/News/2275/16" class="news-item">
 		<div class="item_info">
             <p class="box_item_title">DuPage Seeks Public Comment on Use of HUD Funding</p>
-            <p class="box_item_summary">Virtual Public Hearing on Wednesday, 9/9 at 5 p.m.</p>
+            <p class="box_item_summary">Public comments accepted through 9/14</p>
         </div>
     </a>
 </li>
@@ -748,15 +757,6 @@ $(function () {
 			<div class="image_frame"><img alt="Village President Appoints New Trustee" src="/Home/ShowPublishedImage/5657/637334238575930000"/>	</div>
 		<div class="item_info">
             <p class="box_item_title">Village President Appoints New Trustee</p>
-            <p class="box_item_summary"></p>
-        </div>
-    </a>
-</li>
-<li class="hasimage">
-	<a href="/Home/Components/News/News/2271/16" class="news-item">
-			<div class="image_frame"><img alt="Traffic Safety Campaigns Thru Sept" src="/Home/ShowPublishedImage/4709/636743249559870000"/>	</div>
-		<div class="item_info">
-            <p class="box_item_title">Traffic Safety Campaigns Thru Sept</p>
             <p class="box_item_summary"></p>
         </div>
     </a>
@@ -991,7 +991,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"qcuq50r5g0mil1fwm00f5blt","Identity":"e2cf1063d38e40bd91d3de49eab71c65","OrganizationName":"Village of Bartlett","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"dtdnx0sbwunpgjno3wgvwwof","Identity":"e2cf1063d38e40bd91d3de49eab71c65","OrganizationName":"Village of Bartlett","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

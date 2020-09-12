@@ -89,7 +89,11 @@
 				<ul class="navbar-nav mr-auto x-nav-pills">
 
 
-	<li class="nav-item  pr-4" id="humanservices-pNav1" data-pnav="home"><a class="nav-link " href="/humanservices/index.shtml" data-sNav_scalar="0"  >DHS Home <i class="fas fa-home"></i></a>
+	<li class="nav-item dropdown pr-4" id="humanservices-pNav1" data-pnav="home"><a class="nav-link dropdown-toggle" href="/humanservices/index.shtml" data-sNav_scalar="1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >DHS Home <i class="fas fa-home"></i></a>
+		<ul class="dropdown-menu" aria-labelledby="humanservices-pNav1">
+			<li><a href="/humanservices/home/stopoverdoses" class="dropdown-item">Naloxone Distribution at Participating Pharmacies</a>
+			</li>
+		</ul>
 	</li>
 	<li class="nav-item dropdown pr-4" id="humanservices-pNav2" data-pnav="about"><a class="nav-link dropdown-toggle" href="/humanservices/about/staff/" data-sNav_scalar="2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" >About</a>
 		<ul class="dropdown-menu" aria-labelledby="humanservices-pNav2">
@@ -868,20 +872,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz
 <div class="modal fade" id="myModal" role="dialog">
 <div class="modal-dialog">
 <!-- Modal content -->
-<div class="modal-content">
+<div class="modal-content px-3">
 <!-- Modal header -->  
 <div class="modal-header text-center">
 
-<h4 class="modal-title text-primary px-3" >Pandemic Electronic Benefits Transfer (P-EBT)</h4>
+<h4 class="modal-title text-primary px-3" style="line-height:normal;">FRAUD ALERT<br/>USDA Warns of Text Message Scam Targeting SNAP Recipients</h4>
 </div>
 <!-- Modal body -->  
 <div class="modal-body">
-<p>
-  P-EBT benefits were released beginning on Wednesday, July 8, 2020 to some eligible SNAP recipients on their Families First card. Other eligible families began receiving P-EBT cards in the mail starting the week of July 13, 2020. The P-EBT card vendor continues to mail cards daily.</p>
-<div class="alert alert-warning" style="background-color: #fef9e6; color: #333; font-weight: 555;">
-There was an error in the telephone number on some P-EBT cards. If you received a card with the incorrect phone number, you will receive a new card with the correct number soon. You also can use your current card to access benefits by calling 1-800-997-3333 to activate your card. Only share personal information with staff who answer the phone at this number. We apologize for the inconvenience. 
-</div>
-<p>Please  visit the <a href="//www.nj.gov/humanservices/njsnap/pebt.shtml" target="_blank" >P-EBT page for Frequently Asked  Questions</a></p>
+Be aware of a  scam using texting to obtain your personal information. The text might say you  were chosen to receive food stamps or SNAP. If you do not know if a request for  information about SNAP is real or not, contact your <a href="https://www.nj.gov/humanservices/njsnap/home/cbss.shtml" title="https://www.nj.gov/humanservices/njsnap/home/cbss.shtml">local county  board of social services</a>.
+
+<div class="alert alert-warning" style="background-color: #fef9e6; color: #333; font-weight: 555; margin-top:1.5rem;">
+Never share personal information with individuals or  organizations that you do not know. Personal information includes your Social  Security number, bank information, or SNAP electronic benefits transfer card or  PIN number. If you think the text is a scam, do not reply at all. Just delete.</div>
 <!-- Modal footer -->  
 <div class="modal-footer text-center">
 	<button type="button" class="btn btn-primary btn-sm " data-dismiss="modal"> Close </button>
@@ -951,7 +953,7 @@ jQuery(document).ready(function(){
 
 </script>
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=587445049"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=244608364"></script>
 </body>
 </html>
 

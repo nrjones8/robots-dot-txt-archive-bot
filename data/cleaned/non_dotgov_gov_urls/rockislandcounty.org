@@ -1,0 +1,20 @@
+###############################
+#
+#
+User-agent: *
+#
+# list folders robots are not allowed to index 
+#
+Disallow: http://co.rock-island.il.u*
+Disallow: http://www.co.rock-island.il.u*
+Disallow: /Workarea/
+#
+# list specific files robots are not allowed to index
+#
+Disallow: /*.config
+Disallow: /*.sln
+Disallow: /*.ico
+Disallow: /*.enu
+# 
+#
+###############################

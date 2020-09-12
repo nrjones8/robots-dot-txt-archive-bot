@@ -1712,7 +1712,11 @@ var iNavFolderID = 381;
 
 	        <div id="tab-news">
 	            <div id="news-scroll" class="scroll">
-	            <article class="news-article"><a class="news-img-link" href="/news/displaynews.asp?NewsID=1536&amp;TargetID=1"><img border="0" vspace="0" hspace="0" align="right" class="news-img" src="
+	            <article class="news-article"><a class="news-img-link" href="/news/displaynews.asp?NewsID=1534&amp;TargetID=1"><img border="0" vspace="0" hspace="0" align="right" class="news-img" src="
+				/civicax/news/inc/blobfetch.aspx?BlobID=20200" alt="News Image"></a><div class="news-info-cont"><h3 class="article-head"><a href="/news/displaynews.asp?NewsID=1534&amp;TargetID=1">Rankin Aquatic Center Closed-September 11-14</a></h3><span class="news-date">September 11, 2020 
+          </span><div class="news-summary"><p>Due to necessary repairs to the pool heaters and the continued poor air quality, we will be closing the pool from Friday, September 11 through Monday, September 14, with the goal to reopen on Tuesday, September 15th.</p></div><a class="read-more" href="/news/displaynews.asp?NewsID=1534&amp;TargetID=1">
+            Read More »
+          </a></div><hr class="news-sep"></article><article class="news-article"><a class="news-img-link" href="/news/displaynews.asp?NewsID=1536&amp;TargetID=1"><img border="0" vspace="0" hspace="0" align="right" class="news-img" src="
 				/civicax/news/inc/blobfetch.aspx?BlobID=20255" alt="News Image"></a><div class="news-info-cont"><h3 class="article-head"><a href="/news/displaynews.asp?NewsID=1536&amp;TargetID=1">9/11 Memorial</a></h3><span class="news-date">September 11, 2020 
           </span><div class="news-summary"><p><span style="font-family: Arial, sans-serif; font-size: 12px;">On behalf of the Mayor &amp; City Council, while we would have liked to have honored all those that tragically lost their lives on 9/11 in person, as we do each year, we decided to put a video together for the flag raising.</span></p><p style="text-align: center;"><iframe src="https://www.youtube.com/embed/vYd4APriD3U" width="250" height="188" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></div><a class="read-more" href="/news/displaynews.asp?NewsID=1536&amp;TargetID=1">
             Read More »
@@ -1748,9 +1752,7 @@ var iNavFolderID = 381;
 				/civicax/news/inc/blobfetch.aspx?BlobID=19856" alt="News Image"><div class="news-info-cont"><h3 class="article-head">Learn About COVID-19</h3><span class="news-date">April 26, 2020 
           </span><div class="news-summary"><p>In response to growing concerns regarding the international Coronavirus (COVID-19) outbreak, the City has a dedicated page to provide current information for the community.</p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/default.asp" target="_blank" data-mce-href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/default.asp" title="test"><img src="https://www.cityofmartinez.org/images/News/Icon_Button_COVID.png" alt="" data-mce-src="/images/News/Icon_Button_COVID.png"></a></p></div></div><hr class="news-sep"></article><article class="news-article"><img border="0" vspace="0" hspace="0" align="right" class="news-img" src="
 				/civicax/news/inc/blobfetch.aspx?BlobID=19818" alt="News Image"><div class="news-info-cont"><h3 class="article-head">Attention Martinez Business Owners</h3><span class="news-date">April 25, 2020 
-          </span><div class="news-summary"><p>Click below to visit the new City of Martinez COVID-19 Small Business Resource Center to find out about COVID-19 funding opportunities, tax and bill payment relief, and other employer benefits.</p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/small_business_resource_center_(covid_19).asp" target="_blank"><img alt="" src="/images/News/Icon_Button_Small_Bus.png"></a><br data-mce-bogus="1"></p></div></div><hr class="news-sep"></article><article class="news-article"><img border="0" vspace="0" hspace="0" align="right" class="news-img" src="
-				/civicax/news/inc/blobfetch.aspx?BlobID=19854" alt="News Image"><div class="news-info-cont"><h3 class="article-head">Community Resources</h3><span class="news-date">April 24, 2020 
-          </span><div class="news-summary"><p>Visit the following links for resources on activities, staying healthy, and how to support local businesses that are open during this pandemic.</p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/martinez_senior_community_resource_center.asp" target="_blank"><img alt="" src="/images/News/Icon_Button_Senior.png"></a></p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/virtual_family_recreation_n_resource_center.asp" target="_blank"><img alt="" src="/images/News/Icon_Button_Family.png"></a></p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/martinez_open_for_business_resource_lists_(covid_19).asp" target="_blank"><img alt="" src="/images/News/Icon_Button_Open_for_Business.png"></a></p></div></div><hr class="news-sep"></article>     
+          </span><div class="news-summary"><p>Click below to visit the new City of Martinez COVID-19 Small Business Resource Center to find out about COVID-19 funding opportunities, tax and bill payment relief, and other employer benefits.</p><p><a href="https://www.cityofmartinez.org/gov/coronavirus_(covid_19)/small_business_resource_center_(covid_19).asp" target="_blank"><img alt="" src="/images/News/Icon_Button_Small_Bus.png"></a><br data-mce-bogus="1"></p></div></div><hr class="news-sep"></article>     
 	            </div>   
 	        </div>
 
@@ -1983,7 +1985,7 @@ jQuery(document).ready(function()
 Civica_MediaCharmBar.init({ mmID: 182, mediaDispType: 'img', count: 8 }).create('#dynamic-charms');
 TextSizeToggle();
 civicaWeatherWidget.init('38.014150', '-122.135150')
-$.get('/civica/DynaCon/sb/inc/refreshmenus.asp?t=-3155808513', function(data){if(data!=''){alert(data);}});
+$.get('/civica/DynaCon/sb/inc/refreshmenus.asp?t=-3155763240', function(data){if(data!=''){alert(data);}});
 BackgroundImages(180, 0, 1, '', 500, '#home-background')
 initCal('9%2F11%2F2020', '-1', '/cals/default.asp', '3');
 mm_OwlIconTry(178, '#icons-wrap', '15' ,  '', true, 234);

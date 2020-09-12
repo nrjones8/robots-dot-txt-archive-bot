@@ -800,7 +800,7 @@
                             <h2 class="block-title">Investment Stories</h2>
                         
 
-                            <div class="views-element-container form-group"><div class="view view-investment-stories view-id-investment_stories view-display-id-block_1 js-view-dom-id-a6142a61b1ac3802bc8bf035e541f686074941eb957227de5d7bc67a04652979">
+                            <div class="views-element-container form-group"><div class="view view-investment-stories view-id-investment_stories view-display-id-block_1 js-view-dom-id-2b349a5b816de3e5efc618272ddcafab70fb5bec12916ce51d5a1b363dd5bcdf">
   
     
       
@@ -840,7 +840,7 @@
           <h2 class="block-title">Latest News</h2>
         
 
-          <div class="views-element-container form-group"><div class="wrap-grid-overlay view view-latest-news view-id-latest_news view-display-id-block_1 js-view-dom-id-9c08d109c080ba8dffebc1a78ee470de3da771881038067aba37fd9ae29a0bb1">
+          <div class="views-element-container form-group"><div class="wrap-grid-overlay view view-latest-news view-id-latest_news view-display-id-block_1 js-view-dom-id-6e7a388df1da0b66b9f6f7082b7c5f63d112b61f4cadee64e4d8675d0a3d20a7">
   
     
       
@@ -849,6 +849,14 @@
   
   <ul>
 
+          <li><div class="content-box-image">  <img src="/sites/default/files/styles/views_square_highlight_image_300px_x_300px/public/2020-02/istock_industrial_1_300x300.jpg?itok=4PnUM73D" width="300" height="300" alt="photo, industrial landscape" typeof="foaf:Image" class="img-responsive" />
+
+
+</div><div class="content-box-overlay"><span class="source-box">Press Release</span> 
+<a href="/media/press-releases/dfc-approves-36-billion-new-investments-global-development-largest-quarter" hreflang="en">DFC Approves $3.6 Billion of New Investments in Global Development in Largest Quarter Ever</a> 
+<span class="date-box"><time datetime="00Z">September 9, 2020</time>
+</span>
+<a href="/media/press-releases/dfc-approves-36-billion-new-investments-global-development-largest-quarter" class="more-link">Learn More</a></div></li>
           <li><div class="content-box-image">  <img src="/sites/default/files/styles/views_square_highlight_image_300px_x_300px/public/2020-08/2X_2_300x300.jpg?itok=Xnr_jfDG" width="300" height="300" alt="photo, woman standing in front of grain bags" typeof="foaf:Image" class="img-responsive" />
 
 
@@ -865,14 +873,6 @@
 <span class="date-box"><time datetime="00Z">August 4, 2020</time>
 </span>
 <a href="/media/press-releases/dfc-announces-new-members-development-advisory-council" class="more-link">Learn More</a></div></li>
-          <li><div class="content-box-image">  <img src="/sites/default/files/styles/views_square_highlight_image_300px_x_300px/public/2020-02/DCA_1_WGDP_300x300.jpg?itok=-dqXytI_" width="300" height="300" alt="photo, woman standing in shop" typeof="foaf:Image" class="img-responsive" />
-
-
-</div><div class="content-box-overlay"><span class="source-box">Press Release</span> 
-<a href="/media/press-releases/dfc-launch-regional-team-based-africa" hreflang="en">DFC to Launch Regional Team Based in Africa</a> 
-<span class="date-box"><time datetime="00Z">July 14, 2020</time>
-</span>
-<a href="/media/press-releases/dfc-launch-regional-team-based-africa" class="more-link">Learn More</a></div></li>
     
   </ul>
 
@@ -1301,20 +1301,20 @@ info@dfc.gov | +1 (202) 336-8400</p>
             </div>
             <div class="modal-body">
                   <div class="region region-search-section">
-    <div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form-2" id="block-searchform" data-block-plugin-id="search_form_block" role="search">
+    <div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-searchform" data-block-plugin-id="search_form_block" role="search">
   
     
-      <form block="block-searchform" action="/search/node" method="get" id="search-block-form--2" accept-charset="UTF-8">
+      <form block="block-searchform" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
   <div class="form-item js-form-item form-type-search js-form-type-search form-item-keys js-form-item-keys form-no-label form-group">
-      <label for="edit-keys--2" class="control-label sr-only">Search</label>
+      <label for="edit-keys" class="control-label sr-only">Search</label>
   
   
-  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys--2" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
+  <div class="input-group"><input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" class="form-search form-control" placeholder="Search" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" data-toggle="tooltip" /><span class="input-group-btn"><button type="submit" value="Search" class="button js-form-submit form-submit btn-primary btn icon-only" name=""><span class="sr-only">Search</span><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div>
 
   
   
   </div>
-<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"></div>
+<div class="form-actions form-group js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"></div>
 
 </form>
 
@@ -1343,5 +1343,5 @@ info@dfc.gov | +1 (202) 336-8400</p>
       <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
       <!-- End Constant Contact Active Forms -->
 
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"80e7025ba0","applicationID":"296508353","transactionName":"MgdVbRRXDENVAhVcWwtNdloSXw1eGyUTQEQEDmtXCVIHbHcOD0FGCg5bXBRqLF9QBDdcURIhWFcSRA1cWAQTGAoTC1JO","queueTime":0,"applicationTime":328,"atts":"HkBWG1xNH00=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"80e7025ba0","applicationID":"296508353","transactionName":"MgdVbRRXDENVAhVcWwtNdloSXw1eGyUTQEQEDmtXCVIHbHcOD0FGCg5bXBRqLF9QBDdcURIhWFcSRA1cWAQTGAoTC1JO","queueTime":0,"applicationTime":452,"atts":"HkBWG1xNH00=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

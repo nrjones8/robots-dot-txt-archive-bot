@@ -1,30 +1,38 @@
-# Disallow all
+# disallow all 
 User-agent: *
 Disallow: /
-Crawl-delay: 5
-# But allow only important bots
+Crawl-delay: 10
+# but allow only important bots
 User-agent: Googlebot
-User-agent: Bingbot
-User-agent: BingPreview
-User-agent: MSNBot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: msnbot
+User-agent: msnbot-media
 User-agent: Slurp
-User-agent: DuckDuckBot
-User-agent: Applebot
-User-agent: ia_archiver
-User-agent: FacebookExternalHit
-User-agent: Twitterbot
+User-agent: Yahoo-Blogs
+User-agent: Yahoo-MMCrawler
 User-agent: LinkedInBot
+User-agent: facebookexternalhit
+User-agent: ia_archiver
+User-agent: Mozilla*
+# Directories
 Allow: /
-Disallow: /admin/
-Disallow: /site_admin/
-Disallow: /search
-Disallow: /search/
 Disallow: /content/search
+Disallow: /Content/Search
 Disallow: /content/advancedsearch
+Disallow: /Content/Advancedsearch
 Disallow: /content/tipafriend
+Disallow: /Content/Tipafriend
 Disallow: /layout/set/print
+Disallow: /Layout/Set/Print
 Disallow: /rss
-Disallow: /media/
-Disallow: /ezinfo/
-Disallow: /user/
-Disallow: /test-area/
+Disallow: /Rss
+Disallow: /media
+Disallow: /Media
+Disallow: /ezinfo
+Disallow: /Ezinfo
+Disallow: /user/register
+Disallow: /User/Register
+Disallow: /test-area
+Disallow: /Test-Area
+Crawl-delay: 10

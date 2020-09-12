@@ -52,11 +52,11 @@
 			acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
 		acymailingModule['level'] = 'enterprise';
-		acymailingModule['reqFieldsformAcymailing30821'] = Array('html');
-		acymailingModule['validFieldsformAcymailing30821'] = Array('Please enter a value for the field Receive');
-acymailingModule['excludeValuesformAcymailing30821'] = [];
-acymailingModule['excludeValuesformAcymailing30821']['name'] = 'Name';
-acymailingModule['excludeValuesformAcymailing30821']['email'] = 'E-mail';
+		acymailingModule['reqFieldsformAcymailing49771'] = Array('html');
+		acymailingModule['validFieldsformAcymailing49771'] = Array('Please enter a value for the field Receive');
+acymailingModule['excludeValuesformAcymailing49771'] = [];
+acymailingModule['excludeValuesformAcymailing49771']['name'] = 'Name';
+acymailingModule['excludeValuesformAcymailing49771']['email'] = 'E-mail';
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -993,20 +993,20 @@ acymailingModule['excludeValuesformAcymailing30821']['email'] = 'E-mail';
              <div class="g-content">
                                     <div class="platform-content"><div class="moduletable ">
 							<h3 class="g-title">JOIN OUR MAILING LIST</h3>
-						<div class="acymailing_module" id="acymailing_module_formAcymailing30821">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing30821"  >
-		<form id="formAcymailing30821" action="/" onsubmit="return submitacymailingform('optin','formAcymailing30821')" method="post" name="formAcymailing30821"  >
+						<div class="acymailing_module" id="acymailing_module_formAcymailing49771">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing49771"  >
+		<form id="formAcymailing49771" action="/" onsubmit="return submitacymailingform('optin','formAcymailing49771')" method="post" name="formAcymailing49771"  >
 		<div class="acymailing_module_form" >
 						<table class="acymailing_form">
 				<tr>
 													<td class="acyfield_name ">
-								<input id="user_name_formAcymailing30821"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
-								<input id="user_email_formAcymailing30821"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
+								<input id="user_name_formAcymailing49771"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing49771"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
 										</td>
 					
 					
 					<td  class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing30821'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing49771'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
 											</td>
 				</tr>
 			</table>
@@ -1018,7 +1018,7 @@ acymailingModule['excludeValuesformAcymailing30821']['email'] = 'E-mail';
 			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.potatoes.com%2Findex.php"/>
 			<input type="hidden" name="option" value="com_acymailing"/>
 						<input type="hidden" name="hiddenlists" value="1"/>
-			<input type="hidden" name="acyformname" value="formAcymailing30821" />
+			<input type="hidden" name="acyformname" value="formAcymailing49771" />
 									</div>
 		</form>
 	</div>

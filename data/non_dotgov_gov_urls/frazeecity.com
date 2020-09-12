@@ -338,16 +338,22 @@
 
 
                 <div class="boxcontainer">
-                                                <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.govtrack.us/congress/members/MN#representatives', '_blank')">
+                                                <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.frazeecommunityclub.com/', '_blank')">
+                                <div class="helpfullinks">
+                                    <h6>Frazee Community Club</h6>
+                                    <p><a href="http://www.frazeecommunityclub.com/" target="_blank">A group of community volunteers to help promote the City of Frazee....</a></p>
+                                </div>
+                            </div>
+                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.govtrack.us/congress/members/MN#representatives', '_blank')">
                                 <div class="helpfullinks">
                                     <h6>Contact Info - MN Senators and Representatives</h6>
                                     <p><a href="https://www.govtrack.us/congress/members/MN#representatives" target="_blank">Contact information for US Senators and US Representatives from the St...</a></p>
                                 </div>
                             </div>
-                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.frazee.k12.mn.us/', '_blank')">
+                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://goswctest.net/UserFiles/census-2020.pdf', '_blank')">
                                 <div class="helpfullinks">
-                                    <h6>Frazee K-12 Education</h6>
-                                    <p><a href="https://www.frazee.k12.mn.us/" target="_blank">Frazee School System - ISD #23...</a></p>
+                                    <h6>2020 US Census Flyer</h6>
+                                    <p><a href="http://goswctest.net/UserFiles/census-2020.pdf" target="_blank">Valuable information regarding the "2020" US Census....</a></p>
                                 </div>
                             </div>
                                                         <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.dot.state.mn.us/d4/projects/frazee/', '_blank')">
@@ -356,16 +362,10 @@
                                     <p><a href="http://www.dot.state.mn.us/d4/projects/frazee/" target="_blank">Hwy 87 - Frazee to the Becker/Wadena county line...</a></p>
                                 </div>
                             </div>
-                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.frazeecommunityclub.com/', '_blank')">
+                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.dnr.state.mn.us/rlp/index.html', '_blank')">
                                 <div class="helpfullinks">
-                                    <h6>Frazee Community Club</h6>
-                                    <p><a href="http://www.frazeecommunityclub.com/" target="_blank">A group of community volunteers to help promote the City of Frazee....</a></p>
-                                </div>
-                            </div>
-                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://goswctest.net/UserFiles/census-2020.pdf', '_blank')">
-                                <div class="helpfullinks">
-                                    <h6>2020 US Census Flyer</h6>
-                                    <p><a href="http://goswctest.net/UserFiles/census-2020.pdf" target="_blank">Valuable information regarding the "2020" US Census....</a></p>
+                                    <h6>Minnesota Department of Natural Resources (DNR)</h6>
+                                    <p><a href="https://www.dnr.state.mn.us/rlp/index.html" target="_blank">Licenses, Permits, and Regulations...</a></p>
                                 </div>
                             </div>
                             

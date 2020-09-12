@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"jBgzNhQBmfaWhyM6lQVAgdTi6xMk7QTomPI--RyNZlFv8jAbT4pvn4d_10enr-KQImoRHY5IEku3CEuA2i0vD9FgTI01\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"YxNMQRzlI14ZACIRxNp-2cD0bsa6xEMsCfjhpUcJihcBA7j_cEVU8SOopXYCujEpgE5AN3cyxXh1xSYOfoajdW0fHgs1\" />");
 						}
 					}
 				}, false);
@@ -729,7 +729,7 @@ color: transparent;}
 									{"BannerOptionID":56,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":70,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=65","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":237,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=817","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":238,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=818","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":239,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=819","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
 								'/App_Themes/Home/Images/',
 								'Rotating',
-								'0');
+								'1');
 						});
 				}, "load");				
 			</script>
@@ -1159,7 +1159,17 @@ transition: all .3s ease-in-out;
 	<div class="cpWindow cpWindow492b621d-7ee0-4fc2-aac9-0eed3a40b2f4">
 		<ol class="semanticList cpSlider">
 					<li class="widgetItem" data-index="0">
-								<a href="/CivicAlerts.aspx?AID=105"><img class="media" src="/ImageRepository/Document?documentID=1699" alt="Cares Act" data-delayed-image=""/></a>
+								<a href="/CivicAlerts.aspx?AID=107"><img class="media" src="/ImageRepository/Document?documentID=1708" alt="RAW Cover" data-delayed-image=""/></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader107" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=107">RAW Newsletter - Fall 2020 </a></h4>
+	<div class="widgetDesc">
+The Fall Edition of Reduce Anoka's Waste (RAW) newsletter is now available.				<a id="newsFlashReadOn107" href="/CivicAlerts.aspx?AID=107" class="readOn" aria-labelledby="newsFlashItemHeader107 newsFlashReadOn107">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="1">
+								<a href="/CivicAlerts.aspx?AID=105"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1699" alt="Cares Act" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader105" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=105">CARES Act - Small Business Grant Program </a></h4>
 	<div class="widgetDesc">
@@ -1168,7 +1178,7 @@ The Anoka City Council has allocated up to $300,000 in Coronavirus Aid, Relief, 
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="1">
+					<li class="widgetItem" data-index="2">
 								<a href="/CivicAlerts.aspx?AID=106"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1381" alt="The Post" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader106" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=106">The Post - Episode 14 </a></h4>
@@ -1178,7 +1188,7 @@ Episode 14 of The Post, produced by QCTV is now available to view.				<a id="new
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="2">
+					<li class="widgetItem" data-index="3">
 								<a href="/CivicAlerts.aspx?AID=100"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1704" alt="Abominable Movie Poster alternate" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader100" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=100">Movie in the Park - Abominable by DreamWorks </a></h4>
@@ -1188,7 +1198,7 @@ Saturday September 19, 2020 join us for the showing of Abominable at dusk (appro
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="3">
+					<li class="widgetItem" data-index="4">
 								<a href="/CivicAlerts.aspx?AID=94"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1678" alt="Fall Event" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader94" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=94">Fall Recycling Event </a></h4>
@@ -1198,7 +1208,7 @@ Fall cleaning?  Set aside your recyclables for our annual fall event.				<a id="
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="4">
+					<li class="widgetItem" data-index="5">
 								<a href="/CivicAlerts.aspx?AID=92"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1676" alt="Aluminum Can Collection Trailer " data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader92" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=92">Recycling Fundraiser </a></h4>
@@ -1208,7 +1218,7 @@ Donate your aluminum cans for recycling to help support the City's Waterfowl for
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="5">
+					<li class="widgetItem" data-index="6">
 								<a href="/CivicAlerts.aspx?AID=91"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1656" alt="Anoka Halloween Button" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader91" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=91">Anoka 100th Anniversary Halloween Festival COVID-19 Safe </a></h4>
@@ -1218,7 +1228,7 @@ Donate your aluminum cans for recycling to help support the City's Waterfowl for
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="6">
+					<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=88"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1643" alt="MN COVID-19 Housing Assistance Program" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader88" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=88">MN COVID-19 Housing Assistance Program </a></h4>
@@ -1228,7 +1238,7 @@ The Minnesota COVID-19 Housing Assistance Program application is now available.	
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="7">
+					<li class="widgetItem" data-index="8">
 								<a href="/CivicAlerts.aspx?AID=86"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1598" alt="Election 2020" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader86" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=86">2020 Election - General Information </a></h4>
@@ -1238,7 +1248,7 @@ Information about the 2020 Elections can be found on Anoka's elections pages.			
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="8">
+					<li class="widgetItem" data-index="9">
 								<a href="/CivicAlerts.aspx?AID=51"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1175" alt="Anoka Logo_White Background" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader51" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=51">Anoka Mobile Apps Now Available </a></h4>
@@ -1248,7 +1258,7 @@ Anoka has an official app for both Android and IOS devices.				<a id="newsFlashR
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="9">
+					<li class="widgetItem" data-index="10">
 								<a href="/CivicAlerts.aspx?AID=46"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=69" alt="Anoka Real Classic" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader46" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=46">Keep In Touch! </a></h4>
@@ -1258,7 +1268,7 @@ Stay in touch with us by following us on Twitter, liking us on Facebook and Inst
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="10">
+					<li class="widgetItem" data-index="11">
 								<a href="/CivicAlerts.aspx?AID=10"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=1066" alt="Port of Anoka" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader10" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=10">Website Personalization Now Available! </a></h4>
@@ -1268,7 +1278,7 @@ With the launch of the new MyAccount feature, visitors to our website can now cu
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="11">
+					<li class="widgetItem" data-index="12">
 								<a href="/CivicAlerts.aspx?AID=41"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=68" alt="Aerial View of Anoka" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader41" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=41">Stay Connected </a></h4>

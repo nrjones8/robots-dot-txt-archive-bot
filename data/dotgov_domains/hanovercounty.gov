@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"1wgAIrxqHvzDQPddhSNDnY5UOMTObkyrFapaU7mdcJDkf1BBP3sLQY70A5IDXwC1dHr2E7_ZZidHRm6a5j7vRXW86zY1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"ggLQZ0jQN2sVm99pvaXN-ibN5EFq2C0K47SWln5afAXGg27ILUtkxy8ZGaDGc-GoaoFdyymW0UEpZ4lw2zx1vfVPfjM1\" />");
 						}
 					}
 				}, false);
@@ -609,10 +609,10 @@
 								.done(function () {
 									renderBanner('banner1-52',
 										'banner1',
-										{"BannerOptionID":52,"ThemeID":16,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":1,"SlideShowSlideTiming":"2","SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":123,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=2846","Height":1440,"Width":1920,"StartingOn":"\/Date(1594094400000)\/","StoppingOn":"\/Date(1596168000000)\/","IsLink":false,"LinkAddress":null,"Sequence":11,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":null}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/"},
-										{"BannerImageID":123,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=2846","Height":1440,"Width":1920,"StartingOn":"\/Date(1594094400000)\/","StoppingOn":"\/Date(1596168000000)\/","IsLink":false,"LinkAddress":null,"Sequence":11,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":null},
+										{"BannerOptionID":52,"ThemeID":16,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":1,"SlideShowSlideTiming":"2","SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":124,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=2903","Height":1944,"Width":2592,"StartingOn":"\/Date(1599796800000)\/","StoppingOn":"\/Date(1601524800000)\/","IsLink":false,"LinkAddress":null,"Sequence":12,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":null}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/"},
+										{"BannerImageID":124,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=2903","Height":1944,"Width":2592,"StartingOn":"\/Date(1599796800000)\/","StoppingOn":"\/Date(1601524800000)\/","IsLink":false,"LinkAddress":null,"Sequence":12,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135578800000)\/","AltText":null},
 										'/App_Themes/Home/Images/',
-										'<img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=2846" />');
+										'<img alt="" class="bannerObject" src="/ImageRepository/Document?documentID=2903" />');
 								});
 						}, "load");
 				</script>
@@ -1214,7 +1214,7 @@ Sa
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=17&amp;CID=35,47,43,49,14,25,26,30,22,60'>17</a>
 </td>
 <td>
-<span>18</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=18&amp;CID=35,47,43,49,14,25,26,30,22,60'>18</a>
 </td>
 <td>
 <span>19</span>
@@ -1318,41 +1318,41 @@ Sa
 
 
 <li class="widgetItem " >
+			<h4 class="widgetTitle">Fri Sep. 18  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=960">Vote By Mail - First Day Balllots will be Mailed</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Fri Sep. 18  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=958">Early Voting Begins</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
 			<h4 class="widgetTitle">Mon Sep. 21  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=560">Community Services Board Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Wed Sep. 23  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=828">Board of Supervisors Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Sep. 24  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=878">Broadband Committee Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1419,6 +1419,24 @@ Sa
 		<ol class="semanticList cpSlider">
 					<li class="widgetItem" data-index="0">
 						<div class="text">
+								<h4 id="newsFlashItemHeader414" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=414">9/11 message from the County Administrator </a></h4>
+	<div class="widgetDesc">
+				<a id="newsFlashReadOn414" href="/CivicAlerts.aspx?AID=414" class="readOn" aria-labelledby="newsFlashItemHeader414 newsFlashReadOn414">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="1">
+						<div class="text">
+								<h4 id="newsFlashItemHeader413" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=413">9/11 message from the Sheriff </a></h4>
+	<div class="widgetDesc">
+				<a id="newsFlashReadOn413" href="/CivicAlerts.aspx?AID=413" class="readOn" aria-labelledby="newsFlashItemHeader413 newsFlashReadOn413">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="2">
+						<div class="text">
 								<h4 id="newsFlashItemHeader412" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=412">Pamunkey Regional Jail reports COVID-19 outbreak </a></h4>
 	<div class="widgetDesc">
 				<a id="newsFlashReadOn412" href="/CivicAlerts.aspx?AID=412" class="readOn" aria-labelledby="newsFlashItemHeader412 newsFlashReadOn412">Read on...</a>            
@@ -1426,7 +1444,7 @@ Sa
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="1">
+					<li class="widgetItem" data-index="3">
 						<div class="text">
 								<h4 id="newsFlashItemHeader411" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=411">Voting information for 2020 Election </a></h4>
 	<div class="widgetDesc">
@@ -1435,7 +1453,7 @@ Sa
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="2">
+					<li class="widgetItem" data-index="4">
 						<div class="text">
 								<h4 id="newsFlashItemHeader405" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=405">Governor announces launch of COVIDWISE exposure app </a></h4>
 	<div class="widgetDesc">
@@ -1444,7 +1462,7 @@ Sa
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="3">
+					<li class="widgetItem" data-index="5">
 						<div class="text">
 								<h4 id="newsFlashItemHeader401" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=401">Hanover Economic Development creates job referral app </a></h4>
 	<div class="widgetDesc">
@@ -1453,7 +1471,7 @@ Sa
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="4">
+					<li class="widgetItem" data-index="6">
 						<div class="text">
 								<h4 id="newsFlashItemHeader393" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=393">Know Your Rights and Resources </a></h4>
 	<div class="widgetDesc">

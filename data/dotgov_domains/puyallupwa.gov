@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"jsvb7LBbruyAhieDRUftgGbkO2aFKCkguJ4TqIcYtsXnIyu31dK-GOuhQ2oFKPUIM1lyfsVAsHRqp6ESRckw8GFSonw1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"APVXTuStItwn1nOqLePpVOp0PaBnU0D6NqJsVN7hCvz3NPm-KPplYx88qVyNkDFZtQyPbbmtCjjqYIIsLgJaYWM06G41\" />");
 						}
 					}
 				}, false);
@@ -1004,6 +1004,14 @@
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
+			<li class="widgetItem" data-news-i-d="971">
+
+					<h4 id="newsFlashItemHeader971" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=971">All Puyallup Parks Closed Until Further Notice </a></h4>
+	<div class="widgetDesc">
+All parks in Puyallup are closed until further notice due to the poor air quality in our region.						<a href="/CivicAlerts.aspx?AID=971" id="newsFlashReadOn971" aria-labelledby="newsFlashItemHeader971 newsFlashReadOn971" class="readOn">Read on...</a>
+	</div>
+
+			</li>
 			<li class="widgetItem" data-news-i-d="961">
 
 					<h4 id="newsFlashItemHeader961" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=961">Parking in the Downtown: Good? Bad? We're Listening! </a></h4>
@@ -1017,14 +1025,6 @@ We know, we know. Some days you love it! Other days ... not so much.						<a hre
 					<h4 id="newsFlashItemHeader959" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=959">Styrofoam Recycling + Document Shredding Offered on Oct. 10th </a></h4>
 	<div class="widgetDesc">
 Puyallup will offer document shredding and Styrofoam recycling from 10 to 2 on Saturday, October 10th						<a href="/CivicAlerts.aspx?AID=959" id="newsFlashReadOn959" aria-labelledby="newsFlashItemHeader959 newsFlashReadOn959" class="readOn">Read on...</a>
-	</div>
-
-			</li>
-			<li class="widgetItem" data-news-i-d="952">
-
-					<h4 id="newsFlashItemHeader952" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=952">Senior Lunch Program at Puyallup Activity Center </a></h4>
-	<div class="widgetDesc">
-To-go lunches are now offered three days/week at the Puyallup Activity Center.						<a href="/CivicAlerts.aspx?AID=952" id="newsFlashReadOn952" aria-labelledby="newsFlashItemHeader952 newsFlashReadOn952" class="readOn">Read on...</a>
 	</div>
 
 			</li>

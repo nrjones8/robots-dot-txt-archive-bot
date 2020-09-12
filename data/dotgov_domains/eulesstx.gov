@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Euless, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Euless, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IlpMZDR4d0pFa3ExTkhXWGM2QzhtVFE9PSJ9.dts5SGJL0XqS0jK20hp0-2cwljWHVU_LgRbu75POoI_Pm_xMjFsH71-gBc9BIorDCwrijXY8CK10hcxEu79XYVxu7LEgsNIB.pTOQIKrB93ud2PSMGPuQBg.JS634Y6-OHB0nLlnqKix7kX7CQBQh1upJ4CtK3brDVoObXXPAuXaazXb_mzYOEIHMlpNNFzbL8JaDh1axwtvuX_XVwl0MtuiUtrIdcb4k9B1BN0sZ-7qvvgj2WRwH4fU2yNQEH0KDRHUzNnojG7wm0R4KbWmR5aDE6IGxVKon7uhfHM0rA5YJBBbKYN3spRAuw2LZAbM80mA9o5TIN7Iva_qMga0KQPOC2utwP8w3b4.6ce1jJodfp7_RErFOCl4C8pdy1Zuvmm39n-p0eMjV7c";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Euless, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Euless, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IkJ2NFNZR3lqUzZIT2xEMEJocTc5YlE9PSJ9.oQH2pC9Sqtqk-tdfbIAJUnw28_i_wdraEKEcGDePhm2xAfdYVguX5YMyYrPunt_RATpQaoLLruyq_LiX_C1npoBNSfRoqCeK._QTZQ-z6huTyq7T7BgTIfQ.4XSBFFKMKVz8UE56Q03_VeIPyAGJnt9Vh6TXJ1txL3sM2uP3eqMXt5ubX05EjipFut9DG8bDENQ9fVeAb9Nhd0WKJOM_0vIPAdHClNG68zkXS-KbtKHuy0_8hu9I83yI0NCRJE-ePmpm98xyFMICk04xokSTbOzi0tSoabG6HtgKn8MiDPnvDMfJzQZcy1CLF2Ax0tJBnRuMSfFw6e1cEDLb8lfYbpnlyEbt1RSroNc.il8fvVRnJMoirFskMNNj3d_rgXgDYMqH_yzY2-Lp0us";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -791,6 +791,17 @@ $(function () {
     </a>
 </li>
 <li>
+	<a href="/Home/Components/News/News/377/16" class="news-item">
+			<div class="image_frame"><img alt="Mosquito Spraying to Take Place Starting Sunday Evening" src="/Home/ShowPublishedImage/4086/637305814945930000"/></div>	
+		
+		<div class="item_info">
+            <p class="box_item_title">Mosquito Spraying to Take Place Starting Sunday Evening</p>
+            <p class="box_item_summary"></p>
+            <p class="news-readmore" href="/Home/Components/News/News/377/16">Keep reading ></p>
+        </div>
+    </a>
+</li>
+<li>
 	<a href="/Home/Components/News/News/375/16" class="news-item">
 			<div class="image_frame"><img alt="Construction Updates - September 2020" src="/Home/ShowPublishedImage/3934/637239440417670000"/></div>	
 		
@@ -798,17 +809,6 @@ $(function () {
             <p class="box_item_title">Construction Updates - September 2020</p>
             <p class="box_item_summary"></p>
             <p class="news-readmore" href="/Home/Components/News/News/375/16">Keep reading ></p>
-        </div>
-    </a>
-</li>
-<li>
-	<a href="/Home/Components/News/News/359/16" class="news-item">
-			<div class="image_frame"><img alt="Tips for Successful Garbage &amp; Recycling" src="/Home/ShowPublishedImage/4146/637338823334100000"/></div>	
-		
-		<div class="item_info">
-            <p class="box_item_title">Tips for Successful Garbage &amp; Recycling</p>
-            <p class="box_item_summary">We hope these tips will be a good reminder of these services and your options.</p>
-            <p class="news-readmore" href="/Home/Components/News/News/359/16">Keep reading ></p>
         </div>
     </a>
 </li>

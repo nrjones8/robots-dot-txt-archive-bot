@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"zQ7w67LPHG1KZlL97dz4oLnDz1Q5qlEMztG_yWuuAOGtPgO1TN_uFVC6QfcSkKcAL5ITlzWwdSjIoqA9qizkRnUNhqU1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"-vWjLDxVyC-sb_kw1bcefNwju36LHLbgZC-HJXbbOf9M8KZVtDqFEcgtiMe0KEN_zJ8GDSwAC1Ge_CTZFnSj2b1TjHw1\" />");
 						}
 					}
 				}, false);
@@ -1462,6 +1462,36 @@ Click through to read our most recent COVID-19 update: Friday, 8.28.20				<a id=
 						</div>
 					</li>
 					<li class="widgetItem" data-index="1">
+								<a href="/CivicAlerts.aspx?AID=450"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2401" alt="Safe_Healthy" data-delayed-image=""/></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader450" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=450">Remote Meeting of the Safe, Healthy, Connected People Commission </a></h4>
+	<div class="widgetDesc">
+Click through to view the agenda and participation instructions.				<a id="newsFlashReadOn450" href="/CivicAlerts.aspx?AID=450" class="readOn" aria-labelledby="newsFlashItemHeader450 newsFlashReadOn450">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="2">
+								<a href="/CivicAlerts.aspx?AID=449"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2419" alt="Road Work" data-delayed-image=""/></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader449" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=449">Scheduled Road Resurfacing 9.15.20 – 9.25.20 </a></h4>
+	<div class="widgetDesc">
+Click through to see the list of streets and construction schedule.				<a id="newsFlashReadOn449" href="/CivicAlerts.aspx?AID=449" class="readOn" aria-labelledby="newsFlashItemHeader449 newsFlashReadOn449">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="3">
+								<a href="/CivicAlerts.aspx?AID=448"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3681" alt="Mayors Update" data-delayed-image=""/></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader448" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=448">Mayor's Update - 9.11.20 </a></h4>
+	<div class="widgetDesc">
+				<a id="newsFlashReadOn448" href="/CivicAlerts.aspx?AID=448" class="readOn" aria-labelledby="newsFlashItemHeader448 newsFlashReadOn448">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="4">
 								<a href="/CivicAlerts.aspx?AID=447"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2442" alt="VT Air National Guard" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader447" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=447">Upcoming F-35 Night Flying Operations - September 2020 </a></h4>
@@ -1471,7 +1501,7 @@ Click through to read our most recent COVID-19 update: Friday, 8.28.20				<a id=
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="2">
+					<li class="widgetItem" data-index="5">
 								<a href="/CivicAlerts.aspx?AID=446"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2405" alt="Finance" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader446" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=446">Remote Finance Commission Meeting on 9.15.20 </a></h4>
@@ -1481,7 +1511,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="3">
+					<li class="widgetItem" data-index="6">
 								<a href="/CivicAlerts.aspx?AID=445"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2809" alt="Public Hearing" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader445" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=445">Development Review Board Public Hearing Notice for 9.17.20 </a></h4>
@@ -1491,7 +1521,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="4">
+					<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=444"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3676" alt="Tennis in the Parks" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader444" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=444">Registration Open - Winooski Rec. Tennis in the Parks </a></h4>
@@ -1501,7 +1531,7 @@ This o				<a id="newsFlashReadOn444" href="/CivicAlerts.aspx?AID=444" class="rea
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="5">
+					<li class="widgetItem" data-index="8">
 								<a href="/CivicAlerts.aspx?AID=443"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3467" alt="Now Hiring" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader443" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=443">Now Hiring: Winooski Police Dispatcher Reserves - Part-time, On-Call </a></h4>
@@ -1511,7 +1541,7 @@ Click through to learn more and apply today.				<a id="newsFlashReadOn443" href=
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="6">
+					<li class="widgetItem" data-index="9">
 								<a href="/CivicAlerts.aspx?AID=442"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3467" alt="Now Hiring" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader442" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=442">Now Hiring: Youth Interventionist </a></h4>
@@ -1521,7 +1551,7 @@ Click through to learn more and apply today.				<a id="newsFlashReadOn442" href=
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="7">
+					<li class="widgetItem" data-index="10">
 								<a href="/CivicAlerts.aspx?AID=441"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2403" alt="Planning" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader441" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=441">Remote Planning Commission Meeting on 9.10.20 </a></h4>
@@ -1531,7 +1561,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="8">
+					<li class="widgetItem" data-index="11">
 								<a href="/CivicAlerts.aspx?AID=439"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2556" alt="Federal" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader439" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=439">Winooski City Hall Closed on Monday 9.7.20 for Labor Day </a></h4>
@@ -1541,7 +1571,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="9">
+					<li class="widgetItem" data-index="12">
 								<a href="/CivicAlerts.aspx?AID=440"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3442" alt="Dark Blue Seal" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader440" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=440">Remote City Council Meeting on 9.8.20 </a></h4>
@@ -1551,7 +1581,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="10">
+					<li class="widgetItem" data-index="13">
 								<a href="/CivicAlerts.aspx?AID=438"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3443" alt="Green Seal" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader438" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=438">Notice of Public Hearings on 9.29.20 and 10.13.20 </a></h4>
@@ -1561,7 +1591,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="11">
+					<li class="widgetItem" data-index="14">
 								<a href="/CivicAlerts.aspx?AID=435"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3609" alt="Mayors Update" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader435" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=435">Mayor's Update - 8.21.20 </a></h4>
@@ -1571,7 +1601,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="12">
+					<li class="widgetItem" data-index="15">
 								<a href="/CivicAlerts.aspx?AID=437"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2813" alt="Housing Liaison" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader437" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=437">Housing Liaison Update - August 2020 </a></h4>
@@ -1581,7 +1611,7 @@ Click through to learn more about the current work of the Winooski Housing Commi
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="13">
+					<li class="widgetItem" data-index="16">
 								<a href="/CivicAlerts.aspx?AID=436"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2815" alt="SHCP Liaison" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader436" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=436">Safe, Healthy, Connected People Liaison Update - August 2020 </a></h4>
@@ -1591,7 +1621,7 @@ Click through to learn more about the current work of the Safe, Healthy, Connect
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="14">
+					<li class="widgetItem" data-index="17">
 								<a href="/CivicAlerts.aspx?AID=434"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3530" alt="TMT Municipal Update" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader434" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=434">Watch: Winooski City Council Reports from 8.18.20 </a></h4>
@@ -1601,7 +1631,7 @@ Click through to learn more about the current work of the Safe, Healthy, Connect
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="15">
+					<li class="widgetItem" data-index="18">
 								<a href="/CivicAlerts.aspx?AID=433"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3467" alt="Now Hiring" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader433" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=433">Now Hiring: Recreational Programs Manager and Parks and Community Gardens Manager </a></h4>
@@ -1611,7 +1641,7 @@ Click through to learn more and apply today!				<a id="newsFlashReadOn433" href=
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="16">
+					<li class="widgetItem" data-index="19">
 								<a href="/CivicAlerts.aspx?AID=432"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2404" alt="Housing" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader432" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=432">Remote housing Commission Meeting on 8.24.20 </a></h4>
@@ -1621,7 +1651,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="17">
+					<li class="widgetItem" data-index="20">
 								<a href="/CivicAlerts.aspx?AID=430"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader430" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=430">Special Remote City Council Meeting on 8.18.20 </a></h4>
@@ -1631,7 +1661,7 @@ Click through to view the agenda and participation instructions.				<a id="newsF
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="18">
+					<li class="widgetItem" data-index="21">
 								<a href="/CivicAlerts.aspx?AID=431"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3580" alt="Thrive Thrive 2020 - 2021 Program Photo" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader431" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=431">Thrive 2020/2021 Enrollment Now Open </a></h4>
@@ -1641,7 +1671,7 @@ Click through to learn more and register today!				<a id="newsFlashReadOn431" hr
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="19">
+					<li class="widgetItem" data-index="22">
 								<a href="/CivicAlerts.aspx?AID=428"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3572" alt="Q and A 2" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader428" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=428">Charter Commission Q & A on Sunday, August 16 </a></h4>
@@ -1651,7 +1681,7 @@ Click through to learn more and register today!				<a id="newsFlashReadOn431" hr
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="20">
+					<li class="widgetItem" data-index="23">
 								<a href="/CivicAlerts.aspx?AID=429"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3574" alt="Bennington Battle Day" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader429" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=429">Winooski City Hall Closed on Monday 8.17.20 for Bennington Battle Day </a></h4>
@@ -1661,7 +1691,7 @@ Click through to learn more and register today!				<a id="newsFlashReadOn431" hr
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="21">
+					<li class="widgetItem" data-index="24">
 								<a href="/CivicAlerts.aspx?AID=427"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3543" alt="Election Results (1)" data-delayed-image=""/></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader427" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=427">Unofficial Results - 2020 Vermont State Primary Election </a></h4>

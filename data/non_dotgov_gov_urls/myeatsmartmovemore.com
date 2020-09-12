@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>    
     <section class="show-for-xlarge">
       <a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">
-        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-1.png" alt="Core Behaviors" class="headerCoreBanner">
+        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-6.png" alt="Core Behaviors" class="headerCoreBanner">
       </a>
     </section>
     

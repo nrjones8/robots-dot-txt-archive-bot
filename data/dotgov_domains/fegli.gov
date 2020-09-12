@@ -41,34 +41,8 @@ var AlwaysShowAjaxWorking = false;
   <body id="ContentPlaceHolderDefault_htmBody">
   <form method="post" action="/healthcare-insurance/life-insurance" id="frmMain">
 <div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRkKQOXHlib/sXIepInniBTj51ymeE=" />
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['frmMain'];
-if (!theForm) {
-    theForm = document.frmMain;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/WebForms.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-window.WebForm_PostBackOptions||document.write('<script type="text/javascript" src="/WebResource.axd?d=mxUMery9lisWK9YbcZNzLiobb_WMTM6c8Z7wB_HqPxlDu9YeXaBTCp8GdjqcuwhpjoaYcva8Ao0W6-NUC99C0Yn_TNo1&amp;t=637297541819849385"><\/script>');//]]>
-</script>
-
 
 
 <script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjax.js" type="text/javascript"></script>
@@ -76,18 +50,7 @@ window.WebForm_PostBackOptions||document.write('<script type="text/javascript" s
 //<![CDATA[
 (window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=usEE34N25Ifxco9y8DYdQeOvXAFO3QTGt2zGLcNTIkUU9w8gZOYY9Gzcoc3DKHUjD90Y1Inj4N-OHXA7YXiTZ5Fv6i1o7t2_RbYAZFhYMM9Fp1sH64y6YFpI8bPdvQ1--aaa8g1JExa8BmBA1OGpkOPV2YA1&t=ffffffffce034dab"><\/script>');//]]>
 </script>
-
-<script src="https://ajax.aspnetcdn.com/ajax/4.6/1/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-(window.Sys && Sys.WebForms)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=j2VRn7hnQ9trSShFm-OSSd-cpuTxOqjZFZr7sxzK6Hbpk62q-q9c5dk8ZpcdXXIVTnJIa6uy9YCtOM8oXYsIUHFV-v0uldp_sUwqlBygiCpWcSzfTi1K_6LqzrPM15YlwPQt0gQzlF6Nxcree9zIXuZ5gGfLmAv_B9UjItpddlpVbx870&t=ffffffffce034dab"><\/script>');//]]>
-</script>
- <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ContentPlaceHolderDefault$ScriptManager1', 'frmMain', [], [], [], 90, 'ctl00$ctl00$ctl00');
-//]]>
-</script>
-
+ 
       <a class="skipnav" href="#content">Click here to skip navigation</a>
 	  
 	  <div class="AccessibilityInfo" id="AccessibilityInfoDisabled" style="display:none;">
@@ -385,7 +348,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ContentPlaceHolde
     
 
         <div id="MainContent_Container">
-          <div id="ContentPlaceHolderDefault_Breadcrumbs" class="Breadcrumbs"><a href="/" class="level0 parent">OPM.gov Main</a><a href="/healthcare-insurance/" class="level1 parent">Insurance</a><span class="current">Life Insurance</span></div>
+          <div id="ContentPlaceHolderDefault_Breadcrumbs" class="Breadcrumbs"><a href="/" class="level0 parent">OPM.gov Main</a><a href="/healthcare-insurance/" class="level1 parent">Insurance</a><a href="/healthcare-insurance/life-insurance/" class="level2 parent">Life Insurance</a></div>
           <div id="ContentPlaceHolderDefault_SideNavigation" class="SideNavContainer"><div id="SideNav"><a href="#content" class="skipnav">Skip Navigation</a><h3>In This Section</h3><ul id="SecondaryNavigation"><li class="collapsed first"><a href="/healthcare-insurance/life-events/">Life Events</a><a href="#toggle" class="toggleSecNav">Toggle submenu</a><ul><li class=" first"><a href="/healthcare-insurance/life-events/memy-family/">Me/My Family</a></li>
 				<li class=""><a href="/healthcare-insurance/life-events/job/">Job</a></li>
 				<li class=""><a href="/healthcare-insurance/life-events/retirement/">Retirement</a></li>

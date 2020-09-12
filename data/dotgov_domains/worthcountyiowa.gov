@@ -1,477 +1,63 @@
-
-
-
-
-
-
-
-<!DOCTYPE html > 
-<html lang="en-US">
-<head><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="EXPIRES" content="0" /><title>
-	Official Website
-</title><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /><link href="https://fonts.googleapis.com/css?family=Oswald:300&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Bilbo+Swash+Caps|Mr+De+Haviland&amp;display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
-
-
-
-
-<link href="/ClientCommon/jquery/jquery-ui.css" rel="stylesheet" /><link href="/clientcommon/css/standard.css" rel="stylesheet" type="text/css" /><link href="/ClientCommon/css/menu.css" rel="stylesheet" /><link href="/common/css/design.css" rel="stylesheet" /><link href="/clientcommon/css/mobile.css" media="screen  and (max-width: 992px)" rel="stylesheet" type="text/css" />
-       
-    <script src="/ClientCommon/scripts/menu.js"></script>
-    <script src="/ClientCommon/scripts/mobile.js"></script>
-    <script src="/ClientCommon/scripts/gallery.js"></script>
-
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.2.0/ekko-lightbox.min.js"></script>
-    <link rel="stylesheet" a="" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.2.0/ekko-lightbox.min.css" />
-    
-    <script>
-        $(document).on("click", '[data-toggle="lightbox"]', function (event) {
-            event.preventDefault();
-            $(this).ekkoLightbox();
-        });</script>
-    
-
-          <script>
-        $(document).ready(function () {
-            $(".sshLinkItem").each(function () {
-                   $(this).attr("aria-label", $(this).attr("title"));
-            });
-
-
-            $('input[type=text]').each(function () {
-                if (!$(this).attr("aria-label")) {
-                    var iii = this.id;
-                    if (iii.toLowerCase().indexOf("search") >= 0) {
-                        $(this).attr("aria-label", "Search text box");
-                        $(this).removeAttr("title");
-                    }
-
-
-
-                }
-            })
-
-
-            $('select').each(function () {
-                if (!$(this).attr("aria-label")) {
-
-
-                    if (this.id == 'cmbStatus') {
-                        $(this).attr("aria-label", "Status");
-                        $(this).removeAttr("title");
-                    }
-
-                    if (this.id == 'cmbCategory') {
-                        $(this).attr("aria-label", "Category");
-                        $(this).removeAttr("title");
-                    }
-
-
-                    var iii = this.id;
-                    if (iii.toLowerCase().indexOf("daterange") >= 0) {
-                        $(this).attr("aria-label", "Date Range");
-                        $(this).removeAttr("title");
-                    }
-
-                }
-            })
-
-        });
-     </script>
-
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1" />
- 
-
-      
-
-
-    
- 
-
-    <style>
-              a, a:hover {
-    color: #0068d6;
-}
-        
-
-           .calNextPrev
-           {
-               font-size: 13pt;
-           }
-
-      
-   .myIcon a  span {
-    color: #4e5153 !important
-}
-    .menuItem:first-child  {
-
-    border-top: 1px solid #375a73;
-}
-
-
-    .pageSearch{
-        padding-bottom: 30px;
-    }
-
-    .notFoundIn {    font-style: italic;}
-    
-    @media (min-width: 1500px) {
-    .container {
-        max-width: 1440px;
-    }
-}.RadSocialShare{background:#fff !important;}
- .doubleSpace {
-    line-height: 2!important;
-}
-
-    </style>
-
- <link href="/WebResource.axd?d=VnHm51EOIfhD-hb4QYuKDYfirT85zqiAtCD9IlENfN3gmVjfqxbXsGzN8MrO5QrxFDaSsTiotZDGLnMXIfc4hSpjN94ZsGS11l2rClk_0JY02BvKkF8Lw7-33QPJs_DzfzKQJkyUtIXvf83Ju29nelYyRnH5ROnV-wUqFEXkIx41&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=OLNS2ZtWcr1iYFB81eLV5zBZIz0iJNjBPi7ygnhcDf7FCH9m8r1HRXjT3Ic7iWlFvNUFiC9vJe_Suw1sqYAx1Fr0lASnlNv8HHgirMSkJV8jex8BfyAeht63eRgK97Lp4mI12s2At_jJ_60yi-IPYA2&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=dc8qjgld_CKlYCqmr-IONKyjhYUTWsCJDy_ZEL9Ja8_RzunP8yA3op8Sch6wGQVO30EAouklzeLu6u6iVLmwilYDOWwwpS0ppFOiDhV28Ntd4v38hvlCNpl7w3AxmmNp8pzyHo0V-Q0QEAUilE6XsFYGemgTu-DqqvJmZH3oeRQ1&amp;t=637278683340000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
-
-
-
-<body class="secondBody">
- <aside class="skipnav"><a href="#maincontent">Skip to main content</a></aside>
-  
-
-    <form name="aspnetForm" method="post" action="./notfound.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODAwOTgyMjk3D2QWAmYPZBYCAgMPZBYKAgYPFgIeBFRleHQFuQI8ZGl2IGNsYXNzPSJzaWRlSXRlbSI+PGEgaHJlZj0iL2NhbGVuZGFyLmFzcHgiPkNhbGVuZGFyICYgRXZlbnRzPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvYWdlbmRhLmFzcHg/aWQ9MjA2MyZjYXRpZD0yNSI+QWdlbmRhcyAmIE1pbnV0ZXM8L2E+PC9kaXY+PGRpdiBjbGFzcz0ic2lkZUl0ZW0iPjxhIGhyZWY9Ii9wVmlldy5hc3B4P2lkPTIwNjImY2F0aWQ9MjUiPkRlcGFydG1lbnRzPC9hPjwvZGl2PjxkaXYgY2xhc3M9InNpZGVJdGVtIj48YSBocmVmPSIvbm90aWZ5LmFzcHgiPkUtTmV3cyBTaWdudXA8L2E+PC9kaXY+ZAIJDw8WCB4VRW5hYmxlRW1iZWRkZWRTY3JpcHRzZx4cRW5hYmxlRW1iZWRkZWRCYXNlU3R5bGVzaGVldGceElJlc29sdmVkUmVuZGVyTW9kZQspclRlbGVyaWsuV2ViLlVJLlJlbmRlck1vZGUsIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMjAuMi42MTcuNDUsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MTIxZmFlNzgxNjViYTNkNAEeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGRkAgsPZBYCAgEPDxYCHwAFEVBhZ2UgaXMgbm90IGZvdW5kZGQCDA8WAh8ABeMBPGEgaHJlZj0iL25vdGlmeS5hc3B4Ij48aW1nIHNyYz0iL2NvbW1vbi9pbWFnZXMvM2VuZXdzLnBuZyIgYWx0PSJHZXQgZW1haWwgbm90aWZpY2F0aW9ucyIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDs8YSBocmVmPSIvcnNzLmFzcHgiPjxpbWcgc3JjPSIvY29tbW9uL2ltYWdlcy8zcnNzLnBuZyIgYWx0PSJHZXQgb3VyIFJTUyBGZWVkcyIgc3R5bGU9ImJvcmRlcjogMDsiPjwvYT4mbmJzcDtkAg0PFgIfAAXMATxkaXYgPldvcnRoIENvdW50eSBJb3dhPC9kaXY+PGRpdj4xMDAwIENlbnRyYWwgQXZlIDxicj48c3BhbiBjbGFzcz0ibW9iaWxlRGl2Ij5Ob3J0aHdvb2Q8c3BhbiBjbGFzcz0ibW9iaWxlSGlkZSI+PC9zcGFuPiBJQSA1MDQ1OTwvc3Bhbj48L2Rpdj48YnIgLz48c3BhbiBjbGFzcz0ibW9iaWxlRGl2Ij5QaG9uZTogNjQxLTMyNC0yMzE2PGJyIC8+PC9zcGFuPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFD2N0bDAwJGltZ1NlYXJjaAUMY3RsMDAkclNoYXJlBRljdGwwMCRjcENvbnRlbnQkY21kU2VhcmNoqDFLqVIoQdbQ5XFzckfSC7PmAkZ0JfyjnRPjnkjHYxw=" />
-
-
-<script src="/ScriptResource.axd?d=sX55bd0K_QkrHf4m6ImJbDly23qp-bXB4kk_OjjK3eTKnfYrV9GCUkl68DVbmGWkpZm8KIOLdnGjjDPG2bUBAXr6mZHswq9LhJalJom_kBCuiGQICTsCwvFGKeYCaQcH4qT9rTa15hGaZeKI3TV7V-aN_RIuWMpRlb0uH-gGei7WrqIyjdGaK3ypirJINeAI0&amp;t=2a797f5c" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
-
-<script src="/ScriptResource.axd?d=heEE0BD7kxgKdEvVo1ghZVC7beFHxZgaqGs4OxIzMic-ljG7q7M3o_O8Z3C2FD92AqNtYEEXaKTt2GIwEFaDM5O-MulUjmZfbYMaa8KmDYpUOLyzFzz9D8lTX5QXiKf-wOE7MJTVBJl7TS5g1yCX2A2&amp;t=3322f07f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=eneskIoKYpikTJZ1unHCcHj1RSUv2ItxbMF2H1lCX8ftEQRHdFgk13J3gYmlbdI8CTrL17xtAwJGACpOlbWmTum8gV4ePsY2JQW4gluJ_Chr6rpZZ6d73UT1vo_aoBDpfhUGi4r6SwlLzqiYaZ0-Xg2&amp;t=3322f07f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=u5uspUW8csMj3ZKiQvZaZJ50mn7fO10p85rbB2Z-G0oHOC3f1gs7VXYN-OtDTBy-UEeF_qOz5V9pk_9kd5wHNETAZBKU6z6FxxlvXUlm5Am90aIvsqNAdM2Ms31xc97XnGXByLLl35Uy8REPO9XWOg2&amp;t=3322f07f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=5cSuXUbWQhnArVztPNGlgdX0PaV0g8UO0YBLDOSyc5ftrVcpxsAaKKlINgepQvwzBwJn_6TbPVlUesuyj58XwpVIlHmPTi35IYBH0XhQvPc2enYlXQ8xnzozpvjJUtOiWIPv-pjr2n8OQ6sAeVs_44tXp7hHd59T8nStJCFabi9y-GPlTYwyj0sZCSgNNhwT0&amp;t=3322f07f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=VZyAoEei81CF4c_QnvT6aK2bS2Q3aTe7nSu9V9G4YwQmQ_eAYDADL54rNPFp1RJF_JtHp01XDgN7BUus_8IXFlc2l25NWSY3UoGKTUtlLF1bnGPqcLmQsbxqdkbqhnMGJebJjMl2S_GQ2OfKkIqVnsCy9yit7OUeYRyoNZTP1sA1&amp;t=3322f07f" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ZUe28j2N1ZrHuSjVEmHAE9SwndxXsdtje7EqEnz9tMarNTTJ5-FVjxlR9y21kdM9DlCP5vtweHbg3n_7zmxb7WbYV2z5r2yju_Ju40_DpWHPbiNsWzUh34JEQYnDIpML1uDB90U30AUsMZ8FEleRjAZu8KdRzKmH10_4C7eC7Ug1&amp;t=3322f07f" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D13A0A9D" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZJhUCdJbObagbVj1Ppnlem4+3WpZQNb82rzs2KnT3rhzNJbk+StP9MU9C3dL35jePNWGThTE97taNkf0/FSHlDh7CQ0cBExZfMSEuLW62AEF0hOKxwEzqWLaRCt/0o75V5hQVFcZA+ZPRyS5XA93iZLGk0oJBXjM7MztgHy0nwgQ==" />
-
-          <div class="mainContainer mobileHide" style="" ></div>
-      <div class="mobileMenuCon mobileShow"><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=445&catid=25">My Government</a></div><div class="mobileMenuItemR" id="mm25">+</div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2063&catid=25">Agendas and Minutes</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2186&catid=25">Boards and Commissions</a></div><div class="mobileMenuItemRS" id="mm252186">+</div></div><div class="mobileMenuItemSubS sm252186"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2877&catid=25">Commission of Veteran Affairs</a></div></div><div class="mobileMenuItemSubS sm252186"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2202&catid=25">Conservation Board</a></div></div><div class="mobileMenuItemSubS sm252186"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20822&catid=25">Directory of Boards and Commissions</a></div></div><div class="mobileMenuItemSubS sm252186"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2187&catid=25">Worth County Board of Health</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2061&catid=25">Clerk of Court</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2062&catid=25">Departments</a></div><div class="mobileMenuItemRS" id="mm252062">+</div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2067&catid=25">Assessor</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2066&catid=25">Attorney</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2078&catid=25">Auditor</a></div><div class="mobileMenuItemRS3" id="mm252078">+</div></div><div class="mobileMenuItemSubS3 sm252078"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2223&catid=25">Elections</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2068&catid=25">Board of Supervisors</a></div><div class="mobileMenuItemRS3" id="mm252068">+</div></div><div class="mobileMenuItemSubS3 sm252068"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2217&catid=25">Agendas &amp; Minutes</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2077&catid=25">Conservation Board</a></div><div class="mobileMenuItemRS3" id="mm252077">+</div></div><div class="mobileMenuItemSubS3 sm252077"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2367&catid=25">Agendas & Minutes</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2065&catid=25">Emergency Management</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2153&catid=25">Engineer</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2123&catid=25">Environmental Health Services</a></div><div class="mobileMenuItemRS3" id="mm252123">+</div></div><div class="mobileMenuItemSubS3 sm252123"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2662&catid=25">Financial Incentives</a></div></div><div class="mobileMenuItemSubS3 sm252123"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2176&catid=25">Wells and Septic Systems</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2247&catid=25">IT/GIS</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20823&catid=25">Northwest Iowa Care Connections- Social Services</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2079&catid=25">Planning and Zoning</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2125&catid=25">Public Health</a></div><div class="mobileMenuItemRS3" id="mm252125">+</div></div><div class="mobileMenuItemSubS3 sm252125"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2190&catid=25">Board of Health</a></div></div><div class="mobileMenuItemSubS3 sm252125"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2203&catid=25">Programs</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2120&catid=25">Recorder</a></div></div><div class="mobileMenuItemSubS3 sm252120"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20827&catid=25">FAQs</a></div></div><div class="mobileMenuItemSubS3 sm252120"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20826&catid=25">Forms & Documents</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2122&catid=25">Sheriff's Office</a></div><div class="mobileMenuItemRS3" id="mm252122">+</div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2299&catid=25">Civil</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2486&catid=25">Frequently Asked Questions</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20811&catid=25">Inmate Population</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20801&catid=25">Press Releases</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2300&catid=25">Probation</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2512&catid=25">Staff</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2933&catid=25">Worth County 911</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2292&catid=25">Worth County Jail</a></div></div><div class="mobileMenuItemSubS3 sm252122"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2294&catid=25">Worth County Reserves</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2121&catid=25">Treasurer</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2124&catid=25">Veteran Affairs</a></div></div><div class="mobileMenuItemSubS sm252062"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2174&catid=25">Worth County Recycling</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2149&catid=25">Economic Developement</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2064&catid=25">Meetings & Events</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2255&catid=25">Online Web Services</a></div></div><div class="mobileMenuItemSub sm25"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2110&catid=25">Staff Directory</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=646&catid=26">Business</a></div><div class="mobileMenuItemR" id="mm26">+</div></div><div class="mobileMenuItemSub sm26"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2026&catid=26">E-news Sign Up</a></div></div><div class="mobileMenuItemSub sm26"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2149&catid=26">Economic Developement</a></div></div><div class="mobileMenuItemSub sm26"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2148&catid=26">Northwood Chamber of Commerce</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=449&catid=29">About Worth County</a></div><div class="mobileMenuItemR" id="mm29">+</div></div><div class="mobileMenuItemSub sm29"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20830&catid=29">Services</a></div><div class="mobileMenuItemRS" id="mm2920830">+</div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2040&catid=29">Libraries</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2039&catid=29">Manna</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=1932&catid=29">Meals on Wheels</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2035&catid=29">Schools</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2041&catid=29">Share Shop</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2037&catid=29">Transit Bus</a></div><div class="mobileMenuItemRS3" id="mm292037">+</div></div><div class="mobileMenuItemSubS3 sm292037"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2768&catid=29">Corridor Medical Shuttle</a></div></div><div class="mobileMenuItemSubS3 sm292037"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2769&catid=29">Medicaid Non-Emergency Transportation</a></div></div><div class="mobileMenuItemSubS sm2920830"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2142&catid=29">Worth County Extension</a></div></div><div class="mobileMenuItemSub sm29"><div class="mobileMenuItemL"><a href="/pview.aspx?id=1923&catid=29">Entertainment &amp; Attractions</a></div><div class="mobileMenuItemRS" id="mm291923">+</div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2328&catid=29">County Attractions</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2135&catid=29">County Parks</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2138&catid=29">Diamond Jo Casino</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2030&catid=29">Hotels</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2136&catid=29">Museums</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2042&catid=29">Theatre</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2028&catid=29">Visitor Maps</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2036&catid=29">Water Parks</a></div></div><div class="mobileMenuItemSubS sm291923"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2391&catid=29">Worth County Fair</a></div></div><div class="mobileMenuItemSub sm29"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2137&catid=29">Local Weather</a></div></div><div class="mobileMenuItemSub sm29"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2060&catid=29">Municipalities</a></div></div><div class="mobileMenuItem"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2006&catid=71">I Want To...</a></div><div class="mobileMenuItemR" id="mm71">+</div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2011&catid=71">Fill Out</a></div><div class="mobileMenuItemRS" id="mm712011">+</div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20814&catid=71">Fireworks Permits</a></div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20825&catid=71">Livestock Submission Form</a></div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20809&catid=71">Paging Complaints</a></div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20808&catid=71">Probation Check In</a></div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2233&catid=71">Road Access Policy Application(Driveway)</a></div></div><div class="mobileMenuItemSubS sm712011"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20807&catid=71">Security Check</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2239&catid=71">View</a></div><div class="mobileMenuItemRS" id="mm712239">+</div></div><div class="mobileMenuItemSubS sm712239"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20828&catid=71">Agendas & Minutes</a></div></div><div class="mobileMenuItemSubS sm712239"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20829&catid=71">County Directory</a></div></div><div class="mobileMenuItemSubS sm712239"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2240&catid=71">Forms and Documents</a></div></div><div class="mobileMenuItemSubS sm712239"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2242&catid=71">Property Assessments</a></div></div><div class="mobileMenuItemSubS sm712239"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2241&catid=71">Worth County GIS</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2007&catid=71">Apply for a Job</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=20804&catid=71">Contact the County</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2234&catid=71">Pay for Traffic Violations</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2232&catid=71">Sign Up for Email Notifications</a></div></div><div class="mobileMenuItemSub sm71"><div class="mobileMenuItemL"><a href="/pview.aspx?id=2388&catid=71">Vote</a></div></div></div><div id="m445" class="levelSub level1"><div id="mi2063" class="menuItem "><a href="/pview.aspx?id=2063&catid=25"">Agendas and Minutes</a></div><div id="mi2186" class="menuItem menuChild"><a href="/pview.aspx?id=2186&catid=25"">Boards and Commissions</a></div><div id="mi2061" class="menuItem "><a href="/pview.aspx?id=2061&catid=25"">Clerk of Court</a></div><div id="mi2062" class="menuItem menuChild"><a href="/pview.aspx?id=2062&catid=25"">Departments</a></div><div id="mi2149" class="menuItem "><a href="/pview.aspx?id=2149&catid=25" target="_blank"">Economic Developement</a></div><div id="mi2064" class="menuItem "><a href="/pview.aspx?id=2064&catid=25"">Meetings & Events</a></div><div id="mi2255" class="menuItem "><a href="/pview.aspx?id=2255&catid=25"">Online Web Services</a></div><div id="mi2110" class="menuItem "><a href="/pview.aspx?id=2110&catid=25"">Staff Directory</a></div></div><div id="m449" class="levelSub level1"><div id="mi20830" class="menuItem menuChild"><a href="/pview.aspx?id=20830&catid=29"">Services</a></div><div id="mi1923" class="menuItem menuChild"><a href="/pview.aspx?id=1923&catid=29"">Entertainment &amp; Attractions</a></div><div id="mi2137" class="menuItem "><a href="/pview.aspx?id=2137&catid=29"">Local Weather</a></div><div id="mi2060" class="menuItem "><a href="/pview.aspx?id=2060&catid=29"">Municipalities</a></div></div><div id="m646" class="levelSub level1"><div id="mi2026" class="menuItem "><a href="/pview.aspx?id=2026&catid=26"">E-news Sign Up</a></div><div id="mi2149" class="menuItem "><a href="/pview.aspx?id=2149&catid=26" target="_blank"">Economic Developement</a></div><div id="mi2148" class="menuItem "><a href="/pview.aspx?id=2148&catid=26" target="_blank"">Northwood Chamber of Commerce</a></div></div><div id="m1923" class="levelSub level2"><div id="mi2328" class="menuItem "><a href="/pview.aspx?id=2328&catid=0"">County Attractions</a></div><div id="mi2135" class="menuItem "><a href="/pview.aspx?id=2135&catid=0"">County Parks</a></div><div id="mi2138" class="menuItem "><a href="/pview.aspx?id=2138&catid=0" target="_blank"">Diamond Jo Casino</a></div><div id="mi2030" class="menuItem "><a href="/pview.aspx?id=2030&catid=0"">Hotels</a></div><div id="mi2136" class="menuItem "><a href="/pview.aspx?id=2136&catid=0"">Museums</a></div><div id="mi2042" class="menuItem "><a href="/pview.aspx?id=2042&catid=0"">Theatre</a></div><div id="mi2028" class="menuItem "><a href="/pview.aspx?id=2028&catid=0"">Visitor Maps</a></div><div id="mi2036" class="menuItem "><a href="/pview.aspx?id=2036&catid=0"">Water Parks</a></div><div id="mi2391" class="menuItem "><a href="/pview.aspx?id=2391&catid=0" target="_blank"">Worth County Fair</a></div></div><div id="m2006" class="levelSub level1"><div id="mi2011" class="menuItem menuChild"><a href="/pview.aspx?id=2011&catid=71"">Fill Out</a></div><div id="mi2239" class="menuItem menuChild"><a href="/pview.aspx?id=2239&catid=71"">View</a></div><div id="mi2007" class="menuItem "><a href="/pview.aspx?id=2007&catid=71"">Apply for a Job</a></div><div id="mi20804" class="menuItem "><a href="/pview.aspx?id=20804&catid=71"">Contact the County</a></div><div id="mi2234" class="menuItem "><a href="/pview.aspx?id=2234&catid=71" target="_blank"">Pay for Traffic Violations</a></div><div id="mi2232" class="menuItem "><a href="/pview.aspx?id=2232&catid=71"">Sign Up for Email Notifications</a></div><div id="mi2388" class="menuItem "><a href="/pview.aspx?id=2388&catid=71" target="_blank"">Vote</a></div></div><div id="m2011" class="levelSub level2"><div id="mi20814" class="menuItem "><a href="/pview.aspx?id=20814&catid=0"">Fireworks Permits</a></div><div id="mi20825" class="menuItem "><a href="/pview.aspx?id=20825&catid=0" target="_blank"">Livestock Submission Form</a></div><div id="mi20809" class="menuItem "><a href="/pview.aspx?id=20809&catid=0" target="_blank"">Paging Complaints</a></div><div id="mi20808" class="menuItem "><a href="/pview.aspx?id=20808&catid=0" target="_blank"">Probation Check In</a></div><div id="mi2233" class="menuItem "><a href="/pview.aspx?id=2233&catid=0" target="_blank"">Road Access Policy Application(Driveway)</a></div><div id="mi20807" class="menuItem "><a href="/pview.aspx?id=20807&catid=0" target="_blank"">Security Check</a></div></div><div id="m2037" class="levelSub level3"><div id="mi2768" class="menuItem "><a href="/pview.aspx?id=2768&catid=0"">Corridor Medical Shuttle</a></div><div id="mi2769" class="menuItem "><a href="/pview.aspx?id=2769&catid=0"">Medicaid Non-Emergency Transportation</a></div></div><div id="m2062" class="levelSub level2"><div id="mi2067" class="menuItem "><a href="/pview.aspx?id=2067&catid=0"">Assessor</a></div><div id="mi2066" class="menuItem "><a href="/pview.aspx?id=2066&catid=0"">Attorney</a></div><div id="mi2078" class="menuItem menuChild"><a href="/pview.aspx?id=2078&catid=0"">Auditor</a></div><div id="mi2068" class="menuItem menuChild"><a href="/pview.aspx?id=2068&catid=0"">Board of Supervisors</a></div><div id="mi2077" class="menuItem menuChild"><a href="/pview.aspx?id=2077&catid=0"">Conservation Board</a></div><div id="mi2065" class="menuItem "><a href="/pview.aspx?id=2065&catid=0"">Emergency Management</a></div><div id="mi2153" class="menuItem "><a href="/pview.aspx?id=2153&catid=0"">Engineer</a></div><div id="mi2123" class="menuItem menuChild"><a href="/pview.aspx?id=2123&catid=0"">Environmental Health Services</a></div><div id="mi2247" class="menuItem "><a href="/pview.aspx?id=2247&catid=0"">IT/GIS</a></div><div id="mi20823" class="menuItem "><a href="/pview.aspx?id=20823&catid=0"">Northwest Iowa Care Connections- Social Services</a></div><div id="mi2079" class="menuItem "><a href="/pview.aspx?id=2079&catid=0"">Planning and Zoning</a></div><div id="mi2125" class="menuItem menuChild"><a href="/pview.aspx?id=2125&catid=0"">Public Health</a></div><div id="mi2120" class="menuItem "><a href="/pview.aspx?id=2120&catid=0"">Recorder</a></div><div id="mi2122" class="menuItem menuChild"><a href="/pview.aspx?id=2122&catid=0"">Sheriff's Office</a></div><div id="mi2121" class="menuItem "><a href="/pview.aspx?id=2121&catid=0"">Treasurer</a></div><div id="mi2124" class="menuItem "><a href="/pview.aspx?id=2124&catid=0"">Veteran Affairs</a></div><div id="mi2174" class="menuItem "><a href="/pview.aspx?id=2174&catid=0"">Worth County Recycling</a></div></div><div id="m2068" class="levelSub level3"><div id="mi2217" class="menuItem "><a href="/pview.aspx?id=2217&catid=0"">Agendas &amp; Minutes</a></div></div><div id="m2077" class="levelSub level3"><div id="mi2367" class="menuItem "><a href="/pview.aspx?id=2367&catid=0" target="_blank"">Agendas & Minutes</a></div></div><div id="m2078" class="levelSub level3"><div id="mi2223" class="menuItem "><a href="/pview.aspx?id=2223&catid=0"">Elections</a></div></div><div id="m2120" class="levelSub level3"><div id="mi20827" class="menuItem "><a href="/pview.aspx?id=20827&catid=0"">FAQs</a></div><div id="mi20826" class="menuItem "><a href="/pview.aspx?id=20826&catid=0"">Forms & Documents</a></div></div><div id="m2122" class="levelSub level3"><div id="mi2299" class="menuItem menuChild"><a href="/pview.aspx?id=2299&catid=0"">Civil</a></div><div id="mi2486" class="menuItem menuChild"><a href="/pview.aspx?id=2486&catid=0"">Frequently Asked Questions</a></div><div id="mi20811" class="menuItem "><a href="/pview.aspx?id=20811&catid=0" target="_blank"">Inmate Population</a></div><div id="mi20801" class="menuItem "><a href="/pview.aspx?id=20801&catid=0" target="_blank"">Press Releases</a></div><div id="mi2300" class="menuItem "><a href="/pview.aspx?id=2300&catid=0"">Probation</a></div><div id="mi2512" class="menuItem menuChild"><a href="/pview.aspx?id=2512&catid=0"">Staff</a></div><div id="mi2933" class="menuItem menuChild"><a href="/pview.aspx?id=2933&catid=0"">Worth County 911</a></div><div id="mi2292" class="menuItem "><a href="/pview.aspx?id=2292&catid=0"">Worth County Jail</a></div><div id="mi2294" class="menuItem "><a href="/pview.aspx?id=2294&catid=0"">Worth County Reserves</a></div></div><div id="m2123" class="levelSub level3"><div id="mi2662" class="menuItem "><a href="/pview.aspx?id=2662&catid=0"">Financial Incentives</a></div><div id="mi2176" class="menuItem "><a href="/pview.aspx?id=2176&catid=0"">Wells and Septic Systems</a></div></div><div id="m2125" class="levelSub level3"><div id="mi2190" class="menuItem "><a href="/pview.aspx?id=2190&catid=0"">Board of Health</a></div><div id="mi2203" class="menuItem menuChild"><a href="/pview.aspx?id=2203&catid=0"">Programs</a></div></div><div id="m2186" class="levelSub level2"><div id="mi2877" class="menuItem "><a href="/pview.aspx?id=2877&catid=0"">Commission of Veteran Affairs</a></div><div id="mi2202" class="menuItem "><a href="/pview.aspx?id=2202&catid=0"">Conservation Board</a></div><div id="mi20822" class="menuItem "><a href="/pview.aspx?id=20822&catid=0" target="_blank"">Directory of Boards and Commissions</a></div><div id="mi2187" class="menuItem "><a href="/pview.aspx?id=2187&catid=0"">Worth County Board of Health</a></div></div><div id="m2203" class="levelSub level4"><div id="mi2714" class="menuItem "><a href="/pview.aspx?id=2714&catid=0"">Assessments &amp; Blood Pressures</a></div><div id="mi2689" class="menuItem "><a href="/pview.aspx?id=2689&catid=0"">CPR certification</a></div><div id="mi2707" class="menuItem "><a href="/pview.aspx?id=2707&catid=0"">Emergency Preparedness and Response</a></div><div id="mi2691" class="menuItem "><a href="/pview.aspx?id=2691&catid=0"">Immunization Program</a></div><div id="mi2693" class="menuItem "><a href="/pview.aspx?id=2693&catid=0"">Nail Care Clinics</a></div><div id="mi2697" class="menuItem "><a href="/pview.aspx?id=2697&catid=0"">Nurse and CNA's in your home</a></div><div id="mi2703" class="menuItem "><a href="/pview.aspx?id=2703&catid=0"">Program(s) Available For Residents of Worth County</a></div><div id="mi2700" class="menuItem menuChild"><a href="/pview.aspx?id=2700&catid=0"">Substance Prevention Programming</a></div><div id="mi2695" class="menuItem "><a href="/pview.aspx?id=2695&catid=0"">Worth County Transit Service</a></div></div><div id="m2239" class="levelSub level2"><div id="mi20828" class="menuItem "><a href="/pview.aspx?id=20828&catid=0"">Agendas & Minutes</a></div><div id="mi20829" class="menuItem "><a href="/pview.aspx?id=20829&catid=0"">County Directory</a></div><div id="mi2240" class="menuItem "><a href="/pview.aspx?id=2240&catid=0"">Forms and Documents</a></div><div id="mi2242" class="menuItem "><a href="/pview.aspx?id=2242&catid=0" target="_blank"">Property Assessments</a></div><div id="mi2241" class="menuItem "><a href="/pview.aspx?id=2241&catid=0" target="_blank"">Worth County GIS</a></div></div><div id="m2486" class="levelSub level4"><div id="mi2491" class="menuItem menuChild"><a href="/pview.aspx?id=2491&catid=0"">Civil</a></div><div id="mi20812" class="menuItem "><a href="/pview.aspx?id=20812&catid=0" target="_blank"">Iowa Permit to Carry Weapons FAQ</a></div><div id="mi2492" class="menuItem menuChild"><a href="/pview.aspx?id=2492&catid=0"">Jail</a></div></div><div id="m2491" class="levelSub level5"><div id="mi2508" class="menuItem "><a href="/pview.aspx?id=2508&catid=0"">How To Evict Someone?</a></div><div id="mi2501" class="menuItem "><a href="/pview.aspx?id=2501&catid=0"">How To Get A No-Contact Order?</a></div><div id="mi2499" class="menuItem "><a href="/pview.aspx?id=2499&catid=0"">How To Have Someone Committed?</a></div><div id="mi2502" class="menuItem "><a href="/pview.aspx?id=2502&catid=0"">Sheriff's Sale Information</a></div><div id="mi20813" class="menuItem "><a href="/pview.aspx?id=20813&catid=0" target="_blank"">Weapons Permit Information</a></div></div><div id="m2492" class="levelSub level5"><div id="mi2595" class="menuItem "><a href="/pview.aspx?id=2595&catid=0"">Can I Call Or Leave A Message For An Inmate</a></div><div id="mi2527" class="menuItem "><a href="/pview.aspx?id=2527&catid=0"">Get An Inmate Out Of Jail</a></div><div id="mi2525" class="menuItem "><a href="/pview.aspx?id=2525&catid=0"">Get Inmate Property Released</a></div><div id="mi2523" class="menuItem "><a href="/pview.aspx?id=2523&catid=0"">Inmate Mailing Address</a></div><div id="mi2528" class="menuItem "><a href="/pview.aspx?id=2528&catid=0"">Pay Room And Board</a></div><div id="mi2524" class="menuItem "><a href="/pview.aspx?id=2524&catid=0"">Send An Inmate Money</a></div><div id="mi2526" class="menuItem "><a href="/pview.aspx?id=2526&catid=0"">Visit An Inmate</a></div></div><div id="m2512" class="levelSub level4"><div id="mi20819" class="menuItem "><a href="/pview.aspx?id=20819&catid=0"">Deputies</a></div><div id="mi20817" class="menuItem "><a href="/pview.aspx?id=20817&catid=0"">Dispatchers</a></div><div id="mi20818" class="menuItem "><a href="/pview.aspx?id=20818&catid=0"">Jailers</a></div></div><div id="m2700" class="levelSub level5"><div id="mi2741" class="menuItem "><a href="/pview.aspx?id=2741&catid=0"">Worth County Ordinances Related To Substance Use</a></div></div><div id="m2933" class="levelSub level4"><div id="mi2937" class="menuItem "><a href="/pview.aspx?id=2937&catid=0"">911 Service Board</a></div><div id="mi2936" class="menuItem "><a href="/pview.aspx?id=2936&catid=0"">911 Text Tips</a></div><div id="mi20824" class="menuItem "><a href="/pview.aspx?id=20824&catid=0"">What Happens When You Call 911</a></div></div><div id="m20798" class="levelSub level2"><div id="mi20797" class="menuItem "><a href="/pview.aspx?id=20797&catid=0"">Drainage Assessments</a></div></div><div id="m20830" class="levelSub level2"><div id="mi2040" class="menuItem "><a href="/pview.aspx?id=2040&catid=0"">Libraries</a></div><div id="mi2039" class="menuItem "><a href="/pview.aspx?id=2039&catid=0"">Manna</a></div><div id="mi1932" class="menuItem "><a href="/pview.aspx?id=1932&catid=0"">Meals on Wheels</a></div><div id="mi2035" class="menuItem "><a href="/pview.aspx?id=2035&catid=0"">Schools</a></div><div id="mi2041" class="menuItem "><a href="/pview.aspx?id=2041&catid=0"">Share Shop</a></div><div id="mi2037" class="menuItem menuChild"><a href="/pview.aspx?id=2037&catid=0"">Transit Bus</a></div><div id="mi2142" class="menuItem "><a href="/pview.aspx?id=2142&catid=0" target="_blank"">Worth County Extension</a></div></div><div class="bigMenuCon" id="bm25"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2063&catid=25">Agendas and Minutes</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2186&catid=25">Boards and Commissions</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2877&catid=25">Commission of Veteran Affairs</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2202&catid=25">Conservation Board</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20822&catid=25" target="blank">Directory of Boards and Commissions</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2187&catid=25">Worth County Board of Health</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2061&catid=25">Clerk of Court</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2062&catid=25">Departments</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2067&catid=25">Assessor</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2066&catid=25">Attorney</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2078&catid=25">Auditor</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2062&catid=25">Departments <span class="megaparent">(Cont'd)</span></a></div>
-<div class="megachild"><a href="/pview.aspx?id=2068&catid=25">Board of Supervisors</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2077&catid=25">Conservation Board</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2065&catid=25">Emergency Management</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2153&catid=25">Engineer</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2123&catid=25">Environmental Health Services</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2247&catid=25">IT/GIS</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20823&catid=25">Northwest Iowa Care Connections- Social Services</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2079&catid=25">Planning and Zoning</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2125&catid=25">Public Health</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2120&catid=25">Recorder</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2062&catid=25">Departments <span class="megaparent">(Cont'd)</span></a></div>
-<div class="megachild"><a href="/pview.aspx?id=2122&catid=25">Sheriff's Office</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2121&catid=25">Treasurer</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2124&catid=25">Veteran Affairs</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2174&catid=25">Worth County Recycling</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2149&catid=25" target="blank">Economic Developement</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2064&catid=25">Meetings & Events</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2255&catid=25">Online Web Services</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2110&catid=25">Staff Directory</a></div>
-</div></div></div><div class="bigMenuCon" id="bm26"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2026&catid=26">E-news Sign Up</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2149&catid=26" target="blank">Economic Developement</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2148&catid=26" target="blank">Northwood Chamber of Commerce</a></div>
-</div><div class="menuCol"></div></div></div><div class="bigMenuCon" id="bm29"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=20830&catid=29">Services</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2040&catid=29">Libraries</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2039&catid=29">Manna</a></div>
-<div class="megachild"><a href="/pview.aspx?id=1932&catid=29">Meals on Wheels</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2035&catid=29">Schools</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2041&catid=29">Share Shop</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2037&catid=29">Transit Bus</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2142&catid=29" target="blank">Worth County Extension</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=1923&catid=29">Entertainment &amp; Attractions</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2328&catid=29">County Attractions</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2135&catid=29">County Parks</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2138&catid=29" target="blank">Diamond Jo Casino</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2030&catid=29">Hotels</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2136&catid=29">Museums</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2042&catid=29">Theatre</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=1923&catid=29">Entertainment &amp; Attractions <span class="megaparent">(Cont'd)</span></a></div>
-<div class="megachild"><a href="/pview.aspx?id=2028&catid=29">Visitor Maps</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2036&catid=29">Water Parks</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2391&catid=29" target="blank">Worth County Fair</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2137&catid=29">Local Weather</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2060&catid=29">Municipalities</a></div>
-</div></div></div><div class="bigMenuCon" id="bm71"><div class="bigMenuConIn"><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2011&catid=71">Fill Out</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20814&catid=71">Fireworks Permits</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20825&catid=71" target="blank">Livestock Submission Form</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20809&catid=71" target="blank">Paging Complaints</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20808&catid=71" target="blank">Probation Check In</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2233&catid=71" target="blank">Road Access Policy Application(Driveway)</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20807&catid=71" target="blank">Security Check</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2239&catid=71">View</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20828&catid=71">Agendas & Minutes</a></div>
-<div class="megachild"><a href="/pview.aspx?id=20829&catid=71">County Directory</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2240&catid=71">Forms and Documents</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2242&catid=71" target="blank">Property Assessments</a></div>
-<div class="megachild"><a href="/pview.aspx?id=2241&catid=71" target="blank">Worth County GIS</a></div>
-</div><div class="menuCol"><div class="megaparent"><a href="/pview.aspx?id=2007&catid=71">Apply for a Job</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=20804&catid=71">Contact the County</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2234&catid=71" target="blank">Pay for Traffic Violations</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2232&catid=71">Sign Up for Email Notifications</a></div>
-<div class="megaparent"><a href="/pview.aspx?id=2388&catid=71" target="blank">Vote</a></div>
-</div></div></div><div class="eAlert"><div class="alertBG"><div class="eAlertIn"><a href="/emergency.aspx"><b>Most Worth County Offices will be open to the public starting June 8th, 2020 from 8 AM to 4 PM: </b>Most Worth County Offices will be open to the public starting on June 8th, 2020.</a></div></div></div>
-      
-           <div class="mobileHeader" style="margin-top: 5px;">
-           
-            <div class="mobileMenu">
-             <i class="material-icons">menu</i>            
-        </div>
-              
-            <div class="mobileSiteName"><a href="default.aspx">Worth County IA</a></div>
-
-               
-        </div>
-
-        <header class="container-fluid bgTop">
-           
-        <div class="row">
-            <div class="col-lg-3 Logo"><a href="/default.aspx"><img src="common/images/header.png" alt="Return to Home Page"  class="img-fluid" /></a></div>
-            <nav class="col-lg-6 mainMenu" aria-label="Main Menu"><div style="width:0%;" class="catMenu" id="t-1" tid="570"><a href="/default.aspx">Home</a></div><div style="width:25%;" class="catMenu catMenu2" id="t445" tid="25"><a href="/pview.aspx?id=445&catid=25">My Government</a></div><div style="width:25%;" class="catMenu catMenu3" id="t646" tid="26"><a href="/pview.aspx?id=646&catid=26">Business</a></div><div style="width:25%;" class="catMenu catMenu4" id="t449" tid="29"><a href="/pview.aspx?id=449&catid=29">About Worth County</a></div><div style="width:25%;" class="catMenu catMenu5" id="t2006" tid="71"><a href="/pview.aspx?id=2006&catid=71">I Want To...</a></div></nav>
-            <div class="col-lg-3 topSearch">
-                 
-                       
-                    <div class="searchingBox" role="search" aria-label="Site Search">
-                        
-                            <input name="ctl00$txtSearch" type="text" id="txtSearch" class="searchText" aria-label="Search" placeholder="I want to..." /> 
-                        
-                        <div class="searchGo" style="height: 40px;">
-                           <input type="image" name="ctl00$imgSearch" id="ctl00_imgSearch" src="common/images/go.png" alt="Search Site" border="0" style="height: 30px;" /> </div>
-                    </div>
-                
-            </div>
-            </div></header>
- <div class="container">
-       
-        <span class="adminLinks"></span>
-      
-        
-
-
-
-
-
-
-
-      
-<div class="row secondHolder bg-white">
-      
-    <nav class="order-last order-lg-first secondOne" aria-label="Side Menu" style="position: inherit;">
-    
-       
-      
-          <div class="sideItem"><a href="/calendar.aspx">Calendar & Events</a></div><div class="sideItem"><a href="/agenda.aspx?id=2063&catid=25">Agendas & Minutes</a></div><div class="sideItem"><a href="/pView.aspx?id=2062&catid=25">Departments</a></div><div class="sideItem"><a href="/notify.aspx">E-News Signup</a></div>
-
-         
-
-<div class="sideMenuUnder">&nbsp;</div>
-
-    </nav>
-
-    <div class="order-first order-lg-last secondTwo">
-
-            <div class="breadCon">
-                <div class="breadCrumb"><nav aria-label="Breadcrumb"><a href="/default.aspx">Home</a> > 
-                    
-                       
-
-                    
-                    </nav>
-                <div class="pageFunction" > 
-                    
-                 
-                      <div id="ctl00_rShare" class="RadSocialShare RadSocialShare_Default">
-	<!-- 2020.2.617.45 --><ul class="sshContent">
-		<li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Share on Facebook"><span class="sshIcon sshShareOnFacebook "></span></a></li><li class="sshListItem"><a class="sshLinkItem" href="javascript:void(0)" title="Tweet this"><span class="sshIcon sshShareOnTwitter "></span></a></li>
-	</ul><input id="ctl00_rShare_ClientState" name="ctl00_rShare_ClientState" type="hidden" />
-</div>
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Access denied | worthcountyiowa.gov used Cloudflare to restrict access</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="p-0">
+      <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">
+         <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">
+           <span data-translate="error">Error</span>
+           <span>1008</span>
+         </h1>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 5d15fdf9b963e22a &bull;</span>
+         <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2020-09-12 01:52:57 UTC</span>
+        <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">Access denied</h2>
+      </header>
+
+      <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+          <div id="what-happened-section" class="w-1/2 md:w-full">
+            <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>
+            <p>The owner of this website (worthcountyiowa.gov) has banned your IP address (13.89.223.112).</p>
             
-                     
-      
-        </div>
-            </div></div>
-
-    
-
-  
-        <a ID="maincontent"></a>
-            
-  
-  
-<div class="pageTitleCon">
-    <div class="pageTitle"><h1>
-    <span id="ctl00_cpContent_lblTitle">Page is not found</span></h1></div>
-
-</div>
-<div class="pageTitleUnder"></div>
-
-<div id="contF">
-
-
-     The page you are looking for could not be found. Please use the search tool or  <a href="/forms.aspx?fid=92">contact us</a>&nbsp;if you need assistance.<br />
-<br />
-<br />
-<br />
-<br /> 
-
-
-             <div class="bigSearch" style="max-width:700px; margin:auto;">
-                     <input name="ctl00$cpContent$txtSearch" type="text" id="ctl00_cpContent_txtSearch" class="form-control" title="Search this website" placeholder="Search by Keyword" />
-                      <div class="searchGo" style="height: 40px;"><input type="image" name="ctl00$cpContent$cmdSearch" id="ctl00_cpContent_cmdSearch" src="common/images/go.png" alt="Search Now" src="" border="0" style="border-width:0px;height: 30px;" /></div>
-                 </div>
-         <br /><br /><br /><br /><br /><br />
-
-<div class="modClear">&nbsp;</div>    
-    
-
-</div>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-
-
-        
-
-
-      
-
-
-    
-    </div>   </div>
-    </div>
-           <br />
-
-
-<footer>
- <div class="container-fluid footerBG footerLinks">
-          <div class="row pt-3">
-            <div class="col-xs-12 col-md-12 col-lg-6 text-center pb-4 social"><a href="/default.aspx"><img src="/common/images/footerlogo.png" style="max-width:100%;" alt="Return to home page" /></a>
-                <br /><br />
-               <a href="/notify.aspx"><img src="/common/images/3enews.png" alt="Get email notifications" style="border: 0;"></a>&nbsp;<a href="/rss.aspx"><img src="/common/images/3rss.png" alt="Get our RSS Feeds" style="border: 0;"></a>&nbsp;
-            </div>
-            <div class="col-xs-12 col-sm-6 col-lg-3 pb-4 contactLinks">
-
-                <h2>Contact Us</h2>
-                <div >Worth County Iowa</div><div>1000 Central Ave <br><span class="mobileDiv">Northwood<span class="mobileHide"></span> IA 50459</span></div><br /><span class="mobileDiv">Phone: 641-324-2316<br /></span>
-                
-                
-                
-                
-
-            </div>
-            <nav class="col-xs-12 col-sm-6 col-lg-3  pb-4 quickLinks"  aria-label="Quick Links"><h2>Quick Links</h2>
-                <a href="/default.aspx">Home</a> <br />
-                <a href="/forms.aspx?fid=92&catid=71">Contact the County</a><br />
-                <a href="/staff.aspx">Staff Directory</a><br />
-                <a href="/termsofuse.aspx"> Accessibility</a><br />
-                <a href="/sitemap.aspx">Site Map</a><br /></nav>
-
-        </div>
-     
-     <div class="row pt-3">
-        <div class="col-12 text-center WorthTagLine">Life &nbsp; Worth &nbsp; Living</div>
-    </div>
-
-         
-         
-
-  
-               
-   
-                </div>
-
-
-
-
-               
-
-    
-           
-       
-   
-      
-              
-
-     
-
-   
+          </div>
 
           
-              
-    <div style="display: none ;">
-         
-       
-         <span id="ctl00_lblParentID">0</span>
-        <input name="ctl00$txtBox" type="text" id="txtBox" aria-label="Please ignore" />
-          
-        </div> 
+      </section>
 
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">5d15fdf9b963e22a</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 13.89.223.112</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
     
-    
+  </p>
+</div><!-- /.error-footer -->
 
 
-   
-            <div id="galleryCon">
-
-        </div>
-        <div class="bgGray">&nbsp;</div>
-        <div class="container-fluid signature text-center p-2">
-            
-                Government Websites by <a href="http://www.municipalcms.com" target="_blank" title="Municipal CMS - Industry Leading Tools for Government Websites">MunicipalCMS</a>
-</div></footer>
-        
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSocialShare, {"_addFbScript":false,"_addGoogleScript":false,"_addLinkedInScript":false,"_addPinterestScript":false,"_addTwitterScript":false,"_addYammerScript":false,"_locale":"en_US","_uniqueId":"ctl00$rShare","clientStateFieldID":"ctl00_rShare_ClientState","mainButtons":"[['ShareOnFacebook','','', '470', '470', '', ''],['ShareOnTwitter','','', '470', '470', '', '']]"}, null, null, $get("ctl00_rShare"));
-});
-//]]>
-</script>
-</form>
-
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
 
   <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-11324500-45']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
+  window._cf_translation = {};
+  
+  
 </script>
-
-
 
 </body>
 </html>
-
-
-
-    
