@@ -1,7 +1,16 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /opportunities/calendar/action~posterboard/
+Disallow: /opportunities/calendar/action~agenda/
+Disallow: /opportunities/calendar/action~oneday/
+Disallow: /opportunities/calendar/action~month/
+Disallow: /opportunities/calendar/action~week/
+Disallow: /opportunities/calendar/action~stream/
+Disallow: /opportunities/calendar/action~undefined/
+Disallow: /opportunities/calendar/action~http:/
+Disallow: /opportunities/calendar/action~default/
+Disallow: /opportunities/calendar/action~poster/
+Disallow: /opportunities/calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

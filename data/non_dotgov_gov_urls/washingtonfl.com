@@ -101,7 +101,7 @@
             <button class="menu-icon" type="button" data-toggle></button>
             <div class="title-bar-title menu-left mtxt">MENU</div>
               <div class="title-bar-title float-right nav-social-ico">
-                <span class="scdate-small">September 11th, 2020 &nbsp;&nbsp;</span>
+                <span class="scdate-small">September 12th, 2020 &nbsp;&nbsp;</span>
               </div>
           </div>
     </div> 
@@ -110,7 +110,7 @@
      
       <div class="hide-for-small show-for-custom top-bar-right title-bar">          
           <div class="hide-for-small show-for-custom title-bar-title nav-social-ico">
-             <span class="scdate">September 11th, 2020 &nbsp;&nbsp;</span>          </div>      
+             <span class="scdate">September 12th, 2020 &nbsp;&nbsp;</span>          </div>      
       </div>
    
 

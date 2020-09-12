@@ -178,7 +178,7 @@
             </section>
 
             <section class="contact-info">
-                Please forward this error screen to castlerocktownship.com's <a href="mailto:webmaster@castlerocktownship.com?subject=Error message [404] (none) for castlerocktownship.com/robots.txt port 443 on Friday, 11-Sep-2020 19:50:27 PDT"> WebMaster</a>.
+                Please forward this error screen to castlerocktownship.com's <a href="mailto:webmaster@castlerocktownship.com?subject=Error message [404] (none) for castlerocktownship.com/robots.txt port 443 on Saturday, 12-Sep-2020 07:20:54 PDT"> WebMaster</a>.
             </section>
 
             <p class="reason-text">The server cannot find the requested page:</p>

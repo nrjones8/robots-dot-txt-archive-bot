@@ -1,37 +1,11 @@
-# If the Joomla site is installed within a folder
-# eg www.example.com/joomla/ then the robots.txt file
-# MUST be moved to the site root
-# eg www.example.com/robots.txt
-# AND the joomla folder name MUST be prefixed to all of the
-# paths.
-# eg the Disallow rule for the /administrator/ folder MUST
-# be changed to read
-# Disallow: /joomla/administrator/
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/orig.html
-#
-# For syntax checking, see:
-# http://tool.motoricerca.info/robots-checker.phtml
 
-User-agent: *
-Allow: /*.js*
-Allow: /*.css*
-Allow: /*.png*
-Allow: /*.jpg*
-Allow: /*.gif*
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr" class="uk-height-1-1 tm-error">
 
-Disallow: /administrator/
-Disallow: /bin/
-Disallow: /cache/
-Disallow: /cli/
-
-Disallow: /includes/
-Disallow: /installation/
-Disallow: /language/
-Disallow: /layouts/
-Disallow: /libraries/
-Disallow: /logs/
-
-
-Disallow: /tmp/
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 - Page not found</title>
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_avenue/apple_touch_icon.png">
+Error

@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Dv1fCnRIDVYlufsTq7LWu24A4BvYOkTPXBg8ym7sCyQ_EfyWR_9nzpFVRhfedtGn57L6qGR0JtVWbEaOSsyvBE8jz-w1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"7w0L8xnwBUWChPTNLuegNSpqQD1A0GSU_if6ByEkA9w4S2o3KXAYl0rP9kIZ17h0YY9Mkm6r8_xeUy_f3QWs9fU-kKg1\" />");
 						}
 					}
 				}, false);
@@ -1218,8 +1218,8 @@
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshowe0a82ebe7d18490fa5c404af97a47d15 = new Slideshow();
-slideshowe0a82ebe7d18490fa5c404af97a47d15.generate('10477','1','10', false,false);
+		    var slideshowdd93499825494edea72ea6e6928e1c00 = new Slideshow();
+slideshowdd93499825494edea72ea6e6928e1c00.generate('10477','1','10', false,false);
 
 
 		});
@@ -1764,10 +1764,10 @@ S
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=10&amp;CID=26,14,24,23,31'>10</a>
 </td>
-<td class="today">
+<td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=11&amp;CID=26,14,24,23,31'>11</a>
 </td>
-<td>
+<td class="today">
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=26,14,24,23,31'>12</a>
 </td>
 </tr>
@@ -1893,9 +1893,9 @@ S
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Sep. 11  </h4>
+			<h4 class="widgetTitle">Mon Sep. 14  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5763">9/11 Memorial Event</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5736">Tote-and-Go Services | Mondays</a></strong>
 
 		</div>
 				</li>
@@ -1903,22 +1903,6 @@ S
 				</div>
 				<div class="col col1  last">
 					<ol class="semanticList">
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Sep. 14  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5736">Tote-and-Go Services | Mondays</a></strong>
-
-		</div>
-				</li>
 
 
 
@@ -1948,6 +1932,22 @@ S
 			<h4 class="widgetTitle">Wed Sep. 16  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=5641">Mola Folk Art From Panama</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Thu Sep. 17  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=5754">MAC Doodles | 1st and 3rd Thursdays | Virtual Event</a></strong>
 
 		</div>
 				</li>
@@ -2717,7 +2717,7 @@ function googleTranslateElementInit() {
 							{"BannerOptionID":55,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":false,"ImageAlignment":2,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":72,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=3661","Height":594,"Width":1600,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":73,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=3662","Height":594,"Width":1600,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":74,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=3664","Height":594,"Width":1600,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":75,"BannerOptionID":55,"FileName":"/ImageRepository/Document?documentID=3663","Height":594,"Width":1600,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
 							'/App_Themes/Home/Images/',
 							'Rotating',
-							'2');
+							'3');
 					}, "load");
 			</script>
 

@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"-vWjLDxVyC-sb_kw1bcefNwju36LHLbgZC-HJXbbOf9M8KZVtDqFEcgtiMe0KEN_zJ8GDSwAC1Ge_CTZFnSj2b1TjHw1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"z9jxFK-rrf6bI_NnriOirAAUV_L1cMLUqLoi4I7ytCj23DFa4C_Es8q3lFxnWRa_L3q_7snAKZjCdyTrplo8iMOr_2Y1\" />");
 						}
 					}
 				}, false);
@@ -1691,16 +1691,6 @@ Click through to learn more and register today!				<a id="newsFlashReadOn431" hr
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="24">
-								<a href="/CivicAlerts.aspx?AID=427"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3543" alt="Election Results (1)" data-delayed-image=""/></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader427" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=427">Unofficial Results - 2020 Vermont State Primary Election </a></h4>
-	<div class="widgetDesc">
-				<a id="newsFlashReadOn427" href="/CivicAlerts.aspx?AID=427" class="readOn" aria-labelledby="newsFlashItemHeader427 newsFlashReadOn427">Read on...</a>            
-	</div>
-
-						</div>
-					</li>
 
 		</ol>
 	</div>
@@ -2201,7 +2191,7 @@ window.__lo_site_id = 202848;
 									{"BannerOptionID":52,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":"5","SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":false,"ImageAlignment":2,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":94,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=370","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":88,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=373","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":107,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=638","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":93,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=367","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
 								'/App_Themes/Home/Images/',
 								'Rotating',
-								'1');
+								'3');
 						});
 				}, "load");				
 			</script>

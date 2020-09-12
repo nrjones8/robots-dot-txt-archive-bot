@@ -1,3 +1,11 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /

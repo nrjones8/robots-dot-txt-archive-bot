@@ -1985,15 +1985,15 @@ jQuery(document).ready(function()
 Civica_MediaCharmBar.init({ mmID: 182, mediaDispType: 'img', count: 8 }).create('#dynamic-charms');
 TextSizeToggle();
 civicaWeatherWidget.init('38.014150', '-122.135150')
-$.get('/civica/DynaCon/sb/inc/refreshmenus.asp?t=-3155763240', function(data){if(data!=''){alert(data);}});
+$.get('/civica/DynaCon/sb/inc/refreshmenus.asp?t=-3155807820', function(data){if(data!=''){alert(data);}});
 BackgroundImages(180, 0, 1, '', 500, '#home-background')
-initCal('9%2F11%2F2020', '-1', '/cals/default.asp', '3');
+initCal('9%2F12%2F2020', '-1', '/cals/default.asp', '3');
 mm_OwlIconTry(178, '#icons-wrap', '15' ,  '', true, 234);
 BackToTop();
 $('a.email_replace').nospam({replaceText: false, filterLevel: 'normal'});
 Civica_MediaButtonGen.init({  mmID: 7, wrapClass: '', mediaDispType: 'img', showText: 0, bShow: false }).create('#dynamic-social-btns');
 });
 </script>
-<form style="display:inline; margin:0px;" class="calendar3b_form" action='/cals/' method=POST><input type="hidden" name=calDate value='9/11/2020'><input type="hidden" name=ViewBy value='0'></form>
+<form style="display:inline; margin:0px;" class="calendar3b_form" action='/cals/' method=POST><input type="hidden" name=calDate value='9/12/2020'><input type="hidden" name=ViewBy value='0'></form>
 </body>
 </html>

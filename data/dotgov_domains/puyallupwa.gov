@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"APVXTuStItwn1nOqLePpVOp0PaBnU0D6NqJsVN7hCvz3NPm-KPplYx88qVyNkDFZtQyPbbmtCjjqYIIsLgJaYWM06G41\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"pv0JQydaCZCwADUXzb-DCIMoknF-DOK4tcbUAd4P8O9MH8Vd694Yk3tHKbcFhAtplBwbLqkxoT66VxDHQNAyNosZ73E1\" />");
 						}
 					}
 				}, false);
@@ -1153,10 +1153,10 @@ Sat
 <td>
 <span>10</span>
 </td>
-<td class="today">
+<td>
 <span>11</span>
 </td>
-<td>
+<td class="today">
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>12</a>
 </td>
 </tr>

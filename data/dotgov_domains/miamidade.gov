@@ -1,88 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Web Error - Miami-Dade County</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>404 - File or directory not found.</title>
 <style type="text/css">
 <!--
-
-html{
-	color:#00CCFF;
-	background-image:url(http://www.miamidade.gov/images/backgrounds.jpg); 
-	/* background-image:url(404-revised2.jpg);*/
-	background-repeat:no-repeat;
-}
-
-li {
-	
-	margin-top:9px;
-
-	
-	
-}
-
-
-#dContainer {
-	width:397px;
-	margin-top:325px;
-	margin-left:231px;
-
-	
-}
-
-.bullet {
-	color: #F79E03;
-	list-style-type: square;
-}
-.text {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #666666;
-}
-.text a:link{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #007AC3;
-}
-.text a:visited{
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #007AC3;
-}
-.heading {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight: bold;
-	color:#666;
-}
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 -->
 </style>
 </head>
-
 <body>
-
-<div id="dContainer">
-
-<p class="heading">Please try one of the following:</p>
-<ul style="margin-top:28px;">
-  <li class="bullet"><span class="text">	If you typed the page address directly into the address bar,<br>
-was it spelled correctly? </span>
-    </li>
-  <li class="bullet"><span class="text">	<strong>Go to</strong> our <a href="http://www.miamidade.gov">Portal </a>home page </span><br>
-  </li>
-  <li class="bullet"><span class="text"><strong>Visit</strong> our <a href="https://www.miamidade.gov/global/navigation/service-index.page">Service Directory</a></span><br>
-  </li>
-  <li class="bullet"><span class="text"><strong>Visit </strong>our <a href="https://www.miamidade.gov/global/navigation/agency-directory.page">Agency Directory</a></span></li>
-  <li class="bullet"><span class="text"><strong>Use</strong> our <a href="https://www.miamidade.gov/global/navigation/global-search.page">Search</a></span><a href="https://www.miamidade.gov/global/navigation/global-search.page"><img src="http://www.miamidade.gov/images/err-go.gif" width="33" height="26" border="0" align="absmiddle" alt="Click here to search"></a><br>
-    <br>
-    <span class="text">We welcome feedback or suggestions about our web site. <a href="https://www.miamidade.gov/global/311.page">Contact Us</a>
-      </span><br>
-  </li>
-</ul>
-<!--<hr style="size:1px">-->
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>404 - File or directory not found.</h2>
+  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
+ </fieldset></div>
 </div>
-
-<p class="text"><img style="margin-left:506px;"src="http://www.miamidade.gov/images/err-logo.gif" width="90" height="55" alt="Miami-Dade Logo"></p>
 </body>
 </html>
