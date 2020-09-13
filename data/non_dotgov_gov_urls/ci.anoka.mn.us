@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"rzoFBYJInG4d5V52lYrVVlSGxouiG9c9YNHxrN0H9gNZUQevnQu2rPIc_irVh-gtJJ1LFKT5xJWr-0mkcrQfwSYARzw1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"eSRMXLzL4FeKd7Si83HgNs3R51xniTDu1VKuNmEXXUOnRG_0CRfOiYIx75o3QfqwsGlnmR1jORzOdwziKatG-kcWZK41\" />");
 						}
 					}
 				}, false);
@@ -1967,11 +1967,11 @@ Sat
 <td>
 <span>11</span>
 </td>
-<td class="today">
+<td>
 <span>12</span>
 </td>
 </tr>
-<tr><td>
+<tr><td class="today">
 <span>13</span>
 </td>
 <td>
@@ -2246,11 +2246,11 @@ Sat
 <td>
 <span>11</span>
 </td>
-<td class="today">
+<td>
 <span>12</span>
 </td>
 </tr>
-<tr><td>
+<tr><td class="today">
 <span>13</span>
 </td>
 <td>

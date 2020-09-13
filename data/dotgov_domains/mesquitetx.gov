@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Q2D1Nlvjsx4zSap_4z5ICHJ50sWD8fRGLiT4tuEU4a5orj0FXTONw_E-St0gxj_lC4ICWfYs2QGKb4CmNZMUt8I9_3o1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"L2Vfn12-4VL8uSsYQZm_kpTANPa2r5Q4F7iHaawv2jz1v4qBhCGtLIkEjNiXGA6GtSQD5uFyu38nFq2DVMPgF8dnhnA1\" />");
 						}
 					}
 				}, false);
@@ -74,7 +74,9 @@
 		}());
 	</script>
 	
-	
+	<meta name="apple-itunes-app" content="app-id=1070578741" />
+<link rel="manifest" href="/manifest/client">
+
 	<meta name="theme-color" content="#04442a">
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
@@ -1218,8 +1220,8 @@
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshow8ac2289f574a4c1e87693ff9b69f479e = new Slideshow();
-slideshow8ac2289f574a4c1e87693ff9b69f479e.generate('10477','1','10', false,false);
+		    var slideshowe1df36ba1e59479eab995117893a7f81 = new Slideshow();
+slideshowe1df36ba1e59479eab995117893a7f81.generate('10477','1','10', false,false);
 
 
 		});
@@ -1767,11 +1769,11 @@ S
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=11&amp;CID=26,14,24,23,31'>11</a>
 </td>
-<td class="today">
+<td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=26,14,24,23,31'>12</a>
 </td>
 </tr>
-<tr><td>
+<tr><td class="today">
 <a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=13&amp;CID=26,14,24,23,31'>13</a>
 </td>
 <td>

@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Jx7_YDrX1vOfky6iJfpF4oSmnTMlBfxvbixQ0aU0TqrqfRU13jOBImoySJ0-5i_s8zUQ7-BMrRkCQR2PHb4JUnf72Rs1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"XhmvN80qVnmDZI64uaGIuiuRHv7GTq0WxBzlZoS69S4iVds8mIPtCxsmJd1FPqAnB18tUxBPsBgaQgFsSZSfwJXWufk1\" />");
 						}
 					}
 				}, false);
@@ -1156,11 +1156,11 @@ Sat
 <td>
 <span>11</span>
 </td>
-<td class="today">
+<td>
 <span>12</span>
 </td>
 </tr>
-<tr><td>
+<tr><td class="today">
 <span>13</span>
 </td>
 <td>
