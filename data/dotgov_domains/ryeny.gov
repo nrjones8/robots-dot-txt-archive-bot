@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Rye, NY', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Rye, NY","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6ImFwTFhwNmNhaWxvRHdKZHF1bGZldHc9PSJ9.ZT1cXx0JSd06jc2U-t3NgWI27q2Voh78E-yhphr_wW30xnEpYYaJXJk4c5VTJhthQZzfx22rLL0Yobb3ia7flvTuj969m7QK.5loQwpsf_VqfKdShxNPhrA.632I4-bzIw0PUnNKUpLJuJ6X1c58LRwNWobMAe898QpM26-EaCZLQmdea-4Cqhj3Xik2qDOfN7b0b4JLvS-95cs9mq8y0LIMA5A9edj5aZlv2ST4WA5OOt87lA2V6ezWh2n5re9ucnkZFDyFMqw6wgaBa5vd-VFSdtzyqwkekyL5KNZCxEFAHnnKWNkDGUQ7Jzt-6nKNhDJEZwTSpsEYZZb_89dTxjHrO-y3JeG0W3o.5A8vwdPX87O-6cO7UtsD2AsfIMbLeNvJuM717lekbkw";(function(window){window.cmsCoreConfig={}; (function(config){ ; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ ; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Rye, NY', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Rye, NY","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6ImViaHV5RG1EcnZtMnA0UEtOVHA3SFE9PSJ9.n5C1HkTAMlK5-NRqplYFZF184iOmB2_hswzK5Gza7JqB5iQHNGh7kdhP0qTIpgiJiHVO0Z8BorIw9ne7PKa6W9N2ZQlHc7e0.Nk6pWFPAq58jWiDH3X2svQ.93EDwqxK10oGL8MDpdRrCK7jImB5KVSx7x3Cln2irPffaDrc_RxK0ysfMK1GZtWIU9tSdGG2Ku4ArstLoBjs5r-7zGF-EmEMAUt_pt902tLSxxoj1sd-5m6t8rl67IPkIPyRJfeIzxwZJ2hT5Ckgqb59YP1v-8Kezdlhm9w2x1-w84pSqnxoruyZQ6_BL4vatiah3RatejxugRBDSWJSm4v5x3z-__FRlgCAcaZ-GR4.r51-h23mpFaDpNiAzF_5CTn57RjYKhy-r7g7RaAbFkY";(function(window){window.cmsCoreConfig={}; (function(config){ ; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ ; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -765,6 +765,19 @@ $(function () {
 
 
 <li>
+    <a href="/Home/Components/Calendar/Event/1148/17" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">14</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Executive Session of the City Council</p>
+            <p class="box_item_summary">05:15 PM</p>
+        </div>
+    </a>
+</li>
+
+<li>
     <a href="/Home/Components/Calendar/Event/1006/17" class="event-item">
         <div class="datebox">
             <div class="datebox-month">Sep</div>
@@ -786,19 +799,6 @@ $(function () {
         <div class="item_info">
             <p class="box_item_title">City Council Meeting</p>
             <p class="box_item_summary">06:30 PM</p>
-        </div>
-    </a>
-</li>
-
-<li>
-    <a href="/Home/Components/Calendar/Event/905/17" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Sep</div>
-            <div class="datebox-number">17</div>
-        </div>
-        <div class="item_info">
-            <p class="box_item_title">Board of Appeals Meeting</p>
-            <p class="box_item_summary">05:30 PM - 07:00 PM</p>
         </div>
     </a>
 </li>	</ul>

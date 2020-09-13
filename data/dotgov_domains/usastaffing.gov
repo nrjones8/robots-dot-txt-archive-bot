@@ -23,7 +23,9 @@
     <script src="/bundles/js/modernizr?v=hPVabUcpVRrVkQf-QfWhKYSj7xEvBt7tE_X8AcHqizE1"></script>
 
     
-</head>
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"338793",ustr:"",originlat:"0",clientrtt:"7",ghostip:"23.198.10.153",ipv6:false,pct:"10",clientip:"20.185.54.65",requestid:"4acd17e5",region:"32986",protocol:"",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"4acd17e5",ai:"208613",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
 <body>
     <div id="main-container">
         <div class="container" id="login-container">
@@ -81,14 +83,14 @@
 
                 <div id="smCredentials">
                         <div class="hidden-xs">
-                            <a href="/account/CertificateSignIn?returnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-12T13%253A32%253A35Z">
+                            <a href="/account/CertificateSignIn?returnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-13T02%253A02%253A19Z">
                                 <img class="smart-card-image" alt="smart card" src="/Content/images/smartcard.png" />Sign in with smart card
                             </a>
                         </div>
                 </div>
 
                 <div id="netCredentials">
-<form action="/account/signin?ReturnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-12T13%253A32%253A35Z&amp;wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-12T13%3A32%3A35Z" method="post"><input name="__RequestVerificationToken" type="hidden" value="QQiCJTEaNunjopELrnEfe6eUZ3j_bNDmQA9IRJ2YRI6DohvMKPk21wQa5ZUExPPUaQO-uwlk3F6nSz_xw4pKf4XdaFo1" />
+<form action="/account/signin?ReturnUrl=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-13T02%253A02%253A19Z&amp;wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-13T02%3A02%3A19Z" method="post"><input name="__RequestVerificationToken" type="hidden" value="EJtXtJ-93zbLZLKe-xtSGRjmsZKIW6a5567E7L1ocWN-Ekzpu1gG1_pb5rkclacj6lEjiq0ibB1-nzXL8iy74DX75V41" />
                             <h1>
                                 <small>Sign In</small>
                             </h1>
@@ -104,7 +106,7 @@
                             </div>
                             <div class="row margin-bottom-25px">
                                 <div class="col-xs-6">
-<a href="/account/ResetPassword" returnUrl="/issue/wsfed?wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-12T13%3A32%3A35Z">Reset Password</a>                                </div>
+<a href="/account/ResetPassword" returnUrl="/issue/wsfed?wa=wsignin1.0&amp;wtrealm=https%3A%2F%2Fusastaffing.gov%2F&amp;wctx=rm%3D0%26id%3Dpassive%26ru%3D%252frobots.txt&amp;wct=2020-09-13T02%3A02%3A19Z">Reset Password</a>                                </div>
                                 <div class="col-xs-6 text-right">
                                     <a href="#" onclick="return togglePasswordVisibility(this);">Show Password</a>
                                 </div>
@@ -412,10 +414,10 @@
                 </p>
             </div>
             <div class="modal-footer">
-                <div id="AcceptButton" style="text-align:left"><a href="/account/AcceptTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-12T13%253A32%253A35Z">I Accept</a> - by accepting, I acknowledge and understand my responsibilities, and will comply with these rules of behavior for USA Staffing.</div>
+                <div id="AcceptButton" style="text-align:left"><a href="/account/AcceptTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-13T02%253A02%253A19Z">I Accept</a> - by accepting, I acknowledge and understand my responsibilities, and will comply with these rules of behavior for USA Staffing.</div>
                 <br />
                 <br />
-                <div id="DeclineButton" style="text-align:left"><a href="/account/DeclineTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-12T13%253A32%253A35Z">I Decline</a></div>
+                <div id="DeclineButton" style="text-align:left"><a href="/account/DeclineTandC?returnURL=%2Fissue%2Fwsfed%3Fwa%3Dwsignin1.0%26wtrealm%3Dhttps%253A%252F%252Fusastaffing.gov%252F%26wctx%3Drm%253D0%2526id%253Dpassive%2526ru%253D%25252frobots.txt%26wct%3D2020-09-13T02%253A02%253A19Z">I Decline</a></div>
                 <br />
                 <br />
             </div>

@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.sugarhillnh.org/wp-sitemap.xml
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/

@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"z9jxFK-rrf6bI_NnriOirAAUV_L1cMLUqLoi4I7ytCj23DFa4C_Es8q3lFxnWRa_L3q_7snAKZjCdyTrplo8iMOr_2Y1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"zRltWvAKWtpmWXsdX0_7HkatvyDTMQGE4s5R-CFmIsABwXmEIp2KjKQP2OJ4TI2XI_9-9h3y5_TeGA9pdvTxn3Ezp7I1\" />");
 						}
 					}
 				}, false);
@@ -2191,7 +2191,7 @@ window.__lo_site_id = 202848;
 									{"BannerOptionID":52,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":"5","SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":false,"ImageAlignment":2,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":94,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=370","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":88,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=373","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":107,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=638","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":93,"BannerOptionID":52,"FileName":"/ImageRepository/Document?documentID=367","Height":855,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
 								'/App_Themes/Home/Images/',
 								'Rotating',
-								'3');
+								'0');
 						});
 				}, "load");				
 			</script>

@@ -328,11 +328,11 @@
 						<h2 class="caps">Brought to you by</h2>
 						<ul class="noListStyle">
 							
-							<li><img src="/resources/static/images/logos/experian.png" alt="Experian" /></li>
-							
 							<li><img src="/resources/static/images/logos/transunion.png" alt="TransUnion" /></li>
 							
 							<li><img src="/resources/static/images/logos/equifax.png" alt="Equifax" /></li>
+							
+							<li><img src="/resources/static/images/logos/experian.png" alt="Experian" /></li>
 							
 						</ul>
 					</div>

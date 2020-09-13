@@ -702,7 +702,7 @@ if (Object.keys(site)[0] == siteId) {
 											
 <script type="text/javascript">
 		var WASReqURL = '/wps/myportal/gov/odnr/discover-and-learn/safety-conservation/about-odnr/division-parks-watercraft/!ut/p/z1/jY_LDoIwEEW_xQ9opoAPWAIxxgeGGom1GzMqYKO2pFSMfr3EnYmv2d3JuZk5IICDUNjIEq3UCk9tXov-Zh6MQseZ0jkdLEPKHM8f0rQXsbQLq1fAX8QeZZmTuombTRnrgvinTz9MSH_1J7-A1sA1SZyUICq0ByJVoYHXWOT2RnZa1blpnrbAcasvlui9MsD3spF1uyUVmmNNrmhzszNY2PZj8XrzjfMT-CJVnTN-n0XBuOx0HhcwnmE!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X045R0ExMUswTjA3VEEwUTEzOEUwUDVCUVA0/';
-		var loginUrl = '/wps/portal/gov/odnr/discover-and-learn/safety-conservation/about-odnr/division-parks-watercraft/!ut/p/z1/jY_LDoIwEEW_xQ9opoAPWAIxxgeGGom1GzMqYKO2pFSMfr3EnYmv2d3JuZk5IICDUNjIEq3UCk9tXov-Zh6MQseZ0jkdLEPKHM8f0rQXsbQLq1fAX8QeZZmTuombTRnrgvinTz9MSH_1J7-A1sA1SZyUICq0ByJVoYHXWOT2RnZa1blpnrbAcasvlui9MsD3spF1uyUVmmNNrmhzszNY2PZj8XrzjfMT-CJVnTN-n0XBuOx0HhcwnmE!/dz/d5/L3dJVkNwQSEhL0lCakFBQXlBQkVRaUlBISEvNE5sRkNvWTRWSEZnSkEhIS9aNl9OOUdBMTFLME4wN1RBMFExMzhFMFA1QlFQNC8wLzM1NDcxNi9saQ!!/';
+		var loginUrl = '/wps/portal/gov/odnr/discover-and-learn/safety-conservation/about-odnr/division-parks-watercraft/!ut/p/z1/jY_LDoIwEEW_xQ9opoAPWAIxxgeGGom1GzMqYKO2pFSMfr3EnYmv2d3JuZk5IICDUNjIEq3UCk9tXov-Zh6MQseZ0jkdLEPKHM8f0rQXsbQLq1fAX8QeZZmTuombTRnrgvinTz9MSH_1J7-A1sA1SZyUICq0ByJVoYHXWOT2RnZa1blpnrbAcasvlui9MsD3spF1uyUVmmNNrmhzszNY2PZj8XrzjfMT-CJVnTN-n0XBuOx0HhcwnmE!/dz/d5/L3dJVkNwQSEhL0lCakFBQXlBQkVRaUlBISEvNE5sRkNvWTRWSEZnSkEhIS9aNl9OOUdBMTFLME4wN1RBMFExMzhFMFA1QlFQNC8wLzQwNTQ5Ny9saQ!!/';
 		
 	</script>
 </div>
@@ -3696,23 +3696,28 @@ $(document).ready(function(){
         <div class="row">
         
             
-            
-                <div id="androidchrome" class="alert alert-danger margin-right-sm margin-top-sm hidden" >
+                <style>
+  .old-browser-msg {
+    position: relative;
+    z-index: 997;
+  }
+</style>
+
+<div id="old-browser-msg" class="alert alert-danger margin-right-sm margin-top-sm old-browser-msg" style="display: none">
+</div>
+<script id="old-browser-msg-template" type="text/plain">
+<p dir="ltr">Your browser appears to be&nbsp;out of date. For a better browsing experience, use the latest version of&nbsp;<a href="https://www.google.com/chrome/" target="_blank"  rel="noopener noreferrer">Google&nbsp;Chrome</a>,&nbsp;<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank"  rel="noopener noreferrer">Mozilla&nbsp;Firefox</a>,&nbsp;<a href="https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads" target="_blank"  rel="noopener noreferrer">Microsoft&nbsp;Edge</a>, or&nbsp;<a href="https://www.apple.com/safari/" target="_blank"  rel="noopener noreferrer">Safari</a>&nbsp;for Apple devices.</p>
+
+</script>
+<script>
+  if (navigator.userAgent.match(/Trident\/7\./) && !navigator.userAgent.match(/crawler/gi)) {
+    document.getElementById('old-browser-msg').innerHTML = document.getElementById('old-browser-msg-template').innerHTML;
+    document.getElementById('old-browser-msg').style.display = 'block';
+  }
+</script>
+<script>
     
-    </div>
-    
-    <script type="text/javascript">
-        (function($) {
-            $(document).on('ready', function() {
-             var $androidchrome = $('#androidchrome');
-    
-        if (OHIO.Utils.actions.mobile.isAndroidAndNotChrome()); 
-       { 
-         $androidchrome.show();
-       }
-        }); // ends document.ready
-      })(jQuery);
-    </script>
+</script>
 <!-- START: Ohio Design > Components> Load label translations -->
 <script>
 (function($){
@@ -3729,6 +3734,9 @@ window.currentSiteTranslations = $.extend(globalTranslations, portalLocationsTra
 })(jQuery);
 </script>
 <!-- END: Ohio Design > Components > Load label translations -->
+
+
+            
             
             
                 <!-- Breadcrumb -->

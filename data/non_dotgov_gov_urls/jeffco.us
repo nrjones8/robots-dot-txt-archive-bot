@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"fuIuCr4GwbqbrjAJHyUt6o3D_FGY9Ed4XUc8gLpQrPZ-7aO1ajS_8l2SwODVeGrJGido-QzLSN4fl8xaB6cOkOLDObo1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"_pJmC53MBWmGxd5ikToMMu9muPTIvSXXtR8ZE_nF_nKRbT20e9A3KaBd3Z-N2D72cjPA5yMyrvUS4GDXcvaRtEHOx7k1\" />");
 						}
 					}
 				}, false);
@@ -3106,7 +3106,7 @@ Sat
 <span>11</span>
 </td>
 <td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=14'>12</a>
+<span>12</span>
 </td>
 </tr>
 <tr><td>
@@ -3197,22 +3197,6 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Sep. 12  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5753">Slash Collection: Sept. 12-13 @ Wagon Wheel Open Space</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Sun Sep. 13  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=5754">Slash Collection: Sept. 12-13 @ Wagon Wheel Open Space</a></strong>
@@ -3234,6 +3218,22 @@ Sat
 					<strong><a href="/Calendar.aspx?EID=5982">Resume Concepts: Tips to Get the Interview</a></strong>
 
 In this workshop you will learn about the purpose ...		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Tue Sep. 15  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=5369">Board of County Commissioners&#39; Public Hearing, Staff Briefing, County Manager/BCC Admin Staff</a></strong>
+
+		</div>
 				</li>
 					</ol>
 				</div>

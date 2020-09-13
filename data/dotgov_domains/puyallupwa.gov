@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"pv0JQydaCZCwADUXzb-DCIMoknF-DOK4tcbUAd4P8O9MH8Vd694Yk3tHKbcFhAtplBwbLqkxoT66VxDHQNAyNosZ73E1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Jx7_YDrX1vOfky6iJfpF4oSmnTMlBfxvbixQ0aU0TqrqfRU13jOBImoySJ0-5i_s8zUQ7-BMrRkCQR2PHb4JUnf72Rs1\" />");
 						}
 					}
 				}, false);
@@ -1157,7 +1157,7 @@ Sat
 <span>11</span>
 </td>
 <td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>12</a>
+<span>12</span>
 </td>
 </tr>
 <tr><td>
@@ -1248,22 +1248,6 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Sep. 12  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3271">Puyallup Farmer&#39;s Market</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Mon Sep. 14  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=3031">Parks and Recreation Board &quot;Virtual&quot; Meeting</a></strong>
@@ -1283,6 +1267,22 @@ Sat
 			<h4 class="widgetTitle">Tue Sep. 15  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=3152">City Council Study Session</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Wed Sep. 16  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3357">Lodging Tax Advisory Committee Meeting</a></strong>
 
 		</div>
 				</li>

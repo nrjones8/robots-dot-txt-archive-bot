@@ -199,7 +199,7 @@
 
 					</div> <!-- end of row -->
 
-				<input type="hidden" name="_csrf" value="b86496bf-3608-4b44-bbe4-31043bd8032a" /></form>
+				<input type="hidden" name="_csrf" value="72052c92-4d9f-4aac-9d79-4b4332502f46" /></form>
 
 			</div> <!-- end of container__body -->
 

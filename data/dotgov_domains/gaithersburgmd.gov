@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Gaithersburg, Maryland', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"999-999-9999","OrganizationName":"Gaithersburg, MD","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfDLHMUAAAAABVvbip_gKAe3NhxZhRjUEvVdN3K"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6ImRxaThZL2drb2J6aGJ5c0EzZzZoc0E9PSJ9.KKDKrUR3Pjb2RrfZs9VG-yFKbTIzdgOjEeb3sUx43F0hkaxveGF2aEMPlHux4Trak2fjHrdnk_Z9IQBjc3ucxLZypS24YZag.HFc7bQUUCZW_fzDmRMB21Q.nJX0uKjZAezthmRT96YTWdogF1oimM-m6tchMxRFMIyJrWO_MIA_u82cCy3SyENZbsi0Dz9am3XXbs4OKDzgjf9PH4NSod-13USgTEmzqtL8CkDdUyy6hpBM4ohVMtx2K8daZa-W07WSdDELl32-14hqIfntz1gTHoNKsNQnmoN7ua4z4bLxS98XIZ5Bv86Yy7jpKQ8RGe-kohs0KoQ4btqoNNt1zrRVCHYcz6VWuMQ.azmAdhV8PHfvBkkJOvvUBBskFVYfcOfT3mn0BuRLeP4";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Gaithersburg, Maryland', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"999-999-9999","OrganizationName":"Gaithersburg, MD","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfDLHMUAAAAABVvbip_gKAe3NhxZhRjUEvVdN3K"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IldEU1FjOU9URzhWSlAxbjk0N0VRZ1E9PSJ9.GvUs4h7v2iqYLvswKaO0vuJyhg9UNlxAT6O79l8669z6gTAbgvl674j7IDAp7zNNLmQC3KWXkqfMBbDeQ_NNnHbIXGkiv1c0.Q9BQeL5YNtyQVHWHPpAsIQ.TTTWm7hj1aknrwSNYsFq4zTK6TBWIfO15tRK8mcAN-yT1X7rILXbXGTKG_95jemFcPI8CCX0j9kKqWtZrpSAS0XreFpQNtGf6EawC_pKH-nD3BSqgtynH-eZmRFDx3Tp62g2XTlYma4T9ERsXU4XAuILkEloEbbtF0MGipEqPmjRgNQIjjM_3k29jbiQjPIyO2DZRKkawbKeKdC6ZFvfnOe5dREZ8aAvJus2aNz6l3M.goItrbUr6rpZlva31Yaqns28IHHtcs2EcqNjPxXf8co";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -925,35 +925,6 @@ $(function () {
 
 
 <li>
-    <a href="/Home/Components/Calendar/Event/6904/2671" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Sep</div>
-            <div class="datebox-number">12</div>
-        </div>
-        <div class="item_info_container">
-            <div class="item_info">
-                <p class="box_item_title">
-                    Main Street Farmers &amp; Artists Market
-                </p>
-                <p class="box_item_summary">
-                    9 AM - 12 PM
-                </p>
-                    <p class="box_item_name">
-                        Main Street Park & Pavilion
-                    </p>
-                                    <p class="box_item_address">
-                        301 Main Street
-                    </p>
-                <script>
-                    console.log({"Location":"Main Street Park \u0026 Pavilion","Address":"301 Main Street","Address2":"","City":"","State":"","Zip":""});
-                </script>
-            </div>
-        </div>
-    </a>
-</li>
-
-
-<li>
     <a href="/Home/Components/Calendar/Event/7201/2671" class="event-item">
         <div class="datebox">
             <div class="datebox-month">Sep</div>
@@ -1024,6 +995,35 @@ $(function () {
                     </p>
                                 <script>
                     console.log({"Location":"Virtual Meeting","Address":null,"Address2":"","City":"","State":"","Zip":""});
+                </script>
+            </div>
+        </div>
+    </a>
+</li>
+
+
+<li>
+    <a href="/Home/Components/Calendar/Event/8127/2671" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Sep</div>
+            <div class="datebox-number">16</div>
+        </div>
+        <div class="item_info_container">
+            <div class="item_info">
+                <p class="box_item_title">
+                    Free COVID-19 Testing
+                </p>
+                <p class="box_item_summary">
+                    9 AM - 1 PM
+                </p>
+                    <p class="box_item_name">
+                        Lakeforest Mall
+                    </p>
+                                    <p class="box_item_address">
+                        701 Russell Avenue
+                    </p>
+                <script>
+                    console.log({"Location":"Lakeforest Mall","Address":"701 Russell Avenue","Address2":"","City":"","State":"","Zip":""});
                 </script>
             </div>
         </div>

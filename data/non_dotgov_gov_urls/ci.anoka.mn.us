@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"70EsBcvNRfD3KeeXXxWBj1mUtSAD0MpM6nc7Rqgqh4SCGVjSqY5f_C3_z7j3FjQJ-V-sLKtSJ5sF6_zAYnLxHE-mGz41\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"rzoFBYJInG4d5V52lYrVVlSGxouiG9c9YNHxrN0H9gNZUQevnQu2rPIc_irVh-gtJJ1LFKT5xJWr-0mkcrQfwSYARzw1\" />");
 						}
 					}
 				}, false);
@@ -729,7 +729,7 @@ color: transparent;}
 									{"BannerOptionID":56,"ThemeID":17,"SlotName":"banner1","Name":"Default","IsDefault":true,"BannerMode":2,"SlideShowSlideTiming":null,"SlideshowTransition":0,"SlideShowTransitionTiming":null,"ImageScale":true,"ImageAlignment":1,"ImageScroll":true,"MuteSound":true,"VideoType":0,"Status":40,"SlideshowControlsPosition":0,"SlideshowControlsAlignment":0,"SlideshowBannerControlsColorScheme":0,"BannerImages":[{"BannerImageID":70,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=65","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":0,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":237,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=817","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":1,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":238,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=818","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":2,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""},{"BannerImageID":239,"BannerOptionID":56,"FileName":"/ImageRepository/Document?documentID=819","Height":848,"Width":2200,"StartingOn":null,"StoppingOn":null,"IsLink":false,"LinkAddress":null,"Sequence":3,"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/","AltText":""}],"BannerVideos":[],"RecordStatus":0,"ModifiedBy":0,"ModifiedOn":"\/Date(-62135575200000)\/"},
 								'/App_Themes/Home/Images/',
 								'Rotating',
-								'3');
+								'1');
 						});
 				}, "load");				
 			</script>
@@ -2247,7 +2247,7 @@ Sat
 <span>11</span>
 </td>
 <td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=12&amp;CID=22,23,27'>12</a>
+<span>12</span>
 </td>
 </tr>
 <tr><td>
@@ -2338,23 +2338,6 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Sep. 12  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=536">Anoka Area Gardeners Plant Sale</a></strong>
-
-		</div>
-						<a href="/Calendar.aspx?EID=536" class="readOn" style="display:block;"><span>Read On</span></a>
-	</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Sat Sep. 19  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=545">Movies in the Park - Abominable </a></strong>
@@ -2362,10 +2345,6 @@ Sat
 Bring a lawn chair, blanket, some snacks and sit back and enjoy our Movie in the Park!   		</div>
 						<a href="/Calendar.aspx?EID=545" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
-					</ol>
-				</div>
-				<div class="col col1  last">
-					<ol class="semanticList">
 
 
 
@@ -2382,6 +2361,28 @@ Bring a lawn chair, blanket, some snacks and sit back and enjoy our Movie in the
 
 Mark your calendar and start setting aside your recyclable materials for our fall recycling event!  ...		</div>
 						<a href="/Calendar.aspx?EID=537" class="readOn" style="display:block;"><span>Read On</span></a>
+	</li>
+					</ol>
+				</div>
+				<div class="col col1  last">
+					<ol class="semanticList">
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Thu Oct. 1          - Sat Oct. 24
+ </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=567">Kid Coloring Contest </a></strong>
+
+Pick up your 100th Anniversary Anoka Halloween coloring sheet at Rumriver Art Center or the Anoka Ha...		</div>
+						<a href="/Calendar.aspx?EID=567" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 					</ol>
 				</div>

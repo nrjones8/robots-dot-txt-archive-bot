@@ -1,7 +1,46 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /robots.txt was not found on this server.</p>
-</body></html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+	<title>System for Award Management - Error</title>
+	<style type="text/css"></style>
+	<link type="text/css" href="/sam/css/errors.css" rel="stylesheet"/>
+	<meta name="robots" content="noindex,nofollow">
+</head>
+
+<body>
+<table class="err-table" >
+	<tr>
+		<td colspan="2">
+			<a href="/"><img alt="SAM logo" src="/sam/img/logo_transparent.png"/></a>
+	<!-- <img alt="SAM logo" src="/sam/img/logo_transparent.png"/> -->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<h1>Webpage cannot be found</h1>
+			<p class="err-desc">We're sorry, but we were unable to retrieve the webpage you are trying to access. Please ensure you have the correct URL and try again, or return to the homepage.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="err-code">
+			<p class="err-code">HTTP 404 error</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<p class="err-link">Return to <a href="/">SAM Homepage</a></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="80%">
+			<p class="footer">SAM | System for Award Management</p>
+			<p class="footer">Service Desk: <a href="http://www.fsd.gov/">www.FSD.gov</a></p>
+		</td>
+		<td><img alt="GSA, IAE, USA.gov logos" src="/sam/img/flogos.png"/></td>
+	</tr>
+</table>
+</body>
+
+</html>

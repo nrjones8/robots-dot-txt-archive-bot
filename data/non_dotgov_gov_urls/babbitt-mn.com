@@ -507,13 +507,13 @@ The increased use of cleaning wipes during the COVID-19 outbreak is good on the 
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloak420c6a9d8022ca4cfa5ea66ea0081a69">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
-				document.getElementById('cloak420c6a9d8022ca4cfa5ea66ea0081a69').innerHTML = '';
+<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloak49d790946af59f9411228d0241c1ce94">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak49d790946af59f9411228d0241c1ce94').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addy420c6a9d8022ca4cfa5ea66ea0081a69 = 'd&#101;bb&#105;&#101;' + '&#64;';
-				addy420c6a9d8022ca4cfa5ea66ea0081a69 = addy420c6a9d8022ca4cfa5ea66ea0081a69 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
-				var addy_text420c6a9d8022ca4cfa5ea66ea0081a69 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloak420c6a9d8022ca4cfa5ea66ea0081a69').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy420c6a9d8022ca4cfa5ea66ea0081a69 + '\'>'+addy_text420c6a9d8022ca4cfa5ea66ea0081a69+'<\/a>';
+				var addy49d790946af59f9411228d0241c1ce94 = 'd&#101;bb&#105;&#101;' + '&#64;';
+				addy49d790946af59f9411228d0241c1ce94 = addy49d790946af59f9411228d0241c1ce94 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
+				var addy_text49d790946af59f9411228d0241c1ce94 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloak49d790946af59f9411228d0241c1ce94').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy49d790946af59f9411228d0241c1ce94 + '\'>'+addy_text49d790946af59f9411228d0241c1ce94+'<\/a>';
 		</script> (subject:&nbsp; campground) so that we can establish a list of interested parties.</span></p>
 
 <p>&nbsp;</p>

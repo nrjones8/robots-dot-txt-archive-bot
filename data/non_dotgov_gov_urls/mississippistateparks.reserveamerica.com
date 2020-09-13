@@ -1,9 +1,33 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache Server at mississippistateparks.reserveamerica.com Port 443</address>
-</body></html>
+User-agent: *
+Disallow: /*campsiteDetails.do
+Disallow: /*campsiteCalendar.do
+Disallow: /*campsiteSearch.do
+Disallow: /*campgroundMap.do
+
+#New 3.1.2016
+Disallow: /*reportListing.do
+Disallow: /*checkoutReservationPolicy.html
+Disallow: /*campsiteFilterAction.do
+Disallow: /*saveCampgroundInfo.do
+Disallow: /*similarCampsiteSearch.do
+Disallow: /*slipSiteDetails.do
+Disallow: /*campgroundFees.do
+Disallow: /*campsiteSort.do
+Disallow: /*campgroundSeasonDates.do
+Disallow: /*campgroundBookingWindow.do
+Disallow: /*campgroundFees.do
+Disallow: /*removeSiteCriteria.do
+Disallow: /*viewAvailabilityNotificationDetail.do
+Disallow: /*campsitePaging.do
+Disallow: /*onsaleBestAvailableDisplay.do
+Disallow: /*similarCampsiteSearch.do
+
+
+#New 7.19.2016
+Disallow: /*owp-webclient.do
+
+#New 5.17.2017
+Disallow: /articles/*
+
+Disallow: /explore/*
+

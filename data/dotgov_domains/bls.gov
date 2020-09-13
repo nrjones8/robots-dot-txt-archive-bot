@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> 
 <head>
-<!-- P2 -->
+<!-- P1 -->
 <meta name="viewport" content="initial-scale=0.8; width=device-width" /> <script> function getWidth() { xWidth = null; if(window.screen!= null) xWidth = window.screen.availWidth; if(window.innerWidth != null) xWidth = window.innerWidth; if(document.body !=null) xWidth = document.body.clientWidth; return xWidth; } if (/(Android|iPhone|iPod|webOS|NetFront|Opera Mini|SEMC-Browser|PlayStationPortable|Nintendo Wii|BlackBerry)/.test(navigator.userAgent) && (!(getWidth() > 600)|| /Mobile/.test(navigator.userAgent))){if(!String(window.location).match(/view_full/)){ window.location = "/mobile";} } </script> <title>U.S. Bureau of Labor Statistics</title> <!-- ****************************************** Begin META TAGS********************************************* --> <link href="/stylesheets/bls_home.css" rel="Stylesheet" type="text/css"media="all" /> 	<!-- START include/global/head.stm -->
 	<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&subagency=BLS&yt=true"></script>
 	<script src="/javascripts/jquery-latest.js"></script>
