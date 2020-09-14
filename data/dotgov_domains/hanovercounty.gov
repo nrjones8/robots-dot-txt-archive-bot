@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"iqgiR7lQ851zsOh7GEJNQYNguQffSxd2hZoFnhoYWzXgDN30OSOEVn62xyewQtoFSSSGDh-c5Z-4BE5GdqTmEcSZgpA1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"YpSiB4ziYtroeVUir73PjVG9Mm7YKKNorqCht0nMLA1Q8kNdoDcXqfW-KsMsDiM8xKGfeoWuJervs8x06CshIJh8SEE1\" />");
 						}
 					}
 				}, false);
