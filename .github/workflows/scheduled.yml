@@ -3,8 +3,8 @@ name: Latest robots.txt
 
 on:
   schedule:
-    # 5 min past the hour, every 12 hours
-    - cron:  '5 */12 * * *'
+    # once a week, on Saturdays
+    - cron:  '0 2 * * SAT'
 
 jobs:
   latest_metrics:
