@@ -113,7 +113,7 @@ $("#myModal").modal('show');
 .resp-container {
     position: relative;
     overflow: hidden;
-    padding-top: 80%;
+    padding-top: 60%;
 }   
  .resp-iframe {
     position: absolute;
@@ -274,24 +274,29 @@ $("#myModal").modal('show');
         </div>
     </div>
 </div>
-
-                
-                
-                <h3><p align="center"><a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf"><font color="red"><strong>COVID-19 Response:</strong></font><strong> Check our new Frequently Asked Questions! Will be updated often.</strong></a></p></h3>
+<h4><strong> NJMVC is experiencing unprecedented volume. <font color="red">For latest updates, check our Frequently Asked Questions for your topic: </font></strong></a></h4>
+    <ul>
+      <li><a href="pdf/about/Online_FAQ.pdf">Online Services</a> [pdf]</li>
+        <li><a href="pdf/about/CDL_Extension_FAQ.pdf">Extensions and CDLs</a> [pdf]</li>
+        <li><a href="pdf/about/AGENCIES_FAQ.pdf">Going to a Licensing or Vehicle Center</a> [pdf]</li>
+        <li><a href="pdf/about/Suspensions_FAQ.pdf">Suspensions</a> [pdf]</li>
+    </ul>
      
-        <div class="alerta-primary" role="alertdialog">
+       <!--<div class="alerta-primary" role="alertdialog">
           <button type="button" class="close" data-dismiss="alerta" aria-hidden="true">
           ×</button>
             <h3>&nbsp; </h3>
             <h3>Most expiration dates have been extended to at least Sept 30, and many processes at MVC Licensing Centers and Vehicle Centers have changed. See <a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf">FAQ</a> for more.</h3>
             <h5>&nbsp;</h5>  
-</div>
-<!--<div class="alert alert-danger alert-dismissable" role="alert">
-  	<p><strong>EATONTOWN LICENSING CENTER AND VEHICLE INSPECTION CENTER</strong> are  temporarily unable to process transactions, due to a power outage. (Updated  September 10, 2020, 10:40 am.) </p>
-    <p>Please check back here for updates before heading to the  facility or <a href="locations/facilitylocations.htm">click here</a> for alternative locations. The  MVC apologizes for any  inconvenience.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+</div>-->
+<div class="alert alert-danger alert-dismissable" role="alert">
+  	<p><strong>NEWARK REGIONAL/LICENSING CENTER </strong> will  be closed until Friday, October 16 due to an employee testing positive for  COVID-19.</p>
+  	<p><strong>NEWARK</strong> Inspection Station is closed today, Friday, October 2, 2020.</p>
+<p><strong>JERSEY CITY VEHICLE  CENTER i</strong>s closed due to  an employee testing positive for COVID-19, and will reopen on Tuesday, October  6. </p>
+<h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h5>
 <button type="button" class="btn btn-danger" data-dismiss="alert" aria-hidden="true">
     Close Alert</button>
-</div>-->
+</div>
     
 <div class="alert alert-warning alert-dismissable" role="alert">
     <p></p>
@@ -306,7 +311,7 @@ Close Alert</button>
 </div>
 </div>       
             
-<div class="image">
+<!--<div class="image">
   <div class="container">
 	<div class="card-header-real" id="headingOne">
         <div class="lockup">
@@ -320,7 +325,7 @@ Close Alert</button>
 				</p>
     </div>
   </div>
-</div>
+</div>-->
 <div id="quick-links" class="container">
                 <div class="row">
                     <div class="col-sm">
@@ -351,14 +356,14 @@ Close Alert</button>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://realidnj.com/">
+                                        <a href="https://realid.nj.gov/">
                                             <p class="quicklinks-link">Real ID<i class="fas fa-long-arrow-alt-right ml-2"></i>
                                             </p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="/mvc/license/liclost.htm">
-                                            <p class="quicklinks-link">Lost/ Duplicate License<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            <p class="quicklinks-link">Lost/Replacement License<i class="fas fa-long-arrow-alt-right ml-2"></i>
                                             </p>
                                         </a>
                                     </li>
@@ -596,11 +601,11 @@ Close Alert</button>
                             <h3 class="logo-green uppercase font-mb">Agency locations </h3>
                             <p class="font-regular">Select a service and find the location closest to you.</p>
                         </div>
-                        <div class="col-lg-3 col-sm-6 pr-5 pb-4 col-xs-12">
+                      <!--  <div class="col-lg-3 col-sm-6 pr-5 pb-4 col-xs-12">
                             <a href="facilities-location.html"><button class="btn btn-light btn-lg"><i
                   class="logo-blue fas fa-map-marked-alt"></i></i>
                 Search our Facility Map</button></a>
-                        </div>
+                        </div>-->
 
 
                     </div>
@@ -731,7 +736,7 @@ Close Alert</button>
             </footer>
             </div>
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=1485108582"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=2046992074"></script>
 </body>
 
 </html>

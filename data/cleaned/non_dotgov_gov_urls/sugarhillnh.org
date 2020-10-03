@@ -8,4 +8,10 @@ Disallow: /calendar/action~oneday/
 Disallow: /calendar/action~month/
 Disallow: /calendar/action~week/
 Disallow: /calendar/action~stream/
-Sitemap: https://www.sugarhillnh.org/sitemap.xml
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

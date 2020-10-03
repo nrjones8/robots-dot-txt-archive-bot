@@ -1,1 +1,13 @@
-Your server is running PHP version 5.4.45 but WordPress 5.5.1 requires at least 5.6.20.
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://armstrongcounty.com/wp-sitemap.xml
+
+Disallow: /wp-content/sabai/
+Allow: /wp-content/sabai/File/thumbnails/
+Disallow: /wp-content/plugins/sabai/
+Disallow: /wp-content/plugins/sabai-paidlistings/
+Disallow: /wp-content/plugins/sabai-googlemaps/
+Disallow: /wp-content/plugins/sabai-directory/
+Sitemap: https://armstrongcounty.com/sabai-sitemap-index.xml

@@ -1,90 +1,781 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169233547-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-169233547-1", {"groups":"default","anonymize_ip":true});</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/cfc.org/files/SSL_turquoise-ico.png" type="image/png" />
+<link rel="canonical" href="https://givecfc.org/home" />
+<link rel="shortlink" href="https://givecfc.org/node/35" />
+<link rel="revision" href="https://givecfc.org/home" />
 
-User-agent: *
-Crawl-delay: 10
-# CSS, JS, Images
-Allow: /misc/*.css$
-Allow: /misc/*.css?
-Allow: /misc/*.js$
-Allow: /misc/*.js?
-Allow: /misc/*.gif
-Allow: /misc/*.jpg
-Allow: /misc/*.jpeg
-Allow: /misc/*.png
-Allow: /modules/*.css$
-Allow: /modules/*.css?
-Allow: /modules/*.js$
-Allow: /modules/*.js?
-Allow: /modules/*.gif
-Allow: /modules/*.jpg
-Allow: /modules/*.jpeg
-Allow: /modules/*.png
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /themes/*.css$
-Allow: /themes/*.css?
-Allow: /themes/*.js$
-Allow: /themes/*.js?
-Allow: /themes/*.gif
-Allow: /themes/*.jpg
-Allow: /themes/*.jpeg
-Allow: /themes/*.png
-# Directories
-Disallow: /includes/
-Disallow: /misc/
-Disallow: /modules/
-Disallow: /profiles/
-Disallow: /scripts/
-Disallow: /themes/
-# Files
-Disallow: /CHANGELOG.txt
-Disallow: /cron.php
-Disallow: /INSTALL.mysql.txt
-Disallow: /INSTALL.pgsql.txt
-Disallow: /INSTALL.sqlite.txt
-Disallow: /install.php
-Disallow: /INSTALL.txt
-Disallow: /LICENSE.txt
-Disallow: /MAINTAINERS.txt
-Disallow: /update.php
-Disallow: /UPGRADE.txt
-Disallow: /xmlrpc.php
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips/
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-# Paths (no clean URLs)
-Disallow: /?q=admin/
-Disallow: /?q=comment/reply/
-Disallow: /?q=filter/tips/
-Disallow: /?q=node/add/
-Disallow: /?q=search/
-Disallow: /?q=user/password/
-Disallow: /?q=user/register/
-Disallow: /?q=user/login/
-Disallow: /?q=user/logout/
+    <title>Home | Combined Federal Campaign</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/normalize-css/normalize.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/misc/normalize-fixes.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/libraries/superfish/css/superfish.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/dexp_slick/assets/js/slick/slick.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/dexp_slick/assets/js/slick/slick-theme.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/dexp_slick/assets/css/dexp-slick.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/calendar/css/calendar.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/calendar/css/calendar_multiday.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/modules/contrib/dexp_grid/assets/css/dexp-grid.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/bootstrap/css/bootstrap.min.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/base/layout.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/base/typography.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/base/elements.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/base/local-base.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/action-links.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/breadcrumb.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/button.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/collapse-processed.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/container-inline.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/details.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/exposed-filters.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/field.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/form.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/icons.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/inline-form.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/item-list.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/link.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/links.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/menu.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/more-link.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/pager.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabledrag.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tableselect.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tablesort.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabs.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/textarea.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/ui-dialog.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/messages.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/node.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/accordion.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/block.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/breadcrumb.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/buttons.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/call-to-action.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/contact-info.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/more-links.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/comments.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/forms.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/field-taxonomy-term.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/icons-list.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/item-list.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/image-overlay.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/node.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/node-testimonial.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/node-links.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/node-images.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/search.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/site-branding.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/tables.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/tabs.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/team-members.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/pills.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/pager.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/menu.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-latest-items.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-popular-taxonomy.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-promoted-items.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-highlighted-testimonials.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-testimonials.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/view-pricing-tables.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/views.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/messages.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/to-top.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/js/animate/animate.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/fixed-header.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/components/local-components.css?qhlawc" />
+<link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,800,700&amp;subset=latin,greek" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Source+Code+Pro&amp;subset=latin,latin-ext" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&amp;subset=latin,latin-ext" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/theme/animations.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/theme/color-gray-blue.css?qhlawc" />
+<link rel="stylesheet" media="all" href="/themes/custom/startupgrowth/css/theme/local-theme.css?qhlawc" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body class="layout-no-sidebars wide form-style-1 hff-06 pff-06 sff-06 slff-06 fixed-header-enabled path-frontpage page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div id="page-container" class="page-container">
+
+  
+          <div id="banner" class="clearfix banner">
+            <div id="banner-inside" class="clearfix banner-inside">
+        <div class="banner-area">
+            <div class="region region-banner">
+    <div id="block-welcome" class="block block-block-content block-block-content92eb4f6d-5bf3-47f6-b789-f347f84b1117">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container">
+<div class="row">
+<div style="margin-top: 20px">
+<div><img alt="CFC Logo" data-entity-type="file" data-entity-uuid="6d96d05b-bc69-493d-9550-56625919718b" data-image-style="medium" src="/sites/cfc.org/files/inline-images/CFC%20logo%20color%20NCA%20BLUE_2.png" width="220" height="154" typeof="foaf:Image" class="image-style-medium align-left" /></div>
+
+<div style="margin-right: 25px; padding-top: 25px;">
+<h1 style="font-size: 20px;text-transform: unset;font-weight: 100;margin-bottom: -15px; margin-top: 30px">Welcome to the</h1>
+</div>
+
+<div>
+<h2 style="font-size: 28px;font-weight: 600;text-transform: unset">Combined Federal Campaign</h2>
+</div>
+</div>
+
+<div class="donate-button usa-button usa-button-big" style="position: relative; top: -35px; float: right; margin-right: 0; margin-top: -20px;"><a href="https://cfcgiving.opm.gov/welcome" rel="noopener noreferrer" target="_blank">Donate</a></div>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+        </div>
+      </div>
+          </div>
+      
+    <div id="page-start" class="clearfix"></div>
+
+    <div id="page" class="clearfix page">
+
+          <div class="system-messages">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+                <div class="region region-system-messages">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div class="views-element-container block block-views block-views-blockmt-showcases-block-1" id="block-views-block-mt-showcases-block-1">
+  
+    
+      <div class="content">
+      <div><div class="grid-slider view view-mt-showcases view-id-mt_showcases view-display-id-block_1 js-view-dom-id-2e7c30b3bebd3ce6c09e0374e547036cde81b0f20fe75d5ce8d745a189f293ab">
+  
+    
+      
+      <div class="view-content">
+      <div data-uuid="bf5ccae0-91ef-43f3-8bf0-6532015accc4" class="dexp-grid views-view-dexp-grid clearfix" id="mt-showcases-block-1">
+      
+  <div class="dexp-grid-inner">
+          <div class="dexp-grid-item">  <div data-history-node-id="32177" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="0174ffe4-6d45-4cd4-99b4-8d0b33855486" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-06/LtColCoffee.jpg?itok=BbozqDUb" width="285" height="190" alt="Photo of Lt Col Steven Coffee" title="Steven, U.S. Air Force" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Jacobsen_0.jpg?itok=KhlGg3eM" width="285" height="190" alt="Photo of Merle" title="Merle, U.S. Marine Corps, Retired" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Anonymous%20Federal%20Employee%201.jpg.png?itok=WcWzDz5v" width="285" height="190" alt="Photo of Federal Employee and son" title="Federal Employee and son" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Daniel.jpeg.png?itok=CJeRZjof" width="285" height="190" alt="Photo of Daniel" title="Department of Defense" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Tia.jpg.png?itok=CvL65gBc" width="285" height="190" alt="Photo of Tia" title="US Patent and Trademark Office" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Alicia.jpg.png?itok=24bie0ji" width="285" height="190" alt="Photo of Alicia Cross" title="Department of Health and Human Services" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Safana.jpg.png?itok=TU8YpK1Z" width="285" height="190" alt="Photo of Safana" title="US Patent and Trademark Office" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32176" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="d065bcf1-4114-4257-bf0e-18e353ba896e" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-06/LInda.jpg?itok=f86EfV6r" width="285" height="190" alt="Photo of Linda" title="Linda, USPS" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Tom%201.jpg.png?itok=tyf8MyHJ" width="285" height="190" alt="Photo of Tom" title="FAA OKC" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Heidi.jpeg.png?itok=W-la9w_j" width="285" height="190" alt="Photo of Heidi" title="Bureau of Land Management" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Min.jpg?itok=kgTbQSGP" width="285" height="190" alt="Photo of Min" title="Min, U.S. Navy Civilian" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Anonymous%20Federal%20Employee%202.jpg.png?itok=DWrQtTXJ" width="285" height="190" alt="Photo of Federal Employee" title="Federal Employee" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Ari.jpeg.png?itok=edcxxVT7" width="285" height="190" alt="Photo of Ari" title="Veterans Affairs" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Tom%203.jpg.png?itok=qilH_PTa" width="285" height="190" alt="Photo of Tom" title="AAFES" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32175" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="5c1c15ba-dac5-4d21-8f8f-9d3e22fd83dc" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Kevin.jpg?itok=9Z8vfzGH" width="285" height="190" alt="Photo of Kevin" title="Kevin, U.S. Coast Guard" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Ashley.jpg.png?itok=_3Ep63NL" width="285" height="190" alt="Photo of Ashley" title="IRS" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/James.jpg.png?itok=jkQRgH4V" width="285" height="190" alt="Photo of James" title="Contractor" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Jessica_1.jpg?itok=J2zGwRfl" width="285" height="190" alt="Photo of Jessica" title="Jessica, Department of Transportation" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Vandetta%202.jpeg.png?itok=BOv_-qhR" width="285" height="190" alt="Photo of Vandetta" title="USDA/DA/OO" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Candace.jpg.png?itok=HqK0qZg9" width="285" height="190" alt="Photo of Candace" title="Candace, Army family member" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Tonya.jpg.png?itok=y2_BwzDP" width="285" height="190" alt="Photo of Tonya" title="TSA/MSP/HR Administrative Assistant" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32174" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="1e9ebf19-b830-42d8-82a1-88de8d7b53e3" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Katie_1.jpg?itok=Ja6U-Faa" width="285" height="190" alt="Photo of Katie and her two sons" title="Katie, U.S. Navy" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Debra.jpg.png?itok=aM3ayraV" width="285" height="190" alt="Debra" title="Debra, HHS/NIH/OD" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Wayne.jpg?itok=lkPm-mB_" width="285" height="190" alt="Photo of Wayne and his three kids" title="Wayne, Department of Defense" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Jennifer.jpg.png?itok=CdHsz3UR" width="285" height="190" alt="Photo of Jennifer" title="Federal Contractor" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Trina.jpeg.png?itok=tOz9hxoa" width="285" height="190" alt="Photo of Trina" title="U.S. Department of Transportation" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Wilbur.jpg.png?itok=aowN4AxN" width="285" height="190" alt="Photo of Wilbur" title="Federal Protective Services" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Donna.png?itok=TVwkw3Q-" width="285" height="190" alt="Photo of Donna" title="DoD - Department of the Navy/Naval Sea Systems Command" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32173" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="4f2b0ca5-de5b-4a4a-b783-bab0dc436e4f" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Corey.jpg?itok=D-yWysDL" width="285" height="190" alt="Photo of Corey " title="Corey, USPS" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Maddie.jpg.png?itok=SIpE5NYF" width="285" height="190" alt="Photo of Maddie" title="Maddie, Indiana Army National Guard" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/GLO.jpeg.png?itok=-IOELV0o" width="285" height="190" alt="Photo of Glo" title="Homeland Security, TSA, MSP" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Evangela_0.jpg?itok=OFivtP8U" width="285" height="190" alt="Photo of Evangela" title="Evangela, Department of Defense" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Jordan.jpg.png?itok=ETvgCy3w" width="285" height="190" alt="Photo of Jordan" title="Department of State" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32172" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="7d9a1f30-8ab7-4233-a63e-76c3137c75ed" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Ken.jpg.png?itok=7HTvJs6A" width="285" height="190" alt="Photo of Ken" title="Federal Contractor" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Valerie.jpg.png?itok=rfXl9eSh" width="285" height="190" alt="Photo of Valerie" title="US Department of Veterans Affairs - Jesse Brown VA Medical Center" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Marcus.jpeg.png?itok=KDCW6CjM" width="285" height="190" alt="Photo of Marcus" title="Marcus, Department of Federal Affairs" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Kashmere.jpg.png?itok=HtqOFjgY" width="285" height="190" alt="Photo of Kashmere" title="Department of Health and Human Services" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Corey%20and%20son.jpg?itok=TFKmKY6k" width="285" height="190" alt="Photo of Corey Robinson and his son" title="Corey, Social Security Administration" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Corey%20mom_0.jpg?itok=B2IJKuO7" width="285" height="190" alt="Photo of Georgie Brushbreaker-Sparks" title="Georgie, Health and Human Services" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32171" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="4d63cce4-7240-4be9-9d53-55fdb8d34e7f" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Scott.png?itok=EWQ07f4L" width="285" height="190" alt="Photo of Scott" title="USDA/ARS/SRRC" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Richard.jpg.png?itok=iaesxqlV" width="285" height="190" alt="Photo of Richard" title="Bureau of Labor Statistics" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Rebecca.jpg.png?itok=ZSJasL4h" width="285" height="190" alt="Photo of Rebecca" title="Rebecca, DHS/USCIS" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Carlos.jpg?itok=UAneAoSw" width="285" height="190" alt="Photo of Carlos" title="Carlos, U.S. Navy" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Bill_0.jpg?itok=mniXWnL9" width="285" height="190" alt="Photo of Bill Barrett" title="Bill, U.S. Air Force, Retired" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Kirtis.jpg.png?itok=E54bQ2AT" width="285" height="190" alt="Photo of Kirtis" title="Respiratory Care" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+          <div class="dexp-grid-item">  <div data-history-node-id="32170" class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div data-uuid="512ca5af-c7c3-428b-95a4-fcabc2226e43" class="dexp-slick-carousel">
+  <div class="dexp-slick-carousel-inner">  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Taylor.jpg.png?itok=Yu5kt0HT" width="285" height="190" alt="Photo of Taylor" title="Taylor, Army family member" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-06/Tiffany.jpg?itok=ltu62-uD" width="285" height="190" alt="Photo of Tiffany" title="Tiffany, Veterans Administration" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-07/Prince%20Taylor.jpg?itok=_4oRH5BI" width="285" height="190" alt="Photo of Prince" title="Prince, Veterans Administration" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Terry.jpg.png?itok=QgHRRNtz" width="285" height="190" alt="Photo of Terry" title="Heart of the Midlands LFCC, Co-Chair" typeof="foaf:Image" class="image-style-original" />
+
+
+  <img src="/sites/cfc.org/files/styles/original/public/2020-09/Raymond.png?itok=Fnc9SH62" width="285" height="190" alt="Photo of Raymond" title="Associate Director, Southern Cal CFC" typeof="foaf:Image" class="image-style-original" />
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+</div>
+      </div>
+  <div class="dexp-grid-sizer" style="display: none"></div>
+</div>
+<div id="dexp-grid-message"><span>Saving...</span></div> 
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    
+    
+        <div id="main-content" class="clearfix main-content white-region">
+      <div class="container">
+        <div class="row">
+          <section class="col-md-12">
+                        <div id="main" class="clearfix main main-area"
+              >
+                                <div class="region region-content">
+    <div id="block-startupgrowth-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article data-history-node-id="35" role="article" about="/home" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <div class="node--content-container">
+            <div class="node--content clearfix">
+      <header>
+        
+                  <span property="schema:name" content="Home" class="rdf-meta hidden"></span>
+
+                                </header>
+              
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>The Combined Federal Campaign (CFC) is the official workplace giving campaign of the federal government allowing federal employees and retirees to pledge monetary support and volunteer time to approved charities. Thanks to the generosity of federal employees and retirees, the CFC is one of the largest and most successful fundraising campaigns in the world raising more than $8.4 billion since its inception in 1961. This year's campaign runs from Sept. 21 to Jan. 15, 2021. Read this year's <a href="https://www.chcoc.gov/content/opm-memo-2020-combined-federal-campaign"><strong>memorandum from OPM </strong></a>to Federal Department and Agency heads. </p>
+</div>
+      
+          </div>
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+                          </div>
+                      </section>
+                            </div>
+      </div>
+    </div>
+    
+                <div id="content-bottom" class="clearfix content-bottom white-region">
+        <div class="container">
+                    <div id="content-bottom-inside" class="clearfix content-bottom-inside"
+            >
+            <div class="row">
+                              <div class="col-md-5">
+                  <div id="content-bottom-first" class="content-bottom-first">
+                    <div class="content-bottom-area clearfix">
+                        <div class="region region-content-bottom-first">
+    <div id="block-donatelearnmore" class="block block-block-content block-block-contentc1e12f88-de2b-4741-9e60-bddba6f1e91c">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3 style="color: #208aa3 !important;">Online Pledge Portal</h3>
+
+<p>Our favorite way to give is online via payroll deduction which allows you to give a little each pay period to make a big difference for charities of your choice. You can even volunteer! Search the <strong><a href="https://cfcgiving.opm.gov/offerings">online charity list</a>.</strong>  </p>
+
+<div class="landing-button" style="margin-top: 47px;"><a href="https://cfcgiving.opm.gov/welcome">Donate</a></div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                  </div>
+                </div>
+                                            <div class="col-md-5 col-md-offset-2">
+                  <div id="content-bottom-second" class="content-bottom-second">
+                    <div class="content-bottom-area clearfix">
+                        <div class="region region-content-bottom-second">
+    <div class="zipcode-search-form zipcode-search block block-cfc-oc block-zipcode-search-block" data-drupal-selector="zipcode-search-form" id="block-exampleblock">
+  
+    
+      <div class="content">
+      <form action="/" method="post" id="zipcode-search-form" accept-charset="UTF-8">
+  <h3>YOUR LOCAL CFC WEBSITE</h3>Learn more about the CFC and resources available in your local area.<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-zipcode form-item-zipcode form-no-label">
+        <input data-drupal-selector="edit-zipcode" type="text" id="edit-zipcode" name="zipcode" value="" size="60" maxlength="5" placeholder="ENTER YOUR WORK ZIP/APO CODE" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<a href="local-cfc-zones" class="zone-link">Search by CFC zone name</a> or <a href="/sites/cfc.org/files/Campaign%20Zone%20URL%20Map.pdf" class="zone-link">Search by CFC zone map</a><br /><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Learn More" class="button js-form-submit form-submit" />
+<input autocomplete="off" data-drupal-selector="form-jchzc9dpprzjotflje4f3psskgdm8lseok69y18xsh4" type="hidden" name="form_build_id" value="form-JCHzC9dPprZJOtFLJe4f3pssKGdm8lsEoK69Y18xSH4" />
+<input data-drupal-selector="edit-zipcode-search-form" type="hidden" name="form_id" value="zipcode_search_form" />
+
+</form>
+
+    </div>
+  </div>
+
+  </div>
+
+                    </div>
+                  </div>
+                </div>
+                          </div>
+          </div>
+                  </div>
+      </div>
+          
+    
+    
+    
+                <div id="featured" class="clearfix featured white-region">
+        <div class="container">
+                    <div id="featured-inside" class="clearfix featured-inside"
+            >
+            <div class="row">
+              <div class="col-md-12">
+                <div class="featured-area">
+                    <div class="region region-featured">
+    <div id="block-getinvolved" class="get-involved block block-block-content block-block-contentdec945c9-98da-406b-b1f7-3e36dea3f250">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3 style="color: #208aa3 !important; font-size: 24px;">GET INVOLVED</h3>
+
+<p>Here are a few additional ways to join the CFC community and engage with the campaign.</p>
+
+<div>
+<div class="involved-buttons"><a data-image-style="fair_image" href="/virtual-videos"><img alt="Icon representing watching a video" data-entity-type="file" data-entity-uuid="22ec26d7-bebe-4084-885c-9646d8e4cf81" data-image-style="fair_image" src="/sites/cfc.org/files/inline-images/NEWVideo.jpg" width="350" height="233" typeof="foaf:Image" class="image-style-fair-image align-center" /></a></div>
+
+<div class="involved-buttons"><a data-image-style="fair_image" href="/charity-stories"><img alt="Icon of a book representing reading charity stories" data-entity-type="file" data-entity-uuid="018fc6fd-7a37-4858-a2e6-7cfdc147b563" data-image-style="fair_image" src="/sites/cfc.org/files/inline-images/NEWBook.jpg" width="350" height="233" typeof="foaf:Image" class="image-style-fair-image align-center" /></a></div>
+
+<div class="involved-buttons"><a data-image-style="fair_image" href="/sites/cfc.org/files/Zone%20Results%20Map%209%2030%2020.pdf"><img alt="people high fiving to celebrate success to represent tracking results icon" data-entity-type="file" data-entity-uuid="b9358ee8-1643-4932-9000-bf08a3606342" data-image-style="fair_image" src="/sites/cfc.org/files/inline-images/NEWHighFives.jpg" width="350" height="233" typeof="foaf:Image" class="image-style-fair-image align-center" /></a></div>
+
+<div class="involved-buttons">
+<p> </p>
+<a data-image-style="fair_image" href="/form/submit-a-selfie"><img alt="Take a selfie icon" data-entity-type="file" data-entity-uuid="9857cccd-0c9a-458f-84b6-302943869c11" data-image-style="fair_image" src="/sites/cfc.org/files/inline-images/selfie%20blue2.jpg" width="350" height="233" typeof="foaf:Image" class="image-style-fair-image align-center" /></a></div>
+
+<div class="involved-buttons"><a data-image-style="fair_image" href="/form/thank-a-charity"><img alt="Thank a charity icon" data-entity-type="file" data-entity-uuid="3c5ffc5d-c1a4-4e6b-af65-27da3a5fd012" data-image-style="fair_image" src="/sites/cfc.org/files/inline-images/NEWNote.jpg" width="350" height="233" typeof="foaf:Image" class="image-style-fair-image align-center" /></a></div>
+</div>
+
+<div class="involved-buttons"><a href="/virtual-videos">WATCH CHARITY VIDEOS</a></div>
+
+<div class="involved-buttons"><a href="/charity-stories">READ CHARITY STORIES</a></div>
+
+<div class="involved-buttons"><a href="/sites/cfc.org/files/Zone%20Results%20Map%209%2030%2020.pdf">TRACK CAMPAIGN RESULTS</a></div>
+
+<div class="involved-buttons"><a href="/form/submit-a-selfie">SUBMIT<br />
+YOUR<br />
+SELFIE</a></div>
+
+<div class="involved-buttons"><a href="/form/thank-a-charity">THANK<br />
+A<br />
+CHARITY</a></div>
+</div>
+      
+    </div>
+  </div>
+<div id="block-charityinformation" class="block block-block-content block-block-contente3ff8e15-d1e4-4228-9b6f-4fc7edf779b7">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3 style="color: #208aa3 !important; font-size: 24px;">CHARITY INFORMATION</h3>
+
+<p>CFC-participating charities wanting to learn more about how to get the most out of CFC participation can visit our <a href="/charity-resources"><strong>Charity Resources page</strong></a> for tools and materials, download our <a href="https://givecfc.org/sites/cfc.org/files/config_YiW6Xt82GakcwSXlvAy0TO9oD1HwFAeKZ-MqguOXrEneIWl2_Wa_pQp28kAY8n4b8t7cSuzrHw/508%202020%20Charity%20Engagement%20Guide.pdf"><strong>Charity Engagement Guide</strong></a>, and enter their ZIP code in the search above to learn more about the CFC in their local area.</p>
+
+<p>Are you a charity interested in participating in the 2021 CFC? Visit the <strong><a href="https://cfccharities.opm.gov/app/#!/applicationForCharities/">charity application portal</a></strong>.</p>
+</div>
+      
+    </div>
+  </div>
+<div id="block-whitespace" class="block block-block-content block-block-content7736e4d7-784c-4a53-a66e-db410a3dba4a">
+  
+    
+      <div class="content">
+      
+    </div>
+  </div>
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+                  </div>
+      </div>
+          
+    
+  </div>
+  
+          <div id="footer-top" class="clearfix footer-top one-region light-gray-region">
+      <div class="container">
+                <div id="footer-top-inside" class="clearfix footer-top-inside"
+          >
+          <div class="row">
+                          <div class="col-md-12">
+                                <div id="footer-top-first" class="clearfix footer-top-first">
+                  <div class="footer-top-area">
+                      <div class="region region-footer-top-first">
+    <div id="block-thankyoumessage" class="testimonials-front block block-block-content block-block-contenta6417a78-b752-4d3d-8cba-64a4b2b43a97">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h4 class="text-align-center" style="color: #fff !important;margin-bottom: -10px;">Thank You Messages from CFC Charities</h4>
+</div>
+      
+    </div>
+  </div>
+<div class="views-element-container testimonials-front block block-views block-views-blockmt-testimonials-block-2" id="block-views-block-mt-testimonials-block-2-2">
+  
+    
+      <div class="content">
+      <div><div class="view-testimonials view-testimonials-block view view-mt-testimonials view-id-mt_testimonials view-display-id-block_2 js-view-dom-id-c698fb21569461054397a066e588f6b8fd7f0c793626aacbf63067c208b3a28b">
+  
+    
+      
+      <div class="view-empty">
+      <h4 style="color: #ffffff !important">Coming soon!</h4>
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+                  </div>
+                </div>
+                              </div>
+                                  </div>
+        </div>
+              </div>
+    </div>
+      
+          <footer id="footer" class="clearfix footer colored-region">
+      <div class="container">
+        <div class="row">
+                      <div class="col-sm-6">
+              <div class="footer-area"
+                >
+                  <div class="region region-footer-first">
+    <div id="block-cfcaddress" class="block block-block-content block-block-content1d796344-81e4-4beb-abd5-8002c21f2f8a">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="localized-logo"><img alt="CFC Logo white" data-entity-type="file" data-entity-uuid="fd6d5321-4032-4c9b-bed5-68c1984cf5df" data-image-style="" height="500" src="/sites/cfc.org/files/inline-images/CFC-white-logo.png" width="750" class="align-left" /><ul class="icons-list text-left"><li class="facebook"><a href="https://www.facebook.com/CombinedFederalCampaign/"><i class="fa fa-facebook"><span class="sr-only">facebook</span></i></a></li>
+	<li class="twitter"><a href="https://twitter.com/CFC"><i class="fa fa-twitter"><span class="sr-only">twitter</span></i></a></li>
+</ul></div>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+                                <div class="col-sm-6">
+              <div class="footer-area"
+                >
+                  <div class="region region-footer-second">
+    <div id="block-subfooter" class="landing-footer block block-superfish block-superfishmt-subfooter-menu">
+  
+    
+      <div class="content">
+      
+<ul id="superfish-mt-subfooter-menu" class="menu sf-menu sf-mt-subfooter-menu sf-horizontal sf-style-none">
+  
+<li id="mt-subfooter-menu-menu-link-contentbc25bc25-3670-4c2f-9559-4d8ce6b952a6" class="sf-depth-1 sf-no-children"><a href="/help" class="sf-depth-1">Help</a></li><li id="mt-subfooter-menu-menu-link-contentd21cebc7-c4b3-4a8b-ac15-a9a26673bb1d" class="sf-depth-1 sf-no-children"><a href="https://www.opm.gov/information-management/freedom-of-information-act/" class="sf-depth-1 sf-external">FOIA</a></li><li id="mt-subfooter-menu-menu-link-contente16d9345-388b-4dec-abab-fb920a5bddd5" class="sf-depth-1 sf-no-children"><a href="https://www.opm.gov/information-management/privacy-policy/#url=Overview" class="sf-depth-1 sf-external">Privacy Policy</a></li>
+</ul>
+
+    </div>
+  </div>
+<div id="block-copyright" class="block block-block-content block-block-content77bbdaf0-f40e-46e6-9ecf-f4cb3eb9f644">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p> </p>
+
+<div><strong>2020 Combined Federal Campaign. All Rights Reserved.</strong></div>
+
+<p> </p>
+</div>
+      
+    </div>
+  </div>
+<div id="block-getadobe" class="block block-block-content block-block-content4c1b0e12-a723-4335-be46-e8b0d6917bb7">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>This web site contains PDF documents that require the most current version of Adobe Reader to view. To download, click on the icon.<br /><br /><a href="https://get.adobe.com/reader/"><img alt="Get Adobe Reader" height="31" src="/sites/default/files/getacro.gif" width="88" /></a></p>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+
+              </div>
+            </div>
+                                      </div>
+      </div>
+    </footer>
+      
+  
+        <div id="toTop" class="to-top"><i class="fa fa-angle-up"></i></div>
+    
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/35","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-169233547-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":0,"extFollowNoOverride":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"cfcgiving\\.opm\\.gov\\\/welcome","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"startupgrowth":{"sliderRevolutionFullWidthInit":{"slideshowFullWidthEffectTime":10000,"slideshowFullWidthInitialHeight":500,"slideshowFullWidthBulletsPosition":"center"},"sliderRevolutionFullScreenInit":{"slideshowFullScreenEffectTime":10000,"slideshowFullScreenBulletsPosition":"right"},"sliderRevolutionBoxedWidthInit":{"slideshowBoxedWidthEffectTime":10000,"slideshowBoxedWidthInitialHeight":500,"slideshowBoxedWidthBulletsPosition":"center"},"sliderRevolutionInternalBannerInit":{"slideshowInternalBannerEffectTime":10000,"slideshowInternalBannerInitialHeight":500,"slideshowInternalBannerBulletsPosition":"left"},"flexsliderInPageInit":{"inPageSliderEffect":"slide"},"transparentHeader":{"transparentHeaderOpacity":0.4},"ParallaxAndVideoBg":{"ParallaxAndVideoBgOpacity":0.8},"VideoBackgroundInit":{"PathToVideo_mp4":"https:\/\/givecfc.org\/themes\/custom\/startupgrowth\/videos\/background-video.mp4","PathToVideo_webm":"https:\/\/givecfc.org\/themes\/custom\/startupgrowth\/videos\/background-video.webm","pathToVideo_jpg":"https:\/\/givecfc.org\/themes\/custom\/startupgrowth\/videos\/background-video.jpg"},"isotopeFiltersGridInit":{"isotopeFiltersText":"All","isotopeLayoutMode":"masonry"},"nodeSideAffix":{"affixAdminHeigth":79,"affixFixedHeaderHeigth":72}},"superfish":{"superfish-mt-subfooter-menu":{"id":"superfish-mt-subfooter-menu","sf":{"animation":{"opacity":"show"},"speed":"fast"},"plugins":{"supposition":true,"supersubs":true}}},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"dexp_slick":{"512ca5af-c7c3-428b-95a4-fcabc2226e43":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"4d63cce4-7240-4be9-9d53-55fdb8d34e7f":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"7d9a1f30-8ab7-4233-a63e-76c3137c75ed":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"4f2b0ca5-de5b-4a4a-b783-bab0dc436e4f":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"1e9ebf19-b830-42d8-82a1-88de8d7b53e3":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"5c1c15ba-dac5-4d21-8f8f-9d3e22fd83dc":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"d065bcf1-4114-4257-bf0e-18e353ba896e":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1},"0174ffe4-6d45-4cd4-99b4-8d0b33855486":{"autoplay":"1","autoplaySpeed":"2000","arrows":"1","dots":0,"xs":1,"sm":1,"md":1,"lg":1}},"dexp_grid":{"bf5ccae0-91ef-43f3-8bf0-6532015accc4":{"view":"mt_showcases","display_id":"block_1","lg_cols":4,"md_cols":4,"sm_cols":2,"xs_cols":1,"margin":0,"ratio":1}},"user":{"uid":0,"permissionsHash":"29178df05b33c758517fcd868f34a4566c02e164c73d003530eef374949a1b18"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.5"></script>
+<script src="/core/misc/drupal.js?v=8.9.5"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.5"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.9.5"></script>
+<script src="/themes/custom/startupgrowth/bootstrap/js/bootstrap.min.js?v=3.4.1"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=8.9.5"></script>
+<script src="/libraries/superfish/superfish.js?qhlawc"></script>
+<script src="/libraries/superfish/jquery.hoverIntent.minified.js?qhlawc"></script>
+<script src="/libraries/superfish/supposition.js?qhlawc"></script>
+<script src="/libraries/superfish/supersubs.js?qhlawc"></script>
+<script src="/modules/superfish/js/superfish.js?v=2.0"></script>
+<script src="/themes/custom/startupgrowth/js/custom/to-top.js?v=8.9.5"></script>
+<script src="/themes/custom/startupgrowth/js/waypoints/jquery.waypoints.min.js?v=4.0.0"></script>
+<script src="/themes/custom/startupgrowth/js/init/waypoints-init.js?v=8.9.5"></script>
+<script src="/themes/custom/startupgrowth/js/custom/fixed-header.js?v=8.9.5"></script>
+<script src="/modules/contrib/dexp_slick/assets/js/slick/slick.min.js?qhlawc"></script>
+<script src="/modules/contrib/dexp_slick/assets/js/dexp-slick.js?v=8.x-1.0"></script>
+<script src="/modules/contrib/dexp_grid/assets/js/jquery.shuffle.min.js?v=1"></script>
+<script src="/modules/contrib/dexp_grid/assets/js/dexp_grid.js?v=1.x"></script>
+
+  </body>
+</html>

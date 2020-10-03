@@ -8,28 +8,31 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
+
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
-    
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
-    
     <link rel="apple-touch-icon-precomposed" sizes="72x72"   href="/apple-touch-icon-72x72-precomposed.png">
-    
     <link rel="apple-touch-icon-precomposed"                 href="/apple-touch-icon-precomposed.png">
-    <link rel="stylesheet" type="text/css" media="screen, projection" href="https://www.ncmedboard.org/?css=styles/screen.v.1592485528">
-    <link rel="stylesheet" type="text/css" media="print"              href="https://www.ncmedboard.org/?css=styles/print.v.1592485528">
+
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="https://www.ncmedboard.org/?css=styles/screen.v.1601663938">
+    
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://kit.fontawesome.com/3e0966dabf.js" crossorigin="anonymous"></script>
 
     <!--[if lte IE 9]>
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <link rel="stylesheet" type="text/css" media="screen, projection" href="https://www.ncmedboard.org/?css=styles/ie.v.1592485528" />
+      <link rel="stylesheet" type="text/css" media="screen, projection" href="https://www.ncmedboard.org/?css=styles/ie.v.1601663938" />
       <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-    <script src="/assets/js/html5shiv-printshiv.min.js"></script>
-    <script src="/assets/js/respond.min.js"></script>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="/js/html5shiv-printshiv.min.js"></script>
+    <script src="/js/respond.min.js?v=0.2"></script>
+    <script src="/js/jquery.easing.1.3.min.js?v=0.2"></script>
+
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js"></script>
     
     
   </head>
@@ -38,13 +41,17 @@
     <a class="skip-navigation" href="#main-content" tabindex="1">Skip to main content</a>
     <a class="open-navigation  no-underline mobile-only" href="#navigation">Navigation</a>
     <a class="close-navigation no-underline mobile-only" href="#top">Return to Content</a>
-    <header role="banner"     id="top">
+    <header role="banner" id="header-element">
       <div class="wrapper">
-        <h1 class="logo"><a class="no-underline" href="https://www.ncmedboard.org/" title="NC Medical Board -  Home Page">NC Medical Board</a></h1>
-        <div class="tel no-underline more-less-legroom more-less-headroom">Contact Us Toll Free: <a href="tel:18002539653">1-800-253-9653</a></div>
+        <div class="logo"><a class="no-underline" href="https://www.ncmedboard.org/" title="NC Medical Board -  Home Page">NC Medical Board</a></div>
+        <div class="tel no-underline more-less-legroom more-less-headroom">Contact Us Toll Free: 
+
+  
+    <a href="tel:18002539653">1-800-253-9653</a>
+  
+</div>
       </div><!-- /div.wrapper -->
-    </header>
-    <nav    role="navigation" id="navigation" class="main no-underline">
+      <nav    role="navigation" id="navigation" class="main no-underline">
       <div class="wrapper">
         <ul>
                     <li><a title="Home"  href="https://www.ncmedboard.org/">Home</a></li>
@@ -70,6 +77,88 @@
         </ul>
       </div><!-- /div.wrapper -->
     </nav>
+     
+<article id="message" class="Notice " style="display: none;">
+    <div class="message--text">
+      <h2 class="open-message">
+
+      
+        <i class="fas fa-info-circle message--icon" aria-hidden="true"></i>
+      
+        <a id="message--close" title="Close Message"><i class="far fa-times-circle"></i></a>
+        <span>Effective March 17, 2020, NCMB is operating but its Raleigh offices are closed to visitors.</span>
+        <br><a class="p message--read-more">Read More</a>
+      </h2>
+      <div class="message--more">
+        <p>To protect against the spread of COVID-19, NCMB has closed its offices at 1203 Front Street in Raleigh to all visitors. NCMB will continue to accept deliveries in the vestibule at the front entrance and through the mail slots. </p>
+
+<p>NOTE: Most NCMB staff are telecommuting. This has disrupted normal business processes, and delays are expected. Please be patient with us during these unprecedented times.</p>
+        
+      </div>
+    </div>
+  </article>
+  <a id="message--open" class="{notice_background_color}" title="View Message">
+
+  
+  <i class="fas fa-info-circle message--icon" aria-hidden="true"></i>
+  
+  </a>
+<script>
+  $(document).ready(function() {
+    'use strict';
+    var container = '#message',
+        openBtn   = container + '--open',
+        closeBtn  = container + '--close';
+
+    var showMore_ctx = $('.message--text', container),
+        showMore_show = $('.message--read-more', container),
+        showMore_more = $('.message--more', container);
+
+    var speed     = 1000;
+
+    var cookie    = {
+        'name'  : 'alertMessage',
+        'value' : 'hide',
+        'days'  : 0.167
+    };
+
+    if (readCookie(cookie['name']) == cookie['value']) {
+      $(message).hide();
+      $(openBtn).fadeIn(speed, function () {
+        $(openBtn).css('display', 'inline-block');
+      });
+    } else {
+      $(openBtn).hide();
+      $(message).fadeIn(speed);
+    }
+
+    $(closeBtn).on('click', function (e) {
+      e.preventDefault();
+      $(container).fadeOut(speed);
+      $(openBtn).fadeIn(speed, function () {
+        $(openBtn).css('display', 'inline-block');
+      });
+      createCookie(cookie['name'], cookie['value'], cookie['days']);
+      
+      showMore_show.show();
+      showMore_more.fadeOut(speed);
+      showMore_ctx.find('.open').removeClass('open');
+    })
+    $(openBtn).on('click', function (e) {
+      e.preventDefault();
+      $(container).fadeIn(speed);
+      $(openBtn).fadeOut(speed);
+    })
+
+    showMore_more.hide();
+    ncmedboard.showGlobalNotice(showMore_more, showMore_show, '', 'easeOutBounce', 100)
+
+  });
+</script>
+
+
+    </header>
+
     <form class="search-box" action="https://www.ncmedboard.org/search">
       <input type="text" class="st-default-search-input" name="q" placeholder="Search NC Medical Board">
       <button type="submit" class="mobile-only " title="Search">
@@ -82,93 +171,21 @@
            Consider upgrading your browser or choosing a new one (for free!): <a href="https://www.mozilla.org/en-US/firefox/new/" title="Firefox Browser by Mozilla, Corp.">Firefox</a> or <a href="https://www.google.com/intl/en_us/chrome/browser/" title="Chrome Browser by Google, Inc.">Chrome</a>.
       </div>
     <![endif]-->
-    
-<style type="text/css">
-  body {
-    border: 2px solid rgb(208, 56, 0);
-  }
-  section.alert.emergency {
-    background-color: rgb(208, 56, 0);
-    background-image: url(/images/site_images/bg-pattern@2x.png);
-    background-repeat: repeat;
-    background-position: top left;
-    background-size: 3px 3px;
-    color: #ffffff;
-    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
-    border-bottom: 1px solid #173e56;
-    min-height: 72px;
-  }
-  section.alert.emergency .wrapper {
-    padding: 12px 44px;
-  }
-  section.alert.emergency .icon {
-    float: left;
-    margin-right: 12px;
-  }
-  section.alert.emergency h2,
-  section.alert.emergency h3 {
-    margin-top: 0;
-    padding-left: 60px;
-  }
-  section.alert.emergency h3,
-  section.alert.emergency .more {
-  }
-  section.alert.emergency .more {
-    display: none;
-  }
-  section.alert.emergency a:hover {
-    color: #ffffff;
-  }
-  section.alert.emergency.open h3 {
-    display: none;
-  }
-</style>
-<section class="alert emergency">
-  <div class="wrapper">
-    <a class="hide float-right"><i class="fa fa-times-circle"></i></a>
-    <div class="icon"><i class="fa fa-exclamation-triangle fa-3x"></i></div>
-    <h3 class="show">Effective March 17, 2020, NCMB is operating but its Raleigh offices are closed to visitors.</h3>
-    <button class="show mobile-only button"><strong><i class="fa fa-arrow-circle-down"></i>&emsp;View Full Message</strong></button>
-    <a class="show no-mobile"><strong><i class="fa fa-arrow-circle-down"></i>&emsp;View Full Message</strong></a>
-    <div class="more">
-      <h2>NCMB has closed its offices to visitors.</h2>
-      <p>To protect against the spread of COVID-19, NCMB has closed its offices at 1203 Front Street in Raleigh to all visitors. NCMB will continue to accept deliveries in the vestibule at the front entrance and through the mail slots. </p>
-
-<p>NOTE: Most NCMB staff are telecommuting. This has disrupted normal business processes, and delays are expected. Please be patient with us during these unprecedented times.</p>
-      <button class="hide mobile-only button"><i class="fa fa-times-circle"></i>&emsp;Hide This Message</button>
-      <a class="hide no-mobile"><strong><i class="fa fa-times-circle"></i>&emsp;Hide This Message</strong></a>
-    </div>
-  </div>
-</section>
-<script>
-  $(document).ready(function() {
-    'use strict';
-    $('section.alert').on('click', '.show', function () {
-      $('section.alert .more').slideDown(250);
-      $('section.alert .show').hide();
-    }).on('click', '.hide', function () {
-      $(this).parents('section.alert').slideUp(500);
-      $('body').css('border', 'none');
-    });
-  });
-</script>
-
-
+   
     
 
 
 
 <main role="main" class="403.shtml">
   <div class="wrapper">
-
-<h1 class="pagehead">
+    <h1 class="pagehead">
 We're sorry
 </h1>
+    <div class="interior-content">
+      
+      <article id="main-content">
 
-
-    <article id="main-content">
-
-
+      
 
 
   
@@ -185,16 +202,16 @@ We're sorry
 
 <p>Some of the links for online applications, renewals, status checks and other interactive areas have been changed. Typically these changes can be achieved simply by substituting wwwapp for www to redirect to the new URL. We&#8217;ve updated the links to those services in the navigation on the new site, however you will need to update your bookmarks to reflect the new URL.</p>
 
-<p>If you feel you have reached this page in error, please email our <span data-eeEncEmail_QWoADbzehb='1'>.(JavaScript must be enabled to view this email address)</span><script>/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119','>','\"',' 109',' 111',' 99',' 46',' 115',' 110',' 103',' 105',' 115',' 101',' 100',' 112',' 109',' 105',' 64',' 115',' 110',' 111',' 105',' 116',' 97',' 99',' 105',' 102',' 105',' 116',' 111',' 110',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_QWoADbzehb'))el[j].innerHTML = out;/*]]>*/</script>. Be sure to include what page you were trying to reach and what browser you&#8217;re using.</p>
+<p>If you feel you have reached this page in error, please email our <span data-eeEncEmail_DdfhHUlJBH='1'>.(JavaScript must be enabled to view this email address)</span><script>/*<![CDATA[*/var out = '',el = document.getElementsByTagName('span'),l = ['>','a','/','<',' 114',' 101',' 116',' 115',' 97',' 109',' 98',' 101',' 119','>','\"',' 109',' 111',' 99',' 46',' 115',' 110',' 103',' 105',' 115',' 101',' 100',' 112',' 109',' 105',' 64',' 115',' 110',' 111',' 105',' 116',' 97',' 99',' 105',' 102',' 105',' 116',' 111',' 110',':','o','t','l','i','a','m','\"','=','f','e','r','h','a ','<'],i = l.length,j = el.length;while (--i >= 0)out += unescape(l[i].replace(/^\s\s*/, '&#'));while (--j >= 0)if (el[j].getAttribute('data-eeEncEmail_DdfhHUlJBH'))el[j].innerHTML = out;/*]]>*/</script>. Be sure to include what page you were trying to reach and what browser you&#8217;re using.</p>
 
 <p>Thank you.</p></div>
 
 
 
+        
 
-
-    </article>
-
+      </article>
+    </div>
   </div><!-- /div.wrapper -->
 </main>
     <footer role="contentinfo">
@@ -218,18 +235,61 @@ We're sorry
 
           </ul>
         </nav>
-        <div class="tel">Contact Us Toll Free: <a href="tel:18002539603">1-800-253-9653</a></div>
+        <div class="tel">Contact Us Toll Free: 
+
+  
+    <a href="tel:18002539653">1-800-253-9653</a>
+  
+</div>
         <div class="address">
           <div class="feedback">
             <a href="https://www.ncmedboard.org/contact">Provide Website Feedback</a>
           </div>
           <p class="adr">
-            Physical Address: 1203 Front Street, Raleigh, NC, 27609-7533<br>
-            Mailing Address: PO Box 20007, Raleigh, NC, 27619-0007<br>
-            Telephone: (919) 326-1100 or (919) 326-1109 | <span class="no-wrap">Free Long Distance: (800) 253-9653</span><br>
-            General Fax: (919) 326-1131
+            
+
+  
+    Physical Address: 1203 Front Street, Raleigh, NC 27609-7533<br>
+  
+    Mailing Address: PO Box 20007, Raleigh, NC 27619-0007<br>
+  
+  
+    Telephone: <span class="no-wrap"><a href="tel:9193261100">(919) 326-1100</a></span>
+  
+     or <span class="no-wrap"><a href="tel:9193261109">(919) 326-1109</a></span>
+  
+     | Free Long Distance: <span class="no-wrap"><a href="tel:8002539653">(800) 253-9653</a></span>
+  
+     | General Fax: <span class="no-wrap"><a href="tel:9193261131">(919) 326-1131</a></span>
+  
+
+
+            
           </p>
-          <p><a class="disclaimer" href="/home/disclaimer">Disclaimer</a></p>
+          <p><a class="disclaimer" data-fancybox data-src="#hidden-disclaimer" href="javascript:;">Disclaimer</a></p>
+          <div style="display:none;"  id="hidden-disclaimer">
+  <h2 class="pagetext_header">Disclaimer</h2>
+  <aside>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  </aside>
+  <div class="pagetext_text"><p>The North Carolina Medical Board makes the information contained in this website available as a public service. Under no circumstances shall the Board, its members, officers, agents, or employees be liable for any actions taken or omissions made in reliance on any information contained in this website or for any consequences of any such reliance. Information posted in this website is not intended to constitute either medical or legal advice or opinion. </p>
+
+<p>A note: <a href="https://www.ncmedboard.org/images/uploads/other_pdfs/License_Information_Pages.pdf">License_Information_Pages.pdf</a></p></div>
+</div>
+
+
 
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
@@ -237,11 +297,25 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-          <ul class="social">
-            <li><a href="https://twitter.com/ncmedboard"      title="Twitter" ><span class="ADA_hide">Twitter </span></a></li>
-            <li><a href="https://www.facebook.com/ncmedboard" title="Facebook"><span class="ADA_hide">Facebook</span></a></li>
-          </ul>
+
+          
         </div>
+        <div class="social-media">
+
+  
+    <ul>
+      <li class="twitter"><a href="https://twitter.com/ncmedboard">twitter</a></li>
+    
+  
+    
+      <li class="facebook"><a href="https://www.facebook.com/ncmedboard">facebook</a></li>
+    
+  
+    
+      <li class="linked-in"><a href="https://www.linkedin.com/company/north-carolina-medical-board/">linked-in</a></li>
+    </ul>
+  
+</div>
         <div class="credits no-underline">
           <a href="https://www.impdesigns.com" title="Imp Designs: A Raleigh Web Design Company">Imp Designs: A Raleigh Web Design Company</a>
         </div>
@@ -252,10 +326,10 @@ function googleTranslateElementInit() {
           <form method="post" action="https://www.ncmedboard.org/403.shtml"  >
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="59" />
-<input type="hidden" name="RET" value="gnxaa8rYCfQojyfKhnou2ZqH0QeVNkk4LKJXwewr0UI=" />
-<input type="hidden" name="consent_names" value="J/0XW3+OA2G8fU/9iqzLNxRfw/fUqzNk7WPH8Hutnxd0/CAtMJn7aSbJSfczvW2jCO63cR4qKZmW+oiYZF0scWAeBiKyBCZYIvpebDhNsUrlMXc18dNiWjL6R2AF7XC4" />
+<input type="hidden" name="RET" value="Eq0q3eiXgMHXVGzepP6gvr9AFbwLKCwwNg2rLzR+bcs=" />
+<input type="hidden" name="consent_names" value="x02BFuphn4TMxKqC4XE4U8YlTLS16MZ1NYbkMDls7f4n29GUAFKU9ardpkczq4pkc3DCLX/J8adGyHhAO++mUdE+s0hGyqadsOAdI1QsmnmgdEODy0+R1xsqjcmFmhHc" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="0b44daceee12e1e4427f09ee386dbaaa2d20429c" />
+<input type="hidden" name="csrf_token" value="994872a0a9cd7409104490bb498fdf77277dc656" />
 </div>
 
 
@@ -273,18 +347,26 @@ function googleTranslateElementInit() {
         </div>
       </div>
       
-    </footer>
-    <script src="/assets/js/ncmedboard.js"></script>
-    
-    <script type="text/javascript">
-      'use strict';
-      ncmedboard.loadFancyBox('footer .disclaimer', {
-        maxWidth: 400,
-        minHeight: 400,
-        autoHeight: true,
-        type: 'iframe'
-      });
+    </footer>  
+    <script src="/js/_utilities.js?v=0.2"></script>
+    <script src="/js/_fontloader.js?v=0.2"></script>
+    <script src="/js/ncmedboard.js?v=0.2"></script>
+    <script>
+      window.addEventListener('load', function(){
+        function resizeHeaderOnScroll() {
+          const distanceY = window.pageYOffset || document.documentElement.scrollTop,
+          shrinkOn = 30,
+          headerEl = document.getElementById('header-element');
+  
+          if (distanceY > shrinkOn) {headerEl.classList.add("fixed-header");} else {headerEl.classList.remove("fixed-header");}
+        }
+        window.addEventListener('scroll', resizeHeaderOnScroll);
+      }, false);
     </script>
+
+    
+
+
     <script type="text/javascript">
       (function(w,d,t,u,n,s,e){w['SwiftypeObject']=n;w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
       e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
@@ -292,6 +374,5 @@ function googleTranslateElementInit() {
   
       _st('install','WexwZNepyPtuvHYhD6NK','2.0.0');
     </script>
-    
   </body>
 </html>

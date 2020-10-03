@@ -624,51 +624,6 @@ Page not found
                     Public Works
                   </a>
                   
-
-
-  
-  <ul>
-    
-      
-      <li>
-        <a href="/public-works/cemetery/">Cemetery</a>
-        
-      </li>
-      
-    
-      
-      <li>
-        <a href="/public-works/collection-schedules/">Collection Schedules</a>
-        
-      </li>
-      
-    
-      
-      <li>
-        <a href="/public-works/public-works-faq/">Public Works FAQ</a>
-        
-      </li>
-      
-    
-      
-      <li>
-        <a href="/public-works/yard-waste/">Yard Waste</a>
-        
-      </li>
-      
-    
-      
-      <li>
-        <a href="/public-works/animal-control-ordinances/">Animal Control Ordinances</a>
-        
-      </li>
-      
-    
-  </ul>
-  
-
-
-
                 </li>
               </ul>
             
@@ -687,13 +642,6 @@ Page not found
     
       
       <li>
-        <a href="/utilities/advanced-metering-infrastructure-ami-project/">Advanced Metering Infrastructure Project</a>
-        
-      </li>
-      
-    
-      
-      <li>
         <a href="http://valdesenc.csibillpay.com">Pay Your Water Bill</a>
         
       </li>
@@ -701,23 +649,15 @@ Page not found
     
       
       <li>
-        <a href="/utilities/storm-water/">Storm Water</a>
+        <a href="/utilities/storm-water/">Storm Water, Waste Water, Water Department, and Public Works</a>
         
       </li>
       
     
       
-      <li>
-        <a href="/utilities/water/">Water Department</a>
-        
-      </li>
-      
     
       
-      <li>
-        <a href="/utilities/wastewater/">Wastewater</a>
-        
-      </li>
+    
       
     
   </ul>
@@ -1249,17 +1189,6 @@ Page not found
     
       
       
-
-
-<ul>
-    
-      
-      
-    
-</ul>
-
-
-
     
       
       
@@ -1375,12 +1304,6 @@ Page not found
       
       
     
-      
-      
-    
-      
-      
-    
 </ul>
 
 
@@ -1398,15 +1321,18 @@ Page not found
     
       
       
+    
+      
+      
+    
+      
+      
+    
+      
+      
 
 
 <ul>
-    
-      
-      
-    
-      
-      
     
       
       
@@ -1415,15 +1341,6 @@ Page not found
 
 
 
-    
-      
-      
-    
-      
-      
-    
-      
-      
     
       
       
@@ -1473,20 +1390,20 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/flushing-water-lines-25/">
+        <a href="/blog/how-are-we-investing-in-valdese-infrastructure/">
           
           <div class="side-panel-img">
             <img class="center-block"
-              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/announcement.png/announcement-325x100.png"
+              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/waterline_sign.jpg/waterline_sign-325x100.jpg"
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">Flushing Water Lines</h3>
+          <h3 style="margin-bottom: 20px;">How are we investing in Valdese Infrastructure?</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/flushing-water-lines-25/">Read Post &gt;</a>
+          href="/blog/how-are-we-investing-in-valdese-infrastructure/">Read Post &gt;</a>
       </div>
       
       
@@ -1556,7 +1473,7 @@ Page not found
               </a>
             </div>
             <div class="footer__scroller">
-              <a href="/utilities/">
+              <a href="http://valdesenc.csibillpay.com/Account/Login.aspx" target="_blank" rel="noopener noreferrer">
                 <i class="fas fa-money-check-alt fa-2x"></i>
                 <span>Online Bill Pay</span>
               </a>

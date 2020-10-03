@@ -35,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- If Site Icon isn't set in customizer -->
     <link rel="pingback" href="https://www.eatsmartmovemorenc.com/xmlrpc.php">
   
-	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Page not found - Eat Smart, Move More NC</title>
 	<meta name="robots" content="noindex, follow" />
 	<meta property="og:locale" content="en_US" />
@@ -67,7 +67,7 @@ img.emoji {
 }
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.eatsmartmovemorenc.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='site-css-css'  href='https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/styles/style-min.css?ver=1597943874' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css-css'  href='https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/styles/style-min.css?ver=1601390590' type='text/css' media='all' />
 <script type='text/javascript' src='https://www.eatsmartmovemorenc.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="https://www.eatsmartmovemorenc.com/wp-json/" /><link rel="icon" href="https://www.eatsmartmovemorenc.com/wp-content/uploads/2019/11/cropped-ESMM_icon-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="https://www.eatsmartmovemorenc.com/wp-content/uploads/2019/11/cropped-ESMM_icon-192x192.jpg" sizes="192x192" />
@@ -184,7 +184,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>    
     <section class="show-for-xlarge">
       <a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">
-        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-1.png" alt="Core Behaviors" class="headerCoreBanner">
+        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-2.png" alt="Core Behaviors" class="headerCoreBanner">
       </a>
     </section>
     

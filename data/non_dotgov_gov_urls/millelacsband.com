@@ -15,7 +15,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,300i,600&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://millelacsband.com/assets/css/mlbo.css?updated=2020-07-16">
+  <link rel="stylesheet" href="https://millelacsband.com/assets/css/mlbo.css?updated=2020-09-24">
   
 <meta name="description" content="Oops! Something went wrong. The page you are looking for cannot be found. Visit the Mille Lacs Band homepage instead and take a look at our new website.">
 
@@ -207,6 +207,8 @@
               Constitution, Statutes and Policies            </a>
                       <a href="https://millelacsband.com/government/the-non-removable-mille-lacs-band-of-ojibwe" style="font-weight:700;">
               Non-Removable Mille Lacs Band            </a>
+                      <a href="https://millelacsband.com/government/voting-information" >
+              Voting Information            </a>
                   </div>
       </nav>
                             <nav class="subnav" data-subnav="about">
@@ -2167,8 +2169,10 @@
               Monolingual Ojibwemowin Books Are Now Available            </a>
                       <a href="https://millelacsband.com/news/band-member-s-artwork-featured-in-minneapolis" >
               Band Member's Artwork Featured in Minneapolis            </a>
-                      <a href="https://millelacsband.com/news/october-2020-message-from-the-chief-executive" >
-              October 2020 Message from the Chief Executive            </a>
+                      <a href="https://millelacsband.com/news/commissioner-s-mask-order-extended" >
+              Commissioner's Mask Order Extended            </a>
+                      <a href="https://millelacsband.com/news/september-2020-message-from-the-chief-executive" >
+              September 2020 Message from the Chief Executive            </a>
                       <a href="https://millelacsband.com/news/census-deadline-is-coming-soon" >
               Census Deadline Is Coming Soon            </a>
                       <a href="https://millelacsband.com/news/wraparound-moves-to-aanjibimaadizing" >
@@ -2187,14 +2191,47 @@
               Frequently Asked Deer Harvest Questions            </a>
                       <a href="https://millelacsband.com/news/swearing-in-ceremony-for-chief-executive-district-representative-is-september-8" >
               Swearing-In Ceremony for Chief Executive, District Representative Is September 8            </a>
+                      <a href="https://millelacsband.com/news/chief-executive-district-i-representative-sworn-in" >
+              Chief Executive, District I Representative Sworn In            </a>
                       <a href="https://millelacsband.com/news/band-assembly-establishes-agenda-and-live-streaming-procedures" >
               Band Assembly Establishes Agenda and Live-Streaming Procedures            </a>
+                      <a href="https://millelacsband.com/news/virgil-wind-takes-office-as-district-i-representative" >
+              Virgil Wind Takes Office as District I Representative            </a>
                       <a href="https://millelacsband.com/news/stronghearts-scales-to-respond-to-crisis-within-a-crisis" >
               Stronghearts Scales to Respond to Crisis within a Crisis            </a>
+                      <a href="https://millelacsband.com/news/community-meeting-provides-update-on-urban-housing-project" >
+              Community Meeting Provides Update on Urban Housing Project            </a>
+                      <a href="https://millelacsband.com/news/manoomin-presentation-september-26-27" >
+              Manoomin Presentation September 26-27            </a>
+                      <a href="https://millelacsband.com/news/early-ed-seeks-members-of-policy-council" >
+              Early Ed Seeks Members of Policy Council            </a>
+                      <a href="https://millelacsband.com/news/band-receives-entrepreneurship-grant" >
+              Band Receives Entrepreneurship Grant            </a>
+                      <a href="https://millelacsband.com/news/secretary-treasurer-s-midterm-update" >
+              Secretary-Treasurer's Midterm Update            </a>
+                      <a href="https://millelacsband.com/news/elders-can-experience-domestic-violence" >
+              Elders Can Experience Domestic Violence            </a>
+                      <a href="https://millelacsband.com/news/october-2020-message-from-the-chief-executive" >
+              October 2020 Message from the Chief Executive            </a>
+                      <a href="https://millelacsband.com/news/tragedy-remembered-in-online-ceremony" >
+              Tragedy Remembered in Online Ceremony            </a>
                   </div>
       </nav>
       
   
+  <div class="alert-stripe">
+    <div class="alert-inner">
+              <div class="alert-headline">
+                      #2021mlbophotocontest                  </div>
+      
+      
+      
+              <div class="button-holder">
+          <a href="https://millelacsband.com/news/2021mlbophotocontest" class="button">
+          Official Contest Rules          </a>
+        </div>
+          </div>
+  </div>
 
   
   <div class="search-stripe search-element">
@@ -2253,8 +2290,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/stronghearts-scales-to-respond-to-crisis-within-a-crisis" class="news-title">
-          Stronghearts Scales to Respond to Crisis within a Crisis        </a>
+        <a href="https://millelacsband.com/news/elders-can-experience-domestic-violence" class="news-title">
+          Elders Can Experience Domestic Violence        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

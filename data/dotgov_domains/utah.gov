@@ -10,10 +10,6 @@
 
 		<title>Utah.gov: The Official Website of the State of Utah</title>
 
-		<!--[if lte IE 9]>
-			<script type="text/javascript" src="./js/lib/html5.js"></script>
-		<![endif]-->
-
 		<link rel="stylesheet" href="https://js.arcgis.com/4.10/esri/css/main.css">
 		<link rel="stylesheet" href="./css/style.css?v=13212">
 		<link rel="stylesheet" href="./css/home/style.css?v=36242">
@@ -497,7 +493,7 @@
 	<form action="./search-results.html" class="formScript">
 		<p>
 			<label for="search-input">I want to:</label>
-			<input type="text" value="" name="q" id="search-input" autocomplete="off" class="typer" data-keywords='["Help Utah Emerge Stronger", "find out about the 2020 Census", "visit a state park", "buy a fishing license", "Women who shaped Utah history", "renew my vehicle", "renew my business"]'>
+			<input type="text" value="" name="q" id="search-input" autocomplete="off" class="typer" data-keywords='["find election information","Help Utah Emerge Stronger", "find out about the 2020 Census", "visit a state park", "buy a fishing license", "Women who shaped Utah history", "renew my vehicle"]'>
 
 			<button type="submit">
 				Search

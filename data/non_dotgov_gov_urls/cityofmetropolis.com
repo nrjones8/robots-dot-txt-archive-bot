@@ -40,8 +40,8 @@ body .gform_wrapper .gform_footer input.button,body .gform_wrapper .gform_page_f
 </style>
 <link rel='stylesheet' id='wm-divi-training-css'  href='https://www.metropolisil.gov/wp-content/plugins/wm-divi-training-xxx/public/css/wm-divi-training-public.css?ver=1.0.0' type='text/css' media='all' />
 <link rel='stylesheet' id='parent-style-css'  href='https://www.metropolisil.gov/wp-content/themes/Divi/style.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='divi-style-css'  href='https://www.metropolisil.gov/wp-content/themes/sp-divi/style.css?ver=4.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Source+Serif+Pro%3Aregular%2C600%2C700%7CSource+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7COpen+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=latin%2Clatin-ext&#038;display=swap&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://www.metropolisil.gov/wp-content/themes/sp-divi/style.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Source+Serif+Pro:regular,600,700|Source+Sans+Pro:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900,900italic|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
 <link rel='stylesheet' id='gforms_reset_css-css'  href='https://www.metropolisil.gov/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.4.20' type='text/css' media='all' />
 <link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://www.metropolisil.gov/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.4.20' type='text/css' media='all' />
 <link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://www.metropolisil.gov/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.4.20' type='text/css' media='all' />
@@ -72,7 +72,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <link rel='shortlink' href='https://www.metropolisil.gov/' />
 <link rel="alternate" type="application/json+oembed" href="https://www.metropolisil.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.metropolisil.gov%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://www.metropolisil.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.metropolisil.gov%2F&#038;format=xml" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="" /><link rel="stylesheet" id="et-core-unified-54-cached-inline-styles" href="https://www.metropolisil.gov/wp-content/et-cache/54/et-core-unified-54-15998579446627.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="" /><link rel="stylesheet" id="et-core-unified-54-cached-inline-styles" href="https://www.metropolisil.gov/wp-content/et-cache/54/et-core-unified-54-16010630994266.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
 <body data-rsssl=1 class="home page-template page-template-page-template-blank page-template-page-template-blank-php page page-id-54 et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
 	<div id="page-container">
 
@@ -103,7 +103,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_module et_pb_image et_pb_image_0">
 				
 				
-				<span class="et_pb_image_wrap "><img src="https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo.png" alt="" title="" srcset="https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo.png 1000w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-291x300.png 291w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-768x793.png 768w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-992x1024.png 992w" sizes="(max-width: 1000px) 100vw, 1000px" /></span>
+				<span class="et_pb_image_wrap "><img loading="lazy" width="1000" height="1032" src="https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo.png" alt="" title="" srcset="https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo.png 1000w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-291x300.png 291w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-768x793.png 768w, https://www.metropolisil.gov/wp-content/uploads/2019/07/metropolis-white-logo-992x1024.png 992w" sizes="(max-width: 1000px) 100vw, 1000px" class="wp-image-73" /></span>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -169,39 +169,16 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
-				<div class="et_pb_text_inner"><h2><strong>Free Produce!</strong></h2>
-<h3><strong>Thursday, September 10, 12:00 pm at Dorothy Miller Park</strong></h3></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_justified et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto">Folks- Senator Dale Fowler and Laborer&#8217;s Local 773 are bringing free ,fresh produce back to Metropolis for Illinois Residents.</div>
-</div>
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<ul>
-<li dir="auto">WHEN: Thursday, September 10 at Noon.</li>
-<li dir="auto">WHERE: Dorothy Miller Park, Front Street</li>
-<li dir="auto">HOW: You must come down Girard Street to Front Street and proceed East past Dorothy Miller. One- way traffic only. STAY IN YOUR CAR. You must exit in Frelinghuysen.</li>
-<li dir="auto">LIMIT: One box per vehicle. Illinois Residents only.</li>
-</ul>
-<p>See the link below for more information about this event including route information. We are asking at this time to form in a southbound direction on Girard Street to Front Street and we will be traveling (hopefully using both lanes) in a one-way direction, east along Front Street to the distribution site located at Dorothy Miller parking lot with pickup stations on both sides of the road. After pick-up, please continue east on Front Street and exit when you reach Frelinghuysen Street. Your cooperation is appreciated.</p>
-<p>If you have questions, please contact City Hall at (618) 524-4016.</p>
-</div></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/09/dorothy-miller_food_route.pdf" target="_blank">Food Distribution Information and Traffic Information</a>
-			</div><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_center et_pb_bg_layout_light">
-				
-				
 				<div class="et_pb_text_inner"><h2><strong>Coronavirus (COVID-19) Information</strong></h2>
 <h3><strong>A message to our citizens from Mayor McDaniel</strong></h3></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><p>The City of Metropolis cares about protecting the health and safety of our citizens and our employees. To reduce the chances of our employees encountering those who have been exposed to the COVID-19 virus, all City buildings will remain closed to the public until further notice. Although public meetings such as City Council meetings remain open, we will be limiting both the frequency of those meetings as well as the number of people in attendance.</p>
 <p>Metropolis City Parks will remain open for walking and enjoyment of outdoor activities while observing social distancing. Sports fields and playgrounds however have been closed at this time.</p>
 <p>All City employees are continuing to work on a modified schedule or remotely if possible. People needing to speak to a City employee should contact that employee or department by telephone or email. City staff will schedule in-person appointments if needed. If you need a department phone number or email address, please contact my office at 524-4016.</p>
 <p>We will be updating this section of our website as new information comes available.<span style="font-size: 16px;"> </span></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_1 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_0 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>Returning Water Systems to Regular Use after Extended Periods of Reduced Use</strong></h3>
@@ -210,7 +187,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <p>In addition, community water supply officials are encouraged to work in conjunction with building owners to prevent or mitigate the growth and proliferation of waterborne pathogens that can result from water stagnation.  Input from the water purveyor is essential in establishing a baseline of water quality and ensuring that applicable water quality maximum contaminant levels are being met at the point of connection. </p>
 <p>The Illinois Department of Public Health (IDPH) has provided the <a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/IDPH-Plumbing-Program-General-Building-Guidance-for-Reopening-5.13.20.pdf" target="_blank" rel="noopener noreferrer"><strong>attached guidance</strong></a> for building owners and operators, and public water supply operators to address potential water quality issues prior to “re-opening” buildings to normal occupancy and water usage.  The IDPH guidance document provides a comprehensive approach related to recommended flushing procedures contaminant mitigation procedures, and water quality monitoring. </p>
 <p>Additional guidance from USEPA can be found at <a href="https://www.epa.gov/coronavirus/information-maintaining-or-restoring-water-quality-buildings-low-or-no-use" target="_blank" rel="noopener noreferrer">https://www.epa.gov/coronavirus/information-maintaining-or-restoring-water-quality-buildings-low-or-no-use</a></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_2 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_1 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>From the Office of the Mayor, City of Metropolis</strong></h3>
@@ -224,22 +201,22 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <li>Maintain social distancing (6 feet) when you are in the presence of others.</li>
 </ul>
 <p>Following these practices, we will come through this together.</p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/03/updated-COVID-19-Message-from-Metropolis-Mayor.pdf" target="_blank">City of Metropolis Coronavirus (COVID-19) Information</a>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/03/updated-COVID-19-Message-from-Metropolis-Mayor.pdf" target="_blank">City of Metropolis Coronavirus (COVID-19) Information</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 et_pb_bg_layout_light" href="http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus" target="_blank">IDPH COVID-19 Homepage</a>
 			</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus" target="_blank">IDPH COVID-19 Homepage</a>
+				<a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="https://www.cdc.gov/" target="_blank">Latest from the CDC</a>
 			</div><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_4 et_pb_bg_layout_light" href="https://www.cdc.gov/" target="_blank">Latest from the CDC</a>
-			</div><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_5 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/03/COVID-19-Executive-Order-2020-10.pdf" target="_blank">State of Illinois Executive Order COVID-19 2020-10</a>
-			</div><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_3 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_justified et_pb_bg_layout_light">
+				<a class="et_pb_button et_pb_button_4 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/03/COVID-19-Executive-Order-2020-10.pdf" target="_blank">State of Illinois Executive Order COVID-19 2020-10</a>
+			</div><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_2 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>Governor JB Pritzker signs Executive Order 2020-32</strong></h3>
 <p><strong>Updated 05/01/2020</strong></p>
 <p>Thursday, April 30, 2020, Illinois Governor JB Pritzker signed <a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/05_01_O2020-32.pdf" target="_blank" rel="noopener noreferrer" title="EO 2020-32"><strong>Executive Order 2020-32</strong></a> that modified and extended his original Stay at Home Order (<a href="https://www.metropolisil.gov/wp-content/uploads/2020/03/COVID-19-Executive-Order-2020-10.pdf" target="_blank" rel="noopener noreferrer" title="EO 2020-10"><strong>Executive Order 2020-10</strong></a>). The order goes into effect on May 1 and lasts through May 29.</p>
 <p>We understand the inconvenience that the Stay at Home mandate brings with it, however the goal is to help save lives. Please help us keep you safe. The City of Metropolis is taking a very proactive approach to minimize the spread of the Coronavirus to our constituents and employees. As such City Hall and municipal buildings are closed to the public, however City staff will remain working to provide services to residents and businesses</p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_4 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_3 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>CONDUCTING MEETINGS AND PUBLIC HEARINGS DURING THE COVID-19 PANDEMIC</strong></h3>
@@ -256,16 +233,16 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_5 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_justified et_pb_bg_layout_light">
+				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_4 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>Downstate Small Business Stabilization Program</strong></h3>
 <p>To support small businesses in downstate and rural counties across Illinois, DCEO is repurposing $20 million in Community Development Block Grant (CDBG) funds to support the Downstate Small Business Stabilization Program. This Fund will offer small businesses of up to 50 employees the opportunity to partner with their local governments to obtain grants of up to $25,000 in working capital.</p>
 <p>Applications must be submitted by a unit of local government on behalf of businesses with 50 employees or less. If you are interested and would like to apply use the links below to access the application materials. Interested businesses should first review the <a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/New-Small-Business-Stabilization-Grant-Guidebook.pdf" target="_blank" rel="noopener noreferrer" title="Grant Guidebook">grant guidebook</a> and then use the <a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/05_01_downstate_grant_flyer.pdf" target="_blank" rel="noopener noreferrer" title="Information Flyer">grant information flyer</a> to begin to organize their business documents and information before submitting their application. If you have questions regarding the process you may email you questions to <a href="mailto:cmurray@metropolisil.gov">Chad Murray</a> or <a href="mailto:director@metropolistourism.com">Trish Steckenrider</a>.</p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_6 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/05/New-Small-Business-Stabilization-Grant-Guidebook.pdf" target="_blank">Small Business Stabilization Grant Guidebook</a>
-			</div><div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_7 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/05/05_01_downstate_grant_flyer.pdf" target="_blank">Small Business Stabilization Grant Flyer</a>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/05/New-Small-Business-Stabilization-Grant-Guidebook.pdf" target="_blank">Small Business Stabilization Grant Guidebook</a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/05/05_01_downstate_grant_flyer.pdf" target="_blank">Small Business Stabilization Grant Flyer</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -274,14 +251,14 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_6 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_justified et_pb_bg_layout_light">
+				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_5 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 style="text-align: center;"><strong>Coronavirus Aid, Relief, and Economic Security (CARES) Act</strong></h3>
 <p><span>The Small Business Administration (SBA) and the Department of Treasury have begun releasing the information that will guide the programs created through the </span><i>Coronavirus Aid, Relief, and Economic Security (CARES) Act</i><span>.</span></p>
 <p><span>To help small business owners better understand the new programs that will soon be available to them, a comprehensive guide </span><span>to many of the small business provisions in the </span><i>CARES Act </i><span>has been created. These programs and initiatives are intended to assist business owners with whatever needs they have right now.</span></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_8_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_8 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/04/The-Small-Business-Owners-Guide-to-the-CARES-Act.pdf" target="_blank">The Small Business Owners Guide to the CARES Act</a>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_7 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/04/The-Small-Business-Owners-Guide-to-the-CARES-Act.pdf" target="_blank">The Small Business Owners Guide to the CARES Act</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -290,13 +267,13 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_7 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_justified et_pb_bg_layout_light">
+				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_6 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 class="MockH1" style="text-align: center;"><strong>Illinois Small Business Emergency Loan Fund</strong></h3>
 <p><span>Under the leadership of Governor JB Pritzker, DCEO and the Illinois Department of Financial and Professional Regulation (IDFPR) are establishing the Illinois Small Business Emergency Loan Fund to offer small businesses low interest loans of up to $50,000. For more information follow the link provided below.</span></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_9_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_9 et_pb_bg_layout_light" href="https://www2.illinois.gov/dceo/SmallBizAssistance/Pages/IllinoisSmallBusinessEmergencyLoanFund.aspx" target="_blank">Illinois Small Business Emergency Loan Fund</a>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_8_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_8 et_pb_bg_layout_light" href="https://www2.illinois.gov/dceo/SmallBizAssistance/Pages/IllinoisSmallBusinessEmergencyLoanFund.aspx" target="_blank">Illinois Small Business Emergency Loan Fund</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -305,7 +282,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_8 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_justified et_pb_bg_layout_light">
+				<div class="et_pb_with_border et_pb_module et_pb_divider et_pb_divider_7 et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h3 id="titleSectionTitleId" class="_2KpcJ8QPHfTqNFAAOY5CRD" style="text-align: center;"><strong>Paycheck Protection Program</strong></h3>
@@ -313,8 +290,8 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <p>The Paycheck Protection Program is a loan designed to provide a direct incentive for small businesses to keep their workers on the payroll. SBA will forgive loans if all employees are kept on the payroll for eight weeks and the money is used for payroll, rent, mortgage interest, or utilities.</p>
 <p>You can apply through any existing SBA 7(a) lender or through any federally insured depository institution, federally insured credit union, and Farm Credit System institution that is participating. Other regulated lenders will be available to make these loans once they are approved and enrolled in the program. You should consult with your local lender as to whether it is participating in the program. Lenders may begin processing loan applications as soon as April 3, 2020. The Paycheck Protection Program will be available through June 30, 2020. </p>
 <p><span>This program is for any small business with less than 500 employees (including sole proprietorships, independent contractors and self-employed persons), private non-profit organization or 501(c)(19) veterans organizations affected by coronavirus/COVID-19. For more information see the link provided below for a list of frequently asked questions.</span></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_10_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_10 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/04/Paycheck-Protection-Program-FAQs-for-Small-Businesses.pdf" target="_blank">SBA Paycheck Protection Program</a>
+			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_9_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_9 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/04/Paycheck-Protection-Program-FAQs-for-Small-Businesses.pdf" target="_blank">SBA Paycheck Protection Program</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -331,7 +308,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_center et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Meeting Agendas</h2></div>
@@ -350,7 +327,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et-pb-icon">&#xe033;</span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>City Council</span></h4>
-						<div class="et_pb_blurb_description"><p><span style="text-decoration: underline;"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/08/2020-August-Second-Meeting-Council-Agendas.pdf" target="_blank" rel="noopener noreferrer">Agenda</a></span><br /> <span style="text-decoration: underline;"> <a href="https://www.metropolisil.gov/wp-content/uploads/2020/08/2020-city-council-minutes.pdf" target="_blank" rel="noopener noreferrer">Minutes</a></span></p></div>
+						<div class="et_pb_blurb_description"><p><span style="text-decoration: underline;"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/09/2020-City-Council-Agendas.pdf" target="_blank" rel="noopener noreferrer">Agenda</a></span><br /> <span style="text-decoration: underline;"> <a href="https://www.metropolisil.gov/wp-content/uploads/2020/09/2020-city-council-minutes.pdf" target="_blank" rel="noopener noreferrer">Minutes</a></span></p></div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -543,11 +520,11 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_center et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Utility Billing</h2></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_center et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><p>If you are a City of Metropolis utility customer in good standing, that has been using our services for the past 12 months, you may be eligible for our budget billing plan.</p></div>
@@ -559,14 +536,14 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_1_2 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_11_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_11 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/budget_billing_guidelines.pdf" target="_blank">Learn More About Budget Billing</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_10_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_10 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/budget_billing_guidelines.pdf" target="_blank">Learn More About Budget Billing</a>
 			</div>
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_12_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_12 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/application_for_budget_billing.pdf" target="_blank">Application for Budget Billing</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_11_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_11 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/application_for_budget_billing.pdf" target="_blank">Application for Budget Billing</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -575,8 +552,8 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_13_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_13 et_pb_bg_layout_light" href="https://www.municipalonlinepayments.com/metropolisil" target="_blank">Pay My Utility Bill</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_12_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_12 et_pb_bg_layout_light" href="https://www.municipalonlinepayments.com/metropolisil" target="_blank">Pay My Utility Bill</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -593,11 +570,11 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_center et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Combined Sewer Overflow</h2></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><p>The City of Metropolis is developing a long-term plan to reduce sewer overflows to the Ohio River, as required by the U.S. Environmental Protection Agency and the Illinois Environmental Protection Agency.</p>
@@ -613,20 +590,20 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_1_3 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_14_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_14 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/CSO-LOCATION-MAP.pdf" target="_blank">CSO Location Map</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_13_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_13 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/CSO-LOCATION-MAP.pdf" target="_blank">CSO Location Map</a>
 			</div>
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_15_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_15 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/07/07-09-2020-Combined-Sewer-Overflow-CSO-Discharge-Info.pdf" target="_blank">CSO INFO</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_14_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_14 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2020/07/07-09-2020-Combined-Sewer-Overflow-CSO-Discharge-Info.pdf" target="_blank">CSO INFO</a>
 			</div>
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_button_module_wrapper et_pb_button_16_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_16 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/CSO-Frequently-Asked-Questions.pdf" target="_blank">CSO FAQ</a>
+				<div class="et_pb_button_module_wrapper et_pb_button_15_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_15 et_pb_bg_layout_light" href="https://www.metropolisil.gov/wp-content/uploads/2019/07/CSO-Frequently-Asked-Questions.pdf" target="_blank">CSO FAQ</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -643,11 +620,11 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_center et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Employment Opportunities</h2></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_justified et_pb_bg_layout_light">
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_19  et_pb_text_align_justified et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><p style="text-align: justify;">The <strong>City of Metropolis</strong> is accepting applications for <strong>Entry Level Firefighter.</strong></p>
@@ -684,7 +661,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_22  et_pb_text_align_center et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner"><h2>Resources for Residents</h2></div>
@@ -742,7 +719,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				
 				
 				<div class="et_pb_blurb_content">
-					<div class="et_pb_main_blurb_image"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/Metropolis-Drinking-Water-Quality-Report-Y2019.pdf" target="_blank"><span class="et_pb_image_wrap"><img src="https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality.png" alt="" srcset="https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality.png 300w, https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" class="et-waypoint et_pb_animation_top" /></span></a></div>
+					<div class="et_pb_main_blurb_image"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/Metropolis-Drinking-Water-Quality-Report-Y2019.pdf" target="_blank"><span class="et_pb_image_wrap"><img loading="lazy" width="300" height="300" src="https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality.png" alt="" srcset="https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality.png 300w, https://www.metropolisil.gov/wp-content/uploads/2019/08/water-quality-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" class="et-waypoint et_pb_animation_top wp-image-384" /></span></a></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/05/Metropolis-Drinking-Water-Quality-Report-Y2019.pdf" target="_blank">Drinking Water Quality Report</a></h4>
 						
@@ -764,7 +741,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_41  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_23  et_pb_text_align_center et_pb_bg_layout_dark">
+				<div class="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_center et_pb_bg_layout_dark">
 				
 				
 				<div class="et_pb_text_inner"><h2>Contact Us</h2></div>
@@ -776,7 +753,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 				<div class="et_pb_column et_pb_column_2_3 et_pb_column_42  et_pb_css_mix_blend_mode_passthrough">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_24  et_pb_text_align_left et_pb_bg_layout_light">
+				<div class="et_pb_module et_pb_text et_pb_text_22  et_pb_text_align_left et_pb_bg_layout_light">
 				
 				
 				<div class="et_pb_text_inner">
@@ -814,7 +791,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_43  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_text et_pb_text_25  et_pb_text_align_left et_pb_bg_layout_dark">
+				<div class="et_pb_module et_pb_text et_pb_text_23  et_pb_text_align_left et_pb_bg_layout_dark">
 				
 				
 				<div class="et_pb_text_inner"><h3>Phone</h3>
@@ -856,14 +833,14 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.metropolisil.gov\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"61d4b65433","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"865df9c71f","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"54","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.metropolisil.gov\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"2a91159658","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"dc2d334984","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"54","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 var et_pb_sticky_elements = [];
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://www.metropolisil.gov/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.1' id='divi-custom-script-js'></script>
-<script type='text/javascript' src='https://www.metropolisil.gov/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.1' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.metropolisil.gov/wp-content/themes/Divi/js/custom.unified.js?ver=4.6.4' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://www.metropolisil.gov/wp-content/themes/Divi/core/admin/js/common.js?ver=4.6.4' id='et-core-common-js'></script>
 <script type='text/javascript' src='https://www.metropolisil.gov/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
 <script type='text/javascript' src='https://www.google.com/recaptcha/api.js?hl=en&#038;render=explicit&#038;ver=5.5.1' id='gform_recaptcha-js'></script>
 		<script type="text/javascript">
@@ -882,4 +859,4 @@ var et_pb_sticky_elements = [];
 
 		</body>
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1600034396 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1601686746 -->

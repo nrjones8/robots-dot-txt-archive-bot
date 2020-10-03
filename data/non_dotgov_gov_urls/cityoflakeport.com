@@ -281,8 +281,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 	<li class="menuLI level0 menuDisplay li-63 children"><a class="menuA level0 menuDisplay" href="residents.php" target="_self">Residents</a>
 		<ul class="menuUL level1 menuHidden ul-3398">
 			<li class="menuLI level1 menuHidden li-3398 children"><a class="menuA level1 menuHidden" href="covid-19_updates.php" target="_self">COVID-19 Updates</a>
-				<ul class="menuUL level2 menuHidden ul-3445">
-					<li class="menuLI level2 menuHidden li-3445"><a class="menuA level2 menuHidden" href="covid-19_health_order_faqs.php" target="_self">COVID-19 Health Order FAQs</a></li>
+				<ul class="menuUL level2 menuHidden ul-3501">
 					<li class="menuLI level2 menuHidden li-3501"><a class="menuA level2 menuHidden" href="covid-19_business_resources.php" target="_self">COVID-19 Business Recovery Resources</a></li>
 				</ul>
 			</li>

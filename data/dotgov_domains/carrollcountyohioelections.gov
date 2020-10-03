@@ -10,12 +10,12 @@
 <link rel="alternate" type="application/atom+xml" title="Carroll County Board of Elections - Atom" href="https://www.carrollcountyohioelections.gov/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="Carroll County Board of Elections - RSS" href="https://www.carrollcountyohioelections.gov/feeds/posts/default?alt=rss" />
 <link rel="service.post" type="application/atom+xml" title="Carroll County Board of Elections - Atom" href="https://www.blogger.com/feeds/603501024823566410/posts/default" />
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/3481486107-ieretrofit.js"></script>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js"></script>
 <![endif]-->
 <meta content='http://www.carrollcountyohioelections.gov/' property='og:url'/>
 <meta content='Carroll County Board of Elections' property='og:title'/>
-<meta content='Cheri Whipkey, Director ~
-Nicole Mickley, Deputy Director' property='og:description'/>
+<meta content='
+  Director - Cheri Whipkey ~ Deputy Director - Nicole Mickley' property='og:description'/>
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>Carroll County Board of Elections</title>
 <style id='page-skin-1' type='text/css'><!--
@@ -29,9 +29,9 @@ URL:      www.blogger.com
 /* Content
 ----------------------------------------------- */
 body {
-font: normal normal 12px 'Trebuchet MS', Trebuchet, Verdana, sans-serif;
-color: #666666;
-background: #ffffff none repeat scroll top left;
+font: normal normal 12px 'Trebuchet MS', Trebuchet, sans-serif;
+color: #3367D6;
+background: #e8d1af url(https://themes.googleusercontent.com/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5) repeat scroll top center /* Credit: Nic_Taylor (http://www.istockphoto.com/portfolio/Nic_Taylor?platform=blogger) */;
 padding: 0 0 0 0;
 }
 html body .region-inner {
@@ -44,15 +44,15 @@ font-size: 22px;
 }
 a:link {
 text-decoration:none;
-color: #2288bb;
+color: #1e27a5;
 }
 a:visited {
 text-decoration:none;
-color: #888888;
+color: #808080;
 }
 a:hover {
 text-decoration:underline;
-color: #33aaff;
+color: #2926ff;
 }
 .body-fauxcolumn-outer .fauxcolumn-inner {
 background: transparent none repeat scroll top left;
@@ -85,7 +85,7 @@ background-color: #ffffff;
 /* Header
 ----------------------------------------------- */
 .header-outer {
-background: transparent none repeat-x scroll 0 -400px;
+background: rgba(0,0,0,0) none repeat-x scroll 0 -400px;
 _background-image: none;
 }
 .Header h1 {
@@ -109,18 +109,18 @@ padding: 0 0;
 /* Tabs
 ----------------------------------------------- */
 .tabs-inner .section:first-child {
-border-top: 0 solid #dddddd;
+border-top: 0 solid #dadada;
 }
 .tabs-inner .section:first-child ul {
 margin-top: -1px;
-border-top: 1px solid #dddddd;
-border-left: 1px solid #dddddd;
-border-right: 1px solid #dddddd;
+border-top: 1px solid #dadada;
+border-left: 1px solid #dadada;
+border-right: 1px solid #dadada;
 }
 .tabs-inner .widget ul {
-background: transparent none repeat-x scroll 0 -800px;
+background: rgba(0,0,0,0) none repeat-x scroll 0 -800px;
 _background-image: none;
-border-bottom: 1px solid #dddddd;
+border-bottom: 1px solid #dadada;
 margin-top: 0;
 margin-left: -30px;
 margin-right: -30px;
@@ -131,26 +131,26 @@ padding: .6em 1em;
 font: normal normal 12px 'Trebuchet MS', Trebuchet, Verdana, sans-serif;
 color: #000000;
 border-left: 1px solid #ffffff;
-border-right: 1px solid #dddddd;
+border-right: 1px solid #dadada;
 }
 .tabs-inner .widget li:first-child a {
 border-left: none;
 }
 .tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
 color: #000000;
-background-color: #eeeeee;
+background-color: #ebebeb;
 text-decoration: none;
 }
 /* Columns
 ----------------------------------------------- */
 .main-outer {
-border-top: 0 solid transparent;
+border-top: 0 solid rgba(0,0,0,0);
 }
 .fauxcolumn-left-outer .fauxcolumn-inner {
-border-right: 1px solid transparent;
+border-right: 1px solid rgba(0,0,0,0);
 }
 .fauxcolumn-right-outer .fauxcolumn-inner {
-border-left: 1px solid transparent;
+border-left: 1px solid rgba(0,0,0,0);
 }
 /* Headings
 ----------------------------------------------- */
@@ -163,7 +163,7 @@ color: #000000;
 /* Widgets
 ----------------------------------------------- */
 .widget .zippy {
-color: #999999;
+color: #939393;
 text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
 }
 .widget .popular-posts ul {
@@ -175,7 +175,7 @@ h2.date-header {
 font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
 }
 .date-header span {
-background-color: #bbbbbb;
+background-color: #b7b7b7;
 color: #ffffff;
 padding: 0.4em;
 letter-spacing: 3px;
@@ -207,7 +207,7 @@ position: relative;
 .BlogList .item-thumbnail img {
 padding: 2px;
 background: #ffffff;
-border: 1px solid #eeeeee;
+border: 1px solid #ebebeb;
 -moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
 -webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
 box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
@@ -216,7 +216,7 @@ box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
 padding: 5px;
 }
 .post-body .tr-caption-container {
-color: #666666;
+color: #3367D6;
 }
 .post-body .tr-caption-container img {
 padding: 0;
@@ -234,15 +234,15 @@ font-size: 90%;
 .post-footer {
 margin: 20px -2px 0;
 padding: 5px 10px;
-color: #666666;
-background-color: #eeeeee;
-border-bottom: 1px solid #eeeeee;
+color: #565656;
+background-color: #ebebeb;
+border-bottom: 1px solid #ebebeb;
 line-height: 1.6;
 font-size: 90%;
 }
 #comments .comment-author {
 padding-top: 1.5em;
-border-top: 1px solid transparent;
+border-top: 1px solid rgba(0,0,0,0);
 background-position: 0 1.5em;
 }
 #comments .comment-author:first-child {
@@ -253,7 +253,7 @@ border-top: none;
 margin: .2em 0 0;
 }
 #comments .avatar-image-container img {
-border: 1px solid #eeeeee;
+border: 1px solid #ebebeb;
 }
 /* Comments
 ----------------------------------------------- */
@@ -262,19 +262,19 @@ background-repeat: no-repeat;
 background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
 }
 .comments .comments-content .loadmore a {
-border-top: 1px solid #999999;
-border-bottom: 1px solid #999999;
+border-top: 1px solid #939393;
+border-bottom: 1px solid #939393;
 }
 .comments .comment-thread.inline-thread {
-background-color: #eeeeee;
+background-color: #ebebeb;
 }
 .comments .continue {
-border-top: 2px solid #999999;
+border-top: 2px solid #939393;
 }
 /* Accents
 ---------------------------------------------- */
 .section-columns td.columns-cell {
-border-left: 1px solid transparent;
+border-left: 1px solid rgba(0,0,0,0);
 }
 .blog-pager {
 background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/simple/paging_dot.png) repeat-x scroll top center;
@@ -329,10 +329,10 @@ border-top: none;
 background-color: #ffffff;
 }
 .mobile-index-contents {
-color: #666666;
+color: #3367D6;
 }
 .mobile-link-button {
-background-color: #2288bb;
+background-color: #1e27a5;
 }
 .mobile-link-button a:link, .mobile-link-button a:visited {
 color: #ffffff;
@@ -341,13 +341,13 @@ color: #ffffff;
 border-top: none;
 }
 .mobile .tabs-inner .PageList .widget-content {
-background-color: #eeeeee;
+background-color: #ebebeb;
 color: #000000;
-border-top: 1px solid #dddddd;
-border-bottom: 1px solid #dddddd;
+border-top: 1px solid #dadada;
+border-bottom: 1px solid #dadada;
 }
 .mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
-border-left: 1px solid #dddddd;
+border-left: 1px solid #dadada;
 }
 
 --></style>
@@ -405,7 +405,17 @@ body#layout div.add_widget a {
 margin-left: 32px;
 }
 --></style>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=603501024823566410&amp;zx=d91b89c1-c2ed-495f-9386-e4503ed8b0b0' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=603501024823566410&amp;zx=d91b89c1-c2ed-495f-9386-e4503ed8b0b0' rel='stylesheet'/></noscript>
+<style>
+    body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5);}
+    
+@media (max-width: 200px) { body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5&options=w200);}}
+@media (max-width: 400px) and (min-width: 201px) { body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5&options=w400);}}
+@media (max-width: 800px) and (min-width: 401px) { body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5&options=w800);}}
+@media (max-width: 1200px) and (min-width: 801px) { body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5&options=w1200);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1201px) { body {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1mPhwS3qXdmgnD9zmefLZnSR3ju6SwXM9TWfOVrjsuooTCGyD31qfBUB82ZiNsNjTOHT5&options=w1600);}}
+  </style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=603501024823566410&amp;zx=86b5fd28-96da-4bcc-81af-274bb62b6a2f' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=603501024823566410&amp;zx=86b5fd28-96da-4bcc-81af-274bb62b6a2f' rel='stylesheet'/></noscript>
 
 </head>
 <body class='loading variant-simplysimple'>
@@ -505,8 +515,8 @@ Carroll County Board of Elections
 </h1>
 </div>
 <div class='descriptionwrapper'>
-<p class='description'><span>Cheri Whipkey, Director ~
-Nicole Mickley, Deputy Director</span></p>
+<p class='description'><span>
+  Director - Cheri Whipkey ~ Deputy Director - Nicole Mickley</span></p>
 </div>
 </div>
 </div></div>
@@ -598,7 +608,6 @@ Nicole Mickley, Deputy Director</span></p>
 
           <div class="date-outer">
         
-<h2 class='date-header'><span>Wednesday, September 2, 2020</span></h2>
 
           <div class="date-posts">
         
@@ -618,20 +627,8 @@ Nicole Mickley, Deputy Director</span></p>
 <div class="separator" style="clear: both; text-align: center;">
 <a border="0px" href="https://olvr.ohiosos.gov/" style="margin-left: 1em; margin-right: 1em;" title="Online Voter Registraion"> <img border="0px" height="145" src="https://www.OhioSoS.gov/globalassets/images/features/widgets/olvr.png" width="400" /></a></div>
 &nbsp; <br />
-<h3 style="text-align: center;">
-<span style="font-size: x-large;"><span style="color: blue; font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b>Are you registered to vote? Click on the link below&nbsp;</b></span><span style="color: red;">&#8681;</span>&nbsp;<b style="color: blue; font-family: &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;">to check your status . Click on the box above&nbsp;</b><b style="font-family: &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;"><span style="color: red;">&#8679;</span></b><b style="color: blue; font-family: &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;">&nbsp;to register . Make your voice heard this November!</b></span></h3>
-<div>
-<span style="font-size: x-large;"><b style="color: blue; font-family: &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;"><br /></b></span></div>
-<h3 style="text-align: center;">
-<a href="https://lookup.boe.ohio.gov/vtrapp/carroll/vtrlookup.aspx"><span style="color: red; font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><b>Check Your Registration Status!</b></span></a></h3>
-<b><br /></b>
-<br />
-<h3 style="text-align: center;">
-</h3>
-<div style="text-align: center;">
-<b><u>Notice:</u></b></div>
-<div style="text-align: center;">
-<b>The regularly scheduled board meeting on Monday, September 14, 2020 @ 9:00 AM has been moved to Tuesday, September 15, 2020 @ 9:00 AM.</b></div>
+<h3 style="text-align: center;"><span style="font-size: x-large;"><b style="color: blue; font-family: &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;">&nbsp;The deadline to register for the November 3, 2020 election is October 5, 2020 @ 9:00 PM.</b></span></h3>
+<h3 style="text-align: center;"><span face="&quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif" style="color: red;"><b><a href="https://lookup.boe.ohio.gov/vtrapp/carroll/vtrlookup.aspx">Check Your Registration Status!</a></b></span></h3>
 <div style="text-align: center;">
 <b><br /></b></div>
 <div style="text-align: center;">
@@ -640,13 +637,8 @@ Nicole Mickley, Deputy Director</span></p>
 </div>
 <div>
 <div style="text-align: center;">
-<h2>
-<a href="https://drive.google.com/file/d/1MFd50vpqM4X1SqOadA00RfkPJBFFBOb3/view?usp=sharing">100 Day FWAB</a></h2>
-<b><br /></b></div>
-</div>
-<div>
-<div style="text-align: center;">
-&nbsp; &nbsp; &nbsp;<a href="https://lookup.boe.ohio.gov/vtrapp/carroll/cnm.aspx">Who are my Elected Officials?</a></div>
+<h2><a href="https://drive.google.com/file/d/1vy8jyGG-_ya8q_3VTtoLWlVgSjmsibUj/view?usp=sharing">46 Day FWAB</a></h2><div><br /></div>
+</div></div><div><div style="text-align: center;"><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-mQc25oman4M/X2TNOm4MjVI/AAAAAAAAADM/qPtif5GetHUgWjBIUwhGlSMBwk0brvjswCLcBGAsYHQ/s2048/db1%2B%25282%2529.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1851" height="320" src="https://1.bp.blogspot.com/-mQc25oman4M/X2TNOm4MjVI/AAAAAAAAADM/qPtif5GetHUgWjBIUwhGlSMBwk0brvjswCLcBGAsYHQ/s320/db1%2B%25282%2529.jpg" /></a></div><br />Carroll County Board of Elections now has a secure drop box! All election materials may be dropped in the box, postage free, 24 hours a day/ 7 days a week/ 365 days a year! The drop box is located outside of the Carroll County Courthouse between the entrances of the Courthouse and Sheriff's office.&nbsp;</div><div style="text-align: center;"><span style="font-size: xx-small;">This drop box is monitored by cameras at all times. The box is emptied daily starting the first day of Early Voting.</span></div>
 <div style="text-align: center;">
 <br /></div>
 </div>
@@ -700,20 +692,12 @@ Nicole Mickley, Deputy Director</span></p>
 <span class='post-author vcard'>
 </span>
 <span class='post-timestamp'>
-at
-<meta content='http://www.carrollcountyohioelections.gov/2014/06/home.html' itemprop='url'/>
-<a class='timestamp-link' href="https://www.carrollcountyohioelections.gov/2014/06/home.html" rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2020-09-02T15:59:00-04:00'>September 02, 2020</abbr></a>
 </span>
 <span class='reaction-buttons'>
 </span>
 <span class='post-comment-link'>
 </span>
 <span class='post-icons'>
-<span class='item-control blog-admin pid-788041997'>
-<a href='https://www.blogger.com/post-edit.g?blogID=603501024823566410&postID=1814197306456549923&from=pencil' title='Edit Post'>
-<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
-</a>
-</span>
 </span>
 <div class='post-share-buttons goog-inline-block'>
 <a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=603501024823566410&postID=1814197306456549923&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=603501024823566410&postID=1814197306456549923&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=603501024823566410&postID=1814197306456549923&target=twitter' target='_blank' title='Share to Twitter'><span class='share-button-link-text'>Share to Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=603501024823566410&postID=1814197306456549923&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=603501024823566410&postID=1814197306456549923&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
@@ -744,56 +728,8 @@ Subscribe to:
 <a class='feed-link' href="https://www.carrollcountyohioelections.gov/feeds/posts/default" target='_blank' type='application/atom+xml'>Posts (Atom)</a>
 </div>
 </div>
-</div><div class='widget FeaturedPost' data-version='1' id='FeaturedPost1'>
-<div class='post-summary'>
-<h3><a href="https://www.carrollcountyohioelections.gov/2014/06/home.html">Home</a></h3>
-<p>
-   &#160;   Are you registered to vote? Click on the link below&#160; &#8681; &#160; to check your status . Click on the box above&#160; &#8679; &#160;to register . Make your vo...
-</p>
-<img class='image' src='https://www.OhioSoS.gov/globalassets/images/features/widgets/olvr.png'/>
 </div>
-<style type='text/css'>
-    .image {
-      width: 100%;
-    }
-  </style>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("FeaturedPost1"));' rel='nofollow' target='configFeaturedPost1' title='Edit'>
-<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
-</a>
-</span>
-</span>
-<div class='clear'></div>
 </div>
-<div class='widget PopularPosts' data-version='1' id='PopularPosts1'>
-<div class='widget-content popular-posts'>
-<ul>
-<li>
-<div class='item-content'>
-<div class='item-thumbnail'>
-<a href="https://www.carrollcountyohioelections.gov/2014/06/home.html" target='_blank'>
-<img alt='' border='0' src='https://lh4.googleusercontent.com/proxy/LTcfNOARaazT9k-T3bKp_ul-pHBSvPOzKbZEXko_c2h9lEvB06LRHt0nJwBqDbPEWI78-5JuBb_9oLx1fTy9enNXUzy2kFuevLUrd2LRUC7kPzvRCD-HlFo=w72-h72-p-k-no-nu'/>
-</a>
-</div>
-<div class='item-title'><a href="https://www.carrollcountyohioelections.gov/2014/06/home.html">Home</a></div>
-<div class='item-snippet'>   &#160;   Are you registered to vote? Click on the link below&#160; &#8681; &#160; to check your status . Click on the box above&#160; &#8679; &#160;to register . Make your vo...</div>
-</div>
-<div style='clear: both;'></div>
-</li>
-</ul>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' rel='nofollow' target='configPopularPosts1' title='Edit'>
-<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
-</a>
-</span>
-</span>
-<div class='clear'></div>
-</div>
-</div></div>
 </div>
 </div>
 <div class='column-left-outer'>
@@ -829,8 +765,7 @@ Subscribe to:
 <div class='fauxborder-left footer-fauxborder-left'>
 <div class='fauxborder-right footer-fauxborder-right'></div>
 <div class='region-inner footer-inner'>
-<div class='foot section' id='footer-1'>
-<div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<div class='foot section' id='footer-1'><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
 <h2 class='title'>Search This Blog</h2>
 <div class='widget-content'>
 <div id='BlogSearch1_form'>
@@ -877,53 +812,8 @@ Subscribe to:
 </span>
 <div class='clear'></div>
 </div>
-</div><div class='widget Profile' data-version='1' id='Profile1'>
-<h2>Contributors</h2>
-<div class='widget-content'>
-<ul>
-<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/15277150718691523211' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Unknown</a></li>
-<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/07760702968111529045' style='background-image: url(//www.blogger.com/img/logo-16.png);'>nmickley</a></li>
-</ul>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' rel='nofollow' target='configProfile1' title='Edit'>
-<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
-</a>
-</span>
-</span>
-<div class='clear'></div>
 </div>
-</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
-<h2>Blog Archive</h2>
-<div class='widget-content'>
-<div id='ArchiveList'>
-<div id='BlogArchive1_ArchiveList'>
-<ul class='flat'>
-<li class='archivedate'>
-<a href="https://www.carrollcountyohioelections.gov/2020/09/">September 2020</a> (1)
-      </li>
-</ul>
-</div>
-</div>
-<div class='clear'></div>
-<span class='widget-item-control'>
-<span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' rel='nofollow' target='configBlogArchive1' title='Edit'>
-<img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
-</a>
-</span>
-</span>
-<div class='clear'></div>
-</div>
-</div>
-<div class='widget ReportAbuse' data-version='1' id='ReportAbuse1'>
-<h3 class='title'>
-<a class='report_abuse' href='https://www.blogger.com/go/report-abuse' rel='noopener nofollow' target='_blank'>
-Report Abuse
-</a>
-</h3>
-</div><div class='widget LinkList' data-version='1' id='LinkList1'>
+<div class='widget LinkList' data-version='1' id='LinkList1'>
 <h2>Navigation Links</h2>
 <div class='widget-content'>
 <ul>
@@ -969,7 +859,7 @@ Report Abuse
 <div class='clear'></div>
 </div><div class='widget Text' data-version='1' id='Text1'>
 <div class='contact-info'>
-This is the official website of the Carroll County Board of Elections.  It is maintained by office staff.<div><br /></div><div>Carroll County Board of Elections</div><div>119 S. Lisbon St., Ste.102</div><div>Carrollton, OH 44615</div><div>Phone: (330) 627-2610</div><div>Fax: (330) 627-5387</div><div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2a694b58584546466a65424345796579044d455c">[email&#160;protected]</a></div><div>Hours: Monday - Friday, 8 am - 4 pm</div>
+This is the official website of the Carroll County Board of Elections.  It is maintained by office staff.<div><br /></div><div>Carroll County Board of Elections</div><div>119 S. Lisbon St., Ste.102</div><div>Carrollton, OH 44615</div><div>Phone: (330) 627-2610</div><div>Fax: (330) 627-5387</div><div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="ffbc9e8d8d909393bfb0979690acb0acd1989089">[email&#160;protected]</a></div><div>Hours: Monday - Friday, 8 am - 4 pm</div>
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
@@ -980,16 +870,7 @@ This is the official website of the Carroll County Board of Elections.  It is ma
 </span>
 <div class='clear'></div>
 </div>
-</div></div>
-<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
-<tbody>
-<tr>
-<td class='first columns-cell'>
-<div class='foot no-items section' id='footer-2-1'>
-</div>
-</td>
-<td class='columns-cell'>
-<div class='foot section' id='footer-2-2'><div class='widget LinkList' data-version='1' id='LinkList3'>
+</div><div class='widget LinkList' data-version='1' id='LinkList3'>
 <h2>Site Map</h2>
 <div class='widget-content'>
 <ul>
@@ -1005,7 +886,7 @@ This is the official website of the Carroll County Board of Elections.  It is ma
 <div class='clear'></div>
 <span class='widget-item-control'>
 <span class='item-control blog-admin'>
-<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=LinkList&widgetId=LinkList3&action=editWidget&sectionId=footer-2-2' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' rel='nofollow' target='configLinkList3' title='Edit'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=603501024823566410&widgetType=LinkList&widgetId=LinkList3&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList3"));' rel='nofollow' target='configLinkList3' title='Edit'>
 <img alt='' height='18' src='https://resources.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
 </a>
 </span>
@@ -1013,14 +894,10 @@ This is the official website of the Carroll County Board of Elections.  It is ma
 <div class='clear'></div>
 </div>
 </div></div>
-</td>
-</tr>
-</tbody>
-</table>
 <!-- outside of the include in order to lock Attribution widget -->
 <div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
 <div class='widget-content' style='text-align: center;'>
-Simple theme. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+Simple theme. Theme images by <a href='http://www.istockphoto.com/portfolio/Nic_Taylor?platform=blogger' target='_blank'>Nic_Taylor</a>. Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
 </div>
 <div class='clear'></div>
 <span class='widget-item-control'>
@@ -1031,7 +908,8 @@ Simple theme. Powered by <a href='https://www.blogger.com' target='_blank'>Blogg
 </span>
 </span>
 <div class='clear'></div>
-</div></div>
+</div>
+</div>
 </div>
 </div>
 <div class='footer-cap-bottom cap-bottom'>
@@ -1054,26 +932,20 @@ Simple theme. Powered by <a href='https://www.blogger.com' target='_blank'>Blogg
         document.body.className = document.body.className.replace('loading', '');
       }, 10);
   </script>
-<script src='https://apis.google.com/js/plusone.js' type='text/javascript'></script>
 
-<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1090762444-widgets.js"></script>
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1783702637-widgets.js"></script>
 <script type='text/javascript'>
-window['__wavt'] = 'AOuZoY5e6iGG1ppqEAbGcNtf6FUuBtYWoQ:1599841215858';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d603501024823566410','//www.carrollcountyohioelections.gov/','603501024823566410');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '603501024823566410', 'title': 'Carroll County Board of Elections', 'url': 'http://www.carrollcountyohioelections.gov/', 'canonicalUrl': 'http://www.carrollcountyohioelections.gov/', 'homepageUrl': 'http://www.carrollcountyohioelections.gov/', 'searchUrl': 'http://www.carrollcountyohioelections.gov/search', 'canonicalHomepageUrl': 'http://www.carrollcountyohioelections.gov/', 'blogspotFaviconUrl': 'http://www.carrollcountyohioelections.gov/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Carroll County Board of Elections - Atom\x22 href\x3d\x22http://www.carrollcountyohioelections.gov/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Carroll County Board of Elections - RSS\x22 href\x3d\x22http://www.carrollcountyohioelections.gov/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Carroll County Board of Elections - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/603501024823566410/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/3481486107-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/b226a9ecd45943f4', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Carroll County Board of Elections'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Simple', 'localizedName': 'Simple', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'simplysimple', 'variantId': 'simplysimple'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Carroll County Board of Elections', 'description': 'Cheri Whipkey, Director ~\nNicole Mickley, Deputy Director', 'url': 'http://www.carrollcountyohioelections.gov/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+window['__wavt'] = 'AOuZoY4cv1I02NAWetiuDWd8HDNGPalkkw:1601607274533';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d603501024823566410','//www.carrollcountyohioelections.gov/','603501024823566410');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '603501024823566410', 'title': 'Carroll County Board of Elections', 'url': 'http://www.carrollcountyohioelections.gov/', 'canonicalUrl': 'http://www.carrollcountyohioelections.gov/', 'homepageUrl': 'http://www.carrollcountyohioelections.gov/', 'searchUrl': 'http://www.carrollcountyohioelections.gov/search', 'canonicalHomepageUrl': 'http://www.carrollcountyohioelections.gov/', 'blogspotFaviconUrl': 'http://www.carrollcountyohioelections.gov/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Carroll County Board of Elections - Atom\x22 href\x3d\x22http://www.carrollcountyohioelections.gov/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Carroll County Board of Elections - RSS\x22 href\x3d\x22http://www.carrollcountyohioelections.gov/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Carroll County Board of Elections - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/603501024823566410/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/4244862144-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/b1e98b1c39e2fd20', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Carroll County Board of Elections'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Simple', 'localizedName': 'Simple', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'simplysimple', 'variantId': 'simplysimple'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Carroll County Board of Elections', 'description': '\n  Director - Cheri Whipkey ~ Deputy Director - Nicole Mickley', 'url': 'http://www.carrollcountyohioelections.gov/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
 _WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2821522617-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'main', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'main', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/3182931819-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'footer-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'footer-1', document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'isCurrentPage': true, 'href': 'http://www.carrollcountyohioelections.gov/', 'title': 'Home'}], 'mobile': false}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'footer-1', document.getElementById('Profile1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'footer-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'footer-1', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'footer-1', document.getElementById('LinkList1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_TranslateView', new _WidgetInfo('Translate1', 'footer-1', document.getElementById('Translate1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'footer-1', document.getElementById('Text1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'footer-2-2', document.getElementById('LinkList3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList3', 'footer-1', document.getElementById('LinkList3'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
 </script>
 </body>

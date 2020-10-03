@@ -86,8 +86,18 @@
             </ul>
         </div>
         <div class="clearfloat"></div>
+        <!--<div class="social-media-div transparent">
+            <span>Share this page</span>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://econsumer.gov:8002/NotFound?404;http://econsumer.gov:8002/robots.txt" target="_blank" rel="noopener noreferrer"><img src="~/Content/images/facebook-4-24.png" /></a>
+            <a href="https://twitter.com/intent/tweet?url=http://econsumer.gov:8002/NotFound?404;http://econsumer.gov:8002/robots.txt" target="_blank" rel="noopener noreferrer"><img src="~/Content/images/twitter-4-24.png" /></a>-->
+            
+            
+            <!--<a href="https://www.linkedin.com/sharing/share-offsite/?url=http://econsumer.gov:8002/NotFound?404;http://econsumer.gov:8002/robots.txt" target="_blank" rel="noopener noreferrer"><img src="~/Content/images/linkedin-4-24.png" /></a>
+        </div>-->
     </div>
 </header>
+
+
 
 
         <div id="maincontent" role="main">
@@ -257,8 +267,16 @@
     <script>
         var smallMessage = "Menu";
     </script>
-
-
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if (window.location.href.indexOf("/2") > -1) {
+                $(".archive-subtitle").removeClass('transparent');
+            }
+            else {
+                $(".archive-subtitle").addClass('transparent');
+            }
+        });
+    </script>
 </body>
 </html>
 

@@ -12,7 +12,7 @@
 
 <link rel="shortcut icon" href="/TemplatePackage/4.0/assets/imgs/favicon.ico">
 <link rel="stylesheet prefetch" href="/TemplatePackage/contrib/libs/bootstrap/latest/css/bootstrap.min.css" />
-<link rel="stylesheet prefetch" href="/TemplatePackage/4.0/assets/css/app.min.css?v=20-09-08T19:10:40Z" />
+<link rel="stylesheet prefetch" href="/TemplatePackage/4.0/assets/css/app.min.css?v=20-10-01T19:49:09Z" />
 <link rel="stylesheet" media="print" href="/TemplatePackage/4.0/assets/css/print.min.css" />
 <!-- @prismcss@ -->
 <script src="/JScript/metrics/adobe/VisitorAPI.js"></script>
@@ -53,7 +53,9 @@
 				<meta name="cdc:last_published" content="2020-05-12T18:11:05Z" />
 	
 				
-</head>
+
+                    <script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"25642",ustr:"",originlat:"0",clientrtt:"7",ghostip:"184.28.36.164",ipv6:false,pct:"10",clientip:"52.149.218.221",requestid:"5149fee",region:"33946",protocol:"",blver:14,akM:"dscb",akN:"ae",akTT:"O",akTX:"1",akTI:"5149fee",ai:"272761",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    </head>
 <body class="no-js">
 	<div id="skipmenu">
 		<a class="skippy sr-only-focusable" href="#content">Skip directly to site content</a>
@@ -106,7 +108,7 @@
 		</button>
 		<div class="dropdown-menu dropdown-menu-right dropdown-menu-search dropdown-menu-medium-search">
 			<div class="input-group">
-				<input id="headerSearch" type="text" class="form-control" placeholder="Search" aria-label="Search" name="query">
+				<input id="headerSearch" type="text" class="form-control" maxlength="300" placeholder="Search" aria-label="Search" name="query">
 				<span class="form-control-clear cdc-icon-close"></span>
 				<div class="input-group-append">
 					<button class="btn search-submit"
@@ -120,14 +122,14 @@
 				<span class="d-xl-none">For a full list of topics: </span><a id="az-large" href="https://www.cdc.gov/az/">A-Z Index</a>
 			</div>
 			<div class="fs0875 d-md-none">
-				<a href="#cdcAdvancedSearch" data-toggle="collapse" aria-expanded="false" style="text-decoration: underline!important;">
+				<a href="//search.cdc.gov/search/index.html#advanced">
 					Advanced Search
 				</a>
 			</div>
 		</div>
 		<div class="fs0875 d-none d-md-block tp-search-advanced">
-			<a href="#cdcAdvancedSearch" data-toggle="collapse" aria-expanded="false">
-				Advanced Search<span class="ml-2 fill-p cdc-icon-cog-light"></span>
+			<a href="//search.cdc.gov/search/index.html#advanced">
+				Advanced Search
 			</a>
 		</div>
 		<input type="hidden" name="sitelimit" value="">
@@ -136,133 +138,6 @@
 	</form>
 </div>
 
-<!-- advanced search template -->
-<script type="text/template" id="cdcAdvancedSearchTmpl">
-	<div class="row collapse theme-blue" id="cdcAdvancedSearch">
-		<div class="col">
-			<div class="card card-body fs0875 mt-2">
-				<div class="row mb-3 ml-0">
-					<div class="col pl-0">
-						<button class="btn btn-tertiary float-right" type="button" id="search-close">
-							<i class=" cdc-icon-chevron-circle-up"></i>
-							Close
-						</button>
-						<p class="h5">Find pages with...</p>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-all">All these words:</label></div>
-					<div class="col-md-6"><input class="form-control" type="text" id="search-all"></div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Results must contain all of these words
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-exact">This exact word or phrase:</label></div>
-					<div class="col-md-6"><input class="form-control" type="text" id="search-exact"></div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Results must contain this full phrase
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-any">Any of these words:</label></div>
-					<div class="col-md-6"><input class="form-control" type="text" id="search-any"></div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Results must match at least one of these words
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-none">None of these words:</label></div>
-					<div class="col-md-6"><input class="form-control" type="text" id="search-none"></div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Results cannot contain any of these words
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-language">Language:</label></div>
-					<div class="col-md-6">
-						<select class="custom-select" id="search-language">
-							<option selected="" value="">Any</option>
-							<option value="en">English</option>
-							<option value="es">Spanish</option>
-							<option value="fr">French</option>
-							<option value="de">German</option>
-							<option value="zh">Chinese</option>
-							<option value="ko">Korean</option>
-							<option value="vi">Vietnamese</option>
-							<option value="ja">Japanese</option>
-							<option value="ru">Russian</option>
-							<option value="pt">Portuguese</option>
-							<option value="it">Italian</option>
-						</select>
-					</div>
-					<div class="col-md-4"><small class="text-muted">Find pages in the language you select</small></div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-url">URL contains:</label></div>
-					<div class="col-md-6"><input class="form-control" type="text" id="search-url"></div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Result URLs must contain this term
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2">
-					<div class="col-md-2"><label for="search-date1">Between these dates:</label></div>
-					<div class="col-md-3 mb-2">
-						<input class="form-control" type="text" title="From date" id="search-date1" placeholder="From">
-					</div>
-					<div class="col-md-3">
-						<input class="form-control" type="text" title="To date" id="search-date2" placeholder="To">
-					</div>
-					<div class="col-md-4">
-						<small class="text-muted">
-							Results updated between these given dates
-						</small>
-					</div>
-				</div>
-				<div class="row mb-2 tp-search-advanced-extended">
-					<div class="col-md-2"><label for="search-audience">Audience:</label></div>
-					<div class="col-md-6">
-						<select class="custom-select" id="search-audience">
-							<option selected="" value="">Any</option>
-						</select>
-					</div>
-				</div>
-				<div class="row mb-2 tp-search-advanced-extended">
-					<div class="col-md-2"><label for="search-topic">Topic:</label></div>
-					<div class="col-md-6">
-						<select class="custom-select" id="search-topic">
-							<option selected="" value="">Any</option>
-						</select>
-					</div>
-				</div>
-				<div class="row mb-2 tp-search-advanced-extended">
-					<div class="col-md-2"><label for="search-contenttype">Content Type:</label></div>
-					<div class="col-md-6">
-						<select class="custom-select" id="search-contenttype">
-							<option selected="" value="">Any</option>
-						</select>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<button class="btn btn-primary float-right" type="button" id="search-advanced">Search</button>
-						<button class="btn btn-tertiary float-right mr-2" type="button" id="search-clear">Clear</button>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
 							</div>
 													</div>
 					</header>
@@ -775,7 +650,7 @@
 
 <!-- TP APP JS -->
 <script src="/TemplatePackage/contrib/libs/cdc/ab/4.0.0/ab.js"></script>
-<script src="/TemplatePackage/4.0/assets/js/app.min.js?v=20-09-08T19:10:40Z"></script>
+<script src="/TemplatePackage/4.0/assets/js/app.min.js?v=20-10-01T19:49:09Z"></script>
 
 <!-- @pageinfo@ -->
 
@@ -847,6 +722,22 @@
 
 	<symbol id="info-circle" viewBox="0 0 40 40">
 		<path d="M20,0A20,20,0,1,0,40,20,20,20,0,0,0,20,0Zm3.14,27.36c-1.51,2.27-3,4-5.63,4-1.76-.29-2.49-1.55-2.1-2.84l3.32-11a.52.52,0,0,0-.3-.64c-.25-.08-.73.23-1.14.69l-2,2.42a10.92,10.92,0,0,1,0-1.35c1.51-2.27,4-4.05,5.67-4.05A2.26,2.26,0,0,1,23,17.48L19.67,28.54a.52.52,0,0,0,.31.58c.25.08.76-.23,1.18-.69l2-2.42A10.84,10.84,0,0,1,23.14,27.41ZM22.69,13a2.23,2.23,0,0,1-2.3-2.29,2.3,2.3,0,0,1,4.6,0A2.23,2.23,0,0,1,22.69,13Z" class="fr-evenodd"></path>
+	</symbol>
+
+	<symbol id="alert_06">
+		<path d="M15,0C6.8,0,0,6.8,0,15s6.8,15,15,15s15-6.8,15-15S23.3,0,15,0z M15,22.5c-0.8,0-1.5-0.7-1.5-1.5
+			s0.7-1.5,1.5-1.5s1.5,0.7,1.5,1.5S15.8,22.5,15,22.5z M16.5,16c0,0.8-0.7,1.5-1.5,1.5s-1.5-0.7-1.5-1.5V9c0-0.8,0.7-1.5,1.5-1.5
+			s1.5,0.7,1.5,1.5V16z"/>
+	</symbol>
+
+	<!-- timeline -->
+	<symbol id="timelineicon">
+		<path d="M12,8A4,4 0 0,1 16,12A4,4 0 0,1 12,16A4,4 0 0,1 8,12A4,4 0 0,1 12,8M3.05,13H1V11H3.05C3.5,6.83 6.83,3.5 11,3.05V1H13V3.05C17.17,3.5 20.5,6.83 20.95,11H23V13H20.95C20.5,17.17 17.17,20.5 13,20.95V23H11V20.95C6.83,20.5 3.5,17.17 3.05,13M12,5A7,7 0 0,0 5,12A7,7 0 0,0 12,19A7,7 0 0,0 19,12A7,7 0 0,0 12,5Z" />
+	</symbol>
+
+	<!-- Alerts -->
+	<symbol id="alert-circle" viewBox="0 0 24.00 24.00">
+		<path d="M 12.9994,12.998L 10.9994,12.998L 10.9994,6.99805L 12.9994,6.99805M 12.9994,16.998L 10.9994,16.998L 10.9994,14.998L 12.9994,14.998M 11.9994,1.99805C 6.47639,1.99805 1.99939,6.47504 1.99939,11.998C 1.99939,17.5211 6.47639,21.998 11.9994,21.998C 17.5224,21.998 21.9994,17.5211 21.9994,11.998C 21.9994,6.47504 17.5224,1.99805 11.9994,1.99805 Z "/>
 	</symbol>
 
 	<!-- external link icon -->

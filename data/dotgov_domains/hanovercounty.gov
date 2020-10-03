@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"YpSiB4ziYtroeVUir73PjVG9Mm7YKKNorqCht0nMLA1Q8kNdoDcXqfW-KsMsDiM8xKGfeoWuJervs8x06CshIJh8SEE1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"GTVJ6OrOX47ZPX2z5UVfyv4p2Fy869RvGAFczZPiakmn4TmMtNKfAtjWYNDMtKIFhhVfTF2fRw9GdHFi3Hy5E75aNY81\" />");
 						}
 					}
 				}, false);
@@ -1007,11 +1007,11 @@ text-transform: uppercase;}
 					<ol class="semanticList">
 
     <li style="position:relative" class="widgetItem QuickLinks">
-        <a class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/4677/FY21-County-Administrators-Revised-Budget" target="_self" >Highlight of Changes to the FY21 Budget</a>
+        <a class="widgetDesc widgetQuickLinksLink" href="/1024/COVID-19-Coronavirus" target="_blank"  aria-label="COVID-19 Coronavirus opens in new window">COVID-19 Coronavirus</a>
     </li>
 
     <li style="position:relative" class="widgetItem QuickLinks">
-        <a class="widgetDesc widgetQuickLinksLink" href="/1024/COVID-19-Coronavirus" target="_blank"  aria-label="COVID-19 Coronavirus opens in new window">COVID-19 Coronavirus</a>
+        <a class="widgetDesc widgetQuickLinksLink" href="https://www.hanovercounty.gov/363/Community-Resources" target="_self" >CARES Act Funding for Nonprofits</a>
     </li>
 
     <li style="position:relative" class="widgetItem QuickLinks">
@@ -1039,6 +1039,10 @@ text-transform: uppercase;}
     </li>
 
     <li style="position:relative" class="widgetItem QuickLinks">
+        <a class="widgetDesc widgetQuickLinksLink" href="/DocumentCenter/View/4677/FY21-County-Administrators-Revised-Budget" target="_self" >Highlight of Changes to the FY21 Budget</a>
+    </li>
+
+    <li style="position:relative" class="widgetItem QuickLinks">
         <a class="widgetDesc widgetQuickLinksLink" href="https://www.hanovercounty.gov/1012/Wegmans-Project-Information" target="_self" >Wegmans Project Information</a>
     </li>
 
@@ -1048,10 +1052,6 @@ text-transform: uppercase;}
 
     <li style="position:relative" class="widgetItem QuickLinks">
         <a class="widgetDesc widgetQuickLinksLink" href="/1086/Budget-Fiscal-Year-2021" target="_blank"  aria-label="Budget opens in new window">Budget</a>
-    </li>
-
-    <li style="position:relative" class="widgetItem QuickLinks">
-        <a class="widgetDesc widgetQuickLinksLink" href="/662/Locations" target="_self" >Maps</a>
     </li>
 					</ol>
 				</div>
@@ -1111,7 +1111,7 @@ text-transform: uppercase;}
 
 
 <div data-minicalendar="true" class="miniCalendar media" style="width: 50%; ">
-<h3 class="miniCalendarHeader">September 2020</h3>
+<h3 class="miniCalendarHeader">October 2020</h3>
 	<table>
 		<thead>											
 			<tr>										
@@ -1155,28 +1155,34 @@ Sa
 		</thead>										
 		<tbody>											
 <tr><td class="not"><span>
-30
+27
 </span></td>				
 <td class="not"><span>
-31
+28
+</span></td>				
+<td class="not"><span>
+29
+</span></td>				
+<td class="not"><span>
+30
 </span></td>				
 <td>
 <span>1</span>
 </td>
-<td>
+<td class="today">
 <span>2</span>
 </td>
 <td>
 <span>3</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>4</span>
 </td>
 <td>
 <span>5</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>6</span>
 </td>
 <td>
@@ -1191,62 +1197,62 @@ Sa
 <td>
 <span>10</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>11</span>
 </td>
 <td>
 <span>12</span>
 </td>
-</tr>
-<tr><td class="today">
-<span>13</span>
+<td>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=13&amp;CID=35,47,43,49,14,25,26,30,22,60'>13</a>
 </td>
 <td>
-<span>14</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=14&amp;CID=35,47,43,49,14,25,26,30,22,60'>14</a>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=15&amp;CID=35,47,43,49,14,25,26,30,22,60'>15</a>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=15&amp;CID=35,47,43,49,14,25,26,30,22,60'>15</a>
 </td>
 <td>
 <span>16</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=17&amp;CID=35,47,43,49,14,25,26,30,22,60'>17</a>
-</td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=18&amp;CID=35,47,43,49,14,25,26,30,22,60'>18</a>
-</td>
-<td>
-<span>19</span>
+<span>17</span>
 </td>
 </tr>
 <tr><td>
+<span>18</span>
+</td>
+<td>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=19&amp;CID=35,47,43,49,14,25,26,30,22,60'>19</a>
+</td>
+<td>
 <span>20</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=21&amp;CID=35,47,43,49,14,25,26,30,22,60'>21</a>
+<span>21</span>
 </td>
 <td>
-<span>22</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=22&amp;CID=35,47,43,49,14,25,26,30,22,60'>22</a>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=23&amp;CID=35,47,43,49,14,25,26,30,22,60'>23</a>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=23&amp;CID=35,47,43,49,14,25,26,30,22,60'>23</a>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=24&amp;CID=35,47,43,49,14,25,26,30,22,60'>24</a>
-</td>
-<td>
-<span>25</span>
-</td>
-<td>
-<span>26</span>
+<span>24</span>
 </td>
 </tr>
 <tr><td>
+<span>25</span>
+</td>
+<td>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=26&amp;CID=35,47,43,49,14,25,26,30,22,60'>26</a>
+</td>
+<td>
 <span>27</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=9&amp;day=28&amp;CID=35,47,43,49,14,25,26,30,22,60'>28</a>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=28&amp;CID=35,47,43,49,14,25,26,30,22,60'>28</a>
 </td>
 <td>
 <span>29</span>
@@ -1254,15 +1260,9 @@ Sa
 <td>
 <span>30</span>
 </td>
-<td class="not"><span>
-1
-</span></td>				
-<td class="not"><span>
-2
-</span></td>				
-<td class="not"><span>
-3
-</span></td>				
+<td>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=31&amp;CID=35,47,43,49,14,25,26,30,22,60'>31</a>
+</td>
 </tr>
 
 		</tbody>										
@@ -1286,9 +1286,9 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Tue Sep. 15  </h4>
+			<h4 class="widgetTitle">Tue Oct. 13  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=956">Historical Commission Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=957">Voter Registration Deadline</a></strong>
 
 		</div>
 				</li>
@@ -1302,9 +1302,9 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Sep. 17  </h4>
+			<h4 class="widgetTitle">Wed Oct. 14  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=952">Planning Commission Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=885">Facility Space Needs Committee Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1318,9 +1318,9 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Sep. 18  </h4>
+			<h4 class="widgetTitle">Wed Oct. 14  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=960">Vote By Mail - First Day Balllots will be Mailed</a></strong>
+					<strong><a href="/Calendar.aspx?EID=816">Board of Supervisors Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1334,9 +1334,9 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Sep. 18  </h4>
+			<h4 class="widgetTitle">Thu Oct. 15  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=958">Early Voting Begins</a></strong>
+					<strong><a href="/Calendar.aspx?EID=965">Planning Commission Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1350,9 +1350,9 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Sep. 21  </h4>
+			<h4 class="widgetTitle">Mon Oct. 19  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=560">Community Services Board Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=561">Community Services Board Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1419,41 +1419,59 @@ Sa
 		<ol class="semanticList cpSlider">
 					<li class="widgetItem" data-index="0">
 						<div class="text">
-								<h4 id="newsFlashItemHeader414" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=414">9/11 message from the County Administrator </a></h4>
+								<h4 id="newsFlashItemHeader420" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=420">Things you can do in everyday life to protect the Chesapeake Bay </a></h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn414" href="/CivicAlerts.aspx?AID=414" class="readOn" aria-labelledby="newsFlashItemHeader414 newsFlashReadOn414">Read on...</a>            
+				<a id="newsFlashReadOn420" href="/CivicAlerts.aspx?AID=420" class="readOn" aria-labelledby="newsFlashItemHeader420 newsFlashReadOn420">Read on...</a>            
 	</div>
 
 						</div>
 					</li>
 					<li class="widgetItem" data-index="1">
 						<div class="text">
-								<h4 id="newsFlashItemHeader413" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=413">9/11 message from the Sheriff </a></h4>
+								<h4 id="newsFlashItemHeader419" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=419">Libraries provide free lock and talk supplies to patrons </a></h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn413" href="/CivicAlerts.aspx?AID=413" class="readOn" aria-labelledby="newsFlashItemHeader413 newsFlashReadOn413">Read on...</a>            
+				<a id="newsFlashReadOn419" href="/CivicAlerts.aspx?AID=419" class="readOn" aria-labelledby="newsFlashItemHeader419 newsFlashReadOn419">Read on...</a>            
 	</div>
 
 						</div>
 					</li>
 					<li class="widgetItem" data-index="2">
 						<div class="text">
-								<h4 id="newsFlashItemHeader412" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=412">Pamunkey Regional Jail reports COVID-19 outbreak </a></h4>
+								<h4 id="newsFlashItemHeader418" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=418">Hanover joins with United Way to provide direct assistance to those in need </a></h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn412" href="/CivicAlerts.aspx?AID=412" class="readOn" aria-labelledby="newsFlashItemHeader412 newsFlashReadOn412">Read on...</a>            
+CARES Act Basic Needs Grant Funds available through end of this year				<a id="newsFlashReadOn418" href="/CivicAlerts.aspx?AID=418" class="readOn" aria-labelledby="newsFlashItemHeader418 newsFlashReadOn418">Read on...</a>            
 	</div>
 
 						</div>
 					</li>
 					<li class="widgetItem" data-index="3">
 						<div class="text">
-								<h4 id="newsFlashItemHeader411" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=411">Voting information for 2020 Election </a></h4>
+								<h4 id="newsFlashItemHeader417" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=417">Hanover CSB Same Day Access program connects residents with services </a></h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn411" href="/CivicAlerts.aspx?AID=411" class="readOn" aria-labelledby="newsFlashItemHeader411 newsFlashReadOn411">Read on...</a>            
+				<a id="newsFlashReadOn417" href="/CivicAlerts.aspx?AID=417" class="readOn" aria-labelledby="newsFlashItemHeader417 newsFlashReadOn417">Read on...</a>            
 	</div>
 
 						</div>
 					</li>
 					<li class="widgetItem" data-index="4">
+						<div class="text">
+								<h4 id="newsFlashItemHeader416" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=416">Hanover County assists 58 businesses with Small Business Resiliency Grant </a></h4>
+	<div class="widgetDesc">
+				<a id="newsFlashReadOn416" href="/CivicAlerts.aspx?AID=416" class="readOn" aria-labelledby="newsFlashItemHeader416 newsFlashReadOn416">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="5">
+						<div class="text">
+								<h4 id="newsFlashItemHeader415" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=415">Early voting begins September 18 </a></h4>
+	<div class="widgetDesc">
+				<a id="newsFlashReadOn415" href="/CivicAlerts.aspx?AID=415" class="readOn" aria-labelledby="newsFlashItemHeader415 newsFlashReadOn415">Read on...</a>            
+	</div>
+
+						</div>
+					</li>
+					<li class="widgetItem" data-index="6">
 						<div class="text">
 								<h4 id="newsFlashItemHeader405" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=405">Governor announces launch of COVIDWISE exposure app </a></h4>
 	<div class="widgetDesc">
@@ -1462,16 +1480,7 @@ Sa
 
 						</div>
 					</li>
-					<li class="widgetItem" data-index="5">
-						<div class="text">
-								<h4 id="newsFlashItemHeader401" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=401">Hanover Economic Development creates job referral app </a></h4>
-	<div class="widgetDesc">
-				<a id="newsFlashReadOn401" href="/CivicAlerts.aspx?AID=401" class="readOn" aria-labelledby="newsFlashItemHeader401 newsFlashReadOn401">Read on...</a>            
-	</div>
-
-						</div>
-					</li>
-					<li class="widgetItem" data-index="6">
+					<li class="widgetItem" data-index="7">
 						<div class="text">
 								<h4 id="newsFlashItemHeader393" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=393">Know Your Rights and Resources </a></h4>
 	<div class="widgetDesc">
@@ -2117,7 +2126,7 @@ Sa
 
 
 
-	<script src="/740337692.js" type="text/javascript"></script>
+	<script src="/1752145193.js" type="text/javascript"></script>
 	<!-- Piwik --> <script type="text/javascript">   var _paq = _paq || [];   _paq.push(['trackPageView']);   _paq.push(['enableLinkTracking']);   $(window).load(function(){     var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com/";     _paq.push(['setTrackerUrl', u+'piwik.php']);     _paq.push(['setSiteId', 4695]);     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';     g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);   }); </script> <noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=4695" style="border:0;" alt="Piwik" /></p></noscript> <!-- End Piwik Code -->
 
 

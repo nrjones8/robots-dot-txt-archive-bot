@@ -479,7 +479,7 @@ setTimeout(function() {
 
 
 
-© Otsego County 197 Main Street, Cooperstown, NY 13326 &nbsp | &nbsp 607-547-4200 &nbsp | &nbsp <a href="tel:6075474200">Call Us</a>
+© Otsego County 197 Main Street, Cooperstown, NY 13326 &nbsp | &nbsp . &nbsp | &nbsp <a href="https://cms2.revize.com/revize/otsegocountyny/departments/index.php">Department Directory</a>
 			</div><!-- /.col-md-6.footer-text -->
 			<div class="col-md-6 text-right" id="revize">
 				Powered by

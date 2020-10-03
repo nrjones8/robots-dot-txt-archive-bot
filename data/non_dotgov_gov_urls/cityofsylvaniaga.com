@@ -23,7 +23,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-<link rel="stylesheet" type="text/css" href="library/style.css?09132020" />
+<link rel="stylesheet" type="text/css" href="library/style.css?10022020" />
 <link rel="stylesheet" type="text/css" href="library/adminstyle.css" />
 <style type="text/css" media="all">
 .left_col .left_col_links ul li a {display:none;}

@@ -737,7 +737,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.linknames['flinks']={field:'lin
 			</div><!--/#revize-->
 			<div id="footer-info">
 				
-				<span>call us today! <a href="./" tel="5856176120">5856176120</a></span>
+				<span>call us today! <a href="./" tel="585-617-6100">585-617-6100</a></span>
 				<span>
 					
 					269 Ogden Center Road, 

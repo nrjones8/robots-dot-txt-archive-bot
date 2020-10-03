@@ -77,14 +77,14 @@ $(function(){
         </form>
       </div>
       <!-- /Forecastsearch -->
-	</li>
+        </li>
     <!-- /Forecastsearch -->
     <li class="awc_link" onClick="" aria-haspopup="true"><span>HOME</span>
       <ul aria-haspopup="false">
         <li class="awc_link"><a href="/">AWC Home</a></li>
         <li class="awc_link" aria-haspopup="true" onClick=""><span>NCEP &gt;</span>
           <ul aria-haspopup="false">
-	    <li class="awc_link"><a href="https://www.ncep.noaa.gov/">NCEP Home</a></li>
+            <li class="awc_link"><a href="https://www.ncep.noaa.gov/">NCEP Home</a></li>
             <li class="awc_link"><a href="/">Aviation (AWC)</a></li>
             <li class="awc_link"><a href="https://www.cpc.ncep.noaa.gov">Climate (CPC)</a></li>
             <li class="awc_link"><a href="https://www.nhc.noaa.gov">Hurricane (NHC)</a></li>
@@ -94,8 +94,8 @@ $(function(){
             <li class="awc_link"><a href="https://www.swpc.noaa.gov">Space (SWPC)</a></li>
             <li class="awc_link"><a href="https://www.spc.noaa.gov">Storm (SPC)</a></li>
             <li class="awc_link"><a href="https://www.wpc.ncep.noaa.gov">Weather (WPC)</a></li>
-	  </ul>
-	</li>
+          </ul>
+        </li>
         <li class="awc_link"><a href="https://www.weather.gov/">NWS Home</a></li>
         <li class="awc_link"><a href="https://www.noaa.gov/">NOAA Home</a></li>
       </ul>
@@ -132,7 +132,7 @@ $(function(){
     <li class="awc_link" onClick="" aria-haspopup="true"><span>TOOLS</span>
       <ul aria-haspopup="false">
         <li class="awc_link"><a href="/flightpath">Flight Path Tool</a></li>
-	<li class="awc_link"><a href="/gfa">GFA Tool</a></li>
+        <li class="awc_link"><a href="/gfa">GFA Tool</a></li>
         <li class="awc_link"><a href="/hemst">HEMS Tool</a></li>
         <li class="awc_link"><a href="/dataserver">Text Data Server</a></li>
         <li class="awc_link"><a href="/flightfolder">Flight Folder</a></li>
@@ -155,18 +155,18 @@ $(function(){
     <li class="awc_link" onClick="" aria-haspopup="true"><span>SEARCH</span>
       <ul aria-haspopup="false">
         <li class="awc_link">
-	  <form method="get" action="https://search.usa.gov/search">
-	  <input type="hidden" name="v:project" value="firstgov" />
-	  <label for="query" style="color: #104070; font-size:14px">Search For</label><br/>
-	  <input type="text" class="input_text" name="query" id="query" size="12" />
-	  <input type="submit" class="input_button" style="font-size:12px" value="Go" />
-	  <br/>
-	  <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
-	  <label for="nws" class="search-scope">NWS</label>
-	  <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
-	  <label for="noaa" class="search-scope">All NOAA</label>
-	  </form>
-	</li>
+          <form method="get" action="https://search.usa.gov/search">
+          <input type="hidden" name="v:project" value="firstgov" />
+          <label for="query" style="color: #104070; font-size:14px">Search For</label><br/>
+          <input type="text" class="input_text" name="query" id="query" size="12" />
+          <input type="submit" class="input_button" style="font-size:12px" value="Go" />
+          <br/>
+          <input type="radio" name="affiliate" checked="checked" value="nws.noaa.gov" id="nws" />
+          <label for="nws" class="search-scope">NWS</label>
+          <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+          <label for="noaa" class="search-scope">All NOAA</label>
+          </form>
+        </li>
       </ul>
     </li>
     <li class="awc_link" onClick="" aria-haspopup="true"><span>ABOUT</span>
@@ -179,16 +179,16 @@ $(function(){
     </li>
     <li class="awc_link" onClick="" aria-haspopup="true"><span>USER</span>
     <ul aria-haspopup="false">
-        	<li class="awc_link"><a href="/user/login">Login</a></li>
-    	<li class="awc_link"><a href="/user/settings">Settings</a></li>
-    	<li class="awc_link"><a href="/user/register">Register</a></li>
+            <li class="awc_link"><a href="/user/login">Login</a></li>
+        <li class="awc_link"><a href="/user/settings">Settings</a></li>
+        <li class="awc_link"><a href="/user/register">Register</a></li>
     
     </ul>
     </li>
   </ul>
   <div style="float: right">
-    <a href="https://www.facebook.com/US.NOAA.AviationWeatherCenter"><img src="/images/fb-art-25.png" title="Follow us on Facebook" height="20"/></a>
-    <a href="https://www.twitter.com/NWSAWC"><img src="/images/twitter-art-25.png" title="Follow us on Twitter" height="20"/></a>
+    <a href="https://www.facebook.com/US.NOAA.AviationWeatherCenter"><img src="/images/fb-art-25.png" alt="Facebook icon" title="Follow us on Facebook" height="20"/></a>
+    <a href="https://www.twitter.com/NWSAWC"><img src="/images/twitter-art-25.png" alt="Twitter icon" title="Follow us on Twitter" height="20"/></a>
   </div>
   </div> <!-- awc_menu -->
 </div> <!-- /awc_topnav -->
@@ -224,11 +224,11 @@ $(function(){
   <div id="awc_botnav_content">
   <p style="text-align: center; font-size: 10px; color: #1150a0">
     Page loaded:&nbsp;
-  <a href="https://www.time.gov">01:53 UTC</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  06:53 PM  Pacific&nbsp;&nbsp;|&nbsp;&nbsp;
-  07:53 PM  Mountain&nbsp;&nbsp;|&nbsp;&nbsp;
-  08:53 PM  Central&nbsp;&nbsp;|&nbsp;&nbsp;
-  09:53 PM  Eastern
+  <a href="https://www.time.gov">03:05 UTC</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  08:05 PM  Pacific&nbsp;&nbsp;|&nbsp;&nbsp;
+  09:05 PM  Mountain&nbsp;&nbsp;|&nbsp;&nbsp;
+  10:05 PM  Central&nbsp;&nbsp;|&nbsp;&nbsp;
+  11:05 PM  Eastern
   </p>
   <div style="display: table-row">
     <div style="display: table-cell; width: 100px">&nbsp;</div>
@@ -303,7 +303,7 @@ $(function(){
   <div id="awc_footer_content">
 
   <div style="width:240px; float: left; text-align:left">
-    <a href="https://www.usa.gov"><img src="/images/layout/usa_gov.png"/></a>
+    <a href="https://www.usa.gov"><img src="/images/layout/usa_gov.png" alt="USA dot gov"/></a>
   </div>
   <div style="width:260px; float: left; text-align:left">
     <a href="https://www.commerce.gov/">US Dept of Commerce</a><br/>
@@ -325,8 +325,8 @@ $(function(){
     <a href="https://www.weather.gov/privacy">Privacy Policy</a><br/>
     <a href="https://www.noaa.gov/foia-freedom-of-information-act">Freedom of Information Act (FOIA)</a><br/>
     <a href="https://www.weather.gov/careers">Career Opportunities</a><br/>
-    Server:     IDP-CPRK:15 <br/>
-    Version: v20.08<br/>
+    Server:     IDP-CPRK:10 <br/>
+    Version: v20.09<br/>
   </div>
   </div> <!-- /awc_footer_content -->
 </div>  <!-- /awc_footer -->

@@ -21,5 +21,6 @@ Disallow: /2016-funday-schedule.html
 Disallow: /us-24-garage-sale.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
 Disallow: /ge-cloverleaf-4-h.html
+Disallow: /hmpg-header-storage.html
 Disallow: /http://www.glenelder.com/city-library.html
 Disallow: /storage.html

@@ -11,12 +11,12 @@
 	<link href="/templates/gamers/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 	<link href="/index.php?option=com_ajax&plugin=arktypography&format=json" rel="stylesheet" type="text/css" />
 	<link href="https://www.babbitt-mn.com/media/editors/arkeditor/css/squeezebox.css" rel="stylesheet" type="text/css" />
-	<script src="/media/jui/js/jquery.min.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-noconflict.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-migrate.min.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
-	<script src="/media/jui/js/bootstrap.min.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery.ui.core.min.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery.ui.sortable.min.js?bbaf3d66a2ab4d8f7dc8293a1e02a0f7" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.ui.sortable.min.js?b9bc43fbf5b54e7aff9692cf56d87c98" type="text/javascript"></script>
 	<script src="https://www.babbitt-mn.com/templates/gamers/js/jquery/jquery-ui-addons.js" type="text/javascript"></script>
 	<script src="https://www.babbitt-mn.com/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
 	<script src="https://www.babbitt-mn.com/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
@@ -507,13 +507,13 @@ The increased use of cleaning wipes during the COVID-19 outbreak is good on the 
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloakdd16c924188b5bc8a77c918e9d2cee16">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
-				document.getElementById('cloakdd16c924188b5bc8a77c918e9d2cee16').innerHTML = '';
+<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloake51d007c26b9f945284bc93f2365e5b9">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloake51d007c26b9f945284bc93f2365e5b9').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addydd16c924188b5bc8a77c918e9d2cee16 = 'd&#101;bb&#105;&#101;' + '&#64;';
-				addydd16c924188b5bc8a77c918e9d2cee16 = addydd16c924188b5bc8a77c918e9d2cee16 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
-				var addy_textdd16c924188b5bc8a77c918e9d2cee16 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloakdd16c924188b5bc8a77c918e9d2cee16').innerHTML += '<a ' + path + '\'' + prefix + ':' + addydd16c924188b5bc8a77c918e9d2cee16 + '\'>'+addy_textdd16c924188b5bc8a77c918e9d2cee16+'<\/a>';
+				var addye51d007c26b9f945284bc93f2365e5b9 = 'd&#101;bb&#105;&#101;' + '&#64;';
+				addye51d007c26b9f945284bc93f2365e5b9 = addye51d007c26b9f945284bc93f2365e5b9 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
+				var addy_texte51d007c26b9f945284bc93f2365e5b9 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloake51d007c26b9f945284bc93f2365e5b9').innerHTML += '<a ' + path + '\'' + prefix + ':' + addye51d007c26b9f945284bc93f2365e5b9 + '\'>'+addy_texte51d007c26b9f945284bc93f2365e5b9+'<\/a>';
 		</script> (subject:&nbsp; campground) so that we can establish a list of interested parties.</span></p>
 
 <p>&nbsp;</p>

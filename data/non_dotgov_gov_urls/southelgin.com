@@ -134,10 +134,10 @@ RZ.editaction = '';
 
 //----- Permission data
 RZ.page_roles = ''
-RZ.page_users = ''
+RZ.page_users = '9db98e3db2e1d11924c6968e9ba2fc93c1131eb03fa33eb33ee1896f64e8f3ee'
 RZ.page_key = 'freeform[1717]'
 RZ.parent_key = 'index[]'
-RZ.inherit_key = ''
+RZ.inherit_key = 'index[]'
 RZ.workflowname = ''
 RZ.permissions_options = 'warningsOFF'
 RZ.permissions_module = 'webspace_page_permissions'
@@ -156,7 +156,7 @@ if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
 
 //----- Field values from webspace_config module
 RZ.webspace_config = new Object();
-RZ.webspace_config.admin_email = "noreply@revize.com";
+RZ.webspace_config.admin_email = "noreply@southelgin.com";
 RZ.webspace_config.calendar_options = "max_events=3";
 RZ.webspace_config.form_captcha = "yes";
 RZ.webspace_config.form_server = "revizeserver";
@@ -185,14 +185,14 @@ RZ.webspace_config.menu_sections_module = "sections";
 RZ.webspace_config.menu_system = "custom";
 RZ.webspace_config.menu_version = "1.00";
 RZ.webspace_config.new_menu_manager_enabled = "yes";
-RZ.webspace_config.notify_options = "hide_text=yes";
+RZ.webspace_config.notify_options = "";
 RZ.webspace_config.notify_return_url = "enotify/index.php";
 RZ.webspace_config.rte_setup = "yes";
-RZ.webspace_config.to_email = "webpageupdate_subscribers@revize.com";
+RZ.webspace_config.to_email = "subscribers@southelgin.com";
 RZ.webspace_config.use_folders = "1";
 
 RZ.isauthenticationactive = true
-RZ.warning = "webspace_page_permissions record not found where: webspace_page_permissions.page_key=index[]"
+RZ.warning = ""
 RZ.adminwinmsg = null
 
 RZ.channels = 'Production,revize';
@@ -307,8 +307,8 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-1678"><a class="menuA level1 menuHidden" href="government/departments/parks___recreation/parks_and_facilities/index.php" target="_self">Parks and Open Spaces</a></li>
 			<li class="menuLI level1 menuHidden li-1680"><a class="menuA level1 menuHidden" href="government/departments/parks___recreation/parks_and_facilities/south_elgin_cemetery.php" target="_self">South Elgin Cemetery</a></li>
 			<li class="menuLI level1 menuHidden li-1707"><a class="menuA level1 menuHidden" href="residents/special_events/index.php" target="_self">Special Events</a></li>
-			<li class="menuLI level1 menuHidden li-2003"><a class="menuA level1 menuHidden" href="community/pantonmillparkproject.php" target="_self">Panton Mill Park Project</a></li>
 			<li class="menuLI level1 menuHidden li-2026"><a class="menuA level1 menuHidden" href="community/coronavirus_news_updates/index.php" target="_self">Coronavirus News/Updates</a></li>
+			<li class="menuLI level1 menuHidden li-2254"><a class="menuA level1 menuHidden" href="government/departments/parks___recreation/panton_mill_park/index.php" target="_self">Panton Mill Park</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-27 children"><a class="menuA level0 menuDisplay" href="i_want_to/index.php" target="_self">I Want To</a>
@@ -333,7 +333,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 				<ul class="menuUL level2 menuHidden ul-2124">
 					<li class="menuLI level2 menuHidden li-2124"><a class="menuA level2 menuHidden" href="i_want_to/recreation_opportunities/index.php" target="_self">Recreation Opportunities</a></li>
 					<li class="menuLI level2 menuHidden li-1862"><a class="menuA level2 menuHidden" href="i_want_to/online_program_registration.php" target="_self">Recreation Program Registration</a></li>
-					<li class="menuLI level2 menuHidden li-2196"><a class="menuA level2 menuHidden" href="government/departments/parks___recreation/fitness_classes.php" target="_self">Fitness Classes</a></li>
 					<li class="menuLI level2 menuHidden li-1679"><a class="menuA level2 menuHidden" href="government/departments/parks___recreation/parks_and_facilities/index.php" target="_self">Parks and Open Spaces</a></li>
 					<li class="menuLI level2 menuHidden li-1451"><a class="menuA level2 menuHidden" href="government/departments/police/crime_prevention/index.php" target="_self">Crime Prevention Information</a></li>
 					<li class="menuLI level2 menuHidden li-1454"><a class="menuA level2 menuHidden" href="government/departments/police/community_relations/public_safety_programs/index.php" target="_self">Public Safety Programs</a></li>
@@ -466,7 +465,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
 	
 </div>
 
-
+<script>console.log(`dsfdsfsf`)</script>
 
 					</div><!-- /#post -->
 				</article><!-- /#entry -->
@@ -568,33 +567,46 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
 <script src="_assets_/plugins/jquery.bxslider/jquery.bxslider.min.js"></script>
 <script src="_assets_/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script src="_assets_/plugins/matchHeight/dist/jquery.matchHeight-min.js"></script>
-<script src="_assets_/js/scripts.js"></script>
+<script src="_assets_/js/scripts.js?v=20200224"></script>
 
 <!-- Calendar Section Starts-->
-<div class="calendarEventPopup"> 
-	<script>
-		window.addEventListener('message', function(e) {
-		var $iframe = jQuery("#calendarEvent");
-		var eventName = e.data[0];
-		var data = e.data[1];
-		switch(eventName) {
-			case 'setHeight':
-				$iframe.height(data);
-				break;
-			}
-		}, false);
-	</script>
-	<style>
-		@media only screen and (max-width:768px){iframe#calendarEvent{height:auto!important}}
-		@media only screen and (max-height:700px){iframe#calendarEvent{height:auto!important}}
-	</style>
-	<div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
-		<div class="calendarEvent-overlay" style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div><!-- /.calendarEvent-overlay -->
-		<iframe src="about:blank" id="calendarEvent" style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
-	</div>
-	<!-- /#RZcalendar_detail --> 
+<div class="calendarEventPopup">
+  <script>
+    window.addEventListener('message', function (e) {
+      var $iframe = jQuery("#calendarEvent");
+      var eventName = e.data[0];
+      var data = e.data[1];
+      switch (eventName) {
+        case 'setHeight':
+          $iframe.height(data);
+          break;
+      }
+    }, false);
+  </script>
+  <style>
+    @media only screen and (max-width:768px) {
+      iframe#calendarEvent {
+        height: auto !important
+      }
+    }
+
+    @media only screen and (max-height:700px) {
+      iframe#calendarEvent {
+        height: auto !important
+      }
+    }
+  </style>
+  <div id="RZcalendar_detail" style="display:none;z-index:9999;position:relative;visibility:hidden">
+    <div class="calendarEvent-overlay"
+      style="position:fixed;top:0;right:0;bottom:0;left:0;width:100%;z-index:10;background-color:rgba(0,0,0,.6)"></div>
+    <!-- /.calendarEvent-overlay -->
+    <iframe src="about:blank" id="calendarEvent"
+      style="position:fixed;z-index:9999;top:5%;right:0;width:600px;min-height:370px;max-width:100%;border:0"></iframe>
+  </div>
+  <!-- /#RZcalendar_detail -->
 </div>
-<!-- /.calendarEventPopup --> 
+<!-- /.calendarEventPopup -->
+
 
 
 

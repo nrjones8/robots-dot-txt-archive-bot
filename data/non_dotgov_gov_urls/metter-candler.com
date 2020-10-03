@@ -283,16 +283,12 @@ View Community Resources during
 <div class="name">Great American Cleanup<br /></div>
 </li> -->
 
-		<li class="cushycms"><p align="center" class="MsoNoSpacing" style="text-align: center;">&nbsp;</p>
+		<li class="cushycms"><p align="center" class="MsoNoSpacing" style="text-align: center;"><span style="font-size: 18px;"><b><span style="font-family: &quot;Times New Roman&quot;,serif;">CITY OF METTER</span></b></span><br />
+<span style="font-size: 18px;"><b><span style="font-family: &quot;Times New Roman&quot;,serif;">GRAYSON TRAPNELL SPECIAL COMMITTEE FOR ANIMAL SERVICES</span></b></span></p>
 
-<p align="center" class="MsoNoSpacing" style="text-align: center;"><span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><b><span style="font-size:16.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">CITY OF METTER</span></span></b></span></span><br />
-<span style="font-size:11pt"><span style="font-family:&quot;Calibri&quot;,sans-serif"><b><span style="font-size:16.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif">PUBLIC HEARING CANCELLED</span></span></b></span></span><br />
+<p align="center" class="MsoNoSpacing" style="text-align: center;"><font face="Times New Roman, serif"><span style="font-size: 18px;"><b>CALLED MEETING<br />
 <br />
-<span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Please be advised that the Public Hearing scheduled for <b>Thursday, August 27, 2020, 5:15 p.m.,</b> to review the proposed 2020 millage rate, has been cancelled. The new date will be forthcoming.&nbsp; </span></span></span></span><br />
-<span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">Angie Conner, City Clerk</span></span></span></span><br />
-<span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="font-family:&quot;Times New Roman&quot;,serif">City of Metter, Georgia<br />
-<br />
-<b>CITY COUNCIL WILL CONTINUE WITH THE CALLED MEETING SCHEDULED FOR THURSDAY, AUGUST 27, 2020, 5:15 P.M. AT THE METTER POLICE DEPARTMENT, LOCATED AT 805 E. LILLIAN STREET.</b></span></span></span></span><br />
+The Grayson Trapnell Special Committee for Animal Services has called a meeting for October 1, 2020, 5:30 p.m. at the Metter Police Department located at 805 E. Lillian St., Metter, GA.&nbsp; The purpose of this meeting is to review the bids for the the reovations at the animal shelter.</b></span></font><br />
 <br />
 &nbsp;</p>
 </li><li class="cushycms"><p align="center" class="MsoNoSpacing" style="text-align: center;"><span style="font-size: 18px;"><b><span style="font-family: &quot;Times New Roman&quot;,serif;">CITY OF METTER</span></b></span><br />
@@ -310,7 +306,9 @@ May 19, 2020<br />
 <br />
 July 21, 2020 - Meeting Cancelled<br />
 <br />
-September 15, 2020<br />
+September 15, 2020 - Meeting Cancelled<br />
+<br />
+October 1, 2020 - Called Meeting<br />
 <br />
 November 17, 2020</span><br />
 <br />
@@ -363,7 +361,7 @@ May 21, 2020<br />
 <br />
 July 16, 2020 - This meeting was cancelled.<br />
 <br />
-September 17, 2020<br />
+September 17, 2020 - This meeting was cancelled<br />
 <br />
 November 19, 2020</span><br />
 <span style="font-size: 22px;">&nbsp; &nbsp;</span></span></span></p>
@@ -426,10 +424,7 @@ November 19, 2020</span><br />
 <span style="font-size: 14px;"><a href="index_264_2952613275.pdf" target="_blank"><span style="color:#a41334;">Annual Drinking Water Report </span></a></span><br />
 <br />
 &nbsp;
-<hr /><span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>COVID-19</b></span></span><br />
-<span style="font-size:18px;"><a href="index_413_2844681628.pdf"><span style="color:#000000;">Notice for City Hall </span></a></span><br />
-<br />
-<span style="color:#a41334;"><span style="font-size: 22px;">&diams;<b>FY 2021 Budget</b></span></span><br />
+<hr /><span style="color:#a41334;"><span style="font-size: 22px;">&diams;<b>FY 2021 Budget</b></span></span><br />
 <span style="font-size:18px;"><a href="index_407_943240108.pdf"><span style="color:#000000;">New Budget Hearing and Adoption Notices FY 2021</span></a></span><br />
 <span style="font-size:18px;"><a href="index_408_186006948.pdf"><span style="color:#000000;">Finance Budget Summary</span></a></span><br />
 <br />
@@ -439,20 +434,18 @@ November 19, 2020</span><br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>SPLOST</b></span></span><br />
 <span style="font-size:18px;"><a href="index_282_2491276699.pdf" target="_blank"><span style="color:#000000;">2018 SPLOST Project Expenditures REPORT </span></a></span><br />
 <br />
-<span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Bids</b></span></span><br />
-<span style="font-size:18px;"><a href="index_426_434496427.pdf"><span style="color:#000000;">Pump Station Upgrades</span></a></span><br />
-<br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Public Notice</b></span></span><br />
 <a href="index_180_1830661107.pdf" target="_blank"><span style="color: rgb(0, 0, 0);"><span style="font-size: 18px;">City of Metter Dog Ordinance</span></span></a><br />
 <span style="font-size:18px;"><a href="index_430_3462099754.pdf" target="_blank"><span style="color:#000000;">2020 Five Year History</span></a></span><br />
-<span style="font-size:18px;"><a href="index_428_720298769.pdf"><span style="color:#000000;">Labor Day Schedule </span></a></span><br />
 <br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Downtown Development Authority Meetings 2020&nbsp;</b></span></span><br />
 <span style="font-size:18px;"><a href="index_329_965014917.pdf" target="_blank"><span style="color:#000000;">DDA 2020 Meetings</span></a></span><br />
+<span style="font-size:18px;"><a href="index_435_2661932340.pdf"><span style="color:#000000;">October 5, 2020 Meeting</span></a></span><br />
 <br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Jobs</b></span></span><br />
-<span style="font-size:18px;"><a href="index_424_672921565.pdf"><span style="color:#000000;">Fire Training Captain</span></a><br />
-<a href="index_420_3421473025.pdf"><span style="color:#000000;">Refuse Collector</span></a></span>&nbsp;<br />
+<span style="font-size:18px;"><a href="index_420_3421473025.pdf"><span style="color:#000000;">Refuse Collector</span></a></span>&nbsp;<br />
+<span style="font-size:18px;"><a href="index_432_636005850.pdf"><span style="color:#000000;">Sergeant (Patrol Division)</span></a></span><br />
+<span style="font-size:18px;"><a href="index_433_4117181867.pdf"><span style="color:#000000;">Wastewater Treatment Plant Worker</span></a></span><br />
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 <hr style="margin-top: 5px;" />
 <div><span style="color:#a41334;"><span style="font-size: 22px;"><strong>City of Metter FY 2019 Budget:&nbsp;</strong><b>&nbsp;</b></span></span>
@@ -483,38 +476,6 @@ November 19, 2020</span><br />
 </ul>
 </div>
 </li>
-						<li class="section-block cushycms"><h2 class="section-title cushycms">Governor Kemp&#39;s Executive Order&nbsp;</h2>
-
-<p><br />
-<a href="index_415_1991194165.pdf"><span style="color:#000000;">Executive Order 6-11-2020</span></a><br />
-<a href="index_416_1696753652.pdf"><span style="color:#000000;">GMA-Review-of-Executive-Order-06-11-20</span></a><br />
-<a href="index_410_2928809776.pdf"><span style="color:#000000;">Executive Order 5-28-2020</span></a><br />
-<a href="index_411_428941657.pdf"><span style="color:#000000;">GMA-Review-of-Executive-Order-05-28-2020</span></a><br />
-<a href="index_403_542302712.pdf"><span style="color:#000000;">Executive Order 5-12-2020</span></a><br />
-<a href="index_406_3338755838.pdf"><span style="color:#000000;">GMA-Review of Executive Order 05-12-2020</span></a><br />
-<a href="uploads/Executive Order 4-23-2020.pdf" target="_blank"><span style="color:#000000;">Executive Order 4-23-2020</span></a><br />
-<a href="uploads/Executive Order 4-23-2020 Handout.pdf" target="_blank"><span style="color:#000000;">Executive Order 4-23-2020 Handout</span></a><br />
-<a href="uploads/EO- Order to Ensure Healthy GA.pdf" target="_blank"><span style="color:#000000;">Guidelines for Barber/Salon Shops</span></a><br />
-<a href="uploads/Executive Order 4-20-2020.pdf" target="_blank"><span style="color:#000000;">Executive Order 4-20-2020</span></a><br />
-<a href="uploads/Executive Order - Renewal of Public Health State of Emergency.pdf 4-8-2020.pdf" target="_blank"><span style="color:#000000;">Executive Order - Renewal of Public Health State of Emergency 4-8-2020</span></a><br />
-<a href="uploads/EO- Order to Ensure Healthy GA.pdf" target="_blank"><span style="color:#000000;">Executive Order - Public Health State of Emergency 4/3/2020</span></a><br />
-<a href="uploads/Statewide Shelter In Place Handout.pdf" target="_blank"><span style="color:#000000;">Statewide Shelter In Place Handout</span></a><br />
-<a href="https://dps.georgia.gov/covid-19-updates-0" target="_blank"><span style="color:#000000;">Georgia Dept. of Public Safety - COVID-19 </span></a><br />
-<a href="https://www.georgia.org/covid19bizguide" target="_blank"><span style="color:#000000;">SHOULD MY BUSINESS REMAIN OPEN ?</span></a></p>
-</li>
-						<li class="section-block cushycms"><h2 class="section-title cushycms" style="width: 50%">COVID 19 Updates</h2>
-
-<p><span style="font-size:20px;"><span style="color:#000000;"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">City Hall will be opening the lobby, beginning today, June 9, 2020. We will be observing CDC guidelines and maintaining social distancing rules. Only two people will be allowed in the lobby at a time. We encourage customers to continue to pay online, by phone, by bank draft, or by using our drop box, located between the two windows outside of City Hall. The City of Metter is also offering e-bill. For any customer interested in paperless billing, please call City Hall or send your request and email information to </span></span></span><a href="/cdn-cgi/l/email-protection#8ffce8e0e0ebe2eee1cfece6fbf6e0e9e2eafbfbeafde8eea1e8e0f9" style="color:#0563c1; text-decoration:underline"><span style="color:#000000;"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif"><span class="__cf_email__" data-cfemail="ccbfaba3a3a8a1ada28cafa5b8b5a3aaa1a9b8b8a9beabade2aba3ba">[email&#160;protected]</span></span></span></span></a><span style="color:#000000;"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">. </span></span><br />
-<br />
-<span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">The City of Metter has reviewed reopening the Metter Depot and Community Center for rental to private citizens. At this time, rental will continue to be suspended until further notice. </span></span><br />
-<br />
-<span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">The City of Metter will be disconnecting services for non-payment and adding the $45 delinquent fee to all past due accounts on June 22, 2020 at 5pm. We are still offering a payment plan option for our customers, but prior arrangements must be made to avoid the $45 fee. If you have any questions or would like more information, please give us a call at 912-685-2527.</span></span><br />
-<br />
-<span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">City of Metter</span></span></span></span><br />
-&nbsp;</p>
-Download PDF version here: <span style="font-size:18px;"><a href="index_417_2844681628.pdf" target="_blank"><span style="color:#000000;">COVID-19 Notice </span></a></span><br />
-<br />
-&nbsp;</li>
 						<li class="section-block cushycms"><h2 class="section-title cushycms">2020 Candler County Census</h2>
 <a href="https://www.facebook.com/100375548209493/videos/635332180624731/" target="_blank"><img alt="" src="img/Census Logo2.jpg" style="width: 200px; float: left; padding: 10px" /></a>
 
@@ -534,6 +495,8 @@ For more details, follow us on Facebook @ 2020 Candler County Census<br />
 <a href="https://www.facebook.com/100375548209493/videos/635332180624731/" target="_blank">2020 Candler County Census Tutorial </a></span></span><br />
 &nbsp;</p>
 </li>
+						
+						
 						
 						
 						<!-- <li class="section-block cushycms">
@@ -688,7 +651,7 @@ For more details, follow us on Facebook @ 2020 Candler County Census<br />
 					<li class="col-search">
 						<div class="search-form clearfix">
 							<!-- google cse code -->
-							<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+							<script>
   (function() {
     var cx = '001739123263271204011:gldwk-1vydy';
     var gcse = document.createElement('script');

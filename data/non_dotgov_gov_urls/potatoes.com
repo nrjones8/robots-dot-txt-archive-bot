@@ -20,13 +20,13 @@
 	<link href="/media/gantry5/assets/css/lightcase.css" rel="stylesheet" />
 	<link href="/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
 	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css?5f74e2ac" rel="stylesheet" />
 	<link href="/media/gantry5/assets/css/bootstrap-gantry.css" rel="stylesheet" />
 	<link href="/media/gantry5/engines/nucleus/css-compiled/joomla.css" rel="stylesheet" />
 	<link href="/media/jui/css/icomoon.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css?5f74e2ad" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css?5f74e2ad" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css?5f74e2ad" rel="stylesheet" />
 	<link href="/media/widgetkit/wk-styles-a60b7277.css" rel="stylesheet" id="wk-styles-css" />
 	<script src="https://www.potatoes.com/media/com_acymailing/js/acymailing_module.js?v=51012" async></script>
 	<script src="/media/jui/js/jquery.min.js?74a33f26b403bc9852f1f890ce856106"></script>
@@ -52,11 +52,11 @@
 			acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
 		acymailingModule['level'] = 'enterprise';
-		acymailingModule['reqFieldsformAcymailing83881'] = Array('html');
-		acymailingModule['validFieldsformAcymailing83881'] = Array('Please enter a value for the field Receive');
-acymailingModule['excludeValuesformAcymailing83881'] = [];
-acymailingModule['excludeValuesformAcymailing83881']['name'] = 'Name';
-acymailingModule['excludeValuesformAcymailing83881']['email'] = 'E-mail';
+		acymailingModule['reqFieldsformAcymailing99191'] = Array('html');
+		acymailingModule['validFieldsformAcymailing99191'] = Array('Please enter a value for the field Receive');
+acymailingModule['excludeValuesformAcymailing99191'] = [];
+acymailingModule['excludeValuesformAcymailing99191']['name'] = 'Name';
+acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -659,7 +659,7 @@ acymailingModule['excludeValuesformAcymailing83881']['email'] = 'E-mail';
             
             
                         <video onclick="this.paused?this.play():this.pause();" autoplay poster="/" loop class="g-video-nocontrols" muted playsinline>
-                                <source src="/templates/rt_denali/custom/images/home/above/Farming-WSPC-Website.-v02.mp4?5f5a7296" type="video/mp4">
+                                <source src="/templates/rt_denali/custom/images/home/above/Farming-WSPC-Website.-v02.mp4" type="video/mp4">
                                     </video>
                                 <div class="g-videolocal-play pause"></div>
                                 
@@ -993,20 +993,20 @@ acymailingModule['excludeValuesformAcymailing83881']['email'] = 'E-mail';
              <div class="g-content">
                                     <div class="platform-content"><div class="moduletable ">
 							<h3 class="g-title">JOIN OUR MAILING LIST</h3>
-						<div class="acymailing_module" id="acymailing_module_formAcymailing83881">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing83881"  >
-		<form id="formAcymailing83881" action="/" onsubmit="return submitacymailingform('optin','formAcymailing83881')" method="post" name="formAcymailing83881"  >
+						<div class="acymailing_module" id="acymailing_module_formAcymailing99191">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing99191"  >
+		<form id="formAcymailing99191" action="/" onsubmit="return submitacymailingform('optin','formAcymailing99191')" method="post" name="formAcymailing99191"  >
 		<div class="acymailing_module_form" >
 						<table class="acymailing_form">
 				<tr>
 													<td class="acyfield_name ">
-								<input id="user_name_formAcymailing83881"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
-								<input id="user_email_formAcymailing83881"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
+								<input id="user_name_formAcymailing99191"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing99191"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
 										</td>
 					
 					
 					<td  class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing83881'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing99191'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
 											</td>
 				</tr>
 			</table>
@@ -1018,7 +1018,7 @@ acymailingModule['excludeValuesformAcymailing83881']['email'] = 'E-mail';
 			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.potatoes.com%2Findex.php"/>
 			<input type="hidden" name="option" value="com_acymailing"/>
 						<input type="hidden" name="hiddenlists" value="1"/>
-			<input type="hidden" name="acyformname" value="formAcymailing83881" />
+			<input type="hidden" name="acyformname" value="formAcymailing99191" />
 									</div>
 		</form>
 	</div>

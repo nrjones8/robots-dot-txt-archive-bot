@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-<title>403 - Forbidden: Access is denied.</title>
+<title>404 - File or directory not found.</title>
 <style type="text/css">
 <!--
 body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
@@ -21,8 +21,8 @@ background-color:#555555;}
 <div id="header"><h1>Server Error</h1></div>
 <div id="content">
  <div class="content-container"><fieldset>
-  <h2>403 - Forbidden: Access is denied.</h2>
-  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+  <h2>404 - File or directory not found.</h2>
+  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
  </fieldset></div>
 </div>
 </body>

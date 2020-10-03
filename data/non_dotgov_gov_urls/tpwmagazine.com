@@ -187,7 +187,7 @@ googletag.display('div-gpt-ad-1383596640165-1'); });
   </div>
 </div>
 <div id="headerimage"> 
-  <a href="https://woobox.com/t57rvt"> <img src="/images/header_image_home.jpg" alt="Welcome to Texas Parks &amp; Wildlife magazine" /></a>  </a> </div>
+  <img src="/images/header_image_home.jpg" alt="Welcome to Texas Parks &amp; Wildlife magazine" />  </a> </div>
 <div id="contentarea">
 <a href="/">Texas Parks and Wildlife magazine Home Page</a>
 <h1 class="nobottommargin">Error 404 - Page Not Found</h1><h3>The page you requested has not been found.</h3>

@@ -171,6 +171,10 @@
                                     <a href="/homeownership-and-renters/home-buyers/wheda-owned-real-estate" role="menuitem" tabindex="-1">Foreclosed Homes</a>
 
                             </li>
+                            <li role="presentation">
+                                    <a href="/homeownership-and-renters/home-buyers/wheda-consumer-newsletter" role="menuitem" tabindex="-1">WHEDA Consumer Newsletter</a>
+
+                            </li>
                     </ul>
                 </li>
         </ul>
@@ -806,7 +810,7 @@ Pages            /&nbsp;
     </div>
 </div>
 
-<script src="/bundles/scripts/site?v=nrHHXmaa8UTFw_sqhwU9uZUVxxqGhPy40MSMCfvSH681"></script>
+<script src="/bundles/scripts/site?v=iZwEse6tSq-fAjQdpoPrNziNIanJaPJXn9_Y5Lzv9301"></script>
 
 
 

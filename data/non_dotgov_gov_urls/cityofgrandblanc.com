@@ -314,6 +314,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-554"><a class="menuA level2 menuHidden" href="https://gbparks.recdesk.com/Community/Home" target="_new">Recreation Desk</a></li>
 				</ul>
 			</li>
+			<li class="menuLI level1 menuHidden li-1044"><a class="menuA level1 menuHidden" href="our_residents/city_departments/administration/city_clerk/voting___elections.php" target="_self">Voting & Elections</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-8 children"><a class="menuA level0 menuDisplay" href="our_residents/index.php" target="_self">Our Residents</a>
@@ -586,7 +587,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
           
           <h2 class="section-header">Contact Us</h2>
           <div id="contact-caption">
-            It is our hope that this site will allow convenient access to information and help us provide the highest quality of service to our residents.<br /><br /><a href= "../TITLE VI 2019.pdf" target="_blank"  >TITLE VI</a>
+            It is our hope that this site will allow convenient access to information and help us provide the highest quality of service to our residents.<br /><br /><a href= "../TITLE VI SUB-RECIPIENT ANNUAL CERTIFICATION FORM.pdf" target="_blank"  >TITLE VI</a>
           </div>
           
 					<div class="contact_list-btn">

@@ -138,7 +138,7 @@ var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
 var g_wsaListTemplateId = 850;
 var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{751dafc9-9892-41f1-bbbd-af1d5d5b6922}",pageItemId:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
                             function DoCallBack(filterText)
-                            {WebForm_DoCallback('ctl00$m$g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            {WebForm_DoCallback('ctl00$m$g_faef5314_64b2_4d59_9711_820bfe09c41f',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
                             function CallBackError(result, clientsideString)
                             {                
@@ -796,7 +796,18 @@ This service will remind you when West Virginia state offices are closed for a h
 	<tr>
 		<td id="MSOZoneCell_WebPartWPQ1" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 			<tr>
-				<td valign="top"><div WebPartID="7a649a5f-ad6f-426c-aa25-1c5b8b3b87da" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="cbqwp" class="cbq-layout-main"></div></div></td>
+				<td valign="top"><div WebPartID="faef5314-64b2-4d59-9711-820bfe09c41f" HasPers="false" id="WebPartWPQ1" width="100%" class="ms-WPBody noindex" allowDelete="false" style="" ><div id="cbqwp" class="cbq-layout-main">
+    	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel"><a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"><i class="fas fa-4x fa-angle-left yellowarrow grow"></i></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"><i class="fas fa-4x fa-angle-right yellowarrow grow"></i></span>
+    <span class="sr-only">Next</span>
+  </a><div class="carousel-inner">
+		<div class="carousel-item active" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="myPhoto" style="visibility: hidden">src="https://www.wv.gov/blog/PublishingImages/Fall19.jpg" alt="Fall in Almost Heaven"</div><div class="newsDescription"><h2>Fall in Almost Heaven</h2><div class="shortdes">Explore the bright yellows, deep reds and burnt oranges coloring treetops in Almost Heaven this season.</div><a class="btn grow" target="_blank" href="https://wvtourism.com/seasons/fall/">Read More</a></div></div><div class="carousel-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="videowrapper"><div class="myVideo_iframe" style="visibility: hidden"> width="560" height="315" src="https://www.youtube.com/embed/K_e3eu44OvI?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Couple’s wealth, romance and Titanic tragedy remembered in Huntington street names."</div></div><div class="newsDescription"><h2>Couple’s wealth, romance and Titanic tragedy remembered in Huntington street names.</h2><div class="shortdes">In Huntington, intersecting streets choreograph a story of privilege, love and loss lived more than a century ago. </div><a class="btn grow" target="_blank" href="https://www.wv.gov/blog/Pages/Titanic-tragedy-remembered-in-Huntington-.aspx">Read More</a></div></div><div class="carousel-item" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime"><div class="myPhoto" style="visibility: hidden">src="https://www.wv.gov/blog/PublishingImages/FireTraining-0837.jpg" alt="Burning season dates: October 1 – December 31"</div><div class="newsDescription"><h2>Burning season dates: October 1 – December 31</h2><div class="shortdes">West Virginia holds strict standards for forest fire laws in order to protect one of the state’s most valuable resources – our forests. </div><a class="btn grow" target="_blank" href="https://wvforestry.com/laws-regulations/fire/">Read More</a></div></div>
+			</div> </div>
+		</div></div></td>
 			</tr>
 		</table></td>
 	</tr>
@@ -989,18 +1000,18 @@ function _RegisterWebPartPageCUI()
         }
     }
 }
-ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da_init() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_m_g_faef5314_64b2_4d59_9711_820bfe09c41f_init() {
     EnsureScript('mediaplayer.js', 
         typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
     ExecuteOrDelayUntilScriptLoaded(
         function() {
             if (Silverlight.isInstalled('2.0')) {
                 mediaPlayer.createOverlayPlayer();
-                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da'), ["wmv","wma","mp3","mp4"],'');
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_m_g_faef5314_64b2_4d59_9711_820bfe09c41f'), ["wmv","wma","mp3","mp4"],'');
             }
         }, 'mediaplayer.js');
 }
-if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_m_g_7a649a5f_ad6f_426c_aa25_1c5b8b3b87da_init'); }
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_m_g_faef5314_64b2_4d59_9711_820bfe09c41f_init'); }
 //]]>
 </script>
 <script type="text/javascript">

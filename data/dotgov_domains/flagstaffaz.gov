@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"2CsnoLVTLaQYtneiyzPWRxH0MEKgC3ONkO8rJhwD_LQPDQ2cIPGVyybkyv5FCBPb6pEXCa0-aKscisl9ngtaD0MXVE81\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"kxlN06UmkInelykg31TGHZNsyKh_TA93xIBV5VKxmIJ0daNEoaWdf6T-fKjVDKZIrSS_910jRZIH2aa4CPE5NcWbS0U1\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/2059828931.css" rel="stylesheet" type="text/css" />	<link href="/328642046.css" rel="stylesheet" type="text/css" />
+	<link href="/2059828931.css" rel="stylesheet" type="text/css" />	<link href="/872879657.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -146,7 +146,7 @@
 
 	<input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
 	<input type="hidden" id="hdnStructureID" value="3" />
-	<input type="hidden" id="hdnContentCollectionID" value="4f004edc-7ca3-4387-a517-98b0b1d820ab" />
+	<input type="hidden" id="hdnContentCollectionID" value="22c119f7-114e-4df9-b9fa-79e0cd57b743" />
 	<input type="hidden" id="hdnWorkingCopyID" value="00000000-0000-0000-0000-000000000000" />
 	<input type="hidden" id="hdnThemeID" value="6" />
 	<input type="hidden" id="pageIsFrontEnd" value="true" />
@@ -899,7 +899,7 @@ height: 65px;
 
 	<input id="hdnPageID" name="hdnPageID" type="hidden" value="1" />
 	<input id="hdnParentID" name="hdnParentID" type="hidden" value="" />
-	<input id="hdnVersionID" name="hdnVersionID" type="hidden" value="55829" />
+	<input id="hdnVersionID" name="hdnVersionID" type="hidden" value="59274" />
 	<input id="pageMenuTitle" name="pageMenuTitle" type="hidden" value="Home" />
 	<input id="pageShowFeatureColumn" name="pageShowFeatureColumn" type="hidden" value="False" />
 	<input id="hdnIsLayoutPage" name="hdnIsLayoutPage" type="hidden" value="False" />
@@ -909,18 +909,18 @@ height: 65px;
 			
 
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="ee06696b-c653-45f3-aed0-3eef63de081c">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="8a95d509-27e5-4258-bfb6-2267d14aedc6">				
 	<div class="row nest first wide">
 	
-	<div class="inner col col14 first id688c5c9f-922d-4c3e-8f0c-934a22f0dde0" style="" data-widgetcontainerid="688c5c9f-922d-4c3e-8f0c-934a22f0dde0">	
-    <div data-widget-id="97be991a-df2d-463e-9635-54cec0365dd0" data-widget-controller-path="/InfoAdvanced/Widget">
+	<div class="inner col col14 first id5267d62d-2ddc-43e7-8205-b79ed44f72da" style="" data-widgetcontainerid="5267d62d-2ddc-43e7-8205-b79ed44f72da">	
+    <div data-widget-id="d913ca76-1aee-4fdd-a3bf-c9d3f950a502" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
 
 
-	<section id="divInfoAdv97be991a-df2d-463e-9635-54cec0365dd0" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header97be991a-df2d-463e-9635-54cec0365dd0">
+	<section id="divInfoAdvd913ca76-1aee-4fdd-a3bf-c9d3f950a502" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="headerd913ca76-1aee-4fdd-a3bf-c9d3f950a502">
 		<div class="">
 								</div>
 	</header>
@@ -946,27 +946,27 @@ height: 65px;
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv97be991a-df2d-463e-9635-54cec0365dd0 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdvd913ca76-1aee-4fdd-a3bf-c9d3f950a502 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
 </script></div>	</div> <!-- inner column -->
-	<div class="inner col col10 last id2c6729c9-6112-4932-9c7d-217de67a92c8" style="" data-widgetcontainerid="2c6729c9-6112-4932-9c7d-217de67a92c8">	
+	<div class="inner col col10 last id76fcd6d9-3022-4f77-b676-fc8851c99bc0" style="" data-widgetcontainerid="76fcd6d9-3022-4f77-b676-fc8851c99bc0">	
 
-<div class="widget widgetSpacer" id="22fc60f9-329e-46d9-8054-3e58248b27ac"></div>	</div> <!-- inner column -->
+<div class="widget widgetSpacer" id="9ecef0f3-7a41-4882-933b-e498ff144ceb"></div>	</div> <!-- inner column -->
 
 	</div> <!-- inner row -->
 	<div class="row nest last wide">
 	
-	<div class="inner col col24 first last id6e092149-49bc-4ae0-89d8-07ee31eaee56" style="" data-widgetcontainerid="6e092149-49bc-4ae0-89d8-07ee31eaee56">	
-    <div data-widget-id="8ce2f5bc-b98a-4666-9f81-716c39684774" data-widget-controller-path="/InfoAdvanced/Widget">
+	<div class="inner col col24 first last id539c54c2-24d0-4ffc-8768-24765820bf98" style="" data-widgetcontainerid="539c54c2-24d0-4ffc-8768-24765820bf98">	
+    <div data-widget-id="07e76a0f-955c-44f1-b6e9-d78d7fcec7e8" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
 
 
-	<section id="divInfoAdv8ce2f5bc-b98a-4666-9f81-716c39684774" class="widget widgetInfoAdvanced skin13 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header8ce2f5bc-b98a-4666-9f81-716c39684774">
+	<section id="divInfoAdv07e76a0f-955c-44f1-b6e9-d78d7fcec7e8" class="widget widgetInfoAdvanced skin13 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header07e76a0f-955c-44f1-b6e9-d78d7fcec7e8">
 		<div class="">
 								</div>
 	</header>
@@ -992,7 +992,7 @@ height: 65px;
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv8ce2f5bc-b98a-4666-9f81-716c39684774 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv07e76a0f-955c-44f1-b6e9-d78d7fcec7e8 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -1002,11 +1002,11 @@ height: 65px;
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col8 first" style="" data-widgetcontainerid="1706278f-5a5b-48f8-a6ff-9882810929e0">				
+--><div class="outer col col8 first" style="" data-widgetcontainerid="7110ba1b-8441-44bc-b75f-c0d7bf375681">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col8 first last id75ae6c10-d10e-47b6-9e49-b0387dd0abcc" style="" data-widgetcontainerid="75ae6c10-d10e-47b6-9e49-b0387dd0abcc">	
-	<div data-widget-id="5432df5a-1a5e-4f6f-89d6-42bfd07e50a4" data-widget-controller-path="/QuickLinks/Widget">
+	<div class="inner col col8 first last id09e51e12-b136-45d5-87b3-2374b40d7b71" style="" data-widgetcontainerid="09e51e12-b136-45d5-87b3-2374b40d7b71">	
+	<div data-widget-id="76d391f2-a643-42e2-b4aa-17e59e3d2096" data-widget-controller-path="/QuickLinks/Widget">
 
 
 
@@ -1015,8 +1015,8 @@ height: 65px;
  
 
 
-	<section id="widgetQuicklink5432df5a-1a5e-4f6f-89d6-42bfd07e50a4" class="widget widgetQuickLinks skin11 widgetOptionSet2 narrow" data-modulewidgettype="quickLinks" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Quick Links">
-			<header class="widgetHeader" id="quickLinksHeader5432df5a-1a5e-4f6f-89d6-42bfd07e50a4">
+	<section id="widgetQuicklink76d391f2-a643-42e2-b4aa-17e59e3d2096" class="widget widgetQuickLinks skin11 widgetOptionSet2 narrow" data-modulewidgettype="quickLinks" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Quick Links">
+			<header class="widgetHeader" id="quickLinksHeader76d391f2-a643-42e2-b4aa-17e59e3d2096">
 		<div class="">
 						</div>
 	</header>
@@ -1087,7 +1087,7 @@ height: 65px;
 					</ol>
 				</div>
 		</div>
-				<a id="quickLinksViewAll5432df5a-1a5e-4f6f-89d6-42bfd07e50a4" class="widgetViewAll alignLeft" style="" href="/QuickLinks.aspx?CID=1" aria-label="Quick Links View All">View All</a>
+				<a id="quickLinksViewAll76d391f2-a643-42e2-b4aa-17e59e3d2096" class="widgetViewAll alignLeft" style="" href="/QuickLinks.aspx?CID=1" aria-label="Quick Links View All">View All</a>
         
 	</div>
 	<div class="widgetFooter">
@@ -1102,11 +1102,11 @@ height: 65px;
 
 	</div> <!-- inner row -->
 
-			</div><!-- outer column --><!----><div class="outer col col8" style="" data-widgetcontainerid="cf5657fe-1872-43ba-97ff-417163135700">				
+			</div><!-- outer column --><!----><div class="outer col col8" style="" data-widgetcontainerid="24c38038-73ed-4462-ba08-68a1398a65ea">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col8 first last idf36334c6-8d08-478e-8fb1-e07a2469cd5b" style="" data-widgetcontainerid="f36334c6-8d08-478e-8fb1-e07a2469cd5b">	
-<div data-widget-id="836bce18-8298-4716-b921-f4bbdb7f9145" data-widget-controller-path="/NewsFlash/Widget">
+	<div class="inner col col8 first last id88b59eed-8ab4-48b4-a9eb-fde9cf4dbc13" style="" data-widgetcontainerid="88b59eed-8ab4-48b4-a9eb-fde9cf4dbc13">	
+<div data-widget-id="deb4597e-55cc-4d6f-8cc5-f175258eb718" data-widget-controller-path="/NewsFlash/Widget">
 
 
 
@@ -1121,32 +1121,32 @@ height: 65px;
 
 
 
-	<section class="widget widgetNewsFlash skin1 widgetOptionSet9 wide" data-modulewidgettype="newsFlash" id="widgetNewsFlash836bce18-8298-4716-b921-f4bbdb7f9145" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="News Flash">
+	<section class="widget widgetNewsFlash skin1 widgetOptionSet9 wide" data-modulewidgettype="newsFlash" id="widgetNewsFlashdeb4597e-55cc-4d6f-8cc5-f175258eb718" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="News Flash">
 			<div class="widgetBody cpGrid cpGrid1 ">
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
-			<li class="widgetItem" data-news-i-d="1436">
+			<li class="widgetItem" data-news-i-d="1440">
 
-					<h4 id="newsFlashItemHeader1436" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1436">Agassiz Street Renaming Virtual Town Halls </a></h4>
+					<h4 id="newsFlashItemHeader1440" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1440">Flagstaff’s budget objectives survey </a></h4>
 	<div class="widgetDesc">
-						<a href="/CivicAlerts.aspx?AID=1436" id="newsFlashReadOn1436" aria-labelledby="newsFlashItemHeader1436 newsFlashReadOn1436" class="readOn sameLine">Read on...</a>
+						<a href="/CivicAlerts.aspx?AID=1440" id="newsFlashReadOn1440" aria-labelledby="newsFlashItemHeader1440 newsFlashReadOn1440" class="readOn sameLine">Read on...</a>
 	</div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1434">
+			<li class="widgetItem" data-news-i-d="1439">
 
-					<h4 id="newsFlashItemHeader1434" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1434">Face coverings exemptions </a></h4>
+					<h4 id="newsFlashItemHeader1439" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1439">Community Advisory- Police Officer Funding </a></h4>
 	<div class="widgetDesc">
-						<a href="/CivicAlerts.aspx?AID=1434" id="newsFlashReadOn1434" aria-labelledby="newsFlashItemHeader1434 newsFlashReadOn1434" class="readOn sameLine">Read on...</a>
+						<a href="/CivicAlerts.aspx?AID=1439" id="newsFlashReadOn1439" aria-labelledby="newsFlashItemHeader1439 newsFlashReadOn1439" class="readOn sameLine">Read on...</a>
 	</div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1433">
+			<li class="widgetItem" data-news-i-d="1438">
 
-					<h4 id="newsFlashItemHeader1433" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1433">Development Fees Public Hearing </a></h4>
+					<h4 id="newsFlashItemHeader1438" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=1438">Lived Black Experience </a></h4>
 	<div class="widgetDesc">
-						<a href="/CivicAlerts.aspx?AID=1433" id="newsFlashReadOn1433" aria-labelledby="newsFlashItemHeader1433 newsFlashReadOn1433" class="readOn sameLine">Read on...</a>
+						<a href="/CivicAlerts.aspx?AID=1438" id="newsFlashReadOn1438" aria-labelledby="newsFlashItemHeader1438 newsFlashReadOn1438" class="readOn sameLine">Read on...</a>
 	</div>
 
 			</li>
@@ -1154,7 +1154,7 @@ height: 65px;
 				</div>
 	</div>
 
-				<a id="newsFlashViewAll836bce18-8298-4716-b921-f4bbdb7f9145" class="widgetViewAll alignLeft" style="" href="/CivicAlerts.aspx?CID=1" aria-label="News Flash View All">View All</a>
+				<a id="newsFlashViewAlldeb4597e-55cc-4d6f-8cc5-f175258eb718" class="widgetViewAll alignLeft" style="" href="/CivicAlerts.aspx?CID=1" aria-label="News Flash View All">View All</a>
 			</div>
 	<div class="widgetFooter">
 	</div>
@@ -1175,35 +1175,35 @@ height: 65px;
 
 	</div> <!-- inner row -->
 
-			</div><!-- outer column --><!----><div class="outer col col8 last" style="" data-widgetcontainerid="f389d016-d7e9-4d59-a8bd-a558aa4665c9">				
+			</div><!-- outer column --><!----><div class="outer col col8 last" style="" data-widgetcontainerid="0b1e9cb7-a088-4dbd-93a9-49e5f3e1cac4">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col8 first last id11cba203-8da8-46ca-a4b0-1d2e0d1a78b1" style="" data-widgetcontainerid="11cba203-8da8-46ca-a4b0-1d2e0d1a78b1">	
+	<div class="inner col col8 first last ida442165b-8d44-4bb6-adc5-81c48c47ead6" style="" data-widgetcontainerid="a442165b-8d44-4bb6-adc5-81c48c47ead6">	
 
-	<div id="divTabbed18e699d3-cfb1-4c85-8105-47fe08dd6cc9" class="widget widgetTabbed  wide skin10  " data-widgetid="18e699d3-cfb1-4c85-8105-47fe08dd6cc9">
+	<div id="divTabbedc976047f-2fe2-4f79-a42d-a6a793471b60" class="widget widgetTabbed  wide skin10  " data-widgetid="c976047f-2fe2-4f79-a42d-a6a793471b60">
 		<ol class="tabbedWidget cpTabs  " style=" ">
 			<!--
-					--><li style="width: 48%;" class="">	<a href="#tab18e699d3-cfb1-4c85-8105-47fe08dd6cc9_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="365 Calendar" contenteditable="false">365 Calendar</span></a>
+					--><li style="width: 48%;" class="">	<a href="#tabc976047f-2fe2-4f79-a42d-a6a793471b60_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="365 Calendar" contenteditable="false">365 Calendar</span></a>
 </li><!--
 					-->
 		</ol>
 
 		<div class="cpTabPanels">
-				<div class="tabbedWidget cpTabPanel showing" style="" id="tab18e699d3-cfb1-4c85-8105-47fe08dd6cc9_0">
+				<div class="tabbedWidget cpTabPanel showing" style="" id="tabc976047f-2fe2-4f79-a42d-a6a793471b60_0">
 				</div>
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class=""><a href="#tab18e699d3-cfb1-4c85-8105-47fe08dd6cc9_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">365 Calendar</a></li>
+						<li class=""><a href="#tabc976047f-2fe2-4f79-a42d-a6a793471b60_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">365 Calendar</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab18e699d3-cfb1-4c85-8105-47fe08dd6cc9_1">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tabc976047f-2fe2-4f79-a42d-a6a793471b60_1">
 
-    <div data-widget-id="fe6a200b-26f7-47f4-97c0-8df622b071e8" data-widget-controller-path="/InfoAdvanced/Widget">
-
-
+    <div data-widget-id="6a2e87ba-d0f4-4152-aaf7-f813f8c43bef" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
-	<section id="divInfoAdvfe6a200b-26f7-47f4-97c0-8df622b071e8" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="headerfe6a200b-26f7-47f4-97c0-8df622b071e8">
+
+
+	<section id="divInfoAdv6a2e87ba-d0f4-4152-aaf7-f813f8c43bef" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header6a2e87ba-d0f4-4152-aaf7-f813f8c43bef">
 		<div class="">
 								</div>
 	</header>
@@ -1238,7 +1238,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdvfe6a200b-26f7-47f4-97c0-8df622b071e8 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv6a2e87ba-d0f4-4152-aaf7-f813f8c43bef .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -1247,7 +1247,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 	</div>
 	<script type="text/javascript">
 		$.when(window.Pages.rwdReady).done(function () {
-			var tabbedWidgetID = 'divTabbed18e699d3-cfb1-4c85-8105-47fe08dd6cc9';
+			var tabbedWidgetID = 'divTabbedc976047f-2fe2-4f79-a42d-a6a793471b60';
 			var mediaQuerySize = 25;
 			if (mediaQuerySize > 0) {
 				var mediaElementQuery = '#' + tabbedWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
@@ -1274,7 +1274,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 						{
 							$tabbedWidget.data("tabHeightSet", true);
 
-							var tabbedWidgetID = 'divTabbed18e699d3-cfb1-4c85-8105-47fe08dd6cc9';
+							var tabbedWidgetID = 'divTabbedc976047f-2fe2-4f79-a42d-a6a793471b60';
 							setTabbedWidgetsTabHeight(tabbedWidgetID);
 						}
 						$('.cpTabPanels').unbind('click');
@@ -1296,7 +1296,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 		});
 
 		//Used for when page is initially loaded
-		if($('#divTabbed18e699d3-cfb1-4c85-8105-47fe08dd6cc9').hasClass('narrow'))
+		if($('#divTabbedc976047f-2fe2-4f79-a42d-a6a793471b60').hasClass('narrow'))
 		{
 			$('.cpTabPanels').click(function() {
 				this.scrollIntoView();
@@ -1307,7 +1307,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 		if(!isResponsiveEnabled)
 		{
 			window.setTimeout(function(){
-				var tabbedWidgetID = 'divTabbed18e699d3-cfb1-4c85-8105-47fe08dd6cc9';
+				var tabbedWidgetID = 'divTabbedc976047f-2fe2-4f79-a42d-a6a793471b60';
 				setTabbedWidgetsTabHeight(tabbedWidgetID);
 			}, 1500);
 		}
@@ -1367,18 +1367,18 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 				                
 
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="04443073-e4aa-472a-b638-96f8b9d94078">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="525eb94b-b586-4230-9602-16255da4a86b">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last id16bb3dda-eed2-4fcc-8222-52b392ed95c6" style="" data-widgetcontainerid="16bb3dda-eed2-4fcc-8222-52b392ed95c6">	
-    <div data-widget-id="3d9415ac-fb88-4c6f-9b18-e9ab27b9264d" data-widget-controller-path="/InfoAdvanced/Widget">
+	<div class="inner col col24 first last idd1204a90-f574-4d94-919b-3fa5ef8da0a5" style="" data-widgetcontainerid="d1204a90-f574-4d94-919b-3fa5ef8da0a5">	
+    <div data-widget-id="2bda40a4-174e-4c10-9a5d-a97f7d4926cb" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
 
 
-	<section id="divInfoAdv3d9415ac-fb88-4c6f-9b18-e9ab27b9264d" class="widget widgetInfoAdvanced skin14 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header3d9415ac-fb88-4c6f-9b18-e9ab27b9264d">
+	<section id="divInfoAdv2bda40a4-174e-4c10-9a5d-a97f7d4926cb" class="widget widgetInfoAdvanced skin14 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header2bda40a4-174e-4c10-9a5d-a97f7d4926cb">
 		<div class="">
 								</div>
 	</header>
@@ -1404,7 +1404,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv3d9415ac-fb88-4c6f-9b18-e9ab27b9264d .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv2bda40a4-174e-4c10-9a5d-a97f7d4926cb .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -1414,35 +1414,35 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col11 first" style="" data-widgetcontainerid="c4276e87-bfa1-429d-a217-e9574dde1721">				
+--><div class="outer col col11 first" style="" data-widgetcontainerid="95483aa8-337a-42c4-bfa1-de4140667dd2">				
 	<div class="row nest first wide">
 	
-	<div class="inner col col11 first last id98e4dabb-a641-402a-a2e5-ed5b97edc38e" style="" data-widgetcontainerid="98e4dabb-a641-402a-a2e5-ed5b97edc38e">	
+	<div class="inner col col11 first last id6c0ef641-0a0b-4aa7-b1de-79225d8edeac" style="" data-widgetcontainerid="6c0ef641-0a0b-4aa7-b1de-79225d8edeac">	
 
-	<div id="divTabbedb699f014-11f8-42aa-8e1f-6cb3b85f876c" class="widget widgetTabbed  wide skin10  " data-widgetid="b699f014-11f8-42aa-8e1f-6cb3b85f876c">
+	<div id="divTabbed54b907b8-978b-4958-a4f4-a9754f9d260f" class="widget widgetTabbed  wide skin10  " data-widgetid="54b907b8-978b-4958-a4f4-a9754f9d260f">
 		<ol class="tabbedWidget cpTabs  " style=" ">
 			<!--
-					--><li class="active">	<a href="#tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Facebook" contenteditable="false">Facebook</span></a>
+					--><li class="active">	<a href="#tab54b907b8-978b-4958-a4f4-a9754f9d260f_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Facebook" contenteditable="false">Facebook</span></a>
 </li><!--
-					--><li class="">	<a href="#tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Twitter" contenteditable="false">Twitter</span></a>
+					--><li class="">	<a href="#tab54b907b8-978b-4958-a4f4-a9754f9d260f_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Twitter" contenteditable="false">Twitter</span></a>
 </li><!--
 					-->
 		</ol>
 
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class="active"><a href="#tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Facebook</a></li>
+						<li class="active"><a href="#tab54b907b8-978b-4958-a4f4-a9754f9d260f_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Facebook</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel showing" style="" id="tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_0">
+				<div class="tabbedWidget cpTabPanel showing" style="" id="tab54b907b8-978b-4958-a4f4-a9754f9d260f_0">
 
-    <div data-widget-id="5f4305f6-f2b0-42ce-be6f-a8bc9306da48" data-widget-controller-path="/InfoAdvanced/Widget">
-
-
+    <div data-widget-id="4d44a9e2-0ec2-4ab9-a83e-ce835707f81e" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
-	<section id="divInfoAdv5f4305f6-f2b0-42ce-be6f-a8bc9306da48" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header5f4305f6-f2b0-42ce-be6f-a8bc9306da48">
+
+
+	<section id="divInfoAdv4d44a9e2-0ec2-4ab9-a83e-ce835707f81e" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header4d44a9e2-0ec2-4ab9-a83e-ce835707f81e">
 		<div class="">
 								</div>
 	</header>
@@ -1468,24 +1468,24 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv5f4305f6-f2b0-42ce-be6f-a8bc9306da48 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv4d44a9e2-0ec2-4ab9-a83e-ce835707f81e .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
 </script></div>				</div>
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class=""><a href="#tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Twitter</a></li>
+						<li class=""><a href="#tab54b907b8-978b-4958-a4f4-a9754f9d260f_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Twitter</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tabb699f014-11f8-42aa-8e1f-6cb3b85f876c_1">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab54b907b8-978b-4958-a4f4-a9754f9d260f_1">
 
-    <div data-widget-id="4eb2f325-37ea-46a5-8edf-97603e2cb3f1" data-widget-controller-path="/InfoAdvanced/Widget">
-
-
+    <div data-widget-id="1284eb9a-c007-4078-83e1-6f408a374d05" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
-	<section id="divInfoAdv4eb2f325-37ea-46a5-8edf-97603e2cb3f1" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header4eb2f325-37ea-46a5-8edf-97603e2cb3f1">
+
+
+	<section id="divInfoAdv1284eb9a-c007-4078-83e1-6f408a374d05" class="widget widgetInfoAdvanced skin1 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="header1284eb9a-c007-4078-83e1-6f408a374d05">
 		<div class="">
 								</div>
 	</header>
@@ -1511,7 +1511,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv4eb2f325-37ea-46a5-8edf-97603e2cb3f1 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv1284eb9a-c007-4078-83e1-6f408a374d05 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -1520,7 +1520,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 	</div>
 	<script type="text/javascript">
 		$.when(window.Pages.rwdReady).done(function () {
-			var tabbedWidgetID = 'divTabbedb699f014-11f8-42aa-8e1f-6cb3b85f876c';
+			var tabbedWidgetID = 'divTabbed54b907b8-978b-4958-a4f4-a9754f9d260f';
 			var mediaQuerySize = 25;
 			if (mediaQuerySize > 0) {
 				var mediaElementQuery = '#' + tabbedWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
@@ -1547,7 +1547,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 						{
 							$tabbedWidget.data("tabHeightSet", true);
 
-							var tabbedWidgetID = 'divTabbedb699f014-11f8-42aa-8e1f-6cb3b85f876c';
+							var tabbedWidgetID = 'divTabbed54b907b8-978b-4958-a4f4-a9754f9d260f';
 							setTabbedWidgetsTabHeight(tabbedWidgetID);
 						}
 						$('.cpTabPanels').unbind('click');
@@ -1569,7 +1569,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 		});
 
 		//Used for when page is initially loaded
-		if($('#divTabbedb699f014-11f8-42aa-8e1f-6cb3b85f876c').hasClass('narrow'))
+		if($('#divTabbed54b907b8-978b-4958-a4f4-a9754f9d260f').hasClass('narrow'))
 		{
 			$('.cpTabPanels').click(function() {
 				this.scrollIntoView();
@@ -1580,7 +1580,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 		if(!isResponsiveEnabled)
 		{
 			window.setTimeout(function(){
-				var tabbedWidgetID = 'divTabbedb699f014-11f8-42aa-8e1f-6cb3b85f876c';
+				var tabbedWidgetID = 'divTabbed54b907b8-978b-4958-a4f4-a9754f9d260f';
 				setTabbedWidgetsTabHeight(tabbedWidgetID);
 			}, 1500);
 		}
@@ -1620,13 +1620,13 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 	</div> <!-- inner row -->
 	<div class="row nest last wide">
 	
-	<div class="inner col col11 first last id767d87f7-d83c-43e3-ba32-740a1fafabb7" style="" data-widgetcontainerid="767d87f7-d83c-43e3-ba32-740a1fafabb7">	
-<div data-widget-id="b3134857-f4dc-4f66-bd47-430ec689e1d2" data-widget-controller-path="/GraphicLinks/Widget">
+	<div class="inner col col11 first last id7475190e-2719-4512-aa53-1aa6c973ce30" style="" data-widgetcontainerid="7475190e-2719-4512-aa53-1aa6c973ce30">	
+<div data-widget-id="2783885e-7ed0-4bc1-a0d0-ed8df22db1cc" data-widget-controller-path="/GraphicLinks/Widget">
 
 
 
 
-<div id="graphicLinkWidgetb3134857-f4dc-4f66-bd47-430ec689e1d2" class="widget widgetGraphicLinks skin12 widgetOptionSet21 wide" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
+<div id="graphicLinkWidget2783885e-7ed0-4bc1-a0d0-ed8df22db1cc" class="widget widgetGraphicLinks skin12 widgetOptionSet21 wide" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' data-modulewidgettype="graphicLinks">
 	<div class="widgetHeader">
 		<div class="">
 			<h3 >Other Departments</h3>
@@ -1666,18 +1666,18 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 
 	</div> <!-- inner row -->
 
-			</div><!-- outer column --><!----><div class="outer col col13 last" style="" data-widgetcontainerid="5e8af849-41cd-4826-b963-471d7f0b0547">				
+			</div><!-- outer column --><!----><div class="outer col col13 last" style="" data-widgetcontainerid="9c2e4667-2965-4ca4-9450-033de9729fb4">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col13 first last idaa580a12-83ab-4d1e-83f2-da8ce422d835" style="" data-widgetcontainerid="aa580a12-83ab-4d1e-83f2-da8ce422d835">	
-    <div data-widget-id="81921032-43ee-4b90-8426-ce6753bcf88d" data-widget-controller-path="/InfoAdvanced/Widget">
+	<div class="inner col col13 first last idb69b11cb-ab54-42dc-be30-d9964c65dbc8" style="" data-widgetcontainerid="b69b11cb-ab54-42dc-be30-d9964c65dbc8">	
+    <div data-widget-id="bee03afc-072e-4d03-bcd5-b3d13747ec92" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
 
 
-	<section id="divInfoAdv81921032-43ee-4b90-8426-ce6753bcf88d" class="widget widgetInfoAdvanced skin12 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
-			<header class="widgetHeader" id="header81921032-43ee-4b90-8426-ce6753bcf88d">
+	<section id="divInfoAdvbee03afc-072e-4d03-bcd5-b3d13747ec92" class="widget widgetInfoAdvanced skin12 widgetOptionSet5 wide" data-modulewidgettype="infoAdv" data-elementqueryclasses='{"wide-narrow":"min-width:25em"}' data-elementquerymatch='matchMultiColumn' data-elementqueryunmatch='unmatchMultiColumn' aria-label="Info Advanced">
+			<header class="widgetHeader" id="headerbee03afc-072e-4d03-bcd5-b3d13747ec92">
 		<div class="">
 								</div>
 	</header>
@@ -1703,7 +1703,7 @@ Flagstaff365.com is the resource for what's happening throughout the greater Fla
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv81921032-43ee-4b90-8426-ce6753bcf88d .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdvbee03afc-072e-4d03-bcd5-b3d13747ec92 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -2107,7 +2107,7 @@ Phone: <a href="tel:928-213-2000" target="_self" class="Hyperlink">928-213-2000<
 
 
 
-	<script src="/709862506.js" type="text/javascript"></script>
+	<script src="/-530515723.js" type="text/javascript"></script>
 	<!-- Piwik -->
 <script type="text/javascript"> 
   var _paq = _paq || [];

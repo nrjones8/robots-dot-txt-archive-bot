@@ -94,7 +94,7 @@ window.onload = function accessible() {
 
             /* The following script si injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
             jQuery(document).ready( function () {
-                var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/es\/reader\/\">descargar Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=10\">descargar Excel Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=13\">descargar Power Point Reader<\/a><\/span>)"});
+                var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get2.adobe.com\/reader\/otherversions\/\">descargar Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=10\">descargar Excel Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/es-es\/download\/details.aspx?id=13\">descargar Power Point Reader<\/a><\/span>)"});
             });
 
 //--><!]]>
@@ -296,7 +296,7 @@ termId = '11144';
 
 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 
 
@@ -628,7 +628,7 @@ termId = '11144';
         
   
             
-                        
+                          
 
 
   <li class="">
@@ -685,6 +685,13 @@ termId = '11144';
 
   <li>
           <a href="/espanol/viajes-al-exterior">Viajes al exterior</a>
+      </li>
+
+              
+          
+
+  <li>
+          <a href="/espanol/viajes-dentro-estados-unidos">Viajes dentro Estados Unidos</a>
       </li>
 
               
@@ -2696,7 +2703,7 @@ termId = '11144';
 
                                             
     <a aria-describedby="sr-next"           aria-expanded="false" data-href="/espanol/votaciones" href="#"
-         >Cómo votar en Estados Unidos</a>
+         >Cómo, dónde y cuándo votar</a>
 
     <ul>        
           
@@ -2893,13 +2900,13 @@ termId = '11144';
         <span>Ciudadanía, inmigración y viajes</span>
       </button><ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-2">
           <li class="usa-megamenu-col">
-            <ul><li><a href="/espanol/deportacion">Deportación</a></li><li><a href="/espanol/viajes-al-exterior">Viajes al exterior</a></li><li><a href="/espanol/pasaportes-documentos-de-viaje">Pasaporte estadounidense</a></li></ul>
+            <ul><li><a href="/espanol/deportacion">Deportación</a></li><li><a href="/espanol/viajes-dentro-estados-unidos">Viajes dentro Estados Unidos</a></li><li><a href="/espanol/viajes-al-exterior">Viajes al exterior</a></li></ul>
           </li>
           <li class="usa-megamenu-col">
-            <ul><li><a href="/espanol/naturalizacion">Ciudadanía y naturalización</a></li><li><a href="/espanol/residencia-permanente">Residencia permanente o &quot;Green Card&quot;</a></li><li><a href="/espanol/registros-de-entrada">Entradas y salidas de EE. UU.</a></li></ul>
+            <ul><li><a href="/espanol/pasaportes-documentos-de-viaje">Pasaporte estadounidense</a></li><li><a href="/espanol/naturalizacion">Ciudadanía y naturalización</a></li><li><a href="/espanol/residencia-permanente">Residencia permanente o &quot;Green Card&quot;</a></li></ul>
           </li>
           <li class="usa-megamenu-col">
-            <ul><li><a href="/espanol/inmigrantes-noresidentes">Visas para extranjeros</a></li><li><a href="/espanol/tramites-migratorios">Temas migratorios comunes</a></li>            </ul>
+            <ul><li><a href="/espanol/registros-de-entrada">Entradas y salidas de EE. UU.</a></li><li><a href="/espanol/inmigrantes-noresidentes">Visas para extranjeros</a></li><li><a href="/espanol/tramites-migratorios">Temas migratorios comunes</a></li>            </ul>
           </li>
           <li class="topic-link topic-nav-globe">
             <a class="usa-button" href="/espanol/ciudadania-inmigracion-viajes">Ciudadanía, inmigración y viajes</a>
@@ -2962,7 +2969,7 @@ termId = '11144';
         <span>Votaciones y elecciones</span>
       </button><ul class="usa-nav-submenu usa-megamenu usa-grid-full" id="megamenu-6">
           <li class="usa-megamenu-col">
-            <ul><li><a href="/espanol/votaciones">Cómo votar en Estados Unidos</a></li><li><a href="/espanol/elegir-candidatos">Decida por quién votar</a></li><li><a href="/espanol/definiciones-terminos-votaciones-elecciones">Definiciones de términos comunes en votaciones y elecciones en EE. UU.</a></li></ul>
+            <ul><li><a href="/espanol/votaciones">Cómo, dónde y cuándo votar</a></li><li><a href="/espanol/elegir-candidatos">Decida por quién votar</a></li><li><a href="/espanol/definiciones-terminos-votaciones-elecciones">Definiciones de términos comunes en votaciones y elecciones en EE. UU.</a></li></ul>
           </li>
           <li class="usa-megamenu-col">
             <ul><li><a href="/espanol/elecciones-estatales-locales">Elecciones legislativas, estatales y locales en EE. UU.</a></li><li><a href="/espanol/inscripcion-para-votar">Inscripción para votar en Estados Unidos</a></li><li><a href="/espanol/leyes-votaciones-elecciones">Leyes sobre votaciones y elecciones en EE. UU</a></li></ul>

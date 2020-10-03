@@ -74,38 +74,38 @@
     border-bottom-width: 5px;" action="/Account/Logout">
                 
 
-            <div id="loginForm"
-                  style="margin-top:0px; padding-right:20px;padding-left:20px;margin-right:-15px;
+<div id="loginForm"
+     style="margin-top:0px; padding-right:20px;padding-left:20px;margin-right:-15px;
                             border-left-color: transparent; border-right-color:transparent; border-left-width:0px; border-right-width:0px;">
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden=true></span> Home</a></li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About The Court <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a id="History" href="/About/History"> History</a></li>
-                            <li><a id="Biography" href="/About/Biography"> Biographies of Justices</a></li>
-                            <li><a id="Maps_of_Judicial_Districts" href="/About/MapsofJudicialDistricts"> Maps of Judicial Districts</a></li>
-                            <li><a id="FAQ" href="/About/FAQ"> FAQ About the Court</a></li>
-                            <li><a id="Judiciary_Budget" href="/About/JudiciaryBudget"> Judiciary Budget</a></li>
-                            <li><a id="Employment" href="/About/Employment"> Employment</a></li>
-                            <li><a id="Additional_Links" href="/About/AdditionalLinks"> Additional Links</a></li>
-                            <li><a id="Employee_Access" href="/About/EmployeeAccess">  Employee Access</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a id="CourtRules" href="/CourtRules">Court Rules</a></li>
-                            <li><a id="NewsReleases" href="/CourtActions/2020">Court Actions</a></li>
-                            <li><a id="Docket" href="/Docket"> Docket</a></li>
-                            <li><a id="ClerksOffice" href="/ClerksOffice"> Clerk's Office</a></li>
-                            <li><a id="JudicialAdministratorsOffice" href="/JudicialAdministratorsOffice"> Judicial Administrator's Office</a></li>
-                            <li><a id="LawLibraryLegalResources" href="/LawLibraryLegalResources"> Law Library & Legal Resources</a></li>
-                            <li><a id="PressRoom" href="/PressRoom/2020">Press Room</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="/Contact">Contact</a></li>
-                    <li><a href="/Search"><span class="glyphicon glyphicon-search" aria-hidden=true></span> Search</a></li>
-                </ul>
-    </div>
+    <ul class="nav navbar-nav navbar-right">
+        <li><a href="/"><span class="glyphicon glyphicon-home" aria-hidden=true></span> Home</a></li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About The Court <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a id="History" href="/About/History"> History</a></li>
+                <li><a id="Biography" href="/About/Biography"> Biographies of Justices</a></li>
+                <li><a id="Maps_of_Judicial_Districts" href="/About/MapsofJudicialDistricts"> Maps of Judicial Districts</a></li>
+                <li><a id="FAQ" href="/About/FAQ"> FAQ About the Court</a></li>
+                <li><a id="Judiciary_Budget" href="/About/JudiciaryBudget"> Judiciary Budget</a></li>
+                <li><a id="Employment" href="/About/Employment"> Employment</a></li>
+                <li><a id="Additional_Links" href="/About/AdditionalLinks"> Additional Links</a></li>
+                <li><a id="Employee_Access" href="/About/EmployeeAccess">  Employee Access</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a id="CourtRules" href="/CourtRules">Court Rules</a></li>
+                <li><a id="NewsReleases" href="/CourtActions/2020">Court Actions</a></li>
+                <li><a id="Docket" href="/Docket"> Docket</a></li>
+                <li><a id="ClerksOffice" href="/ClerksOffice"> Clerk's Office</a></li>
+                <li><a id="JudicialAdministratorsOffice" href="/JudicialAdministratorsOffice"> Judicial Administrator's Office</a></li>
+                <li><a id="LawLibraryLegalResources" href="/LawLibraryLegalResources"> Law Library & Legal Resources</a></li>
+                <li><a id="PressRoom" href="/PressRoom/2020">Press Room</a></li>
+            </ul>
+        </li>
+        <li><a href="/Contact">Contact</a></li>
+        <li><a href="/Search"><span class="glyphicon glyphicon-search" aria-hidden=true></span> Search</a></li>
+    </ul>
+</div>
 
-                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8OWAbC2q5zNIrfQ-hmmpi48tKRMawKso_AZsHwyK-oemjU15PpBMJwAiX4F7zMlhSmoDSwLRDt-b3uZszgbbXs1uzFtqtiBTkxaXI878hx3zWrS0LX-pTQ9Z-3zDz7wl3rAYG6FlUHmlOkhmhFFQ7dY" /></form>
+                <input name="__RequestVerificationToken" type="hidden" value="CfDJ8AbWOPwzLCxEhvwDYc51yH6ugG9e59iTLFx7BR-ViHpsm8XJTd1iyq11tjU84SJw7o-Hl8JrJdyoAtRwOD8nZoDjph3jl-mt3CRkBo1LPNURh2qZss0Fk3IGBRpWp2jWWi5JxwvWl1KpI3R3n-2f2vg" /></form>
                 
 
 
@@ -141,7 +141,7 @@
                     </p>
                     <div class="navbar-right">
                         <a href="/Privacy" class="btn btn-blue navbar-btn">Learn More</a>
-                        <button type="button" class="btn btn-default navbar-btn" data-cookie-string=".AspNet.Consent=yes; expires=Tue, 14 Sep 2021 03:46:54 GMT; path=/; secure; samesite=lax">Accept</button>
+                        <button type="button" class="btn btn-default navbar-btn" data-cookie-string=".AspNet.Consent=yes; expires=Sun, 03 Oct 2021 05:05:53 GMT; path=/; secure; samesite=lax">Accept</button>
                     </div>
                 </div>
             </div>
@@ -156,12 +156,13 @@
         </script>
 
 
-            <div class="container body-content">
-                <div id="bodycontent" class="content">
-                    <div>
+                <div class="container body-content">
+                    <div id="bodycontent" class="content">
+                        <div>
+                            
+                        </div>
                         
-                    </div>
-                    
+ 
 <style>
     .list-group-item {
         position: relative;
@@ -208,7 +209,7 @@
             <div style="clear:both;padding-top: -5px;"></div>
 
             <div class="row">
-                <div class="col col-md-9">
+                <div class="col col-md-12">
                     
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <div class="carousel-inner" role="listbox">
@@ -220,17 +221,73 @@
             </div>
         </div>
     </div>
-</div></partial>
+</div>
                 </div>
-                <div class="col col-md-3 center-block" id="sidelink">
-                    <div class="list-group">
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="https://cdx.lasc.org" alt="E-Filing"><i class="fa fa-file-import sidelink-icon" aria-hidden="true"></i>&nbsp; E-Filing</a>                                            </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Contact" alt="Visiter Information"><i class="fa fa-map-signs sidelink-icon" aria-hidden="true"></i>&nbsp; Visitor Information</a>                                   </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Judicial_Administrator's_Office?p=SRL" alt="Self-Represented_Litigants"><i class="fa fa-briefcase sidelink-icon" aria-hidden="true"></i>&nbsp; <span class="btntext9">Self-Represented Litigants</span></a>                            </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="https://livestream.lasc.org" alt="Oral Argument"><i class="fa fa fa-gavel sidelink-icon" aria-hidden="true"></i>&nbsp; Watch Oral Argument</a>                                    </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/court_interpreters/Language_Access_Bench_Card.pdf" alt="Language Access Judicial Bench Card"><i class="fa fa-american-sign-language-interpreting sidelink-icon" aria-hidden="true"></i>&nbsp; <span class="btntext85">Language Access Bench Card</span></a>  </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/JudicialAdministratorsOffice" alt="Court Programs"><i class="fa fa-handshake sidelink-icon" aria-hidden="true"></i>&nbsp; Court Programs</a>                                        </span>
-                        <span class="list-group-item"><a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/JudicialFinancialDisclosure" alt="Judicial Financial Disclosure Statements"><i class="fa fa-file-alt sidelink-icon" aria-hidden="true"></i>&nbsp;<span style="font-size:12px;"> Judicial Financial Disclosure Statements</span></a>
+                <div class="col-md-12 center-block" style="padding-top: 10px;">
+                    <div class="list-group center-block">
+                        <div class="col-md-4" style="padding-left:2px; padding-right:2px;">
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="https://cdx.lasc.org" alt="E-Filing">
+                                    <i class="fa fa-file-import sidelink-icon" aria-hidden="true"></i>
+                                    &nbsp;E-Filing
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Contact" alt="Visiter Information">
+                                    <i class="fa fa-map-signs sidelink-icon" aria-hidden="true"></i>
+                                    &nbsp; Visitor Information
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/About/History" alt="The Louisiana Protective Order Registry">
+                                    <i class="fas fa-university sidelink-icon" aria-hidden="true"></i>
+                                    About the Court
+                                </a>
+                            </span>
+                        </div>
+                        <div class="col-md-4" style="padding-left:2px; padding-right:2px;">
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="https://livestream.lasc.org" alt="Oral Argument">
+                                    <i class="fa fa fa-gavel sidelink-icon" aria-hidden="true"></i>
+                                    &nbsp; Watch Oral Argument
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Language_Access" alt="Language Access Judicial Bench Card">
+                                    <i class="fa fa-american-sign-language-interpreting sidelink-icon" aria-hidden="true"></i>&nbsp;
+                                    Language Access
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Judicial_Administrator's_Office?p=SRL" alt="Self-Represented_Litigants">
+                                    <i class="fa fa-briefcase sidelink-icon" aria-hidden="true"></i>
+                                    &nbsp;
+                                    Self-Represented Litigants
+                                </a>
+                            </span>
+                        </div>
+                        <div class="col-md-4" style="padding-left:2px; padding-right:2px;">
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/JudicialFinancialDisclosure" alt="Judicial Financial Disclosure Statements">
+                                    <i class="fa fa-file-alt sidelink-icon" aria-hidden="true"></i>
+                                    <span class="btntext85">
+                                        Judicial Financial Disclosure Statements
+                                    </span>
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/JudiciaryCommission" alt="Judiciary Commission">
+                                    <i class="fas fa-balance-scale sidelink-icon" aria-hidden="true"></i>
+                                    &nbsp; Judiciary Commission
+                                </a>
+                            </span>
+                            <span class="list-group-item">
+                                <a class="btn btn-blue btn-md btn-border-radius btn-block" style="text-align:left !important;" href="/Judicial_Campaign_Oversight" alt="Judicial Campaign Oversight Committee">
+                                    <i class="fas fa-vote-yea sidelink-icon" aria-hidden="true"></i>
+                                    <span class="btntext85">Judicial Campaign Oversight Committee</span>
+                                </a>
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -250,18 +307,13 @@
             <thead> <tr> <th>Release #</th> <th>Date</th> <th>Type</th> </tr> </thead>
             <tbody>
                     <tr>
-                        <td><img src="/images/newsrelease.gif" width="25" alt="Court Actions" /> 2020 - 33</td>
-                        <td><a href="/Rehearings?p=2020-033">September 9, 2020</a></td>
-                        <td>Rehearings</td>
-                    </tr>
-                    <tr>
-                        <td><img src="/images/newsrelease.gif" width="25" alt="Court Actions" /> 2020 - 32</td>
-                        <td><a href="/Opinions?p=2020-032">September 9, 2020</a></td>
+                        <td><img src="/images/newsrelease.gif" width="25" alt="Court Actions" /> 2020 - 36</td>
+                        <td><a href="/Opinions?p=2020-036">September 29, 2020</a></td>
                         <td>Opinions</td>
                     </tr>
                     <tr>
-                        <td><img src="/images/newsrelease.gif" width="25" alt="Court Actions" /> 2020 - 31</td>
-                        <td><a href="/Actions?p=2020-031">August 21, 22, 25, 27, 28, 31, September 7 and 8, 2020</a></td>
+                        <td><img src="/images/newsrelease.gif" width="25" alt="Court Actions" /> 2020 - 35</td>
+                        <td><a href="/Actions?p=2020-035">September 24, 27, and 29, 2020</a></td>
                         <td>Actions</td>
                     </tr>
             </tbody>
@@ -316,8 +368,7 @@
                 
             </div>
             <div>
-                    <a href="/Press_Release?p=2020-30">The Louisiana Supreme Court Announces Closure Due to Tropical Storm Sally</a><br />
-                    <div></div>
+                    <div>&lt;h4&gt;October 2020 Louisiana Bar Examination Qualified Candidates&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=QualifiedPass-10-20&quot;&gt;Qualified Candidates Eligible for Admission&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=QualifiedNotEligible-10-20&quot;&gt;Qualified Candidates Not Eligible for Admission&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Source: Committee on Bar&amp;nbsp;&lt;/em&gt;&lt;em&gt;Admissions&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;h4&gt;&amp;nbsp;&lt;/h4&gt;</div>
                 
             </div>
             <hr />
@@ -325,11 +376,11 @@
         <div class="clearfix"></div>
         <div>
             <div style="float:left;width:40px;display:block;">
-                    <img src="/images/new2.gif" />
                 
             </div>
             <div>
-                    <div>&lt;p&gt;&lt;strong&gt;HURRICANE SALLY COURT CLOSURE ORDERS:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_LASC.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_1stCOA.pdf&quot; target=&quot;_blank&quot;&gt;1st Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(12:00 PM 9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_17thJDC.pdf&quot; target=&quot;_blank&quot;&gt;17th Judicial District Court&lt;/a&gt;&lt;/strong&gt; (9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-09-14_22ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;22nd Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(12:00 PM 9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_24thJDC.pdf&quot; target=&quot;_blank&quot;&gt;24th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(2:00 PM 9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_29thJDC.pdf&quot; target=&quot;_blank&quot;&gt;29th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_OrleansCrim.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Criminal District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_OrleansJuv.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Juvenile Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(9/14/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-14_OrleansMTC.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Municipal and Traffic Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(9/14/2020 - 9/15/2020)&lt;/li&gt;&lt;/ul&gt;</div>
+                    <a href="/Press_Release?p=Chief_Judge_Felicia_Toney_Williams_Announces_her_Retirement;_Retired_Justice_Edward_Joseph_Bleich_to_serve_as_Judge_Pro_Tempore">Chief Judge Felicia Toney Williams Announces her Retirement; Retired Justice Edward Joseph Bleich to serve as Judge Pro Tempore</a><br />
+                    <div>The Louisiana Supreme Court announced that it has appointed retired Justice Edward Joseph Bleich as judge pro tempore of the Court of Appeal, Second Circuit, to fill the vacancy created by the retirement of Second Circuit Court of Appeal Chief Judge Felicia Toney Williams, effective October 1, 2020. </div>
                 
             </div>
             <hr />
@@ -337,7 +388,29 @@
         <div class="clearfix"></div>
         <div>
             <div style="float:left;width:40px;display:block;">
-                    <img src="/images/new2.gif" />
+                
+            </div>
+            <div>
+                    <div>&lt;p&gt;&lt;a href=&quot;/Press_Release?p=2020-32&quot;&gt;Louisiana Supreme Court Issues an Emergency Order Extending Suspension of Deadlines in 8 Parishes&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Press_Room/Press_Releases/2020/2020-32_Esp.pdf&quot; target=&quot;_blank&quot;&gt;En Espa&amp;ntilde;ol&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Press_Room/Press_Releases/2020/2020-32_Viet.pdf&quot; target=&quot;_blank&quot;&gt;b&#x1EB1;ng ti&#x1EBF;ng vi&#x1EC7;t&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;</div>
+                
+            </div>
+            <hr />
+        </div>
+        <div class="clearfix"></div>
+        <div>
+            <div style="float:left;width:40px;display:block;">
+                
+            </div>
+            <div>
+                    <a href="/Press_Release?p=2020-31">Louisiana&#x27;s High Court Creates the Louisiana Supreme Court Technology Commission</a><br />
+                    <div>The Louisiana Supreme Court announced the creation of the Louisiana Supreme Court Technology Commission. The Commission, which will be a standing commission of the Court, will consist of judges from throughout the state from various levels of the judiciary who will be charged with identifying technology needs, establishing goals for implementation, devising best practices, and suggesting necessary rule changes and steps towards implementation of articulated technology goals for the judiciary.</div>
+                
+            </div>
+            <hr />
+        </div>
+        <div class="clearfix"></div>
+        <div>
+            <div style="float:left;width:40px;display:block;">
                 
             </div>
             <div>
@@ -350,7 +423,6 @@
         <div class="clearfix"></div>
         <div>
             <div style="float:left;width:40px;display:block;">
-                    <img src="/images/new2.gif" />
                 
             </div>
             <div>
@@ -388,18 +460,6 @@
                 
             </div>
             <div>
-                    <a href="/Press_Release?p=2020-26">Louisiana Supreme Court Appoints Attorney Don Weir, Jr. as Judge Pro Tempore of Shreveport City Court</a><br />
-                    <div>The Louisiana Supreme Court has appointed Shreveport attorney/mediator, Don Weir, Jr., as Judge Pro Tempore of Shreveport City Court, for the period from September 16, 2020 through December 31, 2020, or until the vacancy which currently exists in that court is filled.</div>
-                
-            </div>
-            <hr />
-        </div>
-        <div class="clearfix"></div>
-        <div>
-            <div style="float:left;width:40px;display:block;">
-                
-            </div>
-            <div>
                     <div>&lt;p&gt;&lt;a href=&quot;/Press_Release?p=2020-25&quot;&gt;Louisiana Supreme Court Issues Emergency Orders Due to Impact of Hurricane Laura&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Press_Room/Press_Releases/2020/2020-25_Esp.pdf&quot; target=&quot;_blank&quot;&gt;En Espa&amp;ntilde;ol&amp;nbsp;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Press_Room/Press_Releases/2020/2020-25_Viet.pdf&quot; target=&quot;_blank&quot;&gt;b&#x1EB1;ng ti&#x1EBF;ng vi&#x1EC7;t&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br /&gt;</div>
                 
             </div>
@@ -408,33 +468,10 @@
         <div class="clearfix"></div>
         <div>
             <div style="float:left;width:40px;display:block;">
-                    <img src="/images/new2.gif" />
                 
             </div>
             <div>
-                    <div>&lt;p&gt;&lt;strong&gt;HURRICANE LAURA&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;ORDERS:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-11_LASC_3rdCOATransferOrder.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/11/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: &lt;/em&gt;&lt;em&gt;Louisiana Third Circuit Court of Appeal Emergency Matters Temporarily Transferred to Louisiana Fifth Court of Appeal&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&amp;nbsp;-&amp;nbsp;&lt;a href=&quot;/court_closure_orders/2020/5th_Writ_Intake_Form.pdf&quot; target=&quot;_blank&quot;&gt;Court of Appeal, Fifth Circuit Writ Application Intake Form&lt;/a&gt;&lt;br /&gt;&amp;nbsp;-&amp;nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href=&quot;https://ecourt.fifthcircuit.org/&quot; target=&quot;_blank&quot;&gt;Court of Appeal, Fifth Circuit E-filing&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-09_LASC_CriminalSuspensionOrder.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/09/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Suspending Criminal Matters in 21 Parishes&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-01_LASC_Hurricane_Laura_Deadlines.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/01/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Louisiana Supreme Court filings&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_LASC_Hurricane_Laura.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;(8/28/2020)&lt;br /&gt;&amp;nbsp;RE:&amp;nbsp;&lt;em&gt;Emergency suspension of prescription and peremption and emergency suspension of abandonment&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_LASC_Hurricane_Laura_Deadlines.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/28/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Louisiana Supreme Court filings&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;HURRICANES MARCO AND LAURA&amp;nbsp;C&lt;/strong&gt;&lt;strong&gt;OURT CLOSURE ORDERS:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Louisiana Supreme Court&lt;/strong&gt; (&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_LASC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_LASC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_1stCOA.pdf&quot; target=&quot;_blank&quot;&gt;1st Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt; (8/24/2020) - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2nd Circuit Court of Appeal&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_2ndCOA.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020) - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_2ndCOA.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-31_3rdCOA.pdf&quot; target=&quot;_blank&quot;&gt;3rd Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_5thCOA.pdf&quot; target=&quot;_blank&quot;&gt;5th Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/24/2020) - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_CaddoJuv.pdf&quot; target=&quot;_blank&quot;&gt;Caddo Parish Juvenile Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_4thJDC.pdf&quot; target=&quot;_blank&quot;&gt;4th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020, 8/28/2020) -&amp;nbsp;The 4th JDC will be closed on Friday, August 28th, due to no electricity at the courthouses and damage caused by Hurricane Laura to the local communities.&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_5thJDC.pdf&quot; target=&quot;_blank&quot;&gt;5th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_7thJDC.pdf&quot; target=&quot;_blank&quot;&gt;7th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;9th Judicial District Court&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 2:00 PM - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/2/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;9/2/2020 - 9/7/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_10thJDC.pdf&quot; target=&quot;_blank&quot;&gt;10th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/26/2020 12:00 PM - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_12thJDC.pdf&quot; target=&quot;_blank&quot;&gt;12th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;14th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/25/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020 - 8/28/2020&lt;/a&gt;)&amp;nbsp;-&amp;nbsp;Please Note: The 14th JDC is &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;closed until further notice&lt;/a&gt; due to damage sustained from Hurricane Laura.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;15th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_15thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_15thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-26_16thJDC.pdf&quot; target=&quot;_blank&quot;&gt;16th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;17th Judicial District Court&amp;nbsp;&lt;/strong&gt; (&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_17thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_17thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 3:00 PM - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;18th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_18thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_18thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;19th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_19thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-26_19thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_22ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;22nd Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;23rd Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_23rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_23rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;24th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_24thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_24thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;1st Parish Court of Jefferson&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_Jeff1stParish.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_Jeff1stParish.pdf&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2nd Parish Court of Jefferson&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_Jeff2ndParish.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;,&amp;nbsp; &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_Jeff2ndParish.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_JeffJuv.pdf&quot; target=&quot;_blank&quot;&gt;Jefferson Parish Juvenile Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_25thJDC.pdf&quot; target=&quot;_blank&quot;&gt;25th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_28thJDC.pdf&quot; target=&quot;_blank&quot;&gt;28th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;30th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_30thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_30thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/4/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_31stJDC.pdf&quot; target=&quot;_blank&quot;&gt;31st Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 4:30 PM&amp;nbsp; - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;33rd Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_33rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/25/2020 1:00 PM&amp;nbsp; - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_33rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/7/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;35th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - &lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020 - 9/1/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;36th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_36thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_36thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020 - 9/8/2020&lt;/a&gt;)&amp;nbsp; - &lt;a href=&quot;/court_closure_orders/2020/2020-09-04_36thJDC_LimitedOpening.pdf&quot; target=&quot;_blank&quot;&gt;Notice of Limited Opening 9/04/2020&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_37thJDC.pdf&quot; target=&quot;_blank&quot;&gt;37th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020) - Please note that due to the inclement weather conditions created by Hurricane Laura, the Caldwell Parish Clerk of Court&amp;rsquo;s office will be closed on Thursday, August 27, 2020 and Friday, August 28, 2020.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-24_38thJDC.pdf&quot; target=&quot;_blank&quot;&gt;38th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/24/2020 until it is safe to return)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;42nd Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_42ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_42ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansCivil.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Civil District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansCrim.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Criminal District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_NOMTC.pdf&quot; target=&quot;_blank&quot;&gt;Municipal and Traffic Court of New Orleans&lt;/a&gt;&lt;/strong&gt; - (8/24/2020 - 8/25/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansJuv.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Juvenile Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-31_AlexandriaCity.pdf&quot; target=&quot;_blank&quot;&gt;Alexandria City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/31/2020 - 9/2/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-27_BakerCity.pdf&quot; target=&quot;_blank&quot;&gt;Baker City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bastrop City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_BastropCity.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_BastropCity.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Baton Rouge City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_BRCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_BRCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_CrowleyCity.pdf&quot; target=&quot;_blank&quot;&gt;Crowley City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;East Baton Rouge Parish Juvenile Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_EBRJuv.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/27/2020&lt;/a&gt;) -&amp;nbsp;East Baton Rouge Parish Juvenile Court will reopen Friday, August 28, for regular business hours.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_EastStTamCity.pdf&quot; target=&quot;_blank&quot;&gt;City Court of East St. Tammany&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Houma City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_JeaneretteCity.pdf&quot; target=&quot;_blank&quot;&gt;Jeanerette City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_KaplanCity.pdf&quot; target=&quot;_blank&quot;&gt;Kaplan City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_LafayetteCity.pdf&quot; target=&quot;_blank&quot;&gt;Lafayette City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_LakeCharlesCity.pdf&quot; target=&quot;_blank&quot;&gt;Lake Charles City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/30/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_MindenCity.pdf&quot; target=&quot;_blank&quot;&gt;Minden City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_NewIberiaCity.pdf&quot; target=&quot;_blank&quot;&gt;New Iberia City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_OakdaleCity.pdf&quot; target=&quot;_blank&quot;&gt;Oakdale City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 12:00 PM - 8/29/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_OpelousasCity.pdf&quot; target=&quot;_blank&quot;&gt;Opelousas City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_PinevilleCity.pdf&quot; target=&quot;_blank&quot;&gt;Pineville City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_RayneCity.pdf&quot; target=&quot;_blank&quot;&gt;Rayne City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_ShreveportCity.pdf&quot; target=&quot;_blank&quot;&gt;Shreveport City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_SpringhillCity.pdf&quot; target=&quot;_blank&quot;&gt;Springhill City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thibodaux City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_ThibodauxCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_ThibodauxCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 3:00 PM - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Winnfield City Court -&amp;nbsp;&lt;/strong&gt;Winnfield City Court will be closed through Sept 4, 2020.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_ZacharyCity.pdf&quot; target=&quot;_blank&quot;&gt;Zachary City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;/ul&gt;</div>
-                
-            </div>
-            <hr />
-        </div>
-        <div class="clearfix"></div>
-        <div>
-            <div style="float:left;width:40px;display:block;">
-                
-            </div>
-            <div>
-                    <div>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration-line:underline;&quot;&gt;&lt;a href=&quot;RFP/2020-03_RFP_FINS-AP_CIP_FINs_Expert_Consultant.pdf&quot; target=&quot;_blank&quot;&gt;REQUEST FOR PROPOSALS 2020-03:&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt; The Supreme Court of Louisiana, Office of the Judicial Administrator (&amp;ldquo;Court&amp;rdquo;) invites qualified individuals, public institutions, or private entities licensed in the field of clinical social work to provide consultant and training assistance services to the Division of Children and Families-Families in Need of Services-Assistance Program. Sealed proposals with be accepted until 4:00 p.m. (CST) on Friday, September 18, 2020.&lt;br /&gt;&lt;/p&gt;</div>
-                
-            </div>
-            <hr />
-        </div>
-        <div class="clearfix"></div>
-        <div>
-            <div style="float:left;width:40px;display:block;">
-                
-            </div>
-            <div>
-                    <div>&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration:underline;&quot;&gt;&lt;a href=&quot;RFP/2020-02_RFP_FINS_AP_Research_Associate.pdf&quot; target=&quot;_blank&quot;&gt;REQUEST FOR PROPOSALS 2020-02:&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt; The Supreme Court of Louisiana, Office of the Judicial Administrator (&amp;ldquo;Court&amp;rdquo;) invites qualified individuals, public institutions, or private entities licensed in the field of clinical social work and clinical certified forensic counseling to provide research consultant and training assistance services to the Division of Children and Families-Families in Need of Services-Assistance Program. Sealed proposals with be accepted until 4:00 p.m. (CST) on Friday, September 18, 2020.&lt;/p&gt;</div>
+                    <div>&lt;p&gt;&lt;strong&gt;HURRICANE LAURA&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;ORDERS:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-22_LASC_LauraCiminalSuspension.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/22/2020)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;&amp;nbsp;RE:&amp;nbsp;&lt;/em&gt;&lt;em&gt;Suspending Criminal Matters in 8 Parishes&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-11_LASC_3rdCOATransferOrder.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/11/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: &lt;/em&gt;&lt;em&gt;Louisiana Third Circuit Court of Appeal Emergency Matters Temporarily Transferred to Louisiana Fifth Court of Appeal&lt;/em&gt;&lt;br /&gt;&lt;em&gt;&amp;nbsp;-&amp;nbsp;&lt;a href=&quot;/court_closure_orders/2020/5th_Writ_Intake_Form.pdf&quot; target=&quot;_blank&quot;&gt;Court of Appeal, Fifth Circuit Writ Application Intake Form&lt;/a&gt;&lt;br /&gt;&amp;nbsp;-&amp;nbsp;&lt;/em&gt;&lt;em&gt;&lt;a href=&quot;https://ecourt.fifthcircuit.org/&quot; target=&quot;_blank&quot;&gt;Court of Appeal, Fifth Circuit E-filing&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-09_LASC_CriminalSuspensionOrder.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/09/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Suspending Criminal Matters in 21 Parishes&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-09-01_LASC_Hurricane_Laura_Deadlines.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(9/01/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Louisiana Supreme Court filings&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_LASC_Hurricane_Laura.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;(8/28/2020)&lt;br /&gt;&amp;nbsp;RE:&amp;nbsp;&lt;em&gt;Emergency suspension of prescription and peremption and emergency suspension of abandonment&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_LASC_Hurricane_Laura_Deadlines.pdf&quot; target=&quot;_blank&quot;&gt;Louisiana Supreme Court Order&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/28/2020)&lt;br /&gt;&lt;em&gt;&amp;nbsp;RE: Louisiana Supreme Court filings&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;HURRICANES MARCO AND LAURA&amp;nbsp;C&lt;/strong&gt;&lt;strong&gt;OURT CLOSURE ORDERS:&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Louisiana Supreme Court&lt;/strong&gt; (&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_LASC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_LASC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_1stCOA.pdf&quot; target=&quot;_blank&quot;&gt;1st Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt; (8/24/2020) - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2nd Circuit Court of Appeal&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_2ndCOA.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020) - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_2ndCOA.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-31_3rdCOA.pdf&quot; target=&quot;_blank&quot;&gt;3rd Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_5thCOA.pdf&quot; target=&quot;_blank&quot;&gt;5th Circuit Court of Appeal&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/24/2020) - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_CaddoJuv.pdf&quot; target=&quot;_blank&quot;&gt;Caddo Parish Juvenile Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_4thJDC.pdf&quot; target=&quot;_blank&quot;&gt;4th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020, 8/28/2020) -&amp;nbsp;The 4th JDC will be closed on Friday, August 28th, due to no electricity at the courthouses and damage caused by Hurricane Laura to the local communities.&amp;nbsp; &amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_5thJDC.pdf&quot; target=&quot;_blank&quot;&gt;5th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_7thJDC.pdf&quot; target=&quot;_blank&quot;&gt;7th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;9th Judicial District Court&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 2:00 PM - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/2/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_9thJDC.pdf&quot; target=&quot;_blank&quot;&gt;9/2/2020 - 9/7/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_10thJDC.pdf&quot; target=&quot;_blank&quot;&gt;10th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/26/2020 12:00 PM - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_12thJDC.pdf&quot; target=&quot;_blank&quot;&gt;12th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;14th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/25/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020 - 8/28/2020&lt;/a&gt;)&amp;nbsp;-&amp;nbsp;Please Note: The 14th JDC is &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_14thJDC.pdf&quot; target=&quot;_blank&quot;&gt;closed until further notice&lt;/a&gt; due to damage sustained from Hurricane Laura.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;15th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_15thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_15thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-26_16thJDC.pdf&quot; target=&quot;_blank&quot;&gt;16th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;17th Judicial District Court&amp;nbsp;&lt;/strong&gt; (&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_17thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_17thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 3:00 PM - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;18th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_18thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_18thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;19th Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_19thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-26_19thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_22ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;22nd Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;23rd Judicial District Court&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_23rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_23rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;24th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_24thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_24thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;1st Parish Court of Jefferson&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_Jeff1stParish.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_Jeff1stParish.pdf&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;2nd Parish Court of Jefferson&amp;nbsp;&lt;/strong&gt;&amp;nbsp;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_Jeff2ndParish.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;,&amp;nbsp; &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_Jeff2ndParish.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_JeffJuv.pdf&quot; target=&quot;_blank&quot;&gt;Jefferson Parish Juvenile Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_25thJDC.pdf&quot; target=&quot;_blank&quot;&gt;25th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_28thJDC.pdf&quot; target=&quot;_blank&quot;&gt;28th Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;30th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_30thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_30thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/4/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_31stJDC.pdf&quot; target=&quot;_blank&quot;&gt;31st Judicial District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 4:30 PM&amp;nbsp; - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;33rd Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_33rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/25/2020 1:00 PM&amp;nbsp; - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_33rdJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - 9/7/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;35th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;,&amp;nbsp;&lt;a href=&quot;/court_closure_orders/2020/2020-08-28_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-31_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/31/2020 - &lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-09-02_35thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020 - 9/1/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;36th Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_36thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/28/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_36thJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020 - 9/8/2020&lt;/a&gt;)&amp;nbsp; - &lt;a href=&quot;/court_closure_orders/2020/2020-09-04_36thJDC_LimitedOpening.pdf&quot; target=&quot;_blank&quot;&gt;Notice of Limited Opening 9/04/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-09-14_36thJDC.pdf&quot; target=&quot;_blank&quot;&gt;Open with limited Services 9/14/2020&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_37thJDC.pdf&quot; target=&quot;_blank&quot;&gt;37th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/27/2020 - 8/28/2020) - Please note that due to the inclement weather conditions created by Hurricane Laura, the Caldwell Parish Clerk of Court&amp;rsquo;s office will be closed on Thursday, August 27, 2020 and Friday, August 28, 2020.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-24_38thJDC.pdf&quot; target=&quot;_blank&quot;&gt;38th Judicial District Court&lt;/a&gt;&lt;/strong&gt;&amp;nbsp;(8/24/2020 until it is safe to return)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;42nd Judicial District Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_42ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_42ndJDC.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansCivil.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Civil District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansCrim.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Criminal District Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_NOMTC.pdf&quot; target=&quot;_blank&quot;&gt;Municipal and Traffic Court of New Orleans&lt;/a&gt;&lt;/strong&gt; - (8/24/2020 - 8/25/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_OrleansJuv.pdf&quot; target=&quot;_blank&quot;&gt;Orleans Juvenile Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-31_AlexandriaCity.pdf&quot; target=&quot;_blank&quot;&gt;Alexandria City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/31/2020 - 9/2/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.lasc.org/court_closure_orders/2020/2020-08-27_BakerCity.pdf&quot; target=&quot;_blank&quot;&gt;Baker City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bastrop City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_BastropCity.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-28_BastropCity.pdf&quot; target=&quot;_blank&quot;&gt;8/28/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Baton Rouge City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_BRCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_BRCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_CrowleyCity.pdf&quot; target=&quot;_blank&quot;&gt;Crowley City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;East Baton Rouge Parish Juvenile Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_EBRJuv.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/27/2020&lt;/a&gt;) -&amp;nbsp;East Baton Rouge Parish Juvenile Court will reopen Friday, August 28, for regular business hours.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_EastStTamCity.pdf&quot; target=&quot;_blank&quot;&gt;City Court of East St. Tammany&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/24/2020 - 8/26/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Houma City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-27_HoumaCity.pdf&quot; target=&quot;_blank&quot;&gt;8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_JeaneretteCity.pdf&quot; target=&quot;_blank&quot;&gt;Jeanerette City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_KaplanCity.pdf&quot; target=&quot;_blank&quot;&gt;Kaplan City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_LafayetteCity.pdf&quot; target=&quot;_blank&quot;&gt;Lafayette City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_LakeCharlesCity.pdf&quot; target=&quot;_blank&quot;&gt;Lake Charles City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/30/2020) -&amp;nbsp;Lake Charles City Court will reopen to the public with limited services on &lt;strong&gt;Monday, September 21st&lt;/strong&gt;, however at this time phone and fax service are not operational.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_MindenCity.pdf&quot; target=&quot;_blank&quot;&gt;Minden City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_NewIberiaCity.pdf&quot; target=&quot;_blank&quot;&gt;New Iberia City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_OakdaleCity.pdf&quot; target=&quot;_blank&quot;&gt;Oakdale City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 12:00 PM - 8/29/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-25_OpelousasCity.pdf&quot; target=&quot;_blank&quot;&gt;Opelousas City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/25/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_PinevilleCity.pdf&quot; target=&quot;_blank&quot;&gt;Pineville City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020 - 8/28/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_RayneCity.pdf&quot; target=&quot;_blank&quot;&gt;Rayne City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_ShreveportCity.pdf&quot; target=&quot;_blank&quot;&gt;Shreveport City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-27_SpringhillCity.pdf&quot; target=&quot;_blank&quot;&gt;Springhill City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/27/2020)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Thibodaux City Court&amp;nbsp;&lt;/strong&gt;(&lt;a href=&quot;/court_closure_orders/2020/2020-08-24_ThibodauxCity.pdf&quot; target=&quot;_blank&quot;&gt;8/24/2020 - 8/25/2020&lt;/a&gt;, &lt;a href=&quot;/court_closure_orders/2020/2020-08-26_ThibodauxCity.pdf&quot; target=&quot;_blank&quot;&gt;8/26/2020 3:00 PM - 8/27/2020&lt;/a&gt;)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Winnfield City Court -&amp;nbsp;&lt;/strong&gt;Winnfield City Court will be closed through Sept 4, 2020.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/court_closure_orders/2020/2020-08-26_ZacharyCity.pdf&quot; target=&quot;_blank&quot;&gt;Zachary City Court&lt;/a&gt;&amp;nbsp;&lt;/strong&gt;(8/26/2020 - 8/27/2020)&lt;/li&gt;&lt;/ul&gt;</div>
                 
             </div>
             <hr />
@@ -504,17 +541,6 @@
             </div>
             <div>
                     <div>&lt;div style=&quot;width:250px;text-align:center;&quot;&gt;&lt;p&gt;&lt;a href=&quot;/press_room/annual_reports/reports/2019_AR.pdf&quot;&gt;&lt;img alt=&quot;2019 Annual Report&quot; height=&quot;194&quot; src=&quot;/press_room/annual_reports/reports/2019_ar_cover.jpg&quot; width=&quot;150&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;/press_room/annual_reports/reports/2019_AR.pdf&quot; target=&quot;_blank&quot;&gt;2019 Annual Report&lt;/a&gt;&amp;nbsp;(pdf)&lt;br /&gt;&lt;a href=&quot;/press_room/annual_reports/reports/2019_Guide_to_Louisiana_Courts.pdf&quot;&gt;2019 Guide to Louisiana Courts&lt;/a&gt; (pdf)&lt;!--&lt;a href=&quot;/press_room/annual_reports/reports/2019_Guide_to_Louisiana_Courts.pdf&quot; target=&quot;_blank&quot;&gt;2019 Guide to Louisiana Courts&lt;/a&gt;&amp;nbsp;(pdf)--&gt;&lt;/p&gt;&lt;/div&gt;</div>
-                
-            </div>
-            <hr />
-        </div>
-        <div class="clearfix"></div>
-        <div>
-            <div style="float:left;width:40px;display:block;">
-                
-            </div>
-            <div>
-                    <div>&lt;h4&gt;February 2020 Louisiana Bar Examination Results&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=Pass-02-20&quot;&gt;Passed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=Pass-Need-Info-02-20&quot;&gt;Passed - Need Additional Info&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=Fail-02-20&quot;&gt;Failed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/Bar_Exam_Results?p=Stats-02-20&quot;&gt;Statistics&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Source: Committee on Bar&amp;nbsp;&lt;/em&gt;&lt;em&gt;Admissions&amp;nbsp;&lt;/em&gt;&lt;/p&gt;</div>
                 
             </div>
             <hr />
@@ -723,35 +749,40 @@
 
 
 
-                </div><!-- end bodycontent -->
-                <div style="clear:both; padding-top: 10px;"></div>
-                <section class="container">
-                    <div class="content row">
-                        <section class="main col col-lg-12">
-                            <div class="content row ">
-                                <footer>
-                                    <div>
-                                        Translate <div id="google_translate_element"></div>
-                                        <script type="text/javascript">
-                                            function googleTranslateElementInit() {
-                                                new google.translate.TranslateElement({ pageLanguage: 'en'
-//, layout: google.translate.TranslateElement.InlineLayout.SIMPLE 
-, layout: google.translate.TranslateElement.InlineLayout.VERTICAL
-}, 'google_translate_element');
-                                            }
-                                        </script>
-                                        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-                                    </div>
-                                    <button class="btn btn-blue btn-sm" data-toggle="modal" data-target="#myModal">
-                                        Disclaimer
-                                    </button>
-                                    <p style="text-align:right;">&copy; 2020 - Louisiana Supreme Court</p>
-                                </footer>
-                            </div>
-                        </section>
-                    </div>
-                </section>
-            </div>
+                    </div><!-- end bodycontent -->
+                    <div style="clear:both; padding-top: 10px;"></div>
+                    <section class="container">
+                        <div class="content row">
+                            <section class="main col col-lg-12">
+                                <div class="content row ">
+                                    <footer>
+                                        <div>
+                                            Translate
+                                            <div id="google_translate_element" class="dropdown"></div>
+                                            <script type="text/javascript">
+                                                function googleTranslateElementInit() {
+                                                    new google.translate.TranslateElement({
+                                                        pageLanguage: 'en'
+                                                        //, layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+                                                        , layout: google.translate.TranslateElement.InlineLayout.VERTICAL
+                                                    }, 'google_translate_element');
+                                                }
+                                            </script>
+                                            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+                                        </div>
+
+                                        <button class="btn btn-blue btn-sm" data-toggle="modal" data-target="#myModal">
+                                            Disclaimer
+                                        </button>
+                                        <p style="text-align:right;">&copy; 2020 - Louisiana Supreme Court</p>
+                                    </footer>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
@@ -779,10 +810,6 @@
         </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
 
-<script src="//static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">try{ clicky.init(100966636); }catch(e){}</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100966636ns.gif" /></p></noscript>
-
 
     
     
@@ -791,7 +818,6 @@
 <script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript type=\u0022text\/javascript\u0022 src=\u0022\/lib\/bootstrap\/dist\/js\/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\u0022\u003E\u003C\/script\u003E"));</script>
         <script type="text/javascript" src="/js/site.min.js?v=Hcfa3SyWmN7E4p0rLHaofZMcv9g78-vwNQlJ_Bjpqzg"></script>
     
-
 
 
     

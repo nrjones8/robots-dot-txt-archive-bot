@@ -13,6 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
+#----------------------------------------------------------
+# Added Crawl Delay - Carey Hartmann - 20200917
+Crawl-Delay: 30
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -58,3 +61,26 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+#----------------------------------------------------------
+# FIXED - NO TRAILING SLASH - Carey Hartmann - 20200917
+# Paths (clean URLs)
+Disallow: /admin
+Disallow: /comment/reply
+# Disallow: /filter/tips # - original doesn't have trailing slash
+# Disallow: /node/add # - original doesn't have trailing slash
+Disallow: /search
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+# Paths (no clean URLs)
+Disallow: /index.php/admin
+Disallow: /index.php/comment/reply
+# Disallow: /index.php/filter/tips # - original doesn't have trailing slash
+Disallow: /index.php/node/add
+Disallow: /index.php/search
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+#----------------------------------------------------------

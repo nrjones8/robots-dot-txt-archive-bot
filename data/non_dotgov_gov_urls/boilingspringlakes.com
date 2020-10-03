@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en" >
 <head>
-    <title>BoilingSpringLakes.com domain is for sale | Buy with Epik.com</title>
+    <title>Geographic Location Domain Name May Be For Sale or Lease</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -33,7 +33,7 @@
 
     
     
-            <meta name="description" content="BoilingSpringLakes.com - Make an Offer if you want to buy this domain. Your purchase is secured by Epik.">
+            <meta name="description" content="The geographic location domain name may be offered for sale or lease and provides you with a great online identity.">
     
     <style>
         .light .block-2 .top .sup::before,
@@ -45,17 +45,17 @@
 
 </head>
 
-<body class="light">
+<body class="dark">
 
 <div class="container-page">
 
     <section class="top-section">
 
         <div class="main-bg">
-            <img src="https://boilingspringlakes.com/images/parking2/bg/a21.jpg" class="main-bg" alt="">
+            <img src="https://boilingspringlakes.com/upload-files/parking/bg/a2a987e78947dc004e93270204d6b0b7.jpg" class="main-bg" alt="">
         </div>
 
-        <img src="/images/epik-logo-light.svg" style="position: absolute; top:20px; left:20px;" alt="Epik" />
+        <img src="/images/epik-logo-dark.svg" style="position: absolute; top:20px; left:20px;" alt="Epik" />
 
                     <iframe src="https://cust-api.trustratings.com/api/v1/widget/epik.com?background=white&orientation=horizontal" height="30" width="200" style="border: none; border-radius: 10px; position: absolute; top:20px; right:20px;"></iframe>
 
@@ -70,7 +70,7 @@
                     <h1>BoilingSpringLakes.com</h1>
                 </div>
                 <div class="col-md-12">
-                    <p>Congratulations - you found an amazing domain name!<br/>Acquire or lease it today!</p>
+                    <p>Ask About Possibly Owning This Premium Geographic Location Domain Name<br/>Domain Name May Or May Not Be For Sale - Inquire To Find Out</p>
                 </div>
             </div>
 
@@ -117,6 +117,13 @@
         </div>
     </section>
 
+            <div class="container page-content">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="content"><p><strong>This Domain Name May Or May Not Be For Sale - Inquire To Find Out</strong><br /><br /><strong>A Premium Brandable Domain Name Gives You a Competitive Edge and Instant Credibility.</strong><br /><br />&nbsp;&nbsp;&nbsp; Increase Your Online Credibility<br />&nbsp;&nbsp;&nbsp; Enhance Your Brand Recognition<br />&nbsp;&nbsp;&nbsp; Improve Your Conversion Rates<br />&nbsp;&nbsp;&nbsp; Strengthen Your Online Authority<br /><br /><strong>Inquire About All of Our Flexible Payment Solutions to Take You to the Next Level.</strong><br /><br />&nbsp;&nbsp;&nbsp; Buy It Now or Escrow Services<br />&nbsp;&nbsp;&nbsp; 1 to 5 Year Payment Plans<br />&nbsp;&nbsp;&nbsp; 1 to 5 Year Lease Option to Buy<br />&nbsp;&nbsp;&nbsp; 1 to 10 Year Straight Leases</p></div>
+                </div>
+            </div>
+        </div>
     </div>
 
 
@@ -539,6 +546,7 @@
     </div>
     <div class="modal-body">
         <div class="makeAnOffer-modal">
+            <b style="color:red; font-size:14px; " v-if="errors.common">{{errors.common}}</b>
             <div class="form-group">
                 <label style="width: 100%;">
                     Name <span class="important-red">*</span>

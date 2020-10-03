@@ -328,10 +328,11 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-332"><a class="menuA level2 menuHidden" href="government/commissions/planning_commission/agendas___minutes.php" target="_self">Planning Commission Agendas & Minutes</a></li>
 				</ul>
 			</li>
-			<li class="menuLI level1 menuHidden li-306 children"><a class="menuA level1 menuHidden" href="how_do_i_/pay_for/index.php" target="_self">Pay For</a>
+			<li class="menuLI level1 menuHidden li-306 children"><a class="menuA level1 menuHidden" href="https://wipp.edmundsassoc.com/Wipp/?wippid=FRUT" target="_new">Pay For</a>
 				<ul class="menuUL level2 menuHidden ul-335">
 					<li class="menuLI level2 menuHidden li-335"><a class="menuA level2 menuHidden" href="residents/city_taxes.php" target="_self">City Taxes</a></li>
-					<li class="menuLI level2 menuHidden li-374"><a class="menuA level2 menuHidden" href="https://ww2.payerexpress.com/ebp/fruitland/" target="_new">Utility Bill</a></li>
+					<li class="menuLI level2 menuHidden li-374"><a class="menuA level2 menuHidden" href="https://wipp.edmundsassoc.com/Wipp/?wippid=FRUT" target="_new">Utility Bill</a></li>
+					<li class="menuLI level2 menuHidden li-523"><a class="menuA level2 menuHidden" href="https://wipp.edmundsassoc.com/Wipp/?wippid=FRUT" target="_new">Other Invoices</a></li>
 				</ul>
 			</li>
 		</ul>

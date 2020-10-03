@@ -9,7 +9,17 @@
 <title>American Presidents | Series | C-SPAN.org</title>
 <meta http-equiv='content-type' content='text/html; charset=UTF-8' />
 <meta http-equiv='content-language' content='en-us'/>
-<meta http-equiv='Content-Security-Policy' content="default-src 'self' *.googlesyndication.com; script-src 'self' *.ampproject.org *.google.com *.googleadservices.com *.doubleclick.net *.gstatic.com use.typekit.net ssl.p.jwpcdn.com *.googleapis.com *.googlesyndication.com *.googletagservices.com *.google-analytics.com platform.twitter.com *.twitter.com *.twimg.com s0.2mdn.net instansive.com https://lightwidget.com https://*.lightwidget.com www.flickr.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net *.auth.adobe.com https://*.auth.adobe.com *.auth-staging.adobe.com *.c-span.org *.c-spanvideo.org https://*.youtube.com https://*.ytimg.com https://*.zencdn.net lightwidget.com *.yimg.com *.analytics.yahoo.com *.paypalobjects.com *.paypal.com *.adroll.com *.facebook.net 'unsafe-inline' 'unsafe-eval' data:; style-src 'self' use.typekit.net *.twitter.com *.twimg.com *.googleapis.com *.c-span.org *.c-spanvideo.org https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm 'unsafe-inline'; font-src 'self' static.c-span.org fonts.gstatic.com *.jwpcdn.com *.typekit.net data: https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm; img-src *; media-src 'self' *.googlevideo.com blob: http://*.c-spanvideo.org https://*.c-spanvideo.org http://*.c-span.org https://*.c-span.org https://*.streamtheworld.com https://*.jwplayer.com https://*.akamaihd-staging.net http://*.akamaihd.net https://*.akamaihd.net http://*.gvt1.com https://*.gvt1.com http://*.amazonaws.com https://*.amazonaws.com https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm ; connect-src 'self' *.gstatic.com *.brightcove.net *.brightcove.com https://*.brightcove.com *.doubleclick.net https://*.akamaihd-staging.net http://*.akamaihd-staging.net https://*.akamaihd.net http://*.akamaihd.net *.tweetriver.com tweetriver.com api.massrelevance.com *.amazonaws.com http://*.c-span.org https://*.c-span.org http://*.c-spanvideo.org https://*.c-spanvideo.org https://*.amazonaws.com data.c-spanvideo.org.s3.amazonaws.com http://*.jwplayer.com https://*.jwplayer.com https://*.googleapis.com *.googlesyndication.com https://syndication.twitter.com *.auth.adobe.com https://*.auth.adobe.com *.auth-staging.adobe.com *.paypal.com *.google-analytics.com https://www.podtrac.com https://*.megaphone.fm https://*.traffic.megaphone.fm https://dcs.megaphone.fm https://*.googlesyndication.com; frame-src 'self' blob: *.auth.adobe.com *.auth-staging.adobe.com http://interactives.ap.org https://interactives.ap.org instansive.com *.ap.org https://lightwidget.com http://datawrapper.dwcdn.net https://datawrapper.dwcdn.net twitter.com *.twitter.com *.c-span.org *.c-spanvideo.org *.youtube.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net https://*.googleapis.com lightwidget.com *.paypal.com https://*.doubleclick.net https://*.googlesyndication.com; child-src 'self' blob: *.auth.adobe.com *.auth-staging.adobe.com http://interactives.ap.org https://interactives.ap.org instansive.com *.ap.org https://lightwidget.com http://datawrapper.dwcdn.net https://datawrapper.dwcdn.net twitter.com *.twitter.com *.c-span.org *.c-spanvideo.org *.youtube.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net https://*.googleapis.com lightwidget.com *.paypal.com https://*.doubleclick.net https://*.googlesyndication.com; object-src 'self' *.amazonaws.com *.c-span.org *.c-spanvideo.org *.jwpcdn.com *.googleapis.com *.brightcove.com https://*.brightcove.com *.akamaihd.net " />
+<meta http-equiv='Content-Security-Policy' content="
+            default-src 'self' *.googlesyndication.com;
+					  script-src 'self' *.ampproject.org *.google.com *.googleadservices.com *.doubleclick.net *.gstatic.com use.typekit.net ssl.p.jwpcdn.com *.googleapis.com *.googlesyndication.com *.googletagservices.com *.google-analytics.com platform.twitter.com *.twitter.com *.twimg.com s0.2mdn.net instansive.com https://lightwidget.com https://*.lightwidget.com www.flickr.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net *.auth.adobe.com https://*.auth.adobe.com *.auth-staging.adobe.com *.c-span.org *.c-spanvideo.org https://*.youtube.com https://*.ytimg.com https://*.zencdn.net lightwidget.com *.yimg.com *.analytics.yahoo.com *.paypalobjects.com *.paypal.com *.adroll.com *.facebook.net 'unsafe-inline' 'unsafe-eval' data:;
+					  style-src 'self' use.typekit.net *.twitter.com *.twimg.com *.googleapis.com *.c-span.org *.c-spanvideo.org https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm 'unsafe-inline';
+					  font-src 'self' static.c-span.org fonts.gstatic.com *.jwpcdn.com *.typekit.net data: https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm;
+					  img-src * data:;
+					  media-src 'self' *.googlevideo.com blob: http://*.c-spanvideo.org https://*.c-spanvideo.org http://*.c-span.org https://*.c-span.org https://*.streamtheworld.com https://*.jwplayer.com https://*.akamaihd-staging.net http://*.akamaihd.net https://*.akamaihd.net http://*.gvt1.com https://*.gvt1.com http://*.amazonaws.com https://*.amazonaws.com https://www.podtrac.com https://*.megaphone.fm https://traffic.megaphone.fm https://dcs.megaphone.fm ;
+					  connect-src 'self' *.gstatic.com *.brightcove.net *.brightcove.com https://*.brightcove.com *.doubleclick.net https://*.akamaihd-staging.net http://*.akamaihd-staging.net https://*.akamaihd.net http://*.akamaihd.net *.tweetriver.com tweetriver.com api.massrelevance.com *.amazonaws.com http://*.c-span.org https://*.c-span.org http://*.c-spanvideo.org https://*.c-spanvideo.org https://*.amazonaws.com data.c-spanvideo.org.s3.amazonaws.com http://*.jwplayer.com https://*.jwplayer.com https://*.googleapis.com *.googlesyndication.com https://syndication.twitter.com *.auth.adobe.com https://*.auth.adobe.com *.auth-staging.adobe.com *.paypal.com *.google-analytics.com https://www.podtrac.com https://*.megaphone.fm https://*.traffic.megaphone.fm https://dcs.megaphone.fm https://*.googlesyndication.com;
+					  frame-src 'self' blob: *.auth.adobe.com *.auth-staging.adobe.com http://interactives.ap.org https://interactives.ap.org instansive.com *.ap.org https://lightwidget.com http://datawrapper.dwcdn.net https://datawrapper.dwcdn.net twitter.com *.twitter.com *.c-span.org *.c-spanvideo.org *.youtube.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net https://*.googleapis.com lightwidget.com *.paypal.com https://*.doubleclick.net https://*.googlesyndication.com *.lightwidget.com;
+					  child-src 'self' blob: *.auth.adobe.com *.auth-staging.adobe.com http://interactives.ap.org https://interactives.ap.org instansive.com *.ap.org https://lightwidget.com http://datawrapper.dwcdn.net https://datawrapper.dwcdn.net twitter.com *.twitter.com *.c-span.org *.c-spanvideo.org *.youtube.com *.brightcove.com https://*.brightcove.com *.brightcove.net https://*.brightcove.net https://*.googleapis.com lightwidget.com *.paypal.com https://*.doubleclick.net https://*.googlesyndication.com *.lightwidget.com;
+					  object-src 'self' *.amazonaws.com *.c-span.org *.c-spanvideo.org *.jwpcdn.com *.googleapis.com *.brightcove.com https://*.brightcove.com *.akamaihd.net " />
 <meta http-equiv='X-Content-Type-Options' content='nosniff' />
 <meta http-equiv='X-XSS-Protection' />
 <meta name='description' content="Watch American Presidents full episodes, clips and more."/>
@@ -22,8 +32,8 @@
 <script type='text/javascript' src='https://use.typekit.net/wji5adk.js'></script>
 <script type='text/javascript'>try{Typekit.load();}catch(e){}</script>
 <script type='text/javascript' src='//static.c-span.org/assets/javascript/libs/jquery-1.10.2.1499969164.js'></script>
-<script type='text/javascript' src='//static.c-span.org/assets/javascript/include/include.1597082489.js'></script>
-<link rel='stylesheet' type='text/css' href='//static.c-span.org/assets/stylesheets/compile-series.1597860129.css' />
+<script type='text/javascript' src='//static.c-span.org/assets/javascript/include/include.1600458105.js'></script>
+<link rel='stylesheet' type='text/css' href='//static.c-span.org/assets/stylesheets/compile-series.1601654120.css' />
 	<!--<script type="text/javascript" src="//static.c-span.org/assets/javascript/libs/hisrc.1499969095.js"></script>-->
 	<!--<script type="text/javascript" src="//static.c-span.org/assets/javascript/libs/breakpoint.1495555777.js"></script>-->
 	<!--<script type="text/javascript">
@@ -50,23 +60,23 @@
 	<!--<link rel="stylesheet" type="text/css" href="//static.c-span.org/assets/stylesheets/compile-changes.1499968737.css" />-->
 	<link rel ='stylesheet' type='text/css' href='//static.c-span.org/assets/stylesheets/jquery-ui.1499969236.css' /></head>
 <body class="series">
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-46941834-1', {'siteSpeedSampleRate': 50});
+        ga('create', 'UA-46941834-1', {'siteSpeedSampleRate': 50});
 
-      ga('send', 'pageview', {
-        'page': '/series/',
-        'dimension2': 'American Presidents',
-        'dimension3': '',
-				'dimension4': '',
-				'dimension5': ''
-			} );
-	  </script>
-			<div id="wrapper">
+        ga('send', 'pageview', {
+          'page': '/series/',
+          'dimension2': 'American Presidents',
+          'dimension3': '',
+          'dimension4': '',
+          'dimension5': ''
+        } );
+      </script>
+	<div id="wrapper">
 				<header>
 			<div class="container">
 				<nav class="tune-in" role="navigation">
@@ -165,7 +175,7 @@ Radio</a></li>
 <input type="search" placeholder="Search by keyword, name, etc." name="query" id="global-search" aria-label="Search Our Video Library"/>						</div>
 						<button type="submit" aria-label="Search"><i class="icon-search"></i></button>
 					</fieldset>
-<div class='counter-wrapper'><div class='totalHours'><span class='video-library'>VIDEO LIBRARY</span>&nbsp;&nbsp;<span class='divider'>|</span>&nbsp;&nbsp;<span class='hours' data-hourrate='0'>261,621</span>&nbsp;hours of content</div></div>				</form>
+<div class='counter-wrapper'><div class='totalHours'><span class='video-library'>VIDEO LIBRARY</span>&nbsp;&nbsp;<span class='divider'>|</span>&nbsp;&nbsp;<span class='hours' data-hourrate='0'>262,223</span>&nbsp;hours of content</div></div>				</form>
 				<script type='text/javascript'>
           var headerTotalHours = parseFloat($('div.totalHours span.hours').html().split(',').join(''));
 
@@ -763,7 +773,7 @@ Washington Journal</span>
 	<script type="text/javascript" src="//static.c-span.org/assets/player/swfobject-2.2.1499969211.js"></script>-->
 
 	<!--[if lte IE 9]>	<script type="text/javascript" src="//static.c-span.org/assets/javascript/libs/jqueryxdr.1499969244.js"></script> <![endif]-->
-<input type='hidden' id='scriptEnv' value='//static.c-span.org'><script type='text/javascript' src='//static.c-span.org/assets/javascript/script-series-ck.1595337175.js'></script>
+<input type='hidden' id='scriptEnv' value='//static.c-span.org'><script type='text/javascript' src='//static.c-span.org/assets/javascript/script-series-ck.1600279755.js'></script>
 	<!--<script type="text/javascript" src="//static.c-span.org/assets/javascript/libs/hisrc.1499969095.js"></script>-->
 	<!--<script type="text/javascript" src="//static.c-span.org/assets/javascript/libs/breakpoint.1495555777.js"></script>-->
 		<script type="text/javascript">

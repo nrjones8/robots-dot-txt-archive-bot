@@ -20,7 +20,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         
             
-            <link rel="stylesheet" href="https://sa-2019.s3.amazonaws.com/738169c2/css/styles.css">
+            <link rel="stylesheet" href="https://sa-2019.s3.amazonaws.com/bfc68edf/css/styles.css">
             
             
         
@@ -98,7 +98,36 @@
 	</li>
 	
 	<li class="menu__item ">
-		<a class="menu__link" href="/resources/">Resources</a>
+		<a class="menu__link menu__link--sub-menu" href="/resources/">Resources</a>
+		
+		
+
+<div class="sub-menu sub-menu--slide-down">
+	<div class="container container--wide">
+		<div class="row">
+			<span class="sub-menu__parent">Resources</span>
+			<ul class="sub-menu__items">
+				
+				<li class="sub-menu__item ">
+					<a class="sub-menu__link" href="/resources/all/">All Resources</a>
+					
+				</li>
+				
+				<li class="sub-menu__item ">
+					<a class="sub-menu__link" href="/resources/virtual-bootcamp/">Virtual Bootcamp</a>
+					
+				</li>
+				
+				<li class="sub-menu__item ">
+					<a class="sub-menu__link" href="/resources/faq/">Participant FAQ</a>
+					
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+</div>
+
 		
 	</li>
 	
@@ -335,7 +364,7 @@
 	
 	<li class="social-links__link">
 		<a class="icon-link" target="_blank"
-			 rel="noreferrer" href="https://www.instagram.com/explore/tags/spaceapps/">
+			 rel="noreferrer" href="https://www.instagram.com/nasa_spaceapps/">
 			<span class="screen-reader-only">instagram</span>
 			
 			
@@ -382,7 +411,7 @@
         
         
             
-            <script type="text/javascript" src="https://sa-2019.s3.amazonaws.com/738169c2/js/main.bundle.js"></script>
+            <script type="text/javascript" src="https://sa-2019.s3.amazonaws.com/bfc68edf/js/main.bundle.js"></script>
             
         
 

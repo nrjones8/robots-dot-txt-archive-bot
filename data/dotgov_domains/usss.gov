@@ -44,14 +44,15 @@ display: block;
 }
 .alert {
   padding: 20px;
-  background-color: #f44336; /* Red */
-  color: white;
+  background-color: #ffd378; /* Red */
+  color: black;
   margin-bottom: 15px;
+  a {color: #CCCCCC;}
 }
- a.button:link,
+ a.button:link 
  a.button:visited,
  a.button:active { color: #FFFFFF; text-decoration: underline; margin-right: 15px;}
- a.button:hover { color: #EAEAEA; }
+ a.button:hover { color: #CCCCCC; }
 
 /* The close button */
 .closebtn {
@@ -437,6 +438,10 @@ ECTF & FCTF Locator
 </div>
 </div>
 <div class="container-fluid landing-row">
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <p><strong>Caution:</strong> Don't Be a Victim of Coronavirus-related Scams. <a href="/coronavirus">Learn More.</a></p>
+</div>
 <div class="row">
 <div class="col-md-4 col-sm-6">
 <div class="landing-grid">

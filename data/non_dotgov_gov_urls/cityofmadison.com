@@ -312,70 +312,16 @@ html { letter-spacing: 0.01em; }
     </div>
   </div>
 </div>
-<style>
-   @import url("https://use.typekit.net/xnl1tzf.css");
-  .sitewide-alert,
-  .sitewide-alert div {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-  }
-  .sitewide-alert {
-    font-family: "source-sans-pro","Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
-  }
-  .sitewide-alert.danger {
-    color: #ffffff;
-    background-color: #8d031e;
-  }
-  .sitewide-alert.danger a {
-    color: #ffffff;
-    text-decoration: underline;
-  }
-  .sitewide-alert.danger a:hover,
-  .sitewide-alert.danger a:focus {
-    color: #f5f5f5;
-    text-decoration: underline;
-  }
-  .sitewide-alert .alert-content {
-	padding-right: 15px;
-	padding-left: 15px;
-  }
-  .sitewide-alert .alert-content h2.heading {
-    margin: 0;
-    padding-top: 14px;
-    padding-bottom: 7px;
-    letter-spacing: 0;
-    line-height: 1.333;
-    font-size: 24px;
-    font-weight: 600;
-    border: none;
-    color: #fff;
-  }
-  .sitewide-alert .text-center {
-    text-align: center;
-  }
-  .sitewide-alert .list-inline {
-    margin: 0;
-    padding-bottom: 16px;
-    padding-left: 0;
-    max-width: none;
-    list-style: none;
-    margin-left: -5px;
-  }
-  .sitewide-alert .list-inline > li {
-    display: inline-block;
-    padding-top: 10px;
-    padding-right: 5px;
-    padding-left: 5px;
-	margin-right: 10px;
-  }
-  .sitewide-alert .list-inline > li:last-child {
-	margin-right: 0;
-  }
-      
-</style>
-
+<div id="sitewide-alerts">
+  <style>
+    @import url("/css/sitewide.css");
+  </style>
+  
+  
+	<div class="sitewide-notice padding-top-5 padding-right-15 padding-bottom-5 padding-left-15 bg-yellow text-center max-width-none" role="alert">
+	  <h1 class="heading">Scheduled Maintenance</h1>
+	  <p>This website is undergoing scheduled maintenance on Sunday, October 4, 6:00&nbsp;am &ndash; 12:00&nbsp;noon. You may experience intermittent outages during this time.</p>
+	</div>
 <div class="sitewide-alert danger">
   <div class="alert-content text-center">
     <h2 class="heading">Coronavirus (COVID-19)</h2>
@@ -387,6 +333,7 @@ html { letter-spacing: 0.01em; }
 		<li><a href="https://www.cityofmadison.com/hmn/health-safety/coronavirus" title="Kab Mob Coronavirus (COVID-19) - Hmoob">Hmoob</a></li>		
     </ul>
   </div>
+</div>
 </div><div class="banner"> 
     <div class="container"> 
         <div class="span6 pull-left banner-logo"> 

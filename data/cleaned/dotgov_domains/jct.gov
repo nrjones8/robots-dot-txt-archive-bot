@@ -1,0 +1,14 @@
+user-agent:*
+Allow: /
+Disallow: /Admin
+Disallow: /App_Data
+Disallow: /App_Start
+Disallow: /bin
+Disallow: /*?*searchtext=
+Disallow: /*?*returnurl=
+Disallow: /*?*RedirectUrl=
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:
+sitemap: https://www.jct.gov/sitemap.xml

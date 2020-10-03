@@ -3,7 +3,7 @@
 	<title>Colorado Secretary of State - 
 	</title>
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
-	<script type="text/javascript" src="/voter/ruxitagentjs_ICA2SVfjqru_10199200831173248.js" data-dtconfig="app=9423c19bd684c61d|cuc=dj0fym5w|featureHash=ICA2SVfjqru|lastModification=1599148852637|vcv=2|dtVersion=10199200831173248|tp=500,50,0,1|rdnt=1|uxrgce=1|uxdcw=1500|vs=2|agentUri=/voter/ruxitagentjs_ICA2SVfjqru_10199200831173248.js|reportUrl=/voter/rb_44e35073-3a06-4c3f-abc0-57c9afa16059|rid=RID_-730020358|rpid=-640346773|domain=state.co.us"></script><link href="https://www.sos.state.co.us/pubs/css/responsive.css" rel="stylesheet" />
+	<script type="text/javascript" src="/voter/ruxitagentjs_ICA2SVfjqru_10201200909073022.js" data-dtconfig="app=9423c19bd684c61d|cuc=dj0fym5w|featureHash=ICA2SVfjqru|lastModification=1601382766641|vcv=2|dtVersion=10201200909073022|tp=500,50,0,1|rdnt=1|uxrgce=1|uxdcw=1500|vs=2|agentUri=/voter/ruxitagentjs_ICA2SVfjqru_10201200909073022.js|reportUrl=/voter/rb_44e35073-3a06-4c3f-abc0-57c9afa16059|rid=RID_-730020358|rpid=-1386683398|domain=state.co.us"></script><link href="https://www.sos.state.co.us/pubs/css/responsive.css" rel="stylesheet" />
 	<link href="https://www.sos.state.co.us/pubs/css/r-theme.css" rel="stylesheet" />
 
 	<style>
@@ -315,13 +315,13 @@ function w3_close() {
 <td>
 				<p><span class="pageTitle">Go Vote Colorado</span>
 				</p>
-
+	
 	<p class="w3-left-align">
 <form id="languageForm" name="languageForm" method="post" action="/voter/pages/pub/home.xhtml" enctype="application/x-www-form-urlencoded">
 <input type="hidden" name="languageForm" value="languageForm" />
 
 <script type="text/javascript" src="/voter/javax.faces.resource/jsf.js.xhtml?ln=javax.faces"></script>
-<a href="#" onclick="mojarra.jsfcljs(document.getElementById('languageForm'),{'languageForm:j_idt19':'languageForm:j_idt19'},'');return false" class="indent2">Versión en Español </a><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-1026848119754617073:-3760323717091978770" autocomplete="off" />
+<a href="#" onclick="mojarra.jsfcljs(document.getElementById('languageForm'),{'languageForm:j_idt19':'languageForm:j_idt19','currentLocale':'en'},'');return false" class="indent2">Versión en Español </a><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="4488058276107541140:1534815483694351487" autocomplete="off" />
 </form>
 	</p>
 <form id="publicVoterHomeForm" name="publicVoterHomeForm" method="post" action="/voter/pages/pub/home.xhtml" enctype="application/x-www-form-urlencoded">
@@ -329,54 +329,58 @@ function w3_close() {
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <body>
-    <div class="w3-pale-blue w3-leftbar w3-border-blue" style="margin-bottom: 15px; margin-left: 15px; margin-top: 15px;">
-<p style="padding-left: 5px;">We need election judges! <a href="../../../pubs/elections/electionJudges.html">Interested in working as an election judge?</a></p>
-</div>
-<div class="w3-col m12 l10" style="padding-bottom: 20px; margin-right: 10px;">
+    <div class="w3-col m12 l10" style="padding-bottom: 20px; margin-right: 10px;">
 <div class="w3-row">
 <div style="padding-bottom: 25px;">
 <div class="w3-half w3-container">
 <h1>Register to vote</h1>
 <p style="padding-left: 30px;">Do you have a Colorado driver's license or ID card?</p>
 <ul class="w3-ul" style="padding-left: 50px;">
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml">Yes, register online</a></li>
+<li><a href="olvr/verifyNewVoter.xhtml">Yes, register online</a></li>
 <li><a href="https://www.sos.state.co.us/pubs/elections/vote/VoterRegFormEnglish.pdf" rel="noopener" target="_blank">No, complete the paper registration form (PDF)</a></li>
 </ul>
 <p style="padding-left: 30px; padding-top: 5px;"><a href="https://www.sos.state.co.us/pubs/elections/allInChallenge.html">Colorado campus voting challenge</a></p>
+<h1 style="padding-top: 10px;">Track my ballot</h1>
+<p style="padding-left: 30px;">Colorado voters can now sign up for BallotTrax - a system that will allow you to track your ballot from sent to accepted. <a href="https://colorado.ballottrax.net">Sign up for BallotTrax here!</a></p>
+<p style="padding-left: 30px;">If you’re a <a href="https://ballottrace.org/home">Denver voter, update your ballot tracking preferences</a>.</p>
 <h1 style="padding-top: 10px;">Manage my registration</h1>
 <ul class="w3-ulsub">
 <li>What do you want to do? (<a href="https://www.sos.state.co.us/pubs/elections/vote/VoterHomeHow.html">Get help</a>)
 <ul class="w3-ulsub" style="padding-top: 10px;">
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml">Check my mail ballot status</a></li>
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml">Find my registration</a></li>
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml">Change party affiliation or choose my primary ballot</a></li>
+<li><a href="https://myballot.sos.colorado.gov/">View my sample ballot</a></li>
+<li><a href="olvr/findVoterReg.xhtml">Check my mail ballot status</a></li>
+<li><a href="olvr/findVoterReg.xhtml">Find my registration</a></li>
+<li><a href="olvr/findVoterReg.xhtml">Change party affiliation or choose my primary ballot</a></li>
 
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/withdrawLookup.xhtml">Withdraw my registration</a></li>
+<li><a href="withdrawLookup.xhtml">Withdraw my registration</a></li>
 <li><a href="https://www.sos.state.co.us/pubs/elections/vote/VoterRegFormEnglish.pdf" rel="noopener" target="_blank">Change my name (PDF)</a></li>
 <li><a href="https://www.sos.state.co.us/pubs/elections/UOCAVA.html">Military &amp; overseas voters</a></li>
 </ul>
 </li>
 </ul>
-<p style="padding-left: 30px;"><strong>Track my ballot</strong></p>
-<p style="padding-left: 60px;">Colorado voters can now sign up for BallotTrax - a system that will allow you to track your ballot from sent to accepted. Sign up here <a href="https://colorado.ballottrax.net">https://colorado.ballottrax.net</a>!</p>
-<p style="padding-left: 60px;">If you’re a Denver voter, go to <a href="https://ballottrace.org/home">https://ballottrace.org/home</a> to update your ballot tracking preferences.</p>
 </div>
 
 <div class="w3-half w3-container">
 <h1 style="padding-left: 30px;">Important information</h1>
 <ul class="w3-ul" style="padding-left: 50px;">
-<li><a href="https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml">Review your voter record</a> to make sure your information is up to date.</li>
-<li>September 18 - Early voting for Military and Overseas voters will be available for the General Election</li>
-<li>October 9 - Counties will begin mailing ballots.</li>
+<li><a href="olvr/findVoterReg.xhtml">Review your voter record</a> to make sure your information is up to date.</li>
+<li>October 9 - Counties will begin mailing ballots. <a href="https://myballot.sos.colorado.gov/">View my sample ballot</a>.</li>
 <li>October 26 - deadline to register to vote or update your registration and still receive a ballot in the mail.</li>
-<li>In Colorado, you can <a href="https://www.sos.state.co.us/voter/pages/pub/olvr/verifyNewVoter.xhtml">register to vote</a> and vote in person up to 7:00 PM on Election Day.</li>
+<li>October 26 - Last suggested day to return a ballot through the mail. After this date, voters should visit a drop box or vote center to drop off their ballot.</li>
+<li>In Colorado, you can <a href="olvr/verifyNewVoter.xhtml">register to vote</a> and vote in person up to 7:00 PM on Election Day.</li>
 <li><a href="https://www.sos.state.co.us/pubs/elections/calendar.html">Full election and campaign finance calendar</a></li>
 </ul>
+<p style="margin-left: 25px;"><a href="../../../pubs/elections/VIP.html"><img alt="Fnid out where to return your mail ballot or where to vote in person" height="150" src="../../../pubs/images/Elections/VIP-Graphic.png" width="300" /></a></p>
 <h1 style="padding-left: 30px; padding-top: 10px;">Resources</h1>
 <ul class="w3-ul" style="padding-left: 50px;">
 <li><a href="https://www.sos.state.co.us/pubs/elections/vote/acceptableFormsOfID.html">Acceptable forms of ID</a></li>
-<li><a href="https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html">Contact my county clerk</a></li>
-<li><a href="https://www.sos.state.co.us/pubs/elections/Resources/BecomeElectionJudge.html">Become an election judge</a></li>
+<li><a href="https://www.sos.state.co.us/pubs/elections/Resources/CountyElectionOffices.html">Contact my county clerk</a><a href="https://www.sos.state.co.us/pubs/elections/Resources/BecomeElectionJudge.html"></a></li>
+<li><a href="https://www.sos.state.co.us/pubs/elections/FAQs/college.html">Voting while in college</a></li>
+</ul>
+<h1 style="padding-left: 30px; padding-top: 10px;">Get involved</h1>
+<ul class="w3-ul" style="padding-left: 50px;">
+<li>Apply to serve on Colorado’s new independent redistricting commissions. <a href="https://redistricting.colorado.gov/">Get more information and submit an application.</a></li>
+<li><a href="https://www.sos.state.co.us/pubs/elections/electionJudges.html">Become an election judge</a></li>
 </ul>
 </div>
 </div>
@@ -386,7 +390,7 @@ function w3_close() {
     </body>
     
 
-</html><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-1026848119754617073:-3760323717091978770" autocomplete="off" />
+</html><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="4488058276107541140:1534815483694351487" autocomplete="off" />
 </form></td>
 </tr>
 </tbody>

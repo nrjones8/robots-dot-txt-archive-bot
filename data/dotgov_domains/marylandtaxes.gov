@@ -1,12 +1,21 @@
 <!DOCTYPE html> 
 <html class="no-js" lang="en"><!-- InstanceBegin template="/Templates/NEW-template.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <!-- Head BEGIN -->
 
-<!-- Head BEGIN -->
-<head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Head include BEGIN -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMG247C');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111504782-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -32,19 +41,26 @@
     <link rel="stylesheet" href="/assests/css/style.css" type="text/css">
 	<link rel="stylesheet" href="/assests/css/gogg-translate.css">
 	<link rel="stylesheet" href="/assests/css/search.css">
-    
-        
-     
-    
+
+
+
+
+<!-- Head include END -->
 </head>
-
-
-<!-- Head END -->
-
 <!-- Head END -->
 <body>
-
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMG247C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
      <img src="/assests/img/Franchot.svg" height="175vh" class="hidden-sm hidden-xs" style="top: 0; right: 0; position: absolute; z-index: 9999;" alt="Comptroller Peter Franchot">
+
+
+                    
+
+
+
 
 <div class="container-fluid"> 
     <div class="row">
@@ -98,6 +114,30 @@
                               <li class="dropdown dropdown-full-width" data-animation="fadeIn" style="padding-top: 4em;">
                               <a class="dropdown-toggle navbar-link navbar-link-adjust" data-toggle="dropdown" href="/index.php" style="font-weight: bold; font-size: 1.25em;"> Home </a>
                               </li> 
+                              
+                              
+                              <li class="dropdown dropdown-full-width dropdown-autoheight" data-animation="fadeIn" style="padding-top: 4em;">
+                                  
+                                  <a class="dropdown-toggle" data-toggle="dropdown" href="#"  style="font-weight: bold; font-size: 1.25em; background-color: red;"> COVID </a> 
+
+                                  <ul class="dropdown-menu no-border-radius no-padding" style="background-color: red;">
+                                                                    <span style="text-decoration: none">
+                                  
+                                  
+                                      <li class="dropdown dropdown-right widget-default clearfix pad-0-25-sm"><a href="\covid\"style=" font-size: 14px; font-weight: 700; color: white; text-align: justify;">COVID-19 Agency Response </a> </li><li class="dropdown dropdown-right widget-default clearfix pad-0-25-sm"><a href="\schedule\covid-business.php"style=" font-size: 14px; font-weight: 700; color: white; text-align: justify;">Carryout, Delivery & Outdoor Seating During COVID-19</a> </li><li class="dropdown dropdown-right widget-default clearfix pad-0-25-sm"><a href="\election-judges.php"style=" font-size: 14px; font-weight: 700; color: white; text-align: justify;">Election Judges Needed</a> </li></span>                                       
+                                      
+                                  
+                                </ul>
+                            </li>
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
                               <li class="dropdown dropdown-full-width dropdown-autoheight" data-animation="fadeIn" style="padding-top: 4em;">
                                   <a class="dropdown-toggle" data-toggle="dropdown" href="#"  style="font-weight: bold; font-size: 1.25em;"> File </a> 
                                   <ul class="dropdown-menu no-border-radius no-padding">
@@ -201,6 +241,20 @@
                                   </li>
                                 </ul>
                             </li> 
+
+                              
+                              
+                              
+                              
+                              
+                              
+                               
+                              
+                              
+                              
+                              
+                              
+                              
                              <li class="dropdown dropdown-autoheight dropdown-full-width" data-animation="fadeIn"  style="padding-top: 4em;">
                               <a class="dropdown-toggle navbar-link navbar-link-adjust" data-toggle="dropdown" href="#" style="font-weight: bold; font-size: 1.25em;"> Pay </a>
                               <div class="dropdown-menu no-border-radius no-padding" data-adjust="2">
@@ -546,8 +600,9 @@
 </div>    
 	<div class="solid-menus">                         
         
-                            
-<div style="width:100%; background-color:#FF0000; padding:5px;"><a href="\covid\" target="_blank" style="color:#FFFFFF; font-weight:bold; font-size:24px; padding:0px 0px;">COVID-19 Agency Response </a></div><div style="width:100%; background-color:#FF0000; padding:5px;"><a href="\schedule\covid-business.php" target="_blank" style="color:#FFFFFF; font-weight:bold; font-size:24px; padding:0px 0px;">Carryout, Delivery & Outdoor Seating During COVID-19</a></div><div style="width:100%; background-color:#FF0000; padding:5px;"><a href="\election-judges.php" target="_blank" style="color:#FFFFFF; font-weight:bold; font-size:24px; padding:0px 0px;">Election Judges Needed</a></div>        
+        
+<!---->
+        
         <!-- new format 2-->
 
         
@@ -570,7 +625,22 @@
         <span class="onoffswitch3-inner">
             <span class="onoffswitch3-active">
               <marquee class="scroll-text">
-                  T h e   C o m p t r o l l e r   o f   M a r y l a n d   h a s   r e l e a s e d   t h e   F Y   2 0 2 0   C l o s e o u t   R e p o r t   <i class="fas fa-angle-double-left"></i> P l e a s e   c l i c k   o n   o u r   n e w s   m e n u   a n d   s e l e c t   " p r e s s   r e l e a s e s "   f o r   f u l l   d e t a i l s   a n d   t o   r e a d   t h e   F Y   2 0 2 0   C l o s e o u t   R e p o r t    <i class="fas fa-angle-double-left"></i>                </marquee>
+                  
+                  
+                  
+                  
+                  
+                  
+                                    T h e   B o a r d   o f   R e v e n u e   E s t i m a t e s   m e t   t o d a y   t o   v o t e   o n   F Y 2 1   a n d   F Y 2 2   r e v e n u e   e s t i m a t e s   <i class="fas fa-angle-double-left"></i> R e a d   t h e   p r e s s   r e l e a s e   w i t h   t h e   f u l l   r e p o r t   b y   c l i c k i n g   o n   o u r   " N e w s "   m e n u   a n d   t h e n   c l i c k i n g   o n   " P r e s s   R e l e a s e s "   <i class="fas fa-angle-double-left"></i> O r   g o   d i r e c t l y   t o   t h e   r e p o r t   o n   o u r   B u r e a u   o f   R e v e n u e   E s t i m a t e s   p a g e   a n d   c l i c k   o n   t h e   " B o a r d   o f   R e v e n u e   E s t i m a t e s "  <i class="fas fa-angle-double-left"></i>                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                </marquee>
                 <span class="onoffswitch3-switch">BREAKING NEWS</span>
             </span>
         </span>

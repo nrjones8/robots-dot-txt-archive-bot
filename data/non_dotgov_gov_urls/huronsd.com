@@ -313,6 +313,9 @@ $(function(){
 					<li><a href="http://www.huronsd.com/visiting-huron/special-events" title="Special Events" target="">Special Events</a>
 
                     </li>
+					<li><a href="http://huronsd.com/shopandwin" title="shopandwin" target="">shopandwin</a>
+
+                    </li>
             </ul>
         </li>
         <li class="expandable"><span class="square"></span><a href="/economic-development" title="Economic Development">Economic<br /><span>Development </span></a><span class="trigger"></span>            <ul>

@@ -493,6 +493,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			</li>
 			<li class="menuLI level1 menuHidden li-915"><a class="menuA level1 menuHidden" href="administration/city_attorney.php" target="_self">City Attorney</a></li>
 			<li class="menuLI level1 menuHidden li-1148"><a class="menuA level1 menuHidden" href="government/city_auditor.php" target="_self">Administration</a></li>
+			<li class="menuLI level1 menuHidden li-1229"><a class="menuA level1 menuHidden" href="administration/careers.php" target="_self">Careers</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-276"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a></li>

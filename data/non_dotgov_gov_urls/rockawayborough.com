@@ -70,7 +70,7 @@
 
 <nav class="navbar navbar-expand-sm bg-rockblue navbar-dark">
 
-	<button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	<button class="navbar-toggler text-white" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"><span class="sr-only">Hamburger menu for small screens</span>
     <i class="fas fa-bars" title="sandwich menu icon for small screens, click to go see menu"></i>
 	</button> 
 
@@ -81,7 +81,7 @@
 
     
       <li class="nav-item">
-      <a class="nav-link" href="/"><i class="fa fa-home" style="font-size:20px;" title="home icon, click to go to front page"></i></a>
+      <a class="nav-link" href="/" aria-label="link to front page"><i class="fa fa-home" style="font-size:20px;" title="home icon, click to go to front page"></i></a>
     </li>
    
     
@@ -179,7 +179,7 @@
     </li>
    --> 
     <li class="nav-item">
-      <a class="nav-link" href="https://www.facebook.com/rockawayboroughhall" target="_blank">
+      <a class="nav-link" href="https://www.facebook.com/rockawayboroughhall" target="_blank" aria-label="link to facebook">
     <i class="fab fa-facebook-square fa-lg" title="click to go to Rockaway's Facebook page"></i></a>
     </li>
     

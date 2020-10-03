@@ -332,20 +332,19 @@ RZ.jsversion = 1.2//--><!]]></script>
 				</ul>
 			</li>
 			<li class="menuLI level1 menuHidden li-131 children"><a class="menuA level1 menuHidden" href="government/forms_and_applications.php" target="_self">Forms and Applications</a>
-				<ul class="menuUL level2 menuHidden ul-337">
-					<li class="menuLI level2 menuHidden li-337"><a class="menuA level2 menuHidden" href="government/forms_and_applications.php#outer-3 " target="_self">City of Frankfort Municipal Code</a></li>
+				<ul class="menuUL level2 menuHidden ul-338">
 					<li class="menuLI level2 menuHidden li-338"><a class="menuA level2 menuHidden" href="government/forms_and_applications.php#outer-4 " target="_self">Applications for Permits</a></li>
 					<li class="menuLI level2 menuHidden li-339"><a class="menuA level2 menuHidden" href="government/forms_and_applications.php#outer-5 " target="_self">Miscellaneous</a></li>
 				</ul>
 			</li>
 			<li class="menuLI level1 menuHidden li-132"><a class="menuA level1 menuHidden" href="government/staff_directory.php" target="_self">Staff Directory</a></li>
-			<li class="menuLI level1 menuHidden li-133"><a class="menuA level1 menuHidden" href="government/transparency_portal.php" target="_self">Transparency Portal</a></li>
-			<li class="menuLI level1 menuHidden li-134"><a class="menuA level1 menuHidden" href="government/forms_and_applications.php#outer-5 " target="_self">City charter</a></li>
-			<li class="menuLI level1 menuHidden li-135"><a class="menuA level1 menuHidden" href="government/forms_and_applications.php#outer-3 " target="_self">Zoning Ordinance</a></li>
+			<li class="menuLI level1 menuHidden li-134"><a class="menuA level1 menuHidden" href="Charter.PDF" target="_new">City Charter</a></li>
 			<li class="menuLI level1 menuHidden li-136"><a class="menuA level1 menuHidden" href="Frankfort 2015 MP update draft (2).pdf" target="_new">Master Plan</a></li>
 			<li class="menuLI level1 menuHidden li-137"><a class="menuA level1 menuHidden" href="http://www.benzieco.net" target="_new">Benzie County Government</a></li>
 			<li class="menuLI level1 menuHidden li-138"><a class="menuA level1 menuHidden" href="government/marina_launch_ramp.php" target="_self">Marina/Launch Ramp</a></li>
 			<li class="menuLI level1 menuHidden li-456"><a class="menuA level1 menuHidden" href="FRP_Final_1 28 15_small.pdf" target="_new">Recreation Plan</a></li>
+			<li class="menuLI level1 menuHidden li-573"><a class="menuA level1 menuHidden" href="government/municipal_code.php" target="_self">Municipal Code</a></li>
+			<li class="menuLI level1 menuHidden li-575"><a class="menuA level1 menuHidden" href="government/zoning.php" target="_self">Zoning Ordinance</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-6 children"><a class="menuA level0 menuDisplay" href="residents/index.php" target="_self">Residents</a>
@@ -354,7 +353,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-218"><a class="menuA level1 menuHidden" href="residents/area_utilities.php" target="_self">Area Utilities</a></li>
 			<li class="menuLI level1 menuHidden li-219"><a class="menuA level1 menuHidden" href="government/faq/index.php" target="_self">FAQ</a></li>
 			<li class="menuLI level1 menuHidden li-220"><a class="menuA level1 menuHidden" href="residents/trash_collection.php" target="_self">Trash Collection</a></li>
-			<li class="menuLI level1 menuHidden li-221"><a class="menuA level1 menuHidden" href="residents/general_forms___applications.php" target="_self">General Forms & Applications</a></li>
 			<li class="menuLI level1 menuHidden li-222"><a class="menuA level1 menuHidden" href="residents/new_residents.php" target="_self">New Residents</a></li>
 			<li class="menuLI level1 menuHidden li-223"><a class="menuA level1 menuHidden" href="residents/payment_center.php" target="_self">Payment Center</a></li>
 			<li class="menuLI level1 menuHidden li-224"><a class="menuA level1 menuHidden" href="residents/recycling_collection.php" target="_self">Recycling Collection</a></li>

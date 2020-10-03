@@ -33,15 +33,21 @@ img.emoji {
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.cityofcottleville.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-theme-css'  href='https://www.cityofcottleville.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='ctct_form_styles-css'  href='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ctct_form_styles-css'  href='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.9.0' type='text/css' media='all' />
 <link rel='stylesheet' id='cff-css'  href='https://www.cityofcottleville.com/wp-content/plugins/custom-facebook-feed/css/cff-style.css?ver=2.16.1' type='text/css' media='all' />
 <link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=5.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.cityofcottleville.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.22' type='text/css' media='all' />
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
 </style>
+<link rel='stylesheet' id='ffwd_frontend-css'  href='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/css/ffwd_frontend.css?ver=1.1.28' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_fonts-css'  href='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/css/fonts.css?ver=1.1.28' type='text/css' media='all' />
+<link rel='stylesheet' id='ffwd_mCustomScrollbar-css'  href='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/css/jquery.mCustomScrollbar.css?ver=1.1.28' type='text/css' media='all' />
 <link rel='stylesheet' id='tablepress-default-css'  href='https://www.cityofcottleville.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.12' type='text/css' media='all' />
 <link rel='stylesheet' id='x-stack-css'  href='https://www.cityofcottleville.com/wp-content/themes/pro/framework/dist/css/site/stacks/integrity-light.css?ver=3.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-qtip-css'  href='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/css/vendor/jquery.qtip.min.css?ver=3.1.33' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css'  href='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/css/default-calendar-grid.min.css?ver=3.1.33' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css'  href='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/css/default-calendar-list.min.css?ver=3.1.33' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-css'  href='https://www.cityofcottleville.com/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.7.1' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-white-css'  href='https://www.cityofcottleville.com/wp-content/plugins/ubermenu/pro/assets/css/skins/white.css?ver=5.5.1' type='text/css' media='all' />
 <link rel='stylesheet' id='ubermenu-font-awesome-all-css'  href='https://www.cityofcottleville.com/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css?ver=5.5.1' type='text/css' media='all' />
@@ -53,6 +59,21 @@ img.emoji {
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.2.22' id='tp-tools-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.22' id='revmin-js'></script>
+<script type='text/javascript' id='ffwd_frontend-js-extra'>
+/* <![CDATA[ */
+var ffwd_frontend_text = {"comment_reply":"Reply","view":"View","more_comments":"more comments","year":"year","years":"years","hour":"hour","hours":"hours","months":"months","month":"month","weeks":"weeks","week":"week","days":"days","day":"day","minutes":"minutes","minute":"minute","seconds":"seconds","second":"second","ago":"ago","ajax_url":"https:\/\/www.cityofcottleville.com\/wp-admin\/admin-ajax.php","and":"and","others":"others"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/js/ffwd_frontend.js?ver=1.1.28' id='ffwd_frontend-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/js/jquery.mobile.js?ver=1.1.28' id='ffwd_jquery_mobile-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/js/jquery.mCustomScrollbar.concat.min.js?ver=1.1.28' id='ffwd_mCustomScrollbar-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/js/jquery.fullscreen-0.4.1.js?ver=0.4.1' id='jquery-fullscreen-js'></script>
+<script type='text/javascript' id='ffwd_gallery_box-js-extra'>
+/* <![CDATA[ */
+var ffwd_objectL10n = {"ffwd_field_required":"field is required.","ffwd_mail_validation":"This is not a valid email address.","ffwd_search_result":"There are no images matching your search."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/wd-facebook-feed/js/ffwd_gallery_box.js?ver=1.1.28' id='ffwd_gallery_box-js'></script>
 <link rel="https://api.w.org/" href="https://www.cityofcottleville.com/wp-json/" /><style id="ubermenu-custom-generated-css">
 /** Font Awesome 4 Compatibility **/
 .fa{font-style:normal;font-variant:normal;font-weight:normal;font-family:FontAwesome;}
@@ -166,7 +187,7 @@ img.emoji {
 
     
 <div class="x-bg" aria-hidden="true" >
-  <div class="x-bg-layer-lower-image" style=" background-image: url(https://www.cityofcottleville.com/wp-content/uploads/2018/05/1237_Cottleville_MO_Web_Header_v5.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;" ></div>  </div>
+  <div class="x-bg-layer-lower-image" style=" background-image: url(http://www.cityofcottleville.com/wp-content/uploads/2018/05/1237_Cottleville_MO_Web_Header_v5.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;" ></div>  </div>
 
       <div class="e719-1 x-bar-content">
       
@@ -186,7 +207,7 @@ img.emoji {
 
     
 <div class="x-bg" aria-hidden="true" >
-  <div class="x-bg-layer-lower-image" style=" background-image: url(https://www.cityofcottleville.com/wp-content/uploads/2018/05/1237_Cottleville_MO_Web_Header_Mobile_v1.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;" ></div>  </div>
+  <div class="x-bg-layer-lower-image" style=" background-image: url(http://www.cityofcottleville.com/wp-content/uploads/2018/05/1237_Cottleville_MO_Web_Header_Mobile_v1.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;" ></div>  </div>
 
       <div class="e719-3 x-bar-content">
       
@@ -284,7 +305,7 @@ img.emoji {
   
   
 <span class="e448-3 x-image" >
-  <img alt="Image" src="https://www.cityofcottleville.com/wp-content/uploads/2018/08/1237_Cottleville_MO_Web_Awards_Strip_v4.jpg" width="1024" height="150" >
+  <img alt="Image" src="https://www.cityofcottleville.com/wp-content/uploads/2018/08/1237_Cottleville_MO_Web_Awards_Strip_v4.jpg" width="1024" height="150">
 </span>
 
 </div>
@@ -327,12 +348,21 @@ img.emoji {
 <script type="text/javascript">
 var cfflinkhashtags = "true";
 </script>
-<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=1.8.8' id='recaptcha-v2-js'></script>
-<script async="async" defer type='text/javascript' src='//www.google.com/recaptcha/api.js?onload=renderReCaptcha&#038;render=explicit&#038;ver=1.8.8' id='recaptcha-lib-v2-js'></script>
-<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.8.8' id='ctct_frontend_forms-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=1.9.0' id='recaptcha-v2-js'></script>
+<script async="async" defer type='text/javascript' src='//www.google.com/recaptcha/api.js?onload=renderReCaptcha&#038;render=explicit&#038;ver=1.9.0' id='recaptcha-lib-v2-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.9.0' id='ctct_frontend_forms-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.16.1' id='cffscripts-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/themes/pro/cornerstone/assets/dist/js/site/cs.0ce70e6.js' id='cornerstone-site-body-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/themes/pro/framework/dist/js/site/x.js?ver=3.2.3' id='x-site-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/js/vendor/jquery.qtip.min.js?ver=3.1.33' id='simcal-qtip-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/js/vendor/moment.min.js?ver=3.1.33' id='simcal-fullcal-moment-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/js/vendor/moment-timezone-with-data.min.js?ver=3.1.33' id='simcal-moment-timezone-js'></script>
+<script type='text/javascript' id='simcal-default-calendar-js-extra'>
+/* <![CDATA[ */
+var simcal_default_calendar = {"ajax_url":"\/wp-admin\/admin-ajax.php","nonce":"b845529d10","locale":"en_US","text_dir":"ltr","months":{"full":["January","February","March","April","May","June","July","August","September","October","November","December"],"short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]},"days":{"full":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"meridiem":{"AM":"AM","am":"am","PM":"PM","pm":"pm"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/js/default-calendar.min.js?ver=3.1.33' id='simcal-default-calendar-js'></script>
 <script type='text/javascript' id='ubermenu-js-extra'>
 /* <![CDATA[ */
 var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"959","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","submenu_indicator_close_mobile":"on","collapse_after_scroll":"on","v":"3.7.1","configurations":["main"],"ajax_url":"https:\/\/www.cityofcottleville.com\/wp-admin\/admin-ajax.php","plugin_url":"https:\/\/www.cityofcottleville.com\/wp-content\/plugins\/ubermenu\/","disable_mobile":"off","prefix_boost":"","use_core_svgs":"off","aria_role_navigation":"off","aria_nav_label":"off","aria_expanded":"off","aria_hidden":"off","aria_controls":"","aria_responsive_toggle":"off","icon_tag":"i","esc_close_mobile":"on","theme_locations":{"primary":"Primary Menu","footer":"Footer Menu"}};
@@ -342,11 +372,12 @@ var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4' id='jquery-effects-core-js'></script>
 <script type='text/javascript' id='the-grid-js-extra'>
 /* <![CDATA[ */
-var tg_global_var = {"url":"https:\/\/www.cityofcottleville.com\/wp-admin\/admin-ajax.php","nonce":"686545d162","is_mobile":null,"mediaelement":"","mediaelement_ex":null,"lightbox_autoplay":"","debounce":"","meta_data":null,"main_query":{"page":0,"pagename":"","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":10,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"}};
+var tg_global_var = {"url":"https:\/\/www.cityofcottleville.com\/wp-admin\/admin-ajax.php","nonce":"3f613439e1","is_mobile":null,"mediaelement":"","mediaelement_ex":null,"lightbox_autoplay":"","debounce":"","meta_data":null,"main_query":{"page":0,"pagename":"","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":10,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"}};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/the-grid/frontend/assets/js/the-grid.min.js?ver=2.6.0' id='the-grid-js'></script>
+<script type='text/javascript' src='https://www.cityofcottleville.com/wp-content/plugins/google-calendar-events/assets/js/vendor/imagesloaded.pkgd.min.js?ver=3.1.33' id='simplecalendar-imagesloaded-js'></script>
 <script type='text/javascript' src='https://www.cityofcottleville.com/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
-<script type="text/javascript">var to_like_post = {"url":"https://www.cityofcottleville.com/wp-admin/admin-ajax.php","nonce":"654b343a83"};!function(t){"use strict";t(document).ready(function(){t(document).on("click",".to-post-like:not('.to-post-like-unactive')",function(e){e.preventDefault();var o=t(this),n=o.data("post-id"),s=parseInt(o.find(".to-like-count").text());return o.addClass("heart-pulse"),t.ajax({type:"post",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:"to_like_post",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr("title",e.title),o.find(".to-like-count").text(e.count),o.removeClass(e.remove_class+" heart-pulse").addClass(e.add_class))}}),!1})})}(jQuery);</script>
+<script type="text/javascript">var to_like_post = {"url":"https://www.cityofcottleville.com/wp-admin/admin-ajax.php","nonce":"30886a2fb3"};!function(t){"use strict";t(document).ready(function(){t(document).on("click",".to-post-like:not('.to-post-like-unactive')",function(e){e.preventDefault();var o=t(this),n=o.data("post-id"),s=parseInt(o.find(".to-like-count").text());return o.addClass("heart-pulse"),t.ajax({type:"post",url:to_like_post.url,data:{nonce:to_like_post.nonce,action:"to_like_post",post_id:n,like_nb:s},context:o,success:function(e){e&&((o=t(this)).attr("title",e.title),o.find(".to-like-count").text(e.count),o.removeClass(e.remove_class+" heart-pulse").addClass(e.add_class))}}),!1})})}(jQuery);</script>
 </body>
 </html>

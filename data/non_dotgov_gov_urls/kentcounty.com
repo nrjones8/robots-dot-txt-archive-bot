@@ -26,8 +26,7 @@
 	<link href="/modules/mod_slideshowck/themes/default/css/camera.css" rel="stylesheet" type="text/css" />
 	<link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css" />
 	<style type="text/css">
-#btcontentslider107 .bt_handles{top: 0px !important;right: 5px !important}
-		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}#camera_wrap_159 .camera_pag_ul li img {height:75px;}
+#camera_wrap_159 .camera_pag_ul li img {height:75px;}
 #camera_wrap_159 .camera_caption {
 	display: block;
 	position: absolute;
@@ -40,7 +39,7 @@
 }
 
 	</style>
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"731bfd669488c18f4d659b01edc016f7","system.paths":{"root":"","base":""}}</script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"a6ed53a1d834820316dc706ce9135a85","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
@@ -507,7 +506,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <div class="t3-off-canvas-body">
     <div class="t3-module moduledark_menu " id="Mod108"><div class="module-inner"><div class="module-ct"><ul class="nav nav-pills nav-stacked menudarkmenu">
-<li class="item-176"><a href="/commissioners/meeting-agenda" class="">Commissioners Minutes </a></li><li class="item-177"><a href="/commissioners/meeting-agenda" class="">Commissioners Agenda </a></li><li class="item-179"><a href="/human-resources/employment" class="">Employment Opportunities </a></li><li class="item-181"><a href="/events" class="">Events Calendar </a></li><li class="item-1229"><a href="/coronavirus" class="">CoronaVirus Updates</a></li></ul>
+<li class="item-176"><a href="/commissioners/meeting-agenda" class="">Commissioners Minutes </a></li><li class="item-177"><a href="/commissioners/meeting-agenda" class="">Commissioners Agenda </a></li><li class="item-179"><a href="/human-resources/employment" class="">Employment Opportunities </a></li><li class="item-181"><a href="/events" class="">Events Calendar </a></li><li class="item-1229"><a href="/coronavirus" class="">CoronaVirus Updates</a></li><li class="item-1239"><a href="/payment-options" class="">Payment Options</a></li><li class="item-1240"><a href="/kcfaq" class="">FAQs</a></li></ul>
 </div></div></div><div class="t3-module module " id="Mod111"><div class="module-inner"><div class="module-ct">
 
 <div class="custom"  >
@@ -1102,7 +1101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <div class="custom"  >
-	<div style="padding: 4px; border-radius: 8px; width: 100%; background-color: #48769f; border: 2px solid #444444; text-align: center;" class="h3"><span style="color: #ffffff;"><strong><span class="h2 h4"><br />For Kent County CoronaVirus Updates &amp; County Building/Facility Closures, visit - <span style="color: #ffff99;"><a href="/coronavirus" style="color: #ffff99;">https://www.kentcounty.com/coronavirus</a></span><br /><br /></span></strong></span><span style="color: #ffffff;"><strong><span class="h2 h4">
+	<div style="padding: 4px; border-radius: 8px; width: 100%; background-color: #48769f; border: 2px solid #444444; text-align: center;" class="h3"><span style="color: #ffffff;"><strong><span class="h2 h4"><br /> <span style="color: #ffffff;"><a style="color: #ffffff;" href="/payment-options"><span style="color: #ffff99;" class="h1">Kent County Payment Options</span></a></span><br /><br /> For Kent County CoronaVirus Updates &amp; County Building/Facility Closures, visit - <span style="color: #ffff99;"><a href="/coronavirus" style="color: #ffff99;">https://www.kentcounty.com/coronavirus</a></span><br /><br /></span></strong></span><span style="color: #ffffff;"><strong><span class="h2 h4">
 <p>To report mosquito problems to the Maryland Department of Agriculture , visit <a style="color: #ffff99;" href="https://www.doit.state.md.us/selectsurvey/TakeSurvey.aspx?SurveyID=740Kl54#" target="_blank" rel="noopener">https://www.doit.state.md.us/selectsurvey/TakeSurvey.aspx?SurveyID=740Kl54#</a></p>
 </span></strong></span><span style="color: #ffffff;"><strong><span class="h2 h4"></span></strong></span></div></div>
     
@@ -1282,7 +1281,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<!-- SIDEBAR 1 -->
 		<div class="t3-sidebar t3-sidebar-1 col-xs-6  col-md-3  col-md-pull-6 ">
 			<div class="t3-module moduledark_menu " id="Mod108"><div class="module-inner"><div class="module-ct"><ul class="nav nav-pills nav-stacked menudarkmenu">
-<li class="item-176"><a href="/commissioners/meeting-agenda" class="">Commissioners Minutes </a></li><li class="item-177"><a href="/commissioners/meeting-agenda" class="">Commissioners Agenda </a></li><li class="item-179"><a href="/human-resources/employment" class="">Employment Opportunities </a></li><li class="item-181"><a href="/events" class="">Events Calendar </a></li><li class="item-1229"><a href="/coronavirus" class="">CoronaVirus Updates</a></li></ul>
+<li class="item-176"><a href="/commissioners/meeting-agenda" class="">Commissioners Minutes </a></li><li class="item-177"><a href="/commissioners/meeting-agenda" class="">Commissioners Agenda </a></li><li class="item-179"><a href="/human-resources/employment" class="">Employment Opportunities </a></li><li class="item-181"><a href="/events" class="">Events Calendar </a></li><li class="item-1229"><a href="/coronavirus" class="">CoronaVirus Updates</a></li><li class="item-1239"><a href="/payment-options" class="">Payment Options</a></li><li class="item-1240"><a href="/kcfaq" class="">FAQs</a></li></ul>
 </div></div></div><div class="t3-module module " id="Mod111"><div class="module-inner"><div class="module-ct">
 
 <div class="custom"  >
@@ -1302,101 +1301,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
 		<!-- SIDEBAR 2 -->
 		<div class="t3-sidebar t3-sidebar-2 col-xs-6  col-md-3 ">
-			<div class="t3-module module " id="Mod107"><div class="module-inner"><h3 class="module-title "><span>Upcoming Events</span></h3><div class="module-ct"><div id="btcontentslider107" style="display:none;width:auto" class="bt-cs">
-			<div class="slides_container" style="width:auto;">
-
-			<div class="slide" style="width:auto">
-					<div class="bt-row bt-row-first"  style="width:100%" >
-				<div class="bt-inner">
-								
-										<a class="bt-title" target="_parent"
-						title="National Music Festival"
-						href="/events/annual/25-national-music-festival"> National Music Festival </a><br />
-															<div class="bt-center">
-					<a target="_parent"
-						class="bt-image-link"
-						title="National Music Festival" href="/events/annual/25-national-music-festival">
-						<img class="hovereffect" src="/images/articles/icons/national_music.jpg" alt="National Music Festival"  style="width:180px;" title="National Music Festival" />
-					</a>
-					</div>
-										
-										<div class="bt-introtext">
-					National Music Festival(Rescheduled to&nbsp;2021)
-June 2021 (date to be determined)Various location...					</div>
-					
-										<p class="readmore">
-						<a target="_parent"
-							title="National Music Festival"
-							href="/events/annual/25-national-music-festival"> Read more						</a>
-					</p>
-					
-				</div>
-				<!--end bt-inner -->
-			</div>
-			<!--end bt-row -->
-			<div class="bt-row-separate"></div>						<div class="bt-row bt-row-last"  style="width:100%" >
-				<div class="bt-inner">
-								
-										<a class="bt-title" target="_parent"
-						title="Legacy Day"
-						href="/events/annual/418-legacy-day"> Legacy Day </a><br />
-															<div class="bt-center">
-					<a target="_parent"
-						class="bt-image-link"
-						title="Legacy Day" href="/events/annual/418-legacy-day">
-						<img class="hovereffect" src="/images/tourism/Legacy-Day-Rack-Card-2020_-_Copy.jpg" alt="Legacy Day"  style="width:180px;" title="Legacy Day" />
-					</a>
-					</div>
-										
-										<div class="bt-introtext">
-					Legacy Day (Join us Virtually)
-August 15, 2020
-Legacy Day celebrates the rich cultural heritage of...					</div>
-					
-										<p class="readmore">
-						<a target="_parent"
-							title="Legacy Day"
-							href="/events/annual/418-legacy-day"> Read more						</a>
-					</p>
-					
-				</div>
-				<!--end bt-inner -->
-			</div>
-			<!--end bt-row -->
-									<div style="clear: both;"></div>
-
-		</div>
-		<!--end bt-main-item page	-->
-			</div>
-</div>
-<!--end bt-container -->
-<div style="clear: both;"></div>
-
-<script type="text/javascript">	
-	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
-	btcModuleIds.push(107);
-	btcModuleOpts.push({
-			slideEasing : 'easeInQuad',
-			fadeEasing : 'easeInQuad',
-			effect: 'slide,slide',
-			preloadImage: 'https://www.kentcounty.com//modules/mod_bt_contentslider/tmpl/images/loading.gif',
-			generatePagination: true,
-			play: 0,						
-			hoverPause: true,	
-			slideSpeed : 500,
-			autoHeight:true,
-			fadeSpeed : 500,
-			equalHeight:false,
-			width: 'auto',
-			height: 'auto',
-			pause: 100,
-			preload: true,
-			paginationClass: 'bt_handles',
-			generateNextPrev:false,
-			prependPagination:true,
-			touchScreen:1	});
-</script>
-
+			<div class="t3-module module " id="Mod107"><div class="module-inner"><h3 class="module-title "><span>Upcoming Events</span></h3><div class="module-ct"><div>No result...</div>
 </div></div></div>
 		</div>
 		<!-- //SIDEBAR 2 -->

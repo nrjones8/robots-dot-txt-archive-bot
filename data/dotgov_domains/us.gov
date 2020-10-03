@@ -94,7 +94,7 @@ window.onload = function accessible() {
 
 /* The following script is injected from /var/www/html/sites/all/modules/custom/media_link_alter/media_link_alter.module */
 jQuery(document).ready( function () {
-    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
+    var linksAltered = alterMediaLinks({"pdf":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PDF, <a href=\"https:\/\/get2.adobe.com\/reader\/\">Download Adobe Reader<\/a><\/span>)","xls":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">XLS, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10\">Download Excel Reader<\/a><\/span>)","ppt":"(<span aria-labelledby=\"usorg[ID]\" aria-describedby=\"usorg[ID]\">PPT, <a href=\"http:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=13\">Download Power Point Reader<\/a><\/span>)"});
 });
 
 //--><!]]>
@@ -4810,7 +4810,7 @@ termId = '10961';
 
                                             
     <a aria-describedby="sr-next"           aria-expanded="false" data-href="/how-to-vote" href="#"
-         >How to Vote</a>
+         >How, Where, and When to Vote</a>
 
     <ul>        
           
@@ -5078,7 +5078,7 @@ termId = '10961';
             <ul><li><a href="/midterm-state-and-local-elections">Congressional, State, and Local Elections</a></li><li><a href="/election-office">Find My State or Local Election Office Website</a></li><li><a href="/election">Presidential Election Process</a></li></ul>
           </li>
           <li class="usa-megamenu-col">
-            <ul><li><a href="/voting-and-election-definitions">Common Voting and Election Terms</a></li><li><a href="/voter-research">Decide Who to Vote For</a></li><li><a href="/how-to-vote">How to Vote</a></li>            </ul>
+            <ul><li><a href="/voting-and-election-definitions">Common Voting and Election Terms</a></li><li><a href="/voter-research">Decide Who to Vote For</a></li><li><a href="/how-to-vote">How, Where, and When to Vote</a></li>            </ul>
           </li>
           <li class="topic-link topic-nav-ballot">
             <a class="usa-button" href="/voting">Voting and Elections</a>

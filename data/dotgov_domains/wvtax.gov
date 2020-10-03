@@ -37,7 +37,7 @@ document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYA
 
 <!-- Code For Google Translate -->
 <meta name="google-translate-customization" content="7486d167d7397280-080348131c7a8e67-ga9fa1db8a9048044-10" /></meta>	
-	
+
 </head>
 
 <body onload="javascript:_spBodyOnLoadWrapper();">
@@ -73,7 +73,7 @@ var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
 var g_wsaListTemplateId = 850;
 var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{3adea590-8da7-41d3-834e-4fbc75c9b6de}",pageItemId:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};
                             function DoCallBack(filterText)
-                            {WebForm_DoCallback('ctl00$m$g_ae174747_3925_4d02_8f35_94bbd9060b66',filterText,UpdateFilterCallback,0,CallBackError,true)
+                            {WebForm_DoCallback('ctl00$m$g_a381b02b_6e60_4a80_baa1_559420b00dbb',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
                             function CallBackError(result, clientsideString)
                             {                
@@ -88,7 +88,7 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 </script>
 
 <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKyg/YQAvqKyPAKApjn6fIDArSdh7EDApjn2fIDqaM36L1eqFZ0g/As7ya1XiTrFnY=" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKyg/YQAvqKyPAKAr61lIQDAumpg0ACvrWEhAPQ7XGdOqmHKYw6wYDnzMLDrHrj5Q==" />
 
 
 
@@ -126,7 +126,7 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 <div id="search">
 <div id="searchBox">
 
-
+<!--
 <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:335px">
 	<tr>
 		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:335px;" ><div id="SRSB"> <div id="ctl00_g_bc3a5b60_51d3_40ea_b169_1d1f10fa9b00">
@@ -139,13 +139,13 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 	</tr>
 </table> 
 
+-->
 
 
 
 
 
 
-<!--
 <script type="text/javascript">
 $(document).ready(function() { 
 //attach function to input and make text grayed out on page load 
@@ -163,7 +163,7 @@ function textReplacement(input){ //input focus text function
     }); 
 } 
 </script>
-<input onkeypress="javascript:OverrrideForms(this);" type="text" id="GoogleSearch" class="GoogleSearchTextBox hidden-print" value="Search this site" style="vertical-align:top;"/><input name='btnG' onclick="javascript:SearchGoogleAlternate();return false;" type='image' value='Search' src='/images/searchbtn.png' style="vertical-align:top;" class="searchbtn" alt='Search'/><!-- go Button -->
+<input onkeypress="javascript:OverrrideForms(this);" type="text" id="GoogleSearch" class="GoogleSearchTextBox hidden-print" placeholder="Search this site" style="vertical-align:top;"/><input name='btnG' onclick="javascript:SearchGoogleAlternate();return false;" type='image' value='Search' src='/images/searchbtn.png' style="vertical-align:top;" class="searchbtn" alt='Search'/><!-- go Button -->
 
 </div>
 </div>
@@ -252,27 +252,27 @@ function textReplacement(input){ //input focus text function
 <div id="search" class="hidden-print">
 <div id="searchBox">
 
-
+<!--
 
 <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%">
 	<tr>
-		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:100%;" ><div id="SRSB"> <div id="ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006">
-			<input name="ctl00$g_0d56fa2d_3465_48ca_ad9d_afea09ee8006$ctl00" type="hidden" id="ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl00" value="https://tax.wv.gov" /><table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" class="noindex" OnlyForMePart="true" allowDelete="false" style="width:100%;" ><div id="SRSB"> <div id="ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa">
+			<input name="ctl00$g_aececed4_69bf_4ef9_9e7e_fed5f59717aa$ctl00" type="hidden" id="ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl00" value="https://tax.wv.gov" /><table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
 				<tr class="ms-sbrow">
-					<td class="ms-sbcell"><input name="ctl00$g_0d56fa2d_3465_48ca_ad9d_afea09ee8006$SC0F828A7_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return SC0F828A7_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value=1;}" onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value = '0'} else {document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value='1';}" style="width:146px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_go" title="Search" href="javascript:SC0F828A7_Submit()"><img title="Search" onmouseover="this.src='\u002fimages\u002fsearchbtn.png'" onmouseout="this.src='\u002fimages\u002fsearchbtn.png'" class="srch-gosearchimg" alt="Search" src="/images/searchbtn.png" border="0" /></a></td><td class="ms-sbLastcell"></td>
+					<td class="ms-sbcell"><input name="ctl00$g_aececed4_69bf_4ef9_9e7e_fed5f59717aa$SB9006185_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return SB9006185_OSBEK(event);" onfocus="if (document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value=1;}" onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value = '0'} else {document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value='1';}" style="width:146px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_go" title="Search" href="javascript:SB9006185_Submit()"><img title="Search" onmouseover="this.src='\u002fimages\u002fsearchbtn.png'" onmouseout="this.src='\u002fimages\u002fsearchbtn.png'" class="srch-gosearchimg" alt="Search" src="/images/searchbtn.png" border="0" /></a></td><td class="ms-sbLastcell"></td>
 				</tr>
-			</table><input name="ctl00$g_0d56fa2d_3465_48ca_ad9d_afea09ee8006$ctl04" type="hidden" id="ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04" value="0" />
+			</table><input name="ctl00$g_aececed4_69bf_4ef9_9e7e_fed5f59717aa$ctl04" type="hidden" id="ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04" value="0" />
 		</div></div></div></td>
 	</tr>
 </table> 
 
+-->
 
-<!--
 
 <script type="text/javascript">
 $(document).ready(function() { 
 //attach function to input and make text grayed out on page load 
-textReplacement($('#GoogleSearch').css("color", "#414042")); 
+textReplacement($('#GoogleSearch2').css("color", "#414042")); 
 }); 
 // the function: 
 
@@ -286,7 +286,7 @@ function textReplacement(input){ //input focus text function
     }); 
 } 
 </script>
-<input onkeypress="javascript:OverrrideForms(this);" type="text" id="GoogleSearch" class="GoogleSearchTextBox hidden-print" value="Search this site" style="vertical-align:top;" size='15'/><input name='btnG' onclick="javascript:SearchGoogleAlternate();return false;" type='image' value='Search' src='/images/searchbtn.png' style="vertical-align:top;" class="searchbtn" alt='Search'/><!-- go Button -->
+<input onkeypress="javascript:OverrrideForms(this);" type="text" id="GoogleSearch2" class="GoogleSearchTextBox hidden-print" placeholder="Search this site" style="vertical-align:top;" size='15'/><input name='btnG' onclick="javascript:SearchGoogleAlternate2();return false;" type='image' value='Search' src='/images/searchbtn.png' style="vertical-align:top;" class="searchbtn" alt='Search'/><!-- go Button -->
 </div>
 </div>
 </div>
@@ -702,18 +702,18 @@ function _RegisterWebPartPageCUI()
         }
     }
 }
-ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_m_g_ae174747_3925_4d02_8f35_94bbd9060b66_init() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';function ctl00_m_g_21c1e706_ad25_447a_b6ba_d28170605a40_init() {
     EnsureScript('mediaplayer.js', 
         typeof(mediaPlayer) != 'undefined' ? typeof(mediaPlayer.attachToMediaLinks) : 'undefined');
     ExecuteOrDelayUntilScriptLoaded(
         function() {
             if (Silverlight.isInstalled('2.0')) {
                 mediaPlayer.createOverlayPlayer();
-                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_m_g_ae174747_3925_4d02_8f35_94bbd9060b66'), ["wmv","wma","mp3","mp4"],'');
+                mediaPlayer.attachToMediaLinks(document.getElementById('cbqwpctl00_m_g_21c1e706_ad25_447a_b6ba_d28170605a40'), ["wmv","wma","mp3","mp4"],'');
             }
         }, 'mediaplayer.js');
 }
-if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_m_g_ae174747_3925_4d02_8f35_94bbd9060b66_init'); }
+if (_spBodyOnLoadFunctionNames != null) { _spBodyOnLoadFunctionNames.push('ctl00_m_g_21c1e706_ad25_447a_b6ba_d28170605a40_init'); }
 //]]>
 </script>
 <script type="text/javascript" language="JavaScript" defer="defer">
@@ -734,20 +734,20 @@ S60789B05_Submit();return false;
 // -->
 </script><script type="text/javascript" language="JavaScript" defer="defer">
 <!--
-function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function SC0F828A7_Submit() {if (document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value == '0') { document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04','ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords',null,true,false,null,'ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl00',null,null,'This Site','https:\u002f\u002ftax.wv.gov\u002fpages\u002fsitesearch.aspx', 'This Site','This List', 'This Folder', 'Related Sites', 'https:\u002f\u002ftax.wv.gov\u002fpages\u002fsitesearch.aspx', '', 'Please enter one or more search words.');if (document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_ctl04').value == '0') { document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords').value=''; }}
+function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function SB9006185_Submit() {if (document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value == '0') { document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04','ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords',null,true,false,null,'ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl00',null,null,'This Site','https:\u002f\u002ftax.wv.gov\u002fpages\u002fsitesearch.aspx', 'This Site','This List', 'This Folder', 'Related Sites', 'https:\u002f\u002ftax.wv.gov\u002fpages\u002fsitesearch.aspx', '', 'Please enter one or more search words.');if (document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_ctl04').value == '0') { document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords').value=''; }}
 // -->
 </script><script type="text/javascript" language="JavaScript" >
 // append an onload event handler
 $addHandler(window, 'load', function() {
-  document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords').name = 'InputKeywords';
+  document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords').name = 'InputKeywords';
 });
-function SC0F828A7_OSBEK(event1) { 
+function SB9006185_OSBEK(event1) { 
 if((event1.which == 10) || (event1.which == 13))
 {   
-SC0F828A7_Submit();return false;
+SB9006185_Submit();return false;
 }
 }
-{ var searchTextBox = document.getElementById('ctl00_g_0d56fa2d_3465_48ca_ad9d_afea09ee8006_SC0F828A7_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
+{ var searchTextBox = document.getElementById('ctl00_g_aececed4_69bf_4ef9_9e7e_fed5f59717aa_SB9006185_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
 </script><script type="text/javascript">
 // <![CDATA[
 // ]]>

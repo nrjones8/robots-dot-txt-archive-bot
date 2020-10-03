@@ -21,8 +21,8 @@
    <TITLE>Error</TITLE>
 </HEAD>
 
-<body background="http://spcp6.dol.state.fl.us:443/cpicons/statusBG.jpg">
-<a href="http://spcp6.dol.state.fl.us:443/"><img src="http://spcp6.dol.state.fl.us:443/Docs/docmast.gif" alt="Caching Proxy Version 8.0"></a>
+<body background="http://spcp5.dol.state.fl.us:443/cpicons/statusBG.jpg">
+<a href="http://spcp5.dol.state.fl.us:443/"><img src="http://spcp5.dol.state.fl.us:443/Docs/docmast.gif" alt="Caching Proxy Version 8.0"></a>
 <H3>Error 404 - Not found - file doesn't exist or is read protected [even tried multi].</H3>
 <STRONG>Explanation:</STRONG> The requested file could not be found on the server.  The 
 server tried to match the filename exactly as specified and with every known file extension.

@@ -1,7 +1,263 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /robots.txt was not found on this server.</p>
-</body></html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="format-detection" content="telephone=no"/>
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    <title>404</title>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PDWVPD');</script>
+<!-- End Google Tag Manager -->
+<!-- Bootstrap -->
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+
+<!-- Links -->
+<!-- link rel="stylesheet" href="/css/jquery.fancybox.css" -->
+<link rel="stylesheet" href="/css/search.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<!-- JS -->
+<script src="/js/jquery.js"></script>
+<script src="/js/jquery-migrate-1.2.1.min.js"></script>
+	
+<!-- usa.gov search code -->
+<script type="text/javascript">
+//<![CDATA[
+      var usasearch_config = { siteHandle:"chemcatbio" };
+
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      document.getElementsByTagName("head")[0].appendChild(script);
+
+//]]>
+</script>
+
+<!--[if lt IE 9]>
+	<div style=' clear: both; text-align:center; position: relative;'>
+		<a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+			<img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+				 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+		</a>
+	</div>
+	<script src="js/html5shiv.js"></script>
+<![endif]-->
+	
+<!-- Google Analytics-->
+<script type="text/javascript">
+	(function() {
+		var so = document.createElement('script'); so.type = 'text/javascript'; so.async = true;
+		so.src = '//www.nrel.gov/includes/ga/orgs.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(so, s);
+	})();
+</script>
+<script type="text/javascript">
+	$(document).ready( function() {
+		$('body').iconomatic({
+			 ajax		 :	true
+			,dataMode	 :	true
+		});
+	});
+</script>
+
+
+
+</head>
+
+<body>
+<div class="page" id="content">
+   
+    <header>
+        <!--stopindex-->    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PDWVPD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a href="#content" class="sr-only">Skip to main content</a>
+<div id="stuck_container" class="stuck_container">
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="navbar-header">
+                        <a href="/" class="navbar-left">
+	                        <img src="/images/chemcatbio-logo-reverse-269x98.png" alt="ChemCatBio logo">
+                        </a>
+                </div>
+
+                <ul class="navbar-nav sf-menu" data-type="navbar">
+                    
+                    <li class="dropdown" id="about">
+                        <a href="/about.html"><span>About</span></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="/leadership.html">Leadership</a>
+                            </li>
+                            <li>
+                                <a href="/rd-portfolio.html">R&amp;D Portfolio</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li class="dropdown" id="capabilities">
+                        <a href="/capabilities.html"><span>Capabilities</span></a>
+                        <ul class="dropdown-menu">
+                        	<li>
+                                <a href="/modeling.html">Modeling, Interactive Tools, &amp; Databases</a>
+                            </li>
+                            <li>
+                                <a href="/synthesis.html">Materials Synthesis</a>
+                            </li>
+                            <li>
+                                <a href="/characterization.html">Advanced Catalyst Characterization</a>
+                            </li>
+                            <li>
+                                <a href="/evaluation.html">Catalyst Performance Evaluation</a>
+                            </li>
+                            <li>
+                                <a href="/techno-economic-sustainability-analysis.html">Techno-Economic &amp; Sustainability Analysis</a>
+                            </li>
+                        </ul>
+                    </li>
+                    
+                    <li id="data">
+                    	<a href="https://datahub.chemcatbio.org/"><span>Data</span></a>
+                    </li>
+                    
+                    <li id="tools">
+                    	<a href="/tools.html"><span>Tools</span></a>
+                    </li>
+                  	
+                    <li id="publications">
+                        <a href="/publications.html"><span>Publications</span></a>
+                    </li>
+					
+                   <li id="webinars">
+                        <a href="/webinars.html"><span>Webinars</span></a>
+                    </li>
+                   
+                    <li id="news">
+                        <a href="/news.html"><span>News</span></a>
+                    </li>
+                    
+                    <li id="contact">
+                        <a href="/contacts.html"><span>Contact</span></a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="sform">
+                <a class="search-form_toggle" href="#"></a>
+            </div>
+
+            <form class="search-form" action="https://search.usa.gov/search" method="GET" accept-charset="utf-8" id="search_form">
+            <input name="utf8" type="hidden" value="&#x2713;" />
+            	<input id="affiliate" name="affiliate" type="hidden" value="chemcatbio" />
+                <label class="search-form_label" for="query">
+                    <input class="search-form_input usagov-search-autocomplete" type="text" name="query" id="query" autocomplete="off" placeholder="Search"/>
+                    <span class="search-form_liveout"></span>
+                </label>
+                <input type="hidden" name="commit" value="Search" />
+                <button class="search-form_submit fa-search" type="submit"></button>
+            </form>
+
+</div>
+<!--startindex-->
+    </header>
+    
+  <!--========================================================
+                            CONTENT
+  =========================================================-->
+
+    <main>
+
+      <section class="well well5 sect-404 bg1">
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 col-sm-12 col-xs-12 center991">
+              <img src="/images/404.jpg" alt="">
+            </div>
+            <div class="col-md-7 col-sm-12 col-xs-12 center991">
+              <em>
+                404 Error
+              </em>
+              <p class="lead">
+                Sorry, page not found
+              </p>
+              <p>
+                The page you are looking for might have been removed, had its name changed, or is temporarily unavailable. Please try using our search box below to look for information on the website.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+
+    </main>
+    
+<!--stopindex-->
+<!--========================================================
+                            FOOTER
+=========================================================-->
+    <footer>
+        <section class="foot-top">
+            <div class="container">
+                    <div class="row">
+                    <div class="col-xs-12 col-sm-4 logo-emn img-center"><a href="http://energy.gov/eere/energy-materials-network/energy-materials-network"><img src="images/logo-emn-bw.png" class="img-responsive emn" alt="Energy Materials Network logo"/></a></div>
+                    <div class="col-xs-12 col-sm-8"><!--nesting a 12 col inside an 8 col-->
+                    	<div class="row">
+                        <div class="col-sm-3"><a href="http://www.nrel.gov/"><img src="images/logo-nrel-bw.png" class="img-responsive img-center" alt="National Renewable Energy Laboratory logo"/></a></div>
+                    	<div class="col-sm-3"><a href="https://www.pnl.gov/"><img src="images/logo-pnnl-bw.png" class="img-responsive img-center" alt="Pacific Northwest National Laboratory logo"/></a></div>
+                    	<div class="col-sm-3"><a href="https://www.ornl.gov/"><img src="images/logo-oak-ridge-bw.png"  class="img-responsive img-center" alt="Oak Ridge National Laboratory logo"/></a></div>
+                    	<div class="col-sm-3"><a href="https://www.netl.doe.gov/"><img src="images/logo-netl_white.png"  class="img-responsive img-center" alt="National Energy Technology Laboratory logo"/></a></div>
+                        </div>
+                        <div class="row">
+                        <div class="col-sm-3"><a href="http://www.lanl.gov/"><img src="images/logo-los-alamos-bw.png"  class="img-responsive img-center" alt="Los Alamos National Laboratory logo"/></a></div>
+                        <div class="col-sm-3"><a href="http://www.anl.gov/"><img src="images/logo-argonne-bw.png"  class="img-responsive img-center" alt="Argonne National Laboratory logo"/></a></div>
+                        <div class="col-sm-3"><a href="http://www.sandia.gov/"><img src="images/logo-sandia-nat-lab-bw.png"  class="img-responsive img-center" alt="Sandia Laboratory logo"/></a></div>
+                        <div class="col-sm-3"><a href="http://www.inl.gov/"><img src="images/logo-idaho-nat-lab-bw.png"  class="img-responsive img-center" alt="Idaho National Laboratory logo"/></a></div>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </section>
+        <section class="foot-mid">
+            <div class="container">
+
+                <ul class="list-inline">
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="/about.html">About</a></li>
+                    <li><a href="/capabilities.html">Capabilities</a></li>
+					<li><a href="https://datahub.chemcatbio.org/">Data</a></li>
+                     <!-- li><a href="/tools.html">Tools</a></li -->
+                     <li><a href="/publications.html">Publications</a></li>
+                     <li><a href="/webinars.html">Webinars</a></li>
+                    <li><a href="/news.html">News</a></li>
+                    <li><a href="/contacts.html">Contact</a></li>
+                </ul>
+
+            </div>
+        </section>
+    </footer>
+    
+
+    
+<!--startindex-->
+
+</div>
+
+<!-- Scripts -->
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/tm-scripts.js"></script>
+<script src="/js/iconomatic/jquery.iconomatic.js"></script>
+<script src='js/device.min.js'></script>
+<!--script src="/js/rd-smoothscroll.min.js"></script -->
+
+</body>
+</html>

@@ -33,12 +33,12 @@
 	<!-- Stylesheets
 	============================================= -->
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
-	<link rel="stylesheet" href="css/style.css" type="text/css" />
-	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
-	<link rel="stylesheet" href="css/animate.css" type="text/css" />
-	<link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
-	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+	<link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="/css/masterstyle.css" type="text/css" />
+	<link rel="stylesheet" href="/css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="/css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="/css/magnific-popup.css" type="text/css" />
+	<link rel="stylesheet" href="/css/masterresponsive.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
    	<!-- InstanceBeginEditable name="addtl css/js" -->	
@@ -217,7 +217,7 @@
 								<div class="widget clearfix">
 									<nav class="nav-tree nobottommargin">
 										<ul id="mobilenav">						 
-											<li><a href="#" id="side-panel-trigger-close" class="side-panel-trigger"><img src="/images/icons/close.png" alt="Close menu button"></a></li>
+											<li><a href="#" id="side-panel-trigger-close" class="main side-panel-trigger"><img src="/images/icons/close.png" alt="Close menu button"></a></li>
 											<li><a class="main" href="/index.jsp">Home</a></li>
 											<li><a class="main" href="/courts/index.htm">About</a>							
 												<ul>
@@ -237,6 +237,7 @@
 														  	  	  <li><a href="/courts/supreme/justices/retired/index.htm">Former justices</a></li>
 																</ul></li>
 															<li><a href="/courts/supreme/calendar.htm">Calendar</a></li>
+															<li><a href="/courts/livestream.htm">Livestream courts</a></li>
 															<li><a href="/courts/supreme/famouscases.htm">Famous cases</a></li>
 															<li><a href="/courts/supreme/visit.htm">Visiting</a></li>
 														</ul>
@@ -265,13 +266,15 @@
 																	<li><a href="/courts/appeals/judges/white.htm">White</a></li>
 																</ul></li>
 															<li><a href="/courts/appeals/judexchange.htm">Judicial Exchange Program</a></li>
+															<li><a href="/courts/livestream.htm">Livestream courts</a></li>
 														</ul>
 													</li>										
 													<li><a href="/courts/circuit/index.htm">Circuit courts</a>
 														<ul>
 															<li><a href="/courts/circuit/filing.htm">Fees & filing</a></li>
-															<li><a href="/courts/circuit/judges.htm">Judges</a></li>
+															<li><a href="/courts/circuit/judges.htm">Judges & court websites</a></li>
 															<li><a href="/courts/circuit/clerk.htm">Clerks of court</a></li>
+															<li><a href="/courts/livestream.htm">Livestream courts</a></li>
 														</ul>
 													</li>	
 													<li><a href="/courts/municipal/index.htm">Municipal courts</a>
@@ -321,7 +324,18 @@
 														  	<li><a href="/courts/committees/index.htm"><div>Judicial processes & conduct</div></a>
                                                                 <ul>
                                                                     <li><a href="/courts/committees/chiefjudges.htm">Committee of Chief Judges</a></li>
-                                                                    <li><a href="/courts/committees/judicialcommission/index.htm">Judicial Commission</a></li>
+                                                                    <li><a href="/courts/committees/judicialcommission/index.htm">Judicial<br />Commission</a>
+																		<ul>
+																			<li><a href="/courts/committees/judicialcommission/members.htm">Members</a></li>
+																			<li><a href="/courts/committees/judicialcommission/wiconstitution.htm">Wisconsin Constitution</a></li>
+																			<li><a href="/courts/committees/judicialcommission/publishedcases.htm">Published cases</a></li>
+																			<li><a href="/sc/rules/chap60.pdf">SCR Chapter 60</a></li>
+																			<li><a href="/courts/committees/judicialcommission/statutes.htm">Statutes</a></li>
+																			<li><a href="/courts/committees/judicialcommission/jcadmincode.htm">Administrative Code</a></li>
+																			<li><a href="/courts/committees/judicialcommission/faq.htm">FAQs</a></li>
+																			<li><a href="/courts/committees/judicialcommission/complaintform.pdf">Complaint form</a></li>
+																		</ul>
+																	</li>
                                                                     <li><a href="/courts/committees/judicialconduct.htm">Judicial Conduct Advisory Committee</a></li>
                                                                     <li><a href="/courts/committees/tribal.htm">State-Tribal Justice Forum</a></li>
                                                                 </ul>
@@ -390,12 +404,20 @@
 															<li><a href="/courts/history/articles.htm">Articles on legal history</a></li>
 														</ul>
 													</li>
+													<li><a href="/courts/employment/openings.htm">Employment</a>
+														<ul>
+															<li><a href="/courts/employment/openings.htm">Current openings</a></li>
+															<li><a href="/courts/employment/courtreporter.htm">Court reporter information</a></li>
+															<li><a href="/courts/employment/lawclerk.htm">Law clerk information</a></li>
+															<li><a href="/courts/employment/benefits.htm">Benefits</a></li>
+														</ul>
+													</li>
 												</ul>
 											</li>
 											
 											<li><a class="main" href="/casesearch.htm">Case search</a>
 												<ul>
-										  	 	  <li><a href="https://wcca.wicourts.gov">Circuit Court</a></li>
+										  	 	  	<li><a href="https://wcca.wicourts.gov">Circuit Court</a></li>
 													<li><a href="/supreme/sc_tabpend.jsp">Pending Supreme Court</a></li>
 													<li><a href="https://wscca.wicourts.gov">Supreme Court & Court of Appeals</a></li>
 												</ul>
@@ -523,7 +545,7 @@
 													</li>
 													<li><a href="/services/attorney/index.htm">Attorneys</a>
 														<ul>
-                                                            <li><a href="/services/attorney/bar/">Admission to the practice of law</a></li>
+                                                            <li><a href="/services/attorney/bar.htm">Admission to the practice of law</a></li>
                                                             <li><a href="/services/attorney/certificate.htm">Certificates & letters</a></li>
                                                             <li><a href="/services/attorney/comcourtpilot.htm">Commercial Docket Pilot Project</a></li>
                                                             <li><a href="/services/attorney/edu.htm">Continuing legal education</a></li>
@@ -664,7 +686,7 @@
 		
 		<!-- Page Title
 		============================================= -->
-		<section id="slider" class="slider-element" style="background: url('images/staffhero.jpg'); background-size: cover; background-position: center; background-color:#785f41" data-height-xl="500" data-height-lg="300" data-height-md="300" data-height-sm="250" data-height-xs="250">
+		<section id="slider" class="slider-element" style="background: url('/images/staffhero.jpg'); background-size: cover; background-position: center; background-color:#785f41" data-height-xl="500" data-height-lg="400" data-height-md="300" data-height-sm="250" data-height-xs="250">
 			
 			<div class="slider-parallax-inner" style="height:100%">
 				
@@ -802,7 +824,7 @@
 								
 						<div class="col-md-3 align-self-center">
 							Updated: 
-September 9, 2020
+September 25, 2020
 <br>
 						</div>
 
@@ -829,9 +851,9 @@ September 9, 2020
 
     <!-- External JavaScripts
     ============================================= -->
-    <script src="js/jquery.js"></script>
-    <script src="js/plugins.js"></script>
-	<script src="js/navigation.js"></script>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/plugins.js"></script>
+	<script src="/js/navigation.js"></script>
 
  	<!-- InstanceBeginEditable name="additl js" -->
 
@@ -839,7 +861,7 @@ September 9, 2020
 
 	<!-- Footer Scripts
     ============================================= -->
-    <script src="js/functions.js"></script> 
+    <script src="/js/functions.js"></script> 
 	<!-- InstanceBeginEditable name="additl js2" -->
 
 	<!-- InstanceEndEditable -->

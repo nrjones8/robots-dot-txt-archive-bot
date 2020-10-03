@@ -302,7 +302,7 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="Things to Do at College" title="Things to Do at College" href="col_life?main=1">
+<a alt="College Life" title="College Life" href="col_life?main=1">
 <p>College Life</p>
 </a>
 <ul>

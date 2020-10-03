@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"0_uPITBjWR9OUc8baU7ahqyofOuVZt298KPxOYK9LKhuMGyegdMuI3PfOKHozL3VOfARHAV6ayqZwtXZXMfnKkMZHI81\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"smpt8Z8vCx9Jxf2TgMKBMp8WdYV2r3rrPw7HQmLg_277tnIGkLgqs_3WYOsvaq5Wm3T-fwhsoXNCfBNY95fYsx1B5hc1\" />");
 						}
 					}
 				}, false);
@@ -843,7 +843,7 @@ The Miami County Sheriff’s Office currently employs two captains, one jail adm
 
 
 <div data-minicalendar="true" class="miniCalendar media" style="width: 50%; ">
-<h3 class="miniCalendarHeader">September 2020</h3>
+<h3 class="miniCalendarHeader">October 2020</h3>
 	<table>
 		<thead>											
 			<tr>										
@@ -887,28 +887,34 @@ Sat
 		</thead>										
 		<tbody>											
 <tr><td class="not"><span>
-30
+27
 </span></td>				
 <td class="not"><span>
-31
+28
+</span></td>				
+<td class="not"><span>
+29
+</span></td>				
+<td class="not"><span>
+30
 </span></td>				
 <td>
 <span>01</span>
 </td>
-<td>
+<td class="today">
 <span>02</span>
 </td>
 <td>
 <span>03</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>04</span>
 </td>
 <td>
 <span>05</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>06</span>
 </td>
 <td>
@@ -918,19 +924,19 @@ Sat
 <span>08</span>
 </td>
 <td>
-<span>09</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=9&amp;CID=14,32'>09</a>
 </td>
 <td>
 <span>10</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>11</span>
 </td>
 <td>
 <span>12</span>
 </td>
-</tr>
-<tr><td class="today">
+<td>
 <span>13</span>
 </td>
 <td>
@@ -945,14 +951,14 @@ Sat
 <td>
 <span>17</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>18</span>
 </td>
 <td>
 <span>19</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>20</span>
 </td>
 <td>
@@ -967,14 +973,14 @@ Sat
 <td>
 <span>24</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>25</span>
 </td>
 <td>
 <span>26</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>27</span>
 </td>
 <td>
@@ -986,15 +992,9 @@ Sat
 <td>
 <span>30</span>
 </td>
-<td class="not"><span>
-01
-</span></td>				
-<td class="not"><span>
-02
-</span></td>				
-<td class="not"><span>
-03
-</span></td>				
+<td>
+<span>31</span>
+</td>
 </tr>
 
 		</tbody>										
@@ -1008,6 +1008,22 @@ Sat
 <div class="row  text wide" style="margin-left: 55%; ">
 				<div class="col col1 first last">
 					<ol class="semanticList">
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Fri Oct. 9  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=2930">Non-Emergency County Office Closed</a></strong>
+
+		</div>
+				</li>
 
 
 
@@ -1038,23 +1054,6 @@ Sat
  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=2854">County Offices Closed</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Dec. 24          - Fri Dec. 25
- </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=2855">County Offices Closed</a></strong>
 
 		</div>
 				</li>
@@ -1458,7 +1457,7 @@ Monday - Friday<br>
 
 
 
-	<script src="/1967866089.js" type="text/javascript"></script>
+	<script src="/-1908523591.js" type="text/javascript"></script>
 	 <!-- Piwik -->
 <script type="text/javascript"> 
   var _paq = _paq || [];

@@ -284,8 +284,8 @@ RZ.jsversion = 1.2//--><!]]></script>
 
 
 	<div id="alert">
-		<span id="alert-header">Labor Day:</span>
-		<span id="alert-caption">City Hall and City of Poteau offices will be closed Monday, September 7th, in observance of Lab...
+		<span id="alert-header">Blake Standridge Day:</span>
+		<span id="alert-caption">Mayor Scotty White officially announces September 18th as Blake Standridge Day!&nbsp;
 			
 				<em><a href="alert_detail_T27_R1.php" id="alert-more">read more</a></em>
 			
