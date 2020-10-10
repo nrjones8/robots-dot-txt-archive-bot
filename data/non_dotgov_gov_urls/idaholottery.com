@@ -1167,9 +1167,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="6RPYLJM5gQ45wbDch+298vBB52Jp2conAkFrguPCEVfV/PxilJ8wQOBZ4sbjWSoA0gcYUNloPVLmlDrjSpRxjb3cGQ5UWJ/kkLBHNIQAu1DDn/r0L/Rb/AAE9aDwFCZTrofk4UESscocaO6MCxfbMNzZJneoGLjKQwS+/yIn3KKst/yxZGf9cd51HjmU1d4ZMQkIzhV3TmPyqOl5k87zf8KSYLthYhrtXxDSItE/f5cCNAShmV6GNeyQK+/X8yNCf37aInwCUE3z3Yg54qmL4+QspZOJAwjoVQFFqHkokM4crvv+1HdszvLlunTnFrDxSP10KLQygl1q5c2Ar4wu628hfmYtVLpoe9GcfzFyni/IyDZAenkEWzOn2mM3rSca8nzV1Xb0urSGnZA3k+h1HDtHw9a+yTw96ceMBjck335lsLTGq57Ho3nDNBHsd+/I0m7PD+WAStUsOCzfLaQu0Q==" />
+<input type="hidden" name="meta" value="MD5zBIe/qUD7Xe+a5rBGNFwpEKbcQ8toBrEmgdZeQgB1xfrJfZj+ZnjBtahr8gfu1XGENE0Y54S4mIJVW3rJnlbmq1QQ/br6g87ChmLu89RhwYltv7Den2AzrkiuGxku0lMdZWN7iVXvvRfdsKWOlxnxbZkcGQ4fTapNcbYxmKsGZm7De9qYuYFvG+5C+5d+stQ2W2d7jQwFA7lKHDEsvV9qOLwTOOMeRGb0U4w4qeZzK2r+Ogf1UUxVoSkKiDVJ4hHZvU/zIAuM4MqWjZWQB4dhzemG4BFjfp00ZoN2DuUJkpEHjQcFU67BoJrip+AT1N4waSbi6P30sFSegHb+//YfbHPl1e05Z3UkFQ5/7lr8lP8Fa5iR3ccxmPJT5pXVMHPJDZA5NZmHkIXg2DM/btHaF173zYKN4VyzNx8wi6tDlmj68iVxeF4Alhb5OA1WMo30NWAM/s9w6KMgtBNWTg==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="19e637497e0a0c17d4e5811b1bf22f9209fc630a" />
+<input type="hidden" name="csrf_token" value="716311c2d4df0baa234002a78405ade7945f70d5" />
 </div>
 
 
@@ -1224,9 +1224,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="0VxboMVeQ+sqXTgKbhzgzeMuSacqaCRWzUExAvqcknQHR/2z2m+1fsRiwKc7/myMcxvfKrWIjbpbSxEp7No56DiePVXgUHFC/rX04umbwdUJHFmr6FjLaXCQS6dHQ3YgzwVUgbi1atqWZy2aqrh/E+90Wc5uLkM9yd95dEcnJ0k2A6+1AJf1k+Gfjra0Q+cPCZC3uprEYGZTr+bDSSEH7/IXtMiID2HhZHIj6H+a6jkGeSQWAej2iodOC8LTVNOZJU76hbDIv5KRXkvDQGeOq5g+DU7P0HGgX17WEdDRWzc2AlS7580NOcJnz/OqFiur8592RnoTZoLCfbWkgeBFT3VALX08mjodjNPE6j8GlUzFY4YcNxaRx3RyzeVtVU7E7HoEEC69Qa35Ggq1Y4gzUm/k79/wm8IHMUU5+FRu2DxLu7uJkLT1Y+Od/xNmaAyGboF+I7R4ZJeH3l/me8jHgQ==" />
+<input type="hidden" name="meta" value="PrDlVxysNgYb9GWxqXliq4je16zXU8bSvQOl5RDexCQdmfDXkml9aW3u5AsOSper0lOw+TZi/XBcTPhuxvN/wspm5jL1wUgOc36Kl3CEYNzkpFQ6Zv9JMZDPn9qH9+9ZYfz5w4566TtfGR0oYZL5/FcG+OT3MkM05RLcqEiVngROqeUgwoALKiDkjhsT09k8cbypR57RfAjDaHo+6KRT+RCOd5seoi49YXhwCfcJv3EnC1mqPm4Y4UeKyOW1gKskHqDQK6Pl5B8LqmXSxjkr4qeXw/Fm6MR9URvu0BqyOrGx2375dkpbi1oTFJJOu8pgaZe/KeGCuhskg0wVwzTJumsXLoXxza3+dnpsMo3cQ4voFixyga0ExoPmdlE0J9RxMXCz+19TzgCFdlM9x02Z+AuiwkLIkMQG/WRp5H5+N9t0FVScgT4Dwg8tzVIsS/mlwMuyXCz226sjhE3jHdd3jA==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="19e637497e0a0c17d4e5811b1bf22f9209fc630a" />
+<input type="hidden" name="csrf_token" value="716311c2d4df0baa234002a78405ade7945f70d5" />
 </div>
 
 
@@ -1391,7 +1391,7 @@ Organizations </a>
 		</div><!-- /.footer__content -->
 
 		<div class="footer__bar">
-			<p class="copyright">&copy; 2018 Idaho Lottery</p><!-- /.copyright -->
+			<p class="copyright">&copy; 2020 Idaho Lottery</p><!-- /.copyright -->
 		</div><!-- /.footer__bar -->
 	</div><!-- /.footer__inner -->
 </footer><!-- /.footer -->

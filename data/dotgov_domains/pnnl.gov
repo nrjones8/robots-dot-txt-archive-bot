@@ -15,25 +15,25 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge" />
 <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
 <link rel="revision" href="https://www.pnnl.gov/node/59608" />
-<script src="/sites/default/files/google_tag/primary/google_tag.script.js?qhll6r" defer></script>
+<script src="/sites/default/files/google_tag/primary/google_tag.script.js?qhy8db" defer></script>
 
     <title>Pacific Northwest National Laboratory | PNNL</title>
-    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?qhll6r" />
+    <link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?qhy8db" />
 <link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" />
-<link rel="stylesheet" media="all" href="/themes/gesso/css/styles.css?qhll6r" />
-<link rel="stylesheet" media="all" href="/themes/gesso/css/lib/jquery.background-video.css?qhll6r" />
+<link rel="stylesheet" media="all" href="/themes/gesso/css/styles.css?qhy8db" />
+<link rel="stylesheet" media="all" href="/themes/gesso/css/lib/jquery.background-video.css?qhy8db" />
 
     
 <!--[if lte IE 8]>
@@ -256,10 +256,7 @@
                       <li class="menu__item has-subnav is-expanded">
         <a href="/energy-efficiency" class="menu__link has-subnav is-expanded" data-drupal-link-system-path="taxonomy/term/112">Energy Efficiency</a>
                                 <ul class="menu menu__subnav">
-                          <li class="menu__item">
-        <a href="/building-energy-codes" class="menu__link" data-drupal-link-system-path="taxonomy/term/233">Building Energy Codes</a>
-              </li>
-                      <li class="menu__item has-subnav is-expanded">
+                          <li class="menu__item has-subnav is-expanded">
         <a href="/building-technologies" class="menu__link has-subnav is-expanded" data-drupal-link-system-path="taxonomy/term/237">Building Technologies</a>
                                 <ul class="menu menu__subnav">
                           <li class="menu__item">
@@ -275,6 +272,9 @@
         <a href="/residential-buildings" class="menu__link has-subnav is-expanded" data-drupal-link-system-path="taxonomy/term/257">Residential Buildings</a>
                                 <ul class="menu menu__subnav">
                           <li class="menu__item">
+        <a href="/energy-efficient-technology-integration" class="menu__link" data-drupal-link-system-path="taxonomy/term/259">Energy Efficient Technology Integration</a>
+              </li>
+                      <li class="menu__item">
         <a href="/home-energy-score" class="menu__link" data-drupal-link-system-path="taxonomy/term/258">Home Energy Score</a>
               </li>
                       <li class="menu__item">
@@ -283,11 +283,23 @@
         </ul>
   
               </li>
-                      <li class="menu__item">
-        <a href="/commercial-buildings" class="menu__link" data-drupal-link-system-path="taxonomy/term/254">Commercial Buildings</a>
+                      <li class="menu__item is-collapsed">
+        <a href="/commercial-buildings" class="menu__link is-collapsed" data-drupal-link-system-path="taxonomy/term/254">Commercial Buildings</a>
+              </li>
+                      <li class="menu__item has-subnav is-expanded">
+        <a href="/federal-buildings" class="menu__link has-subnav is-expanded" data-drupal-link-system-path="taxonomy/term/116">Federal Buildings</a>
+                                <ul class="menu menu__subnav">
+                          <li class="menu__item">
+        <a href="/federal-performance-optimization" class="menu__link" data-drupal-link-system-path="taxonomy/term/266">Federal Performance Optimization</a>
               </li>
                       <li class="menu__item">
-        <a href="/federal-buildings" class="menu__link" data-drupal-link-system-path="taxonomy/term/116">Federal Buildings</a>
+        <a href="/resilience-and-security" class="menu__link" data-drupal-link-system-path="taxonomy/term/264">Resilience and Security</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="menu__item">
+        <a href="/building-energy-codes" class="menu__link" data-drupal-link-system-path="taxonomy/term/233">Building Energy Codes</a>
               </li>
                       <li class="menu__item">
         <a href="/appliance-and-equipment-standards" class="menu__link" data-drupal-link-system-path="taxonomy/term/261">Appliance and Equipment Standards</a>
@@ -671,7 +683,7 @@
         <a href="/seattle-research-center" class="menu__link" data-drupal-link-system-path="node/57328">PNNL Seattle Research Center</a>
               </li>
                       <li class="menu__item">
-        <a href="/pnnl-5g-innovation-studio" class="menu__link" data-drupal-link-system-path="node/57617">PNNL Verizon 5G Lab</a>
+        <a href="/pnnl-5g-innovation-studio" class="menu__link" data-drupal-link-system-path="node/57617">PNNL 5G Innovation Studio</a>
               </li>
         </ul>
   
@@ -708,7 +720,7 @@
       
 <div>
 
-<div class="view view--latest-alert view--display-block_1 js-view-dom-id-f79cf4fe4597adde4ee9a40db6cea942bcd9d61ba3783ff5f4969db7e8d514b6">
+<div class="view view--latest-alert view--display-block_1 js-view-dom-id-3049c955cfe167774f00a38592bbc17438fc7f9ea22dc6062ac73231e6149b9c">
 
   
     
@@ -856,15 +868,15 @@ Response to Challenges</p>
 <div class="paragraph paragraph--type-simple-news-card paragraph--display-mode-default" style="background-color: #D53E0B;">
     
 
-  <a class="feature-card has-footer " href="/news-media/supercooled-water-stable-liquid-scientists-show-first-time">
+  <a class="feature-card has-footer " href="/news-media/dust-dampens-albedo-effect-spurs-snowmelt-heights-himalayas">
   <div class="feature-card__body">
     <div class="feature-card__header">
               <div class="feature-card__meta">
           <div class="meta ">
-            <div class="meta__item">SEPTEMBER 17, 2020</div>
+            <div class="meta__item">OCTOBER 5, 2020</div>
       </div>        </div>
             <h3 class="feature-card__title">
-        <span>Supercooled Water Is a Stable Liquid, Scientists Show for the First Time</span>
+        <span>Dust Dampens Albedo Effect, Spurs Snowmelt in the Heights of the Himalayas</span>
 
       </h3>
     </div>
@@ -873,7 +885,7 @@ Response to Challenges</p>
               </div>
       </div>
       <div class="feature-card__media">
-          <img src="/sites/default/files/styles/large/public/media/image/PNNL.SuperCoolWater.B.1600x1200final_0.jpg?itok=JfMKC853" width="480" height="359" alt="water molecule being zapped by a laser" />
+          <img src="/sites/default/files/styles/large/public/media/image/PNNL.Himalaya.1600x1200_0.jpg?itok=scpT2P-n" width="480" height="360" alt="Himalayas" />
 
 
 
@@ -888,15 +900,15 @@ Response to Challenges</p>
 <div class="paragraph paragraph--type-simple-news-card paragraph--display-mode-default" style="background-color: #515855;">
     
 
-  <a class="feature-card has-footer " href="/news-media/google-it-quantum-chemistry-problem-solved">
+  <a class="feature-card has-footer " href="/news-media/machine-learning-scientists-teach-computers-read-x-ray-images">
   <div class="feature-card__body">
     <div class="feature-card__header">
               <div class="feature-card__meta">
           <div class="meta ">
-            <div class="meta__item">SEPTEMBER 18, 2020</div>
+            <div class="meta__item">SEPTEMBER 29, 2020</div>
       </div>        </div>
             <h3 class="feature-card__title">
-        <span>Google It: Quantum Chemistry Problem Solved</span>
+        <span>Machine Learning Scientists Teach Computers to Read X-Ray Images</span>
 
       </h3>
     </div>
@@ -905,7 +917,7 @@ Response to Challenges</p>
               </div>
       </div>
       <div class="feature-card__media">
-          <img src="/sites/default/files/styles/large/public/media/image/PNNL_1600x1200_Quantum_Gates_GAMING_0.jpg?itok=YfCgYR2L" width="480" height="360" alt="Quantum gate hack" />
+          <img src="/sites/default/files/styles/large/public/media/image/MachineLearning-Xray-V2_2.jpg?itok=4PmZ_zEt" width="480" height="320" alt="Artistic Hand X-Ray" />
 
 
 
@@ -1046,7 +1058,7 @@ Response to Challenges</p>
 <article class="short_teaser short_teaser__icon_media" role="article">
     <div class="short_teaser__content">
         <h3 class="short_teaser__title">
-      <a href="/news-media/volttrontm-goes-school">        <span>VOLTTRON™ Goes to School</span>
+      <a href="/news-media/advanced-mathematics-condense-covid-19-complexity">        <span>Advanced Mathematics Condense COVID-19 Complexity </span>
 
       </a>    </h3>
   </div>
@@ -1056,7 +1068,7 @@ Response to Challenges</p>
 <article class="short_teaser short_teaser__icon_media" role="article">
     <div class="short_teaser__content">
         <h3 class="short_teaser__title">
-      <a href="/news-media/not-your-average-refinery">        <span>Not Your Average Refinery</span>
+      <a href="/news-media/watershed-study-wetland-restoration">        <span>A Watershed Study for Wetland Restoration</span>
 
       </a>    </h3>
   </div>
@@ -1066,7 +1078,7 @@ Response to Challenges</p>
 <article class="short_teaser short_teaser__icon_media" role="article">
     <div class="short_teaser__content">
         <h3 class="short_teaser__title">
-      <a href="/news-media/high-performance-computing-helps-grid-operators-manage-increasing-complexity">        <span>High-Performance Computing Helps Grid Operators Manage Increasing Complexity</span>
+      <a href="/news-media/network-resilience-key-surviving-compound-hazard-events-scientists-say">        <span>Network Resilience is Key to Surviving Compound Hazard Events, Scientists Say</span>
 
       </a>    </h3>
   </div>
@@ -1080,18 +1092,18 @@ Response to Challenges</p>
   </div>
 </div>
 
-<div class="paragraph paragraph--type-simple-news-card paragraph--display-mode-default" style="background-color: #3BC464;">
+<div class="paragraph paragraph--type-simple-news-card paragraph--display-mode-default" style="background-color: #477280;">
     
 
-  <a class="feature-card has-footer " href="/news-media/tracking-pandemic-through-words">
+  <a class="feature-card has-footer " href="/news-media/pnnl-technologies-garner-six-rd-100-honors">
   <div class="feature-card__body">
     <div class="feature-card__header">
               <div class="feature-card__meta">
           <div class="meta ">
-            <div class="meta__item">SEPTEMBER 14, 2020</div>
+            <div class="meta__item">OCTOBER 2, 2020</div>
       </div>        </div>
             <h3 class="feature-card__title">
-        <span>Tracking a Pandemic—Through Words</span>
+        <span>PNNL Technologies Garner Six R&amp;D 100 Honors</span>
 
       </h3>
     </div>
@@ -1100,8 +1112,7 @@ Response to Challenges</p>
               </div>
       </div>
       <div class="feature-card__media">
-          <img src="/sites/default/files/styles/large/public/media/image/PNNL.BioFeeds.CoronaWorld.jpg?itok=z2uehpZY" width="480" height="360" alt="globe surrounded by red illustrations of the coronavirus" />
-
+        <img alt="R&amp;D 100 Front Page Thumbnail" src="/sites/default/files/styles/large/public/media/image/PNNL.RD100.THUMB_.1208x500.jpg?itok=sMLHBqmn" />
 
 
     </div>
@@ -1432,8 +1443,8 @@ Response to Challenges</p>
 <script src="/themes/gesso/js/lib/slick.min.js?v=8.9.6"></script>
 <script src="/themes/gesso/js/menus.js?v=8.9.6"></script>
 <script src="/themes/gesso/js/scripts.js?v=8.9.6"></script>
-<script src="/themes/gesso/js/bg-video.js?qhll6r"></script>
-<script src="/themes/gesso/js/lib/jquery.background-video.js?qhll6r"></script>
+<script src="/themes/gesso/js/bg-video.js?qhy8db"></script>
+<script src="/themes/gesso/js/lib/jquery.background-video.js?qhy8db"></script>
 
   </body>
 </html>

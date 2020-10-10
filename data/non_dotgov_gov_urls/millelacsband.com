@@ -2207,6 +2207,8 @@
               Early Ed Seeks Members of Policy Council            </a>
                       <a href="https://millelacsband.com/news/band-receives-entrepreneurship-grant" >
               Band Receives Entrepreneurship Grant            </a>
+                      <a href="https://millelacsband.com/news/band-assembly-weekly-update-for-september-21-25-2020" >
+              Band Assembly Weekly Update for September 21-25, 2020            </a>
                       <a href="https://millelacsband.com/news/secretary-treasurer-s-midterm-update" >
               Secretary-Treasurer's Midterm Update            </a>
                       <a href="https://millelacsband.com/news/elders-can-experience-domestic-violence" >
@@ -2215,6 +2217,12 @@
               October 2020 Message from the Chief Executive            </a>
                       <a href="https://millelacsband.com/news/tragedy-remembered-in-online-ceremony" >
               Tragedy Remembered in Online Ceremony            </a>
+                      <a href="https://millelacsband.com/news/band-assembly-weekly-update-week-of-september-28-october-2-2020" >
+              Band Assembly Weekly Update: Week of September 28-October 2, 2020            </a>
+                      <a href="https://millelacsband.com/news/students-crunch-together-for-farm-to-school" >
+              Students Crunch Together for Farm-to-School            </a>
+                      <a href="https://millelacsband.com/news/weekly-news-summary-october-4-10" >
+              Weekly News Summary, October 4-10            </a>
                   </div>
       </nav>
       
@@ -2290,8 +2298,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/elders-can-experience-domestic-violence" class="news-title">
-          Elders Can Experience Domestic Violence        </a>
+        <a href="https://millelacsband.com/news/students-crunch-together-for-farm-to-school" class="news-title">
+          Students Crunch Together for Farm-to-School        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

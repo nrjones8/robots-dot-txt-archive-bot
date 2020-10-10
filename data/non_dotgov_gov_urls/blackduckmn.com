@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Last Published: Fri Oct 02 2020 19:20:32 GMT+0000 (Coordinated Universal Time) -->
+<!-- Last Published: Thu Oct 08 2020 20:07:48 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="www.blackduckmn.com" data-wf-page="5d409d228c52493891831146" data-wf-site="5c7efed3f9956885c519cd23" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -12,7 +12,7 @@
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/css/blackduckmn.webflow.46f142a06.css" rel="stylesheet" type="text/css" />
+    <link href="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/css/blackduckmn.webflow.8747fa4a2.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
       WebFont.load({

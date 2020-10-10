@@ -59,7 +59,7 @@ SELECT LANGUAGE
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=createGoogleTranslateElement"></script>
 </div>
 <div id="ContentplaceholderHeader_T177BD210001_Col02" class="sf_colsIn search-social" data-placeholder-label="Social Search" data-sf-element="Social Search">
-<input id="9ec315e9-9888-4fcd-a868-6a5ec6ffd5b8" type="search" title="Search input" placeholder="Search" value="" class="search-box-input hidden-xs hidden-sm" aria-label="Search input." />
+<input id="e49cdb4a-6d1e-4f53-85d8-0450d6cba86c" type="search" title="Search input" placeholder="Search" value="" class="search-box-input hidden-xs hidden-sm" aria-label="Search input." />
 <a href="#" class="hidden-sm hidden-xs" aria-label="Search box to search for information throughout the site.">
 <i id="topbar-blue-search" class="fa fa-search"></i>
 </a>
@@ -71,10 +71,10 @@ SELECT LANGUAGE
 <input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
 <input type="hidden" data-sf-role="language" />
 <input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
-<input type="hidden" data-sf-role="searchTextBoxId" value='#9ec315e9-9888-4fcd-a868-6a5ec6ffd5b8' />
-<input type="hidden" data-sf-role="searchButtonId" value='#348ac8c9-d771-46cf-930e-2d581fd9da78' />
-<a href="/cdn-cgi/l/email-protection#ee87808881ae8f9c858f809d8f9d8b8a8dc08d8183" aria-label="Envelope icon to represent an email action."><i id="red-envelope" class="fa fa-envelope"></i></a>
-<a href="/cdn-cgi/l/email-protection#1871767e7758796a7379766b796b7d7c7b367b7775" class="hidden-sm hidden-xs no-left-padding nudge-left text-uppercase">Get In Touch</a>
+<input type="hidden" data-sf-role="searchTextBoxId" value='#e49cdb4a-6d1e-4f53-85d8-0450d6cba86c' />
+<input type="hidden" data-sf-role="searchButtonId" value='#a6d188ef-d2aa-4b1c-b245-61d854a4b08f' />
+<a href="/cdn-cgi/l/email-protection#1d74737b725d7c6f767c736e7c6e78797e337e7270" aria-label="Envelope icon to represent an email action."><i id="red-envelope" class="fa fa-envelope"></i></a>
+<a href="/cdn-cgi/l/email-protection#ec85828a83ac8d9e878d829f8d9f89888fc28f8381" class="hidden-sm hidden-xs no-left-padding nudge-left text-uppercase">Get In Touch</a>
 <a href="tel:1.800.Arkansas" aria-label="Phone icon to represent a call action."><i id="red-phone" class="fa fa-phone"></i></a>
 <a href="tel:1.800.Arkansas" class="hidden-sm hidden-xs no-left-padding nudge-left">1.800.Arkansas</a>
 <div id="split" class="hidden-sm hidden-xs"></div>
@@ -1968,7 +1968,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="tel:1-800-ARKANSAS" class="font-bold">1-800-ARKANSAS</a>
 <p>Media Inquiries</p>
 <a href="tel:501-682-7306" class="font-bold">501-682-7306</a>
-<p>Email <a href="/cdn-cgi/l/email-protection#6c05020a032c0d1e070d021f0d1f09080f420f0301" class="font-bold"><span class="__cf_email__" data-cfemail="f29b9c949db2938099939c819381979691dc919d9f">[email&#160;protected]</span></a></p>
+<p>Email <a href="/cdn-cgi/l/email-protection#10797e767f5071627b717e6371637574733e737f7d" class="font-bold"><span class="__cf_email__" data-cfemail="adc4c3cbc2edccdfc6ccc3deccdec8c9ce83cec2c0">[email&#160;protected]</span></a></p>
 </div>
 </div>
 <div id="Contentplaceholder1_T177BD210010_Col01" class="sf_colsIn row" data-placeholder-label="Montly Updates Section" data-sf-element="Montly Updates Section">

@@ -434,6 +434,10 @@ November 19, 2020</span><br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>SPLOST</b></span></span><br />
 <span style="font-size:18px;"><a href="index_282_2491276699.pdf" target="_blank"><span style="color:#000000;">2018 SPLOST Project Expenditures REPORT </span></a></span><br />
 <br />
+<span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Bids&nbsp;</b></span></span><br />
+<span style="font-size:18px;"><a href="index_437_1999433421.pdf"><span style="color:#000000;">Police SUV Bid Packet</span></a><br />
+<a href="index_437_1577190234.pdf"><span style="color:#000000;">Roof Repairs Fire Shop building Vertia St</span></a></span><br />
+<br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Public Notice</b></span></span><br />
 <a href="index_180_1830661107.pdf" target="_blank"><span style="color: rgb(0, 0, 0);"><span style="font-size: 18px;">City of Metter Dog Ordinance</span></span></a><br />
 <span style="font-size:18px;"><a href="index_430_3462099754.pdf" target="_blank"><span style="color:#000000;">2020 Five Year History</span></a></span><br />
@@ -443,9 +447,9 @@ November 19, 2020</span><br />
 <span style="font-size:18px;"><a href="index_435_2661932340.pdf"><span style="color:#000000;">October 5, 2020 Meeting</span></a></span><br />
 <br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Jobs</b></span></span><br />
-<span style="font-size:18px;"><a href="index_420_3421473025.pdf"><span style="color:#000000;">Refuse Collector</span></a></span>&nbsp;<br />
+<span style="font-size:18px;"><a href="index_436_1581782495.pdf"><span style="color:#000000;">Groundskeeper-Maintenance Worker</span></a></span><br />
 <span style="font-size:18px;"><a href="index_432_636005850.pdf"><span style="color:#000000;">Sergeant (Patrol Division)</span></a></span><br />
-<span style="font-size:18px;"><a href="index_433_4117181867.pdf"><span style="color:#000000;">Wastewater Treatment Plant Worker</span></a></span><br />
+<br />
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 <hr style="margin-top: 5px;" />
 <div><span style="color:#a41334;"><span style="font-size: 22px;"><strong>City of Metter FY 2019 Budget:&nbsp;</strong><b>&nbsp;</b></span></span>

@@ -16,7 +16,7 @@
  	<meta name="ROBOTS" content="NOARCHIVE" />
  	<meta name="GOOGLEBOT" content="NOARCHIVE" /> 
  	<meta name="author" content="mgryczon"/>
- 	<meta name="revised" content="10/02/2020"/>
+ 	<meta name="revised" content="10/07/2020"/>
  	<meta name="keywords" content="State of New Jersey, New Jersey, Government, State, Employment, ABout NJ, NJ Business, Transportation"/>
  	<meta name="description" content="State of New Jersey, New Jersey, Government, State, Employment, ABout NJ, NJ Business, Transportation"/>
  	<meta name="author" content="mgryczon"/>
@@ -31,7 +31,7 @@
    <link href="/nj/assets/css/nj-components.css" rel="stylesheet" />
 <link href="/nj/assets/css/site_style.css" rel="stylesheet" />
 <link href="/nj/assets/css/njhome.css" rel="stylesheet" />
-
+<link href="/nj/assets/css/spots.css" rel="stylesheet" />
 
 
 
@@ -210,10 +210,11 @@ strong{font-weight:normal;font-size: 0.97rem;}
 	</div>
 <div class="container-fluid d-none d-lg-block">
 	  <div class="row justify-content-center ">
-		<div id="department-name" class="col-12 col-xl-10 pt-2 pb-0">
-			<h1 class="">
-			<img src="/nj/assets/slices/nj-logo-blue.jpg" alt="NJ Logo" title="NJ Logo" class="dept-logo pr-0 " style="margin-right:0.3rem"/><span class="align-middle text-blue ml-0 pl-0">.gov</span>
-			</h1>
+		<div id="department-name" class="col-12 col-xl-10 pt-3 pb-0">
+			<h2 class=" color_blue">
+			<img src="/nj/assets/slices/nj-logo-blue.jpg" alt="NJ Logo" title="NJ Logo" class="dept-logo pr-1"/>
+			<span class="align-middle">NJ.gov</span>
+			</h2>
 	 	</div>
 	</div>
 </div>
@@ -518,12 +519,12 @@ strong{font-weight:normal;font-size: 0.97rem;}
 
 
 <!-- ./Alert -->
-<div class="container-fluid d-none  mx-0 pt-0 mt-0 d-md-block ">
-	<div class="row justify-content-center mb-5">
-		<div id="Slider" class="col-lg-12 slider ADDED- px-0 ">
+<div class="container-fluid d-none  mx-0 pt-0 mt-0 mb-5 d-md-block ">
+	<div class="row justify-content-center ">
+		<div id="Slider" class="col-lg-12 slider ADDED- px-0">
 		
 		
-			<div id="myCarousel" class="carousel slide nj d-none d-md-block" data-ride="carousel" data-interval="8000">
+			<div id="myCarousel" class="carousel slide nj d-md-block" data-ride="carousel" data-interval="8000">
 			 
 				<div class="carousel-inner" role="listbox">
 					
@@ -536,7 +537,7 @@ strong{font-weight:normal;font-size: 0.97rem;}
 					</div>
 					
 				</div>
-				<!--<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+			<!--<a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
 				  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 				  <span class="sr-only">Previous</span>
 				</a>
@@ -554,9 +555,7 @@ strong{font-weight:normal;font-size: 0.97rem;}
 
 <!--/.Carousel Wrapper-->
 
- 
-
-<!-- Info Boxes-->
+<!-- Info Boxes--> 
 
 <!--<div class="container-fluid" style="padding:0; margin:0;"> <div class="row bgdark" style="margin:0;">
 
@@ -573,110 +572,96 @@ strong{font-weight:normal;font-size: 0.97rem;}
    </div> </div>
 
 </iw_iterate>
+</div>
 
-   </div>
 
      </div>-->
 <!-- End Info Boxes-->
+
  <!-- Spotlight -->
- <div class="container-fluid mx-0  pb-5" id="spotSect">
+ <div class="container-fluid mx-0  pb-md-5  pb-sm-5" id="spotSect">
   
- 	<div class="row d-none d-md-block justify-content-center hidden-sm-down text-center">
+ 	 <div class="row d-none d-md-block justify-content-center hidden-sm-down text-center">
  		  <div class="col-md-12  mt-0 mb-0 text-center d-none d-md-block text-center">
  		   	<h4 class="mb-0 pb-0 htext-blue d-none d-md-block mx-auto">New Jersey</h4>
               		<h3 class="display-4 mt-0 d-none d-md-block">Features</h3>
- 			
- 			
- 		  		
- 		    </div>
+ 		  </div>
 	 </div>
-
- <div class="row justify-content-center mt-4 pt-0">
- 
-  	<div class="col-lg-3 mb-3 col-sm-12 d-small d-md-none">
- 		<div class="card spots p-0 m-0 card-block p-0 m-0 border-0"> 
-			<a href="https://covid19.nj.gov/pages/app" class="h-100" >
-			<img class="card-img-top" src="/nj/library/slides/NJAlert_app_sm.png" alt="COVID Alert NJ - Download New Jersey's FREE COVID Alert NJ visit https://covid19.nj.gov/pages/app"/></a>
- 		 </div>
+	  
+		
+		
+		
+	 <div class="row justify-content-center mt-4 pt-0">
+	  
+	 		<div class="col-sm-12 mb-3">
+				<div class="card spots p-0 m-0 card-block p-0 m-0 d-block d-md-none "> 
+					<a href="https://covid19.nj.gov/pages/app" class="h-100" >
+					<img class="card-img-top" src="/nj/library/slides/NJAlert_app_sm.png" alt=""/>
+					</a>
+				 </div>
+ 			</div>
+	 		
+	 		
+	    
+	   	<div class="col-lg-3 mb-3 col-sm-12">
+	  		<div class="card spots p-0 m-0 card-block p-0 m-0"> 
+	 			<a href="https://www.nj.gov/health/cd/topics/flu.shtml" class="h-100" >
+	 			<img class="card-img-top" src="/nj/library/spotlight/NJDOH_flu2020.png" alt="Protect yourself- Get Flu Shot - Click to Read More"/>
+	 			</a>
+	  		 </div>
+ 		</div>
+ 	        
+	      
+	   	<div class="col-lg-3 mb-3 col-sm-12">
+	  		<div class="card spots p-0 m-0 card-block p-0 m-0"> 
+	 			<a href="https://nj.gov/state/elections/vote.shtml" class="h-100" >
+	 			<img class="card-img-top" src="/nj/library/spotlight/vote.png" alt="Register to Vote"/>
+	 			</a>
+	  		 </div>
+ 		</div>
+ 	        
+	      
+	   	<div class="col-lg-3 mb-3 col-sm-12">
+	  		<div class="card spots p-0 m-0 card-block p-0 m-0"> 
+	 			<a href="https://2020census.gov/en.html" class="h-100" >
+	 			<img class="card-img-top" src="/nj/library/spotlight/census.png" alt="2020 Census - You can respond online, by phone, or by mail.  Click to Learn More"/>
+	 			</a>
+	  		 </div>
+ 		</div>
+ 	        
+	      
+	   	<div class="col-lg-3 mb-3 col-sm-12">
+	  		<div class="card spots p-0 m-0 card-block p-0 m-0"> 
+	 			<a href="https://covid19.nj.gov/search.html?query=Travel" class="h-100" >
+	 			<img class="card-img-top" src="/nj/library/spotlight/2020812-COVID-travel.png" alt="NJ Travel Advisory - https://covid19.nj.gov/search.html?query=Travel"/>
+	 			</a>
+	  		 </div>
+ 		</div>
+ 	        
+	       	
  	</div>
-  
-  	
- 
-  
-    <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card spots p-0 m-0 card-block p-0 m-0 border-0"> 
-	<a href="https://www.nj.gov/health/cd/topics/flu.shtml" class="h-100" ><img class="card-img-top" src="/nj/library/spotlight/NJDOH_flu2020.png" alt="Protect yourself- Get Flu Shot - Click to Read More"/></a>
 	 
-	 <div class="card-body p-0 m-0" >
-	
-	 	    <h4 class=""></h4> 
-       
-	  
-	   	
-	  </div>
-	</div>
-    </div>
- 
-    <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card spots p-0 m-0 card-block p-0 m-0 border-0"> 
-	<a href="https://2020census.gov/en.html" class="h-100" ><img class="card-img-top" src="/nj/library/spotlight/census.png" alt="2020 Census - You can respond online, by phone, or by mail.  Click to Learn More"/></a>
-	 
-	 <div class="card-body p-0 m-0" >
-	
-	 	    <h4 class=""> </h4> 
-       
-	  
-	   	
-	  </div>
-	</div>
-    </div>
- 
-    <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card spots p-0 m-0 card-block p-0 m-0 border-0"> 
-	<a href="https://covid19.nj.gov/pages/testing" class="h-100" ><img class="card-img-top" src="/nj/library/spotlight/2020805-COVID-testing.png" alt="How To Get Tested For COVID-19 In New Jersey - Read More"/></a>
-	 
-	 <div class="card-body p-0 m-0" >
-	
-	 	    <h4 class=""></h4> 
-       
-	  
-	   	
-	  </div>
-	</div>
-    </div>
- 
-    <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card spots p-0 m-0 card-block p-0 m-0 border-0"> 
-	<a href="https://covid19.nj.gov/search.html?query=Travel" class="h-100" ><img class="card-img-top" src="/nj/library/spotlight/2020812-COVID-travel.png" alt="NJ Travel Advisory - https://covid19.nj.gov/search.html?query=Travel"/></a>
-	 
-	 <div class="card-body p-0 m-0" >
-	
-	 	    <h4 class=""></h4> 
-       
-	  
-	   	
-	  </div>
-	</div>
-    </div>
-  
-  </div>
- </div>
+</div>
+
+
+
 <!-- Resources -->
 
-<div class="container-fluid mx-0  pb-4 bg-gray" id="rscSect" >
-	 <div class="row hidden-sm-down justify-content-center hidden-sm-down">
-		  <div class="col-md-10 px-0 mt-5 pb-4 text-center">
-			    <h3 class="display-4 card-title-info mb-0" style="color: #fff !important;">COVID-19 Services and Assistance</h3>
+<div class="container-fluid mx-0  pb-5" id="rscSect" style="background-color:#53535d">
+
+	 <div class="row hidden-sm-down justify-content-center ">
+		  <div class="col-md-8 px-0 mt-5 text-center">
+			    <h3 class="display-4 card-title-info mb-0 pb-sm-2" style="color: #fff !important;">COVID-19 Services and Assistance</h3>
 			   
 			   
-			 <h5 class="card-title-info my-0  d-none d-md-block" style="color: #fff !important;">New Jersey Government is open and working for you.  Many State Agencies and organizations are responding with needed programs during this serious health emergency. </h5>
+			   <h5 class="card-title-info mb-4 d-none d-md-block" style="color: #fff !important;">New Jersey Government is open and working for you.  Many State Agencies and organizations are responding with needed programs during this serious health emergency. </h5>
 		  		
 		           
 		  </div>
 	 </div>
 	 <!-- Video-->
 	   
-			<!--<div class="row justify-content-center mt-3 pt-0">
+			<!-- <div class="row justify-content-center mt-3 pt-0">
 			 	 <div class="col-md-6 col-sm-8 px-2 mb-5 text-center">
 			 	 	<a role="button" href="https://www.youtube.com/watch?v=aUDfZnI1WG4&feature=youtu.be" class="btn horange btn-block align-middle" target="_blank">
 			 	 	<h4 class="card-title-info mb-0 p-0 horange align-middle">
@@ -688,23 +673,23 @@ strong{font-weight:normal;font-size: 0.97rem;}
   <div class="row justify-content-center mt-0 pt-0">
   
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">New Jersey Needs You!</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">Governor's Task Force Briefing</h4> 
          </div>
 	 <div class="card-body pt-0" >
-	   <p class="card-text pb-0"><p>Calling all <strong>qualified health, mental health, and related professionals to Volunteeer.</strong> We need the help to supplement our health care capacity on a temporary basis.</p></p>
+	   <p class="card-text pb-0"><p>Governor Murphy's press briefing on the state's current response and action plan for managing COVID-19 (Coronavirus) in New Jersey.</p></p>
 	   	
-				<a href="https://covid19.nj.gov/volunteer" class="btn-link btn-sm"><!--Learn More-->Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+				<a href="https://www.youtube.com/channel/UCH8YwF0eRl9E5lpGj8OaiLg" class="btn-link btn-sm"><!--Learn More-->Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 			 
 	  </div>
 	</div>
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">NJ COVID-19 Information Hub</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">NJ COVID-19 Information Hub</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>Everything You Need to Know. Search for COVID-19 and Reopening Information.</p></p>
@@ -716,23 +701,23 @@ strong{font-weight:normal;font-size: 0.97rem;}
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">Testing Site Information</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">Testing Centers in NJ</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>Up-to-date information about COVID-19&nbsp;<strong>Testing Centers</strong> in NJ</p></p>
 	   	
-				<a href="https://covid19.nj.gov/locations?query=testing+&tabOrder=all%2CpromotedContent%2CNJfaqs%2Clocations%2CAASfaqs%2Ccoronavirus%2Cresources%2CjobPostings" class="btn-link btn-sm"><!---->Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+				<a href="/health/populationhealth/home/ct_toolkit.shtml" class="btn-link btn-sm"><!---->Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 			 
 	  </div>
 	</div>
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">Dept. of Labor Benefits</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">Dept. of Labor Benefits</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p><a style="box-sizing: border-box; color: #151f48; text-decoration: none; background-color: transparent;" href="https://www.nj.gov/labor/assets/PDFs/COVID-19%20SCENARIOS.pdf" target="_blank"><strong>NJDOL Benefits</strong> and the <strong>Coronavirus (COVID-19)</strong>. Unemployment, disability, financial assistance, benefits for NJ employees</a></p></p>
@@ -744,9 +729,9 @@ strong{font-weight:normal;font-size: 0.97rem;}
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">DCAid Assistance Programs</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">DCAid Assistance Programs</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>DCAid housing-related assistance programs that help with rent/heating costs, utility bills, Veterans Affair Supportive Housing (VASH), homelessness prevention and more.</p></p>
@@ -758,9 +743,9 @@ strong{font-weight:normal;font-size: 0.97rem;}
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">Apply for NJ SNAP</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">Apply for NJ SNAP</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>Check if you may qualify for food assistance (NJ SNAP), cash assistance (WFNJ/TANF or WFNJ/GA), health Insurance (NJ FamilyCare/Medicaid)</p></p>
@@ -772,9 +757,9 @@ strong{font-weight:normal;font-size: 0.97rem;}
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">NJ Businesses</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">NJ Businesses</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>COVID-19/Novel Coronavirus outbreak and its impact on businesses. Information Hub on available assistance programs.</p></p>
@@ -786,9 +771,9 @@ strong{font-weight:normal;font-size: 0.97rem;}
     </div>
  
     <div class="col-lg-3 mb-3 col-sm-12">
-	<div class="card rscSect p-0 h-100 "> 
-	 <div class="card-header hdarkblue" style="background-color: #001f4e!important; font-size:1.2em; color:#fff;">
-	    <h4 class="mb-0 pb-0">Family Resources</h4> 
+	<div class="card rscSect p-0 h-100 mx-2 "> 
+	 <div class="card-header horange">
+	    <h4 class="">Family Resources</h4> 
          </div>
 	 <div class="card-body pt-0" >
 	   <p class="card-text pb-0"><p>A one-stop source of NJ services, resources, helplines and hotlines for pregnant women, families with children, and families with&nbsp;special needs.&nbsp;</p></p>
@@ -830,7 +815,34 @@ strong{font-weight:normal;font-size: 0.97rem;}
  </div>-->
 <!-- NJ Data  Ends-->
 <!-- Census -->
+<!--<div class="container-fluid bg-on p-5">
+	<div class="row x-no-gutters justify-content-center ">
+		<div class="col-lg-8 col-xl-8" style="background-color: #103548">
+			<div class="row">
+				<div class="col-md-4 text-center">
+					<a href="https://nj.gov/state/census.shtml" target="_blank">
+					<img src="//nj.gov/nj/library/home/Census2020.jpg" alt="NJ Census 2020" class="img-fluid max-width"/></a>
+				</div>
 
+				<div class="col-md-4 text-center my-auto">
+					 <p><a href="/nj/documents/NJ_Census_2020_Toolkit.pdf" target="_blank" class="btn btn-light btn-block">2020 Census Toolkit <i class="fa fa-file-pdf text-pdf"></i></a></p>
+					 <p><a href="/nj/documents/NJ_Census_2020_faq.pdf" target="_blank" class="btn btn-light btn-block">2020 Census FAQ <i class="fa fa-file-pdf text-pdf"></i></a></p>
+
+				</div>
+
+				<div class="col-md-4 text-center">
+				<img src="//nj.gov/nj/library/home/becounted.png" alt="NJ Census 2020 be counted" class="img-fluid max-width"/>
+			<p><strong class="text-white">Follow on Social Media</strong><br/>
+				<a href="https://twitter.com/nj_census2020" class="toggle-target">
+				<i class="fab fa-twitter-square fa-2x nj-gray mr-1"></i></a> 
+<a href="https://www.facebook.com/NJCensus2020"  class="toggle-target"><i class="fab fa-facebook-square fa-2x nj-gray"></i></a></p>									  
+							
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>	-->
 
 
 <!-- Census Ends-->
@@ -1384,7 +1396,6 @@ strong{font-weight:normal;font-size: 0.97rem;}
   
 <!-- ./Connect -->
 
-
 <footer class="footer site mt-0" id="footer">
 	<div class="container-fluid bg-seal">
 		<div class="row justify-content-center">
@@ -1660,17 +1671,8 @@ $(function() {
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
 
-<!-- siteimproveanalytics tag -->
-<script type="text/javascript">
-/**/
-(function() {
-var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
-sz.src = '//siteimproveanalytics.com/js/siteanalyze_77604.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
-})();
-/**/
-</script> 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=856167205"></script>
+
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1251617637"></script>
 </body>
 
 

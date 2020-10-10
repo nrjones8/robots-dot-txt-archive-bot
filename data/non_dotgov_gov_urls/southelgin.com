@@ -244,7 +244,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-1773"><a class="menuA level2 menuHidden" href="government/departments/public_works/index.php" target="_self">Public Works</a></li>
 				</ul>
 			</li>
-			<li class="menuLI level1 menuHidden li-1622"><a class="menuA level1 menuHidden" href="government/current_projects.php" target="_self">Current Projects</a></li>
 			<li class="menuLI level1 menuHidden li-1623"><a class="menuA level1 menuHidden" href="government/departments/administrative_services/employment_opportunities/index.php" target="_self">Employment Opportunities</a></li>
 			<li class="menuLI level1 menuHidden li-1625"><a class="menuA level1 menuHidden" href="residents/forms_directory/index.php" target="_self">Forms & Applications</a></li>
 			<li class="menuLI level1 menuHidden li-1624"><a class="menuA level1 menuHidden" href="residents/frequently_asked_questions/index.php" target="_self">Frequently Asked Questions</a></li>
@@ -287,6 +286,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-2119"><a class="menuA level1 menuHidden" href="government/departments/community_development/building_permits/index.php" target="_self">Building Permits</a></li>
 			<li class="menuLI level1 menuHidden li-2169"><a class="menuA level1 menuHidden" href="residents/e-notify.php" target="_self">E-Notify</a></li>
 			<li class="menuLI level1 menuHidden li-2179"><a class="menuA level1 menuHidden" href="residents/emergency_alerts.php" target="_self">Emergency Alerts</a></li>
+			<li class="menuLI level1 menuHidden li-2267"><a class="menuA level1 menuHidden" href="residents/halloween_information/index.php" target="_self">Halloween Information</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-3 children"><a class="menuA level0 menuDisplay" href="businesses.php" target="_self">Businesses</a>
@@ -333,6 +333,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 				<ul class="menuUL level2 menuHidden ul-2124">
 					<li class="menuLI level2 menuHidden li-2124"><a class="menuA level2 menuHidden" href="i_want_to/recreation_opportunities/index.php" target="_self">Recreation Opportunities</a></li>
 					<li class="menuLI level2 menuHidden li-1862"><a class="menuA level2 menuHidden" href="i_want_to/online_program_registration.php" target="_self">Recreation Program Registration</a></li>
+					<li class="menuLI level2 menuHidden li-2263"><a class="menuA level2 menuHidden" href="government/departments/parks___recreation/dog_park.php" target="_self">Dog Park Information</a></li>
 					<li class="menuLI level2 menuHidden li-1679"><a class="menuA level2 menuHidden" href="government/departments/parks___recreation/parks_and_facilities/index.php" target="_self">Parks and Open Spaces</a></li>
 					<li class="menuLI level2 menuHidden li-1451"><a class="menuA level2 menuHidden" href="government/departments/police/crime_prevention/index.php" target="_self">Crime Prevention Information</a></li>
 					<li class="menuLI level2 menuHidden li-1454"><a class="menuA level2 menuHidden" href="government/departments/police/community_relations/public_safety_programs/index.php" target="_self">Public Safety Programs</a></li>
@@ -342,7 +343,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-1883"><a class="menuA level2 menuHidden" href="residents/area_utilities/index.php" target="_self">Area Utilities</a></li>
 					<li class="menuLI level2 menuHidden li-2120"><a class="menuA level2 menuHidden" href="government/departments/community_development/building_permits/index.php" target="_self">Building Permits</a></li>
 					<li class="menuLI level2 menuHidden li-2121"><a class="menuA level2 menuHidden" href="community/coronavirus_news_updates/index.php" target="_self">Coronavirus News/Updates</a></li>
-					<li class="menuLI level2 menuHidden li-2204"><a class="menuA level2 menuHidden" href="https://www.southelgin.com/government/departments/public_works/streets_division/road_construction_updates.php" target="_new">Road Program 2020</a></li>
 				</ul>
 			</li>
 			<li class="menuLI level1 menuHidden li-427 children"><a class="menuA level1 menuHidden" href="i_want_to/pay_for/index.php" target="_self">Pay For</a>

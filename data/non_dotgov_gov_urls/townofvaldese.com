@@ -624,6 +624,25 @@ Page not found
                     Public Works
                   </a>
                   
+
+
+  
+  <ul>
+    
+      
+      <li>
+        <a href="/public-works/services/">Services &amp; Collections</a>
+        
+      </li>
+      
+    
+      
+    
+  </ul>
+  
+
+
+
                 </li>
               </ul>
             
@@ -641,23 +660,19 @@ Page not found
   <ul>
     
       
+    
+      
       <li>
-        <a href="http://valdesenc.csibillpay.com">Pay Your Water Bill</a>
+        <a href="/utilities/valdese-water-department/">Water Department</a>
         
       </li>
       
     
       
       <li>
-        <a href="/utilities/storm-water/">Storm Water, Waste Water, Water Department, and Public Works</a>
+        <a href="/utilities/wastewater-department/">Wastewater Department</a>
         
       </li>
-      
-    
-      
-    
-      
-    
       
     
   </ul>
@@ -1301,9 +1316,6 @@ Page not found
       
       
     
-      
-      
-    
 </ul>
 
 
@@ -1327,9 +1339,6 @@ Page not found
     
       
       
-    
-      
-      
 
 
 <ul>
@@ -1341,9 +1350,6 @@ Page not found
 
 
 
-    
-      
-      
     
 </ul>
 
@@ -1390,20 +1396,20 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/how-are-we-investing-in-valdese-infrastructure/">
+        <a href="/blog/flushing-water-lines-26/">
           
           <div class="side-panel-img">
             <img class="center-block"
-              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/waterline_sign.jpg/waterline_sign-325x100.jpg"
+              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/announcement.png/announcement-325x100.png"
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">How are we investing in Valdese Infrastructure?</h3>
+          <h3 style="margin-bottom: 20px;">Flushing Water Lines</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/how-are-we-investing-in-valdese-infrastructure/">Read Post &gt;</a>
+          href="/blog/flushing-water-lines-26/">Read Post &gt;</a>
       </div>
       
       

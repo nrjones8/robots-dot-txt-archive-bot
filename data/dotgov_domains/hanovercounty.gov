@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"GTVJ6OrOX47ZPX2z5UVfyv4p2Fy869RvGAFczZPiakmn4TmMtNKfAtjWYNDMtKIFhhVfTF2fRw9GdHFi3Hy5E75aNY81\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Kf5b_fKaIhtUnTbvOFeNwpGneFEiLJ0vs2DlJEH4psWKy1y_HUlM5w1xgIyj8LVwcZ5PjO8CBfTUyyrtUq25SVzwkt01\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/518770790.css" rel="stylesheet" type="text/css" />	<link href="/16557809.css" rel="stylesheet" type="text/css" />
+	<link href="/2127638488.css" rel="stylesheet" type="text/css" />	<link href="/16557809.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -108,7 +108,7 @@
 		window.Pages.frontEndToolbarComplete = $.Deferred();
 	</script>
 	<!--CPHeadContent-->
-	<script src="/567642336.js" type="text/javascript"></script>
+	<script src="/64067720.js" type="text/javascript"></script>
 	
 	
 	
@@ -1075,18 +1075,19 @@ text-transform: uppercase;}
 	
 	<div class="inner col col17 first last id7a7c1972-b861-4cb4-82b6-2f21231112a3" style="" data-widgetcontainerid="7a7c1972-b861-4cb4-82b6-2f21231112a3">	
 
-	<div id="divTabbedb8adcba6-ab6b-45f1-94fc-a246ca732117" class="widget widgetTabbed  wide skin56  leftTabs" data-widgetid="b8adcba6-ab6b-45f1-94fc-a246ca732117">
-		<ol class="tabbedWidget cpTabs left " style="width: 275px; ">
-			<!--
-					--><li class="active">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Calendar" contenteditable="false">Calendar</span></a>
+	<div id="divTabbedb8adcba6-ab6b-45f1-94fc-a246ca732117" class="widget widgetTabbed  wide  leftTabs" data-widgetid="b8adcba6-ab6b-45f1-94fc-a246ca732117">
+		<div class="widget skin56">
+			<ol class="tabbedWidget cpTabs left " style="width: 275px; ">
+				<!--
+						--><li class="active">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Calendar" contenteditable="false">Calendar</span></a>
 </li><!--
-					--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Facebook Feed" contenteditable="false">Facebook Feed</span></a>
+						--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Facebook Feed" contenteditable="false">Facebook Feed</span></a>
 </li><!--
-					--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_2" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="2" data-tabname="Recent News" contenteditable="false">Recent News</span></a>
+						--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_2" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="2" data-tabname="Recent News" contenteditable="false">Recent News</span></a>
 </li><!--
-					-->
-		</ol>
-
+							-->
+			</ol>
+		</div>
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
 						<li class="active"><a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Calendar</a></li>
@@ -1169,7 +1170,7 @@ Sa
 <td>
 <span>1</span>
 </td>
-<td class="today">
+<td>
 <span>2</span>
 </td>
 <td>
@@ -1191,7 +1192,7 @@ Sa
 <td>
 <span>8</span>
 </td>
-<td>
+<td class="today">
 <span>9</span>
 </td>
 <td>
@@ -1417,78 +1418,94 @@ Sa
 <div class="cpCarousel cpCarousel75662642-75c3-4623-840b-fb01f670079e">
 	<div class="cpWindow cpWindow75662642-75c3-4623-840b-fb01f670079e">
 		<ol class="semanticList cpSlider">
-					<li class="widgetItem" data-index="0">
+						<li class="widgetItem" data-index="0">
 						<div class="text">
-								<h4 id="newsFlashItemHeader420" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=420">Things you can do in everyday life to protect the Chesapeake Bay </a></h4>
+								<h4 id="newsFlashItemHeader420" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=420">Things you can do in everyday life to protect the Chesapeake Bay </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn420" href="/CivicAlerts.aspx?AID=420" class="readOn" aria-labelledby="newsFlashItemHeader420 newsFlashReadOn420">Read on...</a>            
+						<a id="newsFlashReadOn420" href="/CivicAlerts.aspx?AID=420" class="readOn" aria-labelledby="newsFlashItemHeader420 newsFlashReadOn420">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="1">
+						</li>
+						<li class="widgetItem" data-index="1">
 						<div class="text">
-								<h4 id="newsFlashItemHeader419" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=419">Libraries provide free lock and talk supplies to patrons </a></h4>
+								<h4 id="newsFlashItemHeader419" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=419">Libraries provide free lock and talk supplies to patrons </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn419" href="/CivicAlerts.aspx?AID=419" class="readOn" aria-labelledby="newsFlashItemHeader419 newsFlashReadOn419">Read on...</a>            
+						<a id="newsFlashReadOn419" href="/CivicAlerts.aspx?AID=419" class="readOn" aria-labelledby="newsFlashItemHeader419 newsFlashReadOn419">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="2">
+						</li>
+						<li class="widgetItem" data-index="2">
 						<div class="text">
-								<h4 id="newsFlashItemHeader418" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=418">Hanover joins with United Way to provide direct assistance to those in need </a></h4>
+								<h4 id="newsFlashItemHeader418" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=418">Hanover joins with United Way to provide direct assistance to those in need </a>
+	</h4>
 	<div class="widgetDesc">
-CARES Act Basic Needs Grant Funds available through end of this year				<a id="newsFlashReadOn418" href="/CivicAlerts.aspx?AID=418" class="readOn" aria-labelledby="newsFlashItemHeader418 newsFlashReadOn418">Read on...</a>            
+CARES Act Basic Needs Grant Funds available through end of this year						<a id="newsFlashReadOn418" href="/CivicAlerts.aspx?AID=418" class="readOn" aria-labelledby="newsFlashItemHeader418 newsFlashReadOn418">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="3">
+						</li>
+						<li class="widgetItem" data-index="3">
 						<div class="text">
-								<h4 id="newsFlashItemHeader417" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=417">Hanover CSB Same Day Access program connects residents with services </a></h4>
+								<h4 id="newsFlashItemHeader417" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=417">Hanover CSB Same Day Access program connects residents with services </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn417" href="/CivicAlerts.aspx?AID=417" class="readOn" aria-labelledby="newsFlashItemHeader417 newsFlashReadOn417">Read on...</a>            
+						<a id="newsFlashReadOn417" href="/CivicAlerts.aspx?AID=417" class="readOn" aria-labelledby="newsFlashItemHeader417 newsFlashReadOn417">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="4">
+						</li>
+						<li class="widgetItem" data-index="4">
 						<div class="text">
-								<h4 id="newsFlashItemHeader416" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=416">Hanover County assists 58 businesses with Small Business Resiliency Grant </a></h4>
+								<h4 id="newsFlashItemHeader416" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=416">Hanover County assists 58 businesses with Small Business Resiliency Grant </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn416" href="/CivicAlerts.aspx?AID=416" class="readOn" aria-labelledby="newsFlashItemHeader416 newsFlashReadOn416">Read on...</a>            
+						<a id="newsFlashReadOn416" href="/CivicAlerts.aspx?AID=416" class="readOn" aria-labelledby="newsFlashItemHeader416 newsFlashReadOn416">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="5">
+						</li>
+						<li class="widgetItem" data-index="5">
 						<div class="text">
-								<h4 id="newsFlashItemHeader415" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=415">Early voting begins September 18 </a></h4>
+								<h4 id="newsFlashItemHeader415" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=415">October 13 is deadline to register or update registration </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn415" href="/CivicAlerts.aspx?AID=415" class="readOn" aria-labelledby="newsFlashItemHeader415 newsFlashReadOn415">Read on...</a>            
+						<a id="newsFlashReadOn415" href="/CivicAlerts.aspx?AID=415" class="readOn" aria-labelledby="newsFlashItemHeader415 newsFlashReadOn415">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="6">
+						</li>
+						<li class="widgetItem" data-index="6">
 						<div class="text">
-								<h4 id="newsFlashItemHeader405" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=405">Governor announces launch of COVIDWISE exposure app </a></h4>
+								<h4 id="newsFlashItemHeader405" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=405">Governor announces launch of COVIDWISE exposure app </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn405" href="/CivicAlerts.aspx?AID=405" class="readOn" aria-labelledby="newsFlashItemHeader405 newsFlashReadOn405">Read on...</a>            
+						<a id="newsFlashReadOn405" href="/CivicAlerts.aspx?AID=405" class="readOn" aria-labelledby="newsFlashItemHeader405 newsFlashReadOn405">Read on...</a>
 	</div>
 
 						</div>
-					</li>
-					<li class="widgetItem" data-index="7">
+						</li>
+						<li class="widgetItem" data-index="7">
 						<div class="text">
-								<h4 id="newsFlashItemHeader393" class="widgetTitle"><a href="/CivicAlerts.aspx?AID=393">Know Your Rights and Resources </a></h4>
+								<h4 id="newsFlashItemHeader393" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=393">Know Your Rights and Resources </a>
+	</h4>
 	<div class="widgetDesc">
-				<a id="newsFlashReadOn393" href="/CivicAlerts.aspx?AID=393" class="readOn" aria-labelledby="newsFlashItemHeader393 newsFlashReadOn393">Read on...</a>            
+						<a id="newsFlashReadOn393" href="/CivicAlerts.aspx?AID=393" class="readOn" aria-labelledby="newsFlashItemHeader393 newsFlashReadOn393">Read on...</a>
 	</div>
 
 						</div>
-					</li>
+						</li>
 
 		</ol>
 	</div>
@@ -1496,7 +1513,7 @@ CARES Act Basic Needs Grant Funds available through end of this year				<a id="n
 <script type="text/javascript">
 	// <!--
 	window.$ = window.$ || window.parent.$;
-	
+
 	$(document).ready(function () {
 		//Wait for the DOM to load completely before executing carousel logic since its all based on carousel width which wont come out correct until the DOM has loaded. Vishal
 		if(!window.carouselsToInit){
@@ -1517,7 +1534,7 @@ CARES Act Basic Needs Grant Funds available through end of this year				<a id="n
 							transitionTiming: 500
 							});
 					}, 250);
-					var index = window.carouselsToInit.indexOf(widgetNewsFlash7566264275c34623840bfb01f670079e); 
+					var index = window.carouselsToInit.indexOf(widgetNewsFlash7566264275c34623840bfb01f670079e);
 					if (index > -1) {
 						window.carouselsToInit.splice(index, 1);
 					}
@@ -2126,7 +2143,7 @@ CARES Act Basic Needs Grant Funds available through end of this year				<a id="n
 
 
 
-	<script src="/1752145193.js" type="text/javascript"></script>
+	<script src="/-215325131.js" type="text/javascript"></script>
 	<!-- Piwik --> <script type="text/javascript">   var _paq = _paq || [];   _paq.push(['trackPageView']);   _paq.push(['enableLinkTracking']);   $(window).load(function(){     var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com/";     _paq.push(['setTrackerUrl', u+'piwik.php']);     _paq.push(['setSiteId', 4695]);     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';     g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);   }); </script> <noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=4695" style="border:0;" alt="Piwik" /></p></noscript> <!-- End Piwik Code -->
 
 

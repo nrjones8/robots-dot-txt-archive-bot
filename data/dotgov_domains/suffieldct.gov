@@ -39,9 +39,15 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /home-clone4$
+Disallow: /home-clone4?
+Disallow: /home-clone4/~
 Disallow: /under-construction$
 Disallow: /under-construction?
 Disallow: /under-construction/~
+Disallow: /home-clone2$
+Disallow: /home-clone2?
+Disallow: /home-clone2/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
@@ -84,12 +90,12 @@ Disallow: /our-town/map-of-suffield/~
 Disallow: /our-town/history$
 Disallow: /our-town/history?
 Disallow: /our-town/history/~
-Disallow: /departments/kml/draft/library-commission$
-Disallow: /departments/kml/draft/library-commission?
-Disallow: /departments/kml/draft/library-commission/~
 Disallow: /our-town/worship-and-cemeteries-clone$
 Disallow: /our-town/worship-and-cemeteries-clone?
 Disallow: /our-town/worship-and-cemeteries-clone/~
+Disallow: /departments/kml/draft/library-commission$
+Disallow: /departments/kml/draft/library-commission?
+Disallow: /departments/kml/draft/library-commission/~
 Disallow: /fs-test$
 Disallow: /fs-test?
 Disallow: /fs-test/~
@@ -189,9 +195,6 @@ Disallow: /production/organizational/production/organizational/tabs/~
 Disallow: /departments/kml/draft$
 Disallow: /departments/kml/draft?
 Disallow: /departments/kml/draft/~
-Disallow: /site-notes$
-Disallow: /site-notes?
-Disallow: /site-notes/~
 Disallow: /production/page-layout/production/page-layout/2-column-layout$
 Disallow: /production/page-layout/production/page-layout/2-column-layout?
 Disallow: /production/page-layout/production/page-layout/2-column-layout/~
@@ -240,6 +243,9 @@ Disallow: /production/form/~
 Disallow: /production/news-elements$
 Disallow: /production/news-elements?
 Disallow: /production/news-elements/~
+Disallow: /site-notes$
+Disallow: /site-notes?
+Disallow: /site-notes/~
 Disallow: /departments/kml/draft/teens$
 Disallow: /departments/kml/draft/teens?
 Disallow: /departments/kml/draft/teens/~

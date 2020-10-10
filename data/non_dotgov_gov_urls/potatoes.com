@@ -15,27 +15,27 @@
 	<base href="https://www.potatoes.com/index.php" />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 	<title>WASHINGTON STATE POTATO COMMISSION</title>
-	<link href="/plugins/system/jce/css/content.css?74a33f26b403bc9852f1f890ce856106" rel="stylesheet" />
+	<link href="/plugins/system/jce/css/content.css?e7c8efb464a0b300894111f7f9cdf03d" rel="stylesheet" />
 	<link href="https://www.potatoes.com/media/com_acymailing/css/module_default.css?v=1580845522" rel="stylesheet" />
-	<link href="/media/gantry5/assets/css/lightcase.css" rel="stylesheet" />
-	<link href="/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
-	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css?5f74e2ac" rel="stylesheet" />
-	<link href="/media/gantry5/assets/css/bootstrap-gantry.css" rel="stylesheet" />
-	<link href="/media/gantry5/engines/nucleus/css-compiled/joomla.css" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/lightcase.css?5f7c1566" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/font-awesome.min.css?5f7c1566" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css?5f7c1567" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css?5f7c1a3e" rel="stylesheet" />
+	<link href="/media/gantry5/assets/css/bootstrap-gantry.css?5f7c1566" rel="stylesheet" />
+	<link href="/media/gantry5/engines/nucleus/css-compiled/joomla.css?5f7c1567" rel="stylesheet" />
 	<link href="/media/jui/css/icomoon.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css?5f74e2ad" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css?5f74e2ad" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css?5f74e2ad" rel="stylesheet" />
-	<link href="/media/widgetkit/wk-styles-a60b7277.css" rel="stylesheet" id="wk-styles-css" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css?5f7c1a3e" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css?5f7c1a3e" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css?5f7c1a3e" rel="stylesheet" />
+	<link href="/media/widgetkit/wk-styles-17f6132e.css" rel="stylesheet" id="wk-styles-css" />
 	<script src="https://www.potatoes.com/media/com_acymailing/js/acymailing_module.js?v=51012" async></script>
-	<script src="/media/jui/js/jquery.min.js?74a33f26b403bc9852f1f890ce856106"></script>
-	<script src="/media/jui/js/jquery-noconflict.js?74a33f26b403bc9852f1f890ce856106"></script>
-	<script src="/media/jui/js/jquery-migrate.min.js?74a33f26b403bc9852f1f890ce856106"></script>
-	<script src="/media/jui/js/jquery.ui.core.min.js?74a33f26b403bc9852f1f890ce856106"></script>
-	<script src="/media/jui/js/bootstrap.min.js?74a33f26b403bc9852f1f890ce856106"></script>
-	<script src="/media/widgetkit/uikit2-dd294aa4.js"></script>
-	<script src="/media/widgetkit/wk-scripts-92e2c6f1.js"></script>
+	<script src="/media/jui/js/jquery.min.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
+	<script src="/media/jui/js/jquery.ui.core.min.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
+	<script src="/media/jui/js/bootstrap.min.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
+	<script src="/media/widgetkit/uikit2-fcb5136d.js"></script>
+	<script src="/media/widgetkit/wk-scripts-2c27d506.js"></script>
 	<script>
 	if(typeof acymailingModule == 'undefined'){
 				var acymailingModule = [];
@@ -52,11 +52,11 @@
 			acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
 		acymailingModule['level'] = 'enterprise';
-		acymailingModule['reqFieldsformAcymailing99191'] = Array('html');
-		acymailingModule['validFieldsformAcymailing99191'] = Array('Please enter a value for the field Receive');
-acymailingModule['excludeValuesformAcymailing99191'] = [];
-acymailingModule['excludeValuesformAcymailing99191']['name'] = 'Name';
-acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
+		acymailingModule['reqFieldsformAcymailing55661'] = Array('html');
+		acymailingModule['validFieldsformAcymailing55661'] = Array('Please enter a value for the field Receive');
+acymailingModule['excludeValuesformAcymailing55661'] = [];
+acymailingModule['excludeValuesformAcymailing55661']['name'] = 'Name';
+acymailingModule['excludeValuesformAcymailing55661']['email'] = 'E-mail';
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -67,9 +67,9 @@ acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
 	</script>
 
     <!--[if (gte IE 8)&(lte IE 9)]>
-        <script type="text/javascript" src="/media/gantry5/assets/js/html5shiv-printshiv.min.js"></script>
-        <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css/nucleus-ie9.css" type="text/css"/>
-        <script type="text/javascript" src="/media/gantry5/assets/js/matchmedia.polyfill.js"></script>
+        <script type="text/javascript" src="/media/gantry5/assets/js/html5shiv-printshiv.min.js?5f7c1566"></script>
+        <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css/nucleus-ie9.css?5f7c1567" type="text/css"/>
+        <script type="text/javascript" src="/media/gantry5/assets/js/matchmedia.polyfill.js?5f7c1566"></script>
         <![endif]-->
                         
 
@@ -993,20 +993,20 @@ acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
              <div class="g-content">
                                     <div class="platform-content"><div class="moduletable ">
 							<h3 class="g-title">JOIN OUR MAILING LIST</h3>
-						<div class="acymailing_module" id="acymailing_module_formAcymailing99191">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing99191"  >
-		<form id="formAcymailing99191" action="/" onsubmit="return submitacymailingform('optin','formAcymailing99191')" method="post" name="formAcymailing99191"  >
+						<div class="acymailing_module" id="acymailing_module_formAcymailing55661">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing55661"  >
+		<form id="formAcymailing55661" action="/" onsubmit="return submitacymailingform('optin','formAcymailing55661')" method="post" name="formAcymailing55661"  >
 		<div class="acymailing_module_form" >
 						<table class="acymailing_form">
 				<tr>
 													<td class="acyfield_name ">
-								<input id="user_name_formAcymailing99191"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
-								<input id="user_email_formAcymailing99191"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
+								<input id="user_name_formAcymailing55661"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing55661"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
 										</td>
 					
 					
 					<td  class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing99191'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing55661'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
 											</td>
 				</tr>
 			</table>
@@ -1018,7 +1018,7 @@ acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
 			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.potatoes.com%2Findex.php"/>
 			<input type="hidden" name="option" value="com_acymailing"/>
 						<input type="hidden" name="hiddenlists" value="1"/>
-			<input type="hidden" name="acyformname" value="formAcymailing99191" />
+			<input type="hidden" name="acyformname" value="formAcymailing55661" />
 									</div>
 		</form>
 	</div>
@@ -1141,11 +1141,11 @@ acymailingModule['excludeValuesformAcymailing99191']['email'] = 'E-mail';
         </div>
                     
 
-                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js"></script>
-    <script type="text/javascript" src="/media/gantry5/assets/js/lightcase.js"></script>
+                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js?5f7c1566"></script>
+    <script type="text/javascript" src="/media/gantry5/assets/js/lightcase.js?5f7c1566"></script>
     <script type="text/javascript">jQuery(document).ready(function($) { jQuery('[data-rel^=lightcase]').lightcase({maxWidth: '100%', maxHeight: '100%', video: {width: '1280', height: '720'}}); });</script>
-    <script type="text/javascript" src="/templates/rt_denali/js/video.init.js"></script>
-    <script type="text/javascript" src="/templates/rt_denali/js/owlcarousel.js"></script>
+    <script type="text/javascript" src="/templates/rt_denali/js/video.init.js?5f7c1833"></script>
+    <script type="text/javascript" src="/templates/rt_denali/js/owlcarousel.js?5f7c1833"></script>
     <script type="text/javascript">
         jQuery(document).ready(function () {
             var owlcarousel_8042 = jQuery('#g-carousel-carousel-8042');

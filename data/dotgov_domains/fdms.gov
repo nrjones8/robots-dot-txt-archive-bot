@@ -15,8 +15,8 @@
 	//example: var alertMsg = "The FDMS.gov and Regulations.gov hosting facility will undergo scheduled maintenance and as a result FDMS.gov will be unavailable Monday, August 5 beginning at 6pm lasting until Tuesday morning at 8am (ET).";
 	//when done: var alertMsg = "";
 	//var alertMsg = "Regulations.gov and FDMS.gov will undergo routine maintenance and may be intermittently unavailable Saturday, February 22th from 8am (ET) to 6pm (ET).";
-	//var alertMsg = "FDMS.gov and Regulations.gov will undergo scheduled maintenance and will be unavailable Thursday, September 3, from 8:00 pm through 12:00 am (ET).";
-	var alertMsg = "FDMS.gov and regulations.gov are currently experiencing network connectivity issues due to maintenance activities.  We are working to restore access and apologize for the inconvenience caused.";
+        var alertMsg = "";
+
 	String.prototype.beginsWith = function (string) {
     		return(this.indexOf(string) === 0);
 	};
@@ -114,7 +114,7 @@
 						<br />
 						</div>
 
-					<input type="hidden" name="_csrf" value="0d6c0687-6ed5-4c96-ab3e-2fe562adad91" />
+					<input type="hidden" name="_csrf" value="660c8860-c367-4aa4-a517-120145085517" />
 </form>
 
 					<div class="hr">

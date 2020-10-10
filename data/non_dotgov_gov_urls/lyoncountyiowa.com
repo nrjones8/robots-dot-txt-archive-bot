@@ -17,7 +17,7 @@
         <style>
 @import url(//fonts.googleapis.com/css?family=Lato:regular,100,100italic,300,300italic,italic,700,700italic,900,900italic|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic|Oswald:regular,500,600,700,300,200&subset=latin);
 </style>
-        <link rel="stylesheet" href="/mt-content/assets/styles.css?_build=1594916625" id="moto-website-style"/>
+        <link rel="stylesheet" href="/mt-content/assets/styles.css?_build=1602010763" id="moto-website-style"/>
             
     
     

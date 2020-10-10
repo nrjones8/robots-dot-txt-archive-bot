@@ -39,7 +39,7 @@
 }
 
 	</style>
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"a6ed53a1d834820316dc706ce9135a85","system.paths":{"root":"","base":""}}</script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"535cb1911a6ee333c7df897912bd66ac","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>

@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> 
 <head>
-<!-- P2 -->
+<!-- P1 -->
 <meta name="viewport" content="initial-scale=0.8; width=device-width" /> <script> function getWidth() { xWidth = null; if(window.screen!= null) xWidth = window.screen.availWidth; if(window.innerWidth != null) xWidth = window.innerWidth; if(document.body !=null) xWidth = document.body.clientWidth; return xWidth; } if (/(Android|iPhone|iPod|webOS|NetFront|Opera Mini|SEMC-Browser|PlayStationPortable|Nintendo Wii|BlackBerry)/.test(navigator.userAgent) && (!(getWidth() > 600)|| /Mobile/.test(navigator.userAgent))){if(!String(window.location).match(/view_full/)){ window.location = "/mobile";} } </script> <title>U.S. Bureau of Labor Statistics</title> <!-- ****************************************** Begin META TAGS********************************************* --> <link href="/stylesheets/bls_home.css" rel="Stylesheet" type="text/css"media="all" /> 	<!-- START include/global/head.stm -->
 	<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&subagency=BLS&yt=true"></script>
 	<script src="/javascripts/jquery-latest.js"></script>
@@ -463,7 +463,7 @@ fsReady(function() {
 <span class="heading">Announcements</span>
   <ul>
     <li><a title="BLS is seeking nominations for our Technical Advisory Committee" aria-label="BLS is seeking nominations for our Technical Advisory Committee" href="https://www.federalregister.gov/documents/2020/09/18/2020-20604/technical-advisory-committee-request-for-nominations" target="_blank">BLS is seeking nominations for our Technical Advisory Committee</a></li>
-    <li>BLS COVID-19 Questions and Answers Updated October 2, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
+    <li>BLS COVID-19 Questions and Answers Updated October 6, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
 
   </ul>
 </div>	 <!-- End announcements here --> <div id="news-releases">
@@ -473,35 +473,39 @@ fsReady(function() {
 				<div class="nr-date-month">
 					Oct				</div>
 				<div class="nr-date-day">
-					02				</div>
+					06				</div>
 			</div>
 				<div class="nr-entry">
 			<h4>					
-											<a href="/news.release/empsit.nr0.htm" 
-				title = "Nonfarm payroll employment rises by 661,000 in September; unemployment rate falls to 7.9%">
-				Nonfarm payroll employment rises by 661,000 in September; unemployment rate falls to 7.9%						</a></h4>
+											<a href="/news.release/jolts.nr0.htm" 
+				title = "Job openings and hires little changed in August; total separations decrease">
+				Job openings and hires little changed in August; total separations decrease						</a></h4>
 										<p>
-								Total nonfarm payroll employment rose by 661,000 in September, and the unemployment rate
-declined to 7.9 percent. These improvements in the labor market reflect the continued
-resumption of economic activity that had been curtailed due to the coronavirus 
-(COVID-19) pandemic.				</p>
+								Job openings and hires were little changed in August at 6.5 million and 5.9 million, respectively. Total separations decreased to 4.6 million.				</p>
 						<p>
-			<a class="blue-links" href="/news.release/empsit.nr0.htm" title="HTML version of Employment Situation News Release">
+			<a class="blue-links" href="/news.release/jolts.nr0.htm" title="HTML version of Job Openings and Labor Turnover Survey News Release">
 			HTML</a> 
-			| <a class="blue-links" href="/news.release/pdf/empsit.pdf" title="PDF version of Employment Situation News Release" >
+			| <a class="blue-links" href="/news.release/pdf/jolts.pdf" title="PDF version of Job Openings and Labor Turnover Survey News Release" >
 			PDF</a>
-			| <a class="blue-links" href="/feed/empsit.rss" title="Subscribe to the Employment Situation News Release Feed" >
+			| <a class="blue-links" href="/feed/jolts.rss" title="Subscribe to the Job Openings and Labor Turnover Survey News Release Feed" >
 			RSS</a>
-							| <a class="blue-links" href="/charts/employment-situation/" title = "Charts related to the latest Employment Situation News Release">
+							| <a class="blue-links" href="/charts/job-openings-and-labor-turnover/" title = "Charts related to the latest Job Openings and Labor Turnover Survey News Release">
 				Charts</a>
-										| <a class="blue-links" href="/news.release/jec.nr0.htm" title="Commissioner&#39;s Statement">
-					Commissioner&#39;s Statement				</a>
-						</p>
+									</p>
 		</div>
 		<!-- END 1 NEWS RELEASE ABSTRACT-->
 		<div class="clearfloat"></div>
 							<div id="nr-archive">	
 				<!-- BEGIN 2 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			10/02/2020		</span>
+		<h4>
+											<a href="/news.release/empsit.nr0.htm" 
+				title = "Nonfarm payroll employment rises by 661,000 in September; unemployment rate falls to 7.9%">
+				Nonfarm payroll employment rises by 661,000 in September; unemployment rate falls to 7.9%					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
 			09/30/2020		</span>
 		<h4>
@@ -509,8 +513,8 @@ resumption of economic activity that had been curtailed due to the coronavirus
 				title = "August jobless rates up over the year in 387 of 389 metro areas; payroll jobs down in 254">
 				August jobless rates up over the year in 387 of 389 metro areas; payroll jobs down in 254					</a></h4>
 		<div class="clearfloat"></div>	
-		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
+		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
 			09/24/2020		</span>
 		<h4>
@@ -518,23 +522,14 @@ resumption of economic activity that had been curtailed due to the coronavirus
 				title = "Paid sick leave available to 75% of private industry workers in March 2020">
 				Paid sick leave available to 75% of private industry workers in March 2020					</a></h4>
 		<div class="clearfloat"></div>	
-		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
+		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
 			09/22/2020		</span>
 		<h4>
 											<a href="/news.release/tenure.nr0.htm" 
 				title = "Median tenure with current employer little changed at 4.1 years in January 2020">
 				Median tenure with current employer little changed at 4.1 years in January 2020					</a></h4>
-		<div class="clearfloat"></div>	
-		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
-		<span class="nr-archive-date">
-			09/18/2020		</span>
-		<h4>
-											<a href="/news.release/laus.nr0.htm" 
-				title = "August jobless rates down in 41 states, up in 2; payroll jobs up in 40 states">
-				August jobless rates down in 41 states, up in 2; payroll jobs up in 40 states					</a></h4>
 		<div class="clearfloat"></div>	
 		<!-- END 5 NEWS RELEASE ARCHIVE LIST-->
 				</div>
@@ -794,11 +789,11 @@ resumption of economic activity that had been curtailed due to the coronavirus
 <div class="grid-box"><!-- BEGIN SLOT #01-->
 <h3><a title="The Economics Daily" class="tooltip-homepage" href="/opub/ted/" rel="A daily digest on the latest and most important labor market information available from the Bureau.">The Economics Daily &raquo;</a></h3>
 <!--Insert TED Headlines File here--> <ul class="grid-links">
-<li><a href="/opub/ted/2020/average-employee-medical-premium-6797-dollars-for-family-coverage-in-2020.htm" title="Employee medical premiums in 2020">Employee medical premiums in 2020</a></li>
-<li><a href="/opub/ted/2020/electrical-power-line-installer-and-repairer-wages-by-bargaining-status-in-2019.htm" title="Power-line installer and repairer wages">Power-line installer and repairer wages</a></li>
-<li><a href="/opub/ted/2020/consumer-spending-increased-3-point-0-percent-from-2018-to-2019.htm" title="Consumer expenditures, 2019">Consumer expenditures, 2019</a></li>
-<li><a href="/opub/ted/2020/median-tenure-with-current-employer-was-4-point-1-years-in-january-2020.htm" title="Tenure with current employer in 2020">Tenure with current employer in 2020</a></li>
-<li><a href="/opub/ted/2020/seventy-percent-of-workers-displaced-from-2017-to-2019-were-reemployed-in-january-2020.htm" title="Worker displacement and reemployment">Worker displacement and reemployment</a></li>
+<li><a href="/opub/ted/2020/number-of-job-separations-decreased-to-4-point-6-million-in-august-2020.htm" title="Job separations, August 2020">Job separations, August 2020</a></li>
+<li><a href="/opub/ted/2020/unemployment-rates-up-in-387-of-389-metropolitan-areas-from-august-2019-to-august-2020.htm" title="Metro unemployment, August 2020">Metro unemployment, August 2020</a></li>
+<li><a href="/opub/ted/2020/labor-force-participation-rate-down-employment-population-ratio-little-changed-in-september.htm" title="Labor force participation, Sep. 2020">Labor force participation, Sep. 2020</a></li>
+<li><a href="/opub/ted/2020/employment-up-661000-in-september-2020-leisure-and-hospitality-adds-318000-jobs.htm" title="Nonfarm employment, Sept. 2020">Nonfarm employment, Sept. 2020</a></li>
+<li><a href="/opub/ted/2020/employment-decreases-in-254-metropolitan-areas-from-august-2019-to-august-2020.htm" title="Metro employment in August 2020">Metro employment in August 2020</a></li>
 </ul> <!--End TED Headlines File here--><a title="Visit Editor's Desk page" class="read-more-link" aria-label="Visit Editor's Desk page" href="/opub/ted/">More Articles &raquo;</a></div>
 <!-- END SLOT #01-->
 <div class="grid-box"><!-- BEGIN SLOT #02-->

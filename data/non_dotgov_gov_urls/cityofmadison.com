@@ -317,12 +317,7 @@ html { letter-spacing: 0.01em; }
     @import url("/css/sitewide.css");
   </style>
   
-  
-	<div class="sitewide-notice padding-top-5 padding-right-15 padding-bottom-5 padding-left-15 bg-yellow text-center max-width-none" role="alert">
-	  <h1 class="heading">Scheduled Maintenance</h1>
-	  <p>This website is undergoing scheduled maintenance on Sunday, October 4, 6:00&nbsp;am &ndash; 12:00&nbsp;noon. You may experience intermittent outages during this time.</p>
-	</div>
-<div class="sitewide-alert danger">
+  <div class="sitewide-alert danger">
   <div class="alert-content text-center">
     <h2 class="heading">Coronavirus (COVID-19)</h2>
     <ul class="list-inline">

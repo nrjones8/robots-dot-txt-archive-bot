@@ -45,7 +45,7 @@
             });
         })(jQuery);
     </script>
-    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IndtYkpjOWxCZzBrNjBZYjRxUkRyZHc9PSJ9.2KuD5Z1FIvEEUY259P32ofV32ydefY-oML0-lcviMgCjkWMJVCDu5-AvqgOTmTg2hyNsZIOyoMU1hZj9-qEf2izmVMSjaRE2.Chn_9KQSRtnzxK5XpFRMFQ.JSo49niN67HjhGsWik-KkEEnkmwLC6eQgl1pGN2BZedRZU_nfOCLtcVhFdPx4rir9Dbd7F46HwGPoO2CIdQ-ZVVogLltC_IJ1JxvMc8VBEGXSOvJulNdkhYB7k4GC7-qC3uAAf5Y6AAhJMBlLgN8q0GxlamCIi63UkbwXNfXykm_dxZaMJ39sN5PmfPxCPFrmrHiFiZwnrZXeLIF-1v3IgfJfr2J0tkBN_z7y9MfBi0.lnjG0I2FG5zBKrZMuOzOxiUiamzm3Fx5lQoaHFXLk1o";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+    <script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Dedham, MA', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm tt","PhoneFormat":"(999) 999-9999","OrganizationName":"Town of Dedham","TimeAMFormat":"am","TimePMFormat":"pm","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IkRLRU5KOE5mTERmR0NnamdwdUN0bGc9PSJ9.0c-yvzwSY6pMVT9Sp6LY8piNs8hjBWLprpJ7iHsSyG1DwCbOjMPyVDYJWcYkEgarYkwqyL2HmMek9xtr3lTi963p22SxMuLG.XO-FfE6SuksxMZqW1rdwPg.VGU5dhgY-AYkEMk9h-U9uqpvp8-tA3UiJle_UMCZuP4BzRPkIYg_IoF3uL2hfyLnuw6-MCUMHqYFifwxyWwMD55Ko7_mfEPjqy3H-xKa7yRYrCyDtO2jWxQO_ku4E8w6GYkvvACyDAma2xrqTiUBIJsMCHGAmPruBf7iXM40sm4tTQ2SjviLLMOfWqPNthUgVNHail51q80OF2zsfip1Sbogg1etnviEW92rFzTXqfA.BMU6eWx6-x14uh8Of4aJYYEJwcH7oHYfc80zvwkjhn8";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -599,31 +599,17 @@ $(function () {
     <ul class="slides clearfix">
             <li>
 
-<a href="/?splash=https%3a%2f%2fdedhamcovid19.com%2f2020%2f09%2f23%2fupdate-6-how-do-i-get-my-covid-19-test-results%2f&____isexternal=true"
-    target="_blank">
-    <img src="/Home/ShowPublishedImage/3762/637364751874470000" alt="covid test"/>
-</a>
-
-<div class="slide_content">
-        <h2 class="slide_title">
-            <a href="/?splash=https%3a%2f%2fdedhamcovid19.com%2f2020%2f09%2f23%2fupdate-6-how-do-i-get-my-covid-19-test-results%2f&____isexternal=true"
-                target="_blank" >Did you get a Covid-19 test at Endicott Estate? </a>
-        </h2>
-            <p class="slide_description">Get your results by phone or email. Call Transformative Health Care: (617) 765-0176. Or send an email to testresults@fallonambulance.com. Be prepared to provide first and last name and date of birth.</p>
-</div></li>
-            <li>
-
-<a href="https://www.dedham-ma.gov/Home/Components/Calendar/Event/4866/1016"
+<a href="/?splash=https%3a%2f%2fsites.google.com%2fdedham.k12.ma.us%2fartsrecycling%2fhome%3fauthuser%3d0&____isexternal=true"
     target="_self">
-    <img src="/Home/ShowPublishedImage/3782/637370617812467381" alt="hazardous chemicals"/>
+    <img src="/Home/ShowPublishedImage/3798" alt="recycle electronics"/>
 </a>
 
 <div class="slide_content">
         <h2 class="slide_title">
-            <a href="https://www.dedham-ma.gov/Home/Components/Calendar/Event/4866/1016"
-                target="_self" >Household Hazardous Waste Collection Day</a>
+            <a href="/?splash=https%3a%2f%2fsites.google.com%2fdedham.k12.ma.us%2fartsrecycling%2fhome%3fauthuser%3d0&____isexternal=true"
+                target="_self" >Arts Fundraiser on Oct. 24: Recycle electronics and metal</a>
         </h2>
-            <p class="slide_description">On Saturday, Oct. 3, from 9 a.m. to noon, please bring hazardous waste, televisions, and computer monitors to 55 River Street. All residents are required to wear face coverings and must follow Social Distancing guidelines.</p>
+            <p class="slide_description">Recycle large and small devices, from cell phones to refrigerators, at the Middle School. Curbside pick-up available for a fee. Event will raise funds for the Mother Brook Arts & Community Center, Dedham School of Music, and Dedham Arts Boosters. Click for more details.</p>
 </div></li>
     </ul>
 
@@ -643,17 +629,17 @@ $(function () {
     <noscript>
         
 
-<a href="/?splash=https%3a%2f%2fdedhamcovid19.com%2f2020%2f09%2f23%2fupdate-6-how-do-i-get-my-covid-19-test-results%2f&____isexternal=true"
-    target="_blank">
-    <img src="/Home/ShowPublishedImage/3762/637364751874470000" alt="covid test"/>
+<a href="/?splash=https%3a%2f%2fsites.google.com%2fdedham.k12.ma.us%2fartsrecycling%2fhome%3fauthuser%3d0&____isexternal=true"
+    target="_self">
+    <img src="/Home/ShowPublishedImage/3798" alt="recycle electronics"/>
 </a>
 
 <div class="slide_content">
         <h2 class="slide_title">
-            <a href="/?splash=https%3a%2f%2fdedhamcovid19.com%2f2020%2f09%2f23%2fupdate-6-how-do-i-get-my-covid-19-test-results%2f&____isexternal=true"
-                target="_blank" >Did you get a Covid-19 test at Endicott Estate? </a>
+            <a href="/?splash=https%3a%2f%2fsites.google.com%2fdedham.k12.ma.us%2fartsrecycling%2fhome%3fauthuser%3d0&____isexternal=true"
+                target="_self" >Arts Fundraiser on Oct. 24: Recycle electronics and metal</a>
         </h2>
-            <p class="slide_description">Get your results by phone or email. Call Transformative Health Care: (617) 765-0176. Or send an email to testresults@fallonambulance.com. Be prepared to provide first and last name and date of birth.</p>
+            <p class="slide_description">Recycle large and small devices, from cell phones to refrigerators, at the Middle School. Curbside pick-up available for a fee. Event will raise funds for the Mother Brook Arts & Community Center, Dedham School of Music, and Dedham Arts Boosters. Click for more details.</p>
 </div>
     </noscript>
 </figure> 
@@ -687,50 +673,45 @@ $(function () {
 
     <li>
         <a href="#">
-            <div class="datebox">Saturday, October 3</div>
+            <div class="datebox">Friday, October 9</div>
 
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4866/903"><p class="box_item_title">Household Hazardous Waste Collection Day</p></a>
-			<p class="box_item_summary">9:00am - Department of Public Works</p>
+    <a href="/Home/Components/Calendar/Event/4921/903"><p class="box_item_title">Select Board</p></a>
+			<p class="box_item_summary">6:00pm - Fire Station (Central)</p>
 </div>        </a>
     </li>
     <li>
         <a href="#">
-            <div class="datebox">Monday, October 5</div>
+            <div class="datebox">Monday, October 12</div>
 
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4909/903"><p class="box_item_title">Parks &amp; Recreation Commission</p></a>
-			<p class="box_item_summary">7:00pm - </p>
+    <a href="/Home/Components/Calendar/Event/4792/903"><p class="box_item_title">Columbus Day</p></a>
+			<p class="box_item_summary">All Day - </p>
 </div>        </a>
     </li>
     <li>
         <a href="#">
-            <div class="datebox">Wednesday, October 7</div>
+            <div class="datebox">Tuesday, October 13</div>
 
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/3999/903"><p class="box_item_title">Design Review Advisory Board</p></a>
-			<p class="box_item_summary">7:00pm - </p>
-</div>        </a>
-    </li>
-    <li>
-        <a href="#">
-            <div class="datebox">Thursday, October 8</div>
-
+    <a href="/Home/Components/Calendar/Event/4919/903"><p class="box_item_title">Transportation Advisory Committee</p></a>
+			<p class="box_item_summary">7:00pm - REMOTE</p>
+</div>
 
 
 
 <div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4772/903"><p class="box_item_title">Select Board</p></a>
-			<p class="box_item_summary">6:00pm - </p>
+    <a href="/Home/Components/Calendar/Event/4923/903"><p class="box_item_title">Dedham Square Study Committee</p></a>
+			<p class="box_item_summary">7:00pm - REMOTE</p>
 </div>        </a>
     </li>
 
@@ -765,18 +746,6 @@ $(function () {
 
     <li>
         <a href="#">
-            <div class="datebox">Saturday, October 3</div>
-
-
-
-
-<div class="item_info">
-    <a href="/Home/Components/Calendar/Event/4866/1016"><p class="box_item_title">Household Hazardous Waste Collection Day</p></a>
-			<p class="box_item_summary">9:00am - Department of Public Works</p>
-</div>        </a>
-    </li>
-    <li>
-        <a href="#">
             <div class="datebox">Monday, October 12</div>
 
 
@@ -785,6 +754,18 @@ $(function () {
 <div class="item_info">
     <a href="/Home/Components/Calendar/Event/4792/1016"><p class="box_item_title">Columbus Day</p></a>
 			<p class="box_item_summary">All Day - </p>
+</div>        </a>
+    </li>
+    <li>
+        <a href="#">
+            <div class="datebox">Saturday, October 24</div>
+
+
+
+
+<div class="item_info">
+    <a href="/Home/Components/Calendar/Event/4911/1016"><p class="box_item_title">Dedham Arts Electronics/Metal Recycling</p></a>
+			<p class="box_item_summary">10:00am - Dedham Middle School</p>
 </div>        </a>
     </li>
     <li>
@@ -919,66 +900,66 @@ $(function () {
 
 
 <li>
-    <a href="/Home/Components/News/News/2894/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3788" alt="oldtownhall"/>
+    <a href="/Home/Components/News/News/2908/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/1988/636410753487600000" alt="snowplow"/>
         <div class="item_info">
-            <span class="box_item_title">Construction work commences at old Town Hall site</span>
-                <p class="box_item_summary">All Town Departments have moved into the Ames Building 450 Washington Street. </p>
+            <span class="box_item_title">Snow Plowing Contractor Application</span>
+                <p class="box_item_summary">Snow plowing and removal contractor applications available for the 20-21 winter season </p>
         </div>
     </a>
 </li>
 
 
 <li>
-    <a href="/Home/Components/News/News/2892/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/2875/636808414689870000" alt="Sign before Town Hall"/>
+    <a href="/Home/Components/News/News/2904/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3810/637377426158411396" alt="1005_01"/>
         <div class="item_info">
-            <span class="box_item_title">Moderator seeks volunteers for multiple committees</span>
-                <p class="box_item_summary">Are you interested in Dedham&#39;s governance, finance, snow removal, school buildings, or public service?</p>
+            <span class="box_item_title">Rustcraft Rd Sewer Improvements Project - Work Schedule for week of 10/12</span>
+                <p class="box_item_summary">The contractor will continue the installation of the 10&quot; force main and the repaving of Rustcraft Rd</p>
         </div>
     </a>
 </li>
 
 
 <li>
-    <a href="/Home/Components/News/News/2890/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/722/637326683224770000" alt="volunteer graphic"/>
+    <a href="/Home/Components/News/News/2906/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3540/637308498206300000" alt="shot"/>
         <div class="item_info">
-            <span class="box_item_title">Conservation Commission and Open Space Advisory Committee need volunteers</span>
-                <p class="box_item_summary">The Conservation Commission needs one new member. Open Space needs three volunteers.</p>
+            <span class="box_item_title">Board of Health update</span>
+                <p class="box_item_summary">Flu vaccination clinics for seniors are being scheduled through the Council on Aging, (781) 326-1650. Town-wide clinics a...</p>
         </div>
     </a>
 </li>
 
 
 <li>
-    <a href="/Home/Components/News/News/2887/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3776" alt="plastic shopping bag"/>
+    <a href="/Home/Components/News/News/2900/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3808" alt="small business grants"/>
         <div class="item_info">
-            <span class="box_item_title">Dedham’s ban of single-use plastic bags delayed</span>
-                <p class="box_item_summary">Single-use plastic shopping bags will be prohibited in early 2021.</p>
+            <span class="box_item_title">COVID-19 Small Business Grants</span>
+                <p class="box_item_summary">Up to $10,000. Home-based businesses are eligible. Deadline is Oct. 23.</p>
         </div>
     </a>
 </li>
 
 
 <li>
-    <a href="/Home/Components/News/News/2888/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3780" alt="outdoor thumb"/>
+    <a href="/Home/Components/News/News/2902/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3808" alt="small business grants"/>
         <div class="item_info">
-            <span class="box_item_title">Select Board extends outdoor dining through November 30</span>
-                <p class="box_item_summary">Outdoor dining areas may continue to operate throughout Dedham.</p>
+            <span class="box_item_title">&#191;Necesita alivio del coronavirus  para su peque&#241;a empresa?</span>
+                <p class="box_item_summary">Los negocios desde el hogar pueden ser elegibles.  La fecha l&#237;mite es a las cinco de la tarde en el viernes el veintitr&#233;s...</p>
         </div>
     </a>
 </li>
 
 
 <li>
-    <a href="/Home/Components/News/News/2884/16?backlist=%2f" class="news-item">
-            <img src="/Home/ShowPublishedImage/3766/637365508991800000" alt="0921_01"/>
+    <a href="/Home/Components/News/News/2898/16?backlist=%2f" class="news-item">
+            <img src="/Home/ShowPublishedImage/3804" alt="trench"/>
         <div class="item_info">
-            <span class="box_item_title">Rustcraft Rd Sewer Improvements Project - Work Schedule for week of 9/28</span>
-                <p class="box_item_summary">The contractor will continue the installation of the 10&quot; force main.</p>
+            <span class="box_item_title">October updates from Town Departments</span>
+                <p class="box_item_summary">Be on the lookout for invasive spotted lanternflies!</p>
         </div>
     </a>
 </li>
@@ -1132,7 +1113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"byyxvqejg10jfwj0brtp4st1","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"oi4guy0g3vjtjbh4j1ewsvj4","Identity":"b0bb661425c54b16a9cb753b3afe409f","OrganizationName":"Town of Dedham","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

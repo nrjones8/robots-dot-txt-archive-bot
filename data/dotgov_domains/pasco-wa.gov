@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"2e9OkgMYW8Txu1kN2gH89MBvhMmUmhSylGVg1jCQEMIMUTvRsmVHko0it8khG6Y7A45fkY4WPGWg6xwiCds0XKQ2wZs1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"dzL0-GJldc7cQsDHQQfYjWc87C_K9j-y1aZGKLRQVrfSFzz4rWzCigXulLTc6Fj9q4npo5PEBvpbyGNB7uhQeFZVlhw1\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/725661219.css" rel="stylesheet" type="text/css" />	<link href="/1971851407.css" rel="stylesheet" type="text/css" />
+	<link href="/352217126.css" rel="stylesheet" type="text/css" />	<link href="/1971851407.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -1392,8 +1392,8 @@ Pasco has grown tremendously in the last two decades and this growth has occurre
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshow19b4cd0076c44258a56118c62ce73256 = new Slideshow();
-slideshow19b4cd0076c44258a56118c62ce73256.generate('494','1','5', false,false);
+		    var slideshowafa6f6ab559e47ad91180ec2879664eb = new Slideshow();
+slideshowafa6f6ab559e47ad91180ec2879664eb.generate('494','1','5', false,false);
 
 
 		});
@@ -1782,7 +1782,7 @@ Sat
 <td>
 <span>1</span>
 </td>
-<td class="today">
+<td>
 <span>2</span>
 </td>
 <td>
@@ -1793,10 +1793,10 @@ Sat
 <span>4</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=5&amp;CID=23,32'>5</a>
+<span>5</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=6&amp;CID=23,32'>6</a>
+<span>6</span>
 </td>
 <td>
 <span>7</span>
@@ -1804,7 +1804,7 @@ Sat
 <td>
 <span>8</span>
 </td>
-<td>
+<td class="today">
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=9&amp;CID=23,32'>9</a>
 </td>
 <td>
@@ -1899,46 +1899,46 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon, Oct 5  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3375">City Council Regular Meeting</a></strong>
-
-The City Council may take action on items presente...		</div>
-						<a href="/Calendar.aspx?EID=3375" class="readOn" style="display:block;"><span>Read On</span></a>
-	</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Tue, Oct 6  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3277">Historic Preservation Commission</a></strong>
-
-The major responsibilities of the Historic Preserv...		</div>
-						<a href="/Calendar.aspx?EID=3277" class="readOn" style="display:block;"><span>Read On</span></a>
-	</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Fri, Oct 9  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=3645">Pasco Lodging Tax Advisory Committee Special Meeting</a></strong>
 
 		</div>
 						<a href="/Calendar.aspx?EID=3645" class="readOn" style="display:block;"><span>Read On</span></a>
+	</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Mon, Oct 12  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3365">Fireman Pension Board Meeting</a></strong>
+
+		</div>
+						<a href="/Calendar.aspx?EID=3365" class="readOn" style="display:block;"><span>Read On</span></a>
+	</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Mon, Oct 12  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=3399">City Council Workshop Meeting</a></strong>
+
+The City Council holds workshops the 2nd and 4th M...		</div>
+						<a href="/Calendar.aspx?EID=3399" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 					</ol>
 				</div>

@@ -325,7 +325,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-485"><a class="menuA level2 menuHidden" href="our_residents/city_departments/council/index.php" target="_self">Council</a></li>
 					<li class="menuLI level2 menuHidden li-486"><a class="menuA level2 menuHidden" href="our_residents/city_departments/administration/index.php" target="_self">Administration</a></li>
 					<li class="menuLI level2 menuHidden li-487"><a class="menuA level2 menuHidden" href="our_residents/city_departments/community_development.php" target="_self">Community Development</a></li>
-					<li class="menuLI level2 menuHidden li-488"><a class="menuA level2 menuHidden" href="our_residents/city_departments/fire.php" target="_self">Fire</a></li>
+					<li class="menuLI level2 menuHidden li-488"><a class="menuA level2 menuHidden" href="our_residents/city_departments/fire/index.php" target="_self">Fire</a></li>
 					<li class="menuLI level2 menuHidden li-489"><a class="menuA level2 menuHidden" href="our_residents/city_departments/planning_commission/index.php" target="_self">Planning Commission</a></li>
 					<li class="menuLI level2 menuHidden li-490"><a class="menuA level2 menuHidden" href="our_residents/city_departments/police/index.php" target="_self">Police</a></li>
 					<li class="menuLI level2 menuHidden li-491"><a class="menuA level2 menuHidden" href="our_residents/city_departments/public_works/index.php" target="_self">Public Works</a></li>

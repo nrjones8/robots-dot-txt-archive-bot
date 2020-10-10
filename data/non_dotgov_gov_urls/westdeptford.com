@@ -241,6 +241,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-429"><a class="menuA level2 menuHidden" href="residents/recreation/parks.php" target="_self">Parks</a></li>
 					<li class="menuLI level2 menuHidden li-430"><a class="menuA level2 menuHidden" href="residents/recreation/township_events.php" target="_self">Township Events</a></li>
 					<li class="menuLI level2 menuHidden li-626"><a class="menuA level2 menuHidden" href="Document_Center/Facility_Use_Application.pdf" target="_new">Facility Use Request Form</a></li>
+					<li class="menuLI level2 menuHidden li-670"><a class="menuA level2 menuHidden" href="residents/recreation/volunteer_coaching_background_check.php" target="_self">Volunteer Coaching Background Check</a></li>
 				</ul>
 			</li>
 			<li class="menuLI level1 menuHidden li-50"><a class="menuA level1 menuHidden" href="http://www.riverwinds.org/" target="_new">Riverwinds Community Center</a></li>

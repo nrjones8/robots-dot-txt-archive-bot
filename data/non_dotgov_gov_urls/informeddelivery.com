@@ -1,7 +1,7 @@
 ﻿
 
 
-<s:hidden name="RMINSrvInf" id="RMINSrvInf" value="1b44;" />
+<s:hidden name="RMINSrvInf" id="RMINSrvInf" value="1a60;" />
 </s> 
 
 

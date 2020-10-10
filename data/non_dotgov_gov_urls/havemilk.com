@@ -367,18 +367,18 @@ Closer than you think.</h3>
 
 		
 			
-		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/Biscuit_header_1-300x300.jpg);">
+		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/chicken_header_1-300x300.jpg);">
 		  <div class="content" style="color:#333">
-		    <h3><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">Kefir Biscuit Sandwiches with Cheddar-Pecan “Sausage”</a></h3>
-		    <p><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/" class="button white">More</a></p>
+		    <h3><a href="https://wadairy.org/indian-butter-chicken-with-naan/">Indian Butter Chicken With Naan</a></h3>
+		    <p><a href="https://wadairy.org/indian-butter-chicken-with-naan/" class="button white">More</a></p>
 		  </div>
 		</div>
 		
 			
-		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/WA_Dairy_Infographic_1-e1597868341926-300x300.jpg);">
+		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/Biscuit_header_1-300x300.jpg);">
 		  <div class="content" style="color:#333">
-		    <h3><a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/">The Healthy Benefits of Refueling with Chocolate Milk</a></h3>
-		    <p><a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/" class="button white">More</a></p>
+		    <h3><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">Kefir Biscuit Sandwiches with Cheddar-Pecan “Sausage”</a></h3>
+		    <p><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/" class="button white">More</a></p>
 		  </div>
 		</div>
 		
@@ -388,6 +388,19 @@ Closer than you think.</h3>
 
 	
   <div class="grid-item quarter light-blue">
+
+      <a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/WA_Dairy_Infographic_1-e1597868341926-1024x624.jpg);"></div></a>
+      <div class="content">
+        <div class="content-wrap">
+        <h2><a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/">The Healthy Benefits of Refueling with Chocolate Milk</a></h2>
+        <p><a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
+        </div>
+      </div>
+
+  </div>
+
+	
+  <div class="grid-item quarter pink">
 
       <a href="https://wadairy.org/refuel-with-milk/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/powerfullydelicious_4x6.jpg);"></div></a>
       <div class="content">
@@ -400,7 +413,7 @@ Closer than you think.</h3>
   </div>
 
 	
-  <div class="grid-item quarter pink">
+  <div class="grid-item quarter blue">
 
       <a href="https://wadairy.org/ube-bubble-tea/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/Ube_Header-1024x576.jpg);"></div></a>
       <div class="content">
@@ -413,26 +426,13 @@ Closer than you think.</h3>
   </div>
 
 	
-  <div class="grid-item quarter blue">
+  <div class="grid-item quarter gold">
 
       <a href="https://wadairy.org/grants-and-resources/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/DairyFarmersofWashington-982-400-no-grain-1024x523.jpg);"></div></a>
       <div class="content">
         <div class="content-wrap">
         <h2><a href="https://wadairy.org/grants-and-resources/">Grants and Other Opportunities</a></h2>
         <p><a href="https://wadairy.org/grants-and-resources/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
-        </div>
-      </div>
-
-  </div>
-
-	
-  <div class="grid-item quarter gold">
-
-      <a href="https://wadairy.org/bacon-tajin-jalapeno-popper-dip/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/popper_header_1-1024x576.jpg);"></div></a>
-      <div class="content">
-        <div class="content-wrap">
-        <h2><a href="https://wadairy.org/bacon-tajin-jalapeno-popper-dip/">Bacon and Tajín Jalapeño Popper Dip</a></h2>
-        <p><a href="https://wadairy.org/bacon-tajin-jalapeno-popper-dip/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
         </div>
       </div>
 

@@ -19,7 +19,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Baytown, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Baytown, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LcOsCMUAAAAAOzm8mN0q93DvonpSHoOmzSPQaDP"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IkQ0RXpNZTdONkQxVmZTOFV4KzduaGc9PSJ9.GkZMAytc-VlcwHYA8kbtFFRNNyMNNbGN4qWUy5AFCf_bnaBYCh4JhLvuHWp47L0ZAyfqfdy1jj-hRxllMdFXuY4eQ847bZHi.sRcrKzUrEzaBCLPqD9b_iA.P5pwAW2hib8lY9qOW3k_G_Z-rZ_nLmF1E-RD5lNYvu_fvOmUadCjEApAUil769ywc6YefAQWjEO4mQ2GR2HXElp80RjEO0FKmf8T0UoNqGcfvKaxxfPpriWYKbMWkPZr7hzemW5SknQsq2gVYleXs_8bjZ9Ty3JWsQEDKpMHzEfq1_FHOb-LRABPvwBCgSNb2kWlpktlFIYD1C0Snttaa4ueILnSON_07FmEW16-9cs.9weUVVgMwKahqhr_N1zOUfpgOyxv2XqomsyAhp1b-1s";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Baytown, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Baytown, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LcOsCMUAAAAAOzm8mN0q93DvonpSHoOmzSPQaDP"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ikc1VGM2a01hT1l1d2xOakdTVkpNVEE9PSJ9.HTzYGgF0mR3H_IY9YmS61ThpUiRo-dCU-J85-jZJ253HbUmciQNGS4-DKPbEscBy0eeKm7k3lx1_F0--1jtyik6GxQETrxQb.qcheHwTicTKjqgOSQhCwrQ.j-KPcr3zqEvtNB0besw_cgco4auni3xw7exkZezE1KGrEMYKCpo_rN6jFuC9qSGDuRssdnxE5GdBx74qTNAm809wnKopJHXeX8mNls1Dw7Pa-9tEWLfZbDIMB_pOQtUmwAuvNm1MtSCdfmrNqpP2NDZAnEFSJc-ayAt8aS62qSHRmNzIHVFchVs6gDIUj_ZAfXQlZiEJjWHGUMcirov3jDnifWUCLZwud2idsFEUzVQ.D17jD3lfgkrHBaYF6UgWgkOC6vLoIlRoZy8KcixKV6o";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -650,6 +650,13 @@ $(function () {
 <ul class="clearfix">
 	
 <li>
+	<a href="/Home/Components/News/News/788/18?backlist=%2f">
+		
+		City of Baytown Water Q&amp;A
+	</a>
+	<p class="box_item_summary"></p>
+</li>
+<li>
 	<a href="/Home/Components/News/News/784/18?backlist=%2f">
 		
 		Declaration of Local Disaster
@@ -662,13 +669,6 @@ $(function () {
 		Election Information
 	</a>
 	<p class="box_item_summary">Local Election Information</p>
-</li>
-<li>
-	<a href="/Home/Components/News/News/778/18?backlist=%2f">
-		
-		Updated City Services
-	</a>
-	<p class="box_item_summary"></p>
 </li>
 </ul>
 <a href="/city-hall/public-affairs/news-list" class="box_bottomlink">More News ></a>
@@ -917,7 +917,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"hvmv1adndfm3tit2rnlcylqo","Identity":"7b36309707b243f7885a66820f1dfcec","OrganizationName":"Baytown, TX","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"duysf5gjwgoaynqiwyxkgb2p","Identity":"7b36309707b243f7885a66820f1dfcec","OrganizationName":"Baytown, TX","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

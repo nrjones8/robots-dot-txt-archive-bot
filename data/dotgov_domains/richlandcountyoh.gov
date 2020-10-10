@@ -23,11 +23,11 @@
 
 
 
-	<meta name="keywords" content="About,UsThe,Richland,County,Building,Department,enforces,code,requirements,and,regulates,the,construction,of,buildings,and,structures,within,the,Department,rsquo,s,jurisdiction"/>
+	<meta name="keywords" content=""/>
 
 
 
-	<meta name="description" content="About UsThe Richland County Building Department enforces code requirements and regulates the construction of buildings and structures within the Department rsquo s jurisdiction. We review and approve all plans and issue all permits required by the applicable, current codes for the construction, alteration, movement, enlargement, replacement, repair, equipment, use and occupancy, and location to all commercial and residential buildings and structures."/>
+	<meta name="description" content="Welcome to Richland County, OH"/>
 
 
 	<meta name="robots" content="index, follow">
@@ -54,6 +54,7 @@
 
 <!-- \\ END of /plugins/setup/setup.before_endhead.template_include.jsp // --><link rel="stylesheet" href="_assets_/plugins/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="_assets_/fonts/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="_assets_/plugins/owl.carousel/owl-carousel/owl.carousel.css">
 	<link rel="stylesheet" href="_assets_/css/layout.css">
 
 	<link rel="shortcut icon" href="_assets_/images/favicon.ico">
@@ -63,8 +64,7 @@
 	<link rel="apple-touch-icon" sizes="144x144" href="_assets_/images/touch-icon-ipad2.png">
 
 </head>
-<body id="freeform">
-
+<body id="freeform" class="fullwidth">
 
 
 
@@ -73,31 +73,31 @@
 if (typeof(RZ) == 'undefined') RZ = {};
 if (!RZ.link) RZ.link = new Object();
 RZ.pagetype = 'template'
-RZ.baseurlprefix = '../../../'
-RZ.baseurlpath = 'departments/public_works/building_department/'
+RZ.baseurlprefix = '../'
+RZ.baseurlpath = 'not_found/'
 RZ.protocolRelativeRevizeBaseUrl='//cms8.revize.com'
 
-RZ.pagetemplatename = 'freeform'
-RZ.pagetemplateid = '0'
+RZ.pagetemplatename = 'fullwidth'
+RZ.pagetemplateid = '1'
 RZ.pagemodule = 'links'
 RZ.pagemoduleid = '1'
-RZ.pagerecordid = '102';
+RZ.pagerecordid = '1482';
 
-RZ.pageid = 'links-102';
-RZ.pageparentid = '101';
-RZ.pagesectionid = '102';
-RZ.pagesectionname = 'building_department';
-RZ.pagesectionlevel = '3';
-RZ.pagesectionfolder = 'departments/public_works/building_department/';
-RZ.pagesectionfilter = 'sectionid=102';
-RZ.pagelinkfilter = 'linklevel=3 and linksectionid=102';
-RZ.pagelinklevel = '3';
-RZ.pagelinkid = '102';
+RZ.pageid = 'links-1482';
+RZ.pageparentid = '0';
+RZ.pagesectionid = '1482';
+RZ.pagesectionname = 'not_found';
+RZ.pagesectionlevel = '1';
+RZ.pagesectionfolder = 'not_found/';
+RZ.pagesectionfilter = 'sectionid=1482';
+RZ.pagelinkfilter = 'linklevel=1 and linksectionid=1482';
+RZ.pagelinklevel = '1';
+RZ.pagelinkid = '1482';
 RZ.pageidfield = '';
 
 RZ.isnewrecord = false;
 RZ.editmodule = '';
-RZ.editrecordid = '102';
+RZ.editrecordid = '1482';
 RZ.editrecordversion = '';
 RZ.editversion = '';		//same as editrecordversion
 RZ.editaction = '';
@@ -105,8 +105,8 @@ RZ.editaction = '';
 //----- Permission data
 RZ.page_roles = ''
 RZ.page_users = ''
-RZ.page_key = 'freeform[102]'
-RZ.parent_key = 'freeform[101]'
+RZ.page_key = 'fullwidth[1482]'
+RZ.parent_key = 'index[]'
 RZ.inherit_key = ''
 RZ.workflowname = ''
 RZ.permissions_options = 'warningsOFF'
@@ -170,6 +170,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 
 
  
+
 
 <!--Top Area Starts-->
 
@@ -469,14 +470,13 @@ RZ.jsversion = 1.2//--><!]]></script>
 <!--Slider Area Starts-->                                               
 <section id="slider">
 	
-    	
-<div class="sliderbtn">
+    	<div class="sliderbtn">
   
     
     
     <script language="JavaScript" type="text/JavaScript">
     RZ.module = 'banner';
-    RZ.nexturl = "editforms/banner-editlist.jsp?pageid=102";
+    RZ.nexturl = "editforms/banner-editlist.jsp?pageid=1482";
     RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
     RZ.img = '<img src="images/edit/edit_this_list.jpg" alt="Edit This List" border="0" />';
     RZ.caption = '';
@@ -490,18 +490,17 @@ RZ.jsversion = 1.2//--><!]]></script>
 if (typeof RZlistbegin != 'undefined') RZlistbegin(1)
 </script>
 
-  
-       
-      
     
-  
+       
+
+
 <script language="JavaScript" type="text/JavaScript">
 if (typeof RZlinktemplate != 'undefined') RZlinktemplate('banner','','')
-if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'2.00'};
+if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq_no',seq:'1.00'};
 </script>
 
 <ul class="bxslider">
-    <li style="background: url(promo-image11.jpg) center no-repeat;background-size:cover;"></li>
+    <li style="background: url(_assets_/images/slide-3.jpg) center no-repeat;background-size:cover;"></li>
 </ul><!-- /.bxslider -->
     
 </section>
@@ -510,174 +509,24 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq
 	<main id="main" tabindex="-1">
 		<div class="container">
 			<div class="row">
-<!--Left Area Starts-->
-				<div class="col-lg-4 col-md-4">
-    <aside id="flyout-wrap" class="fillLeft">
-<!--Left Nav Area Starts-->				
-        <div id="flyout-list">
-            <div class="titleBtn">
-                
-                
-                
-                <script language="JavaScript" type="text/JavaScript">
-                RZ.module = 'freeform';
-                RZ.nexturl = "editforms/leftnav-title-editform.jsp";
-                RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-                RZ.img = '<img src="images/edit/edit_small.jpg" alt="Edit Leftnav Title" border="0" />';
-                RZ.set = 'freeform.pageid=leftnavlinks-102';
-                RZ.options = '';
-                if (typeof RZaction != 'undefined') RZaction('editform');
-                </script>
-            </div>								
-             
-            <h2 id="flyout-header">Building Department</h2>
-            
-            <!-- start plugin: menus.leftnav-section -->
-            
-            <!-- // BEG of /plugins/menus/menus_section_filter.include.jsp \\ -->
-<!--  revize_menu_filter: linkplacement=leftnav and linkparentid=102 -->
-<!-- \\ END of /plugins/menus/menus_section_filter.include.jsp // -->
-
-            
-            
-            <script language="JavaScript" type="text/JavaScript">
-            RZ.module = 'links';
-            RZ.nexturl = "/revize/plugins/menus/webspace_menu-editlist.jsp?pageid=links-102&"
-                   + "linksfilter=linkplacement=leftnav and linkparentid=102&"
-                   + "numberoflevels=2&"
-                   + "linkoptions=url,template,file&"
-                   + "linknewsection=*all*";
-            RZ.img = '<img src="images/edit/edit_left_nav.jpg" alt="Edit Left Navigation" border="0" />';
-            RZ.caption = '';
-            RZ.set = "links.linkplacement=leftnav"
-            RZ.options = '';
-            if (typeof RZaction != 'undefined') RZaction('editlist');
-            </script>
-            
-            
-<!-- // BEG of /plugins/menus/menus_section_list.include.jsp \\ --> <ul  id="flyout" class="leftnav v08-30-2012">
-	<li id="li-217" class="menuLI level0 menuSelectedChild first children"><a class="menuA level0 menuSelectedChild first" href="departments/public_works/building_department/faq/index.php" target="_self" >FAQ</a>
-		<ul id="ul-228" class="menuUL level1 menuHidden">
-			<li id="li-228" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/general_questions.php" target="_self" >General Questions</a></li>
-			<li id="li-229" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/permits.php" target="_self" >Permits</a></li>
-			<li id="li-230" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/application_process.php" target="_self" >Application Process</a></li>
-			<li id="li-231" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/inspection_process.php" target="_self" >Inspection Process</a></li>
-			<li id="li-232" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/electrical.php" target="_self" >Electrical</a></li>
-			<li id="li-233" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/residential.php" target="_self" >Residential</a></li>
-			<li id="li-234" class="menuLI level1 menuHidden"><a class="menuA level1 menuHidden" href="departments/public_works/building_department/faq/commercial.php" target="_self" >Commercial</a></li>
-		</ul>
-	</li>
-	<li id="li-223" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments/public_works/building_department/residential.php" target="_self" >Residential</a></li>
-	<li id="li-224" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments/public_works/building_department/commercial.php" target="_self" >Commercial</a></li>
-	<li id="li-225" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments/public_works/building_department/floodplains.php" target="_self" >Floodplains</a></li>
-	<li id="li-226" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments/public_works/building_department/links.php" target="_self" >Links</a></li>
-	<li id="li-227" class="menuLI level0 menuSelectedChild"><a class="menuA level0 menuSelectedChild" href="departments/public_works/building_department/forms_and_documents.php" target="_self" >Forms and Documents</a></li>
-</ul>
-<!-- \\ END of /plugins/menus/menus_section_list.include.jsp // -->
-        <!-- end plugin: menus.leftnav-section -->
-        </div>
-<!--Left Nav Area Ends-->	
-
-<!--Contact Area Starts-->			
-										
-  <div id="get-in-touch" style="background:url('./_assets_/images/quicklink-bg.jpg') center no-repeat;background-size:cover">
-    <div class="contactBtn">
-        
-        
-        
-        <script language="JavaScript" type="text/JavaScript">
-        RZ.module = 'global';
-        RZ.recordid = '';
-        RZ.nexturl = "editforms/contact-editform.jsp";
-        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-        RZ.img = '<img src="images/edit/edit_small.jpg" alt="Edit Contact" border="0" />';
-        RZ.set = 'global.pageid=contactlinks-102';
-        RZ.options = '';
-        if (typeof RZaction != 'undefined') RZaction('editform');
-        </script>
-    </div>
-    <div class="workinghourBtn">
-        
-        
-        
-        <script language="JavaScript" type="text/JavaScript">
-        RZ.module = 'global';
-        RZ.recordid = '';
-        RZ.nexturl = "editforms/global-editform.jsp";
-        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-        RZ.img = '<img src="images/edit/edit_small.jpg" alt="Edit Contact" border="0" />';
-        RZ.set = 'global.pageid=workinghourlinks-102';
-        RZ.options = '';
-        if (typeof RZaction != 'undefined') RZaction('editform');
-        </script>
-    </div>
-    <div class="addressBtn">
-        
-        
-        
-        <script language="JavaScript" type="text/JavaScript">
-        RZ.module = 'global';
-        RZ.recordid = '';
-        RZ.nexturl = "editforms/global-editform.jsp";
-        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-        RZ.img = '<img src="images/edit/edit_small.jpg" alt="Edit Contact" border="0" />';
-        RZ.set = 'global.pageid=addresslinks-102';
-        RZ.options = '';
-        if (typeof RZaction != 'undefined') RZaction('editform');
-        </script>
-    </div>
-    <div class="socialBtn">
-        
-        
-        
-        <script language="JavaScript" type="text/JavaScript">
-        RZ.module = 'global';
-        RZ.recordid = '';
-        RZ.nexturl = "editforms/social-editform.jsp";
-        RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-        RZ.img = '<img src="images/edit/edit_small.jpg" alt="Edit Contact" border="0" />';
-        RZ.set = 'global.pageid=sociallinks-102';
-        RZ.options = '';
-        if (typeof RZaction != 'undefined') RZaction('editform');
-        </script>
-    </div>
-
-     
-    <h3>Contact Us</h3>
-	
-    <div class="address">
-        
-		
-        <h4><div></h4>
-        <span style="color: #ffffff;">Office Hours: 8am - 4pm <br />Monday - Friday</span><br /><span style="color: #ffffff;">Phone:</span> <strong><a href="&quot;tel:4197745517">419-774-5517<br /></a></strong><span style="color: #000000;"><span style="color: #ffffff;"><a href="tel:4197745517"></a>Fax: 419-774-6317</span><br /><span style="color: #ffffff;">Address:</span> <a href="https://www.google.com/maps/place/1495+W+Longview+Ave,+Mansfield,+OH+44906/@40.7754925,-82.5646448,17z/data=!3m1!4b1!4m5!3m4!1s0x883994cb4f42c541:0x17a4565d3a1acb7d!8m2!3d40.7754925!4d-82.5624561" target="_blank">1495 West Longview Ave., Suite 202A,&nbsp; <br />Mansfield, Ohio&nbsp; 44906</a></span>
-    </div>
-    
-</div>
-
-
-<!--Contact Area Ends-->						        
-	</aside><!--#flyout-wrap-->
-</div><!--col-lg-3.col-md-4-->
-<!--Left Area Ends-->				
-				<div class="col-lg-8 col-md-8">
+				<div class="col-md-12">
 					<article id="entry">
 <!--Breadcrumb Area Starts-->					
 						<div id="breadcrumbs">
 	
-		<a href="./">Home</a><a href="departments/public_works/building_department/../../index.php">Departments</a><a href="departments/public_works/building_department/../public_works.php">Public&nbsp;Works</a>Building&nbsp;Department
+		<a href="./">Home</a>not&nbsp;found
     
 </div>
 <!--Breadcrumb Area Ends-->	
 
 <!--Page Title Area Starts-->		
 						  														
-						<h1>Building Department</h1>
+						<h1>404. The page/URL wasn't found on this site.</h1>
 <!--Page Title Area Ends-->			
 
 <!--Center Content Area Starts-->																																	
 						<div id="post">
 							<div class="editcenterBtns"> 
-							  
                                 
                                 
                                 <script language="JavaScript" type="text/JavaScript">
@@ -686,11 +535,11 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq
                                 RZ.nexturl = "editforms/freeform-editform.jsp";
                                 RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
                                 RZ.img = '<img src="images/edit/edit_center_area.jpg" alt="Edit Center Area" border="0" />';
-                                RZ.set = 'freeform.pageid=links-102';
+                                RZ.set = 'freeform.pageid=links-1482';
                                 RZ.options = '';
                                 if (typeof RZaction != 'undefined') RZaction('editform');
                                 </script>
-                              
+                                
 
 
 <!-- Revize Forward to Edit Form -->
@@ -700,7 +549,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq
 	RZ.nexturl = "editforms/metadata-editform.jsp";
 	RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
 	RZ.img = '<img src="./images/edit/edit_metadata.jpg" alt="Edit Metadata" border="0" />';
-	RZ.set = "freeform.pageid=links-102";
+	RZ.set = "freeform.pageid=links-1482";
 	RZ.options = '';
 	if (typeof RZaction != 'undefined') RZaction('editform');
 </script>
@@ -716,44 +565,17 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq
 </script>
 
                             </div><!-- /.centerBtns -->
-                        	<span class="subheader">About Us</span>The Richland County Building Department enforces code requirements and regulates the construction of buildings and structures within the Department&rsquo;s jurisdiction. We review and approve all plans and issue all permits required by the applicable, current codes for the construction, alteration, movement, enlargement, replacement, repair, equipment, use and occupancy, and location to all commercial and residential buildings and structures. Our primary mission is to insure the health, safety and welfare of the residents of Richland County and the areas under our jurisdiction.&nbsp;<br /><br />We are located in the Longview Building at 1495 West Longview Ave., Suite 202A, Mansfield, OH 44906.&nbsp; We are just past the elevator when you come in the Main Entrance.&nbsp; Our phone number is 419-774-5517.<br /><br /><span class="subheader">Online Payments</span>You are now able to pay for permits/fees online. Please click the link below to process your payment online using a Credit Card or eCheck.&nbsp;** A Service Fee will apply **<br /><br /><a href="https://swp.paymentsgateway.net/co/default.aspx?pg_api_login_id=3Hclz8Kycc" target="_blank"><img src="revize_photo_gallery/Department/Public Works/Codes Pay Button.png" border="0" alt="Codes Pay Button" hspace="0" vspace="0" width="233" height="56" align="default" /><br /></a><br /><span class="subheader">Quick Links and Answers</span>
-<ul>
-<li><a href= "departments/public_works/building_department/../../job_postings.php">Job Postings</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/OBC Commercial Application 10302017.pdf"rel="noopener noreferrer"  target="_blank"  >Commercial Building Permit &ndash; Application</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/New Commercial Richland Co Permit Fees_08012019.pdf"rel="noopener noreferrer"  target="_blank"  >Commercial Permit Fees for Richland County</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/New Commercial ACHSW Co Permit Fees_08012019.pdf"rel="noopener noreferrer"  target="_blank"  >Commercial Permit Fees for Ashland, Crawford, Huron, Seneca, &amp; Wyandot Counties</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/RCO Residential Application 10302017.pdf"rel="noopener noreferrer"  target="_blank"  >Residential Building Permit &ndash; Application</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/New Residential Richland Co Permit Fees_08012019.pdf"rel="noopener noreferrer"  target="_blank"  >Residential Permit Fees for Richland County</a></li>
-<li><a href= "document_center/Department/Public Works/Building Department/Partial CO Application.pdf"rel="noopener noreferrer"  target="_blank"  >Partial Certificate of Occupancy Application</a></li>
-<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScDfpUSdnJHUt_Rd_yAgebt3Nv5KXCUAYUyTc8CuzmjHq2EMQ/viewform?usp=sf_link" target="_blank">Permit Submission - Testing</a></li>
-</ul>
-<span class="subheader">News and Announcements<br /><span style="color: #304753; font-family: Lato, sans-serif; font-size: 16px; font-weight: 400;"><span style="font-size: 14pt; color: #ff0000;"><strong>Effective 8/1/2020, the Richland County Building Department will not be handling Building Permits or Complaints for Ashland County with the exception of the Village of Mifflin.&nbsp; Building Permits and Complaints can be sent to the City of Ashland Building Department.</strong></span><br /><br />** After August 30, 2019, the Richland County Building Department will no longer be handling Non-Residential / Commercial Buildings for the City of Ashland.&nbsp; Any projects submitted after August 30, 2019 will need to be submitted to the City of Ashland Building and Zoning Department at 206 Claremont Ave, 3rd&nbsp;Floor, Ashland, OH 44805 **</span></span><br />The 2019 Residential Code of Ohio (RCO) takes effect for all residential applications filed on or after July 1, 2019. ** &nbsp;&nbsp;<br /><br />The RCO applies to all construction and use of One-, Two-, and Three-Family Dwellings and residential accessory structures (sheds, decks, garages, barns, pools, etc.).&nbsp; The 2019 RCO can be found on the&nbsp;<a href= "document_center/Department/Public Works/Building Department/bbst_ResidentialCodeofOhioEffectiveJuly1,2019.pdf"rel="noopener noreferrer"  target="_blank"  >State of Ohio&rsquo;s website</a><br /><br /><strong>The 2019 Residential Code of Ohio include the following reference standards:</strong><br /><br />
-<ul>
-<li>Electrical: 2018 National Electric Code</li>
-<li>Energy Code: 2018 International Energy Conservation Code.&nbsp; Please note, there are 5 methods of energy code compliance.&nbsp; Per the Ohio Home Builders Association Option, 2x4 exterior walls are still permitted with a minimum of R-13 batt insulation.</li>
-</ul>
-The 2017 Ohio Building Code and referenced standards are effective November 1, 2017 along with any amendments.&nbsp; Please see the&nbsp;<a href= "departments/public_works/building_department/commercial.php">Commercial projects</a>&nbsp;page for more information.<br /><br /><a href= "document_center/Department/Public Works/Building Department/Forms & Documents/New OBC Commercial Building Plan Approval Fees Worksheet_07012017.xls"rel="noopener noreferrer"  target="_blank"  >New Commercial Building Plan Approval Fees Worksheet</a>&nbsp;has been developed to assist in the fee calculation process for Commercial projects. The Worksheet must be included with a Commercial Application.<br /><br /><span class="subheader">General Information</span>
-<ul>
-<li><a href= "document_center/Department/Public Works/Building Department/Smoke Detectors Save Lives.pdf" target="_blank"  >Smoke Alarms Save Lives</a>&nbsp;-&nbsp;<a href= "document_center/Department/Public Works/Building Department/fire_installCAMPAIGN.pdf" target="_blank"  >Install.Inspect.Protect</a>&nbsp;- important information about smoke alarms in residential houses and dwellings can be found on our&nbsp;<a href= "departments/public_works/building_department/residential.php">Residential Project Page</a></li>
-<li>Please visit our&nbsp;Forms page&nbsp;for applications, guides, checklists, fee schedules, and a list of Zoning Inspectors.</li>
-<li>Please visit our&nbsp;Links page&nbsp;for links to codes, state agencies, other Counties, and other Permitting agencies.</li>
-<li>Counties covered for Commercial Permits: Richland, Ashland, Crawford, Huron, Seneca, and Wyandot. Richland County for Residential permits except the City of Mansfield and the Village of Bellville.</li>
-<li>Richland County Soil and Water Department handles Stormwater permitting for unincorporated areas of Richland County only.&nbsp;<a rel="noopener noreferrer" href="http://www.richlandswcd.net/" target="_blank">Richland Soil and Water Conservation District.</a></li>
-<li>Applications are taken from 8 am-3:30 pm Monday through Friday.</li>
-<li>24 hours advance notice is required for all inspections. Foundation inspections may be scheduled the day of until 8:30 am if the inspection schedule permits.</li>
-<li>Inspectors are available for code related questions form 8-8:30 am and 3:30-4 pm.</li>
-<li><a href= "document_center/Department/Public Works/Building Department/Richland County Sanitary Sewer District Rules and Regulations eff 05122013.pdf" target="_blank"  >Revised Sanitary Sewer District Rules and Regulations</a>&nbsp;are posted on the&nbsp;Sanitary Engineering&nbsp;forms page</li>
-<li>New Flood Hazard Regulations and Maps are effective April 4, 2011.</li>
-<li>Significant Reforms were made to the National Flood Insurance Program effective July 6, 2012. Please see the&nbsp;Flood Insurance&nbsp;section for more information.</li>
-</ul>
+                        	
+
+   
 						</div><!--#post-->
-<!--Center Content Area Ends-->						
+<!--Center Content Area Ends-->							
 					</article><!--#entry-->
-				</div><!--.col-lg-9.col-md-8-->
+				</div><!--.col-md-12-->
 			</div><!--.row-->
 		</div><!--.container-->
 	</main>
-	
+    
 <!--Footer Area Starts-->	
  
      
@@ -779,7 +601,7 @@ The 2017 Ohio Building Code and referenced standards are effective November 1, 2
 			<div class="col-md-5" id="revize">
 Powered by <a href="https://www.revize.com" id="revize-link">revize.</a>, The Government Website Experts 
 
-<a href="https://cms8.revize.com/revize/security/index.jsp?webspace=richlandcountyoh&filename=/departments/public_works/building_department/index.php" id="revize-login">Login</a>
+<a href="https://cms8.revize.com/revize/security/index.jsp?webspace=richlandcountyoh&filename=/not_found/index.php" id="revize-login">Login</a>
 </div><!--/.col-md-6#revize-->
 <!--login Area Ends-->                                                   
 		</div><!--/.row-->
@@ -808,25 +630,25 @@ Powered by <a href="https://www.revize.com" id="revize-link">revize.</a>, The Go
 				<div class="modal-body">
 					<div class="copylink">
 						<p>Copy and paste this code into your website.</p>
-						<pre>&lt;a href="http://www.richlandcountyoh.gov/departments/public_works/building_department/index.php">Your Link Name&lt;/a&gt;</pre>
+						<pre>&lt;a href="http://www.richlandcountyoh.gov/robots.txt">Your Link Name&lt;/a&gt;</pre>
 					</div><!-- /.copylink -->
 					<div class="share-btns">
 						<p>Share this page on your favorite Social network</p>
 						<div class="row">
 							<div class="col-sm-4">
-								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.richlandcountyoh.gov/departments/public_works/building_department/index.php" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
+								<a href="https://www.facebook.com/sharer/sharer.php?u=http://www.richlandcountyoh.gov/robots.txt" class="btn-facebook" onclick="return !window.open(this.href, 'facebook ', 'width=500,height=500')"
 								target="_blank">
 									<i class="fa fa-facebook"></i> Facebook
 								</a>
 							</div>
 							<div class="col-sm-4">
-								<a href="https://www.twitter.com/home?status=http://www.richlandcountyoh.gov/departments/public_works/building_department/index.php" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
+								<a href="https://www.twitter.com/home?status=http://www.richlandcountyoh.gov/robots.txt" class="btn-twitter" onclick="return !window.open(this.href, 'twitter ', 'width=500,height=500')"
 								target="_blank">
 									<i class="fa fa-twitter"></i> Twitter
 								</a>
 							</div>
 							<div class="col-sm-4">
-								<a href="https://www.reddit.com/submit?url=http://www.richlandcountyoh.gov/departments/public_works/building_department/index.php" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
+								<a href="https://www.reddit.com/submit?url=http://www.richlandcountyoh.gov/robots.txt" class="btn-reddit" onclick="return !window.open(this.href, 'redit ', 'width=500,height=500')"
 								target="_blank">
 									<i class="fa fa-reddit"></i> Reddit
 								</a>
@@ -848,8 +670,8 @@ Powered by <a href="https://www.revize.com" id="revize-link">revize.</a>, The Go
 	<script src="_assets_/js/scripts.js"></script>
     
 <!--Goole Analytics Code Area Starts-->
-<!--Goole Analytics Code Area Ends-->
-
+<!--Goole Analytics Code Area Ends-->    
+    
 <!-- // BEG of /plugins/setup/setup.before_endbody.template_include.jsp \\ -->
 <!-- // BEG of /plugins/setup/setup.before_endbody.common_include.jsp \\ -->
 <!-- \\ END of /plugins/setup/setup.before_endhead.common_include.jsp // -->
@@ -867,6 +689,5 @@ s.parentNode.insertBefore(ga, s);
 </script>
 <!-- \\ END of google.analytics_before_endbody.template_include.jsp // -->
 
-<!-- \\ END of /plugins/setup/setup.before_endbody.template_include.jsp // -->
-</body>
+<!-- \\ END of /plugins/setup/setup.before_endbody.template_include.jsp // --></body>
 </html>

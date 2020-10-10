@@ -1,61 +1,128 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html dir="ltr"><head><!--  Copyright (c) 1999, 2003, Oracle Corporation.  All rights reserved. --><title>Application Error</title>
+<style type="text/css">
+.OraHeaderSub
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 16pt;
+}
+.OraInstructionText
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 10pt;
+}
+.OraErrorHeader
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 11pt;
+     font-weight: bold ;
+}
+.OraErrorText
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 10pt;
+}
+.OraFieldText
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 10pt;
+     font-weight: normal;
+}
+.OraCopyright
+{
+     font-family: Arial, Helvetica, Geneva, sans-serif;
+     font-size: 8pt;
+}
+.style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.style4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.style4u {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	text-decoration: underline;
+}
+.style7 {
+	font-weight: bold;
+}
+.style8 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.style9 {font-size: 14px}
+</style></head>
 
-User-agent: *
-# CSS, JS, Images
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /profiles/*.svg
-# Directories
-Disallow: /core/
-Disallow: /profiles/
-# Files
-Disallow: /README.txt
-Disallow: /web.config
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-# Paths (no clean URLs)
-Disallow: /index.php/admin/
-Disallow: /index.php/comment/reply/
-Disallow: /index.php/filter/tips
-Disallow: /index.php/node/add/
-Disallow: /index.php/search/
-Disallow: /index.php/user/password/
-Disallow: /index.php/user/register/
-Disallow: /index.php/user/login/
-Disallow: /index.php/user/logout/
+<body bgcolor="#ffffff">
+<div class=Section1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width="50%" style='width:50.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal></p>
+  </td>
+        <td style='padding:0in 0in 0in 0in'> <p class=MsoNormal> 
+             <img src="/image_livit.jpg" width="284" height="133"> 
+          </p>
+  </td>
+  <td width="50%" nowrap valign=bottom style='width:50.0%;padding:0in 0in 0in 0in'>
+  <p class=MsoNormal align=right style='text-align:right'><a
+  href="http://www.llnl.gov/disclaimer.html" target="_blank">Privacy &amp;
+  Legal Notice</a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+  <hr size="5">
+  
+<p align=center style='text-align:center'><strong><span style='font-size:24.0pt;
+color:#000000'><font size="7">Application Error</font></span></strong></p>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+  <hr size="5">
+
+</div>
+
+<p align="right">&nbsp;</p>
+<p><span >The application you are attempting to access has experienced 
+  an error. This may be due to our application release window. If this error occurred 
+  outside of the application release window please contact Infrastructure Management Services
+  at (925)423-0586.</span>
+<div align="left">
+      <p> <span ><u>LivIT Maintenance Schedule</u>:<br>
+        <a href="https://myconfluence.llnl.gov/display/IMS/LivIT+Maintenance+Schedule" target="_blank">https://myconfluence.llnl.gov/display/IMS/LivIT+Maintenance+Schedule</a>
+<p>
+        <span ><strong>Please be prepared  to provide the following information:</strong></span><span ><br>
+        <br>
+          1) The URL you were attempting to access<br>
+          2) The error message that you received (if any)<br>
+          3) A brief description of the application functionality you were attempting to use<br>
+          4) Contact information where you may be reached for further information regarding this problem</span>
+        <SCRIPT LANGUAGE=JAVASCRIPT TYPE="TEXT/JAVASCRIPT">
+  		if (document.referrer != '')
+#		{
+#		var url= document.referrer
+#  		document.write('<span class="style8">*Note: The URL that referred you to this site was: <a href=' + url + '>' + url + '</span>');
+#		}
+		else
+		{
+		document.write('<p><span >*Note: use back button and copy/paste URL if necessary</span><br>');
+		}
+		</SCRIPT>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</div>
+</body>
+</html>
+<!--
+<html>
+        </p><img class="confluence-embedded-image" src="/LivIT_Maintenance_Schedule.jpg" data-image-src="/LivIT_Maintenance_Schedule.jpg"></a></p>
+</html>
+-->

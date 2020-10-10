@@ -236,6 +236,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Candidate-Qualifying
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Candidates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Committees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Copy-of-Candidate-Qualifying-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Early-Voting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Election-Calendars
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Election-Forms-Handbooks-and-Guides
@@ -243,9 +244,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Frequently-Asked-Questions-FAQs-About-Elections
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Qualifying
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Vacancy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Vacancy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Civilian-Investigative-Panel
@@ -255,6 +258,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-City-Clerk-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Management-Budget-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -448,6 +452,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/municode/procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/negotiationmeeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Newbusinessfeedback
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page-1
@@ -479,6 +484,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/PublicRecords
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Access-Miami-Jobs-Redirect
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/City_Officials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/CommunityMeeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-CommunityMeeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-film-permits-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Project-Intake-Form-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-PublicRecords-1
@@ -486,6 +492,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-PublicRecord
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-sealevelrise-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-SSPR-Redirect-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-UDRB-Application-CheckList-PDF-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Union-Negotiation-Meeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-virginiakey-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Web-Request-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/eStart
@@ -510,6 +517,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Senior-Data-Fellow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Special-Events
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/SSPR-Redirect
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/UDRB-Application-CheckList-PDF
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Union-Negotiation-Meeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Unsafe-Structures
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/virginiakey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Virtual-Community-Budget-Meeting
@@ -1061,6 +1069,7 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Cam
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Candidate-Qualifying
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Candidates
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Committees
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Copy-of-Candidate-Qualifying-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Early-Voting
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Election-Calendars
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Election-Forms-Handbooks-and-Guides
@@ -1068,9 +1077,11 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Ele
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Frequently-Asked-Questions-FAQs-About-Elections
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Qualifying
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Vacancy
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/New-page
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Vacancy
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel
@@ -1080,6 +1091,7 @@ Disallow: /Government/Departments-Organizations/Copy-of-City-Attorney-1
 Disallow: /Government/Departments-Organizations/Copy-of-City-Clerk-1
 Disallow: /Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
+Disallow: /Government/Departments-Organizations/Copy-of-Management-Budget-1
 Disallow: /Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -1279,6 +1291,7 @@ Disallow: /municode/procurement
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
+Disallow: /negotiationmeeting
 Disallow: /Newbusinessfeedback
 Disallow: /New-page/Resources
 Disallow: /New-page-1
@@ -1310,6 +1323,7 @@ Disallow: /PublicRecords
 Disallow: /redirects/Access-Miami-Jobs-Redirect
 Disallow: /redirects/City_Officials
 Disallow: /redirects/CommunityMeeting
+Disallow: /redirects/Copy-of-CommunityMeeting-1
 Disallow: /redirects/Copy-of-film-permits-1
 Disallow: /redirects/Copy-of-Project-Intake-Form-1
 Disallow: /redirects/Copy-of-PublicRecords-1
@@ -1317,6 +1331,7 @@ Disallow: /redirects/Copy-of-PublicRecords-2
 Disallow: /redirects/Copy-of-sealevelrise-1
 Disallow: /redirects/Copy-of-SSPR-Redirect-1
 Disallow: /redirects/Copy-of-UDRB-Application-CheckList-PDF-1
+Disallow: /redirects/Copy-of-Union-Negotiation-Meeting-1
 Disallow: /redirects/Copy-of-virginiakey-1
 Disallow: /redirects/Copy-of-Web-Request-1
 Disallow: /redirects/eStart
@@ -1341,6 +1356,7 @@ Disallow: /redirects/Senior-Data-Fellow
 Disallow: /redirects/Special-Events
 Disallow: /redirects/SSPR-Redirect
 Disallow: /redirects/UDRB-Application-CheckList-PDF
+Disallow: /redirects/Union-Negotiation-Meeting
 Disallow: /redirects/Unsafe-Structures
 Disallow: /redirects/virginiakey
 Disallow: /redirects/Virtual-Community-Budget-Meeting

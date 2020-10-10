@@ -89,8 +89,8 @@
 <div class="wrapper">
 <ul id="taskMenu">
 <li class="main1 li_length7">
-<a alt="Planning for College" title="Planning for College" href="plan?main=1">
-<p>Planning for College</p>
+<a alt="Planning for College" title="Planning for College" href="plan?main=1" class="nav-text">
+<p class="first-line">Planning for College</p>
 </a>
 <ul>
 <li>
@@ -157,8 +157,8 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="Picking a School" title="Picking a School" href="picking_aschool?main=1">
-<p>Picking a School</p>
+<a alt="Picking a School" title="Picking a School" href="picking_aschool?main=1" class="nav-text">
+<p class="first-line">Picking a School</p>
 </a>
 <ul>
 <li>
@@ -187,8 +187,8 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="Paying for College" title="Paying for College" href="paying?main=1">
-<p>Paying for College</p>
+<a alt="Paying for College" title="Paying for College" href="paying?main=1" class="nav-text">
+<p class="first-line">Paying for College</p>
 </a>
 <ul>
 <li>
@@ -302,8 +302,8 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="College Life" title="College Life" href="col_life?main=1">
-<p>College Life</p>
+<a alt="College Life" title="College Life" href="col_life?main=1" class="nav-text">
+<p class="first-line">College Life</p>
 </a>
 <ul>
 <li>
@@ -324,8 +324,8 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="Money Management" title="Money Management" href="money_mgmt?main=1">
-<p>Money Management</p>
+<a alt="Money Management" title="Money Management" href="money_mgmt?main=1" class="nav-text">
+<p class="first-line">Money Management</p>
 </a>
 <ul>
 <li>
@@ -372,8 +372,8 @@
 </ul>
 </li>
 <li class="main1 li_length7">
-<a alt="Other Resources" title="Other Resources" href="other_resources?main=1">
-<p>Other Resources</p>
+<a alt="Other Resources" title="Other Resources" href="other_resources?main=1" class="nav-text">
+<p class="first-line">Other Resources</p>
 </a>
 <ul>
 <li>

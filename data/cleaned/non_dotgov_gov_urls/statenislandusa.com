@@ -16,4 +16,3 @@ Disallow: /opioidreport.html
 Disallow: /iframe.html
 Disallow: /hosting1.html
 Disallow: /hold031920.html
-Disallow: /checkin.html

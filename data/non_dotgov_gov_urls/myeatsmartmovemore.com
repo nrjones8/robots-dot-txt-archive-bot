@@ -30,6 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Description" content="Eat Smart, Move More NC is a statewide movement promoting opportunities for healthy eating and physical activity wherever people live, learn, earn, play, and pray.">
   <meta class="foundation-mq">
 
   <!-- If Site Icon isn't set in customizer -->
@@ -184,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>    
     <section class="show-for-xlarge">
       <a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">
-        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-2.png" alt="Core Behaviors" class="headerCoreBanner">
+        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-8.png" alt="Core Behaviors" class="headerCoreBanner">
       </a>
     </section>
     

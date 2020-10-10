@@ -1317,7 +1317,7 @@ a:hover {
 </div>
                             </div>
                             <div id="bottomcol2" class="noindex">
-                                <a href="/news/Lists/Posts/Post.aspx?ID=1354">​One Week Left to Register to Vote in Nov. 3 General Election</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1353">Wake County Continuing Free COVID-19 Testing Next Week in Raleigh, Wake Forest</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1352">​Wake County Receives Grant to Help Improve Health Outcomes of ‘Familiar Faces’</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1351">​Wake County Firearms Education and Training Center to Reopen Friday with COVID-19 Safety Measures</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1350">New House Wake! COVID-19 Eviction Prevention Program Helps Renters Avoid Losing their Homes</a><br /><br /><a style="display:block; text-align:right; font-size:12px;" href="/news/Lists/Categories/Category.aspx?CategoryId=5&Name=WakeGOV Home Page">View More...</a>
+                                <a href="/news/Lists/Posts/Post.aspx?ID=1359">The Pressure is on — Wake Takes New Steps to Slow the Spread of COVID-19</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1358">Wake County to Continue Free Drive-Thru COVID-19 Testing Next Week in Raleigh, Wake Forest</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1357">COVID-19 Expected to Increase Need for Donations to Annual Holiday Cheer Program</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1356">​Wake Libraries Offer Spooktacular Halloween Events</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1354">​Final Week to Register to Vote in Nov. 3 General Election</a><br /><br /><a style="display:block; text-align:right; font-size:12px;" href="/news/Lists/Categories/Category.aspx?CategoryId=5&Name=WakeGOV Home Page">View More...</a>
                             </div>
                             <div id="bottomcol3" class="noindex">
                                 <div style="height: 75px;"><a href="https://www.facebook.com/wakegov/"><img alt="Facebook" src="/SiteAssets/Lists/Footer%20Content/EditForm/Facebook-3.png" style="margin: 5px;"/></a><a href="https://twitter.com/wakegov"><img alt="Twitter" src="/SiteAssets/Lists/Footer%20Content/EditForm/Twitter-2.png" style="margin: 5px;"/></a><a href="https://www.instagram.com/wakegov/"><img alt="Instagram" src="/SiteAssets/Lists/Footer%20Content/EditForm/Instagram-2.png" style="margin: 5px;"/></a><a href="https://www.youtube.com/user/wakegov"><img alt="YouTube" src="/SiteAssets/Lists/Footer%20Content/EditForm/Youtube-2.png" style="margin: 5px;"/></a>&#160;<br/><br/><br/></div>
@@ -1563,4 +1563,4 @@ Sys.Application.add_init(function() {
 
 </body>
 </html>
-<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2020-10-03T01:54:01 -->
+<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2020-10-10T01:53:55 -->
