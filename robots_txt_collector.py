@@ -50,6 +50,7 @@ def main():
     domains = get_domain_data()
     cpu_count = mp.cpu_count()
     print('Has {} CPUs, using them all'.format(cpu_count))
+    print('Will be gathering from {} domains'.format(len(domains)))
     with mp.Pool(cpu_count) as p:
         p.map(get_and_save_robots_txt, domains)
     print('All done.')

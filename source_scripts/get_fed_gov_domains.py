@@ -9,6 +9,8 @@ INDEX_OF_AGENCIES = 'https://www.usa.gov/federal-agencies'
 BASE_URL = 'https://www.usa.gov'
 
 
+SITE_TYPE = 'fed_gov_from_usa_dot_gov'
+
 def get_list_of_about_pages():
     all_about_pages = []
     for agency_first_letter in string.ascii_lowercase:
@@ -50,7 +52,7 @@ def write_hostnames(fname, list_of_hostnames):
         writer = csv.DictWriter(f, fieldnames=['domain', 'site_type'])
         writer.writeheader()
         # yeah there is probably a better way to do this, sry
-        writer.writerows([{'domain': h, 'site_type': 'fed_gov'} for h in list_of_hostnames])
+        writer.writerows([{'domain': h, 'site_type': SITE_TYPE} for h in list_of_hostnames])
 
     print('Wrote out to {}'.format(fname))
 
@@ -66,7 +68,7 @@ def main():
             hostnames.append(agency_site_hostname)
 
     sorted_deduped = sorted(list(set(hostnames)))
-    write_hostnames('fed_gov_hostnames.csv', sorted_deduped)
+    write_hostnames('domain_sources/{}.csv'.format(SITE_TYPE), sorted_deduped)
 
     # for h in hostnames:
     #     print(h)

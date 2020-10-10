@@ -1,0 +1,54 @@
+User-agent: *
+
+User-agent: W3C-checklink
+Disallow: /cgi-bin/
+Disallow: /libs/
+Disallow: /tmp/
+Disallow: /etc/
+
+Disallow: /about/adrm/data-linkage/
+allow: /etc.clientlibs/census/clientlibs
+allow: /etc/clientlibs/granite
+allow: /etc/clientlibs/foundation
+
+User-agent: Googlebot
+Crawl-delay: 3
+Disallow: /cgi-bin/
+Disallow: /libs/
+Disallow: /tmp/
+Disallow: /etc/
+
+Disallow: /about/adrm/data-linkage/
+allow: /etc.clientlibs/census/clientlibs
+allow: /etc/clientlibs/granite
+allow: /etc/clientlibs/foundation
+
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 3
+Disallow: /cgi-bin/
+Disallow: /libs/
+Disallow: /tmp/
+Disallow: /etc/
+
+Disallow: /about/adrm/data-linkage/
+allow: /etc.clientlibs/census/clientlibs
+allow: /etc/clientlibs/granite
+allow: /etc/clientlibs/foundation
+
+User-agent: bingbot
+Crawl-delay: 3
+Disallow: /cgi-bin/
+Disallow: /libs/
+Disallow: /tmp/
+Disallow: /etc/
+
+Disallow: /about/adrm/data-linkage/
+allow: /etc.clientlibs/census/clientlibs
+allow: /etc/clientlibs/granite
+allow: /etc/clientlibs/foundation
+
+User-agent: usasearch
+SITEMAP: https://www.census.gov/sitemapindex/sitemap.xml
+SITEMAP: https://www.census.gov/quickfacts/fact/sitemap/US/PST045217
+SITEMAP: https://2020census.gov/en/sitemapindex/sitemap.xml

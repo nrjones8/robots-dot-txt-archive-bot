@@ -37,6 +37,7 @@ def main():
     all_domains.extend(read_from_csv('dotgov_domains.csv', 'Domain Name'))
     all_domains.extend(read_from_csv('non_dotgov_gov_urls.csv', '\ufeffDomain'))
     all_domains.extend(read_from_csv('state_local_public_health.csv', 'domain'))
+    all_domains.extend(read_from_csv('fed_gov_from_usa_dot_gov.csv', 'domain'))
     write_all_domains(all_domains)
 
 if __name__ == '__main__':
