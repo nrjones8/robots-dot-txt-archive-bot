@@ -406,7 +406,7 @@ RZ.jsversion = 1.2//--><!]]></script>
   
   
   
-    <a href="https://www.youtube.com/watch?v=BB4ovPBwrnw" class="social-media-link"><div class="social-icon" style="background:url('./_assets_/images/youtube.png') center no-repeat;background-size:cover"></div><span class="sr-only">Youtube link</span></a>
+    <a href="https://www.youtube.com/channel/UCGYLmBGdPaj0shSwiIow2-A?view_as=subscriber" class="social-media-link"><div class="social-icon" style="background:url('./_assets_/images/youtube.png') center no-repeat;background-size:cover"></div><span class="sr-only">Youtube link</span></a>
   
 </div><!--/.social-media-links-->
 <div id="search-toggle" class="hidden-sm hidden-xs">search<img src="./_assets_/images/search.png" alt="search"></div>
@@ -802,7 +802,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
           
           
           
-          <a href="https://www.youtube.com/watch?v=BB4ovPBwrnw" class="social-media-link"><div class="social-icon" style="background:url('./_assets_/images/youtube.png') center no-repeat;background-size:cover"></div><span class="sr-only">Youtube link</span></a>
+          <a href="https://www.youtube.com/channel/UCGYLmBGdPaj0shSwiIow2-A?view_as=subscriber" class="social-media-link"><div class="social-icon" style="background:url('./_assets_/images/youtube.png') center no-repeat;background-size:cover"></div><span class="sr-only">Youtube link</span></a>
           
         </div><!--/.social-media-links-->
       </div><!--/.footer-item-->

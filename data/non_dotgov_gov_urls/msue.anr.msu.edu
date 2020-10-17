@@ -66,7 +66,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 
-<!-- Server Inode: 875a4bb1-->
+<!-- Server Inode: 22c9d17f-->
 
 
 <body  class="template template--child template--child-photo errorpages   ">
@@ -165,8 +165,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="row">
                                                                     <div class="large-12 columns gtm-conversions-content">
                       
-<div class="small-12 large-3 columns" id="stickyContainer" data-sticky-container>
-    <div class="sticky" id="sticky" data-sticky data-margin-top="2" data-margin-bottom="2" data-anchor="content" data-check-every="0">
+    <div class="small-12 large-3 columns">
+    <div>
         <div id="filters">
                         
                                     
@@ -180,58 +180,59 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 
 <form action="/search#results" method="get" id="searchWidget">
-            
-                            
-    
-	<input name="siteContext" type="hidden" value="">
-    
-	
-	
-            <p><label for="widgetSearchBox">Search for</label> <input name="q" id="widgetSearchBox" type="text" placeholder="Search" value=""></p>
-    
-                <p>
-            <label for="contentTypeOption">Filter by content type</label>
-            <select class="" name="contentTypeOption" id="contentTypeOption" onchange="loadCats()">
-                <option value="">Select...</option>
-				<option value="Article,DigitalDocument" >Articles</option>
-				<option value="Course" >Courses</option>
-                <option value="calendarEvent"  >Events</option>
-				<option value="Course,VideoObject" >Online Learning</option>
-                <option value="Person" >People</option>
-                <option value="AudioObject" >Podcasts</option>
-				<option value="Product" >Products</option>
-				<option value="DigitalDocument,Publication" >Publications</option>
-				<option value="Recipe"  >Recipes</option>
-				<option value="VideoObject"  >Videos</option>
-												                								                
-            </select>
-        </p>
-        <div id="contentTypeCategory" >
-    		                    		<p id="genericTags">
-        			<label for="tag">Filter by Tags</label>
-        			<span class="hintText">Separate tags by commas.</span>
-        			<input type="text" name="tag" value="">
-        		</p>
-        	    	</div>
-    	
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBf1Qf-kgUlRjTEys9Z5JqH5XcNkFoGJ-0&v=3.exp&signed_in=true&libraries=places"></script>
-        <script type="text/javascript">
-            function loadCats(){
-                var xhttp = new XMLHttpRequest();
-                var contentType = document.getElementById("contentTypeOption").value;
-                var tag ='<p id="genericTags"><label for="tag">Filter by Tags</label><span class="hintText">Separate tags by commas.</span><input type="text" name="tag" value=""></p>';
-                console.log(contentType);
-                console.log('ajax: &tag=')
-                xhttp.onreadystatechange = function(){
-                    if (this.readyState == 4 && this.status == 200){
-                        document.getElementById("contentTypeCategory").innerHTML = this.responseText;
-                        /* insert global tags if user switches content type back to blank */
-                        if(contentType == ""){
-                            document.getElementById("contentTypeCategory").innerHTML = tag;
-                        }
+	<fieldset>
+	    	        
+	        	        	        	    
+	    
+		<input name="siteContext" type="hidden" value="">
+	    
+		
+		
+	    	        <p><label for="widgetSearchBox">Search for</label> <input name="q" id="widgetSearchBox" type="text" placeholder="Search" value=""></p>
+	    
+	    	    	        <p>
+	            <label for="contentTypeOption">Filter by content type</label>
+	            <select class="" name="contentTypeOption" id="contentTypeOption" onchange="loadCats()">
+	                <option value="">Select...</option>
+					<option value="Article,DigitalDocument" >Articles</option>
+					<option value="Course" >Courses</option>
+	                <option value="calendarEvent"  >Events</option>
+					<option value="Course,VideoObject" >Online Learning</option>
+	                <option value="Person" >People</option>
+	                <option value="AudioObject" >Podcasts</option>
+					<option value="Product" >Products</option>
+					<option value="DigitalDocument,Publication" >Publications</option>
+					<option value="Recipe"  >Recipes</option>
+					<option value="VideoObject"  >Videos</option>
+																                											                
+	            </select>
+	        </p>
+	        <div id="contentTypeCategory" >
+	    			            	        		<p id="genericTags">
+	        			<label for="tag">Filter by Tags</label>
+	        			<span class="hintText">Separate tags by commas.</span>
+	        			<input type="text" name="tag" value="">
+	        		</p>
+	        		    	</div>
+	    	
+	        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBf1Qf-kgUlRjTEys9Z5JqH5XcNkFoGJ-0&v=3.exp&signed_in=true&libraries=places"></script>
+	        <script type="text/javascript">
+	            function loadCats(){
+	                var xhttp = new XMLHttpRequest();
+	                var contentType = document.getElementById("contentTypeOption").value;
+	                var tag ='<p id="genericTags"><label for="tag">Filter by Tags</label><span class="hintText">Separate tags by commas.</span><input type="text" name="tag" value=""></p>';
+	                console.log(contentType);
+	                console.log('ajax: &tag=')
+	                xhttp.onreadystatechange = function(){
+	                    if (this.readyState == 4 && this.status == 200){
+	                        document.getElementById("contentTypeCategory").innerHTML = this.responseText;
+	                        /* insert global tags if user switches content type back to blank */
+	                        if(contentType == ""){
+	                            document.getElementById("contentTypeCategory").innerHTML = tag;
+	                        }
 
-                        if(contentType == "calendarEvent"){
-                              
+	                        if(contentType == "calendarEvent"){
+	                              
   
 
             	    	    		  		  	  	  		  		  		  	      
@@ -438,45 +439,24 @@ if (latLong.value) {
     
 
   
-                          }
-                    }
-                };
-                xhttp.open("GET", "https://www.canr.msu.edu/framework/search/site-searchcategories?contentTypeQuery="+contentType+"&tag=", true);
-                xhttp.send();
-            }
-        </script>
-    
-    <p><input type="submit" data-gtmconversions="button-search" name="search" value="Search" class="button"> <a class="button" data-gtmconversions="button-clear" href="/errorpages/cms404page">Clear</a></p>
+  	                        }
+	                    }
+	                };
+	                xhttp.open("GET", "https://www.canr.msu.edu/framework/search/site-searchcategories?contentTypeQuery="+contentType+"&tag=", true);
+	                xhttp.send();
+	            }
+	        </script>
+	    	</fieldset>
+
+		
+    <p><input type="submit" data-gtmconversions="button-search" name="search" onclick = "GetSelected()" value="Search" class="button"> <a class="button" data-gtmconversions="button-clear" href="/errorpages/cms404page">Clear</a></p>
 </form>
 
             <p id="message"></p>
         </div>
     </div>
-</div>
-
-<script type="text/javascript">
-function windowSize(){
-    var w = document.documentElement.clientWidth;
-    var filters = document.getElementById("filters");
-    var sticky = document.getElementById("sticky");
-    var stickyContainer = document.getElementById("stickyContainer");
-    var results = document.getElementById("results-container");
-    var message = document.getElementById("message");
-    if(w < 1024){
-        results.insertBefore(filters, results.childNodes[0]);
-        stickyContainer.style.display = "none";
-        message.innerHTML="<a data-gtmconversions='searchresult-filters' href='#'>^^^ Back to search ^^^</a>";
-    } else{
-        sticky.insertBefore(filters, sticky.childNodes[0]);
-        stickyContainer.style.display = "block";
-        message.innerHTML="";
-    }
-};
-window.addEventListener("load", windowSize);
-window.addEventListener("resize", windowSize);
-windowSize();
-</script>
-<div class="small-12 large-9 columns" id="results-container" >
+    </div>
+    <div class="small-12 large-9 columns" id="results-container">
             <h1>404: Page Not Found</h1>
 <div>&nbsp;
 <p>The content you are looking for is no longer available. Use the search to find&nbsp;content that matches your interests.</p>

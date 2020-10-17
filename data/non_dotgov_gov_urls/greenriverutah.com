@@ -249,6 +249,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			</li>
 			<li class="menuLI level1 menuHidden li-373"><a class="menuA level1 menuHidden" href="community/local_news_.php" target="_self">Local News</a></li>
 			<li class="menuLI level1 menuHidden li-394"><a class="menuA level1 menuHidden" href="https://2020census.gov/" target="_new">US Census 2020</a></li>
+			<li class="menuLI level1 menuHidden li-410"><a class="menuA level1 menuHidden" href="Doc2.pdf" target="_new">2020 Election</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-338 children"><a class="menuA level0 menuDisplay" href="economic/index.php" target="_self">Economic</a>

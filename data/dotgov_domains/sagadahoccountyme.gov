@@ -64,7 +64,6 @@
 <!-- // BEG of setup.before_endhead.common javascript \\ -->
 <script type="text/javascript">
 
-
 <!-- // BEG of /plugins/setup/setup.common_endhead.js \\ -->
 // Javascript included on all pages
 <!-- \\ END of /plugins/setup/setup.common_endhead.js // -->
@@ -193,7 +192,7 @@ RZ.isauthenticationactive = true
 RZ.warning = "webspace_page_permissions record not found where: webspace_page_permissions.page_key=admin[]"
 RZ.adminwinmsg = null
 
-RZ.channels = 'Production,revize';
+RZ.channels = 'revize,Production';
 RZ.jsversion = 1.2//--><!]]></script>
 <script type="text/javascript" src="/revize/util/snippet_helper.js"></script>
 

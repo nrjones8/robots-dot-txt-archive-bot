@@ -32,10 +32,10 @@ ga('NISTGSA.send', 'pageview');</script>
 
     <title>Standards.gov | NIST</title>
     <link rel="stylesheet" media="all" href="/sites/default/files/css/css__WBgvfKqm73l8oEI6_Lx5V9jPQCnpRf51sppztYdCRc.css" />
-<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_jYZv5rK868ELAkTtTYz_L4rZFhD_zJ1SIs2OJ3R2pqg.css" />
-<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Wmk7cHp8tUe6LbVg3R63qxW01aH9Q-8Q4W2Hu6mxCwE.css" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_QjJJwK3xM9GhvZw2QHpjt4tWAyRDr0y8WumNzjT6XCw.css" />
-<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_6ctoGlJAjs0JAFmX3r7NdJHUTh8kZ-mu9SPxXDCoH4A.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_WjwKx0AE6OOWaLGaqBW6abNdmCJVCfIfS1iXezAUNLc.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_zbjDhj-AmeVwgu9y0DlPwEfp7l-a5BpoK3MpoGmRB6o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_PV0KmreUx3hVeYI6yGypf71UDz9BSQl1Z5DjiESDh-Y.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_aOni63X0UjNIs1Nw6JQh-nQeCr2uEcyvLb0jGlE_J-U.css" />
 
     
 <!--[if lte IE 8]>
@@ -52,7 +52,8 @@ ga('NISTGSA.send', 'pageview');</script>
       <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
     
   
-<div class="usa-banner">
+
+<section class="usa-banner" aria-label="Official government website">
   <div class="usa-accordion">
     <header class="usa-banner__header">
       <div class="usa-banner__inner">
@@ -61,40 +62,41 @@ ga('NISTGSA.send', 'pageview');</script>
         </div>
         <div class="grid-col-fill tablet:grid-col-auto">
           <p class="usa-banner__header-text">An official website of the United States government</p>
-          <p class="usa-banner__header-action" aria-hidden="true">Info</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
         </div>
         <button class="usa-accordion__button usa-banner__button"
           aria-expanded="false" aria-controls="gov-banner">
-          <span class="usa-banner__button-text">Info</span>
+          <span class="usa-banner__button-text">Here’s how you know</span>
         </button>
       </div>
     </header>
     <div class="usa-banner__content usa-accordion__content" id="gov-banner">
       <div class="grid-row grid-gap-lg">
         <div class="usa-banner__guidance tablet:grid-col-6">
-          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-dot-gov.svg" alt="Dot gov">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-dot-gov.svg" role="img" alt="Dot gov">
           <div class="usa-media-block__body">
             <p>
-              <strong>The .gov means it’s official.</strong>
+              <strong>Official websites use .gov</strong>
               <br>
-              Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site.
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
             </p>
           </div>
         </div>
         <div class="usa-banner__guidance tablet:grid-col-6">
-          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-https.svg" alt="Https">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-https.svg" role="img" alt="Https">
           <div class="usa-media-block__body">
             <p>
-              <strong>The site is secure.</strong>
+              <strong>Secure .gov websites use HTTPS</strong>
               <br>
-              The <strong>https://</strong> ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+              A <strong>lock</strong> (  <span class="icon-lock"><svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewBox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description"><title id="banner-lock-title">Lock</title><desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg></span>
+) or <strong>https://</strong> means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
             </p>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</section>
 
     
     
@@ -107,12 +109,12 @@ ga('NISTGSA.send', 'pageview');</script>
 <div class="usa-overlay"></div>
 <header class="usa-header nist-header--www nist-header--minimal" role="banner">
       <div class="usa-navbar">
-    <div class="usa-logo flex-auto">
+    <div class="usa-logo flex-fill">
           <a href="/" title="National Institute of Standards and Technology" aria-label="Home">
       <img src="/libraries/nist-component-library/dist/img/logo/logo.svg" alt="National Institute of Standards and Technology" />
     </a>
       </div>
-    <div class="usa-header__right grid-row grid-gap-1">
+    <div class="usa-header__right grid-row grid-gap-1 flex-auto">
                           <div class="grid-col-fill nist-header__search-group">
                   
 <form class="usa-search usa-search--small" 
@@ -921,7 +923,7 @@ ga('NISTGSA.send', 'pageview');</script>
       >                    <div class="string">Awards</div>
             </h2>
       
-                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-5d3135fe88eb3caf951776fe4a6e90145dcb2ed6938bccffd0cf916384a35fd4">
+                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-fa04d64350bf235ce718c645bf3aaf06aaf7de9752622b2a48553cfe3b2f04bc">
   
   
   
@@ -1326,6 +1328,6 @@ ga('NISTGSA.send', 'pageview');</script>
     
     
   <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/411931","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_prevent_on_mobile":0,"back_to_top_prevent_in_admin":1,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|bsh|c|csv|doc(x|m)?|dot(x|m)?|dw(fx|g|gd)|dxf|eps|epub|exe|f(90)|flv|gif|gz|gzip|hqx|jar|jpe?g|js|m1v|mp(2|3|4|e?g)|mobi|mov(ie)?|msi|msp|pdf|phps|pl|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|rfa|rtf|rvt|sch|sea|sit|swf|tar|tgz|tif|txt|txz|wav|wma|wmv|wpd|wrl|xls(x|m|b)?|xlt(x|m)|xlam|xml|xsd|z|zip","trackDomainMode":1},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"\\.gov\\\/|doi\\.org\\\/|\\.mil\\\/","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"Thank you for visiting NIST. We hope your visit was informative. We have provided a link to this site because it has information that may be of interest to our users. NIST does not necessarily endorse the views expressed or the facts presented on this site. Further, NIST does not endorse any commercial products that may be advertised or available on this site. Click OK to be directed to your link.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"3bc78ed636e15ce8bf949e81d14deb7ac350d5cd152ae62449f4c18c9fdfd6c6"}}</script>
-<script src="/sites/default/files/js/js_LvRAUPThLNI3oFbPPVRjrzRahHN6nwkrwEr_I3SAeco.js"></script>
+<script src="/sites/default/files/js/js_d4W0RWKF6F3zmQ_oGH0X1bBCrZ9iAVKLmVFm-YeOIV4.js"></script>
 </body>
 </html>

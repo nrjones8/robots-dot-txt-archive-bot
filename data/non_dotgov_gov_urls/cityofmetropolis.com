@@ -72,7 +72,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 <link rel='shortlink' href='https://www.metropolisil.gov/' />
 <link rel="alternate" type="application/json+oembed" href="https://www.metropolisil.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.metropolisil.gov%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://www.metropolisil.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.metropolisil.gov%2F&#038;format=xml" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="" /><link rel="stylesheet" id="et-core-unified-54-cached-inline-styles" href="https://www.metropolisil.gov/wp-content/et-cache/54/et-core-unified-54-16010630994266.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="shortcut icon" href="" /><link rel="stylesheet" id="et-core-unified-54-cached-inline-styles" href="https://www.metropolisil.gov/wp-content/et-cache/54/et-core-unified-54-16027036588736.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
 <body data-rsssl=1 class="home page-template page-template-page-template-blank page-template-page-template-blank-php page page-id-54 et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
 	<div id="page-container">
 
@@ -327,7 +327,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><span class="et-waypoint et_pb_animation_top et-pb-icon">&#xe033;</span></span></div>
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>City Council</span></h4>
-						<div class="et_pb_blurb_description"><p><span style="text-decoration: underline;"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/09/2020-City-Council-Agendas.pdf" target="_blank" rel="noopener noreferrer">Agenda</a></span><br /> <span style="text-decoration: underline;"> <a href="https://www.metropolisil.gov/wp-content/uploads/2020/09/2020-city-council-minutes.pdf" target="_blank" rel="noopener noreferrer">Minutes</a></span></p></div>
+						<div class="et_pb_blurb_description"><p><span style="text-decoration: underline;"><a href="https://www.metropolisil.gov/wp-content/uploads/2020/10/2020-OCT-A-City-Council-Agendas.pdf" target="_blank" rel="noopener noreferrer">Agenda</a></span><br /> <span style="text-decoration: underline;"> <a href="https://www.metropolisil.gov/wp-content/uploads/2020/10/2020-OCT-A-city-council-minutes.pdf" target="_blank" rel="noopener noreferrer">Minutes</a></span></p></div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -833,7 +833,7 @@ var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","s
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.metropolisil.gov\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"f86ed69d4d","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"42166bcc87","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"54","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.metropolisil.gov\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.metropolisil.gov\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"500553a416","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"c747e2983e","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"54","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 var et_pb_sticky_elements = [];
@@ -859,4 +859,4 @@ var et_pb_sticky_elements = [];
 
 		</body>
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1602219407 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1602878385 -->

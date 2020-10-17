@@ -493,27 +493,19 @@ a.readon, .readmore a, .module_round_box-lightgrayhighlight h3 .s5_h3_inner, .mo
 <p><span style="font-size:26px;">THINK BEFORE YOU FLUSH! 🚽<br />
 The increased use of cleaning wipes during the COVID-19 outbreak is good on the disease mitigation front, but could cause some problems for our sanitary sewer system.</span></p>
 
-<p><span style="font-size:26px;">Please DO NOT flush cleaning wipes, baby wipes, or paper towels down the toilet. Throw them in the trash. Wipes and paper towels do not dissolve like toilet paper and can clog your pipes, your neighborhood’s pipes, and even jam up Babbitt’s sanitary sewer lift stations.</span></p>
+<p><span style="font-size:26px;">Please DO NOT flush cleaning wipes, baby wipes, or paper towels down the toilet. Throw them in the trash. Wipes and paper towels do not dissolve like toilet paper and can clog your pipes, your neighborhood&rsquo;s pipes, and even jam up Babbitt&rsquo;s sanitary sewer lift stations.</span></p>
 
-<p><span style="font-size:26px;">In these uncertain times, the last thing you or your neighbors need is a sewage back-up in your home. Please help us spread the message!</span></p>
-
-<p>&nbsp;</p>
-
-<p><span style="font-family:Times New Roman,Times,serif;"><span style="font-size:22px;"><span style="color:#ff0000;"><strong>Walleye Whamma - June, 13, 2020 - Cancelled</strong></span></span></span></p>
+<p><span style="font-family:Times New Roman,Times,serif;">In these uncertain times, the last thing you or your neighbors need is a sewage back-up in your home. Please help us spread the message!<span style="font-size:22px;"><strong><span style="color:#ff0000;"></span></strong></span></span></p>
 
 <p>&nbsp;</p>
 
-<p><span style="font-family:Times New Roman,Times,serif;"><span style="font-size:22px;"><strong><span style="color:#ff0000;">Peter Mitchell Days - June 19-21, 2020 - Cancelled</span></strong></span></span></p>
-
-<p>&nbsp;</p>
-
-<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloak2895aa24554cdceeb38e3a12c6b72e06">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
-				document.getElementById('cloak2895aa24554cdceeb38e3a12c6b72e06').innerHTML = '';
+<p><span style="font-size:24px;">The City of Babbitt is in the process of designing and building a campground at Birch Lake.&nbsp; We will have RV and primitive sites available for daily, weekly or seasonal rental.&nbsp; We hope to have the campground open late in 2021 or summer of 2022.&nbsp; To get an idea of who may be interested in rentals, please send an email to <span id="cloak863c947d320810796302af6f7ac568c5">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type='text/javascript'>
+				document.getElementById('cloak863c947d320810796302af6f7ac568c5').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addy2895aa24554cdceeb38e3a12c6b72e06 = 'd&#101;bb&#105;&#101;' + '&#64;';
-				addy2895aa24554cdceeb38e3a12c6b72e06 = addy2895aa24554cdceeb38e3a12c6b72e06 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
-				var addy_text2895aa24554cdceeb38e3a12c6b72e06 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloak2895aa24554cdceeb38e3a12c6b72e06').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2895aa24554cdceeb38e3a12c6b72e06 + '\'>'+addy_text2895aa24554cdceeb38e3a12c6b72e06+'<\/a>';
+				var addy863c947d320810796302af6f7ac568c5 = 'd&#101;bb&#105;&#101;' + '&#64;';
+				addy863c947d320810796302af6f7ac568c5 = addy863c947d320810796302af6f7ac568c5 + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';
+				var addy_text863c947d320810796302af6f7ac568c5 = 'd&#101;bb&#105;&#101;' + '&#64;' + 'b&#97;bb&#105;tt-mn' + '&#46;' + 'c&#111;m';document.getElementById('cloak863c947d320810796302af6f7ac568c5').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy863c947d320810796302af6f7ac568c5 + '\'>'+addy_text863c947d320810796302af6f7ac568c5+'<\/a>';
 		</script> (subject:&nbsp; campground) so that we can establish a list of interested parties.</span></p>
 
 <p>&nbsp;</p>
@@ -524,7 +516,7 @@ The increased use of cleaning wipes during the COVID-19 outbreak is good on the 
 
 <p>&nbsp;</p>
 
-<p><strong><span style="font-size:22px;">PUC casual labor/plant check employee needed - Weekends (4 hrs/weekend).&nbsp; Start in January 2020.</span></strong></p>
+<p><strong><span style="font-size:22px;">PUC casual labor/plant check employee needed - Weekends (4 hrs/weekend).&nbsp; </span></strong></p>
 
 <p>&nbsp;</p>
 
@@ -532,23 +524,7 @@ The increased use of cleaning wipes during the COVID-19 outbreak is good on the 
 
 <p>&nbsp;</p>
 
-<p><span style="font-size:28px;">St Louis County Sheriff's Office News Release: Jan. 16, 2019 - Re: Public input on multi-hazard mitigation plan.&nbsp; <u>https://content.govdelivery.com/accounts/MNSTLOUIS/bulletins/228285b</u></span></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong><span style="font-size:16px;">As information:&nbsp; TOPS 566 meets every Thursday at the Evangelical Lutheran Church in Babbitt - Weigh In at 8:30 a.m. - Meeting at 9:00 a.m.</span></strong></p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Garbage Collection:&nbsp; Residents are reminded that only CORRUGATED cardboard is allowed in the recycle shed.&nbsp; Picking up of grass clippings, etc., is an additional service that is provided by the garbage hauler.&nbsp; Do not overfill bags - they should be easily 'liftable'.&nbsp; Please DO&nbsp;NOT dispose of animal feces in these bags!&nbsp; It should be disposed of in regular garbage bags.&nbsp; Garbage is collected on Mondays and Thursdays.&nbsp; Pickup begins at 7:00 a.m.&nbsp; Please have your garbage bags in a container and out by the road by that time.</strong></p>
+<p><strong>Garbage Collection:&nbsp; Residents are reminded that only CORRUGATED cardboard is allowed in the recycle shed.&nbsp; Picking up of grass clippings, etc., is an additional service that is provided by the garbage hauler.&nbsp; Do not overfill bags - they should be easily &#39;liftable&#39;.&nbsp; Please DO&nbsp;NOT dispose of animal feces in these bags!&nbsp; It should be disposed of in regular garbage bags.&nbsp; Garbage is collected on Mondays and Thursdays.&nbsp; Pickup begins at 7:00 a.m.&nbsp; Please have your garbage bags in a container and out by the road by that time.</strong></p>
 
 <hr />
 

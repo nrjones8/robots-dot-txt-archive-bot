@@ -447,7 +447,6 @@ November 19, 2020</span><br />
 <span style="font-size:18px;"><a href="index_435_2661932340.pdf"><span style="color:#000000;">October 5, 2020 Meeting</span></a></span><br />
 <br />
 <span style="color:#a41334;"><span style="font-size: 22px;">&diams; <b>Jobs</b></span></span><br />
-<span style="font-size:18px;"><a href="index_436_1581782495.pdf"><span style="color:#000000;">Groundskeeper-Maintenance Worker</span></a></span><br />
 <span style="font-size:18px;"><a href="index_432_636005850.pdf"><span style="color:#000000;">Sergeant (Patrol Division)</span></a></span><br />
 <br />
 &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
@@ -480,25 +479,7 @@ November 19, 2020</span><br />
 </ul>
 </div>
 </li>
-						<li class="section-block cushycms"><h2 class="section-title cushycms">2020 Candler County Census</h2>
-<a href="https://www.facebook.com/100375548209493/videos/635332180624731/" target="_blank"><img alt="" src="img/Census Logo2.jpg" style="width: 200px; float: left; padding: 10px" /></a>
-
-<p><br />
-<span><span>This City of Metter encourages our citizens to complete the 2020 Census online. Why is the census so important?<br />
-<br />
-The census provides critical data that lawmakers, business owners, teachers, and many others use to provide daily services, products, and support for you and your community. Every year, billions of dollars in federal funding go to hospitals, fire departments, schools, roads, and other resources based on census data.<br />
-<br />
-The results of the census also determine the number of seats each state will have in the U.S. House of Representatives, and they are used to draw congressional and state legislative districts.<br />
-<br />
-It&#39;s also in the Constitution: Article 1, Section 2, mandates that the country conduct a count of its population once every 10 years. The 2020 Census will mark the 24th time that the country has counted its population since 1790.<br />
-<br />
-Let&rsquo;s make Candler count! You can do your part by completing the census online from the safety of your home. Take a look at this tutorial video for more details on how to complete your 2020 Census!<br />
-<br />
-For more details, follow us on Facebook @ 2020 Candler County Census<br />
-<br />
-<a href="https://www.facebook.com/100375548209493/videos/635332180624731/" target="_blank">2020 Candler County Census Tutorial </a></span></span><br />
-&nbsp;</p>
-</li>
+						
 						
 						
 						

@@ -101,7 +101,7 @@
             <button class="menu-icon" type="button" data-toggle></button>
             <div class="title-bar-title menu-left mtxt">MENU</div>
               <div class="title-bar-title float-right nav-social-ico">
-                <span class="scdate-small">October 10th, 2020 &nbsp;&nbsp;</span>
+                <span class="scdate-small">October 17th, 2020 &nbsp;&nbsp;</span>
               </div>
           </div>
     </div> 
@@ -110,7 +110,7 @@
      
       <div class="hide-for-small show-for-custom top-bar-right title-bar">          
           <div class="hide-for-small show-for-custom title-bar-title nav-social-ico">
-             <span class="scdate">October 10th, 2020 &nbsp;&nbsp;</span>          </div>      
+             <span class="scdate">October 17th, 2020 &nbsp;&nbsp;</span>          </div>      
       </div>
    
 
@@ -276,6 +276,9 @@
 
                         
                           <li><a href="/documents/msbu/">MSBU</a></li>
+
+                        
+                          <li><a href="/documents/parks-and-recreations/">Parks and Recreations</a></li>
 
                         
                           <li><a href="/documents/planning/">Planning Department</a></li>

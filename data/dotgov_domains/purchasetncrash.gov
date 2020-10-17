@@ -1,424 +1,439 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/template-12.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+<!-- InstanceBegin template="/Templates/template-12.dwt" codeOutsideHTMLIsLocked="false" -->
 <style>
-.collapsible {
-  background-color:#f9f9f9;
-  color: #1b365d;
-  cursor: pointer;
-  padding: 18px;
-  width: 40%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color:none;
-}
-
-.collapsible:after {
-  content: '\002B';
-  font-weight: bold;
-  float:left;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\2212";
-}
-
-.content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-  background-color:inherit;;
-}
-#mydiv {
-  width: 100%;
-  text-align: center;
-  background-color: lightblue;
-  margin-top: 0px;
-}
+    .collapsible {
+        background-color: #f9f9f9;
+        color: #1b365d;
+        cursor: pointer;
+        padding: 18px;
+        width: 40%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+    }
+    
+    .active,
+    .collapsible:hover {
+        background-color: none;
+    }
+    
+    .collapsible:after {
+        content: '\002B';
+        font-weight: bold;
+        float: left;
+        margin-left: 5px;
+    }
+    
+    .active:after {
+        content: "\2212";
+    }
+    
+    .content {
+        padding: 0 18px;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+        background-color: inherit;
+        ;
+    }
+    
+    #mydiv {
+        width: 100%;
+        text-align: center;
+        background-color: lightblue;
+        margin-top: 0px;
+    }
+    /**************/
+    /* Responsive */
+    /**************/
+    
+    @media only screen and (max-width: 40em) {
+        .collapsible {
+            width: 100% !important;
+        }
+        select {
+            width: 100% !important;
+        }
+    }
+    
+    @media (max-width: 400px) {
+        #content .row .four,
+        #content .row .eight {
+            width: 100%;
+        }
+        #content .row {
+            display: flex;
+            flex-direction: column;
+        }
+        #content .row .four {
+            order: 2;
+        }
+        #content .row .eight {
+            order: 1;
+            margin-top: 20px;
+        }
+    }
 </style>
 <head>
-<!-- InstanceBeginEditable name="namespaces" -->
-<!-- Place namespace tags here. -->
-<!-- InstanceEndEditable -->
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width">
-<!-- InstanceBeginEditable name="title" -->
-<title>Obtaining a Crash Report</title>
-<!-- InstanceEndEditable -->
-<script src="/apps/js/tngov12.js"></script>
+    <!-- InstanceBeginEditable name="namespaces" -->
+    <!-- Place namespace tags here. -->
+    <!-- InstanceEndEditable -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <!-- InstanceBeginEditable name="title" -->
+    <title>Obtaining a Crash Report</title>
+    <!-- InstanceEndEditable -->
+    <script src="/apps/js/tngov12.js"></script>
 
-<!-- Included CSS Files -->
-<link rel="stylesheet" href="/apps/css/foundation.css">
-<link rel="stylesheet" href="/apps/css/custom.css">
-<!-- InstanceBeginEditable name="head" -->
-<!--_________________________________________________________________________________
+    <!-- Included CSS Files -->
+    <link rel="stylesheet" href="/apps/css/foundation.css">
+    <link rel="stylesheet" href="/apps/css/custom.css">
+    <!-- InstanceBeginEditable name="head" -->
+    <!--_________________________________________________________________________________
 	Place APP SPECIFIC style and js references HERE
  	_________________________________________________________________________________-->
-<!-- InstanceEndEditable -->
-<!-- InstanceParam name="class" type="text" value="bgwrap" -->
+    <!-- InstanceEndEditable -->
+    <!-- InstanceParam name="class" type="text" value="bgwrap" -->
 </head>
+
 <body class="bgwrap">
-<!-- container --> 
-<div class="app">
-	<div id="hd-wrap" class="container ">
-		<header id="hd" class="row alt">
-			<div class="large-24 columns">
-				<div id="logo">A TN.GOV Service</div>
-				<div id="logo-agency"><img src="/apps/img/logos/safety.png"></div>
-				<div id="appname"><span><a href="/purchasetncrash/" style="color: #fff;">Purchase TN Crash</a> </span></div>
-				
-			</div>
-			
-		</header>
-	</div>
-<!--/hd-wrap-->
+    <!-- container -->
+    <div class="app">
+        <div id="hd-wrap" class="container ">
+            <header id="hd" class="row alt">
+                <div class="large-24 columns">
+                    <div id="logo">A TN.GOV Service</div>
+                    <div id="logo-agency"><img src="/apps/img/logos/safety.png"></div>
+                    <div id="appname"><span><a href="/purchasetncrash/" style="color: #fff;">Purchase TN Crash</a> </span></div>
 
-<div id="bd-wrap" class="container">
-<section id="bd" class="row">
-  <div id="content" class="twelve columns"> <!-- InstanceBeginEditable name="content" -->
-  <!-- <div class="drop right"><a href="#" onmouseover="myFunction()" onmouseout="myFunction()"><strong>Translate</strong></a> -->
- <div class="drop right"><a href="#" ><strong>Translate</strong></a>
-				  <div class="box">
-					<div id="google_translate_element"></div>
-				  </div>
-				</div>
-      <div class="row">
-	  
-      <div class="four columns">
-          <div class="panel">
-          <p><strong>What you should know about getting your Crash Report</strong></p>
-          <ul>
-          	<li>The Crash Report is an official copy of your crash.</li>
-            <!-- <li>The Crashreport will show the past three years of driving history</li -->
-            <li>To protect your privacy, the Crash Report search results do not display your address.</li>
-          </ul>
-          </div>
-		  <div class="panel">
-              <h3>Returning Users</h3>
-              <p>Welcome back.</p>
-              <p><a class="primary button" href="../purchasetncrash-app/login" id="tn-login">Go to Log In</a></p>
-            </div>
-			<div class="panel">
-              <h3>New Users</h3>
-              <p>New users must subscribe to this service.</p>
-              <p><a class="primary button" href="../purchasetncrash-app/signup-role"  >Sign Up</a></p>
-              <!-- <p><a class="primary button" href="/paams-app/selfsign/createbusiness.htm?APPCODE=CRASH" id="tn-signup">Sign Up</a></p> -->
-            </div>
-            <div class="actionbox">
-            	<h3>Links</h3>
-              <p><a class="pop" href="/purchasetncrash/help.html">Help and FAQs</a></p>
-              <p><a href="/purchasetncrash/demo/index.html">Online Demo</a></p>
-            </div>
+                </div>
+
+            </header>
         </div>
-        <div class="eight columns">
-        <h1>Get a Copy of your Crash Report</h1> 				
+        <!--/hd-wrap-->
 
-		<h2 class="noborder">There are three ways to obtain a Crash Report.</h2> 
-        
-        <h2>1. Go Online</h2>
-          <ul>
-            <li>Cost:  $10.00 -  credit card (Visa, MasterCard, American Express or Discover)<br><em>You <strong>cannot</strong> use a prepaid card</em></li>
-            <li>Required: Last Name, Date of Accident, Reporting Agency, Driver's License Number</li>
-			<li>Required one of the following: VIN, License Plate, Case or Tracking Number</li>
-            
-          </ul>
-          <p class="text-center"><a href="warning.html" class="button" id="tngov-continue">Get your Crash Report online now</a></p>
-          <hr>
-          <h2>2. Go to a THP District Office </h2>
-          <p>There are a few factors that must be considered before requesting a crash, or accident report. Most importantly, was the crash investigated by the Tennessee Highway Patrol (THP), or another agency (county sheriff's office or city police department)?<br><br>
+        <div id="bd-wrap" class="container">
+            <section id="bd" class="row">
+                <div id="content" class="twelve columns">
+                    <!-- InstanceBeginEditable name="content" -->
+                    <!-- <div class="drop right"><a href="#" onmouseover="myFunction()" onmouseout="myFunction()"><strong>Translate</strong></a> -->
+                    <div class="drop right"><a href="#"><strong>Translate</strong></a>
+                        <div class="box">
+                            <div id="google_translate_element"></div>
+                        </div>
+                    </div>
+                    <div class="row">
 
-If the crash was investigated by the Tennessee Highway Patrol:<br><br>
+                        <div class="four columns">
+                            <div class="panel">
+                                <p><strong>What you should know about getting your Crash Report</strong></p>
+                                <ul>
+                                    <li>The Crash Report is an official copy of your crash.</li>
+                                    <!-- <li>The Crashreport will show the past three years of driving history</li -->
+                                    <li>To protect your privacy, the Crash Report search results do not display your address.</li>
+                                </ul>
+                            </div>
+                            <div class="panel">
+                                <h3>Returning Users</h3>
+                                <p>Welcome back.</p>
+                                <p><a class="primary button" href="../purchasetncrash-app/login" id="tn-login">Go to Log In</a></p>
+                            </div>
+                            <div class="panel">
+                                <h3>New Users</h3>
+                                <p>New users must subscribe to this service.</p>
+                                <p><a class="primary button" href="../purchasetncrash-app/signup-role">Sign Up</a></p>
+                                <!-- <p><a class="primary button" href="/paams-app/selfsign/createbusiness.htm?APPCODE=CRASH" id="tn-signup">Sign Up</a></p> -->
+                            </div>
+                            <div class="actionbox">
+                                <h3>Links</h3>
+                                <p><a class="pop" href="/purchasetncrash/help.html">Help and FAQs</a></p>
+                                <p><a href="/purchasetncrash/demo/index.html">Online Demo</a></p>
+                            </div>
+                        </div>
+                        <div class="eight columns">
+                            <h1>Get a Copy of your Crash Report</h1>
 
-Any driver/owner/passenger or their agent or legal representative may purchase a copy of the Crash Report for a fee of $4.00. The reports are available approximately 7 days after the date of the crash at the THP District Office. This can be purchased through the mail, or by visiting their office in person. Access a complete listing of THP District Office locations can be found at the bottom of this section.<br><br>
-If the crash was investigated by a law enforcement agency other than the THP:<br><br>
+                            <h2 class="noborder">There are three ways to obtain a Crash Report.</h2>
 
-You can also contact the agency that investigated the crash to purchase a copy of the report from their office.<br></p>
-		  <p class="text-left">When purchasing a Crash Report, you should provide the following information:</p>
-          <ul>
-            
-			<li>Date of crash</li>
-			<li>County in which crash occurred</li>
-			<li>Name(s) of driver(s) involved</li>
-			<li>Agency Tracking Number</li>
-			</ul>
-			<button class="collapsible" style="font-size: 2rem;line-height: 2rem;color: #1b365d;font-weight: normal;margin: 0 0 0 0;word-wrap: break-word;font-family: 'Permian Slab', serif;letter-spacing: -0.075em;">&nbsp;District Offices</button>
-<div class="content" style="max-height:1209px;overflow:auto;">
-<button class="collapsible"><b>District 1 - Knoxville</b></button>
-<div class="content">
-  <p>Knoxville Highway Patrol Office<br>
-7601 Kingston Pike<br>
-Knoxville, TN 37919<br>
-(865) 594-5800<br>
-8:00 a.m. - 4:30 p.m. E.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Anderson</li>
-<li>Blount</li>
-<li>Campbell</li>
-<li>Knox</li>
-<li>Loudon</li>
-<li>Monroe</li>
-<li>Morgan</li>
-<li>Roane</li>
-<li>Scott</li>
-<li>Sevier</li>
-<li>Union</li>
-</ul>
-</div>
-<button class="collapsible"><b>District 2 - Chattanooga</b></button>
-<div class="content">
-<p>Chattanooga Highway Patrol Office<br>
-4120 Cummings Hwy<br>
-Chattanooga, TN 37419<br>
-(423) 634-6890<br>
-8:00 a.m. - 4:30 p.m. E.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Bledsoe</li>
-<li>Bradley</li>
-<li>Coffee</li>
-<li>Franklin</li>
-<li>Grundy</li>
-<li>Hamilton</li>
-<li>Marion</li>
-<li>McMinn</li>
-<li>Meigs</li>
-<li>Polk</li>
-<li>Rhea</li>
-<li>Sequatchie</li>
-</ul>
-</div>
-<button class="collapsible"><b>District 3 - Nashville</b></button>
-<div class="content">
-    
-        <p>Nashville Highway Patrol Office<br>
-1603 Murfreesboro Rd.<br>
-Nashville, TN 37217<br>
-(615) 741-3181</p>
-<p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Cheatham</li>
-<li>Davidson</li>
-<li>Dickson</li>
-<li>Houston</li>
-<li>Humphreys</li>
-<li>Montgomery</li>
-<li>Robertson</li>
-<li>Rutherford</li>
-<li>Stewart</li>
-<li>Sumner</li>
-<li>Williamson</li>
-<li>Wilson</li>
-</ul>
- </div>
-<button class="collapsible"><b>District 4 - Memphis</b></button>
-<div class="content">
-                                   
-        <p>Memphis Highway Patrol Office<br>
-6348 Summer Ave.<br>
-Memphis, TN 38134<br>
-(901) 543-6256</p>
-<p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Crockett</li>
-<li>Dyer</li>
-<li>Fayette</li>
-<li>Hardeman</li>
-<li>Haywood</li>
-<li>Lake</li>
-<li>Lauderdale</li>
-<li>Obion</li>
-<li>Shelby</li>
-<li>Tipton</li>
-</ul>
-  </div>
-                           
-<button class="collapsible"><b>District 5 - Fall Branch</b></button>
-<div class="content">
-    
-        <p>Fall Branch Highway Patrol Office<br>
-184 Joe R. McCrary Rd.<br>
-Fall Branch, TN 37656<br>
-(423) 348-6144</p>
-<p>8:00 a.m. - 4:30 p.m. E.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Carter</li>
-<li>Claiborne</li>
-<li>Cocke</li>
-<li>Grainger</li>
-<li>Greene</li>
-<li>Hamblen</li>
-<li>Hancock</li>
-<li>Hawkins</li>
-<li>Jefferson</li>
-<li>Johnson</li>
-<li>Sullivan</li>
-<li>Unicoi</li>
-<li>Washington</li>
-</ul>
-</div>
-<button class="collapsible"><b>District 6 - Cookeville</b></button>
-<div class="content">
-    
-        <p>Cookeville Highway Patrol Office<br>
-1291 S. Walnut Ave.<br>
-Cookeville, TN 38501<br>
-(931) 528-8496</p>
-<p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Cannon</li>
-<li>Clay</li>
-<li>Cumberland</li>
-<li>Dekalb</li>
-<li>Fentress</li>
-<li>Jackson</li>
-<li>Macon</li>
-<li>Overton</li>
-<li>Pickett</li>
-<li>Putnam</li>
-<li>Smith</li>
-<li>Trousdale</li>
-<li>Van Buren</li>
-<li>Warren</li>
-<li>White</li>
-</ul>
-</div>
-<button class="collapsible"><b>District 7 - Lawrenceburg</b></button>
-<div class="content">
-    
-        <p>Office<br>
-1209 North Locust Ave.<br>
-Lawrenceburg, TN 38464<br>
-(931) 766-1425</p>
-<p>&nbsp;</p>
-<p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Bedford</li>
-<li>Giles</li>
-<li>Hickman</li>
-<li>Lawrence</li>
-<li>Lewis</li>
-<li>Lincoln</li>
-<li>Marshall</li>
-<li>Maury</li>
-<li>Moore</li>
-<li>Perry</li>
-<li>Wayne</li>
-</ul>
-</div>
-<button class="collapsible"><b>District 8 - Jackson</b></button>
-<div class="content">
-    
-        <p>Jackson Highway Patrol Office<br>
-20 Vann Drive<br>
-Jackson, TN 38305<br>
-(731) 423-6635</p>
-<p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
-<p><b>County in which crash occurred:</b></p>
-<ul>
-<li>Benton</li>
-<li>Carroll</li>
-<li>Chester</li>
-<li>Decatur</li>
-<li>Gibson</li>
-<li>Hardin</li>
-<li>Henderson</li>
-<li>Henry</li>
-<li>Madison</li>
-<li>McNairy</li>
-<li>Weakley</li>
-</ul>
-</div>
-</div>
+                            <h2>1. Go Online</h2>
+                            <ul>
+                                <li>Cost: $10.00 - credit card (Visa, MasterCard, American Express or Discover)<br><em>You <strong>cannot</strong> use a prepaid card</em></li>
+                                <li>Required: Last Name, Date of Accident, Reporting Agency, Driver's License Number</li>
+                                <li>Required one of the following: VIN, License Plate, Case or Tracking Number</li>
 
-          </ul>
+                            </ul>
+                            <p class="text-center"><a href="warning.html" class="button" id="tngov-continue">Get your Crash Report online now</a></p>
+                            <hr>
+                            <h2>2. Go to a THP District Office </h2>
+                            <p>There are a few factors that must be considered before requesting a crash, or accident report. Most importantly, was the crash investigated by the Tennessee Highway Patrol (THP), or another agency (county sheriff's office or
+                                city police department)?<br><br> If the crash was investigated by the Tennessee Highway Patrol:<br><br> Any driver/owner/passenger or their agent or legal representative may purchase a copy of the Crash Report for a fee
+                                of $4.00. The reports are available approximately 7 days after the date of the crash at the THP District Office. This can be purchased through the mail, or by visiting their office in person. Access a complete listing of
+                                THP District Office locations can be found at the bottom of this section.<br><br> If the crash was investigated by a law enforcement agency other than the THP:<br><br> You can also contact the agency that investigated the
+                                crash to purchase a copy of the report from their office.<br></p>
+                            <p class="text-left">When purchasing a Crash Report, you should provide the following information:</p>
+                            <ul>
 
-          <hr>
-          <h2 id="bymail">3. Request by Mail</h2>
-          <ul>
-          <li>Please allow two-three weeks from the mailing date to receive the requested crash report.</li>
-          
-		  <li>A cashier's check, money order, or personal/business check in the amount of $4.00 must accompany your request. If <a  target="_blank" href="https://www.tn.gov/content/dam/tn/safety/documents/SF-1595%20Traffic%20Crash%20Report%20Request.pdf"><b><u>sending by mail</u></b></a>, be sure and include the address to which you would like the Crash Report mailed.</li>
-            <li>Mail  your request to:<br>
-				Tennessee Department of Safety &amp; Homeland Security<br />
-              Financial Responsibility Division<br />
-              PO BOX 945<br />
-              Nashville, TN 37202-0945 </li>
-            </ul>
-		
-          </div>
-         
-        
-        
-        <!--/four columns-->
-      </div>
-      <!--/row-->
+                                <li>Date of crash</li>
+                                <li>County in which crash occurred</li>
+                                <li>Name(s) of driver(s) involved</li>
+                                <li>Agency Tracking Number</li>
+                            </ul>
+                            <button class="collapsible" style="font-size: 2rem;line-height: 2rem;color: #1b365d;font-weight: normal;margin: 0 0 0 0;word-wrap: break-word;font-family: 'Permian Slab', serif;letter-spacing: -0.075em;">&nbsp;District Offices</button>
+                            <div class="content" style="max-height:1209px;overflow:auto;">
+                                <button class="collapsible"><b>District 1 - Knoxville</b></button>
+                                <div class="content">
+                                    <p>Knoxville Highway Patrol Office<br> 7601 Kingston Pike<br> Knoxville, TN 37919<br> (865) 594-5800<br> 8:00 a.m. - 4:30 p.m. E.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Anderson</li>
+                                        <li>Blount</li>
+                                        <li>Campbell</li>
+                                        <li>Knox</li>
+                                        <li>Loudon</li>
+                                        <li>Monroe</li>
+                                        <li>Morgan</li>
+                                        <li>Roane</li>
+                                        <li>Scott</li>
+                                        <li>Sevier</li>
+                                        <li>Union</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 2 - Chattanooga</b></button>
+                                <div class="content">
+                                    <p>Chattanooga Highway Patrol Office<br> 4120 Cummings Hwy<br> Chattanooga, TN 37419<br> (423) 634-6890<br> 8:00 a.m. - 4:30 p.m. E.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Bledsoe</li>
+                                        <li>Bradley</li>
+                                        <li>Coffee</li>
+                                        <li>Franklin</li>
+                                        <li>Grundy</li>
+                                        <li>Hamilton</li>
+                                        <li>Marion</li>
+                                        <li>McMinn</li>
+                                        <li>Meigs</li>
+                                        <li>Polk</li>
+                                        <li>Rhea</li>
+                                        <li>Sequatchie</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 3 - Nashville</b></button>
+                                <div class="content">
 
-      <!-- InstanceEndEditable --> </div>
-  <!--/rw--> 
-</section>
-<!--/section bd row-->
-</div>
-<!--/bd-wrap-->
+                                    <p>Nashville Highway Patrol Office<br> 1603 Murfreesboro Rd.<br> Nashville, TN 37217<br> (615) 741-3181</p>
+                                    <p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Cheatham</li>
+                                        <li>Davidson</li>
+                                        <li>Dickson</li>
+                                        <li>Houston</li>
+                                        <li>Humphreys</li>
+                                        <li>Montgomery</li>
+                                        <li>Robertson</li>
+                                        <li>Rutherford</li>
+                                        <li>Stewart</li>
+                                        <li>Sumner</li>
+                                        <li>Williamson</li>
+                                        <li>Wilson</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 4 - Memphis</b></button>
+                                <div class="content">
 
-<div id="ft-wrap" class="container">
-<footer id="ft" class="row">
-  <div class="twelve columns">
-    <hr>
-    <!-- InstanceBeginEditable name="footer-logged-in" --> <!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="footer-demo" --> <!-- InstanceEndEditable -->
-    <ul id="html">
-      <li class="first"><a class="pop" href="/purchasetncrash/help.html" title="This link opens a new browser window." id="tngov-help">Help and FAQs</a></li>
-	  <li class="last"><a class="pop" href="/apps/html/privacy.html" title="This link opens a new browser window." id="tngov-privacy">Privacy Statement</a></li>
-		 <li id="footer-translate">
-				<a href="#" class="icon-book"></a>
-				
-			  </li>
-	  </ul>
-    <!-- InstanceBeginEditable name="footer-indexpg-only" --> <!-- InstanceEndEditable --> 
-  </div>
-</footer>
-<!--/footer row-->
-</div>
-<!--/ft-wrap-->
+                                    <p>Memphis Highway Patrol Office<br> 6348 Summer Ave.<br> Memphis, TN 38134<br> (901) 543-6256</p>
+                                    <p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Crockett</li>
+                                        <li>Dyer</li>
+                                        <li>Fayette</li>
+                                        <li>Hardeman</li>
+                                        <li>Haywood</li>
+                                        <li>Lake</li>
+                                        <li>Lauderdale</li>
+                                        <li>Obion</li>
+                                        <li>Shelby</li>
+                                        <li>Tipton</li>
+                                    </ul>
+                                </div>
 
-</div>
-<!--/app-->
+                                <button class="collapsible"><b>District 5 - Fall Branch</b></button>
+                                <div class="content">
 
-<div id="bgseal"></div>
+                                    <p>Fall Branch Highway Patrol Office<br> 184 Joe R. McCrary Rd.<br> Fall Branch, TN 37656<br> (423) 348-6144</p>
+                                    <p>8:00 a.m. - 4:30 p.m. E.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Carter</li>
+                                        <li>Claiborne</li>
+                                        <li>Cocke</li>
+                                        <li>Grainger</li>
+                                        <li>Greene</li>
+                                        <li>Hamblen</li>
+                                        <li>Hancock</li>
+                                        <li>Hawkins</li>
+                                        <li>Jefferson</li>
+                                        <li>Johnson</li>
+                                        <li>Sullivan</li>
+                                        <li>Unicoi</li>
+                                        <li>Washington</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 6 - Cookeville</b></button>
+                                <div class="content">
+
+                                    <p>Cookeville Highway Patrol Office<br> 1291 S. Walnut Ave.<br> Cookeville, TN 38501<br> (931) 528-8496</p>
+                                    <p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Cannon</li>
+                                        <li>Clay</li>
+                                        <li>Cumberland</li>
+                                        <li>Dekalb</li>
+                                        <li>Fentress</li>
+                                        <li>Jackson</li>
+                                        <li>Macon</li>
+                                        <li>Overton</li>
+                                        <li>Pickett</li>
+                                        <li>Putnam</li>
+                                        <li>Smith</li>
+                                        <li>Trousdale</li>
+                                        <li>Van Buren</li>
+                                        <li>Warren</li>
+                                        <li>White</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 7 - Lawrenceburg</b></button>
+                                <div class="content">
+
+                                    <p>Office<br> 1209 North Locust Ave.<br> Lawrenceburg, TN 38464<br> (931) 766-1425</p>
+                                    <p>&nbsp;</p>
+                                    <p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Bedford</li>
+                                        <li>Giles</li>
+                                        <li>Hickman</li>
+                                        <li>Lawrence</li>
+                                        <li>Lewis</li>
+                                        <li>Lincoln</li>
+                                        <li>Marshall</li>
+                                        <li>Maury</li>
+                                        <li>Moore</li>
+                                        <li>Perry</li>
+                                        <li>Wayne</li>
+                                    </ul>
+                                </div>
+                                <button class="collapsible"><b>District 8 - Jackson</b></button>
+                                <div class="content">
+
+                                    <p>Jackson Highway Patrol Office<br> 20 Vann Drive<br> Jackson, TN 38305<br> (731) 423-6635</p>
+                                    <p>8:00 a.m. - 4:30 p.m. C.S.T.</p>
+                                    <p><b>County in which crash occurred:</b></p>
+                                    <ul>
+                                        <li>Benton</li>
+                                        <li>Carroll</li>
+                                        <li>Chester</li>
+                                        <li>Decatur</li>
+                                        <li>Gibson</li>
+                                        <li>Hardin</li>
+                                        <li>Henderson</li>
+                                        <li>Henry</li>
+                                        <li>Madison</li>
+                                        <li>McNairy</li>
+                                        <li>Weakley</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            </ul>
+
+                            <hr>
+                            <h2 id="bymail">3. Request by Mail</h2>
+                            <ul>
+                                <li>Please allow two-three weeks from the mailing date to receive the requested crash report.</li>
+
+                                <li>A cashier's check, money order, or personal/business check in the amount of $4.00 must accompany your request. If <a target="_blank" href="https://www.tn.gov/content/dam/tn/safety/documents/SF-1595%20Traffic%20Crash%20Report%20Request.pdf"><b><u>sending by mail</u></b></a>,
+                                    be sure and include the address to which you would like the Crash Report mailed.</li>
+                                <li>Mail your request to:<br> Tennessee Department of Safety &amp; Homeland Security<br /> Financial Responsibility Division<br /> PO BOX 945<br /> Nashville, TN 37202-0945 </li>
+                            </ul>
+
+                        </div>
+
+
+
+                        <!--/four columns-->
+                    </div>
+                    <!--/row-->
+
+                    <!-- InstanceEndEditable -->
+                </div>
+                <!--/rw-->
+            </section>
+            <!--/section bd row-->
+        </div>
+        <!--/bd-wrap-->
+
+        <div id="ft-wrap" class="container">
+            <footer id="ft" class="row">
+                <div class="twelve columns">
+                    <hr>
+                    <!-- InstanceBeginEditable name="footer-logged-in" -->
+                    <!-- InstanceEndEditable -->
+                    <!-- InstanceBeginEditable name="footer-demo" -->
+                    <!-- InstanceEndEditable -->
+                    <ul id="html">
+                        <li class="first"><a class="pop" href="/purchasetncrash/help.html" title="This link opens a new browser window." id="tngov-help" target="_blank">Help and FAQs</a></li>
+                        <li class="last"><a class="pop" href="/apps/html/privacy.html" title="This link opens a new browser window." id="tngov-privacy">Privacy Statement</a></li>
+                        <li id="footer-translate">
+                            <a href="#" class="icon-book"></a>
+
+                        </li>
+                    </ul>
+                    <!-- InstanceBeginEditable name="footer-indexpg-only" -->
+                    <!-- InstanceEndEditable -->
+                </div>
+            </footer>
+            <!--/footer row-->
+        </div>
+        <!--/ft-wrap-->
+
+    </div>
+    <!--/app-->
+
+    <div id="bgseal"></div>
 
 </body>
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight  = (content.scrollHeight * 3) + "px";
-    } 
-  });
-}
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = (content.scrollHeight * 3) + "px";
+            }
+        });
+    }
 </script>
 <script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+            layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+        }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-<!-- InstanceEnd --></html>
+<!-- InstanceEnd -->
+
+</html>

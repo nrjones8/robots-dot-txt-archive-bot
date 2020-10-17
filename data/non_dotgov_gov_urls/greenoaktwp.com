@@ -286,6 +286,7 @@ Signup for Email Alerts</a>
 			<li class="menuLI level1 menuHidden li-3305"><a class="menuA level1 menuHidden" href="http://www.greenoakpolice.com/" target="_new">Police Department</a></li>
 			<li class="menuLI level1 menuHidden li-3306"><a class="menuA level1 menuHidden" href="departments/sewer_department/index.php" target="_self">Sewer Department</a></li>
 			<li class="menuLI level1 menuHidden li-3307"><a class="menuA level1 menuHidden" href="departments/water_department/index.php" target="_self">Water Department</a></li>
+			<li class="menuLI level1 menuHidden li-43"><a class="menuA level1 menuHidden" href="government/minutes_and_meetings/index.php" target="_self">^Minutes & Meetings</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-3321"><a class="menuA level0 menuDisplay" href="community.php" target="_self">Community</a></li>
@@ -300,7 +301,7 @@ Signup for Email Alerts</a>
 			<li class="menuLI level1 menuHidden li-3930"><a class="menuA level1 menuHidden" href="https://code-authorities.ul.com/about/buildingsafetyprograms/wintersafety/" target="_new">Winter and Holiday Safety</a></li>
 		</ul>
 	</li>
-	<li class="menuLI level0 menuDisplay li-3407"><a class="menuA level0 menuDisplay" href="departments/minutes_and_meetings/index.php" target="_self">Meetings & Minutes</a></li>
+	<li class="menuLI level0 menuDisplay li-3407"><a class="menuA level0 menuDisplay" href="government/minutes_and_meetings/index.php" target="_self">Meetings & Minutes</a></li>
 	<li class="menuLI level0 menuDisplay li-24 children"><a class="menuA level0 menuDisplay" href="how_do_i_(faq)/index.php" target="_self">How Do I</a>
 		<ul class="menuUL level1 menuHidden ul-94">
 			<li class="menuLI level1 menuHidden li-94"><a class="menuA level1 menuHidden" href="how_do_i_(faq)/a-z_sitemap/index.php" target="_self">Sitemap</a></li>

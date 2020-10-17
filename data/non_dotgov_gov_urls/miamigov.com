@@ -244,11 +244,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Frequently-Asked-Questions-FAQs-About-Elections
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Qualifying
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Vacancy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Vacancy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Civilian-Investigative-Panel
@@ -286,7 +284,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Services/Copy-of-Opportunity-Center-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Services/Opportunity-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Marinas-Redirect-while-working-on-other-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/New-page-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements/Strategic-Capital-Initiatives
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/OCI-Home-Page-Rotating-Banner
@@ -1077,11 +1074,9 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Ele
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Frequently-Asked-Questions-FAQs-About-Elections
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Qualifying
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Vacancy
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/New-page
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Vacancy
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel
@@ -1119,7 +1114,6 @@ Disallow: /Government/Departments-Organizations/Human-Services/ACCESS-Miami/Acce
 Disallow: /Government/Departments-Organizations/Human-Services/Copy-of-Opportunity-Center-1
 Disallow: /Government/Departments-Organizations/Human-Services/Opportunity-Center
 Disallow: /Government/Departments-Organizations/Marinas-Redirect-while-working-on-other-page
-Disallow: /Government/Departments-Organizations/New-page-1
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements/Strategic-Capital-Initiatives
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/OCI-Home-Page-Rotating-Banner

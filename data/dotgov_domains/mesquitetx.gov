@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"JsO13DTKy-EYOd5q-mbjme4beP7CcsvVRz4w9_cIDmrghHGZ79nZm9FyAMK3EkcUDW9Ax_eTwATpvk1rDgy2phTrjdw1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"1YDhTc1UzkegqHf4VaOGbpVtvuFWGcH84xwDsxx5jG2Ng6HVDPXtrmawTpyvYVj191_KDB3fPGDR13aTS4pZZplBKwY1\" />");
 						}
 					}
 				}, false);
@@ -145,7 +145,7 @@
 
 	<input type="hidden" id="cpcDomain" value="https://cp-civicplusuniversity2.civicplus.com">
 	<input type="hidden" id="hdnStructureID" value="3" />
-	<input type="hidden" id="hdnContentCollectionID" value="3e6e4e30-98f6-491e-a6fb-5f504f63ab9b" />
+	<input type="hidden" id="hdnContentCollectionID" value="87b27785-db29-4aca-84aa-b18284ba1fd5" />
 	<input type="hidden" id="hdnWorkingCopyID" value="00000000-0000-0000-0000-000000000000" />
 	<input type="hidden" id="hdnThemeID" value="17" />
 	<input type="hidden" id="pageIsFrontEnd" value="true" />
@@ -1152,38 +1152,38 @@
 			
 
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="8d11edee-cf29-4438-942f-828802785dd5">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="908d4ee7-f4f5-420c-97c1-b679aa3f6225">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last id09e2b613-9f71-4100-add4-03d32fad95b6" style="" data-widgetcontainerid="09e2b613-9f71-4100-add4-03d32fad95b6">	
+	<div class="inner col col24 first last idf269a903-261c-427b-8757-1b2a9b8db811" style="" data-widgetcontainerid="f269a903-261c-427b-8757-1b2a9b8db811">	
 
-	<div id="divTabbed1e87157d-367a-4153-bcbf-cce76ac148a8" class="widget widgetTabbed  wide  " data-widgetid="1e87157d-367a-4153-bcbf-cce76ac148a8">
+	<div id="divTabbed14b580fe-f759-4f5d-8546-907274e74f03" class="widget widgetTabbed  wide  " data-widgetid="14b580fe-f759-4f5d-8546-907274e74f03">
 		<div class="widget skin64">
 			<ol class="tabbedWidget cpTabs  " style=" ">
 				<!--
-						--><li class="active">	<a href="#tab1e87157d-367a-4153-bcbf-cce76ac148a8_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Slideshow" contenteditable="false">Slideshow</span></a>
+						--><li class="active">	<a href="#tab14b580fe-f759-4f5d-8546-907274e74f03_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Slideshow" contenteditable="false">Slideshow</span></a>
 </li><!--
-						--><li class="">	<a href="#tab1e87157d-367a-4153-bcbf-cce76ac148a8_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Video" contenteditable="false">Video</span></a>
+						--><li class="">	<a href="#tab14b580fe-f759-4f5d-8546-907274e74f03_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Video" contenteditable="false">Video</span></a>
 </li><!--
 							-->
 			</ol>
 		</div>
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class="active"><a href="#tab1e87157d-367a-4153-bcbf-cce76ac148a8_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Slideshow</a></li>
+						<li class="active"><a href="#tab14b580fe-f759-4f5d-8546-907274e74f03_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Slideshow</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel showing" style="" id="tab1e87157d-367a-4153-bcbf-cce76ac148a8_0">
+				<div class="tabbedWidget cpTabPanel showing" style="" id="tab14b580fe-f759-4f5d-8546-907274e74f03_0">
 
 
-	<div class="widget slideShow  skin43" id="slideshow98279da0-9f9b-4a38-abbc-8bd2d7bef29a" data-widgetID="98279da0-9f9b-4a38-abbc-8bd2d7bef29a">
+	<div class="widget slideShow  skin43" id="slideshow2c490e8e-efa8-4286-8a7f-4e3bbe8c5e2d" data-widgetID="2c490e8e-efa8-4286-8a7f-4e3bbe8c5e2d">
         <input type="hidden" class="slideTiming" value="10"/>
         <input type="hidden" class="transitionTiming" value="1"/>
-	<input type="hidden" class="hdnSlideshowUniqueID" value="10767" />
-		<div id="divSlideshow10767" class="cpSlideshow widgetBody cpSlideshowJS10767 wide">
+	<input type="hidden" class="hdnSlideshowUniqueID" value="10790" />
+		<div id="divSlideshow10790" class="cpSlideshow widgetBody cpSlideshowJS10790 wide">
 			<script src="/-1604850456.js" type="text/javascript"></script>
-	<div class="cpWindow cpWindowJS10767 ">
-		<ol class="semanticList cpSlider slide cpSliderJS10767">
-			<li class="hidden" id="10767_102971" data-index="0">
+	<div class="cpWindow cpWindowJS10790 ">
+		<ol class="semanticList cpSlider slide cpSliderJS10790">
+			<li class="hidden" id="10790_103195" data-index="0">
 
 					<a href="https://www.cityofmesquite.com/3420/Pumpkin-Palooza" target="_blank">
 
@@ -1191,7 +1191,15 @@
 
 									</a>
 			</li>
-			<li class="hidden" id="10767_102973" data-index="1">
+			<li class="hidden" id="10790_103196" data-index="1">
+
+					<a href="https://www.dallascountyvotes.org/upcoming-election-information/" target="_blank">
+
+					<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=17362" alt="Voting webslide (1)" title="Voting webslide (1)" data-delayed-image="" style="height: 1px"/>
+
+									</a>
+			</li>
+			<li class="hidden" id="10790_103198" data-index="2">
 
 					<a href="https://www.cityofmesquite.com/3417/Call-for-Artists" target="_blank">
 
@@ -1199,7 +1207,7 @@
 
 									</a>
 			</li>
-			<li class="hidden" id="10767_102974" data-index="2">
+			<li class="hidden" id="10790_103199" data-index="3">
 
 					<a href="https://www.cityofmesquite.com/3299/Coronavirus-Disease-2019-COVID-19" target="_blank">
 
@@ -1207,7 +1215,7 @@
 
 									</a>
 			</li>
-			<li class="hidden" id="10767_102975" data-index="3">
+			<li class="hidden" id="10790_103200" data-index="4">
 
 					<a href="https://www.cityofmesquite.com/CivicAlerts.aspx?AID=1274" target="_blank">
 
@@ -1215,7 +1223,7 @@
 
 									</a>
 			</li>
-			<li class="hidden" id="10767_102977" data-index="4">
+			<li class="hidden" id="10790_103202" data-index="5">
 
 					<a href="https://www.cityofmesquite.com/1691/Council-Connection" target="_blank">
 
@@ -1225,12 +1233,12 @@
 			</li>
 		</ol>
 		<div class="contentSlideshowControls">
-			<button class="arrowNew next nextJS10767  " aria-label="Next" style="" role="button" onclick="return false;">
+			<button class="arrowNew next nextJS10790  " aria-label="Next" style="" role="button" onclick="return false;">
 				<svg style="color:#fff;" class="">
 					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowRight"></use>
 				</svg>
 			</button>
-			<button class="arrowNew prev prevJS10767  " aria-label="Previous" style="" role="button" onclick="return false;">
+			<button class="arrowNew prev prevJS10790  " aria-label="Previous" style="" role="button" onclick="return false;">
 				<svg style="color:#fff;" class="">
 					<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#iconSlideshowArrowLeft"></use>
 				</svg>
@@ -1243,14 +1251,14 @@
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshow3dc71340f39a4be99757591c40c1b68b = new Slideshow();
-slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false);
+		    var slideshow9ac19f4d5fa2420daf3007e1d89e3d56 = new Slideshow();
+slideshow9ac19f4d5fa2420daf3007e1d89e3d56.generate('10790','1','10', false,false);
 
 
 		});
 		var $pages = typeof window.Pages == 'undefined' ? window.parent.Pages : window.Pages;
 		$1.when($pages.rwdReady).done(function () {
-			var divSlideshowID = 'divSlideshow10767';
+			var divSlideshowID = 'divSlideshow10790';
 			var mediaQuerySize = 0;
 			if (mediaQuerySize == 0)
 				mediaQuerySize = 25; //default for not widget slide show
@@ -1260,7 +1268,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 			var $arrows = $divSlideShow.find('a.arrow');
 			var $arrowsNew = $divSlideShow.find('a.arrowNew');
 			var $divExternalSlideshow = $('.bannerSlideshowControlsNew').last();
-			var $overlays = $(document.getElementsByName('captionOverlay_10767'));
+			var $overlays = $(document.getElementsByName('captionOverlay_10790'));
 
 		    if(window.isMobileBrowserIncludingTablets){
 				$overlays.each(function (overlay) {
@@ -1455,11 +1463,11 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
         var hasEditRights = false;
         if (window.File && window.FileList && window.FileReader && hasEditRights) {
             var SlideshowWidget = 3;
-            makeWidgetAreaDroppable('98279da0-9f9b-4a38-abbc-8bd2d7bef29a', $('#slideshow' + '98279da0-9f9b-4a38-abbc-8bd2d7bef29a'), SlideshowWidget, true, SlideshowWidgetCallback);
+            makeWidgetAreaDroppable('2c490e8e-efa8-4286-8a7f-4e3bbe8c5e2d', $('#slideshow' + '2c490e8e-efa8-4286-8a7f-4e3bbe8c5e2d'), SlideshowWidget, true, SlideshowWidgetCallback);
         }
 
 		if(hasEditRights)
-    		browserVersionNotCompatibleWithDragDropTextUpdate($('#slideshowPlaceholder' + '98279da0-9f9b-4a38-abbc-8bd2d7bef29a'), 'Click to start adding images.');    	
+    		browserVersionNotCompatibleWithDragDropTextUpdate($('#slideshowPlaceholder' + '2c490e8e-efa8-4286-8a7f-4e3bbe8c5e2d'), 'Click to start adding images.');    	
     });
 
     function SlideshowWidgetCallback(widgetID, response) {
@@ -1524,18 +1532,18 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
     }
 </script>				</div>
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class=""><a href="#tab1e87157d-367a-4153-bcbf-cce76ac148a8_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Video</a></li>
+						<li class=""><a href="#tab14b580fe-f759-4f5d-8546-907274e74f03_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Video</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab1e87157d-367a-4153-bcbf-cce76ac148a8_1">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab14b580fe-f759-4f5d-8546-907274e74f03_1">
 
-    <div data-widget-id="3dd3e2ce-ffbb-47c8-98a2-1b2ea678d8d8" data-widget-controller-path="/InfoAdvanced/Widget">
-
-
+    <div data-widget-id="710c4372-11da-4d5f-82bf-a012ccf12a63" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
-	<section id="divInfoAdv3dd3e2ce-ffbb-47c8-98a2-1b2ea678d8d8" class="widget widgetInfoAdvanced skin43 widgetOptionSet5 wide" data-modulewidgettype="infoAdv"  aria-labelledby="header3dd3e2ce-ffbb-47c8-98a2-1b2ea678d8d8">
-			<header class="widgetHeader" id="header3dd3e2ce-ffbb-47c8-98a2-1b2ea678d8d8">
+
+
+	<section id="divInfoAdv710c4372-11da-4d5f-82bf-a012ccf12a63" class="widget widgetInfoAdvanced skin43 widgetOptionSet5 wide" data-modulewidgettype="infoAdv"  aria-labelledby="header710c4372-11da-4d5f-82bf-a012ccf12a63">
+			<header class="widgetHeader" id="header710c4372-11da-4d5f-82bf-a012ccf12a63">
 		<div class="">
 					<h3 >Contact Us</h3>
 								</div>
@@ -1562,7 +1570,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv3dd3e2ce-ffbb-47c8-98a2-1b2ea678d8d8 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv710c4372-11da-4d5f-82bf-a012ccf12a63 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -1571,7 +1579,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 	</div>
 	<script type="text/javascript">
 		$.when(window.Pages.rwdReady).done(function () {
-			var tabbedWidgetID = 'divTabbed1e87157d-367a-4153-bcbf-cce76ac148a8';
+			var tabbedWidgetID = 'divTabbed14b580fe-f759-4f5d-8546-907274e74f03';
 			var mediaQuerySize = 0;
 			if (mediaQuerySize > 0) {
 				var mediaElementQuery = '#' + tabbedWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
@@ -1598,7 +1606,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 						{
 							$tabbedWidget.data("tabHeightSet", true);
 
-							var tabbedWidgetID = 'divTabbed1e87157d-367a-4153-bcbf-cce76ac148a8';
+							var tabbedWidgetID = 'divTabbed14b580fe-f759-4f5d-8546-907274e74f03';
 							setTabbedWidgetsTabHeight(tabbedWidgetID);
 						}
 						$('.cpTabPanels').unbind('click');
@@ -1620,7 +1628,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 		});
 
 		//Used for when page is initially loaded
-		if($('#divTabbed1e87157d-367a-4153-bcbf-cce76ac148a8').hasClass('narrow'))
+		if($('#divTabbed14b580fe-f759-4f5d-8546-907274e74f03').hasClass('narrow'))
 		{
 			$('.cpTabPanels').click(function() {
 				this.scrollIntoView();
@@ -1631,7 +1639,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 		if(!isResponsiveEnabled)
 		{
 			window.setTimeout(function(){
-				var tabbedWidgetID = 'divTabbed1e87157d-367a-4153-bcbf-cce76ac148a8';
+				var tabbedWidgetID = 'divTabbed14b580fe-f759-4f5d-8546-907274e74f03';
 				setTabbedWidgetsTabHeight(tabbedWidgetID);
 			}, 1500);
 		}
@@ -1672,27 +1680,27 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="7eb2709a-25f2-4512-aa56-e087f8e09399">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="d185037d-1140-42fe-882f-ca12c5557a4f">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last idac41becf-01d5-4efb-9f6d-0176b2c8f3aa" style="" data-widgetcontainerid="ac41becf-01d5-4efb-9f6d-0176b2c8f3aa">	
+	<div class="inner col col24 first last id6aa84469-abbf-4aae-8ddf-9ac54884349f" style="" data-widgetcontainerid="6aa84469-abbf-4aae-8ddf-9ac54884349f">	
 
-	<div id="divTabbedc2efb9c3-a00c-497a-9e98-9818234a3e9f" class="widget widgetTabbed  wide  " data-widgetid="c2efb9c3-a00c-497a-9e98-9818234a3e9f">
+	<div id="divTabbed685b8a43-2425-4aa0-96b0-4b99644d4a72" class="widget widgetTabbed  wide  " data-widgetid="685b8a43-2425-4aa0-96b0-4b99644d4a72">
 		<div class="widget skin65">
 			<ol class="tabbedWidget cpTabs  " style=" ">
 				<!--
-						--><li class="active">	<a href="#tabc2efb9c3-a00c-497a-9e98-9818234a3e9f_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="City Calendar" contenteditable="false">City Calendar</span></a>
+						--><li class="active">	<a href="#tab685b8a43-2425-4aa0-96b0-4b99644d4a72_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="City Calendar" contenteditable="false">City Calendar</span></a>
 </li><!--
 							-->
 			</ol>
 		</div>
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class="active"><a href="#tabc2efb9c3-a00c-497a-9e98-9818234a3e9f_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">City Calendar</a></li>
+						<li class="active"><a href="#tab685b8a43-2425-4aa0-96b0-4b99644d4a72_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">City Calendar</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel showing" style="" id="tabc2efb9c3-a00c-497a-9e98-9818234a3e9f_0">
+				<div class="tabbedWidget cpTabPanel showing" style="" id="tab685b8a43-2425-4aa0-96b0-4b99644d4a72_0">
 
-<div data-widget-id="cee6f66b-207e-4d5e-9c22-9d9030530c4a" data-widget-controller-path="/Calendar/Widget">
+<div data-widget-id="1e45b3ea-0077-4732-b567-1b3f2b030593" data-widget-controller-path="/Calendar/Widget">
 		<script src="/Areas/Calendar/Assets/Scripts/Calendar.js"></script>
 
 
@@ -1704,7 +1712,7 @@ slideshow3dc71340f39a4be99757591c40c1b68b.generate('10767','1','10', false,false
 
 
 
-<div id="widgetCalendarcee6f66b-207e-4d5e-9c22-9d9030530c4a" class="widget widgetCalendar skin65 widgetOptionSet25 wide" data-modulewidgettype="calendar" >
+<div id="widgetCalendar1e45b3ea-0077-4732-b567-1b3f2b030593" class="widget widgetCalendar skin65 widgetOptionSet25 wide" data-modulewidgettype="calendar" >
 	<div class="widgetBody cpGrid cpGrid2  mediaLeft">
 			<div class="calendarInnerWrapper">
 
@@ -1790,7 +1798,7 @@ S
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=8&amp;CID=26,14,24,23,31'>8</a>
 </td>
-<td class="today">
+<td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=9&amp;CID=26,14,24,23,31'>9</a>
 </td>
 <td>
@@ -1812,7 +1820,7 @@ S
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=15&amp;CID=26,14,24,23,31'>15</a>
 </td>
-<td>
+<td class="today">
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=16&amp;CID=26,14,24,23,31'>16</a>
 </td>
 <td>
@@ -1919,9 +1927,10 @@ S
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Oct. 9  </h4>
+			<h4 class="widgetTitle">Tue Oct. 13          - Fri Oct. 30
+ </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5690">Virtual Teen Talks</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5805">Early Voting</a></strong>
 
 		</div>
 				</li>
@@ -1939,9 +1948,9 @@ S
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Oct. 9  </h4>
+			<h4 class="widgetTitle">Fri Oct. 16  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5709">Jobseeker Support Initiative</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5691">Virtual Teen Talks</a></strong>
 
 		</div>
 				</li>
@@ -1955,9 +1964,9 @@ S
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Fri Oct. 16  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5710">Jobseeker Support Initiative</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5716">Jobseeker Support Initiative</a></strong>
 
 		</div>
 				</li>
@@ -1971,16 +1980,16 @@ S
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Sat Oct. 17  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5768">Mesquite Meander</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5717">Jobseeker Support Initiative</a></strong>
 
 		</div>
 				</li>
 					</ol>
 				</div>
 </div>						</div>
-					<a id="calendarViewAllcee6f66b-207e-4d5e-9c22-9d9030530c4a" class="widgetViewAll alignLeft" style="" href="/calendar.aspx?CID=26,14,24,23,31," aria-label="Calendar View All">View All Events</a>
+					<a id="calendarViewAll1e45b3ea-0077-4732-b567-1b3f2b030593" class="widgetViewAll alignLeft" style="" href="/calendar.aspx?CID=26,14,24,23,31," aria-label="Calendar View All">View All Events</a>
 					</div>
 	<div class="widgetFooter">
 		        
@@ -1990,9 +1999,9 @@ S
 	</div>
 </div></div>
 				</div>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tabc2efb9c3-a00c-497a-9e98-9818234a3e9f_1">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab685b8a43-2425-4aa0-96b0-4b99644d4a72_1">
 				</div>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tabc2efb9c3-a00c-497a-9e98-9818234a3e9f_2">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab685b8a43-2425-4aa0-96b0-4b99644d4a72_2">
 							<ol class="cpForm selfClear">
 								<li class="left">
 									<label for="txtTabName">Tab Name</label>
@@ -2003,7 +2012,7 @@ S
 	</div>
 	<script type="text/javascript">
 		$.when(window.Pages.rwdReady).done(function () {
-			var tabbedWidgetID = 'divTabbedc2efb9c3-a00c-497a-9e98-9818234a3e9f';
+			var tabbedWidgetID = 'divTabbed685b8a43-2425-4aa0-96b0-4b99644d4a72';
 			var mediaQuerySize = 0;
 			if (mediaQuerySize > 0) {
 				var mediaElementQuery = '#' + tabbedWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
@@ -2030,7 +2039,7 @@ S
 						{
 							$tabbedWidget.data("tabHeightSet", true);
 
-							var tabbedWidgetID = 'divTabbedc2efb9c3-a00c-497a-9e98-9818234a3e9f';
+							var tabbedWidgetID = 'divTabbed685b8a43-2425-4aa0-96b0-4b99644d4a72';
 							setTabbedWidgetsTabHeight(tabbedWidgetID);
 						}
 						$('.cpTabPanels').unbind('click');
@@ -2052,7 +2061,7 @@ S
 		});
 
 		//Used for when page is initially loaded
-		if($('#divTabbedc2efb9c3-a00c-497a-9e98-9818234a3e9f').hasClass('narrow'))
+		if($('#divTabbed685b8a43-2425-4aa0-96b0-4b99644d4a72').hasClass('narrow'))
 		{
 			$('.cpTabPanels').click(function() {
 				this.scrollIntoView();
@@ -2063,7 +2072,7 @@ S
 		if(!isResponsiveEnabled)
 		{
 			window.setTimeout(function(){
-				var tabbedWidgetID = 'divTabbedc2efb9c3-a00c-497a-9e98-9818234a3e9f';
+				var tabbedWidgetID = 'divTabbed685b8a43-2425-4aa0-96b0-4b99644d4a72';
 				setTabbedWidgetsTabHeight(tabbedWidgetID);
 			}, 1500);
 		}
@@ -2104,46 +2113,46 @@ S
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="d3701638-690b-4bf4-bf71-ac1804e5ef3f">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="0298153a-15c3-47ce-83ae-f91442a58428">				
 	<div class="row nest first wide">
 	
-	<div class="inner col col24 first last id89c4b8d9-080e-46f8-8b00-c272d37d0c91" style="" data-widgetcontainerid="89c4b8d9-080e-46f8-8b00-c272d37d0c91">	
+	<div class="inner col col24 first last idbb215c41-8264-4a15-934d-e36f2a5a827d" style="" data-widgetcontainerid="bb215c41-8264-4a15-934d-e36f2a5a827d">	
 
-	<div id="divTabbed4ab574dd-cbe5-49ef-a718-96d129dbe739" class="widget widgetTabbed  wide  " data-widgetid="4ab574dd-cbe5-49ef-a718-96d129dbe739">
+	<div id="divTabbed7d8a301f-0cfa-4a4f-a8e3-442cd939adb1" class="widget widgetTabbed  wide  " data-widgetid="7d8a301f-0cfa-4a4f-a8e3-442cd939adb1">
 		<div class="widget skin65">
 			<ol class="tabbedWidget cpTabs  " style=" ">
 				<!--
-						--><li class="active">	<a href="#tab4ab574dd-cbe5-49ef-a718-96d129dbe739_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Facebook" contenteditable="false">Facebook</span></a>
+						--><li class="active">	<a href="#tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Facebook" contenteditable="false">Facebook</span></a>
 </li><!--
-						--><li class="">	<a href="#tab4ab574dd-cbe5-49ef-a718-96d129dbe739_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Twitter" contenteditable="false">Twitter</span></a>
+						--><li class="">	<a href="#tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Twitter" contenteditable="false">Twitter</span></a>
 </li><!--
 							-->
 			</ol>
 		</div>
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class="active"><a href="#tab4ab574dd-cbe5-49ef-a718-96d129dbe739_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Facebook</a></li>
+						<li class="active"><a href="#tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Facebook</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel showing" style="" id="tab4ab574dd-cbe5-49ef-a718-96d129dbe739_0">
+				<div class="tabbedWidget cpTabPanel showing" style="" id="tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_0">
 
  
-	<div data-widget-id='da801a57-d9e4-4040-a85a-92e2426b6b9e' data-moduleName="customHtml" id='widgetCustomHtmlda801a57-d9e4-4040-a85a-92e2426b6b9e' class="widget widgetCustomHtml skin43 wide" >
-	<div class="widgetBody pageStyles" id="widgetBodyda801a57-d9e4-4040-a85a-92e2426b6b9e">
-		<div id="customHtmlda801a57-d9e4-4040-a85a-92e2426b6b9e"><div><div id="fb-root"></div>
+	<div data-widget-id='2ebe40f1-b6fa-4f86-92ca-995193e02e42' data-moduleName="customHtml" id='widgetCustomHtml2ebe40f1-b6fa-4f86-92ca-995193e02e42' class="widget widgetCustomHtml skin43 wide" >
+	<div class="widgetBody pageStyles" id="widgetBody2ebe40f1-b6fa-4f86-92ca-995193e02e42">
+		<div id="customHtml2ebe40f1-b6fa-4f86-92ca-995193e02e42"><div><div id="fb-root"></div>
 <script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 <div class="fb-page" data-href="https://www.facebook.com/cityofmesquitetx/" data-tabs="timeline" data-width="800" data-height="1000" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/cityofmesquitetx/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/cityofmesquitetx/">Mesquite Texas City Hall</a></blockquote></div></div></div>
 	</div>
 	</div>
 				</div>
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
-						<li class=""><a href="#tab4ab574dd-cbe5-49ef-a718-96d129dbe739_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Twitter</a></li>
+						<li class=""><a href="#tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_1" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Twitter</a></li>
 					</ol>
-				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab4ab574dd-cbe5-49ef-a718-96d129dbe739_1">
+				<div class="tabbedWidget cpTabPanel " style="display: none;" id="tab7d8a301f-0cfa-4a4f-a8e3-442cd939adb1_1">
 
  
-	<div data-widget-id='8214c555-a0f5-49fe-9043-fa8574073484' data-moduleName="customHtml" id='widgetCustomHtml8214c555-a0f5-49fe-9043-fa8574073484' class="widget widgetCustomHtml skin43 wide" >
-	<div class="widgetBody pageStyles" id="widgetBody8214c555-a0f5-49fe-9043-fa8574073484">
-		<div id="customHtml8214c555-a0f5-49fe-9043-fa8574073484"><div><div align="center">
+	<div data-widget-id='ea5b7a44-df4e-40f8-8e44-2ea53fa0e66d' data-moduleName="customHtml" id='widgetCustomHtmlea5b7a44-df4e-40f8-8e44-2ea53fa0e66d' class="widget widgetCustomHtml skin43 wide" >
+	<div class="widgetBody pageStyles" id="widgetBodyea5b7a44-df4e-40f8-8e44-2ea53fa0e66d">
+		<div id="customHtmlea5b7a44-df4e-40f8-8e44-2ea53fa0e66d"><div><div align="center">
 <a class="twitter-timeline" width="700" height="900" data-dnt="true" href="https://twitter.com/cityofmesquite" data-widget-id="499912772985962496" data-aria-polite="assertive" data-chrome="nofooter transparent">Tweets by @cityofmesquite</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div></div></div>
@@ -2154,7 +2163,7 @@ S
 	</div>
 	<script type="text/javascript">
 		$.when(window.Pages.rwdReady).done(function () {
-			var tabbedWidgetID = 'divTabbed4ab574dd-cbe5-49ef-a718-96d129dbe739';
+			var tabbedWidgetID = 'divTabbed7d8a301f-0cfa-4a4f-a8e3-442cd939adb1';
 			var mediaQuerySize = 0;
 			if (mediaQuerySize > 0) {
 				var mediaElementQuery = '#' + tabbedWidgetID + ':media(this-min-width:' + mediaQuerySize + 'em)';
@@ -2181,7 +2190,7 @@ S
 						{
 							$tabbedWidget.data("tabHeightSet", true);
 
-							var tabbedWidgetID = 'divTabbed4ab574dd-cbe5-49ef-a718-96d129dbe739';
+							var tabbedWidgetID = 'divTabbed7d8a301f-0cfa-4a4f-a8e3-442cd939adb1';
 							setTabbedWidgetsTabHeight(tabbedWidgetID);
 						}
 						$('.cpTabPanels').unbind('click');
@@ -2203,7 +2212,7 @@ S
 		});
 
 		//Used for when page is initially loaded
-		if($('#divTabbed4ab574dd-cbe5-49ef-a718-96d129dbe739').hasClass('narrow'))
+		if($('#divTabbed7d8a301f-0cfa-4a4f-a8e3-442cd939adb1').hasClass('narrow'))
 		{
 			$('.cpTabPanels').click(function() {
 				this.scrollIntoView();
@@ -2214,7 +2223,7 @@ S
 		if(!isResponsiveEnabled)
 		{
 			window.setTimeout(function(){
-				var tabbedWidgetID = 'divTabbed4ab574dd-cbe5-49ef-a718-96d129dbe739';
+				var tabbedWidgetID = 'divTabbed7d8a301f-0cfa-4a4f-a8e3-442cd939adb1';
 				setTabbedWidgetsTabHeight(tabbedWidgetID);
 			}, 1500);
 		}
@@ -2254,7 +2263,7 @@ S
 	</div> <!-- inner row -->
 	<div class="row nest last wide">
 	
-	<div class="inner col col24 first last iddf9f123e-ef7f-4d9f-ab48-1a7bf2d94896" style="" data-widgetcontainerid="df9f123e-ef7f-4d9f-ab48-1a7bf2d94896">		</div> <!-- inner column -->
+	<div class="inner col col24 first last id5e6e6376-70e0-4d02-a9f2-2954c543a7a3" style="" data-widgetcontainerid="5e6e6376-70e0-4d02-a9f2-2954c543a7a3">		</div> <!-- inner column -->
 
 	</div> <!-- inner row -->
 
@@ -2275,13 +2284,13 @@ S
 				                
 
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="63f435e3-1d8f-4ab4-a08f-e8ab0ce24486">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="9472e51d-7992-4d7b-ab92-680decd06089">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last iddd678056-0111-4808-9e78-f5a55c906c05" style="" data-widgetcontainerid="dd678056-0111-4808-9e78-f5a55c906c05">	
-<div class="widget image pageStyles" id="divImageOuter59d0844c-0706-4410-830c-661c95ad462b" data-widget-id="59d0844c-0706-4410-830c-661c95ad462b">
+	<div class="inner col col24 first last id68da8714-1c23-42b2-a4f2-33577601cfa6" style="" data-widgetcontainerid="68da8714-1c23-42b2-a4f2-33577601cfa6">	
+<div class="widget image pageStyles" id="divImageOuterd9dd50ca-d061-44e0-a036-61c2e35936a8" data-widget-id="d9dd50ca-d061-44e0-a036-61c2e35936a8">
     
-	<div class="widgetBody imageBorder" id="divImage59d0844c-0706-4410-830c-661c95ad462b">				<a href="https://www.cityofmesquite.com/3389/Assistance-Programs" target="_blank"><img src="/ImageRepository/Document?documentID=16505" alt="CARES" title="CARES"/></a>
+	<div class="widgetBody imageBorder" id="divImaged9dd50ca-d061-44e0-a036-61c2e35936a8">				<a href="https://www.cityofmesquite.com/3389/Assistance-Programs" target="_blank"><img src="/ImageRepository/Document?documentID=16505" alt="CARES" title="CARES"/></a>
 	</div></div>
 
 	</div> <!-- inner column -->
@@ -2290,13 +2299,13 @@ S
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="58df8d4f-5814-4e0e-a195-f67b9164b8bf">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="15506fb5-0af8-49d9-912c-27ab293cb637">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last id7e9a37d3-9a22-4271-b89f-a41642e4ec1c" style="" data-widgetcontainerid="7e9a37d3-9a22-4271-b89f-a41642e4ec1c">	
-<div class="widget image pageStyles" id="divImageOuterf4b5301d-0b27-4060-8768-9835cbb7eb83" data-widget-id="f4b5301d-0b27-4060-8768-9835cbb7eb83">
+	<div class="inner col col24 first last id698de5f0-dcfc-4bac-bfc9-2655361090fa" style="" data-widgetcontainerid="698de5f0-dcfc-4bac-bfc9-2655361090fa">	
+<div class="widget image pageStyles" id="divImageOuter0869867a-f28f-41cc-9a08-778b0d2bdf21" data-widget-id="0869867a-f28f-41cc-9a08-778b0d2bdf21">
     
-	<div class="widgetBody imageBorder" id="divImagef4b5301d-0b27-4060-8768-9835cbb7eb83">				<a href="https://www.visitmesquitetx.com/diningwithsocialdistancing" target="_blank"><img src="/ImageRepository/Document?documentID=15627" alt="Dining with social distancing tile" title="Dining with social distancing tile"/></a>
+	<div class="widgetBody imageBorder" id="divImage0869867a-f28f-41cc-9a08-778b0d2bdf21">				<a href="https://www.visitmesquitetx.com/diningwithsocialdistancing" target="_blank"><img src="/ImageRepository/Document?documentID=15627" alt="Dining with social distancing tile" title="Dining with social distancing tile"/></a>
 	</div></div>
 
 	</div> <!-- inner column -->
@@ -2305,13 +2314,13 @@ S
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="81217c6a-3a6f-447e-99a3-1134b72b992a">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="a2561447-8cb6-4197-8eaa-33aae0df12d6">				
 	<div class="row nest first wide">
 	
-	<div class="inner col col24 first last id0d003f9c-bfd1-4cbc-aa96-2e65c503b290" style="" data-widgetcontainerid="0d003f9c-bfd1-4cbc-aa96-2e65c503b290">	
-<div class="widget image pageStyles" id="divImageOuter67cfa499-5065-4772-976a-3663fcc5b2fb" data-widget-id="67cfa499-5065-4772-976a-3663fcc5b2fb">
+	<div class="inner col col24 first last idf4c73b15-d7c9-4b70-b333-c50a56158801" style="" data-widgetcontainerid="f4c73b15-d7c9-4b70-b333-c50a56158801">	
+<div class="widget image pageStyles" id="divImageOuter19b3440b-3db0-4e9f-bc0b-a7ad1bfca56f" data-widget-id="19b3440b-3db0-4e9f-bc0b-a7ad1bfca56f">
     
-	<div class="widgetBody imageBorder" id="divImage67cfa499-5065-4772-976a-3663fcc5b2fb">				<a href="https://gisservice.cityofmesquite.com/portal/apps/webappviewer/index.html?id=bf64b2275f674e1eb6ca1c39175e1f82" target="_blank"><img src="/ImageRepository/Document?documentID=14287" alt="link" title="link"/></a>
+	<div class="widgetBody imageBorder" id="divImage19b3440b-3db0-4e9f-bc0b-a7ad1bfca56f">				<a href="https://gisservice.cityofmesquite.com/portal/apps/webappviewer/index.html?id=bf64b2275f674e1eb6ca1c39175e1f82" target="_blank"><img src="/ImageRepository/Document?documentID=14287" alt="link" title="link"/></a>
 	</div></div>
 
 	</div> <!-- inner column -->
@@ -2319,10 +2328,10 @@ S
 	</div> <!-- inner row -->
 	<div class="row nest last wide">
 	
-	<div class="inner col col24 first last id7f3a59c9-ca21-47b3-9731-c359bcc84988" style="" data-widgetcontainerid="7f3a59c9-ca21-47b3-9731-c359bcc84988">	
-<div class="widget image pageStyles" id="divImageOuter83a428c9-cf25-4322-a2bd-ab48b8912cc0" data-widget-id="83a428c9-cf25-4322-a2bd-ab48b8912cc0">
+	<div class="inner col col24 first last id563993d5-4b16-4594-8d2f-818bb17458a0" style="" data-widgetcontainerid="563993d5-4b16-4594-8d2f-818bb17458a0">	
+<div class="widget image pageStyles" id="divImageOuterfb89abef-9960-487f-85e6-d7e5b819f8b3" data-widget-id="fb89abef-9960-487f-85e6-d7e5b819f8b3">
     
-	<div class="widgetBody imageBorder" id="divImage83a428c9-cf25-4322-a2bd-ab48b8912cc0">				<a href="https://www.cityofmesquite.com/mymesquite" target="_self"><img src="/ImageRepository/Document?documentID=14934" alt="front page icon" title="front page icon"/></a>
+	<div class="widgetBody imageBorder" id="divImagefb89abef-9960-487f-85e6-d7e5b819f8b3">				<a href="https://www.cityofmesquite.com/mymesquite" target="_self"><img src="/ImageRepository/Document?documentID=14934" alt="front page icon" title="front page icon"/></a>
 	</div></div>
 
 	</div> <!-- inner column -->
@@ -2331,39 +2340,39 @@ S
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="0d1cb592-bb33-43fa-bf0f-2f3b3a97dd78">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="911c82b3-896a-444c-8062-c37d5b98d098">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last idf31e1ae8-f662-4334-9780-26aa93ffdbe8" style="" data-widgetcontainerid="f31e1ae8-f662-4334-9780-26aa93ffdbe8">	
+	<div class="inner col col24 first last id3b6e2b99-7452-4df0-8ba9-a969882e25f7" style="" data-widgetcontainerid="3b6e2b99-7452-4df0-8ba9-a969882e25f7">	
 
-<div class="widget widgetSpacer" id="893dfc4d-e641-4f9b-b1ca-1e567f130b59"></div>	</div> <!-- inner column -->
+<div class="widget widgetSpacer" id="f6007fe2-19b8-433d-bd9c-29489fde8750"></div>	</div> <!-- inner column -->
 
 	</div> <!-- inner row -->
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="37c5d0f3-5df4-4afa-adfe-2bdc050e7255">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="c5709616-755d-4862-8751-76b49dde6aba">				
 	<div class="row nest first wide">
 	
-	<div class="inner col col24 first last id5c96c3fb-f266-4c15-b6bd-c8c7f029e441" style="" data-widgetcontainerid="5c96c3fb-f266-4c15-b6bd-c8c7f029e441">	
-<div class="widget image pageStyles" id="divImageOuter727608ea-dba2-4726-be00-f9c6a65f85d5" data-widget-id="727608ea-dba2-4726-be00-f9c6a65f85d5">
+	<div class="inner col col24 first last id18c4d12e-25e4-46e2-8881-caac27ba7227" style="" data-widgetcontainerid="18c4d12e-25e4-46e2-8881-caac27ba7227">	
+<div class="widget image pageStyles" id="divImageOuterd821f370-4415-479a-9986-b7cc5adab745" data-widget-id="d821f370-4415-479a-9986-b7cc5adab745">
     
-	<div class="widgetBody imageBorder" id="divImage727608ea-dba2-4726-be00-f9c6a65f85d5"><img src="/ImageRepository/Document?documentID=15145" alt="900" title="900"/>	</div></div>
+	<div class="widgetBody imageBorder" id="divImaged821f370-4415-479a-9986-b7cc5adab745"><img src="/ImageRepository/Document?documentID=15145" alt="900" title="900"/>	</div></div>
 
 	</div> <!-- inner column -->
 
 	</div> <!-- inner row -->
 	<div class="row nest last wide">
 	
-	<div class="inner col col24 first last id6c191d4b-314e-451f-b0d3-47926bf86549" style="" data-widgetcontainerid="6c191d4b-314e-451f-b0d3-47926bf86549">	
-    <div data-widget-id="6d89e8f3-f808-4291-8518-8b5ebc3b3f11" data-widget-controller-path="/InfoAdvanced/Widget">
+	<div class="inner col col24 first last id6d3bee3e-1ce7-4ba7-bcb2-4c2d410cc1f9" style="" data-widgetcontainerid="6d3bee3e-1ce7-4ba7-bcb2-4c2d410cc1f9">	
+    <div data-widget-id="18fd139d-f9e1-4dde-993d-13cc478832f6" data-widget-controller-path="/InfoAdvanced/Widget">
 
 
 
 
 
-	<section id="divInfoAdv6d89e8f3-f808-4291-8518-8b5ebc3b3f11" class="widget widgetInfoAdvanced skin66 widgetOptionSet26 wide" data-modulewidgettype="infoAdv"  aria-labelledby="header6d89e8f3-f808-4291-8518-8b5ebc3b3f11">
-			<header class="widgetHeader" id="header6d89e8f3-f808-4291-8518-8b5ebc3b3f11">
+	<section id="divInfoAdv18fd139d-f9e1-4dde-993d-13cc478832f6" class="widget widgetInfoAdvanced skin66 widgetOptionSet26 wide" data-modulewidgettype="infoAdv"  aria-labelledby="header18fd139d-f9e1-4dde-993d-13cc478832f6">
+			<header class="widgetHeader" id="header18fd139d-f9e1-4dde-993d-13cc478832f6">
 		<div class="">
 					<h3 >City Council</h3>
 								</div>
@@ -2428,7 +2437,7 @@ S
 <script type="text/javascript">
 	//Render slideshow if info advacned items contain one.
 	$(document).ready(function (e) {
-		$('#divInfoAdv6d89e8f3-f808-4291-8518-8b5ebc3b3f11 .InfoAdvanced.widgetItem').each(function () {
+		$('#divInfoAdv18fd139d-f9e1-4dde-993d-13cc478832f6 .InfoAdvanced.widgetItem').each(function () {
 			renderSlideshowIfApplicable($(this));		
 		});
 	});
@@ -2438,11 +2447,11 @@ S
 
 			</div><!-- outer column --><!--		--></div> <!-- outer row -->
 		<div class="row outer wide"><!--
---><div class="outer col col24 first last" style="" data-widgetcontainerid="be45cfcf-71c2-41c4-985b-b90f78d0284f">				
+--><div class="outer col col24 first last" style="" data-widgetcontainerid="142d265a-0646-48d9-ba0e-3c37590f8f89">				
 	<div class="row nest first last wide">
 	
-	<div class="inner col col24 first last id7fbdb690-83dc-4c80-97b9-f717c98ca9aa" style="" data-widgetcontainerid="7fbdb690-83dc-4c80-97b9-f717c98ca9aa">	
-<div data-widget-id="7b150c85-bf7d-47d0-afbe-f2d30baec2f3" data-widget-controller-path="/NewsFlash/Widget">
+	<div class="inner col col24 first last idfc5fe3ee-7ea1-4dea-b44e-ecf6a2172cd1" style="" data-widgetcontainerid="fc5fe3ee-7ea1-4dea-b44e-ecf6a2172cd1">	
+<div data-widget-id="9a5283e6-b077-40e6-bdb0-38c523c1441b" data-widget-controller-path="/NewsFlash/Widget">
 
 
 
@@ -2457,8 +2466,8 @@ S
 
 
 
-	<section class="widget widgetNewsFlash skin66 widgetOptionSet8 wide" data-modulewidgettype="newsFlash" id="widgetNewsFlash7b150c85-bf7d-47d0-afbe-f2d30baec2f3"  aria-labelledby="newsFlashHeader7b150c85-bf7d-47d0-afbe-f2d30baec2f3">
-				<header class="widgetHeader" id="newsFlashHeader7b150c85-bf7d-47d0-afbe-f2d30baec2f3">
+	<section class="widget widgetNewsFlash skin66 widgetOptionSet8 wide" data-modulewidgettype="newsFlash" id="widgetNewsFlash9a5283e6-b077-40e6-bdb0-38c523c1441b"  aria-labelledby="newsFlashHeader9a5283e6-b077-40e6-bdb0-38c523c1441b">
+				<header class="widgetHeader" id="newsFlashHeader9a5283e6-b077-40e6-bdb0-38c523c1441b">
 			<div class="">
 						<h3><a  style="" href="/CivicAlerts.aspx?CID=1" >News</a></h3>
 											</div>
@@ -2467,39 +2476,39 @@ S
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
-			<li class="widgetItem" data-news-i-d="1438">
+			<li class="widgetItem" data-news-i-d="1448">
 
-					<h4 id="newsFlashItemHeader1438" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1438">Mesquite’s Pumpkinpalooza Scavenger Hunt </a></h4>
+					<h4 id="newsFlashItemHeader1448" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1448">Mesquite seeks public input on ADA survey </a></h4>
 <div class="widgetDesc">
-To celebrate fall, the Mesquite Parks and Recreation Department has teamed up with local businesses to launch a citywide scavenger hunt called “Pumpkinpalooza.”				<a href="/CivicAlerts.aspx?AID=1438" id="newsFlashReadOn1438" aria-labelledby="newsFlashItemHeader1438 newsFlashReadOn1438" class="readOn">Read on...</a>
+The City of Mesquite is looking for the community to participate in an American with Disabilities Act (ADA) survey to address any specific concerns regarding accessibility or other ADA-related issues.				<a href="/CivicAlerts.aspx?AID=1448" id="newsFlashReadOn1448" aria-labelledby="newsFlashItemHeader1448 newsFlashReadOn1448" class="readOn">Read on...</a>
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1437">
+			<li class="widgetItem" data-news-i-d="1447">
 
-					<h4 id="newsFlashItemHeader1437" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1437">Mosquito spraying begins tonight </a></h4>
+					<h4 id="newsFlashItemHeader1447" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1447">Mesquite Police Department connects with public through social media </a></h4>
 <div class="widgetDesc">
-The City of Mesquite has received a positive West Nile-Virus report from Dallas County Mosquito Lab. Spraying will start tonight at 10 p.m. in the following neighborhood: South and East of Town East Boulevard between Gus Thomasson Road and U.S. Highway 80				<a href="/CivicAlerts.aspx?AID=1437" id="newsFlashReadOn1437" aria-labelledby="newsFlashItemHeader1437 newsFlashReadOn1437" class="readOn">Read on...</a>
+To continue its ongoing efforts to connect with the community, the Mesquite Police Department has launched four new social media platforms.				<a href="/CivicAlerts.aspx?AID=1447" id="newsFlashReadOn1447" aria-labelledby="newsFlashItemHeader1447 newsFlashReadOn1447" class="readOn">Read on...</a>
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1436">
+			<li class="widgetItem" data-news-i-d="1446">
 
-					<h4 id="newsFlashItemHeader1436" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1436">Mesquite Police Santa Cop Toy Parade </a></h4>
+					<h4 id="newsFlashItemHeader1446" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1446">STAR Transit Offers Free Rides To Voters </a></h4>
 <div class="widgetDesc">
-The Mesquite Citizen Police Academy Alumni Association is excited to announce the 23rd Annual Santa Cop Toy Parade benefiting the Mesquite Police Department & Mesquite Police Association’s Santa Cop Program.				<a href="/CivicAlerts.aspx?AID=1436" id="newsFlashReadOn1436" aria-labelledby="newsFlashItemHeader1436 newsFlashReadOn1436" class="readOn">Read on...</a>
+STAR Transit is offering free, round-trip rides to local polling places, encouraging all eligible voters to participate in this year’s general election.				<a href="/CivicAlerts.aspx?AID=1446" id="newsFlashReadOn1446" aria-labelledby="newsFlashItemHeader1446 newsFlashReadOn1446" class="readOn">Read on...</a>
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1435">
+			<li class="widgetItem" data-news-i-d="1445">
 
-					<h4 id="newsFlashItemHeader1435" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1435">Mesquite celebrates Addressing Mesquite Day </a></h4>
+					<h4 id="newsFlashItemHeader1445" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1445">City receives 2020 Achievement of Excellence in Procurement Award </a></h4>
 <div class="widgetDesc">
-On Saturday, Oct.3 nearly 200 volunteers gathered throughout Mesquite to assist 27 homeowners with home projects such as painting, landscaping and other minor home exterior projects. This was all part of the 16th annual Addressing Mesquite Day.				<a href="/CivicAlerts.aspx?AID=1435" id="newsFlashReadOn1435" aria-labelledby="newsFlashItemHeader1435 newsFlashReadOn1435" class="readOn">Read on...</a>
+The City of Mesquite has earned the 2020 Achievement of Excellence in Procurement (AEP) Award, making the City one of only 46 agencies in Texas and one of only 69 Cities in the United States and Canada to receive the award.				<a href="/CivicAlerts.aspx?AID=1445" id="newsFlashReadOn1445" aria-labelledby="newsFlashItemHeader1445 newsFlashReadOn1445" class="readOn">Read on...</a>
 </div>
 
 			</li>
@@ -2507,7 +2516,7 @@ On Saturday, Oct.3 nearly 200 volunteers gathered throughout Mesquite to assist 
 				</div>
 	</div>
 
-				<a id="newsFlashViewAll7b150c85-bf7d-47d0-afbe-f2d30baec2f3" class="widgetViewAll alignLeft" style="" href="/CivicAlerts.aspx?CID=1" aria-labelledby="newsFlashHeader7b150c85-bf7d-47d0-afbe-f2d30baec2f3 newsFlashViewAll7b150c85-bf7d-47d0-afbe-f2d30baec2f3">View All</a>
+				<a id="newsFlashViewAll9a5283e6-b077-40e6-bdb0-38c523c1441b" class="widgetViewAll alignLeft" style="" href="/CivicAlerts.aspx?CID=1" aria-labelledby="newsFlashHeader9a5283e6-b077-40e6-bdb0-38c523c1441b newsFlashViewAll9a5283e6-b077-40e6-bdb0-38c523c1441b">View All</a>
 			</div>
 	<div class="widgetFooter">
 	</div>

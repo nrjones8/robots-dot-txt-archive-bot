@@ -24,63 +24,69 @@
     
 
 
-    <div class="w3-sidebar w3-bar-block side-nav w3-card" data-app-role="side-nav" style="display: none;">
-        <button data-app-role="close-side-nav" class="close-side-nav w3-button w3-transparent w3-xxlarge">X</button>
-        <div class="top">
-            <img class="compass" src="/img/compass.png" />
-            <div class="welcome-message">
-                <div>Welcome to the</div>
-                <div>United States European Command</div>
-            </div>
+<div class="w3-sidebar w3-bar-block side-nav w3-card" data-app-role="side-nav" style="display: none;">
+    <button data-app-role="close-side-nav" class="close-side-nav w3-button w3-transparent w3-xxlarge">X</button>
+    <div class="top">
+        <img class="compass" src="/img/compass.png" />
+        <div class="welcome-message">
+            <div>Welcome to the</div>
+            <div>United States European Command</div>
         </div>
-        <div class="first-level-block home-block">
-            <a href="/"><div class="first-level-item nav-item">Home</div></a>
-            <span class="menu-icons">
-                <a class="options-button" data-app-role="show-language-options" href="#"><i class="fa fa-language"></i>&nbsp;Translate</a>
-                <span data-app-role="language-options-nav" class="w3-dropdown-content w3-bar-block language-options popup">
-                    <a class="w3-bar-item w3-button" href="#" data-placement="0" title="Arabic">Arabic</a>
-                    <a class="w3-bar-item w3-button" href="#" data-placement="1" title="German">German</a>
-                    <a class="w3-bar-item w3-button" href="#" data-placement="2" title="Russian">Russian</a>
-                </span>
-                <a class="options-button" data-app-role="show-theme-options" href="#"><i class="fa fa-sun"></i>&nbsp;Theme</a>
-                <span data-app-role="theme-options-nav" data-active-theme="dark" class="w3-dropdown-content w3-bar-block theme-options popup">
-                    <a class="w3-bar-item w3-button theme-option" data-app-role="theme-option" data-theme-option="light" href="#"><i class="fa fa-sun"></i>&nbsp;Light</a>
-                    <a class="w3-bar-item w3-button theme-option" data-app-role="theme-option" data-theme-option="dark" href="#"><i class="fa fa-moon"></i>&nbsp;Dark</a>
-                </span>
+    </div>
+    <div class="first-level-block home-block">
+        <a href="/"><div class="first-level-item nav-item">Home</div></a>
+        <span class="menu-icons">
+            <a class="options-button" data-app-role="show-language-options" href="#"><i class="fa fa-language"></i>&nbsp;Translate</a>
+            <span data-app-role="language-options-nav" class="w3-dropdown-content w3-bar-block language-options popup">
+                <a class="w3-bar-item w3-button" href="#" data-placement="0" title="Arabic">Arabic</a>
+                <a class="w3-bar-item w3-button" href="#" data-placement="1" title="German">German</a>
+                <a class="w3-bar-item w3-button" href="#" data-placement="2" title="Russian">Russian</a>
             </span>
+            <a class="options-button" data-app-role="show-theme-options" href="#"><i class="fa fa-sun"></i>&nbsp;Theme</a>
+            <span data-app-role="theme-options-nav" data-active-theme="dark" class="w3-dropdown-content w3-bar-block theme-options popup">
+                <a class="w3-bar-item w3-button theme-option" data-app-role="theme-option" data-theme-option="light" href="#"><i class="fa fa-sun"></i>&nbsp;Light</a>
+                <a class="w3-bar-item w3-button theme-option" data-app-role="theme-option" data-theme-option="dark" href="#"><i class="fa fa-moon"></i>&nbsp;Dark</a>
+            </span>
+        </span>
+    </div>
+    <div class="first-level-block">
+        <div class="first-level-item nav-item">Important Links</div>
+        <a href="/contact-us"><div class="second-level-item nav-item">Contact Us</div></a>
+        <a href="/organization/staff-resources"><div class="second-level-item nav-item">Staff Resources</div></a>
+        <a href="/current-focus-areas/coronavirus-news-updates"><div class="second-level-item nav-item" style="color: var(--secondary-color)">Coronavirus Updates</div></a>
+    </div>
+        <div class="first-level-block">
+            <a href="/media"><div class="first-level-item nav-item">Media</div></a>
+                    <a href="/content-galleries/articles"><div class="second-level-item nav-item">News</div></a>
+                    <a href="/content-galleries/documents"><div class="second-level-item nav-item">Documents</div></a>
+                    <a href="/content-galleries/images"><div class="second-level-item nav-item">Images</div></a>
+                    <a href="/content-galleries/transcripts"><div class="second-level-item nav-item">Transcripts</div></a>
+                    <a href="/content-galleries/videos"><div class="second-level-item nav-item">Videos</div></a>
         </div>
             <div class="first-level-block">
-                <a href="/media"><div class="first-level-item nav-item">Media</div></a>
-                        <a href="/content-galleries/articles"><div class="second-level-item nav-item">News</div></a>
-                        <a href="/content-galleries/documents"><div class="second-level-item nav-item">Documents</div></a>
-                        <a href="/content-galleries/images"><div class="second-level-item nav-item">Images</div></a>
-                        <a href="/content-galleries/transcripts"><div class="second-level-item nav-item">Transcripts</div></a>
-                        <a href="/content-galleries/videos"><div class="second-level-item nav-item">Videos</div></a>
+                <a href="/current-focus-areas"><div class="first-level-item nav-item">Current Focus Areas</div></a>
+                <div class="">
+                        <a href="/current-focus-areas/european-strategic-force-posture-review"><div class="second-level-item nav-item">European Strategic Force Posture Review</div></a>
+                        <a href="/current-focus-areas/coronavirus-news-updates"><div class="second-level-item nav-item">Coronavirus News Updates</div></a>
+                        <a href="/current-focus-areas/northern-exercise-portfolio-2020"><div class="second-level-item nav-item">Northern Exercise Portfolio 2020</div></a>
+                </div>
             </div>
-                <div class="first-level-block">
-                    <a href="/current-focus-areas"><div class="first-level-item nav-item">Current Focus Areas</div></a>
-                    <div class="">
-                            <a href="/current-focus-areas/european-strategic-force-posture-review"><div class="second-level-item nav-item">European Strategic Force Posture Review</div></a>
-                            <a href="/current-focus-areas/coronavirus-news-updates"><div class="second-level-item nav-item">Coronavirus News Updates</div></a>
-                            <a href="/current-focus-areas/northern-exercise-portfolio-2020"><div class="second-level-item nav-item">Northern Exercise Portfolio 2020</div></a>
-                    </div>
+            <div class="first-level-block">
+                <a href="/organization"><div class="first-level-item nav-item">Organization</div></a>
+                <div class="">
+                        <a href="/organization/staff-resources"><div class="second-level-item nav-item">Staff Resources</div></a>
+                        <a href="/organization/commanders-priorities"><div class="second-level-item nav-item">Commander&#x27;s Priorities</div></a>
+                        <a href="/organization/senior-leadership"><div class="second-level-item nav-item">Senior Leadership</div></a>
+                        <a href="/organization/our-forces"><div class="second-level-item nav-item">Our Forces</div></a>
+                        <a href="/about/the-region"><div class="second-level-item nav-item">The Region</div></a>
+                        <a href="/organization/history-of-useucom"><div class="second-level-item nav-item">History of USEUCOM</div></a>
+                        <a href="/organization/volunteer-internship-program"><div class="second-level-item nav-item">Volunteer Internship Program </div></a>
                 </div>
-                <div class="first-level-block">
-                    <a href="/organization"><div class="first-level-item nav-item">Organization</div></a>
-                    <div class="">
-                            <a href="/organization/staff-resources"><div class="second-level-item nav-item">Staff Resources</div></a>
-                            <a href="/organization/commanders-priorities"><div class="second-level-item nav-item">Commander&#x27;s Priorities</div></a>
-                            <a href="/organization/senior-leadership"><div class="second-level-item nav-item">Senior Leadership</div></a>
-                            <a href="/organization/our-forces"><div class="second-level-item nav-item">Our Forces</div></a>
-                            <a href="/about/the-region"><div class="second-level-item nav-item">The Region</div></a>
-                            <a href="/organization/history-of-useucom"><div class="second-level-item nav-item">History of USEUCOM</div></a>
-                            <a href="/organization/volunteer-internship-program"><div class="second-level-item nav-item">Volunteer Internship Program </div></a>
-                    </div>
-                </div>
-                <div class="first-level-block">
-                    <a href="/policies-and-compliance"><div class="first-level-item nav-item">Policies and Compliance</div></a>
-                </div>
-    </div>
+            </div>
+            <div class="first-level-block">
+                <a href="/policies-and-compliance"><div class="first-level-item nav-item">Policies and Compliance</div></a>
+            </div>
+</div>
 
 <div class="w3-top">
     <div data-app-role="nav-menu" class="nav-menu w3-bar main-nav">
@@ -98,9 +104,10 @@
                     <span class="command-acronym w3-hide-large">EUCOM</span>
                 </div>
                 <div class="w3-right right-side-links">
-                    <span class="right-side-link"><a href="/contact-us">Contact Us</a></span>
-                    <span class="right-side-link"><a href="/media">Media</a></span>
-                    <span class="right-side-link"><a href="/organization/staff-resources">Staff Resources</a></span>
+                    <span class="right-side-link w3-hide-medium w3-hide-small"><a href="/contact-us">Contact Us</a></span>
+                    <span class="right-side-link w3-hide-medium w3-hide-small"><a href="/media">Media</a></span>
+                    <span class="right-side-link w3-hide-medium w3-hide-small"><a href="/organization/staff-resources">Staff Resources</a></span>
+                    <span class="right-side-link w3-hide-medium w3-hide-small"><a class="w3-button gradient-button nav" href="/current-focus-areas/coronavirus-news-updates">Coronavirus Updates</a></span>
                     <span class="right-side-link social-icons">
                         <a href="http://www.facebook.com/EUCOM" target="_blank" title="EUCOM on Facebook">
                             <i class="fab fa-facebook-f social-icon"></i>

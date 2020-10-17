@@ -284,8 +284,8 @@ RZ.jsversion = 1.2//--><!]]></script>
 
 
 	<div id="alert">
-		<span id="alert-header">Blake Standridge Day:</span>
-		<span id="alert-caption">Mayor Scotty White officially announces September 18th as Blake Standridge Day!&nbsp;
+		<span id="alert-header">City Hall Lobby Closed:</span>
+		<span id="alert-caption">The City Hall lobby is closed until October 26th.
 			
 				<em><a href="alert_detail_T27_R1.php" id="alert-more">read more</a></em>
 			

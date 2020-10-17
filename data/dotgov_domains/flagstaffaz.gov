@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"Zrn1mdGh2ERqoi_rN18XYJWHbwcPD9KR3E26Otd4iecR_taxp619FM3Aqtz9H5xN6Lp2e6Cm257IHntsZD3EwmoYNqk1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"0grbzDA48-mB8lXZ6dOP1lseXFu8Vdu7vFlLvlbyBlveJOHM0SFQqFTvAb6jQtdZBXglCCPBseGX_AS_FgQ79-MCVAE1\" />");
 						}
 					}
 				}, false);
@@ -1126,15 +1126,6 @@ height: 65px;
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
-			<li class="widgetItem" data-news-i-d="1441">
-
-					<h4 id="newsFlashItemHeader1441" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1441">Indigenous Peoples Day Celebration </a></h4>
-<div class="widgetDesc">
-				<a href="/CivicAlerts.aspx?AID=1441" id="newsFlashReadOn1441" aria-labelledby="newsFlashItemHeader1441 newsFlashReadOn1441" class="readOn sameLine">Read on...</a>
-</div>
-
-			</li>
 			<li class="widgetItem" data-news-i-d="1440">
 
 					<h4 id="newsFlashItemHeader1440" class="widgetTitle">
@@ -1144,12 +1135,21 @@ height: 65px;
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1439">
+			<li class="widgetItem" data-news-i-d="1438">
 
-					<h4 id="newsFlashItemHeader1439" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1439">Community Advisory- Police Officer Funding </a></h4>
+					<h4 id="newsFlashItemHeader1438" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1438">Lived Black Experience </a></h4>
 <div class="widgetDesc">
-				<a href="/CivicAlerts.aspx?AID=1439" id="newsFlashReadOn1439" aria-labelledby="newsFlashItemHeader1439 newsFlashReadOn1439" class="readOn sameLine">Read on...</a>
+				<a href="/CivicAlerts.aspx?AID=1438" id="newsFlashReadOn1438" aria-labelledby="newsFlashItemHeader1438 newsFlashReadOn1438" class="readOn sameLine">Read on...</a>
+</div>
+
+			</li>
+			<li class="widgetItem" data-news-i-d="1437">
+
+					<h4 id="newsFlashItemHeader1437" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1437">City enters Phase 3 of COVID reopening </a></h4>
+<div class="widgetDesc">
+				<a href="/CivicAlerts.aspx?AID=1437" id="newsFlashReadOn1437" aria-labelledby="newsFlashItemHeader1437 newsFlashReadOn1437" class="readOn sameLine">Read on...</a>
 </div>
 
 			</li>

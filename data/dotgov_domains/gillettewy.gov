@@ -19,7 +19,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Gillette, WY', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:true, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Gillette, WY","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6ImVyeTZzRFJMak9acTdmbTczVlVDSVE9PSJ9.Sauk-ZENYVyhRu0R5Hr-3b81tsq50qcGfFMLgI647plMfaLGfqXoWMCKxPei0dEvs1X0_RYEoaJrPAT44ozvQr2L-xbfhgh_.H-fIg1mad3uSYp6rPxpQVQ.bWIl9LNDzL7RPbFJRe2mXJo_s4vheCtXeNZVbrLlkXyWj1ucYXgE5pD1bEe1ftSzwYyZ7b4Cs4gCf_dDOaigwqzuLSlr5drFtd6yWYUfMM1X5dXzZxzypMnSzbosIWio2iHzBxYpi4cWFwfcqNzWA8DK8easM5wGB6QGut9ZU19Zp1fPyA5cO-X6AjJm8GiJ0KTfQqhxkfwcFcykHga9D-n7ANt7flUpq6F35VJdC50.h2Ya1F2f-WyoAQGWRE8JjGHbrP3VhjSoFMrfFHxQRQE";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:60,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Gillette, WY', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Gillette, WY","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6InNCRUxQRHBWVG5hZ053cVBRNEhPZFE9PSJ9.H1BFH2n8iT_ReIJJGRCn_u5kgiBd4k1wEhUGcs1sVgdWzYj_yYC3hA2aQJ3VYd3wonwWSir0pL_Om3mqR-OqKhn17WUaqzOb.kofu246d_eg_d-huTPQCyw.erizxgAnfaAN5rgUF2Evot_3uLr-MWrIQoVyinex8Ivrkuwp_gQiKGgvPoxdI0vl1wxIzCitkFkoLWk2UOIu5iBd_KHVHcOKO8stZRSVv3ygEbkkbWmWl-o5Kb8RzT9fV_waTovkvvdtD6X5UbyKeNGbm9NtrHGAC1sVivt9bH5kY4gT0FFz_qXHhLK3umDVI_5CHutW-fOUXQqxrDtW_42tUPOkBqsAAwoXNtr4jqM.xxW38nIjF2ontNx_2xTLRu_1qxzZkYfhlqcBN6nq3Mk";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -201,7 +201,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz
     })(window, angular);
 </script>
     
-    <script src="/Scripts/frontendCoreBundle.jsbnd?v=9WJe86WS0Lx1FvpIFcUM13y3sMmE_Klcvlh8dCOTlBY1"></script>
+    <script src="/Scripts/frontendCoreBundle.jsbnd?v=g3jftjuIaNapQMXh3I_PO6AJVjcGUIHRrSkn_10w_j81"></script>
 
 
     
@@ -214,42 +214,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz
         
     
     
-<!--stopindex-->
-<div class="alert_container">
-    <a class="hide" id="alert_controls" data-action="/Home/SetTopTipCookie">Show/Hide</a>
-    <div class="important_alert_wrapper ">
-        <div class="alert_right">
-            <div class="important_alert"><div data-testid="post_message" usercontent="" _3576"="" data-ft="{&quot;tn&quot;:&quot;K&quot;}" id="js_126">
-<div id="id_5efca2abeedb44065451037" text_exposed"="">
-<p>
-<div data-block="true" data-editor="cjmpe" data-offset-key="8bjv5-0-0">
-<div data-offset-key="8bjv5-0-0" _1mj"="">
-<div data-block="true" data-editor="7nifm" data-offset-key="fm3tk-0-0">
-<div data-offset-key="fm3tk-0-0" _1mj"="">All City Offices and Operations will be open and functioning on Columbus Day (Monday, October 12th). This includes trash, yard waste, and recycling pick up. And a quick message to our Curbside Yard Waste customers.</div>
-<div></div>
-</div>
-<div data-block="true" data-editor="7nifm" data-offset-key="6op3r-0-0"></div>
-</div>
-</div>
-</p>
-</div>
-</div>
-<div data-ft="{&quot;tn&quot;:&quot;H&quot;}">
-<div data-ft="{&quot;tn&quot;:&quot;H&quot;}">
-<div>
-<div>
-<div>
-<div _1ktf"="" data-ft="{&quot;tn&quot;:&quot;E&quot;}"><a rel="theater" ajaxify="/CityofGillette/photos/a.95417879679/10158687321844680/?type=3&amp;eid=ARBXv_l_jwRhgZw61C06fOu6fnEo1hPNx03oXee03oCxOixRULNWoSpeQ3ZvahZJiJKuX_sEo1Y1LGnp&amp;size=1200%2C900&amp;fbid=10158687321844680&amp;source=13&amp;player_origin=unknown&amp;__xts__%5B0%5D=68.ARDViB-nm-RsynorTlvrtsz-Rbou1WjlAFSdfIUb8PKKIxDOaMEBPcQCOeowTFBJ4HGpe1VvzFSR7JttXVNWnpc1KPJMA0DplgPt_O9m6CqceMyzvY1dkV84ZvGncbnXrwHqknYIN71v3jdXry3MQLF6CdBD4VaQMT--SHNgrB9SWo_qgna9UkeMAEBpJmwjSGSWeXZDmVr6wiCOFY2Wj8IRLjbiZIHxUG7WEqZtiSQGgSC01gY2K-A-rhIIdqI8gqNU6cLHB5uM_1OgphUuI_9Ktsr-8CFYl57t3VfOu1kofSoUJqkyC6V4SswX-oAdOQNsem4wOSCpr3iPkw&amp;__tn__=EHH-R" data-ploi="https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/106032632_10158687321849680_3655351491061471774_o.jpg?_nc_cat=103&amp;_nc_sid=8024bb&amp;_nc_ohc=TiQAGhm6_CgAX9pAwIl&amp;_nc_ht=scontent-den4-1.xx&amp;oh=ec2413b4544fcdbcfeb97f6cdeefb9a1&amp;oe=5F20E1E0" data-plsi="https://scontent-den4-1.xx.fbcdn.net/v/t1.0-9/p720x720/106032632_10158687321849680_3655351491061471774_o.jpg?_nc_cat=103&amp;_nc_sid=8024bb&amp;_nc_ohc=TiQAGhm6_CgAX9pAwIl&amp;_nc_ht=scontent-den4-1.xx&amp;_nc_tp=6&amp;oh=eb63bb7198e0dd2e5732c7c63fbff370&amp;oe=5F203B70" _2t9n"="" data-render-location="homepage_stream" href="/?splash=https%3a%2f%2fwww.facebook.com%2fCityofGillette%2fphotos%2fa.95417879679%2f10158687321844680%2f%3ftype%3d3%26eid%3dARBXv_l_jwRhgZw61C06fOu6fnEo1hPNx03oXee03oCxOixRULNWoSpeQ3ZvahZJiJKuX_sEo1Y1LGnp%26__xts__%255B0%255D%3d68.ARDViB-nm-RsynorTlvrtsz-Rbou1WjlAFSdfIUb8PKKIxDOaMEBPcQCOeowTFBJ4HGpe1VvzFSR7JttXVNWnpc1KPJMA0DplgPt_O9m6CqceMyzvY1dkV84ZvGncbnXrwHqknYIN71v3jdXry3MQLF6CdBD4VaQMT--SHNgrB9SWo_qgna9UkeMAEBpJmwjSGSWeXZDmVr6wiCOFY2Wj8IRLjbiZIHxUG7WEqZtiSQGgSC01gY2K-A-rhIIdqI8gqNU6cLHB5uM_1OgphUuI_9Ktsr-8CFYl57t3VfOu1kofSoUJqkyC6V4SswX-oAdOQNsem4wOSCpr3iPkw%26__tn__%3dEHH-R&____isexternal=true"></a></div>
-</div>
-</div>
-</div>
-</div>
-</div></div>
-        </div>
-    </div>
-</div>
-<!--startindex-->
-
 
 <div class="sitewrapper  site_template mainSpan_wrapper_home">
     <div class="mainSpan" id="mainSpan_wrapper_Screen">
@@ -827,24 +791,24 @@ Online Bill Pay
 		  
 
 <li>
-		<img class="desktop_only" alt="2020 Summer Parks Photo Contest Winners Announced" src="/Home/ShowPublishedImage/24895"/>	
+		<img class="desktop_only" alt="Street Closures - 10/15/20" src="/Home/ShowPublishedImage/5150/635809404137430000"/>	
+	<a href="/Home/Components/News/News/33742/34 ">Street Closures - 10/15/20</a>
+	<p class="box_item_summary desktop_only">
+		The City of Gillette announces the following road and lane closures.		
+	</p>	
+</li>
+<li>
+		<img class="desktop_only" alt="GPD Fingerprinting Service Day Changes" src="/Home/ShowPublishedImage/24897/637383660006700000"/>	
+	<a href="/Home/Components/News/News/33738/34 ">GPD Fingerprinting Service Day Changes</a>
+	<p class="box_item_summary desktop_only">
+		The Gillette Police Department will be changing the days that they provide fingerprinting services to the public. 		
+	</p>	
+</li>
+<li>
+		<img class="desktop_only" alt="2020 Summer Parks Photo Contest Winners Announced" src="/Home/ShowPublishedImage/24895/637378581129870000"/>	
 	<a href="/Home/Components/News/News/33730/34 ">2020 Summer Parks Photo Contest Winners Announced</a>
 	<p class="box_item_summary desktop_only">
 		The City of Gillette Parks and Beautification Board is pleased to announce the winners of the 2020 Summer Parks Photo Contest. 		
-	</p>	
-</li>
-<li>
-		<img class="desktop_only" alt="Crime Stoppers Featured Crime - October 9, 2020" src="/Home/ShowPublishedImage/5644/635932105269670000"/>	
-	<a href="/Home/Components/News/News/33728/34 ">Crime Stoppers Featured Crime - October 9, 2020</a>
-	<p class="box_item_summary desktop_only">
-		Crime Stoppers needs your help in solving a theft. 		
-	</p>	
-</li>
-<li>
-		<img class="desktop_only" alt="City Offices Open on Columbus Day" src="/Home/ShowPublishedImage/24883"/>	
-	<a href="/Home/Components/News/News/33726/34 ">City Offices Open on Columbus Day</a>
-	<p class="box_item_summary desktop_only">
-		All City Offices and Operations will be open and functioning on Columbus Day (Monday, October 12th). This includes trash, yard waste, and recycling pick up.		
 	</p>	
 </li>
 	</ul>
@@ -879,7 +843,7 @@ Online Bill Pay
 <div class="calendar calendar_mini_grid calendar-mini-grid-title" >
     <table class="calendar_title" >
         
-        <caption class="wcag_only">Calendar Grid 492041</caption>
+        <caption class="wcag_only">Calendar Grid 281831</caption>
         
         <tbody>
             <tr>
@@ -904,7 +868,7 @@ Online Bill Pay
 
 <table class="calendar calendar_mini_grid calendar-mini-grid-grid" >    
     
-    <caption class="wcag_only">Calendar Grid 492041</caption>
+    <caption class="wcag_only">Calendar Grid 281831</caption>
     
     <tbody>        
         <tr>
@@ -1013,11 +977,11 @@ Online Bill Pay
                 
                 <td class="calendar_day calendar_day_with_items" style="width: 14%;">
                     <a href="/city-government/what-s-happening/calendars/-curdate-10-8-2020">8</a>                        
-                    <div class="calendar_items"><div class="calendar_item"><span class="calendar_eventtime">3:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21176/20?backlist=%2f" title="Joint Powers Lodging Tax Board">Joint Powers Lodging Tax Board</a></div><div class="calendar_item"><span class="calendar_eventtime">6:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21104/20?backlist=%2f" title="Campbell County Public Land Board">Campbell County Public Land Board</a></div></div>
+                    <div class="calendar_items"><div class="calendar_item"><span class="calendar_eventtime">3:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21176/20?backlist=%2f" title="Joint Powers Lodging Tax Board">Joint Powers Lodging Tax Board</a></div><div class="calendar_item"><span class="calendar_eventtime">5:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21336/20?backlist=%2f" title="Parks &amp; Beautification Board">Parks &amp; Beautification Board</a></div><div class="calendar_item"><span class="calendar_eventtime">6:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21104/20?backlist=%2f" title="Campbell County Public Land Board">Campbell County Public Land Board</a></div></div>
                     
                 </td>
                 
-                <td class="calendar_today " style="width: 14%;">
+                <td class="calendar_day " style="width: 14%;">
                     <a href="/city-government/what-s-happening/calendars/-curdate-10-9-2020">9</a>                        
                     
                     
@@ -1063,7 +1027,7 @@ Online Bill Pay
                     
                 </td>
                 
-                <td class="calendar_day " style="width: 14%;">
+                <td class="calendar_today " style="width: 14%;">
                     <a href="/city-government/what-s-happening/calendars/-curdate-10-16-2020">16</a>                        
                     
                     
@@ -1103,9 +1067,9 @@ Online Bill Pay
                     
                 </td>
                 
-                <td class="calendar_day " style="width: 14%;">
+                <td class="calendar_day calendar_day_with_items" style="width: 14%;">
                     <a href="/city-government/what-s-happening/calendars/-curdate-10-22-2020">22</a>                        
-                    
+                    <div class="calendar_items"><div class="calendar_item"><span class="calendar_eventtime">5:30 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/21338/20?backlist=%2f" title="Parks &amp; Beautification Board">Parks &amp; Beautification Board</a></div></div>
                     
                 </td>
                 
@@ -1198,41 +1162,41 @@ Online Bill Pay
 
 
 <li>
-	<a href="/Home/Components/Calendar/Event/20883/20">
-      	<div class="datebox">Oct<span>12</span></div>
-	      <p>Columbus Day - City Offices Open</p>
+	<a href="/Home/Components/Calendar/Event/21285/20">
+      	<div class="datebox">Oct<span>20</span></div>
+	      <p>City Council Pre-Meeting</p>
 	      <p class="box_item_summary">
-	            Oct 12, 2020 @ 12:00 AM
+	            Oct 20, 2020 @ 06:00 PM
 	      </p>    
 	</a>
 </li>
 
 <li>
-	<a href="/Home/Components/Calendar/Event/21050/20">
-      	<div class="datebox">Oct<span>13</span></div>
-	      <p>Board of Examiners</p>
+	<a href="/Home/Components/Calendar/Event/20943/20">
+      	<div class="datebox">Oct<span>21</span></div>
+	      <p>Public Works &amp; Utilities Advisory Committee-CANCELLED</p>
 	      <p class="box_item_summary">
-	            Oct 13, 2020 @ 12:30 PM
+	            Oct 21, 2020 @ 05:30 PM
 	      </p>    
 	</a>
 </li>
 
 <li>
-	<a href="/Home/Components/Calendar/Event/21256/20">
-      	<div class="datebox">Oct<span>13</span></div>
+	<a href="/Home/Components/Calendar/Event/21338/20">
+      	<div class="datebox">Oct<span>22</span></div>
+	      <p>Parks &amp; Beautification Board</p>
+	      <p class="box_item_summary">
+	            Oct 22, 2020 @ 05:30 PM
+	      </p>    
+	</a>
+</li>
+
+<li>
+	<a href="/Home/Components/Calendar/Event/21255/20">
+      	<div class="datebox">Oct<span>27</span></div>
 	      <p>City Council Work Session</p>
 	      <p class="box_item_summary">
-	            Oct 13, 2020 @ 06:00 PM
-	      </p>    
-	</a>
-</li>
-
-<li>
-	<a href="/Home/Components/Calendar/Event/21024/20">
-      	<div class="datebox">Oct<span>13</span></div>
-	      <p>Planning Commission Meeting</p>
-	      <p class="box_item_summary">
-	            Oct 13, 2020 @ 07:00 PM
+	            Oct 27, 2020 @ 06:00 PM
 	      </p>    
 	</a>
 </li>	</ul>
@@ -1428,7 +1392,7 @@ Online Bill Pay
 <p style="text-align: center;">Voice Heard!</p>
 <p style="text-align: center;">
 </p>
-<p style="text-align: center;"><a href="https://www.gillettewy.gov/city-government/departments/administration/public-information/flashvote" target="_blank"><img src="/Home/ShowPublishedImage/24881/637371409059800000" alt="" style="width: 200px;"><br>
+<p style="text-align: center;"><a href="https://www.gillettewy.gov/city-government/departments/administration/public-information/flashvote" target="_blank"><img src="/Home/ShowPublishedImage/24881/637371409059800000" alt="" style="width: 185px;"><br>
 </a><a href="https://www.gillettewy.gov/city-government/about/city-boards-committees/board-openings" target="_blank"></a></p>
 </div>
                   
@@ -1541,7 +1505,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 (function (window) {
     var dataLayer = window.userDataLayer = window.userDataLayer || [];
     dataLayer.push(
-        {"Env":"LIVE","SessionID":"hlqwpgb3patkpq2p3sbc5r0o","Identity":"75ab6f94f4ae4a07897b57e57ad29785","OrganizationName":"Gillette, WY","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
+        {"Env":"LIVE","SessionID":"0lmnwjc4azs21mkmxptdedjs","Identity":"75ab6f94f4ae4a07897b57e57ad29785","OrganizationName":"Gillette, WY","LoginUser":"","LoginUserType":"","LoginWebsiteUser":"","LoginMember":""}
         );
 })(window)
 </script>

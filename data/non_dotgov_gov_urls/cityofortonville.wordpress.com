@@ -223,7 +223,7 @@ function gotoFunction() { window.location.href = document.language.languagesel.o
 	</div>
 		<div class="spacergif"></div>
 	<p class="automattic">
-		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Brainchild</span>	</p>
+		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Ruckus</span>	</p>
 				<script>
 				var cwLink = document.getElementById( 'code-wrangler' );
 				var alternatives = [
@@ -272,7 +272,7 @@ if ( window.top !== window.self ) {
 	}
 }
 </script>
-<script src='//0.gravatar.com/js/gprofiles.js?ver=202041y' id='grofiles-cards-js'></script>
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202042y' id='grofiles-cards-js'></script>
 <script id='wpgroho-js-extra'>
 var WPGroHo = {"my_hash":""};
 </script>

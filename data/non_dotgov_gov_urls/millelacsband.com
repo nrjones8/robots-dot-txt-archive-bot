@@ -164,6 +164,8 @@
               Tribal Police            </a>
                       <a href="https://millelacsband.com/services/urban-office" >
               Urban Office            </a>
+                      <a href="https://millelacsband.com/services/115th-ave-onamia-septic-install" >
+              31972 115th Ave., Onamia Septic Install            </a>
                   </div>
       </nav>
                 <nav class="subnav" data-subnav="government">
@@ -2205,6 +2207,8 @@
               Manoomin Presentation September 26-27            </a>
                       <a href="https://millelacsband.com/news/early-ed-seeks-members-of-policy-council" >
               Early Ed Seeks Members of Policy Council            </a>
+                      <a href="https://millelacsband.com/news/band-provides-antibody-tests" >
+              Band Provides Antibody Tests            </a>
                       <a href="https://millelacsband.com/news/band-receives-entrepreneurship-grant" >
               Band Receives Entrepreneurship Grant            </a>
                       <a href="https://millelacsband.com/news/band-assembly-weekly-update-for-september-21-25-2020" >
@@ -2219,10 +2223,22 @@
               Tragedy Remembered in Online Ceremony            </a>
                       <a href="https://millelacsband.com/news/band-assembly-weekly-update-week-of-september-28-october-2-2020" >
               Band Assembly Weekly Update: Week of September 28-October 2, 2020            </a>
+                      <a href="https://millelacsband.com/news/meet-the-new-providers-at-ne-ia-shing-clinics" >
+              Meet the New Providers at Ne-Ia-Shing Clinics            </a>
                       <a href="https://millelacsband.com/news/students-crunch-together-for-farm-to-school" >
               Students Crunch Together for Farm-to-School            </a>
+                      <a href="https://millelacsband.com/news/successful-partnership-leads-to-successful-students" >
+              Successful Partnership Leads to Successful Students            </a>
                       <a href="https://millelacsband.com/news/weekly-news-summary-october-4-10" >
               Weekly News Summary, October 4-10            </a>
+                      <a href="https://millelacsband.com/news/taking-a-stand-by-taking-a-knee" >
+              Taking a Stand by Taking a Knee            </a>
+                      <a href="https://millelacsband.com/news/investments" >
+              Investments            </a>
+                      <a href="https://millelacsband.com/news/the-unsung-hero-of-the-legislative-branch" >
+              The Unsung Hero of the Legislative Branch            </a>
+                      <a href="https://millelacsband.com/news/new-ordinance-modifies-child-support-code" >
+              New Ordinance Modifies Child Support Code            </a>
                   </div>
       </nav>
       
@@ -2298,8 +2314,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/students-crunch-together-for-farm-to-school" class="news-title">
-          Students Crunch Together for Farm-to-School        </a>
+        <a href="https://millelacsband.com/news/new-ordinance-modifies-child-support-code" class="news-title">
+          New Ordinance Modifies Child Support Code        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

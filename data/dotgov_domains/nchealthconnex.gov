@@ -1,897 +1,1147 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
-  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
-<head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-  <link rel="manifest" href="/manifest.json">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
-  <meta name="theme-color" content="#ffffff">
-  <!--[if IE]><![endif]-->
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="apple-touch-icon" href="/apple-icon-114x114.png" sizes="114x114" />
-<link rel="icon" href="/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" href="/favicon-32x32.png" sizes="32x32" />
-<link rel="icon" href="/favicon-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="/apple-icon-180x180.png" sizes="180x180" />
-<link rel="apple-touch-icon" href="/apple-icon-152x152.png" sizes="152x152" />
-<link rel="apple-touch-icon" href="/apple-icon-144x144.png" sizes="144x144" />
-<link rel="apple-touch-icon" href="/apple-icon-120x120.png" sizes="120x120" />
-<link rel="apple-touch-icon" href="/apple-icon-72x72.png" sizes="72x72" />
-<link rel="apple-touch-icon" href="/apple-icon-76x76.png" sizes="76x76" />
-<link rel="apple-touch-icon" href="/apple-icon-60x60.png" sizes="60x60" />
-<link rel="apple-touch-icon" href="/apple-icon-57x57.png" sizes="57x57" />
-<link rel="icon" href="/favicon-16x16.png" sizes="16x16" />
-<meta name="generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="https://hiea.nc.gov/" />
-<link rel="shortlink" href="https://hiea.nc.gov/" />
-  <meta http-equiv="cleartype" content="on">
-  <title>NC Health Information Exchange Authority</title>
-  <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
-  <style type="text/css" media="all">
-@import url("//hiea.nc.gov/modules/system/system.base.css?qh63nl");
-@import url("//hiea.nc.gov/modules/system/system.menus.css?qh63nl");
-@import url("//hiea.nc.gov/modules/system/system.theme.css?qh63nl");
-</style>
-<style type="text/css" media="all">
-@import url("//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qh63nl");
-</style>
-<style type="text/css" media="all">
-@import url("//hiea.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qh63nl");
-@import url("//hiea.nc.gov/modules/comment/comment.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qh63nl");
-@import url("//hiea.nc.gov/modules/field/theme/field.css?qh63nl");
-@import url("//hiea.nc.gov/modules/node/node.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qh63nl");
-@import url("//hiea.nc.gov/modules/user/user.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/views/css/views.css?qh63nl");
-</style>
-<style type="text/css" media="all">
-@import url("//hiea.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qh63nl");
-@import url("//hiea.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qh63nl");
-@import url("//hiea.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qh63nl");
-</style>
-<link type="text/css" rel="stylesheet" href="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qh63nl" media="all" />
-<link type="text/css" rel="stylesheet" href="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qh63nl" media="print" />
-<link type="text/css" rel="stylesheet" href="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/style-nchiea.css?qh63nl" media="all" />
-  <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/EventListener.js"></script><![endif]-->
-  <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/selectivizr-min.js"></script><![endif]-->
-  <script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.migrateMute = true; jQuery.migrateTrace = false;
-//--><!]]>
-</script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.2.1/jquery-migrate.min.js?v=1.2.1"></script>
-<script type="text/javascript" src="//hiea.nc.gov/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/misc/drupal.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qh63nl"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-document.createElement( "picture" );
-//--><!]]>
-</script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qh63nl"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
-//--><!]]>
-</script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qh63nl"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-81658806-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="//hiea.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qh63nl"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_base_theme","theme_token":"XTlMuIDywu3ON7XcTzJOQSYxbqij-Xy-VHbJgK1XEg4","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-nchiea.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"profiles\/north_carolina\/modules\/features\/nc_carousel\/nc_carousel.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true},"field_group":{"div":"full"},"collapseAccordions":1});
-//--><!]]>
-</script>
-</head>
-<body class="html front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-landing-page i18n-en footer-columns enterprise-core-dark" >
-<!--[if lt IE 9]>
-<div class="alert-box breaking outdated-browser">
-  <h3>Did you know that your browser is out of date?</h3>
-  <p>Your browser is out of date and may not be able to properly display our website. <a href="http://outdatedbrowser.com/" title="Outdated Browser">Update my browser now</a> to experience this site.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-81658806-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-81658806-1", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false});</script>
+<link rel="shortlink" href="https://hiea.nc.gov" />
+<link rel="canonical" href="https://hiea.nc.gov" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://files.nc.gov/nchiea/nc-favicon-32x32.png?E9DQ.Qz4S6swJx46R.CvW4D_Csrze6Mg" type="image/png" />
+<link rel="alternate" hreflang="en" href="http://hiea.nc.gov/home-page" />
+<link rel="revision" href="http://hiea.nc.gov/home-page" />
+
+    <title>Home Page | NC Health Information Exchange Authority</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/modules/contrib/anchor_link/css/anchor_link.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/themes/custom/nc_base_theme/css/fields/nc-fields.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/themes/custom/nc_base_theme/css/components/tabs.css?qhwlvh" />
+<link rel="stylesheet" media="print" href="/themes/custom/nc_base_theme/css/print.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/themes/custom/nc_base_theme/css/components/carousel.css?qhwlvh" />
+<link rel="stylesheet" media="all" href="/themes/custom/nc_base_theme/css/themes/ncgov-theme-accent-light-blue.css?qhwlvh" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
 <![endif]-->
-<div id="skip-link">
-  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-</div>
-  <div id="page-wrapper"><div id="page">
 
-    <div id="header" class="header-container no-alerts">
-      <header class="group">
-                <div class="utility-wrapper wrapper">
-          <div class="header-search">
-            <div class="search">
-                              <form action="/" method="post" id="nc-search-block-form" accept-charset="UTF-8"><label for="nc_search_block_form" class="visuallyhidden">Search NC.gov</label>
-<input type="search" placeholder="Search..." name="nc_search_block_form" id="nc_search_block_form" />
-<input type="submit" value="Submit" /><span class="icon-search" aria-hidden="true"></span>
-<input type="hidden" name="form_build_id" value="form-30WClsNpifo4wRe_kQLP0-FtOlss5jIxwnlyKOy7vXI" />
-<input type="hidden" name="form_id" value="nc_search_block_form" />
-</form>                          </div>
-          </div>
-        </div>
-                    
-  <style>
-    @media screen and (max-width: 1023px) {
-      .topical-nav ul li.home a {
-        background-image: url(https://files.nc.gov/hiea/NCDIT_LOGO_HIEA.svg);
-      }
-      .mobile-nav div img,
-      .mobile-nav div svg {
-        display: none;
-      }
-    }
-    @media screen and (min-width: 1024px) {
-      .mobile-nav div {
-        max-width: 300px;
-        height: auto;
-        max-height: 60px;
-      }
-      .mobile-nav div img {
-        max-width: 100%;
-        max-height: 100%;
-      }
-      .mobile-nav div svg {
-        display: block;
-        max-height: 100%;
-        height: auto;
-      }
-      .mobile-nav div a,
-      .mobile-nav h1 a {
-        background-image: none;
-        height: 60px;
-        width: auto;
-        text-align: left;
-      }
-      .mobile-nav .site-title-mobile {
-        display: none;
-      }
-      .menu-container {
-        padding-top: 100px;
-      }
-      .enterprise-nav {
-        height: 100px;
-      }
-      .enterprise-nav ul li a {
-        line-height: 90px;
-      }
-      .header-container .alert-widget {
-        top: 20px;
-      }
-      .header-search {
-        top: 30px;
-      }
-      .enterprise-nav ul li:last-child {
-        margin-right: 70px;
-      }
-    }
-    @media print {
-      .enterprise-core-dark .mobile-nav div a {
-        background: none !important;
-      }
-    }
-  </style>
-<div class="mobile-nav">
-  <button class="flyout-trigger open-trigger"><span class="icon-dehaze" aria-hidden="true"></span><span> Menu</span></button>
-  <div class="site-title">
-    <a href="/" rel="home" title="Home">
-      <?xm preserveAspectRatio="xMinYMid"l version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 288.2 62.2" style="enable-background:new 0 0 288.2 62.2;" xml:space="preserve">
-<style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;fill:none;}
-	.st2{display:inline;}
-	.st3{font-family:'Gotham-Black';}
-	.st4{font-size:53px;}
-	.st5{font-family:'Gotham-Book';}
-	.st6{font-size:8px;}
-	.st7{font-family:'Gotham-Medium';}
-	.st8{font-size:10px;}
-	.st9{fill:#0B3D61;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st10{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
-	.st11{font-family:'Gotham-MediumItalic';}
-	.st12{font-size:11.5px;}
-	.st13{font-size:11px;}
-	.st14{display:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-	.st15{fill:#FFFFFF;}
-	.st16{fill:#0B3D61;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-	.st17{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-	.st18{fill:none;}
-	.st19{display:none;fill:#FFFFFF;}
-	.st20{display:inline;fill:#0B3D61;}
-	.st21{fill:#0B3D61;stroke:#397AAC;stroke-width:2;stroke-miterlimit:10;}
-	.st22{fill:none;stroke:#397AAC;stroke-width:2;stroke-miterlimit:10;}
-	.st23{fill:#397AAC;}
-	.st24{display:inline;fill:#397AAC;}
-</style>
-<g id="Black" class="st0">
-	<rect x="0" y="7.7" class="st1" width="191.3" height="40.6"/>
-	<text transform="matrix(1 0 0 1 0 46.3748)" class="st2 st3 st4">NC DIT</text>
-	<rect x="208.7" y="18.1" class="st1" width="79.5" height="6.1"/>
-	<text transform="matrix(1 0 0 1 208.7266 23.9551)" class="st2 st5 st6">NORTH CAROLINA</text>
-	<rect x="208.7" y="25.2" class="st1" width="79.5" height="7.6"/>
-	<text transform="matrix(1 0 0 1 208.7266 31.0331)" class="st2 st5 st6">DEPARTMENT OF</text>
-	<rect x="208.7" y="32.5" class="st1" width="77.8" height="8.2"/>
-	<text transform="matrix(1 0 0 1 208.7266 39.8486)" class="st2 st7 st8">INFORMATION</text>
-	<rect x="208.7" y="40.8" class="st1" width="77.8" height="9"/>
-	<text transform="matrix(1 0 0 1 208.7266 48.0561)" class="st2 st7 st8">TECHNOLOGY</text>
-	<g class="st2">
-		<line class="st9" x1="200.5" y1="15.5" x2="200.5" y2="53.1"/>
-		<circle class="st10" cx="200.5" cy="11.3" r="4.6"/>
-		<circle class="st10" cx="200.5" cy="56.7" r="4.6"/>
-	</g>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st2 st11 st12">Digital Solutions</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st11 st12">911 Board</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st11 st12">Innovation Center</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st11 st12">Broadband Infrastructure Office</text>
-	<rect x="2.5" y="51.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 2.5 57.0552)" class="st11 st6">Center for Geographic Information and Analysis</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.2456)" class="st11 st13">Government Data Analytics Center</text>
-</g>
-<g id="White">
-	<rect x="-13.7" y="-10" class="st14" width="356.3" height="117.7"/>
-	<g>
-		<path class="st15" d="M3.3,9.3h9.6l15.3,19.6V9.3h10.2v37.1h-9L13.5,26v20.3H3.3V9.3z"/>
-		<path class="st15" d="M43.6,27.9v-0.1c0-10.8,8.3-19.3,19.6-19.3c7.6,0,12.5,3.2,15.7,7.7l-7.7,6c-2.1-2.6-4.6-4.3-8.1-4.3
-			c-5.2,0-8.9,4.4-8.9,9.8v0.1c0,5.6,3.7,9.9,8.9,9.9c3.9,0,6.1-1.8,8.4-4.5l7.7,5.5c-3.5,4.8-8.2,8.4-16.4,8.4
-			C52.2,47.1,43.6,39,43.6,27.9z"/>
-		<path class="st15" d="M98.3,9.3h14.3c13.2,0,20.9,7.6,20.9,18.3v0.1c0,10.7-7.8,18.7-21.1,18.7H98.3V9.3z M112.7,37.3
-			c6.1,0,10.2-3.4,10.2-9.4v-0.1c0-5.9-4.1-9.4-10.2-9.4h-4.2v18.9H112.7z"/>
-		<path class="st15" d="M139,9.3h10.3v37.1H139V9.3z"/>
-		<path class="st15" d="M165.2,18.3h-11.1v-9h32.5v9h-11.1v28.1h-10.3V18.3z"/>
-	</g>
-	<g>
-		<path class="st15" d="M209.5,18.4h0.6l3.5,4.5v-4.5h0.6V24h-0.5l-3.6-4.6V24h-0.6V18.4z"/>
-		<path class="st15" d="M215.6,21.2L215.6,21.2c0-1.6,1.2-2.9,2.9-2.9s2.8,1.3,2.8,2.9c0,0,0,0,0,0c0,1.5-1.2,2.9-2.9,2.9
-			S215.6,22.7,215.6,21.2z M220.6,21.2L220.6,21.2c0-1.3-0.9-2.3-2.2-2.3s-2.2,1-2.2,2.3v0c0,1.3,0.9,2.3,2.2,2.3
-			S220.6,22.4,220.6,21.2z"/>
-		<path class="st15" d="M222.6,18.4h2.4c0.7,0,1.2,0.2,1.6,0.6c0.3,0.3,0.4,0.7,0.4,1.1v0c0,0.9-0.6,1.5-1.5,1.6l1.7,2.3h-0.8
-			l-1.6-2.2h0h-1.6V24h-0.6V18.4z M225,21.2c0.8,0,1.4-0.4,1.4-1.2v0c0-0.7-0.5-1.1-1.4-1.1h-1.7v2.3H225z"/>
-		<path class="st15" d="M229.8,18.9H228v-0.6h4.4v0.6h-1.9v5h-0.6V18.9z"/>
-		<path class="st15" d="M233.5,18.4h0.6v2.5h3.2v-2.5h0.6V24h-0.6v-2.5h-3.2V24h-0.6V18.4z"/>
-		<path class="st15" d="M241.8,21.2L241.8,21.2c0-1.6,1.2-2.9,2.8-2.9c1,0,1.6,0.4,2.2,0.9l-0.4,0.5c-0.5-0.4-1-0.8-1.8-0.8
-			c-1.2,0-2.2,1-2.2,2.3v0c0,1.3,0.9,2.3,2.2,2.3c0.8,0,1.3-0.3,1.8-0.8l0.4,0.4c-0.6,0.6-1.2,1-2.2,1
-			C243,24.1,241.8,22.8,241.8,21.2z"/>
-		<path class="st15" d="M250,18.3h0.6l2.6,5.6h-0.7l-0.7-1.5h-3l-0.7,1.5h-0.6L250,18.3z M251.6,21.9l-1.3-2.9l-1.3,2.9H251.6z"/>
-		<path class="st15" d="M254.3,18.4h2.4c0.7,0,1.2,0.2,1.6,0.6c0.3,0.3,0.4,0.7,0.4,1.1v0c0,0.9-0.6,1.5-1.5,1.6l1.7,2.3h-0.8
-			l-1.6-2.2h0h-1.6V24h-0.6V18.4z M256.6,21.2c0.8,0,1.4-0.4,1.4-1.2v0c0-0.7-0.5-1.1-1.4-1.1h-1.7v2.3H256.6z"/>
-		<path class="st15" d="M259.8,21.2L259.8,21.2c0-1.6,1.2-2.9,2.9-2.9s2.8,1.3,2.8,2.9c0,0,0,0,0,0c0,1.5-1.2,2.9-2.9,2.9
-			S259.8,22.7,259.8,21.2z M264.8,21.2L264.8,21.2c0-1.3-0.9-2.3-2.2-2.3s-2.2,1-2.2,2.3v0c0,1.3,0.9,2.3,2.2,2.3
-			S264.8,22.4,264.8,21.2z"/>
-		<path class="st15" d="M266.8,18.4h0.6v5h3.2V24h-3.8V18.4z"/>
-		<path class="st15" d="M271.8,18.4h0.6V24h-0.6V18.4z"/>
-		<path class="st15" d="M274.1,18.4h0.6l3.5,4.5v-4.5h0.6V24h-0.5l-3.6-4.6V24h-0.6V18.4z"/>
-		<path class="st15" d="M282.5,18.3h0.6l2.6,5.6H285l-0.7-1.5h-3l-0.7,1.5H280L282.5,18.3z M284.1,21.9l-1.3-2.9l-1.3,2.9H284.1z"/>
-	</g>
-	<g>
-		<path class="st15" d="M209.5,25.4h1.9c1.8,0,3,1.2,3,2.8v0c0,1.6-1.2,2.8-3,2.8h-1.9V25.4z M211.5,30.4c1.4,0,2.3-1,2.3-2.2v0
-			c0-1.2-0.9-2.2-2.3-2.2h-1.3v4.4H211.5z"/>
-		<path class="st15" d="M215.8,25.4h4V26h-3.4v1.9h3.1v0.6h-3.1v2h3.5V31h-4.1V25.4z"/>
-		<path class="st15" d="M221.1,25.4h2.1c1.3,0,2.1,0.7,2.1,1.8v0c0,1.2-1,1.8-2.2,1.8h-1.4v2h-0.6V25.4z M223.1,28.5
-			c0.9,0,1.5-0.5,1.5-1.2v0c0-0.8-0.6-1.2-1.5-1.2h-1.4v2.5H223.1z"/>
-		<path class="st15" d="M228,25.4h0.6l2.6,5.6h-0.7l-0.7-1.5h-3l-0.7,1.5h-0.6L228,25.4z M229.5,29l-1.3-2.9L227,29H229.5z"/>
-		<path class="st15" d="M232.2,25.4h2.4c0.7,0,1.2,0.2,1.6,0.6c0.3,0.3,0.4,0.7,0.4,1.1v0c0,0.9-0.6,1.5-1.5,1.6l1.7,2.3h-0.8
-			l-1.6-2.2h0h-1.6V31h-0.6V25.4z M234.6,28.3c0.8,0,1.4-0.4,1.4-1.2v0c0-0.7-0.5-1.1-1.4-1.1h-1.7v2.3H234.6z"/>
-		<path class="st15" d="M239.4,26h-1.9v-0.6h4.4V26h-1.9v5h-0.6V26z"/>
-		<path class="st15" d="M243.2,25.4h0.6l2,3.1l2-3.1h0.6V31h-0.6v-4.5l-2,3h0l-2-3V31h-0.6V25.4z"/>
-		<path class="st15" d="M250.1,25.4h4V26h-3.4v1.9h3.1v0.6h-3.1v2h3.5V31h-4.1V25.4z"/>
-		<path class="st15" d="M255.5,25.4h0.6l3.5,4.5v-4.5h0.6V31h-0.5l-3.6-4.6V31h-0.6V25.4z"/>
-		<path class="st15" d="M263.3,26h-1.9v-0.6h4.4V26h-1.9v5h-0.6V26z"/>
-		<path class="st15" d="M269.1,28.3L269.1,28.3c0-1.6,1.2-2.9,2.9-2.9s2.8,1.3,2.8,2.9c0,0,0,0,0,0c0,1.5-1.2,2.9-2.9,2.9
-			S269.1,29.8,269.1,28.3z M274.2,28.3L274.2,28.3c0-1.3-0.9-2.3-2.2-2.3s-2.2,1-2.2,2.3v0c0,1.3,0.9,2.3,2.2,2.3
-			S274.2,29.5,274.2,28.3z"/>
-		<path class="st15" d="M276.2,25.4h4V26h-3.4v2h3v0.6h-3V31h-0.6V25.4z"/>
-	</g>
-	<g>
-		<path class="st15" d="M209.7,32.9h1.2v7h-1.2V32.9z"/>
-		<path class="st15" d="M212.8,32.9h1.1l3.7,4.8v-4.8h1.2v7h-1l-3.9-5v5h-1.2V32.9z"/>
-		<path class="st15" d="M220.7,32.9h5.2V34h-4v1.9h3.5V37h-3.5v2.8h-1.2V32.9z"/>
-		<path class="st15" d="M226.9,36.4L226.9,36.4c0-2,1.5-3.6,3.7-3.6c2.1,0,3.6,1.6,3.6,3.6v0c0,2-1.5,3.6-3.7,3.6
-			S226.9,38.3,226.9,36.4z M232.9,36.4L232.9,36.4c0-1.4-1-2.5-2.4-2.5s-2.4,1.1-2.4,2.5v0c0,1.4,1,2.5,2.4,2.5
-			C231.9,38.8,232.9,37.7,232.9,36.4z"/>
-		<path class="st15" d="M235.7,32.9h3.1c0.9,0,1.6,0.3,2,0.7c0.4,0.4,0.6,0.9,0.6,1.5v0c0,1.1-0.7,1.8-1.7,2.1l1.9,2.6h-1.4
-			l-1.7-2.4h0h-1.5v2.4h-1.2V32.9z M238.7,36.3c0.9,0,1.4-0.5,1.4-1.2v0c0-0.7-0.5-1.2-1.4-1.2h-1.8v2.3H238.7z"/>
-		<path class="st15" d="M242.9,32.9h1.3l2.1,3.3l2.1-3.3h1.3v7h-1.2v-5l-2.2,3.3h0l-2.2-3.3v5h-1.2V32.9z"/>
-		<path class="st15" d="M254.1,32.8h1.1l3.1,7H257l-0.7-1.7H253l-0.7,1.7H251L254.1,32.8z M255.8,37.1l-1.2-2.8l-1.2,2.8H255.8z"/>
-		<path class="st15" d="M260.3,34h-2.2v-1.1h5.7V34h-2.2v5.9h-1.2V34z"/>
-		<path class="st15" d="M265.2,32.9h1.2v7h-1.2V32.9z"/>
-		<path class="st15" d="M267.9,36.4L267.9,36.4c0-2,1.5-3.6,3.7-3.6c2.1,0,3.6,1.6,3.6,3.6v0c0,2-1.5,3.6-3.7,3.6
-			C269.4,40,267.9,38.3,267.9,36.4z M274,36.4L274,36.4c0-1.4-1-2.5-2.4-2.5c-1.4,0-2.4,1.1-2.4,2.5v0c0,1.4,1,2.5,2.4,2.5
-			S274,37.7,274,36.4z"/>
-		<path class="st15" d="M276.8,32.9h1.1l3.7,4.8v-4.8h1.2v7h-1l-3.9-5v5h-1.2V32.9z"/>
-	</g>
-	<g>
-		<path class="st15" d="M211.3,42.2h-2.2v-1.1h5.7v1.1h-2.2v5.9h-1.2V42.2z"/>
-		<path class="st15" d="M216.1,41.1h5.2v1.1h-4V44h3.5v1.1h-3.5V47h4v1.1h-5.2V41.1z"/>
-		<path class="st15" d="M222.5,44.6L222.5,44.6c0-2,1.5-3.6,3.6-3.6c1.3,0,2.1,0.5,2.7,1.1l-0.8,0.9c-0.6-0.5-1.2-0.9-2-0.9
-			c-1.3,0-2.3,1.1-2.3,2.5v0c0,1.4,1,2.5,2.3,2.5c0.9,0,1.4-0.3,2-0.9l0.8,0.8c-0.7,0.8-1.5,1.2-2.8,1.2
-			C224,48.2,222.5,46.6,222.5,44.6z"/>
-		<path class="st15" d="M230.2,41.1h1.2V44h3.3v-2.9h1.2v7h-1.2v-2.9h-3.3v2.9h-1.2V41.1z"/>
-		<path class="st15" d="M237.8,41.1h1.1l3.7,4.8v-4.8h1.2v7h-1l-3.9-5v5h-1.2V41.1z"/>
-		<path class="st15" d="M245.4,44.6L245.4,44.6c0-2,1.5-3.6,3.7-3.6c2.1,0,3.6,1.6,3.6,3.6v0c0,2-1.5,3.6-3.7,3.6
-			S245.4,46.5,245.4,44.6z M251.4,44.6L251.4,44.6c0-1.4-1-2.5-2.4-2.5s-2.4,1.1-2.4,2.5v0c0,1.4,1,2.5,2.4,2.5
-			C250.4,47,251.4,45.9,251.4,44.6z"/>
-		<path class="st15" d="M254.2,41.1h1.2v5.9h3.7v1.1h-4.9V41.1z"/>
-		<path class="st15" d="M259.7,44.6L259.7,44.6c0-2,1.5-3.6,3.7-3.6s3.6,1.6,3.6,3.6v0c0,2-1.5,3.6-3.7,3.6S259.7,46.5,259.7,44.6z
-			 M265.7,44.6L265.7,44.6c0-1.4-1-2.5-2.4-2.5s-2.4,1.1-2.4,2.5v0c0,1.4,1,2.5,2.4,2.5C264.7,47,265.7,45.9,265.7,44.6z"/>
-		<path class="st15" d="M268.2,44.6L268.2,44.6c0-2,1.5-3.6,3.6-3.6c1.2,0,2,0.3,2.7,0.9l-0.8,0.9c-0.5-0.5-1.1-0.7-2-0.7
-			c-1.3,0-2.3,1.1-2.3,2.5v0c0,1.4,1,2.5,2.4,2.5c0.7,0,1.3-0.2,1.7-0.5v-1.3h-1.8v-1.1h3v2.9c-0.7,0.6-1.7,1.1-2.9,1.1
-			C269.6,48.2,268.2,46.6,268.2,44.6z"/>
-		<path class="st15" d="M278.1,45.3l-2.8-4.2h1.4l2,3.1l2-3.1h1.4l-2.8,4.2v2.8h-1.2V45.3z"/>
-	</g>
-	<g>
-		<line class="st16" x1="200.5" y1="15.5" x2="200.5" y2="53.1"/>
-		<circle class="st17" cx="200.5" cy="11.3" r="4.6"/>
-		<circle class="st17" cx="200.5" cy="56.7" r="4.6"/>
-	</g>
-	<rect x="3.5" y="49.2" class="st18" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st19 st11 st12">Digital Solutions</text>
-	<rect x="3.5" y="49.2" class="st18" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st19 st11 st12">911 Board</text>
-	<rect x="3.5" y="49.2" class="st18" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st19 st11 st12">Innovation Center</text>
-	<rect x="3.5" y="49.2" class="st18" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st19 st11 st12">Broadband Infrastructure Office</text>
-	<rect x="2.5" y="51.2" class="st18" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 2.5 57.0552)" class="st19 st11 st6">Center for Geographic Information and Analysis</text>
-	<g>
-		<path class="st15" d="M5.8,50.5h1.4l-0.9,3.2h3.6l0.9-3.2h1.4L10,58.2H8.7L9.6,55H5.9l-0.9,3.2H3.7L5.8,50.5z"/>
-		<path class="st15" d="M15.1,57.3c0.6,0,1-0.2,1.5-0.6l0.6,0.8c-0.6,0.5-1.3,0.8-2.3,0.8c-1.6,0-2.6-1-2.6-2.5
-			c0-1.7,1.4-3.5,3.4-3.5c1.5,0,2.3,1,2.3,2.3c0,0.4-0.1,0.8-0.3,1.3h-4.2C13.6,56.7,14.1,57.3,15.1,57.3z M16.7,54.9
-			c0-0.1,0.1-0.2,0.1-0.4c0-0.6-0.4-1.1-1.2-1.1c-0.9,0-1.6,0.6-1.9,1.5H16.7z"/>
-		<path class="st15" d="M18.6,56.8c0-1.3,1.1-2.1,2.6-2.1c0.6,0,1.2,0.1,1.7,0.3l0-0.1c0-0.2,0.1-0.3,0.1-0.5c0-0.5-0.4-0.9-1.3-0.9
-			c-0.6,0-1.1,0.1-1.6,0.3l-0.2-1.1c0.6-0.2,1.3-0.4,2.1-0.4c1.5,0,2.3,0.7,2.3,1.8c0,0.3,0,0.5-0.1,0.8l-0.9,3.3H22l0.2-0.8
-			c-0.5,0.5-1.1,0.9-1.9,0.9C19.3,58.4,18.6,57.7,18.6,56.8z M22.6,56l0.1-0.3c-0.4-0.1-0.8-0.2-1.3-0.2c-0.9,0-1.4,0.4-1.4,1
-			c0,0.5,0.4,0.8,0.9,0.8C21.7,57.4,22.4,56.7,22.6,56z"/>
-		<path class="st15" d="M27.1,50.2h1.3l-2.2,8H25L27.1,50.2z"/>
-		<path class="st15" d="M28.7,57.2c0-0.2,0-0.5,0.1-0.7l0.8-2.9h-0.7l0.3-1.1h0.7l0.4-1.6h1.3l-0.4,1.6h1.6l-0.3,1.1h-1.6l-0.7,2.8
-			c0,0.1,0,0.2,0,0.3c0,0.3,0.2,0.5,0.6,0.5c0.3,0,0.6-0.1,0.8-0.2l-0.3,1.2c-0.3,0.1-0.7,0.2-1.1,0.2
-			C29.2,58.3,28.7,57.9,28.7,57.2z"/>
-		<path class="st15" d="M34.7,50.2H36l-0.8,3c0.5-0.5,1-0.9,1.8-0.9c1.1,0,1.8,0.7,1.8,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2h-1.3
-			l0.9-3.2c0.1-0.2,0.1-0.4,0.1-0.6c0-0.6-0.4-0.9-1-0.9c-0.7,0-1.4,0.6-1.6,1.5l-0.9,3.3h-1.3L34.7,50.2z"/>
-		<path class="st15" d="M44.9,50.5h1.4l-2.1,7.7h-1.4L44.9,50.5z"/>
-		<path class="st15" d="M47.7,52.4H49l-0.2,0.7c0.5-0.5,1-0.9,1.8-0.9c1.1,0,1.8,0.7,1.8,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2H50
-			l0.9-3.2c0.1-0.2,0.1-0.4,0.1-0.6c0-0.6-0.4-0.9-1-0.9c-0.7,0-1.4,0.6-1.6,1.5l-0.9,3.3h-1.3L47.7,52.4z"/>
-		<path class="st15" d="M54.5,53.6h-0.7l0.3-1.1h0.7l0.1-0.5c0.3-1.2,1.1-1.8,2.2-1.8c0.5,0,0.9,0.1,1.1,0.2l-0.3,1.1
-			c-0.3-0.1-0.5-0.2-0.8-0.2c-0.5,0-0.8,0.3-1,0.8l-0.1,0.3h1.6l-0.3,1.1h-1.6l-1.3,4.7h-1.3L54.5,53.6z"/>
-		<path class="st15" d="M57.6,55.7c0-1.8,1.5-3.4,3.4-3.4c1.7,0,2.7,1.1,2.7,2.7c0,1.8-1.5,3.4-3.4,3.4
-			C58.7,58.4,57.6,57.3,57.6,55.7z M62.4,55c0-1-0.6-1.5-1.5-1.5c-1.1,0-2,1.2-2,2.2c0,1,0.6,1.5,1.5,1.5
-			C61.5,57.2,62.4,56.1,62.4,55z"/>
-		<path class="st15" d="M65.8,52.4h1.3l-0.3,1.3c0.6-0.9,1.4-1.5,2.4-1.4l-0.4,1.4h-0.1c-1.2,0-2.2,0.7-2.6,2.4l-0.6,2.2h-1.3
-			L65.8,52.4z"/>
-		<path class="st15" d="M70.3,52.4h1.3l-0.2,0.7c0.5-0.5,1-0.9,1.7-0.9c0.9,0,1.4,0.5,1.6,1.2c0.5-0.7,1.2-1.2,2.2-1.2
-			c1,0,1.7,0.7,1.7,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2h-1.3l0.9-3.2c0-0.2,0.1-0.4,0.1-0.6c0-0.6-0.3-0.9-0.9-0.9
-			c-0.7,0-1.3,0.6-1.5,1.5l-0.9,3.3h-1.3l0.9-3.2c0-0.2,0.1-0.4,0.1-0.6c0-0.6-0.3-0.9-0.9-0.9c-0.7,0-1.3,0.6-1.6,1.5l-0.9,3.3
-			h-1.3L70.3,52.4z"/>
-		<path class="st15" d="M79.3,56.8c0-1.3,1.1-2.1,2.6-2.1c0.6,0,1.2,0.1,1.7,0.3l0-0.1c0-0.2,0.1-0.3,0.1-0.5c0-0.5-0.4-0.9-1.3-0.9
-			c-0.6,0-1.1,0.1-1.6,0.3l-0.2-1.1c0.6-0.2,1.3-0.4,2.1-0.4c1.5,0,2.3,0.7,2.3,1.8c0,0.3,0,0.5-0.1,0.8l-0.9,3.3h-1.3l0.2-0.8
-			c-0.5,0.5-1.1,0.9-1.9,0.9C80.1,58.4,79.3,57.7,79.3,56.8z M83.4,56l0.1-0.3c-0.4-0.1-0.8-0.2-1.3-0.2c-0.9,0-1.4,0.4-1.4,1
-			c0,0.5,0.4,0.8,0.9,0.8C82.4,57.4,83.2,56.7,83.4,56z"/>
-		<path class="st15" d="M86.2,57.2c0-0.2,0-0.5,0.1-0.7l0.8-2.9h-0.7l0.3-1.1h0.7l0.4-1.6h1.3l-0.4,1.6h1.6L90,53.6h-1.6l-0.7,2.8
-			c0,0.1,0,0.2,0,0.3c0,0.3,0.2,0.5,0.6,0.5c0.3,0,0.6-0.1,0.8-0.2l-0.3,1.2c-0.3,0.1-0.7,0.2-1.1,0.2
-			C86.7,58.3,86.2,57.9,86.2,57.2z"/>
-		<path class="st15" d="M91.7,52.4H93l-1.6,5.8h-1.3L91.7,52.4z M92.2,50.3h1.4l-0.4,1.3h-1.4L92.2,50.3z"/>
-		<path class="st15" d="M93.6,55.7c0-1.8,1.5-3.4,3.4-3.4c1.7,0,2.7,1.1,2.7,2.7c0,1.8-1.5,3.4-3.4,3.4
-			C94.7,58.4,93.6,57.3,93.6,55.7z M98.4,55c0-1-0.6-1.5-1.5-1.5c-1.1,0-2,1.2-2,2.2c0,1,0.6,1.5,1.5,1.5
-			C97.6,57.2,98.4,56.1,98.4,55z"/>
-		<path class="st15" d="M101.8,52.4h1.3l-0.2,0.7c0.5-0.5,1-0.9,1.8-0.9c1.1,0,1.8,0.7,1.8,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2h-1.3
-			L105,55c0.1-0.2,0.1-0.4,0.1-0.6c0-0.6-0.4-0.9-1-0.9c-0.7,0-1.4,0.6-1.6,1.5l-0.9,3.3h-1.3L101.8,52.4z"/>
-		<path class="st15" d="M112.6,50.5h5.7l-0.3,1.2h-4.3l-0.5,2h3.8l-0.3,1.2h-3.8l-0.6,2.1h4.4l-0.3,1.2h-5.7L112.6,50.5z"/>
-		<path class="st15" d="M120.1,55.2l-1.3-2.8h1.4l0.8,1.9l1.7-1.9h1.6l-2.8,2.9l1.4,2.9h-1.4l-0.9-2l-1.8,2h-1.6L120.1,55.2z"/>
-		<path class="st15" d="M124,55.8c0-1.9,1.6-3.5,3.4-3.5c1.2,0,2,0.6,2.4,1.3l-1,0.7c-0.3-0.5-0.7-0.9-1.4-0.9c-1,0-2,1.1-2,2.3
-			c0,0.9,0.6,1.5,1.4,1.5c0.6,0,1-0.2,1.5-0.6l0.7,0.9c-0.6,0.5-1.3,0.9-2.2,0.9C125.2,58.4,124,57.4,124,55.8z"/>
-		<path class="st15" d="M131.9,50.2h1.3l-0.8,3c0.5-0.5,1-0.9,1.8-0.9c1.1,0,1.8,0.7,1.8,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2h-1.3
-			l0.9-3.2c0.1-0.2,0.1-0.4,0.1-0.6c0-0.6-0.4-0.9-1-0.9c-0.7,0-1.4,0.6-1.6,1.5l-0.9,3.3h-1.3L131.9,50.2z"/>
-		<path class="st15" d="M136.6,56.8c0-1.3,1.1-2.1,2.6-2.1c0.6,0,1.2,0.1,1.7,0.3l0-0.1c0-0.2,0.1-0.3,0.1-0.5
-			c0-0.5-0.4-0.9-1.3-0.9c-0.6,0-1.1,0.1-1.6,0.3l-0.2-1.1c0.6-0.2,1.3-0.4,2.1-0.4c1.5,0,2.3,0.7,2.3,1.8c0,0.3,0,0.5-0.1,0.8
-			l-0.9,3.3h-1.3l0.2-0.8c-0.5,0.5-1.1,0.9-1.9,0.9C137.4,58.4,136.6,57.7,136.6,56.8z M140.7,56l0.1-0.3c-0.4-0.1-0.8-0.2-1.3-0.2
-			c-0.9,0-1.4,0.4-1.4,1c0,0.5,0.4,0.8,0.9,0.8C139.7,57.4,140.5,56.7,140.7,56z"/>
-		<path class="st15" d="M144.5,52.4h1.3l-0.2,0.7c0.5-0.5,1-0.9,1.8-0.9c1.1,0,1.8,0.7,1.8,1.7c0,0.3-0.1,0.7-0.2,1l-0.8,3.2h-1.3
-			l0.9-3.2c0.1-0.2,0.1-0.4,0.1-0.6c0-0.6-0.4-0.9-1-0.9c-0.7,0-1.4,0.6-1.6,1.5l-0.9,3.3H143L144.5,52.4z"/>
-		<path class="st15" d="M149.4,59.1l0.7-0.9c0.6,0.5,1.4,0.7,2.2,0.7c0.6,0,1.1-0.2,1.4-0.5c0.3-0.3,0.5-0.7,0.6-1.2l0.1-0.4
-			c-0.6,0.6-1.2,0.9-2,0.9c-1.1,0-2.2-0.7-2.2-2.1c0-1.9,1.6-3.4,3.2-3.4c1.1,0,1.6,0.6,1.9,1.2l0.3-1h1.3l-1.3,4.8
-			c-0.3,1.1-0.5,1.5-1,2c-0.5,0.5-1.3,0.8-2.3,0.8C151.3,60,150.2,59.7,149.4,59.1z M155,54.7c0-0.7-0.5-1.3-1.4-1.3c-1,0-2,0.9-2,2
-			c0,0.8,0.6,1.2,1.3,1.2C154,56.7,155,55.8,155,54.7z"/>
-		<path class="st15" d="M160.3,57.3c0.6,0,1-0.2,1.5-0.6l0.6,0.8c-0.5,0.5-1.3,0.8-2.3,0.8c-1.6,0-2.6-1-2.6-2.5
-			c0-1.7,1.4-3.5,3.4-3.5c1.5,0,2.3,1,2.3,2.3c0,0.4-0.1,0.8-0.3,1.3h-4.2C158.8,56.7,159.3,57.3,160.3,57.3z M161.9,54.9
-			c0-0.1,0.1-0.2,0.1-0.4c0-0.6-0.4-1.1-1.2-1.1c-0.9,0-1.6,0.6-1.9,1.5H161.9z"/>
-	</g>
-</g>
-<g id="Color_copy" class="st0">
-	<rect x="0" y="7.7" class="st1" width="191.3" height="40.6"/>
-	<text transform="matrix(1 0 0 1 0 46.3748)" class="st20 st3 st4">NC DIT</text>
-	<rect x="208.7" y="18.1" class="st1" width="79.5" height="6.1"/>
-	<text transform="matrix(1 0 0 1 208.7266 23.9551)" class="st20 st5 st6">NORTH CAROLINA</text>
-	<rect x="208.7" y="25.2" class="st1" width="79.5" height="7.6"/>
-	<text transform="matrix(1 0 0 1 208.7266 31.0331)" class="st20 st5 st6">DEPARTMENT OF</text>
-	<rect x="208.7" y="32.5" class="st1" width="77.8" height="8.2"/>
-	<text transform="matrix(1 0 0 1 208.7266 39.8486)" class="st20 st7 st8">INFORMATION</text>
-	<rect x="208.7" y="40.8" class="st1" width="77.8" height="9"/>
-	<text transform="matrix(1 0 0 1 208.7266 48.0561)" class="st20 st7 st8">TECHNOLOGY</text>
-	<g class="st2">
-		<line class="st21" x1="200.5" y1="15.5" x2="200.5" y2="53.1"/>
-		<circle class="st22" cx="200.5" cy="11.3" r="4.6"/>
-		<circle class="st22" cx="200.5" cy="56.7" r="4.6"/>
-	</g>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st23 st11 st12">Digital Solutions</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st23 st11 st12">911 Board</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st23 st11 st12">Innovation Center</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.6099)" class="st23 st11 st12">Broadband Infrastructure Office</text>
-	<rect x="2.5" y="51.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 2.5 57.0552)" class="st23 st11 st6">Center for Geographic Information and Analysis</text>
-	<rect x="3.5" y="49.2" class="st1" width="197" height="11.5"/>
-	<text transform="matrix(1 0 0 1 3.5 57.2456)" class="st24 st11 st13">Government Data Analytics Center</text>
-</g>
-</svg>
-      <span class="site-title-mobile">Home</span>
+  </head>
+  <body class="enterprise-core-dark path-frontpage page-node-type-landing-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
     </a>
+    <div id="page-wrapper">
+      <div id="page">
+        
+          <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <div id="header" class="header-container no-alerts">
+      <header class="group">
+
+        
+<style>
+	@media screen and (max-width: 1023px) {
+	  .topical-nav ul li.home a {
+	    background-image: url(https://files.nc.gov/nchiea/nchiea-logo_0.png?DPSciBSNH.eKj3xaAiSkipjQfjOqB9ja);
+	  }
+	  .mobile-nav div img,
+	  .mobile-nav div svg {
+	    display: none;
+	  }
+	}
+	@media screen and (min-width: 1024px) {
+	  .mobile-nav div {
+	    max-width: 300px;
+	    height: auto;
+	    max-height: 60px;
+	  }
+	  .mobile-nav div img {
+	    max-width: 100%;
+	    max-height: 100%;
+	  }
+	  .mobile-nav div svg {
+	    display: block;
+	    max-height: 100%;
+	    height: auto;
+	  }
+	  .mobile-nav div a,
+	  .mobile-nav h1 a {
+	    background-image: none;
+	    height: 60px;
+	    width: auto;
+	    text-align: left;
+	  }
+	  .mobile-nav .site-title-mobile {
+	    display: none;
+	  }
+	  .menu-container {
+	    padding-top: 100px;
+	  }
+	  .enterprise-nav {
+	    height: 100px;
+	  }
+	  .enterprise-nav ul li a {
+	    line-height: 90px;
+	  }
+	  .header-container .alert-widget {
+	    top: 20px;
+	  }
+	  .header-search {
+	    top: 30px;
+	  }
+	  .enterprise-nav ul li:last-child {
+	    margin-right: 70px;
+	  }
+	}
+	@media print {
+	  .enterprise-core-dark .mobile-nav div a {
+	    background: none !important;
+	  }
+	}
+</style>
+
+    	<div class="utility-wrapper wrapper">
+  <div class="header-search">
+    <div id="block-ncsearchblock" data-block-plugin-id="nc_search_block" class="block block-search container-inline search">
+                        <form class="nc-search-block-form" data-drupal-selector="nc-search-block-form" action="/search" method="get" id="nc-search-block-form" accept-charset="UTF-8">
+  <input title="Enter the terms you wish to search for." placeholder="Search..." data-drupal-selector="edit-keys" data-msg-maxlength="Search field has a maximum length of 128." type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+<input data-twig-suggestion="search_results_submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="" class="button js-form-submit form-submit" style="vertical-align:top" title="Search" value="Search">
+<span class="icon-search" aria-hidden="true"></span>
+
+</form>
+
+                  </div>
   </div>
-  <button formaction="search" class="search-trigger"><span>Search </span><span class="icon-search" aria-hidden="true"></span></button>
-</div>
+</div><section id="block-block-" >
+    
+  <div class="mobile-nav">
+    <button class="flyout-trigger open-trigger"><span class="icon-dehaze" aria-hidden="true"></span><span> Menu</span></button>
+
+    <div class="site-title">
+        <a href="/" rel="home" title="NC Health Information Exchange Authority">
+            <img src="https://files.nc.gov/nchiea/nchiea-logo_0.png?DPSciBSNH.eKj3xaAiSkipjQfjOqB9ja" alt="NC Health Information Exchange Authority logo" />
+            <span class="site-title-mobile">NC Health Information Exchange Authority</span>
+        </a>
+    </div>
+    <button formaction="search" class="search-trigger"><span>Search </span><span class="icon-search" aria-hidden="true"></span></button>
+  </div>
+
+</section>
+
+        
 <div class="menu-container mainMenu contents-less menu-full" id="mainMenu">
-  <div aria-label="First level" class="">
-    <button href="#" class="flyout-trigger close-trigger" aria-hidden="true"><span class="icon-close" aria-hidden="true"></span><span>Close Menu</span></button>
-    <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer">
-              <nav class='topical-nav' role='navigation' aria-label='Topical Navigation'><h2 class='visuallyhidden'>Topical Navigation</h2><ul class="wrapper"><li class="first leaf  home"><a href='/'>Home</a></li><li class="expanded has-dropdown has-mega "><a href='/patients'><span class='icon-chevron-right' aria-hidden='true'></span>For Patients</a><div aria-label="Second level"><a href='/patients' class='parent-title wrapper' aria-hidden='true'><span>For Patients</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/patients/news-about-your-medical-record-you-can-feel-good-about'>News About Your Medical Record You Can Feel Good About</a></li><li class="leaf"><a href='/patients/nc-healthconnex-participant-map'>NC HealthConnex Participant Map</a></li><li class="leaf"><a href='/patients/nc-healthconnex-participants'>NC HealthConnex Participants</a></li><li class="leaf"><a href='/patients/patient-faqs'>Patient FAQs</a></li><li class="leaf"><a href='/patients/what-you-need-know'>What You Need to Know</a></li><li class="last leaf"><a href='/patients/your-choices'>Your Choices</a></li></ul></div></li><li class="expanded has-dropdown has-mega "><a href='/providers'><span class='icon-chevron-right' aria-hidden='true'></span>For Providers</a><div aria-label="Second level"><a href='/providers' class='parent-title wrapper' aria-hidden='true'><span>For Providers</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first leaf"><a href='/providers/about-nc-healthconnex'>About NC HealthConnex</a></li><li class="leaf"><a href='/providers/electronic-health-record-information'>Electronic Health Record Information</a></li><li class="leaf"><a href='/electronic-health-record-vendor-connectivity-report'>Electronic Health Record Vendor Connectivity Report</a></li><li class="leaf"><a href='/providers/how-connect'>How to Connect</a></li><li class="leaf"><a href='/providers/nc-hiea-ahec-resources'>NC HIEA & AHEC Resources</a></li><li class="leaf"><a href='/providers/nc-hiea-data-disclosures'>NC HIEA Data Disclosures</a></li><li class="leaf"><a href='/providers/nc-hiea-policies'>NC HIEA Policies</a></li><li class="leaf"><a href='/patients/nc-healthconnex-participant-map'>NC HealthConnex Participant Map</a></li><li class="leaf"><a href='/patients/nc-healthconnex-participants'>NC HealthConnex Participants</a></li><li class="leaf"><a href='/documents/patient-education-order-form'>Patient Education Order Form</a></li><li class="leaf"><a href='/providers/privacy-and-security'>Privacy & Security</a></li><li class="leaf"><a href='https://portal.nchealthconnex.net/csp/healthshare/hsredirect/NCHIE.HS.UI.ChallengeResponse.cls?OriginalURL=https%3A%2F%2Fportal.nchealthconnex.net%2Fcsp%2Fhealthshare%2Fhsaccess%2FNCHIE.HS.UI.PatientSearch.cls%3FCacheLogout%3Dend'>Provider Clinical Portal</a></li><li class="last collapsed"><a href='/providers/training-resources'>Training & Resources</a></li></ul></div></li><li class="collapsed "><a href='/services'>Services</a></li><li class="collapsed "><a href='/frequently-asked-questions'>FAQs</a></li><li class="expanded has-dropdown has-mega "><a href='/about-us'><span class='icon-chevron-right' aria-hidden='true'></span>About Us</a><div aria-label="Second level"><a href='/about-us' class='parent-title wrapper' aria-hidden='true'><span>About Us</span></a><ul class="wrapper"><li class="flyout-trigger back-trigger" aria-hidden="true"><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li><li class="first collapsed"><a href='/contact'>Contact Us</a></li><li class="leaf"><a href='/about-us/about-nc-hiea'>About the NC HIEA</a></li><li class="leaf"><a href='/about-us/what-does-law-mandate'>What Does the Law Mandate?</a></li><li class="collapsed"><a href='/about-us/advisory-board'>Advisory Board</a></li><li class="leaf"><a href='/about-us/mission-vision-and-guiding-principles'>Mission, Vision & Guiding Principles</a></li><li class="leaf"><a href='/about-us/work-groups'>Work Groups</a></li><li class="leaf"><a href='/about-us/staff-partners'>Staff & Partners</a></li><li class="last leaf"><a href='/about-us/technical-application-support'>Technical & Application Support</a></li></ul></div></li><li class="leaf "><a href='https://hiea.nc.gov/news-and-events'>News & Events</a></li><li class="last leaf "><a href='/covid-19'>COVID-19</a></li></ul></nav>          </div>
-          <nav class='enterprise-nav' role='navigation' aria-label='Enterprise Navigation'><h2 class='visuallyhidden'>Enterprise Navigation</h2><ul class="wrapper"><li><a href='https://www.nc.gov/' title='NC.gov'><span class="icon-nc-brand" aria-hidden="true"></span><span>NC.gov</span></li><li><a href='https://www.nc.gov/agencies' title='Agencies'><span class='icon-account-balance' aria-hidden='true'></span><span>Agencies</span></a></li><li><a href='https://www.nc.gov/jobs' title='Jobs'><span class='icon-wallet-travel' aria-hidden='true'></span><span>Jobs</span></a></li><li><a href='https://www.nc.gov/services' title='Services'><span class='icon-phonelink' aria-hidden='true'></span><span>Services</span></a></li></ul></nav>      </div>
-</div>              </header>
-    </div> <!-- /.section, /#header -->
+    <div aria-label="First level" class="">
+      <button href="#" class="flyout-trigger close-trigger" aria-hidden="true">
+        <span class="icon-close" aria-hidden="true"></span>
+        <span>Close Menu</span>
+      </button>
+      <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer">
+      <nav class="topical-nav" role="navigation" aria-label="Topical Navigation">
+        <h2 class="visuallyhidden">Topical Navigation</h2>
+                      <ul block="nc_base_theme_main_menu" class="wrapper">
+                      <li class="home first leaf">
+          <a href="/">
+            Home
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li class="has-dropdown has-mega expanded">
+          <a href="/patients">
+            For Patients
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                                    <div aria-label="Second level">
+      <a href="/patients" class="parent-title wrapper" aria-hidden="true"><span>For Patients</span></a>
+      <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true" style=""><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li>
+                      <li>
+          <a href="/patients/news-about-your-medical-record-you-can-feel-good-about">
+            News About Your Medical Record You Can Feel Good About
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/nc-healthconnex-participant-map">
+            NC HealthConnex Participant Map
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/nc-healthconnex-participants">
+            NC HealthConnex Participants
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/patient-faqs">
+            Patient FAQs
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/what-you-need-know">
+            What You Need to Know
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/your-choices">
+            Your Choices
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+      
+                  </li>
+                        <li class="has-dropdown has-mega expanded">
+          <a href="/providers">
+            For Providers
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                                    <div aria-label="Second level">
+      <a href="/providers" class="parent-title wrapper" aria-hidden="true"><span>For Providers</span></a>
+      <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true" style=""><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li>
+                      <li>
+          <a href="/providers/about-nc-healthconnex">
+            About NC HealthConnex
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/electronic-health-record-information">
+            Electronic Health Record Information
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/electronic-health-record-vendor-connectivity-report">
+            Electronic Health Record Vendor Connectivity Report
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/how-connect">
+            How to Connect
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/nc-hiea-ahec-resources">
+            NC HIEA &amp; AHEC Resources
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/nc-hiea-data-disclosures">
+            NC HIEA Data Disclosures
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/nc-hiea-policies">
+            NC HIEA Policies
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/nc-healthconnex-participant-map">
+            NC HealthConnex Participant Map
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/patients/nc-healthconnex-participants">
+            NC HealthConnex Participants
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/patient-education-order-form">
+            Patient Education Order Form
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/privacy-security">
+            Privacy &amp; Security
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="https://portal.nchealthconnex.net/csp/healthshare/hsredirect/NCHIE.HS.UI.ChallengeResponse.cls?OriginalURL=https%3A//portal.nchealthconnex.net/csp/healthshare/hsaccess/NCHIE.HS.UI.PatientSearch.cls%3FCacheLogout%3Dend">
+            Provider Clinical Portal
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/providers/training-resources">
+            Training &amp; Resources
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+      
+                  </li>
+                        <li class="has-dropdown has-mega expanded">
+          <a href="/nc-healthconnex-suite-services">
+            Services
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                                    <div aria-label="Second level">
+      <a href="/nc-healthconnex-suite-services" class="parent-title wrapper" aria-hidden="true"><span>Services</span></a>
+      <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true" style=""><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li>
+                      <li>
+          <a href="/services/nc-healthconnex-exchange">
+            NC HealthConnex Exchange
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/ncnotify">
+            NC*Notify
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/controlled-substance-reporting-system">
+            Controlled Substance Reporting System
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/promoting-interoperability">
+            Promoting Interoperability
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/public-health-reporting">
+            Public Health Reporting
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/direct-secure-messaging">
+            Direct Secure Messaging
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/data-quality">
+            Data Quality
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/services/training">
+            Training
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+      
+                  </li>
+                        <li class="has-dropdown has-mega expanded">
+          <a href="/frequently-asked-questions">
+            FAQs
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                                    <div aria-label="Second level">
+      <a href="/frequently-asked-questions" class="parent-title wrapper" aria-hidden="true"><span>FAQs</span></a>
+      <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true" style=""><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li>
+                      <li>
+          <a href="/faqs/general-faqs-about-nc-healthconnex">
+            General Background
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/faqs-about-covid-19-legislation">
+            COVID-19 Legislation
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/health-care-provider-faqs">
+            Health Care Providers
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/faqs-about-house-bill-70-nc-healthconnex">
+            House Bill 70
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/faqs-about-nc-healthconnex-data-security">
+            NC HealthConnex Data &amp; Security
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/ncnotify-faqs">
+            NC*Notify
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/faqs/faqs-about-nc-healthconnex-participation">
+            Participation Agreement
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+      
+                  </li>
+                        <li class="has-dropdown has-mega expanded">
+          <a href="/about-us">
+            About Us
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                                    <div aria-label="Second level">
+      <a href="/about-us" class="parent-title wrapper" aria-hidden="true"><span>About Us</span></a>
+      <ul class="wrapper">
+        <li class="flyout-trigger back-trigger" aria-hidden="true" style=""><button href="#"><span class="icon-chevron-left" aria-hidden="true"></span> Back</button></li>
+                      <li>
+          <a href="/contact">
+            Contact Us
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/about-nc-hiea">
+            About the NC HIEA
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/what-does-law-mandate">
+            What Does the Law Mandate?
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/advisory-board">
+            Advisory Board
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/mission-vision-guiding-principles">
+            Mission, Vision &amp; Guiding Principles
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/work-groups">
+            Work Groups
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/staff-partners">
+            Staff &amp; Partners
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/about-us/technical-application-support">
+            Technical &amp; Application Support
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+      
+                  </li>
+                        <li>
+          <a href="/news-events">
+            News &amp; Events
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+                        <li>
+          <a href="/covid-19">
+            COVID-19
+             <span class="icon-chevron-right" aria-hidden="true"></span>
+          </a>
+                  </li>
+              </ul>
+        </div>
+      
+
+      </nav>
+
+  
+        
+		  <nav class="enterprise-nav" role="navigation" aria-label="Enterprise Navigation">
+				<ul class="wrapper">
+				  										  					  					    					      					      	        				        									      <li class="menu-item">
+					        <a href="https://www.nc.gov/" target="_blank">	          				<span class="icon-link" aria-hidden="true"></span><span>NC.gov</span>
+	        				</a>
+					      </li>
+					    					      					      	        				        									      <li class="menu-item">
+					        <a href="https://www.nc.gov/agencies" target="_blank">	          				<span class="icon-link" aria-hidden="true"></span><span>Agencies</span>
+	        				</a>
+					      </li>
+					    					      					      	        				        									      <li class="menu-item">
+					        <a href="https://www.nc.gov/jobs">	          				<span class="icon-link" aria-hidden="true"></span><span>Jobs</span>
+	        				</a>
+					      </li>
+					    					      					      	        				        									      <li class="menu-item">
+					        <a href="https://www.nc.gov/services">	          				<span class="icon-link" aria-hidden="true"></span><span>Services</span>
+	        				</a>
+					      </li>
+					    					  					
+
+									 </ul>
+			 </nav>
+    </div>
+  </div>
+  
+
+
+        
+      </header>
+    </div>
 
     
     <div id="content-container" class="clearfix content-container">
               <div id="alert-box">
           <div class="section clearfix">
-                      </div>
-        </div> <!-- /.section, /#alert-box -->
-                        <main id="main" class=" no-breadcrumbs">
-
-        
-          
-          <article id="primary-content content" >
-            <div class="section">
-                            <a id="main-content"></a>
-
-                              <div class="wrapper">                                  <h1  class="element-invisible page-title" id="page-title">
-                    Home Page                  </h1>
-                                              
-                              <div class="tabs">
-                                  </div>
-                                                                                  </div>
-
-            <!--landing page -->
-                            <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
+              <div>
+    <section id="block-block-block-ncalertsblock"  id="block-ncalertsblock" data-block-plugin-id="nc_alert_block" class="block block-block group">
+      <div>
     
-  <div class="content">
-    <div id="node-7" class="node node-landing-page node-full clearfix">
-
-      
-          
-  
-  <div class="content clearfix">
-    
-<div class="paragraphs-items paragraphs-items-field-bands paragraphs-items-field-bands-full paragraphs-items-full">
-      <div class="field field-name-field-bands field-type-paragraphs field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <section class="entity entity-paragraphs-item paragraphs-item-full-width band pad-small no-gutter clearfix"
-   about="" typeof="">
-
-  
-  <section class="content band-content wrapper "
-    >
-        <div class="field field-name-field-full-width-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-home-page-carousel" class="block block-bean">
-
-    
-  <div class="content">
-    <div class="owl-carousel ncgov-theme " data-nc-carousel='{"autoPlay":"10000","stopOnHover":true}'><div class="item"><div class="item__wrapper"><picture  title="Male doctor viewing patient information virtually">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://files.nc.gov/hiea/styles/carousel___hero/public/HIE-provider-6.jpg?itok=_QP2f-qk&amp;timestamp=1479758177 1x" media="only screen and (min-width: 1280px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/HIE-provider-6.jpg?itok=eblkgpOJ&amp;timestamp=1479758177 1x" media="(min-width: 1024px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/HIE-provider-6.jpg?itok=wQdnGgTY&amp;timestamp=1479758177 1x" media="(min-width: 768px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/HIE-provider-6.jpg?itok=X-DeVt8v&amp;timestamp=1479758177 1x" media="(min-width: 480px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-provider-6.jpg?itok=voIdq3DY&amp;timestamp=1479758177 1x" media="(min-width: 0px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-provider-6.jpg?itok=voIdq3DY&amp;timestamp=1479758177" alt="Male doctor viewing patient information virtually" title="Male doctor viewing patient information virtually" />
-</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">Get Connected</h3><div class="item__text"><p>Hospitals, physician practices and other health entities are making the NC HealthConnex connection.</p><a href="https://hiea.nc.gov/providers/how-connect" class="button ghost inverted">Don’t Delay. Connect Today!</a></div><span class="item__count"><span class="item__count--current">1</span> of <span class="item__count--total">5</span></div></div></div></div><div class="item"><div class="item__wrapper"><picture  title="Stethoscope resting on printed medical records">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://files.nc.gov/hiea/styles/carousel___hero/public/HIE-banner-5.jpg?itok=y_bWyxLf&amp;timestamp=1475010401 1x" media="only screen and (min-width: 1280px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/HIE-banner-5.jpg?itok=rW659PdG&amp;timestamp=1475010401 1x" media="(min-width: 1024px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/HIE-banner-5.jpg?itok=cW-SOLkv&amp;timestamp=1475010401 1x" media="(min-width: 768px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/HIE-banner-5.jpg?itok=DaVbkYWF&amp;timestamp=1475010401 1x" media="(min-width: 480px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-banner-5.jpg?itok=46v9mPGr&amp;timestamp=1475010401 1x" media="(min-width: 0px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-banner-5.jpg?itok=46v9mPGr&amp;timestamp=1475010401" alt="Stethoscope resting on printed medical records" title="Stethoscope resting on printed medical records" />
-</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">NC Health Information Exchange Authority</h3><div class="item__text"><p>The NC HIEA oversees North Carolina’s state-operated health information exchange. We are accepting new participation agreements for NC HealthConnex.</p><a href="https://hiea.nc.gov/documents/nc-hiea-full-participation-agreement" class="button ghost inverted">Access the Participation Agreement</a></div><span class="item__count"><span class="item__count--current">2</span> of <span class="item__count--total">5</span></div></div></div></div><div class="item"><div class="item__wrapper"><picture  title="Hospital staff">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://files.nc.gov/hiea/styles/carousel___hero/public/HIE-hospital-staff-4.jpg?itok=XjS3-5Oh&amp;timestamp=1473790668 1x" media="only screen and (min-width: 1280px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/HIE-hospital-staff-4.jpg?itok=PAGCFZWs&amp;timestamp=1473790668 1x" media="(min-width: 1024px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/HIE-hospital-staff-4.jpg?itok=KbTKOvoC&amp;timestamp=1473790668 1x" media="(min-width: 768px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/HIE-hospital-staff-4.jpg?itok=fbzzkwSe&amp;timestamp=1473790668 1x" media="(min-width: 480px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-hospital-staff-4.jpg?itok=p7sMmvwZ&amp;timestamp=1473790668 1x" media="(min-width: 0px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/HIE-hospital-staff-4.jpg?itok=p7sMmvwZ&amp;timestamp=1473790668" alt="Hospital staff with three doctors and two nurses" title="Hospital staff" />
-</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">Have Questions?</h3><div class="item__text"><p></p><a href="https://hiea.nc.gov/frequently-asked-questions" class="button ghost inverted">We Have Answers</a></div><span class="item__count"><span class="item__count--current">3</span> of <span class="item__count--total">5</span></div></div></div></div><div class="item"><div class="item__wrapper"><picture  title="Female physician consults with an older female patient">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://files.nc.gov/hiea/styles/carousel___hero/public/hie-patient-banner-8.jpg?itok=rho_Nh-6&amp;timestamp=1481839496 1x" media="only screen and (min-width: 1280px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/hie-patient-banner-8.jpg?itok=Pph2T2jR&amp;timestamp=1481839496 1x" media="(min-width: 1024px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/hie-patient-banner-8.jpg?itok=3Tj0_zRS&amp;timestamp=1481839496 1x" media="(min-width: 768px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/hie-patient-banner-8.jpg?itok=2fnCzoH9&amp;timestamp=1481839496 1x" media="(min-width: 480px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hie-patient-banner-8.jpg?itok=UK5ltKLG&amp;timestamp=1481839496 1x" media="(min-width: 0px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hie-patient-banner-8.jpg?itok=UK5ltKLG&amp;timestamp=1481839496" alt="Female physician consulting with an older female patient" title="Female physician consults with an older female patient" />
-</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">NC HealthConnex Helps Patients</h3><div class="item__text"><p></p><a href="https://hiea.nc.gov/patients" class="button ghost inverted">What You Need to Know</a></div><span class="item__count"><span class="item__count--current">4</span> of <span class="item__count--total">5</span></div></div></div></div><div class="item"><div class="item__wrapper"><picture  title="Businessperson and medical professional shaking hands">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source srcset="https://files.nc.gov/hiea/styles/carousel___hero/public/hie-banner-7.jpg?itok=C4ih8dSw&amp;timestamp=1500469736 1x" media="only screen and (min-width: 1280px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_desktop_1x/public/hie-banner-7.jpg?itok=JlB8THWg&amp;timestamp=1500469736 1x" media="(min-width: 1024px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_tablet_1x/public/hie-banner-7.jpg?itok=qg-PEs3q&amp;timestamp=1500469736 1x" media="(min-width: 768px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phablet_1x/public/hie-banner-7.jpg?itok=8gMLm6-Y&amp;timestamp=1500469736 1x" media="(min-width: 480px)" />
-<source srcset="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hie-banner-7.jpg?itok=t6EpG9ti&amp;timestamp=1500469736 1x" media="(min-width: 0px)" />
-<!--[if IE 9]></video><![endif]-->
-<img  src="https://files.nc.gov/hiea/styles/resp_hero-breakpoints_theme_nc_base_theme_phone_1x/public/hie-banner-7.jpg?itok=t6EpG9ti&amp;timestamp=1500469736" alt="Businessperson and medical professional shaking hands" title="Businessperson and medical professional shaking hands" />
-</picture><div class="item__content"><div class="item__content-wrapper"><em class="item__category"></em><h3 class="item__heading">Participants</h3><div class="item__text"><p></p><a href="https://hiea.nc.gov/map-nc-healthconnex-participants" class="button ghost inverted">Find Participating Medical Facilities in Your Area</a></div><span class="item__count"><span class="item__count--current">5</span> of <span class="item__count--total">5</span></div></div></div></div></div>  </div>
-</div>            </div>
-              </div>
   </div>
   </section>
 
-</section>
-            </div>
-                        <div class="field-item" >
-              <section class="entity entity-paragraphs-item paragraphs-item-two-column band pad-none no-gutter clearfix"
-   about="" typeof="">
+  </div>
 
-    <header class="band-header wrapper">
+          </div>
+        </div>
+            
+      
+      <div class="wrapper">
+          <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+
+      <main id="main" >
+
+        
+                
+          
+          <article id="primary-content"  >
+            <div class="section">
+
+              
+              <a id="main-content"></a>
+
+              
+              
+                          </div>
+
+            
+              <div>
+    <section id="block-block-block-nc-base-theme-nc-site-child-theme-system-main"  id="block-nc-base-theme-nc-site-child-theme-system-main" data-block-plugin-id="system_main_block" class="block block-block group">
+      <div>
+    <article role="article" about="/home-page" class="node node--type-landing-page node--view-mode-full">
+  <div class="section">
+    
+                <div class="wrapper visuallyhidden">
+        <h1 class="page-title">
+          <span>Home Page</span>
+
+        </h1>
+      </div>
+        
+
+    
+  <div class="node__content node-landing-page clearfix">
+    
+  <div>
+          <div>  <div class="paragraph paragraph--type--full-width paragraph--view-mode--full">
+    <section class="full-width-paragraph  pad-small  band no-gutter clearfix" about="" typeof=""
+>
+    <section class="content band-content layout-container wrapper">
+    
+      <div>
+  <div class="paragraph paragraph--type--carousel paragraph--view-mode--default">
+        <div class="owl-carousel owl-theme ncgov-theme container-widescreen" data-nc-carousel="{&quot;autoPlay&quot;:&quot;10000&quot;,&quot;stopOnHover&quot;:true}">
+      <div class="item">
+  <div class="item__wrapper">
+      <picture>
+                  <source srcset="https://files.nc.gov/nchiea/styles/carousel/public/HIE-provider-6.jpg?E0GdpqFyiaBM8OJ2P66KBk9ztFVnqbVw&amp;itok=82NLp8hZ 1x" media="screen and (min-width: 1280px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_1024x410/public/HIE-provider-6.jpg?6ksVtaW8kyhW49Txjlnf8ZPo5LRMSoGW&amp;itok=qgSFvPq4 1x" media="(min-width: 1024px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_768x307/public/HIE-provider-6.jpg?S_.BXoG3CtMFZ2VWe6g6d49DaNpcT_Bc&amp;itok=gRY8RBau 1x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_480x192/public/HIE-provider-6.jpg?TScb.sO3VRDAwDzCr6QXS4paTIVw0NJq&amp;itok=l0WdLA8Q 1x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_320x128/public?file=HIE-provider-6.jpg&amp;itok=cd7sKxfL 1x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="https://files.nc.gov/nchiea/styles/carousel/public/HIE-provider-6.jpg?E0GdpqFyiaBM8OJ2P66KBk9ztFVnqbVw&amp;itok=82NLp8hZ" alt="Male doctor viewing patient information virtually" typeof="foaf:Image" />
+
+  </picture>
+
+          <div class="item__content">
+        <div class="item__content-wrapper">
+                                <h3 class="item__heading">Get Connected</h3>
+                    <div class="item__text">
+                          <p>Hospitals, physician practices and other health entities are making the NC HealthConnex connection.</p>
+                                      <a href="/providers/how-connect" class="button ghost inverted">Don’t Delay. Connect Today!</a>
+                      </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+    <div class="item">
+  <div class="item__wrapper">
+      <picture>
+                  <source srcset="https://files.nc.gov/nchiea/styles/carousel/public/HIE-banner-5.jpg?BfQnR9iOZhXu6PeFw4hNRRESN.nO2Vbv&amp;itok=BloAzyd_ 1x" media="screen and (min-width: 1280px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_1024x410/public/HIE-banner-5.jpg?6v52X5Kq2TXIw7HB7S3dr0lgINNycY.B&amp;itok=Fwigzi37 1x" media="(min-width: 1024px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_768x307/public/HIE-banner-5.jpg?a5ozzp1bSoLhPReq0uxnIGvUnCf2HAfZ&amp;itok=nzV7Iioy 1x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_480x192/public?file=HIE-banner-5.jpg&amp;itok=YFXj5Ctk 1x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_320x128/public?file=HIE-banner-5.jpg&amp;itok=EPYPV4nM 1x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="https://files.nc.gov/nchiea/styles/carousel/public/HIE-banner-5.jpg?BfQnR9iOZhXu6PeFw4hNRRESN.nO2Vbv&amp;itok=BloAzyd_" alt="Stethoscope resting on printed medical records" typeof="foaf:Image" />
+
+  </picture>
+
+          <div class="item__content">
+        <div class="item__content-wrapper">
+                                <h3 class="item__heading">NC Health Information Exchange Authority</h3>
+                    <div class="item__text">
+                          <p>The NC HIEA oversees North Carolina’s state-operated health information exchange. We are accepting new participation agreements for NC HealthConnex.</p>
+                                      <a href="/nc-hiea-full-participation-agreement/download" class="button ghost inverted">Access the Participation Agreement</a>
+                      </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+    <div class="item">
+  <div class="item__wrapper">
+      <picture>
+                  <source srcset="https://files.nc.gov/nchiea/styles/carousel/public/HIE-hospital-staff-4.jpg?J2XSW7B.cjph3UKg33F8Mh4PhB4Walyh&amp;itok=O3A9z2C9 1x" media="screen and (min-width: 1280px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_1024x410/public/HIE-hospital-staff-4.jpg?nm1LEeMFdRfei4hZEzKlkC2yRZFaZejA&amp;itok=WfEglNnI 1x" media="(min-width: 1024px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_768x307/public/HIE-hospital-staff-4.jpg?VOL5607uo6LpyGbrcCuPRnvqXT8B4Ana&amp;itok=aYlRJGXy 1x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_480x192/public/HIE-hospital-staff-4.jpg?yc9rVxaS5plB.vr72sYIX2ewoFo6L4Be&amp;itok=SWCmRO4W 1x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_320x128/public?file=HIE-hospital-staff-4.jpg&amp;itok=9okUvg-6 1x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="https://files.nc.gov/nchiea/styles/carousel/public/HIE-hospital-staff-4.jpg?J2XSW7B.cjph3UKg33F8Mh4PhB4Walyh&amp;itok=O3A9z2C9" alt="Hospital staff with three doctors and two nurses" typeof="foaf:Image" />
+
+  </picture>
+
+          <div class="item__content">
+        <div class="item__content-wrapper">
+                                <h3 class="item__heading">Have Questions?</h3>
+                    <div class="item__text">
+                                      <a href="/frequently-asked-questions" class="button ghost inverted">We Have Answers</a>
+                      </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+    <div class="item">
+  <div class="item__wrapper">
+      <picture>
+                  <source srcset="https://files.nc.gov/nchiea/styles/carousel/public/hie-patient-banner-8.jpg?ukHMjfxPUVmcOtV0ULu.TrHGyEPqpztT&amp;itok=geEQ9wyb 1x" media="screen and (min-width: 1280px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_1024x410/public/hie-patient-banner-8.jpg?1NA9LDvQbzonNwtSk9vWFemB8WxMU8_q&amp;itok=7nbTxX6l 1x" media="(min-width: 1024px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_768x307/public/hie-patient-banner-8.jpg?USqYd4XyOkLBPXW5wwI7gqiAUQxCwELg&amp;itok=8YP-XQGD 1x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_480x192/public?file=hie-patient-banner-8.jpg&amp;itok=8petEVOT 1x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_320x128/public?file=hie-patient-banner-8.jpg&amp;itok=dXZSkils 1x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="https://files.nc.gov/nchiea/styles/carousel/public/hie-patient-banner-8.jpg?ukHMjfxPUVmcOtV0ULu.TrHGyEPqpztT&amp;itok=geEQ9wyb" alt="Female physician consulting with an older female patient" typeof="foaf:Image" />
+
+  </picture>
+
+          <div class="item__content">
+        <div class="item__content-wrapper">
+                                <h3 class="item__heading">NC HealthConnex Helps Patients</h3>
+                    <div class="item__text">
+                                      <a href="/patients" class="button ghost inverted">What You Need to Know</a>
+                      </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+    <div class="item">
+  <div class="item__wrapper">
+      <picture>
+                  <source srcset="https://files.nc.gov/nchiea/styles/carousel/public/hie-banner-7.jpg?9UikWmP2zmSMq32Q_1.xSVTf773_yZ4N&amp;itok=Bgjk-p6Z 1x" media="screen and (min-width: 1280px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_1024x410/public/hie-banner-7.jpg?55gtb_Y.gTzXAhA8kD7bUj0.eyYwP6vk&amp;itok=A-Pq4VoY 1x" media="(min-width: 1024px)" type="image/jpeg"/>
+              <source srcset="https://files.nc.gov/nchiea/styles/carousel_768x307/public/hie-banner-7.jpg?u5z.GOQUsDPoZt3HICITEY798DYlBnyd&amp;itok=d9pXmiSz 1x" media="(min-width: 768px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_480x192/public?file=hie-banner-7.jpg&amp;itok=c8z7zRgz 1x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/s3/files/styles/carousel_320x128/public?file=hie-banner-7.jpg&amp;itok=_MyJFcBn 1x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="https://files.nc.gov/nchiea/styles/carousel/public/hie-banner-7.jpg?9UikWmP2zmSMq32Q_1.xSVTf773_yZ4N&amp;itok=Bgjk-p6Z" alt="Businessperson and medical professional shaking hands" typeof="foaf:Image" />
+
+  </picture>
+
+          <div class="item__content">
+        <div class="item__content-wrapper">
+                                <h3 class="item__heading">Participants</h3>
+                    <div class="item__text">
+                                      <a href="/patients/nc-healthconnex-participant-map" class="button ghost inverted">Find Participating Medical Facilities in Your Area</a>
+                      </div>
+        </div>
+      </div>
+      </div>
+</div>
+
+
+</div>  </div>
+</div>
+  
+    
+  </section>
+</section>
+
+  </div>
+
+</div>
+          <div>  <div class="paragraph paragraph--type--two-column paragraph--view-mode--full">
+    <section class="paragraphs-item-two-column  pad-none band no-gutter clearfix" about="" typeof=""
+>
+    <header class="band-header wrapper layout-container">
     <h2 class="section-title">Modernizing Health Information Exchange</h2>
   </header>
-  
-  <section class="content band-content wrapper parts-span-two-third"
-    >
-    <div class="group-left field-group-div">    <div class="field field-name-field-left-markup field-type-text-long field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <p>North Carolina’s new, modernized health information exchange, NC HealthConnex, delivers added value to conversations happening at all levels in the health care industry. It breaks down information silos between providers, achieves greater outcomes for patients and creates efficiencies in state-funded programs such as Medicaid.</p>
-            </div>
-              </div>
-  </div>
-</div><div class="group-right field-group-div">    <div class="field field-name-field-right-markup field-type-text-long field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <p><img alt="The North Carolina Health Information Exchange Authority has joined the Strategic Health Information Exchange Collaborative." src="https://files.nc.gov/hiea/shiec-logo-full-350.jpg" style="float: left;" /></p>
-            </div>
-              </div>
-  </div>
-</div>  </section>
-
-</section>
-            </div>
-                        <div class="field-item" >
-              <section class="entity entity-paragraphs-item paragraphs-item-three-column band pad-small no-gutter clearfix"
-   about="" typeof="">
-
-  
-  <section class="content band-content wrapper parts-span-third"
-    >
-    <div class="group-left field-group-div">    <div class="field field-name-field-left-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-see-whos-connected" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-accent-light-blue" itemscope itemtype="http://schema.org/Thing">
-      <a href="/map-nc-healthconnex-participants" itemprop="url">
-        <div class="meta">
-          <span class="icon-check2" aria-hidden="true"></span>
-          <h3 itemprop="name">See Who's Connected</h3>
-          <span itemprop="description">Find an interactive map and list of NC HealthConnex participants.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div><div class="group-middle field-group-div">    <div class="field field-name-field-middle-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-how-to-connect" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-accent-orange" itemscope itemtype="http://schema.org/Thing">
-      <a href="https://hiea.nc.gov/node/49" itemprop="url">
-        <div class="meta">
-          <span class="icon-cached" aria-hidden="true"></span>
-          <h3 itemprop="name">How to Connect</h3>
-          <span itemprop="description">Link with other providers and help improve outcomes.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div><div class="group-right field-group-div">    <div class="field field-name-field-right-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-faqs" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-core-blue" itemscope itemtype="http://schema.org/Thing">
-      <a href="/frequently-asked-questions" itemprop="url">
-        <div class="meta">
-          <span class="icon-speaker-notes" aria-hidden="true"></span>
-          <h3 itemprop="name">FAQs</h3>
-          <span itemprop="description">Find answers to your questions here.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div>  </section>
-
-</section>
-            </div>
-                        <div class="field-item" >
-              <section class="entity entity-paragraphs-item paragraphs-item-three-column band pad-small no-gutter clearfix"
-   about="" typeof="">
-
-  
-  <section class="content band-content wrapper parts-span-third"
-    >
-    <div class="group-left field-group-div">    <div class="field field-name-field-left-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-news-cta-card" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-accent-green" itemscope itemtype="http://schema.org/Thing">
-      <a href="/news-events" itemprop="url">
-        <div class="meta">
-          <span class="icon-nc-newspaper" aria-hidden="true"></span>
-          <h3 itemprop="name">News & Updates</h3>
-          <span itemprop="description">Read the latest about NC HealthConnex.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div><div class="group-middle field-group-div">    <div class="field field-name-field-middle-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-leadership-cta-card" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-accent-purple" itemscope itemtype="http://schema.org/Thing">
-      <a href="/about-us/advisory-board" itemprop="url">
-        <div class="meta">
-          <span class="icon-nc-compass" aria-hidden="true"></span>
-          <h3 itemprop="name">Advisory Board</h3>
-          <span itemprop="description">Learn about the health care experts advising the NC HIEA.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div><div class="group-right field-group-div">    <div class="field field-name-field-right-block field-type-blockreference field-label-hidden " >
-        <div class="field-items" >
-                    <div class="field-item" >
-              <div id="block-bean-mission-cta-card" class="block block-bean">
-
-    
-  <div class="content">
-    
-<div>
-  <div class="cards">
-    <div class="card cta theme-accent-light-blue" itemscope itemtype="http://schema.org/Thing">
-      <a href="/about-us/mission-vision-and-guiding-principles" itemprop="url">
-        <div class="meta">
-          <span class="icon-explore" aria-hidden="true"></span>
-          <h3 itemprop="name">Guiding Principles</h3>
-          <span itemprop="description">Discover what we're about.</span>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-  </div>
-</div>            </div>
-              </div>
-  </div>
-</div>  </section>
-
-</section>
-            </div>
-              </div>
-  </div>
-</div>
-  </div>
-  
-  
-</div>
-  </div>
-</div>
-  </div>
+    <section class="content band-content wrapper parts-span-two-third">
+    <div class="group-left field-group-div">
             
-          </article> <!-- /.section, /#content -->
+      
+            <div><p>North Carolina’s new, modernized health information exchange, NC HealthConnex, delivers added value to conversations happening at all levels in the health care industry. It breaks down information silos between providers, achieves greater outcomes for patients and creates efficiencies in state-funded programs such as Medicaid.</p>
+</div>
+      
+    </div>
+    <div class="group-right field-group-div">
+            
+      
+            <div><p><img alt="The North Carolina Health Information Exchange Authority has joined the Strategic Health Information Exchange Collaborative." src="https://files.nc.gov/hiea/shiec-logo-full-350.jpg" style="float: left;" /></p>
+</div>
+      
+    </div>
+  </section>
+</section>
+  </div>
+
+</div>
+          <div>  <div class="paragraph paragraph--type--three-column paragraph--view-mode--full">
+    <section class="paragraphs-item-three-column  pad-small band no-gutter clearfix" about="" typeof=""
+>
+    <section class="content band-content wrapper parts-span-third">
+    <div class="group-left field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-accent-light-blue" itemscope itemtype="http://schema.org/Thing">
+            <a href="/map-nc-healthconnex-participants" itemprop="url">
+                <div class="meta">
+                    <span class="icon-check2" aria-hidden="true"></span>
+                    <h3 itemprop="name">See Who&#039;s Connected</h3>
+                    <span itemprop="description">Find an interactive map and list of NC HealthConnex participants.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+    <div class="group-middle field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-accent-orange" itemscope itemtype="http://schema.org/Thing">
+            <a href="/providers/how-connect" itemprop="url">
+                <div class="meta">
+                    <span class="icon-loop" aria-hidden="true"></span>
+                    <h3 itemprop="name">How to Connect</h3>
+                    <span itemprop="description">Link with other providers and help improve outcomes.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+    <div class="group-right field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-core-blue" itemscope itemtype="http://schema.org/Thing">
+            <a href="/frequently-asked-questions" itemprop="url">
+                <div class="meta">
+                    <span class="icon-speaker-notes" aria-hidden="true"></span>
+                    <h3 itemprop="name">FAQs</h3>
+                    <span itemprop="description">Find answers to your questions here.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+  </section>
+</section>
+  </div>
+
+</div>
+          <div>  <div class="paragraph paragraph--type--three-column paragraph--view-mode--full">
+    <section class="paragraphs-item-three-column  pad-none band no-gutter clearfix" about="" typeof=""
+>
+    <section class="content band-content wrapper parts-span-third">
+    <div class="group-left field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-accent-green" itemscope itemtype="http://schema.org/Thing">
+            <a href="/news-events" itemprop="url">
+                <div class="meta">
+                    <span class="icon-nc-newspaper" aria-hidden="true"></span>
+                    <h3 itemprop="name">News &amp; Updates</h3>
+                    <span itemprop="description">Read the latest about NC HealthConnex.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+    <div class="group-middle field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-accent-purple" itemscope itemtype="http://schema.org/Thing">
+            <a href="/about-us/advisory-board" itemprop="url">
+                <div class="meta">
+                    <span class="icon-nc-compass" aria-hidden="true"></span>
+                    <h3 itemprop="name">Advisory Board</h3>
+                    <span itemprop="description">Learn about the health care experts advising the NC HIEA.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+    <div class="group-right field-group-div">
+            
+      <div>    <div class="paragraph paragraph--type--cta-card paragraph--view-mode--default">
+                <div>
+    <div class="cards">
+        <div class="card cta theme-accent-light-blue" itemscope itemtype="http://schema.org/Thing">
+            <a href="/about-us/mission-vision-guiding-principles" itemprop="url">
+                <div class="meta">
+                    <span class="icon-explore" aria-hidden="true"></span>
+                    <h3 itemprop="name">Guiding Principles</h3>
+                    <span itemprop="description">Discover what we&#039;re about.</span>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+  
+      
+    </div>
+  </section>
+</section>
+  </div>
+
+</div>
+      </div>
+
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+  </section>
+
+  </div>
+
+
+          </article>
 
           
       </main>
 
-    </div> <!-- /#main, /#main-wrapper -->
+    </div>
 
           <section id="social-share" class="band social-share">
         <div class="band-content wrapper">
-              <div id="block-nc-social-nc-social-share" class="block block-nc-social">
-
-    
-  <div class="content">
+              <div>
+    <div id="block-block-block-socialsharelinksblock"  id="block-socialsharelinksblock" data-block-plugin-id="ncblocks_social_share_block" class="block block-nc-social">
+    <div class="content">
     <div class="social-links">
   <p><strong>Share this page:</strong></p>
   <ul>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhiea.nc.gov%2Fhome-page" target="_blank">
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fhiea.nc.gov%2Fhome-page" target="_blank">
         <span class="icon-facebook" aria-hidden="true"></span> <span>Facebook</span>
       </a>
     </li>
     <li>
-      <a href="http://twitter.com/intent/tweet?url=https%3A%2F%2Fhiea.nc.gov%2Fhome-page" target="_blank">
+      <a href="http://twitter.com/intent/tweet?url=http%3A%2F%2Fhiea.nc.gov%2Fhome-page" target="_blank">
         <span class="icon-twitter" aria-hidden="true"></span> <span>Twitter</span>
       </a>
     </li>
   </ul>
 </div>
+
   </div>
-</div>
+  </div>
+
+  </div>
+
         </div>
       </section>
     
     <section id="user-feedback" class="band user-feedback">
       <div class="content wrapper">
-                          <div>
-            <a id="back-to-top" class="back-to-top" href="#content-container" title="Back to top"><span class="icon-vertical-align-top" aria-hidden="true"></span><span class="visuallyhidden">Back to top</span></a>          </div>
-              </div>
-    </section> <!-- /band user-feedback-->
+                    <div>
+    <section id="block-block-block-userfeedbackfixed"  id="block-userfeedbackfixed" data-block-plugin-id="fixed_block_content:user_feedback_fixed" class="block block-block group">
+      <div>
+    
+            <div><p><a class="webform-dialog webform-dialog-mobile" href="/webform/user_feedback?source_entity_type=ENTITY_TYPE&amp;source_entity_id=ENTITY_ID">How can we make this page better for you?</a></p>
+</div>
+      
+  </div>
+  </section>
+
+  </div>
+
+        
+                  <div>
+            <a id="back-to-top" class="back-to-top" href="#content-container" title="Back to top"><span class="icon-vertical-align-top" aria-hidden="true"></span><span class="visuallyhidden">Back to top</span></a>
+          </div>
+        
+      </div>
+    </section>
 
     
+
     <div id="footer-wrapper" class="footer-container">
       <footer class="group">
 
 
-                                  <section class="band theme-core-blue topical">
-              <div id="footer-columns" class="wrapper">
-                <section class="">
-                    <section id="block-boxes-footer-box-2" class="block block-boxes block-boxes-simple inverted group">
-
-        <h3 class="section-title border">Contact</h3>
+        <section class="band topical theme-core-blue" >
+          <div id="footer-columns" class="wrapper">
+            <section class="parts-span">
+                <div>
+    <section id="block-block-block-contact"  id="block-contact" data-block-plugin-id="block_content:d374a599-4a7d-4cc6-934d-a60084451de6" class="block block-block group">
+      <h3 class="section-title border">Contact</h3>
+      <div>
     
-  <div >
-    <div id='boxes-box-footer_box_2' class='boxes-box'><div class="boxes-box-content"><p>N.C.  Health Information Exchange Authority<br />
-	Mail Service Center 4101<br />
-	Raleigh, NC 27699-4101<br />
-	(919) 754-6912<br /><a href="mailto:hiea@nc.gov">hiea@nc.gov</a></p>
-</div></div>  </div>
-</section>
-                                                                      </section>
-              </div> <!-- /#footer-columns -->
+            <div><p><strong>N.C.  Health Information Exchange Authority</strong><br />
+Mail Service Center 4101<br />
+Raleigh, NC 27699-4101<br />
+(919) 754-6912<br /><a href="mailto:hiea@nc.gov">hiea@nc.gov</a></p>
+</div>
+      
+  </div>
+  </section>
+
+  </div>
+
+              
+              
+              
             </section>
-          
-                      <section class="band pad-small enterprise">
-                <div class="wrapper"><section><nav><ul class="group"><li><a href='https://www.nc.gov/' title='NC.gov Home'><span>NC.gov Home</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/accessibility' title='Accessibility'><span>Accessibility</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/terms' title='Terms of Use'><span>Terms of Use</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/privacy' title='Privacy Policy'><span>Privacy Policy</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li><li><a href='https://www.nc.gov/government/open-budget' title='NC OpenBudget'><span>NC OpenBudget</span><span class='icon-chevron-right' aria-hidden='true'></span></a></li></ul></nav><div class="brand"><a href="https://hiea.nc.gov/home-page" title="NC Health Information Exchange Authority"><img typeof="foaf:Image" src="https://files.nc.gov/hiea/NCDIT_LOGO_Horizontal_HIEA-375.png" alt="NC Health Information Exchange Authority" /></a></div></section></div>            </section>
-          
+          </div>
+        </section>
+
+
+                
+        
+<section class="band pad-small enterprise">
+  <div class="wrapper">
+    <section>
+      <nav>
+        <ul class="group">
+                                                                          <li>
+                                    <a href="https://www.nc.gov/">                    <span>NC.gov</span>
+                    <span class="icon-chevron-right" aria-hidden="true"></span>
+                  </a>
+                </li>
+                              <li>
+                                    <a href="https://www.nc.gov/accessibility" title="Accessibility">                    <span>Accessiblity</span>
+                    <span class="icon-chevron-right" aria-hidden="true"></span>
+                  </a>
+                </li>
+                              <li>
+                                    <a href="https://www.nc.gov/terms" title="Terms of Use">                    <span>TERMS OF USE</span>
+                    <span class="icon-chevron-right" aria-hidden="true"></span>
+                  </a>
+                </li>
+                              <li>
+                                    <a href="https://www.nc.gov/privacy" title="Privacy">                    <span>PRIVACY</span>
+                    <span class="icon-chevron-right" aria-hidden="true"></span>
+                  </a>
+                </li>
+                              <li>
+                                    <a href="https://www.nc.gov/government/open-budget" title="Open Budget">                    <span>OPEN BUDGET</span>
+                    <span class="icon-chevron-right" aria-hidden="true"></span>
+                  </a>
+                </li>
+                                    
+
+                   </ul>
+       </nav>
+                     <div class="brand">
+          <a href="/" title="NC Health Information Exchange Authority">
+          <img src="https://files.nc.gov/nchiea/nchiea-logo_0.png?DPSciBSNH.eKj3xaAiSkipjQfjOqB9ja" alt="NC Health Information Exchange Authority" title="NC Health Information Exchange Authority" />
+          </a>
+        </div>
+            </section>
+    </div>
+</section>
+
+  
+
+
         </section>
       </footer>
-    </div> <!-- /.section, /#footer-wrapper -->
+    </div>
 
-  </div></div> <!-- /#page, /#page-wrapper -->
-<script type="text/javascript" async="async" src="//hiea.nc.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
-<script type="text/javascript" async="async" src="//hiea.nc.gov/sites/all/modules/contrib/picture/picture.min.js?v=7.72"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qh63nl"></script>
-<script type="text/javascript" src="//hiea.nc.gov/profiles/north_carolina/modules/features/nc_carousel/nc_carousel.js?qh63nl"></script>
-<!--[if lte IE 9]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/flexie.min.js"></script><![endif]-->
-</body>
+  </div>
+
+        
+      </div>
+    </div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/44","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,clientside_validation_jquery\/cv.jquery.ckeditor,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,core\/html5shiv,extlink\/drupal.extlink,google_analytics\/google_analytics,moderated_content_bulk_publish\/moderated-content-bulk-publish,nc_base_theme\/accent-light-blue,nc_base_theme\/carousel,nc_base_theme\/fields,nc_base_theme\/global-scripts,nc_base_theme\/global-styling,ncalert\/ncalerts,paragraphs\/drupal.paragraphs.unpublished,system\/base,webform\/webform.dialog","theme":"nc_base_theme","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":true,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"google_analytics":{"account":"UA-81658806-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"mobile":{"title":"Mobile"},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000}},"entity_type":"node","entity_id":"44"}},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"nc_alerts":{"options":{"transitionStyle":"goDown","navigation":true,"slideSpeed":500,"paginationSpeed":500,"singleItem":true,"mouseDrag":false,"callbacks":true,"addClassActive":true,"autoHeight":true,"navigationText":["\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E"]}},"currentUser":0,"collapseAccordions":1,"ajax":[],"user":{"uid":0,"permissionsHash":"235af933ab357e3ea5a1769a29b4c2384799123023ebccb01ed786274d3edfe5"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.6"></script>
+<script src="/core/misc/drupal.js?v=8.9.6"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.6"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/escape-selector-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.9.6"></script>
+<script src="/modules/contrib/moderated_content_bulk_publish/js/moderated_content_bulk_publish.js?qhwlvh"></script>
+<script src="/core/misc/progress.js?v=8.9.6"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.9.6"></script>
+<script src="/core/misc/ajax.js?v=8.9.6"></script>
+<script src="/themes/custom/nc_base_theme/js/libs/match.media.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/enquire.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/primitives.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.autosize.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.debounce.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.cookie.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.easing.1.3.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.equalHeights.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.fitvids.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.magnific-popup.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.maskedinput.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/modules/jquery.orgchart.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/highcharts.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/jquery.matchHeight.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/jquery.overflow.menu.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/jquery.ui.menu.min.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/leaflet-src.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/owl.carousel.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/vendors/scrollmagic.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/script.js?v=2.x"></script>
+<script src="/themes/custom/nc_base_theme/js/float-wrapper.js?v=2.x"></script>
+<script src="/core/misc/debounce.js?v=8.9.6"></script>
+<script src="/core/misc/displace.js?v=8.9.6"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=1.12.1"></script>
+<script src="/core/misc/dialog/dialog.js?v=8.9.6"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=8.9.6"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=8.9.6"></script>
+<script src="/core/misc/dialog/dialog.ajax.js?v=8.9.6"></script>
+<script src="/modules/contrib/webform/js/webform.jquery.ui.dialog.js?v=8.9.6"></script>
+<script src="/modules/contrib/webform/js/webform.dialog.js?v=8.9.6"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=8.9.6"></script>
+<script src="/themes/custom/nc_base_theme/patterns/components/carousel/carousel.js?v=1.x"></script>
+<script src="/modules/custom/ncalert/js/ncalerts.js?v=1.x"></script>
+<script src="/modules/custom/ncalert/js/ncalerts_handler.js?v=1.x"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.validate.js?qhwlvh"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ckeditor.js?qhwlvh"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ife.js?qhwlvh"></script>
+
+  </body>
 </html>

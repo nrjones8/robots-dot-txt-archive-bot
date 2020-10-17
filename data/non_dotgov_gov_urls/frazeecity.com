@@ -297,12 +297,7 @@
 
 
                 <div class="boxcontainer">
-                                                <div class="yellowbox " style="cursor:pointer;" onclick="location.href='https://frazeecity.com/process.php?option=com_news&task=detail&id=21'">
-                                <div class="yellowboxleft"><img src="https://frazeecity.com/classes/timthumb.php?src=https://frazeecity.com/images/news/news_21.jpg&w116=&h=93&zc=1" class="img-responsive"> </div>
-                                <div class="yellowboxright"><h2>Give Advice on Wannigan Park - Take a Survey</h2> <p> Jul 30, 2020</p> </div>
-                                <div class="clearfix"></div>
-                            </div>
-                                                        <div class="yellowbox " style="cursor:pointer;" onclick="location.href='https://frazeecity.com/process.php?option=com_news&task=detail&id=20'">
+                                                <div class="yellowbox " style="cursor:pointer;" onclick="location.href='https://frazeecity.com/process.php?option=com_news&task=detail&id=20'">
                                 <div class="yellowboxleft"><img src="https://frazeecity.com/classes/timthumb.php?src=https://frazeecity.com/images/news/news_20.jpg&w116=&h=93&zc=1" class="img-responsive"> </div>
                                 <div class="yellowboxright"><h2>Updates from the Governor</h2> <p> Jul 22, 2020</p> </div>
                                 <div class="clearfix"></div>
@@ -315,6 +310,11 @@
                                                         <div class="yellowbox " style="cursor:pointer;" onclick="location.href='https://frazeecity.com/process.php?option=com_news&task=detail&id=18'">
                                 <div class="yellowboxleft"><img src="https://frazeecity.com/classes/timthumb.php?src=https://frazeecity.com/images/news/news_18.jpg&w116=&h=93&zc=1" class="img-responsive"> </div>
                                 <div class="yellowboxright"><h2>ZONING ORDINANCE OF THE CITY OF FRAZEE, MINNESOTA</h2> <p> Jun 08, 2020</p> </div>
+                                <div class="clearfix"></div>
+                            </div>
+                                                        <div class="yellowbox " style="cursor:pointer;" onclick="location.href='https://frazeecity.com/process.php?option=com_news&task=detail&id=17'">
+                                <div class="yellowboxleft"><img src="https://frazeecity.com/classes/timthumb.php?src=https://frazeecity.com/images/news/news_17.jpg&w116=&h=93&zc=1" class="img-responsive"> </div>
+                                <div class="yellowboxright"><h2>COVID-19 (Coronavirus) Information - City Hall Closure March 18, 2020</h2> <p> Mar 16, 2020</p> </div>
                                 <div class="clearfix"></div>
                             </div>
                             
@@ -338,16 +338,16 @@
 
 
                 <div class="boxcontainer">
-                                                <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.govtrack.us/congress/members/MN#representatives', '_blank')">
-                                <div class="helpfullinks">
-                                    <h6>Contact Info - MN Senators and Representatives</h6>
-                                    <p><a href="https://www.govtrack.us/congress/members/MN#representatives" target="_blank">Contact information for US Senators and US Representatives from the St...</a></p>
-                                </div>
-                            </div>
-                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.frazeecommunityclub.com/', '_blank')">
+                                                <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.frazeecommunityclub.com/', '_blank')">
                                 <div class="helpfullinks">
                                     <h6>Frazee Community Club</h6>
                                     <p><a href="http://www.frazeecommunityclub.com/" target="_blank">A group of community volunteers to help promote the City of Frazee....</a></p>
+                                </div>
+                            </div>
+                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.govtrack.us/congress/members/MN#representatives', '_blank')">
+                                <div class="helpfullinks">
+                                    <h6>Contact Info - MN Senators and Representatives</h6>
+                                    <p><a href="https://www.govtrack.us/congress/members/MN#representatives" target="_blank">Contact information for US Senators and US Representatives from the St...</a></p>
                                 </div>
                             </div>
                                                         <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://goswctest.net/UserFiles/census-2020.pdf', '_blank')">
@@ -356,16 +356,16 @@
                                     <p><a href="http://goswctest.net/UserFiles/census-2020.pdf" target="_blank">Valuable information regarding the "2020" US Census....</a></p>
                                 </div>
                             </div>
-                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.dot.state.mn.us/d4/projects/frazee/', '_blank')">
-                                <div class="helpfullinks">
-                                    <h6>Highway 87 Project</h6>
-                                    <p><a href="http://www.dot.state.mn.us/d4/projects/frazee/" target="_blank">Hwy 87 - Frazee to the Becker/Wadena county line...</a></p>
-                                </div>
-                            </div>
                                                         <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('https://www.dnr.state.mn.us/rlp/index.html', '_blank')">
                                 <div class="helpfullinks">
                                     <h6>Minnesota Department of Natural Resources (DNR)</h6>
                                     <p><a href="https://www.dnr.state.mn.us/rlp/index.html" target="_blank">Licenses, Permits, and Regulations...</a></p>
+                                </div>
+                            </div>
+                                                        <div class="yellowbox2 " style="cursor:pointer; min-height: 104px;" onclick="window.open('http://www.dot.state.mn.us/d4/projects/frazee/', '_blank')">
+                                <div class="helpfullinks">
+                                    <h6>Highway 87 Project</h6>
+                                    <p><a href="http://www.dot.state.mn.us/d4/projects/frazee/" target="_blank">Hwy 87 - Frazee to the Becker/Wadena county line...</a></p>
                                 </div>
                             </div>
                             
@@ -387,7 +387,7 @@
 
                 <div class="boxcontainer">
                                                 <div class="yellowbox2">
-                                <p><strong>Mon Aug 10</strong></p>
+                                <p><strong>Tue Oct 13</strong></p>
                                 <h2><a href="">City Council Meeting</a></h2>
                                 <p><a href="https://frazeecity.com/process.php?option=com_calendar&task=detail&id=15">Read On</a></p>
                             </div>

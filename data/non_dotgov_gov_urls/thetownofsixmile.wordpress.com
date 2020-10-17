@@ -223,7 +223,7 @@ function gotoFunction() { window.location.href = document.language.languagesel.o
 	</div>
 		<div class="spacergif"></div>
 	<p class="automattic">
-		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Ruckus</span>	</p>
+		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Experiment</span>	</p>
 				<script>
 				var cwLink = document.getElementById( 'code-wrangler' );
 				var alternatives = [

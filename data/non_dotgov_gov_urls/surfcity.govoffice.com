@@ -1,46 +1,38 @@
 <!DOCTYPE html>
+<html>
+    <head>
+        <title>Runtime Error</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { width: 280px; }
+         }
+        </style>
+    </head>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>404 File Not Found</title>
-		<style type="text/css">
-			body
-			{
-				padding: 50px;
-				font: normal 12pt Verdana, sans-serif;
-			}
-			h1
-			{
-				text-align: center;
-				font: bold 18pt "Georgia", "Times New Roman", serif;
-				padding: 10px 0;
-				border-bottom: 1px solid #eee;
-			}
-			div
-			{
-				text-align: left;
-				margin-left: auto;
-				margin-right: auto;
-				max-width: 500px;
-			}
-			p
-			{
-				color: #999;
-				text-align: left;
-			}
-			.errorCode
-			{
-				color: #992222;
-			}
-		</style>
-	</head>
-	<body>
-		<div>
-			<h1>
-				<span class="errorCode">404</span>: The page cannot be found
-			</h1>
-			<p>The page you are looking for might have been removed, had its
-			name changed, or is temporarily unavailable.</p>
-		</div>
-	</body>
+    <body bgcolor="white">
+
+            <span><H1>Server Error in '/' Application.<hr width=100% size=1 color=silver></H1>
+
+            <h2> <i>Runtime Error</i> </h2></span>
+
+            <font face="Arial, Helvetica, Geneva, SunSans-Regular, sans-serif ">
+
+            <b> Description: </b>An exception occurred while processing your request. Additionally, another exception occurred while executing the custom error page for the first exception. The request has been terminated.
+            <br><br>
+
+    </body>
 </html>

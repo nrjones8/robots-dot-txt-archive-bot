@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"exmwIgPNW4tTJb---_9jvjSekc0qEPmiZ1TDKXqMvEfWR9PME1K1jmRd-2iPmY4xGdUI9SkSQw03i615Wi74GI_OHT41\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"CTYcCwxEKBymP4T2vrGwZ--4sPU-_H2Xlk5M8JTYjgfwLrPuwZyTyOfqWJcVs9BTNvaDlXQBSErPcvzDzW98BwGMVAE1\" />");
 						}
 					}
 				}, false);
@@ -191,7 +191,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <img src="/Common/Images/AlertCenter/alertBarBlink.svg" id="1_imgDot" alt="Emergency Alert" class="redDot" />
             <span id="1_customAlert" class="customAlert">Coronavirus/COVID-19</span>
         </a>
-        <span id="1_spnAlertContainer" class="alertContainer"><a href="https://www.jeffco.us/511/Fire-Restrictions-Bans" target="_blank" class="alert" style="border-left: 1px solid #635e65; border-right: 1px solid #000000;background: #030303 url(/Common/images/AlertCenter/alertBarBlackTextBckg.png) repeat-x; color: #FFFFFF;">
+        <span id="1_spnAlertContainer" class="alertContainer"><a href="/AlertCenter.aspx?AID=Fire-Ban-Stage-2-Implemented-706" target="_self" class="alert" style="border-left: 1px solid #635e65; border-right: 1px solid #000000;background: #030303 url(/Common/images/AlertCenter/alertBarBlackTextBckg.png) repeat-x; color: #FFFFFF;">
 	Fire Ban - Stage 2 Implemented
 	<span style="color: #FC4C2F;">Read On...</span>
 </a>
@@ -1086,14 +1086,11 @@ opacity: 1;
 						<ol class="pageStyles semanticList">
 
 <li class="InfoAdvanced widgetItem ">
-	<div style="background-color: rgba(41, 56, 54, .9); min-height:350px; padding:1em;"><span style="text-transform: uppercase; font-weight: 600; color: rgb(190, 214, 0);">JEFFERSON COUNTY</span><br>
-<h2 class="widgetTitle">Jeffco CARES Act Emergency Grant Programs&nbsp;</h2>
-Jeffco is offering two new grant opportunities for businesses impacted by COVID-19, the CARES Act Comprehensive Business Stability Award program for businesses and nonprofits in Jeffco and the&nbsp;Home-Based Business COVID-19 Stability Award program for home-based businesses.&nbsp;<br>
-<br>
-Applications can be submitted through Thursday, Oct.15, 2020 at 6 p.m.<br>
-<br>
-<a href="/4057" target="_self" class="Hyperlink">Please see the Jeffco CARES Act Emergency Grant Program page.</a><br>
-</div>
+	<div style="background-color: rgba(41, 56, 54, .9); min-height:350px; padding:1em;"><span style="text-transform: uppercase; font-weight: 600; color: rgb(190, 214, 0);">Elections Division</span><br>
+<h2 class="widgetTitle">Are you Ready for the Election?</h2>
+<span style="font-size: 14.4px;">Looking for your ballot? Have questions about election security? Wondering where to vote? Just select the link below to visit the Elections page for answers to these questions as well as additional information.<br>
+</span><br>
+<a href="/396" target="_self" class="Hyperlink">See the Elections Website</a></div>
 </li>						</ol>
 					</div>
 		</div>
@@ -2287,13 +2284,13 @@ margin-top:-5px;
 	<div class="cpWindow cpWindow467efcd6-8576-46fe-a4e7-1b1f2bc4e127">
 		<ol class="semanticList cpSlider">
 						<li class="widgetItem" data-index="0">
-								<a href="/CivicAlerts.aspx?AID=1387"><img class="media" src="/ImageRepository/Document?documentID=23650" alt="Cold Weather months" data-delayed-image="" /></a>
+								<a href="/CivicAlerts.aspx?AID=335"><img class="media" src="/ImageRepository/Document?documentID=11995" alt="Engage-Jeffco-News-general" data-delayed-image="" /></a>
 						<div class="text">
-								<h4 id="newsFlashItemHeader1387" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=1387">Ask the Experts: Supporting Jefferson County's Businesses through 2020's Cold-Weather Months </a>
+								<h4 id="newsFlashItemHeader335" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=335">Read our latest Engage Jeffco enewsletter </a>
 	</h4>
 	<div class="widgetDesc">
-Join on Oct. 8 from 10 - 11 a.m. for a virtual panel of experts answering local businesses’ questions about preparing for the cold-weather months during the pandemic.						<a id="newsFlashReadOn1387" href="/CivicAlerts.aspx?AID=1387" class="readOn" aria-labelledby="newsFlashItemHeader1387 newsFlashReadOn1387">Read on...</a>
+Engage Jeffco includes important updates from the county, community events, classes, health and safety tips, announcements and more.						<a id="newsFlashReadOn335" href="/CivicAlerts.aspx?AID=335" class="readOn" aria-labelledby="newsFlashItemHeader335 newsFlashReadOn335">Read on...</a>
 	</div>
 
 						</div>
@@ -2359,18 +2356,6 @@ Jefferson County Commissioners Libby Szabo, Casey Tighe and Lesley Dahlkemper vi
 						</div>
 						</li>
 						<li class="widgetItem" data-index="6">
-								<a href="/CivicAlerts.aspx?AID=335"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=11995" alt="Engage-Jeffco-News-general" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader335" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=335">Read our latest Engage Jeffco enewsletter </a>
-	</h4>
-	<div class="widgetDesc">
-Engage Jeffco includes important updates from the county, community events, classes, health and safety tips, announcements and more.						<a id="newsFlashReadOn335" href="/CivicAlerts.aspx?AID=335" class="readOn" aria-labelledby="newsFlashItemHeader335 newsFlashReadOn335">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=1354"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23332" alt="Facilities-Sustainability-ConservationKit" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1354" class="widgetTitle">
@@ -2382,7 +2367,7 @@ The free LED lighting kits will help residents save energy and money at home. Th
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="8">
+						<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=1345"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23288" alt="RMMA-Sheltair" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1345" class="widgetTitle">
@@ -2394,19 +2379,7 @@ Sheltair is proud to announce the opening of its new state-of-the-art FBO and ha
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="9">
-								<a href="/CivicAlerts.aspx?AID=1332"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23218" alt="mountains" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader1332" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=1332">Securing Employment in 2020 </a>
-	</h4>
-	<div class="widgetDesc">
-"Survive and thrive in your job search during COVID-19" is a five-week, three-hour per week accelerated work search series through Jefferson County's Business & Workforce Center for displaced workers currently seeking employment.						<a id="newsFlashReadOn1332" href="/CivicAlerts.aspx?AID=1332" class="readOn" aria-labelledby="newsFlashItemHeader1332 newsFlashReadOn1332">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="10">
+						<li class="widgetItem" data-index="8">
 								<a href="/CivicAlerts.aspx?AID=1338"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23252" alt="CDOT-CO74-Rockfall-Mitigation" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1338" class="widgetTitle">
@@ -2418,7 +2391,7 @@ The Colorado Department of Transportation began a rockfall mitigation project fo
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="11">
+						<li class="widgetItem" data-index="9">
 								<a href="/CivicAlerts.aspx?AID=1320"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23149" alt="Cash pict" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1320" class="widgetTitle">
@@ -2430,7 +2403,7 @@ Did you know that millions of eligible people are at risk of not receiving their
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="12">
+						<li class="widgetItem" data-index="10">
 								<a href="/CivicAlerts.aspx?AID=519"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23057" alt="Jeffco.us News Carousel" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader519" class="widgetTitle">
@@ -2442,7 +2415,7 @@ The Board of County Commissioners is hosting a telephone town hall on Monday, Au
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="13">
+						<li class="widgetItem" data-index="11">
 								<a href="/CivicAlerts.aspx?AID=1303"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=16563" alt="T-E_Transporation-News_news" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1303" class="widgetTitle">
@@ -2454,7 +2427,7 @@ Xcel Energy will fly drones in Jefferson County through September 2020.						<a 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="14">
+						<li class="widgetItem" data-index="12">
 								<a href="/CivicAlerts.aspx?AID=1298"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1298" class="widgetTitle">
@@ -2466,7 +2439,7 @@ Jeffco has seen an increase in COVID-19 cases and has surpassed its two-week cas
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="15">
+						<li class="widgetItem" data-index="13">
 								<a href="/CivicAlerts.aspx?AID=1296"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1296" class="widgetTitle">
@@ -2478,7 +2451,7 @@ JCPH today issued a new Public Health Order 20-008 that requires everyone in Jef
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="16">
+						<li class="widgetItem" data-index="14">
 								<a href="/CivicAlerts.aspx?AID=1288"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1288" class="widgetTitle">
@@ -2490,7 +2463,7 @@ JCPH today issued Public Health Order 20-007, which requires venues hosting larg
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="17">
+						<li class="widgetItem" data-index="15">
 								<a href="/CivicAlerts.aspx?AID=1285"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1285" class="widgetTitle">
@@ -2502,7 +2475,7 @@ JCPH will rescind its Public Health Order 20-005. All individuals and businesses
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="18">
+						<li class="widgetItem" data-index="16">
 								<a href="/CivicAlerts.aspx?AID=1262"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1262" class="widgetTitle">
@@ -2514,7 +2487,7 @@ JCPH has been closely monitoring the situation at Bandimere Speedway, and we are
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="19">
+						<li class="widgetItem" data-index="17">
 								<a href="/CivicAlerts.aspx?AID=1250"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22316" alt="RTD - Get our region moving" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1250" class="widgetTitle">
@@ -2526,7 +2499,7 @@ The Regional Transportation District (RTD) is ready to get the region moving aga
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="20">
+						<li class="widgetItem" data-index="18">
 								<a href="/CivicAlerts.aspx?AID=1245"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=21869" alt="Safer at Home UPDATE" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1245" class="widgetTitle">
@@ -2538,7 +2511,7 @@ As cases of COVID-19 begin to decline in the county, JCPH reminds residents we m
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="21">
+						<li class="widgetItem" data-index="19">
 								<a href="/CivicAlerts.aspx?AID=1233"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22005" alt="Outdoor-Seating" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1233" class="widgetTitle">
@@ -2550,7 +2523,7 @@ Restaurants and bars located in unincorporated Jefferson County can now apply fo
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="22">
+						<li class="widgetItem" data-index="20">
 								<a href="/CivicAlerts.aspx?AID=1204"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=17482" alt="Flood-Awareness-2019" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1204" class="widgetTitle">
@@ -2562,7 +2535,7 @@ Many people think they are not in danger of flooding if they don't live near a s
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="23">
+						<li class="widgetItem" data-index="21">
 								<a href="/CivicAlerts.aspx?AID=1195"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=21573" alt="Safer-at-Home graphic" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1195" class="widgetTitle">
@@ -2574,7 +2547,7 @@ JCPH will allow the county’s extension of the Stay-at-Home order to expire at 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="24">
+						<li class="widgetItem" data-index="22">
 								<a href="/CivicAlerts.aspx?AID=1179"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20743" alt="Stay-At-Home Order Images" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1179" class="widgetTitle">
@@ -2586,7 +2559,7 @@ JCPH has issued a public health order extending the state’s Stay-at-Home order
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="25">
+						<li class="widgetItem" data-index="23">
 								<a href="/CivicAlerts.aspx?AID=1151"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20783" alt="Jeffco-Hope-Fund-2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1151" class="widgetTitle">
@@ -2598,7 +2571,7 @@ Community First Foundation created the Jeffco Hope Fund to strengthen and stabil
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="26">
+						<li class="widgetItem" data-index="24">
 								<a href="/CivicAlerts.aspx?AID=1183"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20657" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1183" class="widgetTitle">
@@ -2610,7 +2583,7 @@ Jefferson County Public Health is working with county leadership, business leade
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="27">
+						<li class="widgetItem" data-index="25">
 								<a href="/CivicAlerts.aspx?AID=1148"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20743" alt="Stay-At-Home Order Images" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1148" class="widgetTitle">
@@ -2622,7 +2595,7 @@ Stay-At-Home Public Health Orders were put in place effective March 26 at 8 a.m.
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="28">
+						<li class="widgetItem" data-index="26">
 								<a href="/CivicAlerts.aspx?AID=1145"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20721" alt="BCC-Group-Shot-2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1145" class="widgetTitle">
@@ -2634,7 +2607,7 @@ Jeffco has a long tradition of coming together to care for one another in times 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="29">
+						<li class="widgetItem" data-index="27">
 								<a href="/CivicAlerts.aspx?AID=1143"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20705" alt="County-Online-Services" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1143" class="widgetTitle">
@@ -2646,7 +2619,7 @@ With Jefferson County offices closed due to COVID-19, the county compiled a page
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="30">
+						<li class="widgetItem" data-index="28">
 								<a href="/CivicAlerts.aspx?AID=1141"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20691" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1141" class="widgetTitle">
@@ -2658,7 +2631,7 @@ Jefferson County Public Health today issued a public health order to close all d
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="31">
+						<li class="widgetItem" data-index="29">
 								<a href="/CivicAlerts.aspx?AID=1133"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20657" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1133" class="widgetTitle">
@@ -2670,7 +2643,7 @@ As the COVID-19, or Coronavirus, becomes more widespread, the Board of County Co
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="32">
+						<li class="widgetItem" data-index="30">
 								<a href="/CivicAlerts.aspx?AID=1130"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=14936" alt="County News" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1130" class="widgetTitle">
@@ -2682,7 +2655,7 @@ On March 13, Commissioner Dahlkemper signed a Disaster Declaration, allowing the
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="33">
+						<li class="widgetItem" data-index="31">
 								<a href="/CivicAlerts.aspx?AID=1125"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1125" class="widgetTitle">
@@ -2694,7 +2667,7 @@ We have been notified that another Jeffco resident has tested positive for COVID
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="34">
+						<li class="widgetItem" data-index="32">
 								<a href="/CivicAlerts.aspx?AID=1115"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20561" alt="Census2020-EveryoneCounts" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1115" class="widgetTitle">
@@ -2706,7 +2679,7 @@ The 2020 Census counts every person living in the 50 states, District of Columbi
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="35">
+						<li class="widgetItem" data-index="33">
 								<a href="/CivicAlerts.aspx?AID=1121"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1121" class="widgetTitle">
@@ -2718,7 +2691,7 @@ Two passengers aboard a cruise, who are Jefferson County residents, have tested 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="36">
+						<li class="widgetItem" data-index="34">
 								<a href="/CivicAlerts.aspx?AID=1119"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1119" class="widgetTitle">
@@ -2730,7 +2703,7 @@ JCPH has been notified that the State Laboratory at the Colorado Department of P
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="37">
+						<li class="widgetItem" data-index="35">
 								<a href="/CivicAlerts.aspx?AID=1113"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1113" class="widgetTitle">
@@ -2742,7 +2715,7 @@ On March 5, the Colorado Department of Public Health and Environment (CDPHE) rep
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="38">
+						<li class="widgetItem" data-index="36">
 								<a href="/CivicAlerts.aspx?AID=1069"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20030" alt="Tobacco-Free-Campus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1069" class="widgetTitle">
@@ -2754,7 +2727,7 @@ Effective February 3, 2020, smoking and the use of tobacco products will not be 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="39">
+						<li class="widgetItem" data-index="37">
 								<a href="/CivicAlerts.aspx?AID=980"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=18973" alt="Planning-Zoning-Award-2019" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader980" class="widgetTitle">
@@ -2766,7 +2739,7 @@ The American Planning Association recently granted the Jefferson County Planning
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="40">
+						<li class="widgetItem" data-index="38">
 								<a href="/CivicAlerts.aspx?AID=941"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=18563" alt="!Facilities-Electric-Vehicle-Chargers" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader941" class="widgetTitle">
@@ -2778,7 +2751,7 @@ Jefferson County has installed new Electric Vehicle (EV) charging stations at th
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="41">
+						<li class="widgetItem" data-index="39">
 								<a href="/CivicAlerts.aspx?AID=835"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=17514" alt="Treasurer-HB19-1295" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader835" class="widgetTitle">
@@ -3214,29 +3187,29 @@ Sat
 <td>
 <span>8</span>
 </td>
-<td class="today">
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=9&amp;CID=14'>9</a>
+<td>
+<span>9</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=10&amp;CID=14'>10</a>
+<span>10</span>
 </td>
 </tr>
 <tr><td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=11&amp;CID=14'>11</a>
+<span>11</span>
 </td>
 <td>
 <span>12</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=13&amp;CID=14'>13</a>
+<span>13</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=14&amp;CID=14'>14</a>
+<span>14</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=15&amp;CID=14'>15</a>
+<span>15</span>
 </td>
-<td>
+<td class="today">
 <span>16</span>
 </td>
 <td>
@@ -3253,13 +3226,13 @@ Sat
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=20&amp;CID=14'>20</a>
 </td>
 <td>
-<span>21</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=21&amp;CID=14'>21</a>
 </td>
 <td>
-<span>22</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=22&amp;CID=14'>22</a>
 </td>
 <td>
-<span>23</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=23&amp;CID=14'>23</a>
 </td>
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=24&amp;CID=14'>24</a>
@@ -3309,9 +3282,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Oct. 9  </h4>
+			<h4 class="widgetTitle">Sat Oct. 17  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=6091">Colorado Counties, Inc. (&quot;CCI&quot;) Legislative Committee/Business  Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5760">Slash Collection: Oct. 17-18 @ Mount Vernon Country Club</a></strong>
 
 		</div>
 				</li>
@@ -3325,9 +3298,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Sun Oct. 18  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5757">Slash Collection: Oct. 10-11 @ Settlers Drive Property</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5761">Slash Collection: Oct. 17-18 @ Mount Vernon Country Club</a></strong>
 
 		</div>
 				</li>
@@ -3341,9 +3314,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Tue Oct. 20  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=6083">Head Start Food Bank and Adult Flu Clinic </a></strong>
+					<strong><a href="/Calendar.aspx?EID=5374">Board of County Commissioners&#39; Public Hearing and Work Session</a></strong>
 
 		</div>
 				</li>

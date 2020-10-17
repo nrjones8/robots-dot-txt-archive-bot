@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"a2An2gwmv0bH1MnKY-fsEnympdCYvRcZpYG50Uvii9Yx8xkl1F6x2hB8AL0rwWQHJQcK0Tijb8Rlolw7IKdTM3GgxPQ1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"e-WUSwM7eqIHDe9MmpVf8HME44tH-_1b-fyv5h0OFRo1_cFUG8o0pilZtaMmk7PHCTYluK99k1f2PnslgCyeoeh9T5M1\" />");
 						}
 					}
 				}, false);
@@ -1005,6 +1005,15 @@
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
+			<li class="widgetItem" data-news-i-d="980">
+
+					<h4 id="newsFlashItemHeader980" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=980">Rent and Mortgage Assistance Offered in Puyallup </a></h4>
+<div class="widgetDesc">
+The Puyallup City Council has allocated $100,000 of federal CARES Act funds for emergency relief grants for residential housing assistance.				<a href="/CivicAlerts.aspx?AID=980" id="newsFlashReadOn980" aria-labelledby="newsFlashItemHeader980 newsFlashReadOn980" class="readOn">Read on...</a>
+</div>
+
+			</li>
 			<li class="widgetItem" data-news-i-d="959">
 
 					<h4 id="newsFlashItemHeader959" class="widgetTitle">
@@ -1014,21 +1023,12 @@ Puyallup will offer document shredding and Styrofoam recycling from 10 to 2 on S
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="988">
+			<li class="widgetItem" data-news-i-d="985">
 
-					<h4 id="newsFlashItemHeader988" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=988">Upcoming 2021-2022 Council Budget Meetings </a></h4>
+					<h4 id="newsFlashItemHeader985" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=985">Puyallup City Council Approves Additional $150,000 to Help Small Businesses </a></h4>
 <div class="widgetDesc">
-The City Manager has completed and placed on file in the Office of the City Clerk the 2021-2022 preliminary biennial budget . . .				<a href="/CivicAlerts.aspx?AID=988" id="newsFlashReadOn988" aria-labelledby="newsFlashItemHeader988 newsFlashReadOn988" class="readOn">Read on...</a>
-</div>
-
-			</li>
-			<li class="widgetItem" data-news-i-d="983">
-
-					<h4 id="newsFlashItemHeader983" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=983">2021 Special Event Sponsorship Requests </a></h4>
-<div class="widgetDesc">
-The City of Puyallup is accepting applications for city sponsorship of community special events to be held in 2021 . . .				<a href="/CivicAlerts.aspx?AID=983" id="newsFlashReadOn983" aria-labelledby="newsFlashItemHeader983 newsFlashReadOn983" class="readOn">Read on...</a>
+Puyallup City Council has authorized an additional $150,000 of federal CARES Act funds for emergency relief grants to help small businesses				<a href="/CivicAlerts.aspx?AID=985" id="newsFlashReadOn985" aria-labelledby="newsFlashItemHeader985 newsFlashReadOn985" class="readOn">Read on...</a>
 </div>
 
 			</li>
@@ -1157,30 +1157,30 @@ Sat
 <td>
 <span>08</span>
 </td>
-<td class="today">
+<td>
 <span>09</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=10&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>10</a>
+<span>10</span>
 </td>
 </tr>
 <tr><td>
 <span>11</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=12&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>12</a>
+<span>12</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=13&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>13</a>
+<span>13</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=14&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>14</a>
+<span>14</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=15&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>15</a>
+<span>15</span>
 </td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=16&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>16</a>
+<td class="today">
+<span>16</span>
 </td>
 <td>
 <span>17</span>
@@ -1212,7 +1212,7 @@ Sat
 <span>25</span>
 </td>
 <td>
-<span>26</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=26&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>26</a>
 </td>
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=27&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>27</a>
@@ -1252,9 +1252,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Mon Oct. 19  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3275">Puyallup Farmer&#39;s Market</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3384">Virtual Book Club (via Zoom)</a></strong>
 
 		</div>
 				</li>
@@ -1268,9 +1268,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 10  </h4>
+			<h4 class="widgetTitle">Mon Oct. 19  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3356">Document Shredding + Styrofoam Recycling</a></strong>
+					<strong><a href="/Calendar.aspx?EID=999">Library Board meeting (meetings will occur on Zoom)</a></strong>
 
 		</div>
 				</li>
@@ -1284,9 +1284,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Oct. 12  </h4>
+			<h4 class="widgetTitle">Mon Oct. 19  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3038">Senior Advisory Board Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3063">Civil Service Commission/Cancelled</a></strong>
 
 		</div>
 				</li>

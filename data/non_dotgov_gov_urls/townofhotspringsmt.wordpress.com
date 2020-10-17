@@ -17,4 +17,4 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Wed, 07 Oct 2020 13:41:11 +0000
+# This file was generated on Thu, 15 Oct 2020 05:10:49 +0000

@@ -324,6 +324,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-388"><a class="menuA level2 menuHidden" href="government/code,_ordinances,_and_resolutions/township_resolutions.php# " target="_self">Resolutions</a></li>
 				</ul>
 			</li>
+			<li class="menuLI level1 menuHidden li-675"><a class="menuA level1 menuHidden" href="government/general_election_2020.php" target="_self">General Election 2020</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-39 children"><a class="menuA level0 menuDisplay" href="how_do_i/index.php" target="_self">How Do I</a>

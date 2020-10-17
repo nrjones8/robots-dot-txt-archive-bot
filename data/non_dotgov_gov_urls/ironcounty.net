@@ -1,3 +1,83 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Iron County Utah</title>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Iron County Government website, with information for public access and use.">
+  <meta name="keywords" content="local government, Utah, Iron County">
+  <meta property="title" content="Iron County Utah">
+  <meta name="author" content="Iron County ITS">
+  <script src="/cdn-cgi/apps/head/QJv80Bu6FSjHKYC59ouVwatSOpg.js"></script><link rel="icon" type="image/x-icon" href="/assets/images/small-logo.png">
+  <link rel="apple-touch-icon" href="/assets/images/small-logo.png">
+  <link rel="manifest" href="manifest.json">
+  <style> 
+    body { 
+      font-family:'Poppins',
+      sans-serif;
+      overflow-x:hidden;
+      font-weight:300;
+      background-color:#fff;
+      animation:pageAnimation ease 2s;
+      animation-iteration-count:1;
+      animation-fill-mode:forwards
+      }
+      @keyframes pageAnimation {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+      h1,h2 {
+        font-weight: 500;
+      }
+      p {
+        line-height: 1.6;
+        font-size: 16px;
+      }
+      a {
+        color:#731d15;
+      }
+      a {
+        text-decoration: none !important;
+        outline: none !important;
+        box-shadow: none !important;
+      }
+      form {
+        background:rgba(0,0,0,0.05);
+        padding: 0 15px 20px;
+        border: 1px solid #dee2e6;
+      }
+      ::placeholder {
+        color:#a04234 !important;
+        opacity:1;
+      }
+      :-ms-input-placeholder {
+        color:#a04234 !important;
+      }
+      ::-ms-input-placeholder {
+        color:#a04234 !important;
+      }
+    </style>
+  <meta name="theme-color" content="#1976d2">
+<link rel="stylesheet" href="styles.4684dc1666b439ef09bb.css"></head>
+<body>
+  <app-root></app-root>
+  <link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&amp;display=swap">
+  <link rel="preload" href="./styles.css" type="text/css" as="style" onload="this.onload=null;this.rel='stylesheet';"/> 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-150831381-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-150831381-2');
+  </script>
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+<script src="runtime-es2015.9365b28424f6962f7fe3.js" type="module"></script><script src="runtime-es5.9365b28424f6962f7fe3.js" nomodule defer></script><script src="polyfills-es5.4c94707e87f520a18cd2.js" nomodule defer></script><script src="polyfills-es2015.0bd059e26b498d9c7575.js" type="module"></script><script src="scripts.e4464d6bc6f27888827e.js" defer></script><script src="main-es2015.f1347ce06c89570e967f.js" type="module"></script><script src="main-es5.f1347ce06c89570e967f.js" nomodule defer></script></body>
+</html>

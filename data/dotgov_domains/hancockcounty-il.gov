@@ -228,7 +228,16 @@ var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_valid
 			clip: rect(1px, 1px, 1px, 1px);
 		}
 		</style>
-	<style>.fullcalendar thead tr td {
+	<!-- Custom Styling -->
+<style type="text/css">
+#site-navigation, #hero-widgets, #secondary .widget-title, #home-page-featured .widget-title, .site-footer { background:#1c3862 }
+#content a { color:#ff0000 }
+#menu-icon a, .menu-icon-container a:before { color:#ff0000 }
+button, .button, input[type="button"], input[type="reset"], input[type="submit"] { background: #ff0000 }\n#content a:hover, #content a:focus, #content a:active { color:#1c3862 }
+#menu-icon a:hover, #menu-icon a:focus, #menu-icon a:active { color:#1c3862 }
+</style>
+		<style type="text/css" id="wp-custom-css">
+			.fullcalendar thead tr td {
     text-align: center!important;
 }
 
@@ -251,15 +260,8 @@ var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_valid
 
 .fullcalendar thead a {
     color: #fff!important;
-}</style><!-- Custom Styling -->
-<style type="text/css">
-#site-navigation, #hero-widgets, #secondary .widget-title, #home-page-featured .widget-title, .site-footer { background:#1c3862 }
-#content a { color:#ff0000 }
-#menu-icon a, .menu-icon-container a:before { color:#ff0000 }
-button, .button, input[type="button"], input[type="reset"], input[type="submit"] { background: #ff0000 }\n#content a:hover, #content a:focus, #content a:active { color:#1c3862 }
-#menu-icon a:hover, #menu-icon a:focus, #menu-icon a:active { color:#1c3862 }
-</style>
-</head>
+}		</style>
+		</head>
 
 <body class="home page-template page-template-templates page-template-home-page page-template-templateshome-page-php page page-id-60 govpress layout-single-column">
 <div id="page" class="hfeed site">

@@ -1396,7 +1396,7 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/flushing-water-lines-26/">
+        <a href="/blog/main-street-waterline-replacement-project-continues/">
           
           <div class="side-panel-img">
             <img class="center-block"
@@ -1404,12 +1404,12 @@ Page not found
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">Flushing Water Lines</h3>
+          <h3 style="margin-bottom: 20px;">Main Street Waterline Replacement Project continues</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/flushing-water-lines-26/">Read Post &gt;</a>
+          href="/blog/main-street-waterline-replacement-project-continues/">Read Post &gt;</a>
       </div>
       
       

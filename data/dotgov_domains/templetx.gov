@@ -125,7 +125,7 @@ null
 
 RZ.webspacelinksurl = ''
 RZ.webspacelinksurl = './webspace/links.html'
-RZ.workflowlist = ''
+RZ.workflowlist = 'New Workflow 1'
 RZ.revizeserverurl = 'https://cms9.revize.com/revize/templetx';
 
 if (!RZ.nextseq) RZ.nextseq = {linknames:{},modules:{}};
@@ -389,9 +389,13 @@ RZ.jsversion = 1.2//--><!]]></script>
 					<li class="menuLI level2 menuHidden li-100"><a class="menuA level2 menuHidden" href="community/about_temple/education.php" target="_self">Education</a></li>
 				</ul>
 			</li>
-			<li class="menuLI level1 menuHidden li-2437"><a class="menuA level1 menuHidden" href="community/temple_by_design.php" target="_self">Temple By Design</a></li>
 			<li class="menuLI level1 menuHidden li-1183"><a class="menuA level1 menuHidden" href="departments/city_departments/animal_services/adoption.php" target="_self">Adopt a Pet</a></li>
 			<li class="menuLI level1 menuHidden li-1184"><a class="menuA level1 menuHidden" href="calendar.php" target="_self">Events Calendar</a></li>
+			<li class="menuLI level1 menuHidden li-2488 children"><a class="menuA level1 menuHidden" href="http://cms9.revize.com/revize/templetxparks/special_events/index.php" target="_new">Special Events</a>
+				<ul class="menuUL level2 menuHidden ul-2489">
+					<li class="menuLI level2 menuHidden li-2489"><a class="menuA level2 menuHidden" href="http://cms9.revize.com/revize/templetxparks/facilities___rentals/outdoor_event_application.php" target="_new">Outdoor Event Application</a></li>
+				</ul>
+			</li>
 			<li class="menuLI level1 menuHidden li-82 children"><a class="menuA level1 menuHidden" href="https://www.templeparks.com/" target="_new">Parks & Recreation</a>
 				<ul class="menuUL level2 menuHidden ul-83">
 					<li class="menuLI level2 menuHidden li-83"><a class="menuA level2 menuHidden" href="https://www.templeparks.com/parks___trails/parks/all_access_playground.php" target="_new">All Access Playground</a></li>
@@ -912,7 +916,7 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['banner_1']={field:'seq
 
      
 <h2>Newsletter Sign-Up</h2>
-<a href="newsletter/index.php" class="btn alert-signup">Sign Up!</a>
+<a href="http://eepurl.com/hfmqT1" class="btn alert-signup">Sign Up!</a>
  
 
 <!--Contact Area Starts-->                  

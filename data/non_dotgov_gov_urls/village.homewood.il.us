@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Homewood, IL', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Homewood, IL","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LfD_hgUAAAAAHPhLzmYTQReOp5mspjlIxKQ1y-H"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ilk1dHMxeDQ4ODcvMmRQcmt0d2h2ZEE9PSJ9.PcuNI57W2fs3Z9e7qYkmafVvV9I5-XvKjxlk_hsOS5Ju9YeIKkKROrLfZe1S9GNkZSOoHTzDuJ6m7RLwnttFOLvKJTD_jXtD.WIVZJItdzyHtc-NZPyzomA.eq7S0672nbz1jn6jchCxMEKpeoO4s6uSUSneVv5ukzHjvg2qDtkSZEAW6Jlh8QxIcApxRxj_zr0IejdbyJsdocnkoUJZnLOFY-XZekDShqx42ZIxlbVYOCKdKMCwUzgMCQs7-QO8v0oiIbxFe95HCRq2ufWRYYNF40Xy5eEDOwKT1vePd5Mntq4jYFb8aHvm54tGhyo8ElZwtWMp8FuV5nJwSWT5dizWHeAlAZF8CkA.aC_WMg32Cjov-Ji_m0vzt6W5nAuk6M5RKeApvyByeJk";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Homewood, IL', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:false, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Homewood, IL","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6Ii9IaW5xRXJZOHhuOEUzL0tramphaFE9PSJ9.mK80doNX2MRo6moN1myZyR-B60wFq3E15Zo4cfOJ2nTDNwCxmVLwM4sLnMPX1iar7P7-8fEluUPqKqayzZ9jZt6Srlw_6yB4.emT4Q7I8YQPSmmPtEuW9vA.r846ZjuEQfPbTFLWijJZhsaiItgytbk4dw8y5AHwqCN4b3ka4bspOYlBtYApp-3nMkKCgUpEltbz8lVkTp2uv1Uc-Di43mWMzfmtUu_3NrjZxHn030gCQ_2buwD5K3V36QkO1WYPGlZrvNCOA6uwIl-RSwe7Zn-rHhNbmWhzUdVWvyo6mN2Y2YvCUZJFVnzsjL8_GPRi4f9KDCkDtt8arhLW6tJfersLKDKbTfh3RZ4.Lq5P0JcqBRMjz3vBDkW56p_Hqguz5w-ICg-hqfU7cFM";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -148,7 +148,7 @@
     })(window, angular);
 </script>
     
-    <script src="/Scripts/frontendCoreBundle.jsbnd?v=9WJe86WS0Lx1FvpIFcUM13y3sMmE_Klcvlh8dCOTlBY1"></script>
+    <script src="/Scripts/frontendCoreBundle.jsbnd?v=g3jftjuIaNapQMXh3I_PO6AJVjcGUIHRrSkn_10w_j81"></script>
 
 
     
@@ -710,7 +710,7 @@ $(function () {
 <ul class="slides clearfix">
 		<li>
 <a href='/exploration-events/events/haunted-homewood' target="_self" title="">
-    <img src="/Home/ShowPublishedImage/2115" alt="HauntedHomewood WEB">
+    <img src="/Home/ShowPublishedImage/2115/637366263269700000" alt="HauntedHomewood WEB">
 </a>
 </li>
 </ul>
@@ -747,7 +747,7 @@ $(function () {
 <noscript>
 	
 <a href='/exploration-events/events/haunted-homewood' target="_self" title="">
-    <img src="/Home/ShowPublishedImage/2115" alt="HauntedHomewood WEB">
+    <img src="/Home/ShowPublishedImage/2115/637366263269700000" alt="HauntedHomewood WEB">
 </a>
 
 </noscript>
@@ -848,9 +848,20 @@ $(function () {
 	      
 
 <li class="hasimage">
+	<a href="/Home/Components/News/News/84/92" class="news-item">
+	    <div class="image_frame">
+    			<img alt="Voter Registration Information and Locations" src="/Home/ShowPublishedImage/2125/637381782399900000"/>
+		</div>
+		<div class="item_info">
+            <p class="box_item_title">Voter Registration Information and Locations</p>
+            <p class="box_item_summary"></p>
+        </div>
+    </a>
+</li>
+<li class="hasimage">
 	<a href="/Home/Components/News/News/82/92" class="news-item">
 	    <div class="image_frame">
-    			<img alt="2020 Trick-or-Treating Guidelines" src="/Home/ShowPublishedImage/2119"/>
+    			<img alt="2020 Trick-or-Treating Guidelines" src="/Home/ShowPublishedImage/2119/637368955468130000"/>
 		</div>
 		<div class="item_info">
             <p class="box_item_title">2020 Trick-or-Treating Guidelines</p>
@@ -866,17 +877,6 @@ $(function () {
 		<div class="item_info">
             <p class="box_item_title">New Water Supplier and Transmission Line for Homewood</p>
             <p class="box_item_summary"></p>
-        </div>
-    </a>
-</li>
-<li class="hasimage">
-	<a href="/Home/Components/News/News/68/92" class="news-item">
-	    <div class="image_frame">
-    			<img alt="COVID-19 Resources" src="/Home/ShowPublishedImage/433/637238628542870000"/>
-		</div>
-		<div class="item_info">
-            <p class="box_item_title">COVID-19 Resources</p>
-            <p class="box_item_summary">Resources are available to assist those in Illinois impacted by COVID-19.</p>
         </div>
     </a>
 </li>
@@ -910,7 +910,7 @@ $(function () {
 <div class="calendar calendar_mini_grid calendar-mini-grid-title" >
     <table class="calendar_title" >
         
-        <caption class="wcag_only">Calendar Grid 341095</caption>
+        <caption class="wcag_only">Calendar Grid 471203</caption>
         
         <tbody>
             <tr>
@@ -935,7 +935,7 @@ $(function () {
 
 <table class="calendar calendar_mini_grid calendar-mini-grid-grid" >    
     
-    <caption class="wcag_only">Calendar Grid 341095</caption>
+    <caption class="wcag_only">Calendar Grid 471203</caption>
     
     <tbody>        
         <tr>
@@ -1054,7 +1054,7 @@ $(function () {
                     
                 </td>
                 
-                <td class="calendar_today calendar_day_with_items" style="width: 14%;">
+                <td class="calendar_weekendday calendar_day_with_items" style="width: 14%;">
                     <a href="/exploration-events/about-homewood/custom-news-calendar/-curdate-10-10-2020">10</a>                        
                     <div class="calendar_items"><div class="calendar_item"><span class="calendar_eventtime">8:00 AM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/313/19?backlist=%2f" title="Homewood Farmers&#39; Market">Homewood Farmers&#39; Market</a></div></div>
                     
@@ -1094,13 +1094,13 @@ $(function () {
                     
                 </td>
                 
-                <td class="calendar_day " style="width: 14%;">
+                <td class="calendar_day calendar_day_with_items" style="width: 14%;">
                     <a href="/exploration-events/about-homewood/custom-news-calendar/-curdate-10-16-2020">16</a>                        
-                    
+                    <div class="calendar_items"><div class="calendar_item"><span class="calendar_eventtime">4:15 PM</span><a class="calendar_eventlink" href="/Home/Components/Calendar/Event/344/19?backlist=%2f" title="Homewood Police Pension Fund - Special Meeting">Homewood Police Pension Fund - Special Meeting</a></div></div>
                     
                 </td>
                 
-                <td class="calendar_weekendday " style="width: 14%;">
+                <td class="calendar_today " style="width: 14%;">
                     <a href="/exploration-events/about-homewood/custom-news-calendar/-curdate-10-17-2020">17</a>                        
                     
                     
@@ -1242,23 +1242,10 @@ $(function () {
 
 
 <li class="events-list-item">
-    <a href="/Home/Components/Calendar/Event/313/19" class="event-item">
+    <a href="/Home/Components/Calendar/Event/80/19" class="event-item">
         <div class="datebox">
             <div class="datebox-month">Oct</div>
-            <div class="datebox-number">10</div>
-        </div>
-        <div class="item_info">
-            <p class="box_item_title">Homewood Farmers&#39; Market</p>
-            <p class="box_item_summary">08:00 AM - 01:00 PM</p>
-        </div>
-    </a>
-</li>
-
-<li class="events-list-item">
-    <a href="/Home/Components/Calendar/Event/81/19" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Oct</div>
-            <div class="datebox-number">13</div>
+            <div class="datebox-number">27</div>
         </div>
         <div class="item_info">
             <p class="box_item_title">Village Board Meeting</p>
@@ -1268,10 +1255,23 @@ $(function () {
 </li>
 
 <li class="events-list-item">
-    <a href="/Home/Components/Calendar/Event/80/19" class="event-item">
+    <a href="/Home/Components/Calendar/Event/79/19" class="event-item">
         <div class="datebox">
-            <div class="datebox-month">Oct</div>
-            <div class="datebox-number">27</div>
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">10</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Village Board Meeting</p>
+            <p class="box_item_summary">07:00 PM</p>
+        </div>
+    </a>
+</li>
+
+<li class="events-list-item">
+    <a href="/Home/Components/Calendar/Event/78/19" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">24</div>
         </div>
         <div class="item_info">
             <p class="box_item_title">Village Board Meeting</p>
