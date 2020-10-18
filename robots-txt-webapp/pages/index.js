@@ -1,4 +1,7 @@
 import Head from 'next/head'
+import { Button, Col, Input, Layout, Row } from 'antd';
+
+const { Header, Footer, Content } = Layout;
 
 export default function Home() {
   return (
@@ -9,9 +12,20 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">
-          Hellllllllo from <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <Header>
+          <h2 style={{ color: 'grey' }}>robots are fun</h2>
+        </Header>
+        <Content>
+          <Row>
+            <Col span={8}></Col>
+            <Col span={8}>
+              <Input placeholder="Search across a bunch of robots.txt"></Input>
+            </Col>
+            <Col span={8}></Col>
+          </Row>
+        </Content>
+        {/* <Footer>do i need a footer</Footer> */}
+
       </main>
     </div>
   )
