@@ -1,41 +1,72 @@
 import Head from 'next/head'
 import React, { Component } from 'react';
 import { Col, Input, Layout, Row, Table } from 'antd';
+import { groupBy } from 'lodash';
 
 const { Header, Footer, Content } = Layout;
 const { Search } = Input;
+
+function waybackMachineUrl(hostName, url) {
+  // TODO - fix for prefixes
+  return `https://web.archive.org/web/*/${hostName}${url}`;
+}
+
+
+class MatchesForOneSiteComponent extends Component {
+  constructor(props) {
+    super(props);
+  }
+
+  render() {
+    return (
+      <div>
+        {this.props.siteAndMatches.rows.map((oneRow, i) => {
+          return (
+            <div className="ruleRow" id={`${oneRow.domain}${i}`}>
+              <div>{oneRow.rule}</div>
+              <div className="externalLinks">
+                  <span><a target="_blank" href={`https://${oneRow.domain}/${oneRow.rule}`}>Live version</a>, </span>
+                  <span><a target="_blank" href={waybackMachineUrl(oneRow.domain, oneRow.rule)}>Internet archive</a></span>
+              </div>
+              
+            </div>
+          );
+        })}
+      </div>
+    )
+  }
+}
 
 export default class Home extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      searchColumns: [
+      groupedSearchColumns: [
         {
           title: 'Site',
-          dataIndex: 'domain',
-        },
-        {
-          title: 'User Agent',
-          dataIndex: 'user_agent',
-        },
-        {
-          title: 'Rule',
-          dataIndex: 'rule',
-        },
-        {
-          title: 'Links',
-          dataIndex: 'links',
-          render: (linkObj, record) => (
+          dataIndex: 'siteName',
+          key: 'siteName',
+          render: (site, record) => (
             <div>
-              {/* TODO - add external link icons */}
-              <p><a target="_blank" href={linkObj.liveLink}>Live version</a></p>
-              <p><a target="_blank" href={linkObj.archiveLink}>Wayback version</a></p>
+              <div>{site}</div>
+              <div style={{ fontSize: 10 }}>(see <a target="_blank" href={`https://${site}/robots.txt`}>live robots.txt</a>)</div>
             </div>
           )
         },
+        {
+          title: 'Matches',
+          dataIndex: 'rows',
+          key: 'row',
+          render: (rows, record) => (
+            <div>
+              {rows.length} matches
+            </div>
+          )
+        }
       ],
       searchText: null,
       searchResults: null,
+      groupedBySite: null,
     };
 
     this.handleSearch = this.handleSearch.bind(this);
@@ -62,13 +93,19 @@ export default class Home extends Component {
             const splitRule = row.rule.split(':');
             const url = splitRule[1].trim();
             liveLink = `https://${row.domain}${url}`;
-            archiveLink = `https://web.archive.org/web/*/${row.domain}${url}`;
+            archiveLink = waybackMachineUrl(row.domain, url);
           }
           return {...row, links: {liveLink, archiveLink} };
         })
 
+        const grouped = groupBy(rowsWithLinks, row => row.domain);
+        const groupedBySite = Object.entries(grouped).map(([siteName, rows]) => {
+          return { siteName, rows }
+        });
+
         this.setState({
-          searchResults: rowsWithLinks
+          searchResults: rowsWithLinks,
+          groupedSearchResults: groupedBySite,
         });
       })
       .catch((error) => {
@@ -104,9 +141,14 @@ export default class Home extends Component {
               <Col span={2} />
               <Col span={20}>
                 <Table
-                  dataSource={this.state.searchResults}
-                  columns={this.state.searchColumns}
+                  dataSource={this.state.groupedSearchResults}
+                  columns={this.state.groupedSearchColumns}
                   pagination={ {defaultPageSize: 50} }
+                  expandable={{
+                    expandedRowRender: record => { return <MatchesForOneSiteComponent siteAndMatches={record} />} ,
+                    rowExpandable: record => true
+                  }}
+                  rowKey={record => record.siteName}
                 />
               </Col>
               <Col span={2} />
