@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /cdn-cgi/
+Got an HTML response

@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"KmcSF0r_b5Fxly1CADsrEw5hF3tqMlOFK3dsOuMP9ggdJzOX_1175xIIiLK7IfUlvb4Eh1Wxlpjn1gR3GiYVpV3PvFQ1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"jLN-Z_itNRz9cEYcKuKa6uGFwy9Nm0PHnOtIEv8lua61oG62xC59V6sPHd2yQ0mXfQiFhDY2RW3TxZMorAR6IbBKynk1\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/2127638488.css" rel="stylesheet" type="text/css" />	<link href="/1482070526.css" rel="stylesheet" type="text/css" />
+	<link href="/-490537382.css" rel="stylesheet" type="text/css" />	<link href="/1482070526.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -1075,19 +1075,18 @@ text-transform: uppercase;}
 	
 	<div class="inner col col17 first last id7a7c1972-b861-4cb4-82b6-2f21231112a3" style="" data-widgetcontainerid="7a7c1972-b861-4cb4-82b6-2f21231112a3">	
 
-	<div id="divTabbedb8adcba6-ab6b-45f1-94fc-a246ca732117" class="widget widgetTabbed  wide  leftTabs" data-widgetid="b8adcba6-ab6b-45f1-94fc-a246ca732117">
-		<div class="widget skin56">
-			<ol class="tabbedWidget cpTabs left " style="width: 275px; ">
-				<!--
-						--><li class="active">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Calendar" contenteditable="false">Calendar</span></a>
+	<div id="divTabbedb8adcba6-ab6b-45f1-94fc-a246ca732117" class="widget widgetTabbed  wide skin56  leftTabs" data-widgetid="b8adcba6-ab6b-45f1-94fc-a246ca732117">
+		<ol class="tabbedWidget cpTabs left " style="width: 275px; ">
+			<!--
+					--><li class="active">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Calendar" contenteditable="false">Calendar</span></a>
 </li><!--
-						--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Facebook Feed" contenteditable="false">Facebook Feed</span></a>
+					--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Facebook Feed" contenteditable="false">Facebook Feed</span></a>
 </li><!--
-						--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_2" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="2" data-tabname="Recent News" contenteditable="false">Recent News</span></a>
+					--><li class="">	<a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_2" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="2" data-tabname="Recent News" contenteditable="false">Recent News</span></a>
 </li><!--
-							-->
-			</ol>
-		</div>
+					-->
+		</ol>
+
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
 						<li class="active"><a href="#tabb8adcba6-ab6b-45f1-94fc-a246ca732117_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Calendar</a></li>
@@ -1214,7 +1213,7 @@ Sa
 <td>
 <span>15</span>
 </td>
-<td class="today">
+<td>
 <span>16</span>
 </td>
 <td>
@@ -1225,7 +1224,7 @@ Sa
 <span>18</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=19&amp;CID=35,47,43,49,14,25,26,30,22,60'>19</a>
+<span>19</span>
 </td>
 <td>
 <span>20</span>
@@ -1234,10 +1233,10 @@ Sa
 <span>21</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=22&amp;CID=35,47,43,49,14,25,26,30,22,60'>22</a>
+<span>22</span>
 </td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=23&amp;CID=35,47,43,49,14,25,26,30,22,60'>23</a>
+<td class="today">
+<span>23</span>
 </td>
 <td>
 <span>24</span>
@@ -1250,7 +1249,7 @@ Sa
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=26&amp;CID=35,47,43,49,14,25,26,30,22,60'>26</a>
 </td>
 <td>
-<span>27</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=27&amp;CID=35,47,43,49,14,25,26,30,22,60'>27</a>
 </td>
 <td>
 <a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=28&amp;CID=35,47,43,49,14,25,26,30,22,60'>28</a>
@@ -1287,73 +1286,73 @@ Sa
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Oct. 19  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=561">Community Services Board Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Oct. 22  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=883">Joint Education Committee Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Thu Oct. 22  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=879">Broadband Committee Meeting</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
-			<h4 class="widgetTitle">Fri Oct. 23  </h4>
-			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=961">Vote By Mail - Last Day to Request a Ballot</a></strong>
-
-		</div>
-				</li>
-
-
-
-
-
-
-
-
-
-<li class="widgetItem " >
 			<h4 class="widgetTitle">Mon Oct. 26  </h4>
 			<div style="" class="widgetDesc">
 					<strong><a href="/Calendar.aspx?EID=912">Parks and Recreation Advisory Commission</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Tue Oct. 27  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=971">Citizen Information Meeting</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Wed Oct. 28  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=827">Board of Supervisors Meeting</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Sat Oct. 31  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=959">Early Voting - Saturday Hours (last day for early voting other than emergency-only ballet)</a></strong>
+
+		</div>
+				</li>
+
+
+
+
+
+
+
+
+
+<li class="widgetItem " >
+			<h4 class="widgetTitle">Mon Nov. 2  </h4>
+			<div style="" class="widgetDesc">
+					<strong><a href="/Calendar.aspx?EID=962">Emergency-only Ballot Voting Cut-off</a></strong>
 
 		</div>
 				</li>
@@ -1420,6 +1419,62 @@ Sa
 		<ol class="semanticList cpSlider">
 						<li class="widgetItem" data-index="0">
 						<div class="text">
+								<h4 id="newsFlashItemHeader426" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=426">Housing and food resources available for Hanover residents through partnership with United Way </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn426" href="/CivicAlerts.aspx?AID=426" class="readOn" aria-labelledby="newsFlashItemHeader426 newsFlashReadOn426">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="1">
+						<div class="text">
+								<h4 id="newsFlashItemHeader425" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=425">Master Gardeners training application deadline is October 30 </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn425" href="/CivicAlerts.aspx?AID=425" class="readOn" aria-labelledby="newsFlashItemHeader425 newsFlashReadOn425">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="2">
+						<div class="text">
+								<h4 id="newsFlashItemHeader424" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=424">Animal Control to hold rabies vaccination clinic on October 31 </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn424" href="/CivicAlerts.aspx?AID=424" class="readOn" aria-labelledby="newsFlashItemHeader424 newsFlashReadOn424">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="3">
+								<a href="/CivicAlerts.aspx?AID=423"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=5263" alt="Fields Building official ribboncutting" data-delayed-image="" /></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader423" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=423">Martha Ann Fields Building dedicated </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn423" href="/CivicAlerts.aspx?AID=423" class="readOn" aria-labelledby="newsFlashItemHeader423 newsFlashReadOn423">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="4">
+						<div class="text">
+								<h4 id="newsFlashItemHeader422" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=422">Voting Center at Hanover Courthouse open on upcoming Saturdays for early voting </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn422" href="/CivicAlerts.aspx?AID=422" class="readOn" aria-labelledby="newsFlashItemHeader422 newsFlashReadOn422">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="5">
+						<div class="text">
 								<h4 id="newsFlashItemHeader421" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=421">October 27 Citizen Information Meeting on Pole Green Road Widening Project </a>
 	</h4>
@@ -1429,7 +1484,7 @@ Sa
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="1">
+						<li class="widgetItem" data-index="6">
 						<div class="text">
 								<h4 id="newsFlashItemHeader411" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=411">Voting Information for 2020 Election </a>
@@ -1440,7 +1495,7 @@ Sa
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="2">
+						<li class="widgetItem" data-index="7">
 						<div class="text">
 								<h4 id="newsFlashItemHeader420" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=420">Things you can do in everyday life to protect the Chesapeake Bay </a>
@@ -1451,7 +1506,7 @@ Sa
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="3">
+						<li class="widgetItem" data-index="8">
 						<div class="text">
 								<h4 id="newsFlashItemHeader419" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=419">Libraries provide free lock and talk supplies to patrons </a>
@@ -1462,7 +1517,7 @@ Sa
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="4">
+						<li class="widgetItem" data-index="9">
 						<div class="text">
 								<h4 id="newsFlashItemHeader418" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=418">Hanover joins with United Way to provide direct assistance to those in need </a>
@@ -1473,7 +1528,7 @@ CARES Act Basic Needs Grant Funds available through end of this year						<a id=
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="5">
+						<li class="widgetItem" data-index="10">
 						<div class="text">
 								<h4 id="newsFlashItemHeader417" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=417">Hanover CSB Same Day Access program connects residents with services </a>
@@ -1484,7 +1539,7 @@ CARES Act Basic Needs Grant Funds available through end of this year						<a id=
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="6">
+						<li class="widgetItem" data-index="11">
 						<div class="text">
 								<h4 id="newsFlashItemHeader416" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=416">Hanover County assists 58 businesses with Small Business Resiliency Grant </a>
@@ -1495,7 +1550,7 @@ CARES Act Basic Needs Grant Funds available through end of this year						<a id=
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="7">
+						<li class="widgetItem" data-index="12">
 						<div class="text">
 								<h4 id="newsFlashItemHeader405" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=405">Governor announces launch of COVIDWISE exposure app </a>
@@ -1506,7 +1561,7 @@ CARES Act Basic Needs Grant Funds available through end of this year						<a id=
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="8">
+						<li class="widgetItem" data-index="13">
 						<div class="text">
 								<h4 id="newsFlashItemHeader393" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=393">Know Your Rights and Resources </a>
@@ -2154,7 +2209,7 @@ CARES Act Basic Needs Grant Funds available through end of this year						<a id=
 
 
 
-	<script src="/-215325131.js" type="text/javascript"></script>
+	<script src="/666676381.js" type="text/javascript"></script>
 	<!-- Piwik --> <script type="text/javascript">   var _paq = _paq || [];   _paq.push(['trackPageView']);   _paq.push(['enableLinkTracking']);   $(window).load(function(){     var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.civicplus.com/";     _paq.push(['setTrackerUrl', u+'piwik.php']);     _paq.push(['setSiteId', 4695]);     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';     g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);   }); </script> <noscript><p><img src="http://analytics.civicplus.com/piwik.php?idsite=4695" style="border:0;" alt="Piwik" /></p></noscript> <!-- End Piwik Code -->
 
 

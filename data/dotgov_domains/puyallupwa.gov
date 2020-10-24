@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"e-WUSwM7eqIHDe9MmpVf8HME44tH-_1b-fyv5h0OFRo1_cFUG8o0pilZtaMmk7PHCTYluK99k1f2PnslgCyeoeh9T5M1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"37XmxfJlLNHTzWKb8r_jv3ckpuhEbExvGKcJtOBDAch4iWdsFyTGlaydXebMX75dtb1jyBc-9HbtLW-kJ2g8ORtCsso1\" />");
 						}
 					}
 				}, false);
@@ -75,7 +75,9 @@
 	</script>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	
+	<meta name="apple-itunes-app" content="app-id=1188083795" />
+<link rel="manifest" href="/manifest/client">
+
 	<meta name="theme-color" content="#264b5b">
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
@@ -93,7 +95,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/725661219.css" rel="stylesheet" type="text/css" />	<link href="/-549901594.css" rel="stylesheet" type="text/css" />
+	<link href="/901781768.css" rel="stylesheet" type="text/css" />	<link href="/-1174323188.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -968,17 +970,16 @@
 	
 	<div class="inner col col15 first last id94b76b65-79d6-4a55-83ac-247cefcb8c79" style="" data-widgetcontainerid="94b76b65-79d6-4a55-83ac-247cefcb8c79">	
 
-	<div id="divTabbed04c95760-8fa1-41a6-8243-b6c1fb0bd396" class="widget widgetTabbed  wide  " data-widgetid="04c95760-8fa1-41a6-8243-b6c1fb0bd396">
-		<div class="widget skin57">
-			<ol class="tabbedWidget cpTabs  " style=" ">
-				<!--
-						--><li style="width: 48%;" class="active">	<a href="#tab04c95760-8fa1-41a6-8243-b6c1fb0bd396_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Latest News" contenteditable="false">Latest News</span></a>
+	<div id="divTabbed04c95760-8fa1-41a6-8243-b6c1fb0bd396" class="widget widgetTabbed  wide skin57  " data-widgetid="04c95760-8fa1-41a6-8243-b6c1fb0bd396">
+		<ol class="tabbedWidget cpTabs  " style=" ">
+			<!--
+					--><li style="width: 48%;" class="active">	<a href="#tab04c95760-8fa1-41a6-8243-b6c1fb0bd396_0" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="0" data-tabname="Latest News" contenteditable="false">Latest News</span></a>
 </li><!--
-						--><li style="width: 48%;" class="">	<a href="#tab04c95760-8fa1-41a6-8243-b6c1fb0bd396_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Calendars" contenteditable="false">Calendars</span></a>
+					--><li style="width: 48%;" class="">	<a href="#tab04c95760-8fa1-41a6-8243-b6c1fb0bd396_1" onkeypress="this.onclick();" onclick="window.setTimeout(function(){reinitCarousels();},2);sizeTabbedContent(this);"><span class="tabName editable" data-sequence="1" data-tabname="Calendars" contenteditable="false">Calendars</span></a>
 </li><!--
-							-->
-			</ol>
-		</div>
+					-->
+		</ol>
+
 		<div class="cpTabPanels">
 					<ol class="tabbedWidgetNarrow cpTabs" style='display: none;'>
 						<li class="active"><a href="#tab04c95760-8fa1-41a6-8243-b6c1fb0bd396_0" onclick="window.setTimeout(function () { reinitCarousels(); }, 2);sizeTabbedContent(this);">Latest News</a></li>
@@ -1005,30 +1006,30 @@
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
+			<li class="widgetItem" data-news-i-d="1002">
+
+					<h4 id="newsFlashItemHeader1002" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1002">Upcoming public hearings </a></h4>
+<div class="widgetDesc">
+The Puyallup City Council will hold two public hearings on Tuesday, November 10th . . .				<a href="/CivicAlerts.aspx?AID=1002" id="newsFlashReadOn1002" aria-labelledby="newsFlashItemHeader1002 newsFlashReadOn1002" class="readOn">Read on...</a>
+</div>
+
+			</li>
+			<li class="widgetItem" data-news-i-d="1001">
+
+					<h4 id="newsFlashItemHeader1001" class="widgetTitle">
+	<a href="https://www.co.pierce.wa.us/outdoorwarning">Lahar Warning Siren System Change </a></h4>
+<div class="widgetDesc">
+Starting in November, the lahar warning sirens will wail only in an emergency.				<a href="https://www.co.pierce.wa.us/outdoorwarning" id="newsFlashReadOn1001" aria-labelledby="newsFlashItemHeader1001 newsFlashReadOn1001" class="readOn">Read on...</a>
+</div>
+
+			</li>
 			<li class="widgetItem" data-news-i-d="980">
 
 					<h4 id="newsFlashItemHeader980" class="widgetTitle">
 	<a href="/CivicAlerts.aspx?AID=980">Rent and Mortgage Assistance Offered in Puyallup </a></h4>
 <div class="widgetDesc">
 The Puyallup City Council has allocated $100,000 of federal CARES Act funds for emergency relief grants for residential housing assistance.				<a href="/CivicAlerts.aspx?AID=980" id="newsFlashReadOn980" aria-labelledby="newsFlashItemHeader980 newsFlashReadOn980" class="readOn">Read on...</a>
-</div>
-
-			</li>
-			<li class="widgetItem" data-news-i-d="959">
-
-					<h4 id="newsFlashItemHeader959" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=959">Styrofoam Recycling + Document Shredding Offered on Oct. 10th </a></h4>
-<div class="widgetDesc">
-Puyallup will offer document shredding and Styrofoam recycling from 10 to 2 on Saturday, October 10th				<a href="/CivicAlerts.aspx?AID=959" id="newsFlashReadOn959" aria-labelledby="newsFlashItemHeader959 newsFlashReadOn959" class="readOn">Read on...</a>
-</div>
-
-			</li>
-			<li class="widgetItem" data-news-i-d="985">
-
-					<h4 id="newsFlashItemHeader985" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=985">Puyallup City Council Approves Additional $150,000 to Help Small Businesses </a></h4>
-<div class="widgetDesc">
-Puyallup City Council has authorized an additional $150,000 of federal CARES Act funds for emergency relief grants to help small businesses				<a href="/CivicAlerts.aspx?AID=985" id="newsFlashReadOn985" aria-labelledby="newsFlashItemHeader985 newsFlashReadOn985" class="readOn">Read on...</a>
 </div>
 
 			</li>
@@ -1179,7 +1180,7 @@ Sat
 <td>
 <span>15</span>
 </td>
-<td class="today">
+<td>
 <span>16</span>
 </td>
 <td>
@@ -1190,19 +1191,19 @@ Sat
 <span>18</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=19&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>19</a>
+<span>19</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=20&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>20</a>
+<span>20</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=21&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>21</a>
+<span>21</span>
 </td>
 <td>
 <span>22</span>
 </td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=23&amp;CID=14,31,24,32,33,35,34,36,38,37,30,28'>23</a>
+<td class="today">
+<span>23</span>
 </td>
 <td>
 <span>24</span>
@@ -1252,9 +1253,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Oct. 19  </h4>
+			<h4 class="widgetTitle">Mon Oct. 26  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3384">Virtual Book Club (via Zoom)</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3385">Virtual Book Club (via Zoom)</a></strong>
 
 		</div>
 				</li>
@@ -1268,9 +1269,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Oct. 19  </h4>
+			<h4 class="widgetTitle">Tue Oct. 27  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=999">Library Board meeting (meetings will occur on Zoom)</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3374">Paint Night with Pinot&#39;s Palette</a></strong>
 
 		</div>
 				</li>
@@ -1284,9 +1285,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon Oct. 19  </h4>
+			<h4 class="widgetTitle">Tue Oct. 27  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3063">Civil Service Commission/Cancelled</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3143">City Council Regular Meeting</a></strong>
 
 		</div>
 				</li>
@@ -1888,7 +1889,7 @@ Open Monday - Friday: 8 am - 5 pm&nbsp;<br><br></span>
 
 
 
-	<script src="/1363479596.js" type="text/javascript"></script>
+	<script src="/1118233115.js" type="text/javascript"></script>
 	<!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];

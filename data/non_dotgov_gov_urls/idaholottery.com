@@ -337,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="header__bar">
 		<div class="container-fluid">
 			<strong class="money">
-				<sup>$</sup>927,492,858
+				<sup>$</sup>961,464,572
 			</strong>
 
 			<span>returned to Idaho since 1989!</span>
@@ -521,8 +521,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="dropdown__col">
 				<div class="dropdown__callout">
 									
-						<a href="https://vip.idaholottery.com">
-							<img src="https://www.idaholottery.com/images/uploads/general-images/IDL-LOP-Multiplier-220x272-0805.jpg" alt="Idaho Parks" height="250px">
+						<a href="https://www.idaholottery.com/games/raffle/idaho-1000000-raffle-2020">
+							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-1000.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
 						</a><!-- menu-ads -->
 				</div><!-- /.dropdown__callout -->
 			</div><!-- /.dropdown__col -->
@@ -774,7 +774,7 @@ Guidance Documents</a>
 	<div class="mobile-nav__patern" style="background-image: url(https://www.idaholottery.com/assets/images/patern.png);"></div><!-- /.mobile-nav__patern -->
 
 	<div class="mobile-nav__bar">
-		<strong>$927,492,858</strong>
+		<strong>$961,464,572</strong>
 		<p>returned to Idaho since 1989!</p>
 
 		<a href="#" class="mobile-nav__close">
@@ -964,8 +964,8 @@ Guidance Documents</a>
 					<div class="dropdown__col">
 						<div class="dropdown__callout">
 											
-						<a href="https://vip.idaholottery.com">
-							<img src="https://www.idaholottery.com/images/uploads/general-images/IDL-LOP-Multiplier-220x272-0805.jpg" alt="Idaho Parks" height="250px">
+						<a href="https://www.idaholottery.com/games/raffle/idaho-1000000-raffle-2020">
+							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-1000.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
 						</a><!-- menu-ads -->
 						</div><!-- /.dropdown__callout -->
 					</div><!-- /.dropdown__col -->
@@ -1167,9 +1167,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="tfXleG4LDFzK63gYRrlIMAUAIN82sPCSu8VFwSU61yrPl+NEi1Q1na/JmBi4KEbDSg2IBn/9c6DMoLEyzdcLvvzf/gfivSiBnJzaeDgKDsww000ovCEmmwfmt4AhvdO8bU3i86a6QwKWlfJfCgSG0Sc3i7SV2N5+sCrmKjgG+nlMsvp41OwGLbszhQSR3XqN/2BPAoPk0aFpC4IFPQjQb+qvfuMXt5GaPKsuV/qntBVQtmUsxcLhFAqzvEIMit+RgjCSPfwiZZCL+M59P5JkIpYuQH7Sns/HkTjhPjxAldnitZPcAIy4NgZtMfC/XJSKqhkSnMHq59qlgVLLQInXI+mnXj8XGcyrEY5eqTxU3yaAAVFocg++vYVpb5QtcKpKMlu90Tv3Ba/h98nwfaSPm0t/330RE/CBsQEjNC6p1Qlz0cp6iQ64tUB31goW7qZsGR80HOpNeIoRkIws6CMkDA==" />
+<input type="hidden" name="meta" value="9qoSqEZCr4ymjznK4j+sB+q4VihVV4sp+GXLlPijGxOjB1Oz0PdgSj4NV7hDXm1zwQzxH6IQxmhOljktfSMmCbllhAT+KpgL0w4DCPTfKBMGewio78Dv92MTJtDR3mXqAIFSY6XcBeMvEBZsrSiI2dt+HuBLK6NHlGUFN1mT5Mcb5bmhI9imVsdremt2K9OGy969zpmGf1hUAf++/IgKGfV4A5jXEOVWfExAtYSVCwgsEpjoCkr4RwEh0Xmgfp9wT2JQtxORuXmg/jbTlUKTUFT0+SJbCq+uM8YT+JQf29/C/0W6BMkiGJqfAks2VTu/ffGlUjlcWgWkN0vjuu2h1ZcBKENwx80TxJg2K32XMNB0WVoyraELmWxgbcrpF/QhLaxWPWxcddHsChvFAgaPtCYY0atLXXupnHq+oicVSxJ78l0dMuAAIfvaJJ5lCaSqnIE++ezV8EJem0zccP9jIA==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="a5fbb9de7d9fd25620e93a610f4788f850d3f1b4" />
+<input type="hidden" name="csrf_token" value="2f02ecd0069e8f6861ea876976460f99db65a224" />
 </div>
 
 
@@ -1224,9 +1224,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="3CCXRV/bURAu/BMtjo+dAral2xolsQ79nYHEtNXx4gJXNfw8Z3h8Hey1N00W4HqjAcw5AOZtD99WC8Rz7Eh57j2xs8yp08QN/MLia1WJAPzWXlsigz2BT0+hBv2wCxMYPJbWMNRLSUli+Hnew1ilED11qmj1PmYNL/eKsHAz6NOg8k5C/06oip66HpmrVCWXBfFJ8TNDTATGzVv54rgHKIddpHLi8LVCBNS69pUq0K5nIU6l5ETx9o00+3rW/QTQ5WM8+OjFMUwQqvzdbkIuvB2KwUmhcVud/7II8ydvGsCB9IwQMtZI+DgyR0fm6bkR5CEG/VTFU0Dkc8X7Ac3oChaTsWYxDCmNRXfdMxHOUHqPKBFhCIL8z+j95XJ86Dq2vRmzIfeNG85GOHHgUeICaMKiSjy7wJev9hlo7NsTGcl7wUqdIxS/9rnDstSajQTrfWntH651NCT75zW/fZrRWg==" />
+<input type="hidden" name="meta" value="66dByk4szI1t44N5LKPzlh6BVqE+2S8dwtg+A4nhpM65rHw/Jz4v+JINVr4JuCDfDjKho8+poOpF4Irxy/Lo/f6CptOnI9KRln029MEnTQj7qlCX7Aa5RZX/CMRB7q1rWCFLGcy1SvWM0aY9Jvo4+Q0o3h3/yp4Zf+jAjP7VfXPjMjjZCGRLFNCQ7ISrcaJFHTufmrHFNc+Ajhm484p6N81oA42ZIXofysKDmg+xBBYsLgC3nSjCnmplyWZ3J3sNGNywUj/RcutunC04uwkPaPZVSJBBiuI/QCIOZ83BfslY2F0KjTfjTLLEw+c8GLWzM2BjwjdsuUZVKE5x1Z324XU7n2ayERZYqqgp74aoXB8fX87c8825szoxLoBqaQuwMPRDQUYx1cxEy10nrgC0L6msN014OwpfsSBnb6QctHTf15eYJeWpWSOuA6oQDQejz6u14WiRP8nCidAb7p/xrw==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="a5fbb9de7d9fd25620e93a610f4788f850d3f1b4" />
+<input type="hidden" name="csrf_token" value="2f02ecd0069e8f6861ea876976460f99db65a224" />
 </div>
 
 

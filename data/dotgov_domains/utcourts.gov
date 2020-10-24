@@ -1,0 +1,231 @@
+#Allow local search engine
+User-agent: htdig
+User-agent: gsa-crawler
+Disallow:
+
+User-agent: *
+Disallow: *prod-slc-ocap01*
+Disallow: *ocapserv*
+Disallow: /*?site=*
+Disallow: /courts/appell/
+Disallow: /c_srch/
+Disallow: /mobile.asp
+Disallow: /opinions_test/
+Disallow: /opinions/*.pdf$
+Disallow: /OPINIONS/*.pdf$
+Disallow: /opinions/supopin/
+Disallow: /opinions/appopin/
+Disallow: /opinions/mds/
+Disallow: /opinions/juv/
+Disallow: /OPINIONS/supopin/
+Disallow: /OPINIONS/appopin/
+Disallow: /OPINIONS/mds/
+Disallow: /OPINIONS/juv/
+Disallow: /cgi-bin/
+Disallow: /cgi-bin_unused/
+Disallow: /education/clkwkbk/
+Disallow: /newjudgeorientation/
+Disallow: /courts/dist/uce/
+Disallow: /intranet/
+Disallow: /diglawlib/
+Disallow: /courts/dist/distsites/6th/forms/
+Disallow: /js/
+Disallow: /mt/
+Disallow: /images/
+Disallow: /records/monthlyreports/
+Disallow: /courtmeasures/
+Disallow: /courts/sup/streams/
+Disallow: /courts/appell/streams/
+Disallow: /courts/digitalmedia/
+Disallow: /courts/just/conferences/
+Disallow: /video/
+Disallow: /courts/juv/judges/
+Disallow: /dcctr/
+Disallow: /courts/dist/dcctr/
+Disallow: /secure/
+Disallow: /CT2/
+Disallow: /directory/Instruction_videos/
+Disallow: /courtools_old/
+Disallow: /DocManager/
+Disallow: /index2.html
+Disallow: /courts/just/gcorders/
+Disallow: /msg_bds/
+Disallow: /coris/
+Disallow: /admin/jobs/archive/
+Disallow: /admin/jobs/OTF/archive/
+Disallow: /bulletin/
+Disallow: /courts/just/justiceanswers/
+Disallow: /resources/forms/development/
+Disallow: /ocap/GetQuestions
+Disallow: /ocap/PrintServlet
+Disallow: /ocap/Interview
+Disallow: /records/weeklyreports/show.asp
+Disallow: /searchit/
+Disallow: /media/
+Disallow: /nxt/
+Disallow: /AccountingManual/
+Disallow: /nxt/gateway.dll/Accounting%20Manual/revision_notes.htm?f=templates$fn=default.htm
+Disallow: /nxt/gateway.dll/Accounting Manual/revision_notes.htm?f=templates$fn=default.htm
+Disallow: /resources/rules/comments/
+Disallow: /resources/rules/approved/
+Disallow: /courts/training/
+Disallow: /courts/training
+Disallow: /ocapadmin/
+Disallow: /pubbb/
+Disallow: /records/ivr.htm
+Disallow: /courts/just/audit/
+Disallow: /adrexam/
+Disallow: /lawlibrary/blog/
+Disallow: */search/*
+##########################
+# Start notices archive
+##########################
+Disallow: /utc/notices/wp-content/
+Disallow: /utc/notices/category/
+Disallow: /utc/notices/2010/
+Disallow: /utc/notices/2011/
+Disallow: /utc/notices/2012/
+Disallow: /utc/notices/2013/
+Disallow: /utc/notices/2014/
+Disallow: /utc/notices/2015/
+Disallow: /utc/notices/2016/
+Disallow: /utc/notices/2017/
+Disallow: /utc/notices/2018/
+Disallow: /utc/notices/2019/
+Disallow: /utc/notices/2020/
+Disallow: /utc/notices/2021/
+Disallow: /utc/notices/2022/
+Disallow: /utc/notices/2023/
+Disallow: /utc/notices/2024/
+Disallow: /utc/notices/2025/
+Disallow: /utc/notices/2026/
+Disallow: /utc/notices/2027/
+Disallow: /utc/notices/2028/
+Disallow: /utc/notices/2029/
+Disallow: /utc/notices/2030/
+Disallow: /utc/notices/2031/
+Disallow: /utc/notices/2032/
+Disallow: /utc/notices/2033/
+Disallow: /utc/notices/2034/
+Disallow: /utc/notices/2035/
+##########################
+# End notices archive
+##########################
+##########################
+# Start stats archive
+##########################
+Disallow: /stats/files/1997FY/
+Disallow: /stats/files/1998FY/
+Disallow: /stats/files/1999FY/
+Disallow: /stats/files/2000FY/
+Disallow: /stats/files/2001FY/
+Disallow: /stats/files/2002FY/
+Disallow: /stats/files/2003FY/
+Disallow: /stats/files/2004FY/
+Disallow: /stats/files/2005FY/
+Disallow: /stats/files/2005CY/
+Disallow: /stats/files/2006FY/
+Disallow: /stats/files/2007FY/
+Disallow: /stats/files/2008FY/
+Disallow: /stats/files/2009FY/
+Disallow: /stats/files/2010FY/
+Disallow: /stats/files/2011FY/
+Disallow: /stats/files/2012FY/
+Disallow: /stats/files/2013FY/
+Disallow: /stats/files/2014FY/
+Disallow: /stats/files/2015FY/
+Disallow: /stats/files/2016FY/
+Disallow: /stats/files/2017FY/
+Disallow: /stats/files/2018FY/
+Disallow: /stats/files/2019FY/
+Disallow: /stats/files/2020FY/
+Disallow: /stats/files/2021FY/
+Disallow: /stats/files/2022FY/
+Disallow: /stats/files/2023FY/
+Disallow: /stats/files/2024FY/
+Disallow: /stats/files/2025FY/
+Disallow: /stats/files/2026FY/
+Disallow: /stats/files/2027FY/
+Disallow: /stats/files/2028FY/
+Disallow: /stats/files/2029FY/
+Disallow: /stats/files/2030FY/
+Disallow: /stats/files/2031FY/
+Disallow: /stats/files/2032FY/
+Disallow: /stats/files/2033FY/
+Disallow: /stats/files/2034FY/
+Disallow: /stats/files/2035FY/
+##########################
+# End stats archive
+##########################
+##########################
+# Start cleanup of random folders
+##########################
+Disallow: /C/
+Disallow: /2013%20MaryAnn%20Test/
+Disallow: /NXTApplets/
+Disallow: /%20http:/
+Disallow: /TRAINING/
+Disallow: /conferences/
+Disallow: /courts/just/conferences/
+Disallow: /email/
+Disallow: /justiceservlet/
+Disallow: /ondemand/
+Disallow: /transcripts_admin/
+Disallow: /vitalrecords/
+Disallow: /%20guardiansandconservators
+Disallow: /NXTApplets
+Disallow: /annualreport
+Disallow: /caretraining
+Disallow: /chfam.
+Disallow: /faq_page.htm
+Disallow: /jobs
+Disallow: /knowctsjudsel.htm
+Disallow: /mobile.asp
+Disallow: /ors_mission.htm
+Disallow: /resources.html
+Disallow: /courts/dist/conferences/
+Disallow: /courts/juv/conferences/
+Disallow: /courts/just/conferences/
+Disallow: /resources/forms/expung/
+Disallow: /resources/reports/psa/docs/
+Disallow: /resources/reports/psa/dmf/docs/
+##########################
+# End cleanup of random folders
+##########################
+##########################
+# Cleanup of old MT3 Notices and current notices
+##########################
+Disallow: /utc/notices/
+Disallow: /notices/newsite.html
+Disallow: /notices/courts/beaver/
+Disallow: /notices/courts/boxelder/
+Disallow: /notices/courts/cache/
+Disallow: /notices/courts/carbon/
+Disallow: /notices/courts/daggett/
+Disallow: /notices/courts/davis/
+Disallow: /notices/courts/duchesne/
+Disallow: /notices/courts/emery/
+Disallow: /notices/courts/garfield/
+Disallow: /notices/courts/grand/
+Disallow: /notices/courts/iron/
+Disallow: /notices/courts/juab/
+Disallow: /notices/courts/kane/
+Disallow: /notices/courts/millard/
+Disallow: /notices/courts/morgan/
+Disallow: /notices/courts/piute/
+Disallow: /notices/courts/rich/
+Disallow: /notices/courts/saltlake/
+Disallow: /notices/courts/sanjuan/
+Disallow: /notices/courts/sanpete/
+Disallow: /notices/courts/sevier/
+Disallow: /notices/courts/summit/
+Disallow: /notices/courts/tooele/
+Disallow: /notices/courts/uintah/
+Disallow: /notices/courts/utah/
+Disallow: /notices/courts/wasatch/
+Disallow: /notices/courts/washington/
+Disallow: /notices/courts/wayne/
+Disallow: /notices/courts/weber/
+##########################
+# End Cleanup of old MT3 Notices
+##########################

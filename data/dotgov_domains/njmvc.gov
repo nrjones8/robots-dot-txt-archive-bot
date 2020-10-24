@@ -203,16 +203,16 @@ $("#myModal").modal('show');
 
             <div class="jumbotron">
                 <div class="container">
-                    <h1 class=" nj-header-h2 display-4">
+                   <!-- <h1 class=" nj-header-h2 display-4">
                         Hello.<br>
-                    </h1>
+                    </h1>-->
                     <h2 class="nj-header-h2">
-                    Welcome to the Official <br>
-                     Website of the New Jersey Motor Vehicle Commission</h2>
-                    <div class="col-lg-7 col-md-6 col-xs-12">
+                   Welcome to NJMVC.GOV! <br>
+                    </h2>
+                    <!--<div class="col-lg-7 col-md-6 col-xs-12">
                       <h3 class="logo-green uppercase font-mb">How May We help you today?</h3>
                       <p class="font-regular">You can begin by exploring our most popular services below, or by using our search feature to help get what you need. </p>
-                    </div>
+                    </div>-->
                     <h2 class="nj-header-h2">&nbsp;</h2>
                 </div>
             </div>
@@ -236,8 +236,8 @@ $("#myModal").modal('show');
                     </div>
                 </div>
             </div>
-            <div class="container">
-<div class="bs-example">
+<div class="container">
+<!--<div class="bs-example">
     <div id="myModal" class="modal fade" tabindex="-1">
        
         <div class="modal-dialog modal-lg modal-notify modal-info modal-dialog-centered" role="document">
@@ -273,44 +273,32 @@ $("#myModal").modal('show');
             </div>
         </div>
     </div>
-</div>
-<h4><strong> NJMVC is experiencing unprecedented volume. <font color="red">For latest updates, check our Frequently Asked Questions for your topic: </font></strong></a></h4>
-    <ul>
+</div>-->
+<h4><strong> Quick Links for Up-to-Date Information: </strong></a></h4>
+  <ul>
+    <li><a href="locations/facilitystatus.htm">Check Status by Location</a></li>
       <li><a href="pdf/about/Online_FAQ.pdf">Online Services</a> [pdf]</li>
-        <li><a href="pdf/about/CDL_Extension_FAQ.pdf">Extensions and CDLs</a> [pdf]</li>
-        <li><a href="pdf/about/AGENCIES_FAQ.pdf">Going to a Licensing or Vehicle Center</a> [pdf]</li>
-        <li><a href="pdf/about/Suspensions_FAQ.pdf">Suspensions</a> [pdf]</li>
-    </ul>
+      <li><a href="pdf/about/AGENCIES_FAQ.pdf">Going to a Licensing or Vehicle Center</a> [pdf]</li>
+      <li><a href="pdf/about/CDL_Extension_FAQ.pdf">Extensions and CDLs</a> [pdf]</li>
+      <li><a href="drivertopics/movetonj.htm">Out of State Transfers</a></li>
+    <li><a href="vehicles/reginitial.htm">Vehicle Registration</a></li>
+      <li><a href="pdf/about/Suspensions_FAQ.pdf">Suspensions</a> [pdf]</li>
+  </ul>
      
-       <!--<div class="alerta-primary" role="alertdialog">
+  <!--<div class="alerta-primary" role="alertdialog">
           <button type="button" class="close" data-dismiss="alerta" aria-hidden="true">
           ×</button>
             <h3>&nbsp; </h3>
             <h3>Most expiration dates have been extended to at least Sept 30, and many processes at MVC Licensing Centers and Vehicle Centers have changed. See <a href="pdf/about/FREQUENTLY_ASKED_QUESTIONS.pdf">FAQ</a> for more.</h3>
             <h5>&nbsp;</h5>  
 </div>-->
-<div class="alert alert-danger alert-dismissable" role="alert">
-  	<p><strong>RUNNEMEDE VEHICLE CENTER </strong> is  closed and will reopen on Monday, October 26 due to an employee testing positive for  COVID-19.</p>
-  	<p><strong>DELANCO LICENSING CENTER</strong>  is  closed and will reopen on Saturday, October 24 due to an employee testing positive for  COVID-19.</p>
-<p><strong>EATONTOWN REGIONAL/LICENSING CENTER </strong>  is  closed and will reopen on until Saturday, October 24 due to an employee testing positive for  COVID-19.</p>
-  	<p><strong>EATONTOWN ROAD TEST OPERATIONS</strong> are in a separate  facility and will remain open for appointments.</p>
-<p><strong>NORTH BERGEN LICENSING CENTER</strong>  is  closed and will reopen on Tuesday, October 20 due to an employee testing positive for  COVID-19.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<!--<div class="alert alert-danger alert-dismissable" role="alert">
+  	
 <button type="button" class="btn btn-danger" data-dismiss="alert" aria-hidden="true">
     Close Alert</button>
-</div>
+</div>-->
     
-<div class="alert alert-warning alert-dismissable" role="alert">
-    <p></p>
-    <p></p>
-    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">
-          ×</button>
-<div class="resp-container">
-<iframe class="resp-iframe" src="locations/agency.htm"  style="border:none;" title="Agency"></iframe>
-</div>
-<button type="button" class="btn btn-warning" data-dismiss="alert" aria-hidden="true">
-Close Alert</button>
-</div>
+
 </div>       
             
 <!--<div class="image">
@@ -336,7 +324,7 @@ Close Alert</button>
                                 <div class="d-flex justify-content-center mb-3">
                                     <img class="card-img-top img-fluid" alt="License" src="2019-update/img/icons/SVG/license.svg">
                                 </div>
-                                <h5 class="card-title text-center logo-green">Help With My Driver License or ID Card</h5>
+                                <h5 class="card-title text-center logo-green">Driver License or ID Card</h5>
 
                                 <div class="d-flex justify-content-center">
                                     <a href="" class="btn text-white text-uppercase hiddenmobile">VIEW DETAILS <i
@@ -385,7 +373,7 @@ Close Alert</button>
                                 <div class="d-flex justify-content-center mb-3">
                                     <img class="card-img-top img-fluid" alt="Vehicles" src="2019-update/img/icons/SVG/Asset 1.svg">
                                 </div>
-                                <h5 class="card-title text-center logo-green">Help With My Vehicle</h5>
+                                <h5 class="card-title text-center logo-green">Vehicle/Registration Services</h5>
                                 <div class="d-flex justify-content-center">
                                     <a href="" class="btn text-white text-uppercase hiddenmobile">VIEW DETAILS <i
                     class="fas fa-long-arrow-alt-right"></i></a>
@@ -441,20 +429,58 @@ Close Alert</button>
                 </div>
                 <div class="row">
                     <div class="col-sm">
-                        <div class="card">
-                            <a href="facilities-location.html" aria-label="Facility locations">
-                                <div class="card-body">
-                                    <div class="d-flex justify-content-center mb-3">
-                                        <img class="card-img-top img-fluid" alt="Agency Locations" src="2019-update/img/icons/SVG/car-search.svg">
-                                    </div>
-                                    <h5 class="card-title text-center logo-green">Agency Locations</h5>
-
-                                    <div class="d-flex justify-content-center">
-                                        <a href="/mvc/facilities-location.html" class="btn text-white text-uppercase">VIEW DETAILS <i
-                      class="fas fa-long-arrow-alt-right"></i></a>
-                                    </div>
+                         <div class="card">
+                            <div class="card-body front">
+                                <div class="d-flex justify-content-center mb-3">
+                                    <img class="card-img-top img-fluid" alt="Schedule" src="2019-update/img/icons/SVG/calendar.svg">
                                 </div>
-                            </a>
+                                <h5 class="card-title text-center logo-green">Schedule an Appointment</h5>
+
+                                <div class="d-flex justify-content-center">
+                                    <a href="" class="btn text-white text-uppercase hiddenmobile">VIEW DETAILS <i
+                    class="fas fa-long-arrow-alt-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="card-back">
+                                <ul class="pl-3 mt-5 d-flex flex-column align-items-center">
+                                    <li>
+                                        <a href="https://telegov.njportal.com/njmvc ">
+                                            <p class="quicklinks-link">CDL Renewal<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://telegov.njportal.com/njmvc ">
+                                            <p class="quicklinks-link">Out of State License Transfer<i class="fas fa-long-arrow-alt-right  ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://telegov.njportal.com/njmvc ">
+                                            <p class="quicklinks-link">New Title or Registration<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://telegov.njportal.com/njmvc ">
+                                            <p class="quicklinks-link">Sr. (65 & older) New Title or Reg.<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://mymvc.state.nj.us/knowledgetest-scheduling-system/">
+                                            <p class="quicklinks-link">Knowledge Test<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>
+                                <!--<li>
+                                        <a href="https://www27.state.nj.us/tc/driverlogin.do?url=njmvcdtclient ">
+                                            <p class="quicklinks-link">Road Test<i class="fas fa-long-arrow-alt-right ml-2"></i>
+                                            </p>
+                                        </a>
+                                    </li>-->
+                                </ul>
+                            </div>
                         </div>
                     </div>
                     <div class="col-sm">
@@ -464,7 +490,7 @@ Close Alert</button>
                                     <div class="d-flex justify-content-center mb-3">
                                         <img class="card-img-top img-fluid" alt="Change Address" src="2019-update/img/icons/SVG/location.svg">
                                     </div>
-                                    <h5 class="card-title text-center logo-green">Change My Address</h5>
+                                    <h5 class="card-title text-center logo-green"> Address or Name Change</h5>
                                     <div class="d-flex justify-content-center">
                                         <a href="/mvc/drivertopics/addchange.htm" class="btn text-white text-uppercase">VIEW DETAILS <i
                       class="fas fa-long-arrow-alt-right"></i></a>
@@ -744,7 +770,7 @@ Close Alert</button>
             </footer>
             </div>
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=56714425"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=5&cb=413739621"></script>
 </body>
 
 </html>

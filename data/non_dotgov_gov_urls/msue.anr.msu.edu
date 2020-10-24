@@ -197,7 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<option value="Article,DigitalDocument" >Articles</option>
 					<option value="Course" >Courses</option>
 	                <option value="calendarEvent"  >Events</option>
-					<option value="Course,VideoObject" >Online Learning</option>
+					<option value="Course,VideoObject" >Classes</option>
 	                <option value="Person" >People</option>
 	                <option value="AudioObject" >Podcasts</option>
 					<option value="Product" >Products</option>
@@ -666,13 +666,14 @@ if (latLong.value) {
     ga('send', 'pageview');
   </script>
 
-    <script>gtag('set', {
-    'content_group5':'none'
-      });</script>
-  
-<script>
-  gtag('config', 'UA-23758824-47', {'cookie_domain': 'msu.edu', 'content_group1':"College of Agriculture & Natural Resources"});
-</script>
+  <script>
+    gtag('set', {
+          'content_group5':'none',
+              'dimension8':'none',
+        });
+
+    gtag('config', 'UA-23758824-47', {'cookie_domain': 'msu.edu', 'content_group1':"College of Agriculture & Natural Resources"});
+  </script>
 
 <script type="text/javascript">
 /*<![CDATA[*/

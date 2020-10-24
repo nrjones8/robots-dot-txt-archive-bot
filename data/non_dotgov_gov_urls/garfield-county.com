@@ -22,7 +22,7 @@
 <table class="property-table overflow-break-all line-height-16">
 <tr>
 <td>Your IP:</td>
-<td><span>104.43.133.205</span></td>
+<td><span>52.255.183.61</span></td>
 </tr>
 <tr><td>URL:</td>
 <td><span>www.garfield-county.com/</span></td>
@@ -40,11 +40,11 @@
 </tr>
 <tr>
 <td>Time:</td>
-<td><span>2020-09-11 10:39:46</span></td>
+<td><span>2020-10-24 00:35:21</span></td>
 </tr>
 <tr>
 <td>Server ID:</td>
-<td><span>20006</span></td></tr>
+<td><span>17006</span></td></tr>
 </table>
 </div>
 </section>

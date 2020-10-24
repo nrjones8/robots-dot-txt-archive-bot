@@ -314,12 +314,14 @@ html { letter-spacing: 0.01em; }
 </div>
 <div id="sitewide-alerts">
   <style>
-    @import url("/css/sitewide.css");
+    @import url("/css/sitewide.css?v=99845595");
   </style>
   
-  <div class="sitewide-alert danger">
+  
+
+<div class="com-alert com-alert-danger">
   <div class="alert-content text-center">
-    <h2 class="heading">Coronavirus (COVID-19)</h2>
+    <h2 class="alert-heading">Coronavirus (COVID-19)</h2>
     <ul class="list-inline">
       <li><a href="https://www.cityofmadison.com/coronavirus">City Services</a></li>
 	    <li><a href="https://www.publichealthmdc.com/coronavirus">Public Health</a></li>

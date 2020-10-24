@@ -32,9 +32,9 @@
     };
     powerbi.telemetrySamplingRules = { appInsights: [{ purpose: "CriticalError", sampleRate: 1 },{ purpose: "CustomerAction", sampleRate: 1 },{ purpose: "Verbose", sampleRate: 1 }], perf: [{ purpose: "CriticalError", sampleRate: 1 },{ purpose: "CustomerAction", sampleRate: 1 },{ purpose: "Verbose", sampleRate: 1 }] };
 
-    powerbi.build = '13.0.14437.79';
-    powerbi.buildDetails = '13.0.14437.79';
-    powerbi.clientVersion = '2009.4.03166-train';
+    powerbi.build = '13.0.14487.72';
+    powerbi.buildDetails = '13.0.14487.72';
+    powerbi.clientVersion = '2010.1.03355-train';
     powerbi.common = {};
     powerbi.common.cultureInfo = 'en-US';
     powerbi.common.unmappedCultureInfo = '';
@@ -52,7 +52,7 @@
     var allowTelemetry = true;
     var appInsightsV2InstrKey = '8adeeaf0-ca71-ff43-a91e-7afbce21a5f2';
     var appInsightsV2EndpointUrl = 'https://dc.applicationinsights.us/v2/track';
-    var telemetrySessionId =  '2eba534c-0fe0-4abe-898f-8a6961d3ee04';
+    var telemetrySessionId =  '26772994-a27b-42f8-97a9-9121ce1867f4';
     var embeddedWebContentIframeSource = 'https://app.pbiwebcontent.us/webcontentsandbox.html';
     var supportedSaasMarketplaceRedirects = 'https://local.spza.microsoft-int.com;https://appsource.microsoft.com;https://appgallery.spza-staging.net;https://appgallery.spza-internal.net';
     var saasMarketplaceUrlOrigin = 'https://appsource.microsoft.com';
@@ -72,17 +72,17 @@
     var premCapacityMetricsAppAdminUrl = 'https://app.powerbigov.us/groups/me/getapps/services/capacitymetrics?getDataForceConnect=true&amp;noSignUpCheck=1';
 </script>
         
-    <link rel="stylesheet" href="13.0.14437.79/styles/styleLibrary.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/powerbi.common.externals.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/powerbi.web.externals.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/InfoNav.Common.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/powerBICommon.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/powerBIProvidersCommon.min.css"/>
+    <link rel="stylesheet" href="13.0.14487.72/styles/styleLibrary.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/powerbi.common.externals.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/powerbi.web.externals.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/InfoNav.Common.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/powerBICommon.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/powerBIProvidersCommon.min.css"/>
 
-    <link rel="stylesheet" href="13.0.14437.79/styles/powerbi.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/explorationContainer.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/visuals.min.css"/>
-<link rel="stylesheet" href="13.0.14437.79/styles/powerBIProvidersCommon.min.css"/>
+    <link rel="stylesheet" href="13.0.14487.72/styles/powerbi.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/explorationContainer.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/visuals.min.css"/>
+<link rel="stylesheet" href="13.0.14487.72/styles/powerBIProvidersCommon.min.css"/>
 
 
     </head>
@@ -102,12 +102,12 @@
     <div class="contentMain error">
         <div class="owlContainer">
             <div class="contentErrorImage">
-                <img src="13.0.14437.79/images/errors/owl_searching.png" />
+                <img src="13.0.14487.72/images/errors/owl_searching.png" />
             </div>
             <div class="contentErrorText">We couldn't find the page you were looking for.</div>
             <div class="contentErrorDescription">TECHNICAL DETAILS <br/>An unknown error occurred. If you continue to see this error, please provide the following information when requesting support.</div>
-            <div class="contentErrorItemText">Date and Time: 2020-10-17 05:55:51Z</div>
-            <div class="contentErrorItemText">ActivityId: 2eba534c-0fe0-4abe-898f-8a6961d3ee04</div>
+            <div class="contentErrorItemText">Date and Time: 2020-10-24 05:56:02Z</div>
+            <div class="contentErrorItemText">ActivityId: 26772994-a27b-42f8-97a9-9121ce1867f4</div>
             <div class="continueLink">
                 <a class="continueLinkText" target="_blank" href=/>Go back home</a>
             </div>
@@ -116,9 +116,9 @@
 </div>
 
     
-    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['polyfills.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/polyfills.min.js"></script>
+    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['polyfills.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/polyfills.min.js"></script>
 <script type="text/javascript">this.parseTimeMarkers['polyfills.min.js'].end = Date.now();</script>
-    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['lodash.bundle.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/lodash.bundle.min.js"></script>
+    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['lodash.bundle.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/lodash.bundle.min.js"></script>
 <script type="text/javascript">this.parseTimeMarkers['lodash.bundle.min.js'].end = Date.now();</script>
         <script>
         // Implement enqueueCommand inline and defer localytics loading so page load is not blocked
@@ -126,19 +126,19 @@
         localytics = { enqueueCommand: function () { this.q.push(arguments); }, t: Number(new Date), q: [] };
     </script>
 <script> function cdnFallback(event) {var date = new Date(); var failedRequestUrl = 'unknown'; var maxAgeInSeconds = 8 * 60 * 60;if (event && event.currentTarget && event.currentTarget.src) {failedRequestUrl = event.currentTarget.src;}document.cookie = 'disablecdn=cdnRequestFailureTimestamp:' + date.toUTCString() + '-cdnRequestFailureUrl:' + failedRequestUrl + '; max-age=' + maxAgeInSeconds + '; secure';window.location.reload(true); }</script>
-<script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery.globalize/globalize.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/jquery.globalize/globalize.min.js" defer ></script>
-<script type="text/javascript">this.parseTimeMarkers['jquery.globalize/globalize.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery.globalize/globalize.culture.en-US.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/jquery.globalize/globalize.culture.en-US.js" defer ></script>
-<script type="text/javascript">this.parseTimeMarkers['jquery.globalize/globalize.culture.en-US.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jQuery.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/jQuery.min.js"></script>
-<script type="text/javascript">this.parseTimeMarkers['jQuery.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery-ui.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/jquery-ui.min.js"></script>
-<script type="text/javascript">this.parseTimeMarkers['jquery-ui.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['require.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/require.min.js"></script>
-<script type="text/javascript">this.parseTimeMarkers['require.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['visuals.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/visuals.min.js"></script>
-<script type="text/javascript">this.parseTimeMarkers['visuals.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['utility.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/utility.min.js"></script>
+<script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery.globalize/globalize.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/jquery.globalize/globalize.min.js" defer ></script>
+<script type="text/javascript">this.parseTimeMarkers['jquery.globalize/globalize.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery.globalize/globalize.culture.en-US.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/jquery.globalize/globalize.culture.en-US.js" defer ></script>
+<script type="text/javascript">this.parseTimeMarkers['jquery.globalize/globalize.culture.en-US.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jQuery.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/jQuery.min.js"></script>
+<script type="text/javascript">this.parseTimeMarkers['jQuery.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['jquery-ui.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/jquery-ui.min.js"></script>
+<script type="text/javascript">this.parseTimeMarkers['jquery-ui.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['require.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/require.min.js"></script>
+<script type="text/javascript">this.parseTimeMarkers['require.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['visuals.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/visuals.min.js"></script>
+<script type="text/javascript">this.parseTimeMarkers['visuals.min.js'].end = Date.now();</script><script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['utility.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/utility.min.js"></script>
 <script type="text/javascript">this.parseTimeMarkers['utility.min.js'].end = Date.now();</script>    <script>
 
         powerbi.common.localizedStrings = '';
     </script>
 
-    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['telemetry.bundle.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14437.79/scripts/telemetry.bundle.min.js"></script>
+    <script type="text/javascript">this.parseTimeMarkers = this.parseTimeMarkers || {};this.parseTimeMarkers['telemetry.bundle.min.js'] = { nominalStart: Date.now(), start: Date.now()};</script><script type="text/javascript" src="13.0.14487.72/scripts/telemetry.bundle.min.js"></script>
 <script type="text/javascript">this.parseTimeMarkers['telemetry.bundle.min.js'].end = Date.now();</script>
 
     <script>

@@ -1317,7 +1317,7 @@ a:hover {
 </div>
                             </div>
                             <div id="bottomcol2" class="noindex">
-                                <a href="/news/Lists/Posts/Post.aspx?ID=1364">​Wake Parks Staff Reveal Top Stops for Photo Ops</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1365">House Wake! Increases Financial Support for Residents and Landlords Facing Financial Difficulties</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1363">Wake County Drive-Thru COVID-19 Testing to Return Next Week with New Site in West Raleigh</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1362">Wake County Identifies COVID-19 Outbreak at Nursing and Rehabilitation Center in Raleigh</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1361">​Early Voting Starts Thursday at 20 Locations across Wake County</a><br /><br /><a style="display:block; text-align:right; font-size:12px;" href="/news/Lists/Categories/Category.aspx?CategoryId=5&Name=WakeGOV Home Page">View More...</a>
+                                <a href="/news/Lists/Posts/Post.aspx?ID=1371">Wake County to Continue Offering Free Drive-Thru COVID-19 Testing in Raleigh and Wake Forest</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1370">​Wake County Urges Residents to 'Take Your Shot' against the Flu</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1368">​New Tool Helps Early Voters in Wake County Avoid Long Wait Times</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1366">​Wake Librarians Offering One-on-One Coaching for Students</a><br /><br /><a href="/news/Lists/Posts/Post.aspx?ID=1364">​Wake Parks Staff Reveal Top Stops for Photo Ops</a><br /><br /><a style="display:block; text-align:right; font-size:12px;" href="/news/Lists/Categories/Category.aspx?CategoryId=5&Name=WakeGOV Home Page">View More...</a>
                             </div>
                             <div id="bottomcol3" class="noindex">
                                 <div style="height: 75px;"><a href="https://www.facebook.com/wakegov/"><img alt="Facebook" src="/SiteAssets/Lists/Footer%20Content/EditForm/Facebook-3.png" style="margin: 5px;"/></a><a href="https://twitter.com/wakegov"><img alt="Twitter" src="/SiteAssets/Lists/Footer%20Content/EditForm/Twitter-2.png" style="margin: 5px;"/></a><a href="https://www.instagram.com/wakegov/"><img alt="Instagram" src="/SiteAssets/Lists/Footer%20Content/EditForm/Instagram-2.png" style="margin: 5px;"/></a><a href="https://www.youtube.com/user/wakegov"><img alt="YouTube" src="/SiteAssets/Lists/Footer%20Content/EditForm/Youtube-2.png" style="margin: 5px;"/></a>&#160;<br/><br/><br/></div>
@@ -1563,4 +1563,4 @@ Sys.Application.add_init(function() {
 
 </body>
 </html>
-<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2020-10-17T01:39:02 -->
+<!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2020-10-24T01:40:33 -->

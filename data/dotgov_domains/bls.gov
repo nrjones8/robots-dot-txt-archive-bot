@@ -446,7 +446,7 @@ fsReady(function() {
 <!-- MAIN NAV END -->
 
 <!-- WRAPPER TOP BEGIN -->
-	<div id="wrapper-outer">
+	<div id="wrapper-outer" role="main">
 		<div id="wrapper">
 			<div id="container">
 <!-- WRAPPER TOP END -->
@@ -460,10 +460,9 @@ fsReady(function() {
 <h2 class="invisible">Home Content Sections</h2>
 <div id="homepage">
 <div id="left-side-content"><!-- Place announcements here --> <div class="highlight-box-red">
-<span class="heading">Announcements</span>
+<span class="heading">Announcement</span>
   <ul>
-    <li><a title="BLS is seeking nominations for our Technical Advisory Committee" aria-label="BLS is seeking nominations for our Technical Advisory Committee" href="https://www.federalregister.gov/documents/2020/09/18/2020-20604/technical-advisory-committee-request-for-nominations" target="_blank">BLS is seeking nominations for our Technical Advisory Committee</a></li>
-    <li>BLS COVID-19 Questions and Answers Updated October 15, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
+        <li>BLS COVID-19 Questions and Answers Updated October 20, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
 
   </ul>
 </div>	 <!-- End announcements here --> <div id="news-releases">
@@ -473,26 +472,26 @@ fsReady(function() {
 				<div class="nr-date-month">
 					Oct				</div>
 				<div class="nr-date-day">
-					16				</div>
+					20				</div>
 			</div>
 				<div class="nr-entry">
 			<h4>					
-											<a href="/news.release/wkyeng.nr0.htm" 
-				title = "Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020">
-				Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020						</a></h4>
+											<a href="/news.release/laus.nr0.htm" 
+				title = "Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3">
+				Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3						</a></h4>
 										<p>
-								Median weekly earnings of the nation's 109.7 million full-time wage and salary
-workers were $994 in the third quarter of 2020 (not seasonally adjusted). This
-was 8.2 percent higher than a year earlier, compared with a gain of 1.2 percent
-in the CPI-U.				</p>
+								In September, unemployment rates were lower in 30 states, higher in 8 states, and
+stable in 12 states and the District of Columbia. Nonfarm payroll employment increased
+in 30 states, decreased in 3 states, and was essentially unchanged in 17 states and
+the District.				</p>
 						<p>
-			<a class="blue-links" href="/news.release/wkyeng.nr0.htm" title="HTML version of Usual Weekly Earnings of Wage and Salary Workers News Release">
+			<a class="blue-links" href="/news.release/laus.nr0.htm" title="HTML version of State Employment and Unemployment (Monthly) News Release">
 			HTML</a> 
-			| <a class="blue-links" href="/news.release/pdf/wkyeng.pdf" title="PDF version of Usual Weekly Earnings of Wage and Salary Workers News Release" >
+			| <a class="blue-links" href="/news.release/pdf/laus.pdf" title="PDF version of State Employment and Unemployment (Monthly) News Release" >
 			PDF</a>
-			| <a class="blue-links" href="/feed/wkyeng.rss" title="Subscribe to the Usual Weekly Earnings of Wage and Salary Workers News Release Feed" >
+			| <a class="blue-links" href="/feed/laus.rss" title="Subscribe to the State Employment and Unemployment (Monthly) News Release Feed" >
 			RSS</a>
-							| <a class="blue-links" href="/charts/usual-weekly-earnings/" title = "Charts related to the latest Usual Weekly Earnings of Wage and Salary Workers News Release">
+							| <a class="blue-links" href="/charts/state-employment-and-unemployment/" title = "Charts related to the latest State Employment and Unemployment (Monthly) News Release">
 				Charts</a>
 									</p>
 		</div>
@@ -501,14 +500,23 @@ in the CPI-U.				</p>
 							<div id="nr-archive">	
 				<!-- BEGIN 2 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
+			10/16/2020		</span>
+		<h4>
+											<a href="/news.release/wkyeng.nr0.htm" 
+				title = "Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020">
+				Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
 			10/15/2020		</span>
 		<h4>
 											<a href="/news.release/ximpim.nr0.htm" 
 				title = "Import prices rise 0.3% in September despite lower fuel prices; export prices up 0.6%">
 				Import prices rise 0.3% in September despite lower fuel prices; export prices up 0.6%					</a></h4>
 		<div class="clearfloat"></div>	
-		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
+		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
 			10/14/2020		</span>
 		<h4>
@@ -516,23 +524,14 @@ in the CPI-U.				</p>
 				title = "PPI for final demand increases 0.4% in September; services and goods both rise 0.4%">
 				PPI for final demand increases 0.4% in September; services and goods both rise 0.4%					</a></h4>
 		<div class="clearfloat"></div>	
-		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
+		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
 			10/13/2020		</span>
 		<h4>
 											<a href="/news.release/cpi.nr0.htm" 
 				title = "CPI for all items rises 0.2% in September as used cars and trucks index increases">
 				CPI for all items rises 0.2% in September as used cars and trucks index increases					</a></h4>
-		<div class="clearfloat"></div>	
-		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
-		<span class="nr-archive-date">
-			10/13/2020		</span>
-		<h4>
-											<a href="/news.release/realer.nr0.htm" 
-				title = "Real average hourly earnings decrease 0.1% over the month in September">
-				Real average hourly earnings decrease 0.1% over the month in September					</a></h4>
 		<div class="clearfloat"></div>	
 		<!-- END 5 NEWS RELEASE ARCHIVE LIST-->
 				</div>
@@ -792,11 +791,11 @@ in the CPI-U.				</p>
 <div class="grid-box"><!-- BEGIN SLOT #01-->
 <h3><a title="The Economics Daily" class="tooltip-homepage" href="/opub/ted/" rel="A daily digest on the latest and most important labor market information available from the Bureau.">The Economics Daily &raquo;</a></h3>
 <!--Insert TED Headlines File here--> <ul class="grid-links">
-<li><a href="/opub/ted/2020/consumer-prices-up-1-point-4-percent-over-the-year-ending-september-2020.htm" title="Consumer prices, September 2020">Consumer prices, September 2020</a></li>
-<li><a href="/opub/ted/2020/impact-on-local-labor-markets-of-california-fires-in-2017-and-2018.htm" title="Impact of California fires on local jobs">Impact of California fires on local jobs</a></li>
-<li><a href="/opub/ted/2020/layoffs-and-discharges-in-small-medium-and-large-establishments.htm" title="Layoffs and discharges">Layoffs and discharges</a></li>
-<li><a href="/opub/ted/2020/hispanics-made-up-44-point-7-percent-of-the-labor-force-in-new-mexico-in-2019.htm" title="Hispanic employment in 2019">Hispanic employment in 2019</a></li>
-<li><a href="/opub/ted/2020/number-of-job-separations-decreased-to-4-point-6-million-in-august-2020.htm" title="Job separations, August 2020">Job separations, August 2020</a></li>
+<li><a href="/opub/ted/2020/employment-in-hawaii-down-18-point-4-percent-from-september-2019-to-september-2020.htm" title="State employment, Sep 2020">State employment, Sep 2020</a></li>
+<li><a href="/opub/ted/2020/women-had-median-weekly-earnings-of-902-in-third-quarter-2020-compared-with-1104-for-men.htm" title="Weekly earnings by sex, Q3 2020">Weekly earnings by sex, Q3 2020</a></li>
+<li><a href="/opub/ted/2020/u-s-import-prices-down-1-point-1-percent-from-september-2019-to-september-2020.htm" title="U.S. import prices, September 2020">U.S. import prices, September 2020</a></li>
+<li><a href="/opub/ted/2020/producer-prices-for-final-demand-up-0-4-percent-for-the-year-ended-in-september-2020.htm" title="PPI increases 0.4% in September 2020">PPI increases 0.4% in September 2020</a></li>
+<li><a href="/opub/ted/2020/real-average-hourly-earnings-increased-3-point-3-percent-from-september-2019-to-september-2020.htm" title="Real earnings, September 2020">Real earnings, September 2020</a></li>
 </ul> <!--End TED Headlines File here--><a title="Visit Editor's Desk page" class="read-more-link" aria-label="Visit Editor's Desk page" href="/opub/ted/">More Articles &raquo;</a></div>
 <!-- END SLOT #01-->
 <div class="grid-box"><!-- BEGIN SLOT #02-->
@@ -868,6 +867,28 @@ in the CPI-U.				</p>
     <div class="items">
      
 <div class="slideshow-item">
+<h3><a href="https://www.bls.gov/opub/btn/">BEYOND THE NUMBERS</a></h3>
+<a href="https://www.bls.gov/opub/btn/volume-9/the-effects-of-tarifff-rates-on-the-u-s-economy-what-the-producer-price-index-tells-us.htm">
+<img src="/home/feature/2020-10-22-effects-of-tariff-rates-on-us-economy.png" alt="Notebooks containing invoices and tariff rates on desk in office building" />
+</a>
+<h4><a href="https://www.bls.gov/opub/btn/volume-9/the-effects-of-tarifff-rates-on-the-u-s-economy-what-the-producer-price-index-tells-us.htm">Effects of tariff rates on the U.S. economy</a></h4>
+<p>This article examines the Producer Price Index and other data to understand tariff impacts on domestic manufacturing.	<span>
+		<a href="https://www.bls.gov/opub/btn/volume-9/the-effects-of-tarifff-rates-on-the-u-s-economy-what-the-producer-price-index-tells-us.htm" class="read-more-link" aria-label="Effects of tariff rates on the U.S. economy"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
+<h3><a href="https://blogs.bls.gov/blog/">COMMISSIONER’S CORNER</a></h3>
+<a href="https://blogs.bls.gov/blog/2020/10/20/celebrating-world-statistics-day-2020/">
+<img src="/home/feature/2020-10-20-world-statistics-day.png" alt="Image of World Statistics Day 2020 banner" />
+</a>
+<h4><a href="https://blogs.bls.gov/blog/2020/10/20/celebrating-world-statistics-day-2020/">Celebrating World Statistics Day 2020</a></h4>
+<p>We take time out on October 20, 2020, to recognize the importance of providing accurate, timely, and objective statistics.	<span>
+		<a href="https://blogs.bls.gov/blog/2020/10/20/celebrating-world-statistics-day-2020/" class="read-more-link" aria-label="Celebrating World Statistics Day 2020"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
 <h3><a href="https://www.bls.gov/opub/mlr/">MONTHLY LABOR REVIEW</a></h3>
 <a href="https://www.bls.gov/opub/mlr/2020/article/a-new-bls-satellite-series-of-net-inputs-to-industry-price-indexes.htm">
 <img src="/home/feature/2020-10-14-new-satellite-series-of-net-inputs-to-industry-price-indexes.png" alt="Featured article image; decorative" />
@@ -897,28 +918,6 @@ in the CPI-U.				</p>
 <h4><a href="https://www.bls.gov/opub/btn/volume-9/job-openings-and-labor-turnover-trends-for-msas.htm">Job openings and labor turnover trends for metro areas</a></h4>
 <p>This article examines job openings, hires, separations, labor churn, and unemployment in the 18 largest metropolitan areas.	<span>
 		<a href="https://www.bls.gov/opub/btn/volume-9/job-openings-and-labor-turnover-trends-for-msas.htm" class="read-more-link" aria-label="Job openings and labor turnover trends for metro areas"> read more &raquo; </a>
-	</span>
-</p>
-</div>
-<div class="slideshow-item">
-<h3><a href="https://www.bls.gov/opub/btn/">BEYOND THE NUMBERS</a></h3>
-<a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm">
-<img src="/home/feature/2020-09-08-receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.png" alt="Receipt and use of stimulus payments in the COVID-19 pandemic" />
-</a>
-<h4><a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm">Receipt and use of stimulus payments in the COVID-19 pandemic</a></h4>
-<p>This article looks at who received CARES Act stimulus payments and how they spent the money.	<span>
-		<a href="https://www.bls.gov/opub/btn/volume-9/receipt-and-use-of-stimulus-payments-in-the-time-of-the-covid-19-pandemic.htm" class="read-more-link" aria-label="Receipt and use of stimulus payments in the COVID-19 pandemic"> read more &raquo; </a>
-	</span>
-</p>
-</div>
-<div class="slideshow-item">
-<h3><a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">HURRICANE LAURA</a></h3>
-<a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">
-<img src="/home/feature/2020-08-26-hurricane-laura.png" alt="Image of Hurricane Laura approaching coastline" />
-</a>
-<h4><a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm">Employment, wages, and establishments in hurricane flood zones</a></h4>
-<p>Maps and data on employment, wages, and establishments in areas potentially affected by Hurricane Laura.	<span>
-		<a href="https://www.bls.gov/cew/publications/hurricane-flood-zones-maps/2020/laura/home.htm" class="read-more-link" aria-label="Employment, wages, and establishments in hurricane flood zones"> read more &raquo; </a>
 	</span>
 </p>
 </div>

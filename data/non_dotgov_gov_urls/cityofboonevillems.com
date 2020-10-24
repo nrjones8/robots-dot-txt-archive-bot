@@ -555,7 +555,6 @@
                 </label>
             </div>
             <div class="form-group">
-                <span class="important-red">*</span>
                 <b style="color:red; font-size:11px;" v-if="errors.comments">{{errors.comments}}</b>
                 <textarea class="form-control" rows="4" v-model="fields.comments"
                     name="comments" placeholder="Your Message"

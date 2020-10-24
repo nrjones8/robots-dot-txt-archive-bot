@@ -66,7 +66,7 @@
 <meta name="twitter:image" content="https://wadairy.org/wp-content/uploads/2017/07/about-us-story-1.jpg" />
 <meta name="twitter:creator" content="@wadairyfarmers" />
 <meta name="p:domain_verify" content="2a37ec494eb8d9c3571d843fecb48370" />
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://wadairy.org/#organization","name":"Dairy Farmers of Washington","url":"https://wadairy.org/","sameAs":["https://www.facebook.com/DairyFarmersofWashington/","https://www.instagram.com/wadairyfarmers/","https://www.youtube.com/channel/UCmoewhS4GtbzkM6aJ0fcZsw","https://twitter.com/wadairyfarmers"],"logo":{"@type":"ImageObject","@id":"https://wadairy.org/#logo","url":"https://wadairy.org/wp-content/uploads/2018/02/header_bg.png","width":75,"height":46,"caption":"Dairy Farmers of Washington"},"image":{"@id":"https://wadairy.org/#logo"}},{"@type":"WebSite","@id":"https://wadairy.org/#website","url":"https://wadairy.org/","name":"Washington Dairy","publisher":{"@id":"https://wadairy.org/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://wadairy.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://wadairy.org/#primaryimage","url":"https://wadairy.org/wp-content/uploads/2017/07/about-us-story-1.jpg","width":555,"height":605},{"@type":"WebPage","@id":"https://wadairy.org/#webpage","url":"https://wadairy.org/","inLanguage":"en-US","name":"Dairy Farmers of Washington - Washington Dairy","isPartOf":{"@id":"https://wadairy.org/#website"},"about":{"@id":"https://wadairy.org/#organization"},"primaryImageOfPage":{"@id":"https://wadairy.org/#primaryimage"},"datePublished":"2017-07-13T21:33:40+00:00","dateModified":"2020-09-10T19:05:06+00:00"}]}</script>
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://wadairy.org/#organization","name":"Dairy Farmers of Washington","url":"https://wadairy.org/","sameAs":["https://www.facebook.com/DairyFarmersofWashington/","https://www.instagram.com/wadairyfarmers/","https://www.youtube.com/channel/UCmoewhS4GtbzkM6aJ0fcZsw","https://twitter.com/wadairyfarmers"],"logo":{"@type":"ImageObject","@id":"https://wadairy.org/#logo","url":"https://wadairy.org/wp-content/uploads/2018/02/header_bg.png","width":75,"height":46,"caption":"Dairy Farmers of Washington"},"image":{"@id":"https://wadairy.org/#logo"}},{"@type":"WebSite","@id":"https://wadairy.org/#website","url":"https://wadairy.org/","name":"Washington Dairy","publisher":{"@id":"https://wadairy.org/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://wadairy.org/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://wadairy.org/#primaryimage","url":"https://wadairy.org/wp-content/uploads/2017/07/about-us-story-1.jpg","width":555,"height":605},{"@type":"WebPage","@id":"https://wadairy.org/#webpage","url":"https://wadairy.org/","inLanguage":"en-US","name":"Dairy Farmers of Washington - Washington Dairy","isPartOf":{"@id":"https://wadairy.org/#website"},"about":{"@id":"https://wadairy.org/#organization"},"primaryImageOfPage":{"@id":"https://wadairy.org/#primaryimage"},"datePublished":"2017-07-13T21:33:40+00:00","dateModified":"2020-10-21T23:26:05+00:00"}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
@@ -336,11 +336,11 @@ Closer than you think.</h3>
 
     <div class="col blue">
 
-			<div class="image"><img src="https://wadairy.org/wp-content/uploads/2020/09/Biscuit_header_1_round.png"></div>
+			<div class="image"><img src="https://wadairy.org/wp-content/uploads/2020/10/Gnocchi_header_1-round.png"></div>
 			<div class="content">
-				<h3>Kefir Biscuit Sandwiches with Cheddar-Pecan “Sausage”</h3>
-<p>Meatless Monday&#8217;s take on a whole new meaning with this flavorful meat-free alternative to your average breakfast sandwich.</p>
-<p><a class="button blue" href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">Get Recipe</a></p>
+				<h3 class="_3vbdr sc-dfVpRl jZZncJ"><span class="-KXLs">Creamy One-Pan Sausage and Pepper Gnocchi</span></h3>
+<p>This easy one-pan dish can be made in minutes but will have you going back for seconds!</p>
+<p><a class="button blue" href="https://wadairy.org/creamy-one-pan-sausage-and-pepper-gnocchi/">Get Recipe</a></p>
 			</div>
 
     </div>
@@ -367,18 +367,18 @@ Closer than you think.</h3>
 
 		
 			
-		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/chicken_header_1-300x300.jpg);">
+		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/10/Gnocchi_header_1-300x300.jpg);">
 		  <div class="content" style="color:#333">
-		    <h3><a href="https://wadairy.org/indian-butter-chicken-with-naan/">Indian Butter Chicken With Naan</a></h3>
-		    <p><a href="https://wadairy.org/indian-butter-chicken-with-naan/" class="button white">More</a></p>
+		    <h3><a href="https://wadairy.org/creamy-one-pan-sausage-and-pepper-gnocchi/">Creamy One-Pan Sausage and Pepper Gnocchi</a></h3>
+		    <p><a href="https://wadairy.org/creamy-one-pan-sausage-and-pepper-gnocchi/" class="button white">More</a></p>
 		  </div>
 		</div>
 		
 			
-		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/Biscuit_header_1-300x300.jpg);">
+		<div class="grid-item half" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/chicken_header_1-300x300.jpg);">
 		  <div class="content" style="color:#333">
-		    <h3><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">Kefir Biscuit Sandwiches with Cheddar-Pecan “Sausage”</a></h3>
-		    <p><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/" class="button white">More</a></p>
+		    <h3><a href="https://wadairy.org/indian-butter-chicken-with-naan/">Indian Butter Chicken With Naan</a></h3>
+		    <p><a href="https://wadairy.org/indian-butter-chicken-with-naan/" class="button white">More</a></p>
 		  </div>
 		</div>
 		
@@ -388,6 +388,19 @@ Closer than you think.</h3>
 
 	
   <div class="grid-item quarter light-blue">
+
+      <a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/09/Biscuit_header_1-1024x576.jpg);"></div></a>
+      <div class="content">
+        <div class="content-wrap">
+        <h2><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">Kefir Biscuit Sandwiches with Cheddar-Pecan “Sausage”</a></h2>
+        <p><a href="https://wadairy.org/kefir-biscuit-sandwiches-cheddar-pecan-sausage/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
+        </div>
+      </div>
+
+  </div>
+
+	
+  <div class="grid-item quarter pink">
 
       <a href="https://wadairy.org/healthy-benefits-of-refueling-with-chocolate-milk/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/WA_Dairy_Infographic_1-e1597868341926-1024x624.jpg);"></div></a>
       <div class="content">
@@ -400,7 +413,7 @@ Closer than you think.</h3>
   </div>
 
 	
-  <div class="grid-item quarter pink">
+  <div class="grid-item quarter blue">
 
       <a href="https://wadairy.org/refuel-with-milk/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/powerfullydelicious_4x6.jpg);"></div></a>
       <div class="content">
@@ -413,26 +426,13 @@ Closer than you think.</h3>
   </div>
 
 	
-  <div class="grid-item quarter blue">
+  <div class="grid-item quarter gold">
 
       <a href="https://wadairy.org/ube-bubble-tea/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/Ube_Header-1024x576.jpg);"></div></a>
       <div class="content">
         <div class="content-wrap">
         <h2><a href="https://wadairy.org/ube-bubble-tea/">Ube Bubble Tea</a></h2>
         <p><a href="https://wadairy.org/ube-bubble-tea/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
-        </div>
-      </div>
-
-  </div>
-
-	
-  <div class="grid-item quarter gold">
-
-      <a href="https://wadairy.org/grants-and-resources/"><div class="thumbnail" style="background-image:url(https://wadairy.org/wp-content/uploads/2020/08/DairyFarmersofWashington-982-400-no-grain-1024x523.jpg);"></div></a>
-      <div class="content">
-        <div class="content-wrap">
-        <h2><a href="https://wadairy.org/grants-and-resources/">Grants and Other Opportunities</a></h2>
-        <p><a href="https://wadairy.org/grants-and-resources/">More <img src="https://wadairy.org/wp-content/themes/wadairy/images/dark-blue-arrow.svg" class="arrow"></a></p>
         </div>
       </div>
 

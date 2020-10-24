@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"j18Ham8OLpaHO0bg0nhMVldTHiKHIO9EJDz8h_NvWepwEyRG9mphtkB8QkfzQhcuSZIf_T3iMA2GnBqwK5vYJu3rJBo1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"U-UH7LNKLSRaM3npLXpQdjixhNBccxVNkDvl6_N6vVzg1JEL4PFwikk6wv0k-qnx6f0aEfiXM91E1yK5-AiYceRA1Gc1\" />");
 						}
 					}
 				}, false);
@@ -998,18 +998,6 @@ An additional free COVID-19 testing site is available for Benton and Franklin Co
 						</div>
 						</li>
 						<li class="widgetItem" data-index="1">
-								<a href="/CivicAlerts.aspx?AID=1242"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=58355" alt="irrigationphoto" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader1242" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=1242">Irrigation Shut Down </a>
-	</h4>
-	<div class="widgetDesc">
-The City’s irrigation system will be shut down for the season the week of October 12. The system will take several days to drain, so some customers will lose pressure ahead of others. Please call 545-3463 for service questions.						<a id="newsFlashReadOn1242" href="/CivicAlerts.aspx?AID=1242" class="readOn" aria-labelledby="newsFlashItemHeader1242 newsFlashReadOn1242">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="2">
 								<a href="/CivicAlerts.aspx?AID=1241"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=62164" alt="Lincoln" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1241" class="widgetTitle">
@@ -1021,7 +1009,7 @@ City Manager Dave Zabell has named Adam Lincoln of the City of Pullman to be the
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="3">
+						<li class="widgetItem" data-index="2">
 								<a href="/CivicAlerts.aspx?AID=1236"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=61537" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1236" class="widgetTitle">
@@ -1033,7 +1021,7 @@ The spread of COVID-19 (coronavirus) is cause for concern within the community, 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="4">
+						<li class="widgetItem" data-index="3">
 								<a href="/CivicAlerts.aspx?AID=1120"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=57538" alt="City Hall 3" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1120" class="widgetTitle">
@@ -1392,8 +1380,8 @@ Pasco has grown tremendously in the last two decades and this growth has occurre
 	    // <!--
 	    var $1 = typeof $ == 'undefined' ? window.parent.$ : $;
 	    $1(document).ready(function () {
-		    var slideshow6957f57b2d994d86b0862c2946521729 = new Slideshow();
-slideshow6957f57b2d994d86b0862c2946521729.generate('494','1','5', false,false);
+		    var slideshow0004b44264ed44bcaf33165e7d691ea8 = new Slideshow();
+slideshow0004b44264ed44bcaf33165e7d691ea8.generate('494','1','5', false,false);
 
 
 		});
@@ -1825,7 +1813,7 @@ Sat
 <td>
 <span>15</span>
 </td>
-<td class="today">
+<td>
 <span>16</span>
 </td>
 <td>
@@ -1836,18 +1824,18 @@ Sat
 <span>18</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=19&amp;CID=23,32'>19</a>
+<span>19</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=20&amp;CID=23,32'>20</a>
+<span>20</span>
 </td>
 <td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=21&amp;CID=23,32'>21</a>
+<span>21</span>
 </td>
 <td>
 <span>22</span>
 </td>
-<td>
+<td class="today">
 <span>23</span>
 </td>
 <td>
@@ -1898,12 +1886,12 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Mon, Oct 19  </h4>
+			<h4 class="widgetTitle">Mon, Oct 26  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3387">City Council Remote Regular Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3423">City Council Remote Workshop Meeting</a></strong>
 
-At Remote Regular Meetings, the City Council takes...		</div>
-						<a href="/Calendar.aspx?EID=3387" class="readOn" style="display:block;"><span>Read On</span></a>
+The City Council holds workshops the 2nd and 4th M...		</div>
+						<a href="/Calendar.aspx?EID=3423" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 
 
@@ -1915,12 +1903,12 @@ At Remote Regular Meetings, the City Council takes...		</div>
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Tue, Oct 20  </h4>
+			<h4 class="widgetTitle">Tue, Oct 27  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3436">Pasco Public Facilities District Board Meeting *CANCELLED* Next Meeting is 12/15/2020</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3642">Arts and Culture Commission Meeting</a></strong>
 
-		</div>
-						<a href="/Calendar.aspx?EID=3436" class="readOn" style="display:block;"><span>Read On</span></a>
+The Arts and Culture Commission advises the City C...		</div>
+						<a href="/Calendar.aspx?EID=3642" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 
 
@@ -1932,12 +1920,12 @@ At Remote Regular Meetings, the City Council takes...		</div>
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Wed, Oct 21  </h4>
+			<h4 class="widgetTitle">Mon, Nov 2  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=3638">Inclusivity, Diversity and Equity Commission Meeting</a></strong>
+					<strong><a href="/Calendar.aspx?EID=3376">City Council Remote Regular Meeting</a></strong>
 
-Governor Inslee's Proclamation No. 20-28, made in ...		</div>
-						<a href="/Calendar.aspx?EID=3638" class="readOn" style="display:block;"><span>Read On</span></a>
+The City Council may take action on items presente...		</div>
+						<a href="/Calendar.aspx?EID=3376" class="readOn" style="display:block;"><span>Read On</span></a>
 	</li>
 					</ol>
 				</div>

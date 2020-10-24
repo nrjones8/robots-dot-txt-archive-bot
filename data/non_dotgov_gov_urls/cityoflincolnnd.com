@@ -474,6 +474,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-908"><a class="menuA level1 menuHidden" href="government/city_council_.php" target="_self">City Council</a></li>
 			<li class="menuLI level1 menuHidden li-910"><a class="menuA level1 menuHidden" href="government/boards___committees.php" target="_self">Boards & Committees</a></li>
 			<li class="menuLI level1 menuHidden li-911"><a class="menuA level1 menuHidden" href="government/city_auditor.php" target="_self">City Auditor</a></li>
+			<li class="menuLI level1 menuHidden li-1245"><a class="menuA level1 menuHidden" href="government/public_notice.php" target="_self">Public Notice</a></li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-50 children"><a class="menuA level0 menuDisplay" href="departments/index.php" target="_self">Departments</a>

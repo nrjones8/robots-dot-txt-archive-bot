@@ -178,7 +178,7 @@
             </section>
 
             <section class="contact-info">
-                Please forward this error screen to mindenusa.com's <a href="mailto:webmaster@mindenusa.com?subject=Error message [404] (none) for mindenusa.com/robots.txt port 443 on Friday, 16-Oct-2020 21:39:00 PDT"> WebMaster</a>.
+                Please forward this error screen to mindenusa.com's <a href="mailto:webmaster@mindenusa.com?subject=Error message [404] (none) for mindenusa.com/robots.txt port 443 on Friday, 23-Oct-2020 21:44:55 PDT"> WebMaster</a>.
             </section>
 
             <p class="reason-text">The server cannot find the requested page:</p>

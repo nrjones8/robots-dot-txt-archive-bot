@@ -97,7 +97,7 @@
                         </div>
                         <div class="bottom">
                             <a href="#" class="full-green-btn" onclick="contact.show(); return false;">Contact Owner</a>
-                                                            <a href="https://marketplace.epik.com/BoilingSpringLakes.com" target="_blank" class="link">More Details</a>
+                                                            <a href="https://www.epik.com/buy/BoilingSpringLakes.com" target="_blank" class="link">More Details</a>
                                                     </div>
                     </div>
                 </div>
@@ -576,7 +576,6 @@
                 </label>
             </div>
             <div class="form-group">
-                <span class="important-red">*</span>
                 <b style="color:red; font-size:11px;" v-if="errors.comments">{{errors.comments}}</b>
                 <textarea class="form-control" rows="4" v-model="fields.comments"
                     name="comments" placeholder="Your Message"

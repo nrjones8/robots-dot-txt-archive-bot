@@ -280,7 +280,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-1619"><a class="menuA level1 menuHidden" href="https://epay.southelgin.com/eSuite.Utilities/Default.aspx?ReturnUrl=%2Fesuite.utilities%2F" target="_new">Payment Center</a></li>
 			<li class="menuLI level1 menuHidden li-1618"><a class="menuA level1 menuHidden" href="government/departments/police/community_relations/senior_citizen_programs.php" target="_self">Senior Services</a></li>
 			<li class="menuLI level1 menuHidden li-389"><a class="menuA level1 menuHidden" href="residents/special_events/index.php" target="_self">Special Events</a></li>
-			<li class="menuLI level1 menuHidden li-2011"><a class="menuA level1 menuHidden" href="residents/us_census_information/index.php" target="_self">US Census Information</a></li>
 			<li class="menuLI level1 menuHidden li-2032"><a class="menuA level1 menuHidden" href="community/coronavirus_news_updates/index.php" target="_self">Coronavirus News/Updates</a></li>
 			<li class="menuLI level1 menuHidden li-2229"><a class="menuA level1 menuHidden" href="https://www.southelgin.com/government/departments/parks___recreation/the_hub_e-learning/index.php" target="_new">Hub E-Learning</a></li>
 			<li class="menuLI level1 menuHidden li-2119"><a class="menuA level1 menuHidden" href="government/departments/community_development/building_permits/index.php" target="_self">Building Permits</a></li>

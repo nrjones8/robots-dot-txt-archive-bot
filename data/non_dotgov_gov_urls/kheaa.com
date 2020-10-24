@@ -485,23 +485,7 @@
 <div class="wrapper" id="footer">
 <div class="footer-wrap" id="footer">
 <div id="adDiv">
-<div class="ad" id="advantageAd">
-<div id="adHeader">
-<p>Make funding for college simple</p>
-</div>
-<div id="adBody">
-<p>FIXED rates as  low as 3.50% APR* and NO FEES*. The Advantage Education Loan lets you borrow the money you need for college.</p>
-<p>Simple.</p>
-<p>You can visit <a href="https://www.advantageeducationloan.com/ael/ael/homepage.faces">Advantage Education Loans</a> for more details.</p>
-</div>
-<div id="adFooter">
-<div id="adLogo">
-<img alt="Advantage Loan Logo" src="/images/logo_advantage.png"></div>
-<div id="adFootnote">
-<p>*APRs and quoted savings are representative samples for educational purposes only and may not reflect current or actual loan rate offers or available percentage rates. Your actual APR will depend upon your credit transaction and credit history and will be determined once a credit decision is made. No origination, guarantee, late and NSF fees. </p>
-</div>
-</div>
-</div>
+<a href="https://www.advantageeducationloan.com/ael/ael/homepage.faces"><img alt="Advantage Loan Logo" src="/images/logo_advantage.png"></a>
 </div>
 <div class="footer-column" id="Blog">
 <ul id="media_icons">

@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- If Site Icon isn't set in customizer -->
     <link rel="pingback" href="https://www.eatsmartmovemorenc.com/xmlrpc.php">
   
-	<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Page not found - Eat Smart, Move More NC</title>
 	<meta name="robots" content="noindex, follow" />
 	<meta property="og:locale" content="en_US" />
@@ -68,7 +68,7 @@ img.emoji {
 }
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.eatsmartmovemorenc.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='site-css-css'  href='https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/styles/style-min.css?ver=1601390590' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css-css'  href='https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/styles/style-min.css?ver=1603457359' type='text/css' media='all' />
 <script type='text/javascript' src='https://www.eatsmartmovemorenc.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="https://www.eatsmartmovemorenc.com/wp-json/" /><link rel="icon" href="https://www.eatsmartmovemorenc.com/wp-content/uploads/2019/11/cropped-ESMM_icon-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="https://www.eatsmartmovemorenc.com/wp-content/uploads/2019/11/cropped-ESMM_icon-192x192.jpg" sizes="192x192" />
@@ -105,13 +105,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <ul class="menu">
         <li>
           <a href="https://www.eatsmartmovemorenc.com" style="padding:0">
-            <img class="headerLogo" src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/logos/ESMM_logo.jpg" alt="Eat Smart, Move More NC logo" height="60px" style="margin-right: 25px">
-<!--            <img class="headerLogo" src="/wp-content/uploads/2019/07/ESMM_logoTM.RGB_-300x154.jpg" alt="" height="60px" style="margin-right: 25px">-->
+            <img class="headerLogo" src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/logos/ESMM_logo.jpg" alt="Eat Smart, Move More NC logo"  style="margin-right: 25px">
           </a>
         </li>
       </ul>
 
-      <button class="menu-icon" type="button" data-toggle>        <div class="show-for-sr">Menu</div>
+      <button class="menu-icon" type="button" data-toggle>        <span class="show-for-sr">Menu</span>
       </button>
       
     </div>
@@ -119,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     
   <section class="smallNavbarRight flex-container align-middle">
-    <div class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page show-for-smedium" role="treeitem"><a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">Core Behaviors</a>
+    <div class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page show-for-smedium" ><a href="https://www.eatsmartmovemorenc.com/myesmm/myesmm-core-behaviors/">Core Behaviors</a>
     </div>
     
     <ul class="searchIcon align-self-middle">
@@ -160,7 +159,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <li>
           <a href="https://www.eatsmartmovemorenc.com" style="padding:0">
             <img class="headerLogo" src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/logos/ESMM_logo.jpg" alt="Eat Smart, Move More NC logo">
-<!--            <img class="headerLogo" src="/wp-content/uploads/2019/07/ESMM_logoTM.RGB_-300x154.jpg" alt="">-->
           </a>
         </li>
       </ul>
@@ -184,13 +182,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="https://www.eatsmartmovemorenc.com/myesmm/">My Eat Smart, Move More</a></li>
 </ul>    
     <section class="show-for-xlarge">
-      <a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">
+      <a href="https://www.eatsmartmovemorenc.com/myesmm/myesmm-core-behaviors/">
         <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-8.png" alt="Core Behaviors" class="headerCoreBanner">
       </a>
     </section>
     
       <ul class="hide-for-xlarge medium-horizontal menu accordion-menu" data-responsive-menu="accordion medium-dropdown" role="tree" aria-multiselectable="true" data-t="iwtinh-t" data-mutate="i8tm8o-responsive-menu">
-        <li class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page" role="treeitem"><a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">Core <br>Behaviors</a></li>
+        <li class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page" role="treeitem"><a href="https://www.eatsmartmovemorenc.com/myesmm/myesmm-core-behaviors/">Core <br>Behaviors</a></li>
       </ul>
     
      <ul class="searchIcon align-self-middle">
@@ -223,8 +221,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://www.eatsmartmovemorenc.com/facts/">The Facts</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://www.eatsmartmovemorenc.com/resources/">Resources</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818"><a href="https://www.eatsmartmovemorenc.com/myesmm/">My Eat Smart, Move More</a></li>
-</ul>      <ul id="" class="hide-for-xlarge medium-horizontal menu accordion-menu" data-responsive-menu="accordion medium-dropdown" role="tree" aria-multiselectable="true" data-t="iwtinh-t" data-mutate="i8tm8o-responsive-menu">
-        <li class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page" role="treeitem"><a href="https://www.eatsmartmovemorenc.com/myesmm-core-behaviors/">Core Behaviors</a></li>
+</ul>      <ul class="hide-for-xlarge medium-horizontal menu accordion-menu" data-responsive-menu="accordion medium-dropdown" role="tree" aria-multiselectable="true" data-t="iwtinh-t" data-mutate="i8tm8o-responsive-menu">
+        <li class="coreBehaveButton menu-item menu-item-type-post_type menu-item-object-page" role="treeitem"><a href="https://www.eatsmartmovemorenc.com/myesmm/myesmm-core-behaviors/">Core Behaviors</a></li>
       </ul>
         
       </div>

@@ -15,7 +15,6 @@
 
 User-agent: *
 Crawl-delay: 10
-Sitemap: http://www.bart.gov/sitemap.xml
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?
@@ -79,7 +78,6 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
-Disallow: /bart/api/*
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -90,6 +88,7 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+
 
 # Added JR 11/15/2013
 Disallow: */stations/quickplanner/extended

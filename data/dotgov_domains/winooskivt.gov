@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"f_E66vlSuIk9K5wzFi9J0FfNASTYWj8TCiPEQlgjATwj1zIyj7v8Ggmq7WeOuk20pahK8eqw3Pse01yJX_OKA7kP7o01\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"nsyrDOkjZbbaJ2blk_JW5GX3DTvPpWTLbzj-qgmMBQoipuqSrwHFdKpDHmk34HsqMjZwZpscvRxht7oN9SlfNkmACrY1\" />");
 						}
 					}
 				}, false);
@@ -93,7 +93,7 @@
 	var order = '';
 //--></script>
 	
-	<link href="/725661219.css" rel="stylesheet" type="text/css" />	<link href="/961530782.css" rel="stylesheet" type="text/css" />
+	<link href="/901781768.css" rel="stylesheet" type="text/css" />	<link href="/961530782.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -1452,7 +1452,19 @@ height: 163px;
 	<div class="cpWindow cpWindow6f66b60d-8df6-45e8-9e49-d040b51f7123">
 		<ol class="semanticList cpSlider">
 						<li class="widgetItem" data-index="0">
-								<a href="/CivicAlerts.aspx?AID=344"><img class="media" src="/ImageRepository/Document?documentID=3074" alt="COV updates" data-delayed-image="" /></a>
+								<a href="/CivicAlerts.aspx?AID=482"><img class="media" src="/ImageRepository/Document?documentID=3681" alt="Mayors Update" data-delayed-image="" /></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader482" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=482">Mayor's Update - 10.23.20 </a>
+	</h4>
+	<div class="widgetDesc">
+						<a id="newsFlashReadOn482" href="/CivicAlerts.aspx?AID=482" class="readOn" aria-labelledby="newsFlashItemHeader482 newsFlashReadOn482">Read on...</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="1">
+								<a href="/CivicAlerts.aspx?AID=344"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3074" alt="COV updates" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader344" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=344">COVID-19 Information and Updates </a>
@@ -1463,7 +1475,7 @@ Click through to read our most recent COVID-19 update: Thursday, 10.1.20						<a
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="1">
+						<li class="widgetItem" data-index="2">
 								<a href="/CivicAlerts.aspx?AID=469"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3543" alt="Election Results (1)" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader469" class="widgetTitle">
@@ -1475,7 +1487,7 @@ Click through to read our most recent COVID-19 update: Thursday, 10.1.20						<a
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="2">
+						<li class="widgetItem" data-index="3">
 								<a href="/CivicAlerts.aspx?AID=465"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3782" alt="Halloween 2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader465" class="widgetTitle">
@@ -1487,7 +1499,7 @@ Click through to read our most recent COVID-19 update: Thursday, 10.1.20						<a
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="3">
+						<li class="widgetItem" data-index="4">
 								<a href="/CivicAlerts.aspx?AID=480"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader480" class="widgetTitle">
@@ -1499,7 +1511,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="4">
+						<li class="widgetItem" data-index="5">
 								<a href="/CivicAlerts.aspx?AID=481"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2404" alt="Housing" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader481" class="widgetTitle">
@@ -1511,7 +1523,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="5">
+						<li class="widgetItem" data-index="6">
 								<a href="/CivicAlerts.aspx?AID=479"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3836" alt="Nate Eddy (1)" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader479" class="widgetTitle">
@@ -1523,7 +1535,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="6">
+						<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=478"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3467" alt="Now Hiring" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader478" class="widgetTitle">
@@ -1535,7 +1547,7 @@ Click through to learn more and apply today.						<a id="newsFlashReadOn478" hre
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="7">
+						<li class="widgetItem" data-index="8">
 								<a href="/CivicAlerts.aspx?AID=476"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3681" alt="Mayors Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader476" class="widgetTitle">
@@ -1547,7 +1559,7 @@ Click through to learn more and apply today.						<a id="newsFlashReadOn478" hre
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="8">
+						<li class="widgetItem" data-index="9">
 								<a href="/CivicAlerts.aspx?AID=477"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3683" alt="Indigenous Peoples Day" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader477" class="widgetTitle">
@@ -1559,7 +1571,7 @@ Click through to learn more and apply today.						<a id="newsFlashReadOn478" hre
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="9">
+						<li class="widgetItem" data-index="10">
 								<a href="/CivicAlerts.aspx?AID=475"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader475" class="widgetTitle">
@@ -1571,7 +1583,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="10">
+						<li class="widgetItem" data-index="11">
 								<a href="/CivicAlerts.aspx?AID=473"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2406" alt="Municipal Inf" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader473" class="widgetTitle">
@@ -1583,7 +1595,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="11">
+						<li class="widgetItem" data-index="12">
 								<a href="/CivicAlerts.aspx?AID=472"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2418" alt="Traffic Advisory" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader472" class="widgetTitle">
@@ -1595,7 +1607,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="12">
+						<li class="widgetItem" data-index="13">
 								<a href="/CivicAlerts.aspx?AID=471"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2401" alt="Safe_Healthy" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader471" class="widgetTitle">
@@ -1607,7 +1619,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="13">
+						<li class="widgetItem" data-index="14">
 								<a href="/CivicAlerts.aspx?AID=470"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2405" alt="Finance" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader470" class="widgetTitle">
@@ -1619,7 +1631,7 @@ Click through to view the agenda and attendance instructions.						<a id="newsFl
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="14">
+						<li class="widgetItem" data-index="15">
 								<a href="/CivicAlerts.aspx?AID=468"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2403" alt="Planning" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader468" class="widgetTitle">
@@ -1631,7 +1643,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="15">
+						<li class="widgetItem" data-index="16">
 								<a href="/CivicAlerts.aspx?AID=467"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader467" class="widgetTitle">
@@ -1643,7 +1655,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="16">
+						<li class="widgetItem" data-index="17">
 								<a href="/CivicAlerts.aspx?AID=466"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3781" alt="FPW2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader466" class="widgetTitle">
@@ -1655,7 +1667,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="17">
+						<li class="widgetItem" data-index="18">
 								<a href="/CivicAlerts.aspx?AID=464"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3444" alt="Light Blue Seal" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader464" class="widgetTitle">
@@ -1667,7 +1679,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="18">
+						<li class="widgetItem" data-index="19">
 								<a href="/CivicAlerts.aspx?AID=463"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3762" alt="Creative Writing" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader463" class="widgetTitle">
@@ -1679,7 +1691,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="19">
+						<li class="widgetItem" data-index="20">
 								<a href="/CivicAlerts.aspx?AID=460"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3681" alt="Mayors Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader460" class="widgetTitle">
@@ -1691,7 +1703,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="20">
+						<li class="widgetItem" data-index="21">
 								<a href="/CivicAlerts.aspx?AID=461"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3027" alt="2020 Census" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader461" class="widgetTitle">
@@ -1703,7 +1715,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="21">
+						<li class="widgetItem" data-index="22">
 								<a href="/CivicAlerts.aspx?AID=458"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader458" class="widgetTitle">
@@ -1715,7 +1727,7 @@ Click through to view the agenda and participation instructions.						<a id="new
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="22">
+						<li class="widgetItem" data-index="23">
 								<a href="/CivicAlerts.aspx?AID=459"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2404" alt="Housing" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader459" class="widgetTitle">
@@ -1723,54 +1735,6 @@ Click through to view the agenda and participation instructions.						<a id="new
 	</h4>
 	<div class="widgetDesc">
 Click through to view the agenda and participation instructions.						<a id="newsFlashReadOn459" href="/CivicAlerts.aspx?AID=459" class="readOn" aria-labelledby="newsFlashItemHeader459 newsFlashReadOn459">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="23">
-								<a href="/CivicAlerts.aspx?AID=456"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3712" alt="Green Mountain Transit" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader456" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=456">Green Mountain Transit Service Alert: Green Line, Winooski </a>
-	</h4>
-	<div class="widgetDesc">
-						<a id="newsFlashReadOn456" href="/CivicAlerts.aspx?AID=456" class="readOn" aria-labelledby="newsFlashItemHeader456 newsFlashReadOn456">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="24">
-								<a href="/CivicAlerts.aspx?AID=455"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3027" alt="2020 Census" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader455" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=455">2020 Census Responses Due on 9.30.20 </a>
-	</h4>
-	<div class="widgetDesc">
-						<a id="newsFlashReadOn455" href="/CivicAlerts.aspx?AID=455" class="readOn" aria-labelledby="newsFlashItemHeader455 newsFlashReadOn455">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="25">
-								<a href="/CivicAlerts.aspx?AID=454"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=2408" alt="Council" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader454" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=454">Remote City Council and Liquor Control Board Meeting on 9.21.20 </a>
-	</h4>
-	<div class="widgetDesc">
-						<a id="newsFlashReadOn454" href="/CivicAlerts.aspx?AID=454" class="readOn" aria-labelledby="newsFlashItemHeader454 newsFlashReadOn454">Read on...</a>
-	</div>
-
-						</div>
-						</li>
-						<li class="widgetItem" data-index="26">
-								<a href="/CivicAlerts.aspx?AID=453"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=3690" alt="Veteran Press Release" data-delayed-image="" /></a>
-						<div class="text">
-								<h4 id="newsFlashItemHeader453" class="widgetTitle">
-		<a href="/CivicAlerts.aspx?AID=453">Press Release: Chittenden County Joins National List of Communities to End Veteran Homelessness </a>
-	</h4>
-	<div class="widgetDesc">
-						<a id="newsFlashReadOn453" href="/CivicAlerts.aspx?AID=453" class="readOn" aria-labelledby="newsFlashItemHeader453 newsFlashReadOn453">Read on...</a>
 	</div>
 
 						</div>
@@ -2303,7 +2267,7 @@ window.__lo_site_id = 202848;
 
 
 
-	<script src="/1363479596.js" type="text/javascript"></script>
+	<script src="/1118233115.js" type="text/javascript"></script>
 		
   <!-- Piwik -->
 <script type="text/javascript">

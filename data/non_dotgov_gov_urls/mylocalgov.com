@@ -28,8 +28,8 @@
               <span class="cf-error-type">Error</span>
               <span class="cf-error-code">520</span>
             </h1>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 5e375e581b2f740d &bull;</span>
-            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2020-10-17 04:45:10 UTC</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 5e71141f7f6d73f9 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2020-10-24 04:50:44 UTC</span>
             <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Web server is returning an unknown error</h2>
         </header>
         
@@ -85,7 +85,7 @@
       <p class="mb-6">Please try again in a few minutes.</p>
 
       <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
-      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
                 </div>
             </div>
               
@@ -93,11 +93,11 @@
 
         <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
   <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">5e375e581b2f740d</strong></span>
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">5e71141f7f6d73f9</strong></span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 40.76.31.235</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 52.255.183.61</span>
     <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
     
   </p>
 </div><!-- /.error-footer -->

@@ -292,7 +292,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 		<ul class="menuUL level1 menuHidden ul-124">
 			<li class="menuLI level1 menuHidden li-124 children"><a class="menuA level1 menuHidden" href="government/city_council/index.php" target="_self">City Council</a>
 				<ul class="menuUL level2 menuHidden ul-296">
-					<li class="menuLI level2 menuHidden li-296"><a class="menuA level2 menuHidden" href="government/city_council/agendas_and_minutes/index.php" target="_self">Minutes</a></li>
+					<li class="menuLI level2 menuHidden li-296"><a class="menuA level2 menuHidden" href="government/city_council/agendas_and_minutes/index.php" target="_self">Minutes & Agendas</a></li>
 				</ul>
 			</li>
 			<li class="menuLI level1 menuHidden li-125"><a class="menuA level1 menuHidden" href="calendar.php" target="_self">Calendar</a></li>

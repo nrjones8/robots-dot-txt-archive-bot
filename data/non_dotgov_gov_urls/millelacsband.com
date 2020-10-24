@@ -2235,10 +2235,20 @@
               Taking a Stand by Taking a Knee            </a>
                       <a href="https://millelacsband.com/news/investments" >
               Investments            </a>
+                      <a href="https://millelacsband.com/news/band-assembly-weekly-update-october-5-9" >
+              Band Assembly Weekly Update, October 5-9            </a>
                       <a href="https://millelacsband.com/news/the-unsung-hero-of-the-legislative-branch" >
               The Unsung Hero of the Legislative Branch            </a>
+                      <a href="https://millelacsband.com/news/election-guide-sent-to-band-members" >
+              Election Guide Sent to Band Members            </a>
                       <a href="https://millelacsband.com/news/new-ordinance-modifies-child-support-code" >
               New Ordinance Modifies Child Support Code            </a>
+                      <a href="https://millelacsband.com/news/weekly-news-summary-for-october-11-16" >
+              Weekly News Summary for October 11-16            </a>
+                      <a href="https://millelacsband.com/news/comment-period-open-for-draft-revisor-s-office-statute" >
+              Comment period open for draft Revisor's Office statute            </a>
+                      <a href="https://millelacsband.com/news/aanjibimaadizing-moves-to-fomer-clinic-building" >
+              Aanjibimaadizing Moves to Fomer Clinic Building            </a>
                   </div>
       </nav>
       
@@ -2314,8 +2324,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/new-ordinance-modifies-child-support-code" class="news-title">
-          New Ordinance Modifies Child Support Code        </a>
+        <a href="https://millelacsband.com/news/aanjibimaadizing-moves-to-fomer-clinic-building" class="news-title">
+          Aanjibimaadizing Moves to Fomer Clinic Building        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

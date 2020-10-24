@@ -1,1 +1,12 @@
-404 page not found
+
+# robots.txt for http://www.itis.gov
+
+User-agent: *
+Disallow:/tmp/
+Disallow:/FilesToBeDownloaded/
+Disallow:/ntwb/
+Disallow:/ntwb-web-services/
+Disallow:/ItisDataTools/
+Disallow:/ITISWebService/
+Disallow:/itisdownload/
+Disallow:/download/

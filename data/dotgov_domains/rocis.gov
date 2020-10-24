@@ -1,18 +1,88 @@
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Rocis.Gov: Warning Page</title>
+	
+	
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	
+</head>
 <body>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<H1>
-<center>The ROCIS system is undergoing scheduled maintenance.  We apologize for the inconvenience.</center>
-<br>
-<form align="center" action="https://www.rocis.gov/rocis">
-    <input type="submit" style="font-size: 20px;" value="try again" />
-</form>
-</H1>
+<div class="top_shadow">&nbsp;</div>
+<!-- ****************** login screen start ****************** -->
+<div class="login_main">
+	     
+    	<div class="main_area">
+     
+	    <div class="paddingauto">
+	    
+	        <div class="top_panel"><a href="#" title="Rocis.Gov" class="logo">Rocis.Gov</a>
+	            <h1>Help Desk:1-866-450-5250</h1>
+	        </div>
+			<div class="content_area_login_main">
+				            <div class="landing_content_area">
+            <div class="landing_content_header_area">
+                <h1>Welcome to ROCIS</h1>
+            </div>
+            <div class="warning_content">
+            	<h1>***************************WARNING*********************************</h1>
+                <p>This is a U.S.General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY."  This system is subject to monitoring.  Therefore, no expectation of privacy is to be assumed.  Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution.</p>
+                <form action="#">
+                	<fieldset>
+						<legend>
+							<label class="hidden_label" for="clety3">&nbsp;</label>
+						</legend>
+					</fieldset>
+		<p align="center">
+                    <H1>The ROCIS application is currently undergoing system maintenance.</H1>
+                	<br/>
+                    <H1>We apologize for any inconvenience this may cause.</H1>
+                	<br/>
+                    <H1>Please try again later.</H1>
+                </p>
+                </form>
+            </div>
+            </div>
+
+
+	        </div>
+	    </div>
+	</div>
+</div>
+<!-- ****************** login screen ends ****************** -->
+<div class="bottom_shadow">&nbsp;</div>
+<!-- ****************** footer start ****************** -->
+<div class="footer">
+
+	<p class="copyright">Copyright 2020 GSA. All rights reserved.</p>
+	<ul>
+    	<li><a href="#" title="Executive Office of the President of the United States"><img src="/rocis/image3/footer_logo1.gif" width="56" height="55" alt="Executive Office of the President of the United States" border="0" /></a></li>
+        <li><a href="#" title="U.S. General Services Administration"><img src="/rocis/image3/footer_logo2.gif" width="50" height="55" alt="U.S. General Services Administration" border="0" /></a></li>
+    </ul>
+</div>
+<!-- ****************** footer ends ****************** -->
+
+
 </body>
 </html>

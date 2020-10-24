@@ -7,7 +7,7 @@ _cf_ajaxscriptsrc="/cf_scripts/scripts/ajax";
 _cf_jsonprefix='//';
 _cf_websocket_port=8575;
 _cf_flash_policy_port=1243;
-_cf_clientid='AED382722F76A5BECCEC41391B45583E';/* ]]> */</script><script type="text/javascript" src="/cf_scripts/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
+_cf_clientid='E4BFB63CFE418E953E930F133DF4A7DB';/* ]]> */</script><script type="text/javascript" src="/cf_scripts/scripts/ajax/yui/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript" src="/cf_scripts/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/cf_scripts/scripts/ajax/package/cfajax.js"></script>
 <script type="text/javascript" src="/cf_scripts/scripts/ajax/package/cfcalendar.js"></script>
@@ -2679,13 +2679,13 @@ function isDateAfterToday(){
 	   var dt2test='';
 		switch(my_dt_choice){
 			case 1:
-			 dt2test=enc_mm+'/'+'16'+'/'+enc_yyyy
+			 dt2test=enc_mm+'/'+'23'+'/'+enc_yyyy
 			 break;
 			case 2:
-			 dt2test='10'+'/'+'16'+'/'+enc_yyyy
+			 dt2test='10'+'/'+'23'+'/'+enc_yyyy
 			 break;
 			case 3:
-			 dt2test='10'+'/'+'16'+'/'+enc_yyyy
+			 dt2test='10'+'/'+'23'+'/'+enc_yyyy
 			 break;
 			case 4:
 			 return 0;
@@ -2704,7 +2704,7 @@ function isDateAfterToday(){
 		
 		}
 		
-		if (dt2test>'' && compareDate( "10/16/2020", dt2test )>0) return 1;
+		if (dt2test>'' && compareDate( "10/23/2020", dt2test )>0) return 1;
 		
 	return 0;
 }
@@ -3791,10 +3791,10 @@ height:100vh;
 /* ]]> */</script>
 
 		<script type="text/javascript">/* <![CDATA[ */
-			var _cf_DATEFIELD_init_183332701598410=function()
+			var _cf_DATEFIELD_init_225918540731886=function()
 			{
 				ColdFusion.Calendar.setUpCalendar("p_date", "MM/DD/YYYY", 0, ["S","M","T","W","T","F","S"], ["January","February","March","April","May","June","July","August","September","October","November","December"], 'enc_rec', null);
-			};ColdFusion.Event.registerOnLoad(_cf_DATEFIELD_init_183332701598410);
+			};ColdFusion.Event.registerOnLoad(_cf_DATEFIELD_init_225918540731886);
 		/* ]]> */</script>
 		
 <script type="text/javascript">/* <![CDATA[ */
@@ -4177,7 +4177,7 @@ Please select this option if you encountered this bird or were provided encounte
 
 
 <div class="container-fluid">
-<form name="enc_rec" id="enc_rec" action="&#x2f;BBL&#x2f;bblretrv&#x2f;index.cfm" method="post" role="form" autocomplete="off" onsubmit="return _CF_checkenc_rec(this)"><input name="csrftoken" id="csrftoken"  type="hidden" value="127C4050BF7C2FF93F99E2A30CDDF7E98C934B68" />
+<form name="enc_rec" id="enc_rec" action="&#x2f;BBL&#x2f;bblretrv&#x2f;index.cfm" method="post" role="form" autocomplete="off" onsubmit="return _CF_checkenc_rec(this)"><input name="csrftoken" id="csrftoken"  type="hidden" value="ADA273E6B3FA69791BE5EC9F543DA055A29354F0" />
 
 	<div id="TabbedPanels1" class="TabbedPanels" >
     
@@ -4618,7 +4618,7 @@ Please select this option if you encountered this bird or were provided encounte
 					<div class="col-sm-10" id="exact_date" style="z-index:1;">
 						<div  style="position:relative;float:left;">
 	<div  style="float:left;">
-		<input name="p_date" type="text" maxlength="10"  class="datefieldinput"  onchange="DupChkd=0; if (isDateAfterToday())alert('Encounter Date is greater than today\'s date.'); setEncDate();"  autocorrect="off"  autocomplete="new_p_date"  max="2020-10-16"  size="10"  inputmode="numeric"  min="1960-01-01"  novalidate="true"  id="p_date"  onkeyup="DateFormat(this,this.value,event,false,'1');"  onfocus="this.select();"  onblur="DateFormat(this,this.value,event,true,'1');" />
+		<input name="p_date" type="text" maxlength="10"  class="datefieldinput"  onchange="DupChkd=0; if (isDateAfterToday())alert('Encounter Date is greater than today\'s date.'); setEncDate();"  autocorrect="off"  autocomplete="new_p_date"  max="2020-10-23"  size="10"  inputmode="numeric"  min="1960-01-01"  novalidate="true"  id="p_date"  onkeyup="DateFormat(this,this.value,event,false,'1');"  onfocus="this.select();"  onblur="DateFormat(this,this.value,event,true,'1');" />
 	 </div><div  id="p_dateenc_rec_cf_buttondiv" style="float:left;padding:3px;">
 		
 		<img id="p_dateenc_rec_cf_button" src="/cf_scripts/scripts/ajax/resources/cf/images/DateChooser.png" alt='Date Picker' />
@@ -7388,7 +7388,7 @@ Please select this option if you encountered this bird or were provided encounte
 var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
 </script>
 
-<input type="hidden" name="__ncforminfo" value="wUtYwZWo9LF5F-WOmtq1GvVA3ryfUw5wGVT7y1JIUyi_cE8kMxVVk4Q6xuuogM2Qn0fz_XXaCfQlFNAnTwM1ffm7KVOT-sCI497aBMMGTYPDIFDCYd0KLybwJxANl5WkUcCJ4Y136A7oyJvSxoZEnPiky8qyyjOdvhvn6SoEylB6lYOjI-5eSuWn7le5D_i7I16m8awyoxyUo4gjKQTn_Nh4DvzyUmx_n-6950FQbDXqMcXH1qYgiI3KkT9TNZl9Uj00hE5JUGK6Osqi5yPH6SYvTK-ZRNt35KNy8pWx8EWjcP-NvqYHL4NVBMWx6IFODUAuY26JLn9kjDGLzm6Edb8kBShNpYlers72IyFgQ77-JsX7M6wVJVzd68ACP95Lmmi6a3gJ-uYGPegJnGjlzH6q9N8upiGJiAzKQiHcCoaXx3EXDHIvRtomKBd89MjIEMh-v0t_2F_8XPQ1SN2G3c9ePk20YlyLxnclsg_ca3bSfBd0pn53jwooIZV3oWBr5usQkb7bSQqljPBdDM7bEMFOy5ED8RcVm3RNg2FD2xF2SEFJr8-oBJrAMG8qRQ_ERa9K3vLE5lxrmcXeGiAubZf4bG1SM_9btrqWiIO4vm9e5HhtYSHNalBESoEDp8DRWLFjvGES5RK35QuIbHPZYhnRc0vFTx95eKzkuXE_1UORCpKEn_j7c-4VJwkdINV5Lg8CKWmWt0giM-CS_D2CcHMXYx2Y5TuP45IBxCxmRCk8W8XpLmIcK7jQDuL6UvtxyFI8s4fvQ3ny9KyhsDTRwXNHi7RvhlalINhOHD1JkP5oDGOwt52toR4ckhXvVdV0"/></form>
+<input type="hidden" name="__ncforminfo" value="i9iVicdzRkRFh-CNnlmwvxVwr1yw-caF-HkIJx5efok9A5RdjxCbzrFdUVl18UcWFl5ibqimjLNdHT8VS-RB3_qa9HROAh_4YrkfclRkhg7wIcKihVqqy5VctNKcgxrDPNjGoLFkw7XeCU9oLk047XT-KjnIZyMAXcUNOHow66dbQurzj_orNGIW2geBi4Cwy0TnB8fqT9Tu-VDqXgopAYTgld3LDCVBvUsgj8y8ku9FIoGnhv2SaHvH3xCoh2U4zx9JWw5-AEcHLj7UZocqtaNTIyzRCB-Sv-GvjZ6hJIzHF71aarg5TsX8Zng2WhFAh-kdl8R8i_hG5xqeB0Qpigyvv7tbZZmGwct7SCwHq5yFXYaWqWusVLKFZoAdJ-VL63L4zRZFrwZCmo5Ba_hyLDIyMsiZ8dibQi4sm2XlTT7N0OHP-cZZBfHxjzL_n3vJGDK7_0quVfR4dv7e5U-XPYiybBECAzHobobsXwHDdH0FS0L3TMo9N_lX8GT4yrReqCEmATU2APdEtMTF7_FsjA6oBKoC8et08-Kuw-7Gz9NSCo8gbd4-Uha_oqpZsQ9Jmu7HTBmA1Sglgdy3O77-3cWZCVN-mi6_snUzPAm1ZbelXs52RqtWiYBuT6fEaTRXSqsbKTBhwJzoExytdRxRaLQTKDqNBrYboXKX_6F4dgpXFiNbOo2QrRQ_tavRdJA-QEOouPV7BgkPvdjHY8yHv9ueipOWWSBjSXtkH0bTJQg8Gz5XcMdjrL4r6KHOHtr_F8y2-abtAOGlCKbagox0xpYpr44NKpfU07JLSxbswrmKQiEAikoRKxikDFqdBCJo"/></form>
 
 </div>
 	
@@ -7444,7 +7444,7 @@ var x = setInterval(function() {
 
 </div>
 
-<input name="csrftoken" type="hidden" value="127C4050BF7C2FF93F99E2A30CDDF7E98C934B68" id="csrftoken2"  /><input type="hidden" name="__ncforminfo" value="wUtYwZWo9LF5F-WOmtq1GvVA3ryfUw5wGVT7y1JIUyhbnuBuniRpMZ3ey3YCz9P2ZrfIQ65qvFoEPa7f_4mslrTMzO-V_UI63UBUyZPKbPz8lm0VX6klgc678xE3MNDpdkrZRe6Nzd3BDGrgNhN8nlytla68zrJavdRyu3CoYhQm_SI9CY2aIqE7OCe5Se8rSh9r5cFh4Sr3xL3S_7rY033sT7L19HSjwaWrkXKgt43WafLQfzzRKblNkzdjm0NDbrPJH7fqTatDmU7Fpt25c78uuvcoOGnc4zEeEEXhSysysBrnw0whyaQU1quLgRAMh-HleywvxXnvSgkF5c6g_xPGsWL3rw6MdH4mLn3PygJLRv6ijL_rrg=="/></form>
+<input name="csrftoken" type="hidden" value="ADA273E6B3FA69791BE5EC9F543DA055A29354F0" id="csrftoken2"  /><input type="hidden" name="__ncforminfo" value="i9iVicdzRkRFh-CNnlmwvxVwr1yw-caF-HkIJx5efomiQoja2lzuME2reC73ZRXewXtAso9yFGW3OtT24Gh3WkOAL5JYXpSXq4HGzH7g9QJT1ofZra3_i6TikbEORJqMjD8I7BMQSu9rUehAZx9WfQUAW1tjOY0Tpm9tmqN9LiN2tdCvsxyeSFQdhZnRs3bYXzvs0-CrwaSA1lInMK2m0MGiQf0jjVZSlSsscx_-jLQAxyQJL4hkztRyIK7m_MS2iqczxQpILjbdM74nTygkHSlwnnO6x2VAxOE7i0JS4AN-XjVD-ijZae3tSkryMpDV0GOMHCTdOzRaPKYhEWblnMOnnYKSUsrrR_P60rsBBq9l0lhYrb5m1w=="/></form>
 
 
 

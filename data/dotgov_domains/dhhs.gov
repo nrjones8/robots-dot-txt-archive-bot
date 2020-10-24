@@ -15,19 +15,6 @@
 
 User-agent: *
 Crawl-delay: 10
-# HHS.gov Directories
-Disallow: /mental-health-and-addiction-insurance-help/unknown-insurance/
-Disallow: /search/
-Disallow: /test/
-Disallow: /healthit/
-Disallow: /healthinformationtechnology/
-Disallow: /pharmacy/
-Disallow: /about/bios/asstsechealth.html
-Disallow: /about/bios/asphep.html
-Disallow: /digitalstrategy/comment/
-Disallow: /idealab/calendar/
-Disallow: /hhs-etc/
-Disallow: /sites/default/files/hhs-etc/
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?
@@ -101,5 +88,3 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
-# Paths (language)
-Disallow: /*language=*

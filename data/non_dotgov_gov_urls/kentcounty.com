@@ -39,7 +39,7 @@
 }
 
 	</style>
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"9544e51b7d96f3e8f2e3959b8e93312d","system.paths":{"root":"","base":""}}</script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"2a7827a381c6769815e19256935b37b0","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
@@ -480,12 +480,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
 
   
-<div class="logocontainer"><div class="kclogo"><img alt="Kent County Seal" src="/images/design/logo.fw.png"/></div></div>
+<div class="logocontainer"><div class="kclogo"><img alt="Kent County Seal" src="/images/logos/kc_logos/kclogo.fw.png"/></div></div>
 
 <!-- MAIN NAVIGATION -->
 
 <header id="t3-mainnav" class="wrap navbar navbar-default navbar-fixed-top t3-mainnav">
-<div class="logocontainer2"><div class="kclogo"><img alt="Kent County Seal" src="/images/design/logo.fw.png"/></div></div>
+<div class="logocontainer2"><div class="kclogo"><img alt="Kent County Seal" src="/images/logos/kc_logos/kclogo.fw.png"/></div></div>
 
 
 	<!-- OFF-CANVAS -->

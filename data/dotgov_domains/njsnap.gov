@@ -872,23 +872,29 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz
 
 
 
+
+
+
 <!-- Bootstrap Modal -->
 <div class="modal fade" id="myModal" role="dialog">
 <div class="modal-dialog">
 <!-- Modal content -->
-<div class="modal-content px-3">
+<div class="modal-content px-2">
 <!-- Modal header -->  
 <div class="modal-header text-center ">
 
 <h4 class="modal-title text-primary  px-3" style="line-height:normal;">Important Information</h4>
 </div>
 <!-- Modal body -->  
-<div class="modal-body">
+<div class="modal-body pt-0">
 
 <div class="alert alert-warning" style="background-color: #fef9e6; color: #333; font-weight: 555; margin-top:1.5rem;">
-P-EBT benefits in the amount of $99.62 per eligible child are being issued for the 2020-2021 school year for students receiving free- or reduced-price school meals and are attending schools with a remote learning schedule of at least 5 consecutive days. 
-<p class="text-muted mt-2">(This benefit is not available for students whose school are conducting classes in person or a hybrid of in-person and remote that don't meet that definition.) P-EBT benefits are now available to most families with an existing SNAP Families First EBT card. For non-SNAP recipients and certain SNAP recipients, P-EBT cards will be mailed in October.
-</p></div>
+
+<p>P-EBT benefits in the amount of $99.62 per eligible child are  being issued for the 2020-2021 school year for students receiving free- or  reduced-price school meals and are attending schools with a remote learning  schedule of at least 5 consecutive days. </p>
+<p>(This benefit is not available for students whose school are  conducting classes in person or a hybrid of in-person and remote that don't  meet that definition.) P-EBT benefits are now available to most families with  an existing SNAP Families First EBT card. For non-SNAP recipients and certain  SNAP recipients, P-EBT cards will be mailed in October. </p>
+<p>There was an error in the telephone number on some P-EBT cards. If  you received a card with the incorrect phone number, you can access your  benefits by calling <strong><a href="tel:1-800-997-3333">1-800-997-3333</a></strong> to activate your card. Only  share personal information with staff who answer the phone at this number. We  apologize for the inconvenience.  </p>
+<p>For more information about P-EBT benefits, please visit  the <a href="https://nj.gov/humanservices/njsnap/pebt.shtml" target="_blank" data-auth="NotApplicable">P-EBT page  for Frequently Asked Questions</a> </p>
+</div>
 <!-- Modal footer -->  
 <div class="modal-footer text-center">
 	<button type="button" class="btn btn-primary btn-sm " data-dismiss="modal"> Close </button>
@@ -896,6 +902,9 @@ P-EBT benefits in the amount of $99.62 per eligible child are being issued for t
 </div> <!-- // .modal-content -->
 </div> <!-- // .modal-dialog -->
 </div> <!-- // myModal -->
+
+
+
 </div>
 
 
@@ -941,6 +950,7 @@ $(function() {
 
 
 // init
+
 jQuery(document).ready(function(){
 
 
@@ -958,7 +968,7 @@ jQuery(document).ready(function(){
 
 </script>
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=967883515"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=7&cb=604904231"></script>
 </body>
 </html>
 

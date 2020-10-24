@@ -1396,7 +1396,7 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/main-street-waterline-replacement-project-continues/">
+        <a href="/blog/water-outage-genes-loop/">
           
           <div class="side-panel-img">
             <img class="center-block"
@@ -1404,12 +1404,12 @@ Page not found
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">Main Street Waterline Replacement Project continues</h3>
+          <h3 style="margin-bottom: 20px;">WATER OUTAGE - GENE&#39;S LOOP</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/main-street-waterline-replacement-project-continues/">Read Post &gt;</a>
+          href="/blog/water-outage-genes-loop/">Read Post &gt;</a>
       </div>
       
       
@@ -1461,7 +1461,7 @@ Page not found
         <div class="col-sm-12">
           <div class="footer__scrollers">
             <div class="footer__scroller">
-              <a href="/government/town-hall/ordinances/">
+              <a href="https://codelibrary.amlegal.com/codes/valdese/latest/overview" target="_blank" rel="noopener noreferrer">
                 <i class="fas fa-book fa-2x"></i>
                 <span>Ordinances</span>
               </a>

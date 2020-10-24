@@ -70,7 +70,7 @@
             #navbar ul.sub-menu li a:hover {
         color: #333333;
     }
-            footer .footer-top {
+            footer {
         background-color: #333333;
     }
             footer .footer-top h1.widget-title, footer .footer-top h3.widget-title, footer .footer-top .widget-title, .light_subtitle, footer .contact-details p, footer .textwidget {
