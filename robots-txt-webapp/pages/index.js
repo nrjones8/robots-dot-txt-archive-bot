@@ -22,13 +22,12 @@ class MatchesForOneSiteComponent extends Component {
       <div>
         {this.props.siteAndMatches.rows.map((oneRow, i) => {
           return (
-            <div className="ruleRow" id={`${oneRow.domain}${i}`}>
+            <div className="ruleRow" key={`${oneRow.domain}${i}`}>
               <div>{oneRow.rule}</div>
               <div className="externalLinks">
-                  <span><a target="_blank" href={`https://${oneRow.domain}/${oneRow.rule}`}>Live version</a>, </span>
+                  <span>View this page: <a target="_blank" href={`https://${oneRow.domain}/${oneRow.rule}`}>Live version</a>, </span>
                   <span><a target="_blank" href={waybackMachineUrl(oneRow.domain, oneRow.rule)}>Internet archive</a></span>
               </div>
-              
             </div>
           );
         })}
@@ -148,6 +147,7 @@ export default class Home extends Component {
                     expandedRowRender: record => { return <MatchesForOneSiteComponent siteAndMatches={record} />} ,
                     rowExpandable: record => true
                   }}
+                  expandRowByClick={true}
                   rowKey={record => record.siteName}
                 />
               </Col>
