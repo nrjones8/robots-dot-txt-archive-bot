@@ -1,7 +1,9 @@
 import Head from 'next/head'
 import React, { Component } from 'react';
-import { Col, Input, Layout, Row, Table } from 'antd';
+import { Card, Col, Input, Layout, Popover, Row, Table, Spin } from 'antd';
 import { groupBy } from 'lodash';
+
+import { InfoCircleOutlined } from '@ant-design/icons';
 
 const { Header, Footer, Content } = Layout;
 const { Search } = Input;
@@ -67,7 +69,9 @@ export default class Home extends Component {
       searchText: null,
       searchResults: null,
       groupedBySite: null,
+
       hasSearched: false,
+      loading: false,
     };
 
     this.handleSearch = this.handleSearch.bind(this);
@@ -77,7 +81,8 @@ export default class Home extends Component {
     // Datasette is read-only (and everyone has access to all the data, by design), so no
     // need to do any extra SQL injection escaping here. See
     // https://docs.datasette.io/en/stable/sql_queries.html?highlight=injection#running-sql-queries
-    const fullUrl = `https://robots-dot-txt-db.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${value}%25%27+order+by+domain`
+    const fullUrl = `https://robots-dot-txt-db.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${value}%25%27+order+by+domain`;
+    this.setState({loading: true});
     fetch(fullUrl)
       .then(response => response.json())
       .then((data) => {
@@ -95,11 +100,13 @@ export default class Home extends Component {
           let directive = '';
           if (row.rule.includes('allow')) {
             const splitRule = row.rule.split(':');
-            directive = splitRule[0].trim();
-            // https://developers.google.com/search/reference/robots_txt#url-matching-based-on-path-values
-            urlPattern = splitRule[1].trim();
-            liveLink = `https://${row.domain}${urlPattern}`;
-            archiveLink = waybackMachineUrl(row.domain, urlPattern);
+            if (splitRule.length === 2) {
+              directive = splitRule[0].trim();
+              // https://developers.google.com/search/reference/robots_txt#url-matching-based-on-path-values
+              urlPattern = splitRule[1].trim();
+              liveLink = `https://${row.domain}${urlPattern}`;
+              archiveLink = waybackMachineUrl(row.domain, urlPattern);
+            }
           }
           return {...row, links: {liveLink, archiveLink}, parsedFields: {directive, urlPattern} };
         })
@@ -110,6 +117,7 @@ export default class Home extends Component {
         });
 
         this.setState({
+          loading: false,
           searchResults: rowsWithLinks,
           groupedSearchResults: groupedBySite,
           hasSearched: true,
@@ -118,7 +126,7 @@ export default class Home extends Component {
       .catch((error) => {
         console.log('got an error');
         console.log(error);
-        this.setState({hasSearched: true})
+        this.setState({hasSearched: true, loading: false});
       })
   }
 
@@ -132,29 +140,52 @@ export default class Home extends Component {
 
         <main>
           <Header>
-            <h2 style={{ color: 'grey' }}>robots are fun</h2>
+            <h2 style={{ color: 'grey' }}>robots.txt database</h2>
           </Header>
           <Content>
-            <Row>
-              <Col span={8}></Col>
-              <Col span={8}>
+            <Row style={{ paddingTop: '20px' }}>
+              <Col span={4}></Col>
+              <Col span={14}>
+                <Card>
+                  <p>
+                  Robots.txt files are used to tell search engines (and other robots) what content on a website they should "index"
+                  and show in search results. If a website doesn't want certain content to show up in search results (from Google, for example),
+                  that website can specify a set of rules telling search engines what content to ignore. (link to read more? give an example?)
+                  </p>
+
+                  <p>
+                  Robots.txt files are public (try viewing https://www.cdc.gov/robots.txt for example). This project has gathered robots.txt files across 9000+ government websites,
+                  and has made them available to search. For example, to find all of the election-related rules, try searching "election" below. In each
+                  search result, there is also a link to the Internet Archive's <a href="https://archive.org/web/">Wayback Machine</a>. In some cases,
+                  you may be able to find content that has been removed from the live version of a website, but was previously archived.
+                  </p>
+
+                  <p>
+                  For more information on how the 9000+ websites were collected, please see (TODO link to FAQ or something).
+                  </p>
+                </Card>
+              </Col>
+              <Col span={4}></Col>
+            </Row>
+            <Row style={{ paddingTop: '20px' }}>
+              <Col span={6}></Col>
+              <Col span={10}>
                 <Search
-                  placeholder="Search across a bunch of robots.txt"
+                  placeholder="Search across 9000+ government robots.txt files"
                   onSearch={this.handleSearch}
                 />
+                <small>For example: covid, testimony, pdf, election</small>
               </Col>
-              <Col span={8}></Col>
-            </Row>
-            <Row>
-              <Col span={8}></Col>
-              <Col span={8}>
-                What's a robots.txt file?
-              </Col>
-              <Col span={8}></Col>
+              <Col span={6}></Col>
             </Row>
             <Row>
               <Col span={2} />
               <Col span={20}>
+                {this.state.loading &&
+                  <center>
+                    <Spin/>
+                  </center>
+                }
                 {this.state.hasSearched &&
                   <Table
                     dataSource={this.state.groupedSearchResults}
