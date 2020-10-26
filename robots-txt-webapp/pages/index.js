@@ -25,8 +25,9 @@ class MatchesForOneSiteComponent extends Component {
             <div className="ruleRow" key={`${oneRow.domain}${i}`}>
               <div>{oneRow.rule}</div>
               <div className="externalLinks">
-                  <span>View this page: <a target="_blank" href={`https://${oneRow.domain}/${oneRow.rule}`}>Live version</a>, </span>
-                  <span><a target="_blank" href={waybackMachineUrl(oneRow.domain, oneRow.rule)}>Internet archive</a></span>
+                  <span>View this page: <a target="_blank" href={`https://${oneRow.domain}${oneRow.parsedFields.urlPattern}`}>Live version</a>, </span>
+                  <span><a target="_blank" href={waybackMachineUrl(oneRow.domain, oneRow.parsedFields.urlPattern)}>Internet archive for exact URL</a>, </span>
+                  <span><a target="_blank" href={waybackMachineUrl(oneRow.domain, oneRow.parsedFields.urlPattern)+'*'}>Internet archive for this URL prefix</a></span>
               </div>
             </div>
           );
@@ -66,6 +67,7 @@ export default class Home extends Component {
       searchText: null,
       searchResults: null,
       groupedBySite: null,
+      hasSearched: false,
     };
 
     this.handleSearch = this.handleSearch.bind(this);
@@ -88,13 +90,18 @@ export default class Home extends Component {
         const rowsWithLinks = data.rows.map(row => {
           let liveLink = '';
           let archiveLink = '';
+          let urlPattern = '';
+          // e.g. allow or disallow
+          let directive = '';
           if (row.rule.includes('allow')) {
             const splitRule = row.rule.split(':');
-            const url = splitRule[1].trim();
-            liveLink = `https://${row.domain}${url}`;
-            archiveLink = waybackMachineUrl(row.domain, url);
+            directive = splitRule[0].trim();
+            // https://developers.google.com/search/reference/robots_txt#url-matching-based-on-path-values
+            urlPattern = splitRule[1].trim();
+            liveLink = `https://${row.domain}${urlPattern}`;
+            archiveLink = waybackMachineUrl(row.domain, urlPattern);
           }
-          return {...row, links: {liveLink, archiveLink} };
+          return {...row, links: {liveLink, archiveLink}, parsedFields: {directive, urlPattern} };
         })
 
         const grouped = groupBy(rowsWithLinks, row => row.domain);
@@ -105,11 +112,13 @@ export default class Home extends Component {
         this.setState({
           searchResults: rowsWithLinks,
           groupedSearchResults: groupedBySite,
+          hasSearched: true,
         });
       })
       .catch((error) => {
         console.log('got an error');
         console.log(error);
+        this.setState({hasSearched: true})
       })
   }
 
@@ -137,19 +146,32 @@ export default class Home extends Component {
               <Col span={8}></Col>
             </Row>
             <Row>
+              <Col span={8}></Col>
+              <Col span={8}>
+                What's a robots.txt file?
+              </Col>
+              <Col span={8}></Col>
+            </Row>
+            <Row>
               <Col span={2} />
               <Col span={20}>
-                <Table
-                  dataSource={this.state.groupedSearchResults}
-                  columns={this.state.groupedSearchColumns}
-                  pagination={ {defaultPageSize: 50} }
-                  expandable={{
-                    expandedRowRender: record => { return <MatchesForOneSiteComponent siteAndMatches={record} />} ,
-                    rowExpandable: record => true
-                  }}
-                  expandRowByClick={true}
-                  rowKey={record => record.siteName}
+                {this.state.hasSearched &&
+                  <Table
+                    dataSource={this.state.groupedSearchResults}
+                    columns={this.state.groupedSearchColumns}
+                    pagination={ {defaultPageSize: 50} }
+                    rowKey={record => record.siteName}
+                    expandable={{
+                      expandedRowRender: record => { return <MatchesForOneSiteComponent siteAndMatches={record} />} ,
+                      rowExpandable: record => true,
+                      // TODO - figure out why this doesn't actually expand all rows? maybe
+                      // this https://github.com/react-component/table/issues/93
+                      // or https://github.com/ant-design/ant-design/issues/21788
+                      // defaultExpandAllRows: true,
+                    }}
+                    expandRowByClick={true}
                 />
+                }
               </Col>
               <Col span={2} />
             </Row>
