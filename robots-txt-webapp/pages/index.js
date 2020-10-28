@@ -78,10 +78,12 @@ export default class Home extends Component {
   }
 
   handleSearch(value, _) {
+    const trimmedSearch = value.trim();
+    this.setState({searchText: trimmedSearch});
     // Datasette is read-only (and everyone has access to all the data, by design), so no
     // need to do any extra SQL injection escaping here. See
     // https://docs.datasette.io/en/stable/sql_queries.html?highlight=injection#running-sql-queries
-    const fullUrl = `https://robots-dot-txt-db.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${value}%25%27+order+by+domain`;
+    const fullUrl = `https://robots-dot-txt-db.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${trimmedSearch}%25%27+order+by+domain`;
     this.setState({loading: true});
     fetch(fullUrl)
       .then(response => response.json())
@@ -185,6 +187,9 @@ export default class Home extends Component {
                   <center>
                     <Spin/>
                   </center>
+                }
+                {this.state.hasSearched &&
+                  <h3><em>Search results for "{this.state.searchText}"</em></h3>
                 }
                 {this.state.hasSearched &&
                   <Table
