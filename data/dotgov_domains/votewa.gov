@@ -1,333 +1,153 @@
-
-
 <!DOCTYPE html>
-<html lang="en" role="main" class="w-100 h-100 p-0 m-0">
-<head><title>
-	Voter Portal
-</title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="stylesheet" href="/Content/bootstrap.min.css" /><link rel="stylesheet" href="/Content/font-awesome.min.css" />
-    <script src="/Scripts/jquery.min.js"></script>
-    <script src="/Scripts/umd/popper.min.js"></script>
-    <script src="/Scripts/bootstrap.min.js"></script>
-    <script src="/Scripts/globals.js"></script>
-    <script src="/Scripts/sweetalerts.js"></script>
-    <link href="/Content/sidebar.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js" type="text/javascript"></script>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <link rel="stylesheet" href="/Styles/jquery-ui.css" />
-    <script src="/Scripts/jquery-ui.js"></script>
-    <style type="text/css">
-        .fieldset {
-            border: 1px solid #ddd !important;
-            margin: 0;
-            xmin-width: 0;
-            padding: 10px;
-            position: relative;
-            border-radius: 4px;
-            background-color: #f5f5f5;
-            padding-left: 10px !important;
-        }
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
 
-        .legend {
-            font-size: 14px;
-            font-weight: bold;
-            margin-bottom: 0px;
-            width: 35%;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 5px 5px 5px 10px;
-            background-color: #ffffff;
-        }
-        
-        .loadinggif {
-            background: url('/Images/ajax-loader.gif') no-repeat right 5px center !important;
-            background-color: white !important;
-            border: 1px solid #ccc !important;
-        }
 
-        .iframe-loading {
-            background: white url('../Images/Loading.gif') center center no-repeat;
-        }
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
 
-        .iframe-holder {
-            border-color: white;
-            border-width: 10px;
-            border-style: solid;
-            border-radius: 10px;
-            -webkit-box-shadow: 5px -5px 71px -15px rgba(0,0,0,0.75);
-            -moz-box-shadow: 5px -5px 71px -15px rgba(0,0,0,0.75);
-            box-shadow: 5px -5px 71px -15px rgba(0,0,0,0.75);
-        }    
-    </style>
 
-    <style type="text/css">
-        ul.navbar-nav a:hover {
-            color: #f00 !important;
-        }
-    </style>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-50445087-8"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
 
-        gtag('config', 'UA-50445087-8');
-    </script>
+
+<style type="text/css">
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
 </head>
-<body class="m-0 p-0" style="min-width: 100%; min-height: 100%; background-image: url(/Images/Background-Pic.jpg); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; background-position: center;">
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> voter.votewa.gov</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=01d61884226cee9c515e715fc78ab5f21197d60a-1604114523-0-AYLbl0rxDVosSWBb7wMHzXLs5YJHux8oyflHpefrbxLux1ZzlPg441D2TaLvITng3KGEm004dId1ZqDzxGfs7G28ydlcz1yJQaDq-nAkWoX08tBe8ua1p5yIsdQZhrCoIMMhoQvlvlFcWn8cxtgBDDi9WsaHp0n0Je2JCeE3sd2glVSTsh5meNc68Zw2MAkew6zX82vTSb_GPbt-x-2kUFnkiVWz4DzamboAbCW1WqixYeZIp9IqqO26htPIL5TlBhLJFyUg92w3VO4IodVyyUJPN7CbTElsAubRv8qiDKNWggg3IQpBIqBbwzbcTSRboPAC5n518wqef6XtwI2l1x0LAyhVXOfQCiiUhneo5PsigYBqHZo7cYt2HWR9egQUT3FrjpiGlTsrCbpoD2mFYlkqZh5F13mB3kGQ9IIZupvOTENVtkjOPpGok47hRpHyDFMeur3nsfGNmZrGEoWoomx4PwRb02b1iQTU5iwSieQtaeeGUaeHB4ZvAP95Qlagc77qQ3VO0VA741847kCH5BHXp8GeHC2Q4V_Op8lG5a4s" method="POST" enctype="application/x-www-form-urlencoded">
+  
+  <input type="hidden" name="r" value="5b2599f1f15705614df10f6b7e61ebd87087faf9-1604114523-0-AdBLzpz9Y+dCM1pI9SxFfMOk3nmHWpLQlpMq0WhRoseTPcpWMKW4Z2Rr9MbQhR5MgvHAtNoCRCArO+A6O1pQxHjSGSOD4k4F0FmzjZlGsN6HGB3OUF5L92lWBPlMAdipReLO50tUoqwcjfv1iHi/unS6z6LxDphhb4sDFPgRS7UfGFybgqLF7TF40p4igYnD/z3J0aviyTA54vBnzzB/zcFpNaXAIt6eeZFPH0hJs0YC+k/yfzn9PgK0LnXPvjUfbktrMtGF3siyqakC9pWd/lIs3pQ0RKPfXI2JkVNVrvOXD5Mh7nHuIqhSo8lYdBG7rpNL2R+V+FCZmmj3dsb5IOUgJjKoO7AR1niY9vFEj2EF1sVVJRo9hMMdRm1A5NYLWFCHH/aDmXyUwSQ9uAwJnA01VgkA1+S23pe5IFpRJBdbaCOHjvWsTtzCRDB/UZKEdQmPHKUADxbVD1MIg7pC3Dyk+SHiHLwqVr51lNC3RcioD4tvPwT23/lhnAtK7xqf2sRifzjy53ztLgWXkyxBdR8YCPCQT3FlbpeRCHztpa7xFBymOERB0x2zTijrHb6sa8/38pF4/TiQSGdBmPB99bTp8ERXPt9QU2U2AXOpr/UPxUMBND+UPj3ZthnD7NsINv2yoX9pSuMlASqgWtHgxKmiBkVGxefmhMO1IJJjL8/niJL85MUlNpF+xKN6Te0/xB9P69G2eQsZ9Izm/P12OqGIMYwzWLvOoxsPtSxU6ojbvrE2IistnRdJV4Eqsq9YEVTb4bONW+nSENLtrHLTms73cDQoyvgU5dHS3s+w7QYCSZdvYJOIWRr8wZPnXpbO781FfbL0K9aa6h6UYL27/eANpnvKEXXpocgW1rlOqInjKfn9tN8CskhcDIrGZNJlIS4QsA8ZNJupSAMcIFvAdO9IL8FAeCkM39YYin1vGdrVWDFghaRf8tWuDeVrQHjRWgnSpckQCxDcZGG3n7iK+lzRGcbyaMp1eMJ3DGmoQedaisEQR+kQp3/7EpCpSqa+dPjTB8wDIzKPdraz4qEmYDk432tEb6pKL+tffXWm+sGQhUx/cpinHESQDR0KpQfHa+BL9bLWf03z/Q/dot2ALpUfYAxPAEGDbp19DGDBHJwP4ciZYCm57PxWrAjn5ULRjOyVhQG3ZouqPcLvpIpZ7zgdO8Gp3sZjrzQaLJzI312iGK4BE/3+3QTiGlgA5Cin0BbCLAQLmbwaiLEuSYDQ7mH06thRBDIPg0WDzx59kp28/69vh4vSO2lL+U7Hb1Eg2LxZVy9F9+H+Xw1Q+wvO16322mOPe+2XcIpDWmP8rCQD+BhnimuleSxD964V9KFgqglULEYT6Hlj28k1UOV5aPluquaXgexWCRwNDZKSR+8lvUG4hAhhTqK6yYIbU3LVmSZwzzwe2dd7CNAAVTr0lPoCZEs251Kap//XAzui7EN15g9cOniGolksf0uKE5+W+wZ51+XvPNKZnOkUP+GEK8+AkB8lvOV1nWpu37b4Ixb+bbnh1HT4xhC2SXQMv7yjRovPztup4X+zMfWcHRmRh17jAeiFl5Emq8FLXlVYlWv+8LSCgS6y1hkwHRcxr2pZvIHdl30kmEw25C8bEBeIoLnLQulCCLRiweoH9gsPSc9ajHkCvS/1NnXlM92P7AUM9Tp5XKdRxkwTW1oKqhj17O7Wy9USWMwb5H0X1FHpcJZPr2nPFvuy/vic53sqV49x7Q==">
+  <input type="hidden" name="cf_captcha_kind" value="h">
+  <input type="hidden" name="vc" value="">
+  
+  <script type="text/javascript" src="/cdn-cgi/scripts/hcaptcha.challenge.js" data-type="normal" data-ray="5eaa3fdb0cfa304f" async data-sitekey="33f96e6a-38cd-421b-bb68-7806e1764460"></script>
+  
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="no-cookie-warning" data-translate="turn_on_cookies" style="display:none">
+    <h1 data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies.</h1>
+  </div>
+  <script type="text/javascript">
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=5eaa3fdb0cfa304f')"></div>
+</form>
 
-    <form name="frmMain" method="post" action="./WhereToVote.aspx" id="frmMain" autocomplete="off">
-<input type="hidden" name="__VIEWSTATE__" id="__VIEWSTATE__" value="rVDJTsMwEFVNHaEWyTeOYC4EJCpoESCgVCpLb5xA4oiceJIGgm2NJxX9emonEl/Qy5v1vVn+ekILPhyNr8YXk9ubyfWl0PusiMB2AiaFiP7B0NUqh6WtNSBP3kBhvtSsJ0So9d/hl/6TmiUtO/J2owkdey+IFl/Be1UCnx+bzLv7adYQWSNp7eAh7YJU5rXyPoRKlyBbHGllSsB0djQ977pmYUg/Ch+y7Yjx7siBNd+wdhj25PMvtVI+x8rRHQI1aOQHZAuLP5+LCuEZCtXU9NhKnMAKDJ3JNCPzZA1VpoH0ND5ieztuAA==" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABOvVXD1oYELeveMr0vHCmYP4+3WpZQNb82rzs2KnT3rh9OTPU1ZFsAuxS3FHYHfGfAMYidTlweRex9B3nSKa/VpEwu0mMdEE941nOXBgrSoZPDF2YI+AXlPo3CxHnXLXPyR534kON/M43GBy8HElun3TXC779G9PoO03g/NkUNph34FgF6IH+vOo98gnrmI80EDuWqH7ln/IEFSnJqGFnWNJBsKJbrQNn1T0CNfCSNU/k9lFx5xiO+49HBzl/pskhDxh7jwZiPQ/K1GzkeqiWhYP0qdZ8qdXhYh8VJP2qAiaHgxb5zlODuRC74KaMqR7d5wPdiD+7saENivGMQD9My3zxJJl+hsKqZqkdGlHxV5jJv+VBp/eBoqyS7pRrFYExLeehtq1XDPWUD+aExqznHYwiDQ3bPVSDBOpJlRATP856+fRYY4srANuzXLmsAWq5U=" />
-        <div class="container-fluid m-0 p-0">
-            <div class="row m-0 p-0">
-                <div class="col-md-12 m-0 p-0">
-                    <div class="d-none col-md-12 d-print-none" style="background-color: #8A3538;">
-                        <table class="border-0">
-                            <tr>
-                                <td><a href="/">
-                                    <img class="m-2" alt="Washington Secretary of State Logo" alt="Vote Washington Logo" height="25" width="118" src="/images/site-logo.png"></a>
-                                    <h1 class="float-right sr-only bg-dark text-light">Vote Washington</h1>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
-                    <nav class="navbar navbar-expand-lg shadow-lg bg-dark navbar-dark static-top d-print-none">
-                        <span class="navbar-brand"><a href="/"><img class="m-2" alt="Washington Secretary of State Logo" alt="Vote Washington Logo" height="25" width="118" src="/images/site-logo.png"></a></span>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" value="CollapsibleNavBar" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                            <span class="sr-only">Toggle Menu</span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
-                            <ul class="navbar-nav mr-auto">
-                                <li class="d-none nav-item"><a class="nav-link text-white" href="/WhereToVote.aspx">Home</a></li>
-                                <li class="nav-item d-none"><a class="nav-link text-white" href="#">About the Office</a></li>
-                                <li class="nav-item d-none"><a class="nav-link text-white" href="#">Secretary of State Bio</a></li>
-                                <li class="nav-item d-none"><a class="nav-link text-white" href="#">Contact Us</a></li>
-                            </ul>
-                            <div class="form-inline" id="collapsibleNavbar">
-                            </div>
-                            <input name="ctl00$txtSearch" id="txtSearch" class="d-none form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
-                            <input type="button" name="ctl00$btnSearchHeader" value="Search" onclick="javascript:__doPostBack(&#39;ctl00$btnSearchHeader&#39;,&#39;&#39;)" id="btnSearchHeader" class="d-none btn btn-outline-light my-2 my-sm-0" />
-                            <label for="ddlLanguages" class="sr-only bg-dark text-light">Languages</label>
-                            <i class="fa fa-globe fa-2x text-white ml-3 align-middle mr-1"></i>
-                            <select name="ctl00$ddlLanguages" id="ddlLanguages" class="dropdown form-control" style="width: auto; display: inline;">
-	<option value="en-us" class="text-dark">English</option>
-	<option value="es" class="text-dark">Espa&#241;ol</option>
-	<option value="zh" class="text-dark">中文</option>
-	<option value="vi" class="text-dark">Tiếng Việt</option>
-	<option value="ko" class="text-dark">한국어</option>
-
-</select>
-                            <button onclick="__doPostBack('ctl00$btnChangeLanguage','')" id="btnChangeLanguage" type="submit" class="btn btn-primary"><i class="fa fa-caret-right"></i><i class="sr-only bg-dark text-light">Change</i></button>
-                        </div>
-                    </nav>
-                    <div id="divBreadcrumb" class="breadcrumb d-none shadow font-weight-bold d-print-none" style="color: black;">
-                        <a class="breadcrumb-item">Home </a>
-                    </div>
-
-                    
-                    <br />
-                    <div class="row m-0 p-0">
-                        
-    <input type="hidden" name="ctl00$ContentPlaceHolder1$hdnNext" id="hdnNext" />
-    <input type="hidden" name="ctl00$ContentPlaceHolder1$hdnVoterID" id="hdnVoterID" />
-    <input name="ctl00$ContentPlaceHolder1$hdnPrecinct" type="hidden" id="hdnPrecinct" />
-    <input name="ctl00$ContentPlaceHolder1$hdnAddress" type="hidden" id="hdnAddress" />
-    <input name="ctl00$ContentPlaceHolder1$hdnCity" type="hidden" id="hdnCity" />
-    <input name="ctl00$ContentPlaceHolder1$hdnState" type="hidden" id="hdnState" />
-    <input name="ctl00$ContentPlaceHolder1$hdnZip" type="hidden" id="hdnZip" />
-
-    <div class="row col-12 m-0 p-0 justify-content-lg-center">
-        <div id="divSearchVoter" class="card rounded shadow bg-transparent col-lg-4 ml-2 mr-2 p-0">
-            <div class="card-header bg-secondary text-center text-light">
-                <span class="h3">Register to vote | My voting information</span>
+              </div>
             </div>
-            <div style="background-color: rgba(255,255,255,0.7);" class="card-body">
-                
-                <div class="alert alert-warning h4">Register, update, and learn what’s on your ballot. Click Submit.<p></p></div>
-                <div class="form-inline">
-                    <label for="txtFirstName" class="col-sm-5 justify-content-end mr-sm-2 mb-sm-2">First Name:</label>
-                    <input name="ctl00$ContentPlaceHolder1$txtFirstName" type="text" maxlength="50" id="txtFirstName" class="col-sm-6 form-control mb-sm-2 text-uppercase" />
-                    
-                </div>
-                <div class="form-inline">
-                    <label for="txtLastName" class="col-sm-5 justify-content-end mr-sm-2 mb-sm-2">Last Name:</label>
-                    <input name="ctl00$ContentPlaceHolder1$txtLastName" type="text" maxlength="50" id="txtLastName" class="col-sm-6 form-control mb-sm-2 text-uppercase" />
-                    
-                </div>
-                <div class="form-inline">
-                    <label for="txtBirthDate" class="col-sm-5 justify-content-end mr-sm-2 mb-sm-2">Date of Birth:</label>
-                    <input name="ctl00$ContentPlaceHolder1$txtBirthDate" type="text" id="txtBirthDate" placeholder="mm/dd/yyyy" class="col-sm-6 form-control mb-sm-2" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;btnContinue&#39;)" />
-                    
-                    
-                </div>
-                
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
             </div>
-            <div class="card-footer text-right bg-light">
-                <button type="reset" validationgroup="vgIndividual" class="btn btn-outline-secondary btn-lg bg-white text-dark font-weight-bold col-lg-12 col-xl-4 mt-2" style="font-size: 22pt;">Clear</button>
-                <button id="btnContinue" type="button" ValidationGroup="vgIndividual" class="btn btn-outline-primary btn-lg bg-white text-primary font-weight-bold col-lg-12 col-xl-4 mt-2" style="font-size: 22pt;" onclick="javascript:$(&#39;#hdnNext&#39;).val(&#39;Continue&#39;);grecaptcha.execute();">Submit</button>
-            </div>
+          </div><!-- /.columns -->
         </div>
-        
-        <br />
-        <br />
-        &nbsp;
-    </div>
-    <label for="g-recaptcha-response" class="sr-only">recaptha response</label>
-    <div class="g-recaptcha" data-sitekey="6LdCsHAUAAAAAOyk7feeFLg1CC8v4Gz3bphbT-VQ" data-size="invisible" data-callback="recaptchaCallback"></div>
+      </div><!-- /.captcha-container -->
 
-                    </div>
-                    <br />
-                    <br />
-                    &nbsp;
-                </div>
-                <div class="d-none d-lg-block navbar navbar-expand-lg bg-dark navbar-dark fixed-bottom">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleFootbar" value="NavFootbarButton">
-                        <span class="navbar-toggler-icon"></span>
-                        <span class="sr-only">Toggle Menu</span>
-                    </button>
-                    <div class="collapse navbar-collapse" id="collapsibleFootbar">
-                        <span class="text-white">Copyright © 2018 Washington Secretary of State.</span>
-                        <ul class="navbar-nav ml-auto">
-                            <li class="nav-item">
-                                <a class="nav-link text-light" href="https://www.sos.wa.gov/elections/">Contact Us</a>
-                            </li>
-                            <li class="nav-item d-none">
-                                <a class="nav-link text-light" href="#">Disclaimer</a>
-                            </li>
-                            <li class="nav-item d-none">
-                                <a class="nav-link text-light" href="#">Privacy Policy</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
         </div>
-    </form>
+      </div><!-- /.section -->
+      
 
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">5eaa3fdb0cfa304f</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 40.77.64.80</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
     
+  </p>
+</div><!-- /.error-footer -->
 
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('#txtBirthDate').mask('00/00/0000');
-            SetAutoComplete();
-        });
 
-        function recaptchaCallback(token) {
-            document.getElementsByTagName('form')[0].submit();
-        }
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
 
-        $(function () {
-            $('[data-toggle="tooltip"]').tooltip();
-        });
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
 
-        //var taBaseUri = '';
-
-        function SetAutoComplete() {
-            $('#txtResAddress').autocomplete({
-                source: function (request, response) {
-                    $('#txtResAddress').addClass('loadinggif');
-                    console.log('before ajax');
-                    $.ajax({
-                        url: "/TotalAddressAjax.aspx?value=" + request.term,
-                        dataType: "json",
-                        type: "GET",
-                        contentType: "application/json; charset=utf-8",
-                        success: function (data) {
-                            console.log('success ' + request.term);
-                            if (data.length == 0) {
-                                console.log('no data');
-                                response(["no matching addresses found"]);
-                                $('#txtResAddress').removeClass('loadinggif');
-                            }
-                            else {
-                                console.log('got data');
-                                response($.map(data, function (value, key) {
-                                    return {
-                                        label: value.display,
-                                        value: value
-                                    }
-                                }));
-                                console.log(data);
-                                $('#txtResAddress').removeClass('loadinggif');
-                            }
-                        },
-                        error: function (XMLHttpRequest, textStatus, errorThrown) {
-                            console.log(errorThrown);
-                            //alert('Total Address is currently unavailable or having issues. Please try again later.');
-                            $('#txtResAddress').removeClass('loadinggif');
-                        }
-                    });
-                    console.log('after ajax');
-                },
-                select: function (event, ui) {
-                    console.log('selected');
-                    var add = ui.item.value;
-
-                    console.log(add);
-                    if (add == 'no matching addresses found') {
-                        $('#txtResAddress').val(document.getElementById('txtResAddress').defaultValue);
-                        return false;
-                    }
-                    $('#hdnPrecinct').val(add.precinctID);
-                    $('#hdnAddress').val(add.display.replace(" " + add.zip, "").replace(" " + add.city, ""));
-                    $('#hdnCity').val(add.city);
-                    $('#hdnState').val(add.state);
-                    $('#hdnZip').val(add.zip);
-                    $('#txtResAddress').val($('#hdnAddress').val());
-                    $('#btnSearchAddress').click();
-                    return false;
-                }
-            });
-        }
-
-        function GetAddressParts(text, clientId, countyId) {
-            //console.log('getaddressparts ' + text);
-            //let url = taBaseUri + '/api/v1/address/detail/' + text;
-            //let data = {};
-
-            //return $.ajax({
-            //    url: url,
-            //    type: "GET",
-            //    data: data,
-            //    headers: { "Authorization": "Bearer " + taToken },
-            //    success: function (data) {
-            //        console.log('success parts');
-            //        $('#txtResAddress').val(text.substring(0, text.length - 6));
-            //        $('#txtResCity').val(data.city);
-            //        $('#txtResZip').val(data.zipCode);
-            //        if (data.zipPlus4 != '') {
-            //            $('#txtResZip').val($('#txtResZip').val() + '-' + data.zipPlus4);
-            //        }
-            //        $('#ddlResCounty').val(data.county);
-            //        $('#txtResAddress').removeClass('loadinggif');
-            //        $('#txtResCity').removeClass('loadinggif');
-            //        $('#txtResZip').removeClass('loadinggif');
-            //    },
-            //    failure: function (data) {
-            //        console.log('failure parts');
-            //        $('#txtResAddress').removeClass('loadinggif');
-            //        $('#txtResCity').removeClass('loadinggif');
-            //        $('#txtResZip').removeClass('loadinggif');
-            //    },
-            //    error: function (data) {
-            //        console.log('error parts');
-            //        $('#txtResAddress').removeClass('loadinggif');
-            //        $('#txtResCity').removeClass('loadinggif');
-            //        $('#txtResZip').removeClass('loadinggif');
-            //    }
-            //});
-        }
-
-    </script>
 
 </body>
 </html>
-<script type="text/javascript">
-    $('input[type=text]').blur(function () {
-        $(this).val($(this).val().trim());
-    });
-</script>

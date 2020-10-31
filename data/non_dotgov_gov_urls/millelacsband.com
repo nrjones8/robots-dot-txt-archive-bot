@@ -2201,6 +2201,8 @@
               Virgil Wind Takes Office as District I Representative            </a>
                       <a href="https://millelacsband.com/news/stronghearts-scales-to-respond-to-crisis-within-a-crisis" >
               Stronghearts Scales to Respond to Crisis within a Crisis            </a>
+                      <a href="https://millelacsband.com/news/virgil-wind-becky-clitso-garcia-running-for-onamia-school-board" >
+              Virgil Wind, Becky Clitso-Garcia Running for Onamia School Board            </a>
                       <a href="https://millelacsband.com/news/community-meeting-provides-update-on-urban-housing-project" >
               Community Meeting Provides Update on Urban Housing Project            </a>
                       <a href="https://millelacsband.com/news/manoomin-presentation-september-26-27" >
@@ -2213,6 +2215,8 @@
               Band Receives Entrepreneurship Grant            </a>
                       <a href="https://millelacsband.com/news/band-assembly-weekly-update-for-september-21-25-2020" >
               Band Assembly Weekly Update for September 21-25, 2020            </a>
+                      <a href="https://millelacsband.com/news/becky-clitso-garcia-asking-for-your-support-on-november-3" >
+              Becky Clitso-Garcia — Asking for Your Support on November 3            </a>
                       <a href="https://millelacsband.com/news/secretary-treasurer-s-midterm-update" >
               Secretary-Treasurer's Midterm Update            </a>
                       <a href="https://millelacsband.com/news/elders-can-experience-domestic-violence" >
@@ -2241,14 +2245,54 @@
               The Unsung Hero of the Legislative Branch            </a>
                       <a href="https://millelacsband.com/news/election-guide-sent-to-band-members" >
               Election Guide Sent to Band Members            </a>
+                      <a href="https://millelacsband.com/news/nazhike-tough-decisions-shinaabs-make" >
+              Nazhike — Tough Decisions Shinaabs Make            </a>
                       <a href="https://millelacsband.com/news/new-ordinance-modifies-child-support-code" >
               New Ordinance Modifies Child Support Code            </a>
                       <a href="https://millelacsband.com/news/weekly-news-summary-for-october-11-16" >
               Weekly News Summary for October 11-16            </a>
                       <a href="https://millelacsband.com/news/comment-period-open-for-draft-revisor-s-office-statute" >
               Comment period open for draft Revisor's Office statute            </a>
-                      <a href="https://millelacsband.com/news/aanjibimaadizing-moves-to-fomer-clinic-building" >
-              Aanjibimaadizing Moves to Fomer Clinic Building            </a>
+                      <a href="https://millelacsband.com/news/separation-of-powers-helps-ensure-the-survival-of-our-sovereign-nation" >
+              Separation of Powers Helps Ensure the Survival of Our Sovereign Nation            </a>
+                      <a href="https://millelacsband.com/news/aanjibimaadizing-moves-to-former-clinic-building" >
+              Aanjibimaadizing Moves to Former Clinic Building            </a>
+                      <a href="https://millelacsband.com/news/band-assembly-weekly-update-october-12-16" >
+              Band Assembly Weekly Update, October 12-16            </a>
+                      <a href="https://millelacsband.com/news/the-real-meaning-of-community-service" >
+              The Real Meaning of Community Service            </a>
+                      <a href="https://millelacsband.com/news/weekly-news-summary-for-october-18-24" >
+              Weekly News Summary for October 18-24            </a>
+                      <a href="https://millelacsband.com/news/detailed-gaming-regulation-revision-project" >
+              Detailed Gaming Regulation Revision Project            </a>
+                      <a href="https://millelacsband.com/news/you-re-coming-with-me-a-love-story-for-the-ages" >
+              'You're Coming with Me!' — A Love Story for the Ages            </a>
+                      <a href="https://millelacsband.com/news/band-member-voices-zooming-towards-recovery" >
+              Band Member Voices — Zooming Towards Recovery            </a>
+                      <a href="https://millelacsband.com/news/band-assembly-weekly-update-october-19-23" >
+              Band Assembly Weekly Update, October 19-23            </a>
+                      <a href="https://millelacsband.com/news/dnr-wants-your-opinion" >
+              DNR wants your opinion on management plan            </a>
+                      <a href="https://millelacsband.com/news/interim-early-ed-director-is-head-start-graduate" >
+              Interim Early Ed Director is Head Start Graduate            </a>
+                      <a href="https://millelacsband.com/news/it-s-time-to-get-out-the-native-vote" >
+              It's Time to Get Out the Native Vote!            </a>
+                      <a href="https://millelacsband.com/news/fall-and-winter-in-person-events-canceled-due-to-pandemic" >
+              Fall and Winter In-Person Events Canceled Due to Pandemic            </a>
+                      <a href="https://millelacsband.com/news/one-last-reminder-go-vote" >
+              One Last Reminder: Go Vote!            </a>
+                      <a href="https://millelacsband.com/news/public-hearing-november-12-for-revisor-s-office-legislation" >
+              Public Hearing November 12 for Revisor's Office Legislation            </a>
+                      <a href="https://millelacsband.com/news/health-and-human-services-shares-covid-19-announcement" >
+              Health and Human Services Shares COVID-19 Announcement            </a>
+                      <a href="https://millelacsband.com/news/band-member-voices-raise-your-voice-on-november-3" >
+              Band Member Voices — Raise Your Voice on November 3!            </a>
+                      <a href="https://millelacsband.com/news/band-member-voices-the-return-of-wenabozho" >
+              Band Member Voices — The Return of Wenabozho            </a>
+                      <a href="https://millelacsband.com/news/weekly-news-summary-october-25-31" >
+              Weekly News Summary, October 25-31            </a>
+                      <a href="https://millelacsband.com/news/november-2020-message-from-the-chief-executive" >
+              November 2020 Message from the Chief Executive            </a>
                   </div>
       </nav>
       
@@ -2324,8 +2368,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/aanjibimaadizing-moves-to-fomer-clinic-building" class="news-title">
-          Aanjibimaadizing Moves to Fomer Clinic Building        </a>
+        <a href="https://millelacsband.com/news/november-2020-message-from-the-chief-executive" class="news-title">
+          November 2020 Message from the Chief Executive        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

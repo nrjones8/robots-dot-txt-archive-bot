@@ -42,43 +42,43 @@
   <title>NC.gov</title>
   <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
   <style type="text/css" media="all">
-@import url("//www.nc.gov/modules/system/system.base.css?qikw42");
-@import url("//www.nc.gov/modules/system/system.menus.css?qikw42");
-@import url("//www.nc.gov/modules/system/system.theme.css?qikw42");
+@import url("//www.nc.gov/modules/system/system.base.css?qit7c7");
+@import url("//www.nc.gov/modules/system/system.menus.css?qit7c7");
+@import url("//www.nc.gov/modules/system/system.theme.css?qit7c7");
 </style>
 <style type="text/css" media="all">
-@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qikw42");
+@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qit7c7");
 </style>
 <style type="text/css" media="all">
-@import url("//www.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qikw42");
-@import url("//www.nc.gov/modules/aggregator/aggregator.css?qikw42");
-@import url("//www.nc.gov/modules/comment/comment.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qikw42");
-@import url("//www.nc.gov/modules/field/theme/field.css?qikw42");
-@import url("//www.nc.gov/modules/node/node.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qikw42");
-@import url("//www.nc.gov/modules/user/user.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/views/css/views.css?qikw42");
+@import url("//www.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qit7c7");
+@import url("//www.nc.gov/modules/aggregator/aggregator.css?qit7c7");
+@import url("//www.nc.gov/modules/comment/comment.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qit7c7");
+@import url("//www.nc.gov/modules/field/theme/field.css?qit7c7");
+@import url("//www.nc.gov/modules/node/node.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qit7c7");
+@import url("//www.nc.gov/modules/user/user.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/views/css/views.css?qit7c7");
 </style>
 <style type="text/css" media="all">
-@import url("//www.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qikw42");
-@import url("//www.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qikw42");
-@import url("//www.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qikw42");
+@import url("//www.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qit7c7");
+@import url("//www.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qit7c7");
+@import url("//www.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qit7c7");
 </style>
 <style type="text/css" media="all">
-@import url("//www.nc.gov/profiles/north_carolina/modules/custom/nc_gtranslate/css/nc_gtranslate_block.css?qikw42");
+@import url("//www.nc.gov/profiles/north_carolina/modules/custom/nc_gtranslate/css/nc_gtranslate_block.css?qit7c7");
 </style>
-<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qikw42" media="all" />
-<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qikw42" media="print" />
-<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/style-ncgov.css?qikw42" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qit7c7" media="all" />
+<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qit7c7" media="print" />
+<link type="text/css" rel="stylesheet" href="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/style-ncgov.css?qit7c7" media="all" />
   <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/EventListener.js"></script><![endif]-->
   <!--[if IE 8]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/selectivizr-min.js"></script><![endif]-->
   <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
@@ -91,61 +91,61 @@ jQuery.migrateMute = true; jQuery.migrateTrace = false;
 <script type="text/javascript" src="//www.nc.gov/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="//www.nc.gov/misc/drupal.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/misc/drupal.js?qit7c7"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qit7c7"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 document.createElement( "picture" );
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qit7c7"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qit7c7"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-47173823-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/custom/nc_gtranslate/js/nc_gtranslate.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/custom/nc_gtranslate/js/nc_gtranslate.js?qit7c7"></script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qit7c7"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_base_theme","theme_token":"qto5NwW6EBvSJ9Zjl2MFkje3FyMtv6AxAglHKm07-YE","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/css\/nc_gtranslate.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/css\/nc_gtranslate_block.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-ncgov.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts_handler.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/js\/nc_gtranslate.js":1,"\/\/translate.google.com\/translate_a\/element.js?cb=googleTranslateElementInit":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"better_exposed_filters":{"views":{"nc_services_services":{"displays":{"block_1":{"filters":[]}}},"nc_gov_press_releases_block":{"displays":{"block":{"filters":[]}}}}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"nc_gtranslate":{"languages":"am,ar,zh-TW,en,hi,hmn,km,lo,pl,pt,ru,sr,so,es,th,vi","color":"092940"},"urlIsAjaxTrusted":{"\/advanced-search":true},"nc_alerts":{"options":{"transitionStyle":"goDown","navigation":true,"slideSpeed":500,"paginationSpeed":500,"singleItem":true,"mouseDrag":false,"callbacks":true,"addClassActive":true,"autoHeight":true,"navigationText":["\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E"]}},"currentUser":0,"field_group":{"div":"full"},"collapseAccordions":1});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_base_theme","theme_token":"Ehg8FubjTEaJuTI2_g2Ecec7gux6qfV-wxdSruB_zK4","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/css\/nc_gtranslate.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/css\/nc_gtranslate_block.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-ncgov.css":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts_handler.js":1,"profiles\/north_carolina\/modules\/apps\/nc_alerts\/js\/nc_alerts.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"profiles\/north_carolina\/modules\/custom\/nc_gtranslate\/js\/nc_gtranslate.js":1,"\/\/translate.google.com\/translate_a\/element.js?cb=googleTranslateElementInit":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"better_exposed_filters":{"views":{"nc_services_services":{"displays":{"block_1":{"filters":[]}}},"nc_gov_press_releases_block":{"displays":{"block":{"filters":[]}}}}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"nc_gtranslate":{"languages":"am,ar,zh-TW,en,hi,hmn,km,lo,pl,pt,ru,sr,so,es,th,vi","color":"092940"},"urlIsAjaxTrusted":{"\/advanced-search":true},"nc_alerts":{"options":{"transitionStyle":"goDown","navigation":true,"slideSpeed":500,"paginationSpeed":500,"singleItem":true,"mouseDrag":false,"callbacks":true,"addClassActive":true,"autoHeight":true,"navigationText":["\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-left\u0022\u003E\u003C\/i\u003E","\u003Ci class=\u0022icon-chevron-right\u0022\u003E\u003C\/i\u003E"]}},"currentUser":0,"field_group":{"div":"full"},"collapseAccordions":1});
 //--><!]]>
 </script>
 </head>
@@ -180,7 +180,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
                               <form action="/advanced-search" method="get" id="nc-search-block-form" accept-charset="UTF-8"><label for="nc_search_block_form" class="visuallyhidden">Search NC.gov</label>
 <input type="search" placeholder="Search All NC Government Sites..." name="s" id="nc_search_block_form" />
 <input type="submit" value="Submit" /><span class="icon-search" aria-hidden="true"></span>
-<input type="hidden" name="form_build_id" value="form-pJV20u26j3P1QjkIW7M781EygZLDnqrbB2LAZljCOXo" />
+<input type="hidden" name="form_build_id" value="form-0XpGkurSzoZvROLFyQPc-8Ddr2C8YG9UQT2ueJ7IjFo" />
 <input type="hidden" name="form_id" value="nc_search_block_form" />
 </form>                          </div>
           </div>
@@ -274,7 +274,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div aria-label="First level" class="">
     <button href="#" class="flyout-trigger close-trigger" aria-hidden="true"><span class="icon-close" aria-hidden="true"></span><span>Close Menu</span></button>
     <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer">
-              <nav class='topical-nav' role='navigation' aria-label='Topical Navigation'><h2 class='visuallyhidden'>Topical Navigation</h2><ul class="wrapper"><li class="first leaf home home"><a href='/'>NORTH CAROLINA</a></li><li class="collapsed "><a href='/covid-19/staying-ahead-curve'>Staying Ahead of the Curve</a></li><li class="leaf "><a href='/covid-19/business-employer-covid-19-resources'>Business & Employer Resources</a></li><li class="expanded has-mega "><a href='/services'>Services</a></li><li class="leaf "><a href='/agencies'>Agencies</a></li><li class="leaf "><a href='/covid-19/family-community-covid-19-resources'>Family & Community Resources</a></li><li class="expanded has-mega "><a href='/government'>Government</a></li><li class="leaf "><a href='/covid-19/higher-education-covid-19-resources'>Higher Education Resources</a></li><li class="leaf "><a href='/job%C3%9F'>Jobs</a></li><li class="leaf "><a href='/covid-19/k-12-education-covid-19-resources'>K-12 Education Resources</a></li><li class="expanded has-mega "><a href='/about'>About NC</a></li><li class="leaf "><a href='/covid-19/covid-19-recreation-resources'>Tourism & Recreation Resources</a></li><li class="expanded has-mega "><a href='/contact'>Contact</a></li><li class="leaf "><a href='/covid-19/covid-19-travel-resources'>Travel Resources</a></li><li class="collapsed "><a href='/covid-19/covid-19-updates'>Updates</a></li><li class="leaf "><a href='/covid19/covid19-news-releases'>News Releases</a></li><li class="leaf "><a href='/covid-19/covid-19-orders'>Orders</a></li><li class="last leaf "><a href='/covid19'>COVID-19</a></li></ul></nav>          </div>
+              <nav class='topical-nav' role='navigation' aria-label='Topical Navigation'><h2 class='visuallyhidden'>Topical Navigation</h2><ul class="wrapper"><li class="first leaf home home"><a href='/'>NORTH CAROLINA</a></li><li class="expanded has-mega "><a href='/services'>Services</a></li><li class="leaf "><a href='/agencies'>Agencies</a></li><li class="expanded has-mega "><a href='/government'>Government</a></li><li class="leaf "><a href='/job%C3%9F'>Jobs</a></li><li class="expanded has-mega "><a href='/about'>About NC</a></li><li class="last expanded has-mega "><a href='/contact'>Contact</a></li></ul></nav>          </div>
           <nav class='enterprise-nav' role='navigation' aria-label='Enterprise Navigation'><h2 class='visuallyhidden'>Enterprise Navigation</h2><ul class="wrapper"><li><a href='/' title='NC.GOV Home'><span class="icon-nc-brand" aria-hidden="true"></span><span>NC.GOV Home</span></li><li><a href='/services' title='Services'><span class='icon-phonelink' aria-hidden='true'></span><span>Services</span></a></li></ul></nav>      </div>
 </div>              </header>
     </div> <!-- /.section, /#header -->
@@ -284,7 +284,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
               <div id="alert-box">
           <div class="section clearfix">
               <div class="region region-alert-box">
-    <div id="alerts" data-alerts-hash="d63d3ca508df82d5fbce5df5fc406ebc" class="wrapper group alerts"><div id='alert-395' class='alert-box warning' style='display:none;'><div class='wrapper group'><span class='alert-icon' aria-hidden='true'></span><div class='message'><h2 class='alert-type'>COVID-19</h2>Resources, information and assistance from across state government. <a href="https://www.nc.gov/covid19" target="_blank" alt="Read More Visit the Information Hub">Visit the Information Hub</a></div></div></div></div>  </div>
+    <div id="alerts" data-alerts-hash="219a9d01e1c176f822488b068d373dcb" class="wrapper group alerts"><div id='alert-235' class='alert-box info' style='display:none;'><div class='wrapper group'><span class='alert-icon' aria-hidden='true'></span><div class='message'><h2 class='alert-type'>Flag Alert</h2>Gov. Roy Cooper has ordered all US and NC flags at state facilities to be lowered to half-staff until sunset Monday, November 2, 2020 in honor of North Carolina native, US Coast Guard Ensign Morgan Garrett, who passed away during a training flight. </div></div></div><div id='alert-395' class='alert-box warning' style='display:none;'><div class='wrapper group'><span class='alert-icon' aria-hidden='true'></span><div class='message'><h2 class='alert-type'>COVID-19</h2>Resources, information and assistance from across state government. <a href="https://www.nc.gov/covid19" target="_blank" alt="Read More Visit the Information Hub">Visit the Information Hub</a></div></div></div></div>  </div>
           </div>
         </div> <!-- /.section, /#alert-box -->
                         <main id="main" class=" no-breadcrumbs">
@@ -320,7 +320,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
         <div class="field-items" >
                     <div class="field-item" >
               <section class="entity entity-paragraphs-item paragraphs-item-two-column band theme-accent-blue pad-small full-bleed no-gutter clearfix"
-   about="" typeof="" style="background-image: url(https://files.nc.gov/ncgov/styles/band_background_image/public/GettyImages-957864366.jpg?itok=UChY6LTJ);">
+   about="" typeof="" style="background-image: url(https://files.nc.gov/ncgov/styles/band_background_image/public/1440x500_300.png?itok=S1wxaGxs);">
 
   
   <section class="content band-content wrapper parts-span-two-third"
@@ -334,14 +334,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="content">
     <div class="search">
 <form accept-charset="UTF-8" action="/advanced-search" id="nc-search-block-form" method="get">
+		<center>
 <p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+<h1>Welcome to North Carolina!</h1>
+<h2>How can we help you?</h2>
+<p>		</p></center>
 <p><label class="visuallyhidden" for="nc_search_block_form">Search NC.gov</label> <input id="nc_search_block_form" name="s" placeholder="Find Information about NC Government Services, Agencies, and More..." type="search" /><input type="submit" value="Submit" /><span aria-hidden="true" class="icon-search"></span> <input name="form_build_id" type="hidden" value="form-a2UzDNxPZBShoTEQ2Ae6ie-za6lz5KLveoL_dUJ1IdM" /><input name="form_id" type="hidden" value="nc_search_block_form" /> </p>
 </form>
 </div>
@@ -476,7 +473,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div class="view view-nc-services-services view-id-nc_services_services view-display-id-block_1 view-dom-id-607182da97379458389d1428174c89fa">
+    <div class="view view-nc-services-services view-id-nc_services_services view-display-id-block_1 view-dom-id-e08c8acdbb5b249cfdfd9453ee5597f6">
         
   
   
@@ -972,11 +969,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div>
   <div class="cards">
     <div class="card article " itemscope="" itemtype="http://schema.org/Article">
-      <a href="https://www.ncsbe.gov/news/press-releases/2020/10/20/state-board-launches-voting-portal-blind-visually-impaired-voters" itemprop="url">
+      <a href="https://www.ncsbe.gov/news/press-releases/2020/10/29/receipt-deadline-november-12-ballots-postmarked-election-day" itemprop="url">
         <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncgov/styles/card_photo/public/vote-button.jpg?itok=APz2wfc8" width="500" height="376" alt="Vote button" /></span>
         <div class="meta">
-          <h3 itemprop="name">State Board Launches Voting Portal for Blind, Visually Impaired Voters</h3>
-                      <time itemprop="datePublished" datetime="">Oct 20, 2020</time>
+          <h3 itemprop="name">Receipt Deadline is November 12 for Ballots Postmarked by Election Day</h3>
+                      <time itemprop="datePublished" datetime="">Oct 29, 2020</time>
                                 <span itemprop="keywords">Election</span>
                             </div>
       </a>
@@ -998,12 +995,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div>
   <div class="cards">
     <div class="card article " itemscope="" itemtype="http://schema.org/Article">
-      <a href="https://governor.nc.gov/news/following-data-north-carolina-will-remain-paused-phase-3" itemprop="url">
-        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncgov/styles/card_photo/public/Gov-Cooper-COVID-mask.jpeg?itok=bBP5OEdV" width="500" height="376" alt="Governor Cooper wearing a mask" /></span>
+      <a href="https://www.ncdoi.gov/news/press-releases/2020/10/29/turn-clocks-back-weekend-remember-replace-your-smoke-alarm-batteries" itemprop="url">
+        <span itemprop="photo"><img typeof="foaf:Image" src="https://files.nc.gov/ncgov/styles/card_photo/public/clock-smoke-alarm.jpg?itok=N7mNTLRn" width="500" height="376" alt="clock and smoke alarm" /></span>
         <div class="meta">
-          <h3 itemprop="name">Following the Data, North Carolina Will Remain Paused in Phase 3</h3>
-                      <time itemprop="datePublished" datetime="">Oct 21, 2020</time>
-                                <span itemprop="keywords">COVID</span>
+          <h3 itemprop="name">Turn clocks back this weekend, remember to replace your smoke alarm batteries</h3>
+                      <time itemprop="datePublished" datetime="">Oct 29, 2020</time>
+                                <span itemprop="keywords">Safety</span>
                             </div>
       </a>
     </div>
@@ -1022,7 +1019,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <div class="view view-nc-gov-press-releases-block view-id-nc_gov_press_releases_block view-display-id-block view-dom-id-7d6edd6797c1f11b408a430a27ef3d59">
+    <div class="view view-nc-gov-press-releases-block view-id-nc_gov_press_releases_block view-display-id-block view-dom-id-1f91a5e2c9ad41b0104f5a2cd7f647b7">
         
   
   
@@ -1030,16 +1027,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <section class="quick-links">
     <ul>
           <li class="views-row views-row-1" itemscope itemtype="http://schema.org/Thing">
-        <a href="http://www2.ncdps.gov/Index2.cfm?a=000003,000014,000081,001683&amp;mpa=5314" itemprop="url">A Silver Alert has been issued for BENJAMIN  GRIMES by the N.C. Center for Missing Persons</a>
-<time datetime="2020-10-23T20:53:00-04:00">Oct 23</time>
+        <a href="https://deq.nc.gov/news/press-releases/2020/10/30/secretary%E2%80%99s-environmental-justice-and-equity-advisory-board-meet" itemprop="url">Secretary’s Environmental Justice and Equity Advisory Board to meet November 23</a>
+<time datetime="2020-10-30T16:04:07-04:00">Oct 30</time>
       </li>
           <li class="views-row views-row-2" itemscope itemtype="http://schema.org/Thing">
-        <a href="https://www.ncdps.gov/news/press-releases/2020/10/23/juvenile-escapes-union-county-multi-purpose-group-home" itemprop="url">Juvenile Escapes from Union County Multi-Purpose Group Home</a>
-<time datetime="2020-10-23T17:54:41-04:00">Oct 23</time>
+        <a href="https://www.ncdhhs.gov/news/press-releases/ncdhhs-launches-online-portal-reimburse-providers-treating-those-without-health" itemprop="url">NCDHHS Launches Online Portal to Reimburse Providers Treating Those Without Health Insurance for COVID-19 Related Primary Care Visits</a>
+<time datetime="2020-10-30T16:03:30-04:00">Oct 30</time>
       </li>
           <li class="views-row views-row-3" itemscope itemtype="http://schema.org/Thing">
-        <a href="https://www.ncdps.gov/news/press-releases/2020/10/23/department-transportation-receives-318-million" itemprop="url">Department of Transportation Receives $3.18 Million</a>
-<time datetime="2020-10-23T16:27:24-04:00">Oct 23</time>
+        <a href="https://www.ncdhhs.gov/news/press-releases/ncdhhs-launches-online-portal-reimburse-providers-treating-those-without-health" itemprop="url">NCDHHS Launches Online Portal to Reimburse Providers Treating Those Without Health Insurance for COVID-19 Related Primary Care Visits</a>
+<time datetime="2020-10-30T16:03:30-04:00">Oct 30</time>
       </li>
       </ul>
 </section>
@@ -1252,9 +1249,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   </div></div> <!-- /#page, /#page-wrapper -->
 <script type="text/javascript" async="async" src="//www.nc.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
 <script type="text/javascript" async="async" src="//www.nc.gov/sites/all/modules/contrib/picture/picture.min.js?v=7.72"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts_handler.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts.js?qikw42"></script>
-<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qikw42"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts_handler.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/modules/apps/nc_alerts/js/nc_alerts.js?qit7c7"></script>
+<script type="text/javascript" src="//www.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qit7c7"></script>
 <!--[if lte IE 9]><script src="profiles/north_carolina/themes/nc_base_theme/js/libs/flexie.min.js"></script><![endif]-->
 </body>
 </html>

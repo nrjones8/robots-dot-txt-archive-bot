@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="en"> 
 <head>
-<!-- P1 -->
+<!-- P2 -->
 <meta name="viewport" content="initial-scale=0.8; width=device-width" /> <script> function getWidth() { xWidth = null; if(window.screen!= null) xWidth = window.screen.availWidth; if(window.innerWidth != null) xWidth = window.innerWidth; if(document.body !=null) xWidth = document.body.clientWidth; return xWidth; } if (/(Android|iPhone|iPod|webOS|NetFront|Opera Mini|SEMC-Browser|PlayStationPortable|Nintendo Wii|BlackBerry)/.test(navigator.userAgent) && (!(getWidth() > 600)|| /Mobile/.test(navigator.userAgent))){if(!String(window.location).match(/view_full/)){ window.location = "/mobile";} } </script> <title>U.S. Bureau of Labor Statistics</title> <!-- ****************************************** Begin META TAGS********************************************* --> <link href="/stylesheets/bls_home.css" rel="Stylesheet" type="text/css"media="all" /> 	<!-- START include/global/head.stm -->
 	<script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOL&subagency=BLS&yt=true"></script>
 	<script src="/javascripts/jquery-latest.js"></script>
@@ -284,7 +284,7 @@ fsReady(function() {
 		<li><a href="/cps/" aria-label="Labor Force Statistics from the Current Population Survey">Worker Characteristics </a></li>
 		<li><a href="/emp/" aria-label="Employment Projections">Employment Projections </a></li>
 		<li><a href="/jlt/" aria-label="Job Openings and Labor Turnover Survey">Job Openings &amp; Labor Turnover Survey </a></li>
-		<!--<li><a href="/brs/" aria-label="Business Response to Pandemic">Business Response to Pandemic</a></li>-->	
+		<li><a href="/brs/" aria-label="COVID-19 Business Response">COVID-19 Business Response</a></li>
 		<li><a href="/oes/" aria-label="Occupational Employment Statistics">Employment by Occupation </a></li>
 		<li><a href="/nls/" aria-label="National Longitudinal Surveys">Work Experience Over Time </a></li>
 		<li><a href="/bdm/" aria-label="Business Employment Dynamics">Business Employment Dynamics </a></li>
@@ -462,7 +462,7 @@ fsReady(function() {
 <div id="left-side-content"><!-- Place announcements here --> <div class="highlight-box-red">
 <span class="heading">Announcement</span>
   <ul>
-        <li>BLS COVID-19 Questions and Answers Updated October 20, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
+        <li>BLS COVID-19 Questions and Answers Updated October 30, 2020 <a title="Read more about BLS COVID-19 Questions and Answers page" class="green-anchor-button" aria-label="Read more about BLS COVID-19 Questions and Answers page" href="/covid19/home.htm">Full Story &raquo;</a></li>
 
   </ul>
 </div>	 <!-- End announcements here --> <div id="news-releases">
@@ -472,26 +472,23 @@ fsReady(function() {
 				<div class="nr-date-month">
 					Oct				</div>
 				<div class="nr-date-day">
-					20				</div>
+					30				</div>
 			</div>
 				<div class="nr-entry">
 			<h4>					
-											<a href="/news.release/laus.nr0.htm" 
-				title = "Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3">
-				Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3						</a></h4>
+											<a href="/news.release/eci.nr0.htm" 
+				title = "Compensation costs up 0.5% Jun 2020 to Sep 2020 and up 2.4% over the year ending Sep 2020">
+				Compensation costs up 0.5% Jun 2020 to Sep 2020 and up 2.4% over the year ending Sep 2020						</a></h4>
 										<p>
-								In September, unemployment rates were lower in 30 states, higher in 8 states, and
-stable in 12 states and the District of Columbia. Nonfarm payroll employment increased
-in 30 states, decreased in 3 states, and was essentially unchanged in 17 states and
-the District.				</p>
+								Compensation costs rose 0.5 percent for civilian workers, seasonally adjusted, from June 2020 to September 2020. Over the year, compensation rose 2.4 percent, with wages and salaries rising 2.5 percent and benefit costs increasing 2.3 percent.				</p>
 						<p>
-			<a class="blue-links" href="/news.release/laus.nr0.htm" title="HTML version of State Employment and Unemployment (Monthly) News Release">
+			<a class="blue-links" href="/news.release/eci.nr0.htm" title="HTML version of Employment Cost Index News Release">
 			HTML</a> 
-			| <a class="blue-links" href="/news.release/pdf/laus.pdf" title="PDF version of State Employment and Unemployment (Monthly) News Release" >
+			| <a class="blue-links" href="/news.release/pdf/eci.pdf" title="PDF version of Employment Cost Index News Release" >
 			PDF</a>
-			| <a class="blue-links" href="/feed/laus.rss" title="Subscribe to the State Employment and Unemployment (Monthly) News Release Feed" >
+			| <a class="blue-links" href="/feed/eci.rss" title="Subscribe to the Employment Cost Index News Release Feed" >
 			RSS</a>
-							| <a class="blue-links" href="/charts/state-employment-and-unemployment/" title = "Charts related to the latest State Employment and Unemployment (Monthly) News Release">
+							| <a class="blue-links" href="/charts/employment-cost-index/" title = "Charts related to the latest Employment Cost Index News Release">
 				Charts</a>
 									</p>
 		</div>
@@ -500,38 +497,38 @@ the District.				</p>
 							<div id="nr-archive">	
 				<!-- BEGIN 2 NEWS RELEASE ARCHIVE LIST-->
 		<span class="nr-archive-date">
+			10/28/2020		</span>
+		<h4>
+											<a href="/news.release/cewbd.nr0.htm" 
+				title = "Gross job gains 7.0 million and gross job losses 7.7 million in the 1st quarter of 2020">
+				Gross job gains 7.0 million and gross job losses 7.7 million in the 1st quarter of 2020					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			10/28/2020		</span>
+		<h4>
+											<a href="/news.release/metro.nr0.htm" 
+				title = "Sept. jobless rates up over the year in 388 of 389 metro areas; payroll jobs down in 251">
+				Sept. jobless rates up over the year in 388 of 389 metro areas; payroll jobs down in 251					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
+			10/20/2020		</span>
+		<h4>
+											<a href="/news.release/laus.nr0.htm" 
+				title = "Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3">
+				Sept. jobless rates down in 30 states, up in 8; payroll jobs up in 30 states, down in 3					</a></h4>
+		<div class="clearfloat"></div>	
+		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
+						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
+		<span class="nr-archive-date">
 			10/16/2020		</span>
 		<h4>
 											<a href="/news.release/wkyeng.nr0.htm" 
 				title = "Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020">
 				Median weekly earnings of full-time wage and salary workers are $994 in 3rd quarter 2020					</a></h4>
-		<div class="clearfloat"></div>	
-		<!-- END 2 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 3 NEWS RELEASE ARCHIVE LIST-->
-		<span class="nr-archive-date">
-			10/15/2020		</span>
-		<h4>
-											<a href="/news.release/ximpim.nr0.htm" 
-				title = "Import prices rise 0.3% in September despite lower fuel prices; export prices up 0.6%">
-				Import prices rise 0.3% in September despite lower fuel prices; export prices up 0.6%					</a></h4>
-		<div class="clearfloat"></div>	
-		<!-- END 3 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 4 NEWS RELEASE ARCHIVE LIST-->
-		<span class="nr-archive-date">
-			10/14/2020		</span>
-		<h4>
-											<a href="/news.release/ppi.nr0.htm" 
-				title = "PPI for final demand increases 0.4% in September; services and goods both rise 0.4%">
-				PPI for final demand increases 0.4% in September; services and goods both rise 0.4%					</a></h4>
-		<div class="clearfloat"></div>	
-		<!-- END 4 NEWS RELEASE ARCHIVE LIST-->
-						<!-- BEGIN 5 NEWS RELEASE ARCHIVE LIST-->
-		<span class="nr-archive-date">
-			10/13/2020		</span>
-		<h4>
-											<a href="/news.release/cpi.nr0.htm" 
-				title = "CPI for all items rises 0.2% in September as used cars and trucks index increases">
-				CPI for all items rises 0.2% in September as used cars and trucks index increases					</a></h4>
 		<div class="clearfloat"></div>	
 		<!-- END 5 NEWS RELEASE ARCHIVE LIST-->
 				</div>
@@ -791,11 +788,11 @@ the District.				</p>
 <div class="grid-box"><!-- BEGIN SLOT #01-->
 <h3><a title="The Economics Daily" class="tooltip-homepage" href="/opub/ted/" rel="A daily digest on the latest and most important labor market information available from the Bureau.">The Economics Daily &raquo;</a></h3>
 <!--Insert TED Headlines File here--> <ul class="grid-links">
-<li><a href="/opub/ted/2020/employment-in-hawaii-down-18-point-4-percent-from-september-2019-to-september-2020.htm" title="State employment, Sep 2020">State employment, Sep 2020</a></li>
-<li><a href="/opub/ted/2020/women-had-median-weekly-earnings-of-902-in-third-quarter-2020-compared-with-1104-for-men.htm" title="Weekly earnings by sex, Q3 2020">Weekly earnings by sex, Q3 2020</a></li>
-<li><a href="/opub/ted/2020/u-s-import-prices-down-1-point-1-percent-from-september-2019-to-september-2020.htm" title="U.S. import prices, September 2020">U.S. import prices, September 2020</a></li>
-<li><a href="/opub/ted/2020/producer-prices-for-final-demand-up-0-4-percent-for-the-year-ended-in-september-2020.htm" title="PPI increases 0.4% in September 2020">PPI increases 0.4% in September 2020</a></li>
-<li><a href="/opub/ted/2020/real-average-hourly-earnings-increased-3-point-3-percent-from-september-2019-to-september-2020.htm" title="Real earnings, September 2020">Real earnings, September 2020</a></li>
+<li><a href="/opub/ted/2020/251-out-of-389-metropolitan-areas-had-decreases-in-employment-for-the-year-ended-september-2020.htm" title="Metro area employment, Sept. 2020">Metro area employment, Sept. 2020</a></li>
+<li><a href="/opub/ted/2020/employers-paid-67-percent-of-premiums-for-family-medical-care-coverage-in-2020.htm" title="Employer share of medical premiums">Employer share of medical premiums</a></li>
+<li><a href="/opub/ted/2020/the-midwest-states-are-tooled-for-production.htm" title="Production occupations in the Midwest">Production occupations in the Midwest</a></li>
+<li><a href="/opub/ted/2020/hawaii-and-nevada-had-largest-drops-in-employment-population-ratio-from-february-to-september.htm" title="State employment&ndash;population ratios">State employment&ndash;population ratios</a></li>
+<li><a href="/opub/ted/2020/all-50-states-and-the-district-had-jobless-rate-increases-from-a-year-earlier-in-september-2020.htm" title="State unemployment, September 2020">State unemployment, September 2020</a></li>
 </ul> <!--End TED Headlines File here--><a title="Visit Editor's Desk page" class="read-more-link" aria-label="Visit Editor's Desk page" href="/opub/ted/">More Articles &raquo;</a></div>
 <!-- END SLOT #01-->
 <div class="grid-box"><!-- BEGIN SLOT #02-->
@@ -867,6 +864,17 @@ the District.				</p>
     <div class="items">
      
 <div class="slideshow-item">
+<h3><a href="https://www.bls.gov/opub/mlr/">MONTHLY LABOR REVIEW</a></h3>
+<a href="https://www.bls.gov/opub/mlr/2020/article/employment-changes-by-employer-size-during-the-covid-19-pandemic-a-look-at-the-current-employment-statistics-survey-microdata.htm">
+<img src="/home/feature/2020-10-27-employment-changes-by-employer-size-during-the-covid-19-pandemic.png" alt="Open Again sign in shop window" />
+</a>
+<h4><a href="https://www.bls.gov/opub/mlr/2020/article/employment-changes-by-employer-size-during-the-covid-19-pandemic-a-look-at-the-current-employment-statistics-survey-microdata.htm">Employment changes by employer size during the COVID-19 pandemic</a></h4>
+<p>This article examines data for the private sector to calculate employment changes since February 2020 by employer size.	<span>
+		<a href="https://www.bls.gov/opub/mlr/2020/article/employment-changes-by-employer-size-during-the-covid-19-pandemic-a-look-at-the-current-employment-statistics-survey-microdata.htm" class="read-more-link" aria-label="Employment changes by employer size during the COVID-19 pandemic"> read more &raquo; </a>
+	</span>
+</p>
+</div>
+<div class="slideshow-item">
 <h3><a href="https://www.bls.gov/opub/btn/">BEYOND THE NUMBERS</a></h3>
 <a href="https://www.bls.gov/opub/btn/volume-9/the-effects-of-tarifff-rates-on-the-u-s-economy-what-the-producer-price-index-tells-us.htm">
 <img src="/home/feature/2020-10-22-effects-of-tariff-rates-on-us-economy.png" alt="Notebooks containing invoices and tariff rates on desk in office building" />
@@ -907,17 +915,6 @@ the District.				</p>
 <h4><a href="https://www.bls.gov/opub/mlr/2020/article/projections-overview-and-highlights-2019-29.htm">Labor force and employment projections, 2019–29</a></h4>
 <p>Most employment gains over the 2019–29 period are expected to be in the service-providing sectors.	<span>
 		<a href="https://www.bls.gov/opub/mlr/2020/article/projections-overview-and-highlights-2019-29.htm" class="read-more-link" aria-label="Labor force and employment projections, 2019–29"> read more &raquo; </a>
-	</span>
-</p>
-</div>
-<div class="slideshow-item">
-<h3><a href="https://www.bls.gov/opub/btn/">BEYOND THE NUMBERS</a></h3>
-<a href="https://www.bls.gov/opub/btn/volume-9/job-openings-and-labor-turnover-trends-for-msas.htm">
-<img src="/home/feature/2020-09-14-job-openings-and-labor-turnover-trends-for-metro-areas.png" alt="Images of 4 different metropolitian areas" />
-</a>
-<h4><a href="https://www.bls.gov/opub/btn/volume-9/job-openings-and-labor-turnover-trends-for-msas.htm">Job openings and labor turnover trends for metro areas</a></h4>
-<p>This article examines job openings, hires, separations, labor churn, and unemployment in the 18 largest metropolitan areas.	<span>
-		<a href="https://www.bls.gov/opub/btn/volume-9/job-openings-and-labor-turnover-trends-for-msas.htm" class="read-more-link" aria-label="Job openings and labor turnover trends for metro areas"> read more &raquo; </a>
 	</span>
 </p>
 </div>
@@ -989,7 +986,7 @@ the District.				</p>
 								
 																						<p>
 																																		<a href="/news.release/eci.toc.htm">Employment Cost Index (ECI):</a><br>
-																									<span title="Compensation, all civilian workers, quarterly percent change, seasonally adjusted" class="data">+0.5%   in 2nd Qtr of 2020</span>
+																									<span title="Compensation, all civilian workers, quarterly percent change, seasonally adjusted" class="data">+0.5%   in 3rd Qtr of 2020</span>
 														
 															<a href="/news.release/eci.toc.htm" aria-label="News Release for  Compensation, all civilian workers, quarterly percent change, seasonally adjusted"><img src="/images/icons/icon_new_release_small.gif" alt="News Release" /></a>	
 														

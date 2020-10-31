@@ -101,7 +101,7 @@
             <button class="menu-icon" type="button" data-toggle></button>
             <div class="title-bar-title menu-left mtxt">MENU</div>
               <div class="title-bar-title float-right nav-social-ico">
-                <span class="scdate-small">October 24th, 2020 &nbsp;&nbsp;</span>
+                <span class="scdate-small">October 31st, 2020 &nbsp;&nbsp;</span>
               </div>
           </div>
     </div> 
@@ -110,7 +110,7 @@
      
       <div class="hide-for-small show-for-custom top-bar-right title-bar">          
           <div class="hide-for-small show-for-custom title-bar-title nav-social-ico">
-             <span class="scdate">October 24th, 2020 &nbsp;&nbsp;</span>          </div>      
+             <span class="scdate">October 31st, 2020 &nbsp;&nbsp;</span>          </div>      
       </div>
    
 
@@ -272,6 +272,9 @@
                           <li><a href="/documents/human-resources/">Human Resources</a></li>
 
                         
+                          <li><a href="/documents/jobs/">Job Listings</a></li>
+
+                        
                           <li><a href="/documents/meeting-schedules/">Meeting Schedules</a></li>
 
                         
@@ -305,7 +308,7 @@
                    <li><a alt="bids &amp; rfps"  href="/documents/bids/">Bid Postings</a></li> 
                   <li><a alt="community calendar" href="/calendar/">Community Calendar</a></li>
                   <li><a alt="county directory" href="/directory/">County Directory</a></li>
-                  <li><a target="_blank" href="https://www.arcgis.com/home/webmap/viewer.html?webmap=be9ae75010e543029f12edf346c29c8f&extent=-86.0694,30.3906,-85.2599,30.776">District Map</a></li>
+                  <li><a target="_blank" href="https://arcg.is/1a1Gru1">District Map</a></li>
                  <li><a target="_blank" alt="sign up for emergency alerts" href="http://alertwashington.org/">Get Emergency Alerts</a></li> 
                    <li><a alt="job listings" href="/departments/hr/jobs/">Employment Opportunities</a></li> 
                 

@@ -284,8 +284,8 @@ RZ.jsversion = 1.2//--><!]]></script>
 
 
 	<div id="alert">
-		<span id="alert-header">City Hall Lobby Closed:</span>
-		<span id="alert-caption">The City Hall lobby is closed until October 26th.
+		<span id="alert-header">City Hall Closed Veteran's Day:</span>
+		<span id="alert-caption">City Hall and City of Poteau offices will be closed on November 11th.&nbsp;
 			
 				<em><a href="alert_detail_T27_R1.php" id="alert-more">read more</a></em>
 			

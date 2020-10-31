@@ -20,13 +20,13 @@
 	<link href="/media/gantry5/assets/css/lightcase.css" rel="stylesheet" />
 	<link href="/media/gantry5/assets/css/font-awesome.min.css" rel="stylesheet" />
 	<link href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali_233.css?5f9cbd8d" rel="stylesheet" />
 	<link href="/media/gantry5/assets/css/bootstrap-gantry.css" rel="stylesheet" />
 	<link href="/media/gantry5/engines/nucleus/css-compiled/joomla.css" rel="stylesheet" />
 	<link href="/media/jui/css/icomoon.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css" rel="stylesheet" />
-	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/denali-joomla_233.css?5f9cbd8d" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom_233.css?5f9cbd8d" rel="stylesheet" />
+	<link href="/templates/rt_denali/custom/css-compiled/custom-ks_233.css?5f9cbd8d" rel="stylesheet" />
 	<link href="/media/widgetkit/wk-styles-17f6132e.css" rel="stylesheet" id="wk-styles-css" />
 	<script src="https://www.potatoes.com/media/com_acymailing/js/acymailing_module.js?v=51012" async></script>
 	<script src="/media/jui/js/jquery.min.js?e7c8efb464a0b300894111f7f9cdf03d"></script>
@@ -52,11 +52,11 @@
 			acymailingModule['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
 		
 		acymailingModule['level'] = 'enterprise';
-		acymailingModule['reqFieldsformAcymailing74371'] = Array('html');
-		acymailingModule['validFieldsformAcymailing74371'] = Array('Please enter a value for the field Receive');
-acymailingModule['excludeValuesformAcymailing74371'] = [];
-acymailingModule['excludeValuesformAcymailing74371']['name'] = 'Name';
-acymailingModule['excludeValuesformAcymailing74371']['email'] = 'E-mail';
+		acymailingModule['reqFieldsformAcymailing68121'] = Array('html');
+		acymailingModule['validFieldsformAcymailing68121'] = Array('Please enter a value for the field Receive');
+acymailingModule['excludeValuesformAcymailing68121'] = [];
+acymailingModule['excludeValuesformAcymailing68121']['name'] = 'Name';
+acymailingModule['excludeValuesformAcymailing68121']['email'] = 'E-mail';
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -993,20 +993,20 @@ acymailingModule['excludeValuesformAcymailing74371']['email'] = 'E-mail';
              <div class="g-content">
                                     <div class="platform-content"><div class="moduletable ">
 							<h3 class="g-title">JOIN OUR MAILING LIST</h3>
-						<div class="acymailing_module" id="acymailing_module_formAcymailing74371">
-	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing74371"  >
-		<form id="formAcymailing74371" action="/" onsubmit="return submitacymailingform('optin','formAcymailing74371')" method="post" name="formAcymailing74371"  >
+						<div class="acymailing_module" id="acymailing_module_formAcymailing68121">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing68121"  >
+		<form id="formAcymailing68121" action="/" onsubmit="return submitacymailingform('optin','formAcymailing68121')" method="post" name="formAcymailing68121"  >
 		<div class="acymailing_module_form" >
 						<table class="acymailing_form">
 				<tr>
 													<td class="acyfield_name ">
-								<input id="user_name_formAcymailing74371"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
-								<input id="user_email_formAcymailing74371"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
+								<input id="user_name_formAcymailing68121"  style="width:80%" onfocus="if(this.value == 'Name') this.value = '';" onblur="if(this.value=='') this.value='Name';" type="text" class="inputbox" name="user[name]" value="Name" title="Name"/>								</td>								<td class="acyfield_email acy_requiredField">
+								<input id="user_email_formAcymailing68121"  style="width:80%" onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" type="text" class="inputbox required" name="user[email]" value="E-mail" title="E-mail"/>								</td>					<td class="captchakeymodule">
 										</td>
 					
 					
 					<td  class="acysubbuttons">
-												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing74371'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing68121'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
 											</td>
 				</tr>
 			</table>
@@ -1018,7 +1018,7 @@ acymailingModule['excludeValuesformAcymailing74371']['email'] = 'E-mail';
 			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.potatoes.com%2Findex.php"/>
 			<input type="hidden" name="option" value="com_acymailing"/>
 						<input type="hidden" name="hiddenlists" value="1"/>
-			<input type="hidden" name="acyformname" value="formAcymailing74371" />
+			<input type="hidden" name="acyformname" value="formAcymailing68121" />
 									</div>
 		</form>
 	</div>

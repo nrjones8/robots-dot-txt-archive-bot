@@ -84,6 +84,10 @@
 <div id="logo">
 <a href="home"><img title="KHEAA logo" alt="KHEAA logo" src="/images/kheaa_logo.png"></a>
 </div>
+<div title="Important announcement from KHEAA" id="alert">
+<h2>Attention</h2>
+<p>Our offices will be closed on Tuesday, Nov. 3, in observance of the presidential election. We apologize for any inconvenience this may cause.</p>
+</div>
 </div>
 <div id="task-nav">
 <div class="wrapper">

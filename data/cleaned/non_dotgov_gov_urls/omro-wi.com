@@ -1,4 +1,4 @@
-Sitemap: http://www.omro-wi.com/sitemap.xml
+Sitemap: https://www.omro-wi.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

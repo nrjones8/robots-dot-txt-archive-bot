@@ -39,7 +39,7 @@
 }
 
 	</style>
-	<script type="application/json" class="joomla-script-options new">{"csrf.token":"2a7827a381c6769815e19256935b37b0","system.paths":{"root":"","base":""}}</script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"16b1bc6692f1f29b7c2a6eef5421d459","system.paths":{"root":"","base":""}}</script>
 	<script src="/media/jui/js/jquery.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-noconflict.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
 	<script src="/media/jui/js/jquery-migrate.min.js?d0ce7e8da873aaa191d87e71b439e525" type="text/javascript"></script>
@@ -1067,10 +1067,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
 <li itemprop='name'  data-id="695" data-level="1">
 <a itemprop='url' class="hide"  href="/search"   data-target="#">Search </a>
-
-</li>
-<li itemprop='name'  data-id="1201" data-level="1">
-<a itemprop='url' class="hide"  href="/lct-interest-form"   data-target="#">LCT Interest Form </a>
 
 </li>
 </ul>

@@ -528,6 +528,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rentaltest
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Image-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Grapeland-Image
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event-in-The-City-of-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricane-Isaias-Updates
@@ -536,6 +538,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurr
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparation-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/My-Neighborhood
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2/Hurricane-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/residentsurvey
@@ -707,7 +710,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-traffic-calmi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Rezone-a-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-City-of-Miami-Community-Police-Mediation-Program-CPMP
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-Community-Police-Mediation-Program
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-Miami-Community-Police-Mediation-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/New-page
@@ -1368,6 +1375,8 @@ Disallow: /remove-a-tree
 Disallow: /rentaltest
 Disallow: /Residents/Copy-of-Grapeland-Image-1
 Disallow: /Residents/Grapeland-Image
+Disallow: /Residents/Host-an-Event
+Disallow: /Residents/Host-an-Event-in-The-City-of-Miami
 Disallow: /Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /Residents/Hurricane-Guide/Hurricane-Isaias-Updates
@@ -1376,6 +1385,7 @@ Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/New-page
 Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparation-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/My-Neighborhood
+Disallow: /Residents/New-page-2
 Disallow: /Residents/New-page-2/Hurricane-Resources
 Disallow: /Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /residentsurvey
@@ -1547,7 +1557,11 @@ Disallow: /Services/Request-traffic-calming-on-your-street
 Disallow: /Services/Rezone-a-Property
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
+Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-City-of-Miami-Community-Police-Mediation-Program-CPMP
+Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-Community-Police-Mediation-Program
+Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-Miami-Community-Police-Mediation-Program
 Disallow: /Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
+Disallow: /Services/Solve-a-Problem/New-page
 Disallow: /Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /Services/Transportation/New-page

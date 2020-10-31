@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<!-- Last Published: Mon Oct 12 2020 21:47:45 GMT+0000 (Coordinated Universal Time) -->
+<!DOCTYPE html><!-- Last Published: Fri Oct 30 2020 14:39:32 GMT+0000 (Coordinated Universal Time) -->
 <html data-wf-domain="www.blackduckmn.com" data-wf-page="5d409d228c52493891831146" data-wf-site="5c7efed3f9956885c519cd23" lang="en">
   <head>
     <meta charset="utf-8" />
@@ -12,7 +11,7 @@
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <link href="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/css/blackduckmn.webflow.e963f2c19.css" rel="stylesheet" type="text/css" />
+    <link href="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/css/blackduckmn.webflow.9f0dcaaea.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
       WebFont.load({
@@ -47,7 +46,7 @@
     <html lang="en">
   </head>
   <body>
-    <div class="section-5"><a href="/" class="w-inline-block"><img src="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/5d2f506eba4f443163699ba0_webclip.png" alt=""/></a></div>
+    <div class="section-5"><a href="/" class="w-inline-block"><img src="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/5d2f506eba4f443163699ba0_webclip.png" alt="" /></a></div>
     <div class="utility-page-wrap">
       <div class="w-container">
         <div class="utility-page-content"><img src="https://uploads-ssl.webflow.com/static/page-not-found.211a85e40c.svg" alt="" class="image-9" />
@@ -98,7 +97,7 @@
         </div>
         <div class="column-17 w-col w-col-3">
           <h5 class="heading-17 centered">City Hall</h5>
-          <h5 class="heading-16">8 Summit Ave NE<br/>Blackduck, MN 56630<br/><br/>Phone: <a href="tel:218.835.4803">218.835.4803</a><br/>Fax: 218.835.4801<br/><br/><a href="mailto:city@paulbunyan.net">city@paulbunyan.net</a></h5>
+          <h5 class="heading-16">8 Summit Ave NE<br />Blackduck, MN 56630<br /><br />Phone: <a href="tel:218.835.4803">218.835.4803</a><br />Fax: 218.835.4801<br /><br /><a href="mailto:city@paulbunyan.net">city@paulbunyan.net</a></h5>
         </div>
       </div>
       <div class="copyright-block w-row">
@@ -111,7 +110,7 @@
       </div>
     </div>
     <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5c7efed3f9956885c519cd23" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/js/webflow.cd6a041c2.js" type="text/javascript"></script>
+    <script src="https://uploads-ssl.webflow.com/5c7efed3f9956885c519cd23/js/webflow.a3cf92174.js" type="text/javascript"></script>
     <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
   </body>
-  </html>
+</html>

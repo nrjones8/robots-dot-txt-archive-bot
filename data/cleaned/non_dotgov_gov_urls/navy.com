@@ -40,9 +40,8 @@ Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
-Disallow: /swarm/
 Disallow: /comment/reply/
-Disallow: /filter/tips/
+Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
 Disallow: /user/register/
@@ -52,7 +51,7 @@ Disallow: /user/logout/
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
-Disallow: /index.php/filter/tips/
+Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
 Disallow: /index.php/user/password/

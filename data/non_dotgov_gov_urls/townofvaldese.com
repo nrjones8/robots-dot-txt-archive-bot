@@ -1396,20 +1396,20 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/water-outage-genes-loop/">
+        <a href="/blog/town-hall-announcement/">
           
           <div class="side-panel-img">
             <img class="center-block"
-              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/announcement.png/announcement-325x100.png"
+              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/seal.png/seal-325x100.png"
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">WATER OUTAGE - GENE&#39;S LOOP</h3>
+          <h3 style="margin-bottom: 20px;">TOWN HALL ANNOUNCEMENT</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/water-outage-genes-loop/">Read Post &gt;</a>
+          href="/blog/town-hall-announcement/">Read Post &gt;</a>
       </div>
       
       

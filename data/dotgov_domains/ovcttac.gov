@@ -16,7 +16,7 @@ Disallow: /VOCANVAA/
 # To be used by OVCTTAC starting ~late 2011
 Disallow:/downloads/
 # Some spiders, including Google, MSN, and Yahoo! allow asterisk wildcards.
-# Be sure to end with the "$". Google doesn’t need it, but some others do.
+# Be sure to end with the "$". Google doesnï¿½t need it, but some others do.
 # In late 2011, the following will probably be unnecessary, as these types of
 # files will all be housed in the /downloads/ directory.
 Disallow: /*.ppt$ 
@@ -42,3 +42,5 @@ Allow:/TaskForceGuide/eguide/*.xls$
 Allow:/TaskForceGuide/eguide/*.xlsx$
 Allow:/TaskForceGuide/eguide/*.mpg$
 Allow:/TaskForceGuide/eguide/*.wmv$
+
+Sitemap: https://www.ovcttac.gov/views/sitemap.xml

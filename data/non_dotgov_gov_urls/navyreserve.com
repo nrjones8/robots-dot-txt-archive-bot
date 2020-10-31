@@ -28,59 +28,59 @@
 <link rel="revision" href="https://www.navy.com/forward" />
 <script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.no_3p=1;a2a_config.icon_color = "transparent";</script>
 <title>About the U.S. Navy Reserve Mission | Navy.com</title>
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/accordion.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/contrib/chosen/css/chosen-drupal.css?qikiks" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/accordion.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/chosen/css/chosen-drupal.css?qivc6k" />
 <link rel="stylesheet" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
-<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/custom/navycom_rfi/css/navycom_rfi.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/contrib/webform/modules/webform_bootstrap/css/webform_bootstrap.css?qikiks" />
-<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?qikiks" />
-<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/bootstrap.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-accordion-list.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-full-html.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-social-share-drawer.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-hero.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/chosen-select.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/bonus-enlistment-banner-block.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/lets-talk-block.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/global.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-footer.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-main.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/custom-rfi-calendar.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/apply-now.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-pages.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-icon-link-list.css?qikiks" />
-<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-search.css?qikiks" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/custom/navycom_rfi/css/navycom_rfi.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/webform/modules/webform_bootstrap/css/webform_bootstrap.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/bootstrap.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-accordion-list.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-full-html.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-social-share-drawer.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-hero.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/chosen-select.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/bonus-enlistment-banner-block.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/lets-talk-block.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/global.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-footer.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-main.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/custom-rfi-calendar.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/apply-now.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-pages.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/component-icon-link-list.css?qivc6k" />
+<link rel="stylesheet" media="all" href="/themes/custom/navycom/dist/css/navy-search.css?qivc6k" />
 <!--[if lte IE 8]>
 <script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
 <![endif]-->
-<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.4.1"></script>
-<script src="/themes/custom/navycom/dist/js/navydatalayer.js?qikiks" defer></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/themes/custom/navycom/dist/js/navydatalayer.js?qivc6k" defer></script>
 </head>
 <body class="title-about-the-navy-reserve path-node page-node-type-component-page navbar-is-fixed-top has-glyphicons">
 <a href="#main-content" class="visually-hidden focusable skip-link">
@@ -129,7 +129,7 @@ Start Now
 <div class="navy-search-block">
 <span class="navy-search-icon icon glyphicon glyphicon-search" aria-hidden="true"></span>
 <div class="search-overlay"><section class="views-element-container block block-views block-views-blocknavy-search-block-1 clearfix" id="block-views-block-navy-search-block-1">
-<div class="form-group"><div class="navy-search searchon view view-navy-search view-id-navy_search view-display-id-block_1 js-view-dom-id-2fbec3baedf325428f7333f5360041123af3cbcee421aa76cc25829faf600725">
+<div class="form-group"><div class="navy-search searchon view view-navy-search view-id-navy_search view-display-id-block_1 js-view-dom-id-1fad6d05e92b71e8dff89723f3f002e90f2fee6a805d95c0acf883d421fc8527">
 <div class="view-header">
 <h2>Search Navy.com</h2>
 </div>
@@ -363,10 +363,8 @@ Search</button></div>
 <section class="heroblock">
 <div class="field field--name-field-hero-image field--type-entity-reference field--label-hidden field--item"><div class="media media--type-image media--view-mode-career-landing-header ds-1col clearfix">
 <div class="field field--name-field-media-image field--type-image field--label-hidden field--item"> <picture>
-<!--[if IE 9]><video style="display: none;"><![endif]-->
 <source srcset="/sites/default/files/2018-03/hero-about-the-navy-reserve-low.jpg 1x" media="all and (min-width: 992px)" type="image/jpeg" />
-<source srcset="/sites/default/files/styles/crop_focal_point_style_for_mobile/public/2018-03/hero-about-the-navy-reserve-low.jpg?itok=do8yB7Jv 1x" media="(min-width: 0em)" type="image/jpeg" />
-<!--[if IE 9]></video><![endif]-->
+<source srcset="/sites/default/files/styles/crop_focal_point_style_for_mobile/public/2018-03/hero-about-the-navy-reserve-low.jpg?itok=qdJSdWFC 1x" media="(min-width: 0em)" type="image/jpeg" />
 <img src="/sites/default/files/2018-03/hero-about-the-navy-reserve-low.jpg" alt="A Navy Reserve Sailor aboard a ship" typeof="foaf:Image" class="img-responsive" />
 </picture>
 </div>
@@ -540,27 +538,27 @@ To recruit, train, equip, and organize to deliver combat ready Naval forces to w
 <h2 class="block-title">Follow Us</h2>
 <ul class="social-media-links--platforms platforms inline horizontal">
 <li>
-<a href="https://www.facebook.com/americasnavy" target="_blank" aria-label="Go to Navy Facebook page" title="Go to Navy Facebook page">
+<a class="social-media-link-icon--facebook" href="https://www.facebook.com/americasnavy" target="_blank" aria-label="Go to Navy Facebook page" title="Go to Navy Facebook page">
 <span class='fa fa-facebook fa-2x'></span>
 </a>
 </li>
 <li>
-<a href="https://www.twitter.com/AmericasNavy" target="_blank" aria-label="Go to Navy Twitter page" title="Go to Navy Twitter page">
+<a class="social-media-link-icon--twitter" href="https://www.twitter.com/AmericasNavy" target="_blank" aria-label="Go to Navy Twitter page" title="Go to Navy Twitter page">
 <span class='fa fa-twitter fa-2x'></span>
 </a>
 </li>
 <li>
-<a href="https://www.instagram.com/americasnavy" target="_blank" aria-label="Go to Navy Instragram" title="Go to Navy Instragram">
+<a class="social-media-link-icon--instagram" href="https://www.instagram.com/americasnavy" target="_blank" aria-label="Go to Navy Instragram" title="Go to Navy Instragram">
 <span class='fa fa-instagram fa-2x'></span>
 </a>
 </li>
 <li>
-<a href="https://www.youtube.com/user/UnitedStatesNavy" target="_blank" aria-label="Go to Navy YouTube page" title="Go to Navy YouTube page">
+<a class="social-media-link-icon--youtube" href="https://www.youtube.com/user/UnitedStatesNavy" target="_blank" aria-label="Go to Navy YouTube page" title="Go to Navy YouTube page">
 <span class='fa fa-youtube fa-2x'></span>
 </a>
 </li>
 <li>
-<a href="https://www.linkedin.com/company/1335" target="_blank" aria-label="Go to Navy LinkedIn page" title="Go to Navy LinkedIn page">
+<a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/company/1335" target="_blank" aria-label="Go to Navy LinkedIn page" title="Go to Navy LinkedIn page">
 <span class='fa fa-linkedin fa-2x'></span>
 </a>
 </li>
@@ -599,12 +597,13 @@ To recruit, train, equip, and organize to deliver combat ready Naval forces to w
 </div>
 </footer>
 </div>
-<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/619","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"q":"who-we-are\/about-navy-reserve"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,bootstrap\/popover,bootstrap\/tooltip,core\/html5shiv,core\/picturefill,navycom\/bonus-enlistment-banner-block,navycom\/bootstrap-scripts,navycom\/chosen-select,navycom\/component-accordion-list,navycom\/component-hero,navycom\/component-icon-link-list,navycom\/component-pages,navycom\/global-script,navycom\/global-styling,navycom\/lets-talk-block,navycom\/navycom-datalayer,navycom\/reserve-pay-calculator,navycom\/sea-story,navycom\/simplescroll,navycom\/social-share-drawer,navycom_core\/navycom_accordion_formatter,navycom_rfi\/navycom-rfi,search_api_autocomplete\/search_api_autocomplete,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,views\/views.ajax,views\/views.module,webform_bootstrap\/webform_bootstrap","theme":"navycom","theme_token":null},"ajaxTrustedUrl":{"\/forward":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"navycom_entity_ref_formatter":{"accordion":{"heightStyle":"content"}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:2fbec3baedf325428f7333f5360041123af3cbcee421aa76cc25829faf600725":{"view_name":"navy_search","view_display_id":"block_1","view_args":"","view_path":"\/node\/619","view_base_path":null,"view_dom_id":"2fbec3baedf325428f7333f5360041123af3cbcee421aa76cc25829faf600725","pager_element":0}}},"search_api_autocomplete":{"navy_search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"a482a06d5b72a07c0c28b20daaad62f8245be18066079398ff59ceec30d1ca55"}}</script>
-<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.8.3"></script>
-<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
-<script src="/core/misc/drupalSettingsLoader.js?v=8.8.1"></script>
-<script src="/core/misc/drupal.js?v=8.8.1"></script>
-<script src="/core/misc/drupal.init.js?v=8.8.1"></script>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/619","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"q":"who-we-are\/about-navy-reserve"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"addtoany\/addtoany,bootstrap\/popover,bootstrap\/tooltip,core\/html5shiv,core\/picturefill,navycom\/bonus-enlistment-banner-block,navycom\/bootstrap-scripts,navycom\/chosen-select,navycom\/component-accordion-list,navycom\/component-hero,navycom\/component-icon-link-list,navycom\/component-pages,navycom\/global-script,navycom\/global-styling,navycom\/lets-talk-block,navycom\/navycom-datalayer,navycom\/reserve-pay-calculator,navycom\/sea-story,navycom\/simplescroll,navycom\/social-share-drawer,navycom_core\/navycom_accordion_formatter,navycom_rfi\/navycom-rfi,search_api_autocomplete\/search_api_autocomplete,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,views\/views.ajax,views\/views.module,webform_bootstrap\/webform_bootstrap","theme":"navycom","theme_token":null},"ajaxTrustedUrl":{"\/forward":true},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"navycom_entity_ref_formatter":{"accordion":{"heightStyle":"content"}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:1fad6d05e92b71e8dff89723f3f002e90f2fee6a805d95c0acf883d421fc8527":{"view_name":"navy_search","view_display_id":"block_1","view_args":"","view_path":"\/node\/619","view_base_path":null,"view_dom_id":"1fad6d05e92b71e8dff89723f3f002e90f2fee6a805d95c0acf883d421fc8527","pager_element":0}}},"search_api_autocomplete":{"navy_search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"45f3f5823dc70d74575dd8fe4daa2935d3f54fded7db989c50b61495d59ecd14"}}</script>
+<script src="/core/assets/vendor/underscore/underscore-min.js?v=1.9.1"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=8.9.7"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.7"></script>
+<script src="/core/misc/drupal.js?v=8.9.7"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.7"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
@@ -622,66 +621,68 @@ To recruit, train, equip, and organize to deliver combat ready Naval forces to w
 <script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
-<script src="/core/assets/vendor/picturefill/picturefill.min.js?v=3.0.1"></script>
-<script src="/core/misc/autocomplete.js?v=8.8.1"></script>
+<script src="/core/assets/vendor/picturefill/picturefill.min.js?v=3.0.3"></script>
+<script src="/core/misc/autocomplete.js?v=8.9.7"></script>
 <script src="https://static.addtoany.com/menu/page.js" async></script>
-<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.8.1"></script>
-<script src="/modules/custom/navycom_rfi/js/navycom-rfi-conditions.js?qikiks"></script>
-<script src="/modules/custom/navycom_rfi/js/navycom-rfi-contact.js?qikiks"></script>
-<script src="/modules/custom/navycom_rfi/js/navycom-rfi-datalayer.js?qikiks"></script>
-<script src="/modules/custom/navycom_rfi/js/jquery.mask.min.js?qikiks"></script>
-<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?qikiks"></script>
-<script src="/themes/contrib/bootstrap/js/attributes.js?qikiks"></script>
-<script src="/themes/contrib/bootstrap/js/theme.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/live-chat.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/affix.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/alert.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/button.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/carousel.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/collapse.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/dropdown.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/modal.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/tooltip.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/popover.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/scrollspy.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/tab.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/transition.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/moment-with-locales.js?qikiks"></script>
-<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/bootstrap-datetimepicker.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/global-hf.js?qikiks"></script>
-<script src="/core/misc/states.js?v=8.8.1"></script>
-<script src="/themes/contrib/bootstrap/js/misc/states.js?qikiks"></script>
-<script src="/modules/contrib/webform/js/webform.states.js?v=8.8.1"></script>
-<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=8.8.1"></script>
-<script src="/themes/contrib/bootstrap/js/popover.js?qikiks"></script>
-<script src="/themes/contrib/bootstrap/js/tooltip.js?qikiks"></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.9.7"></script>
+<script src="/modules/custom/navycom_rfi/js/navycom-rfi-conditions.js?qivc6k"></script>
+<script src="/modules/custom/navycom_rfi/js/navycom-rfi-contact.js?qivc6k"></script>
+<script src="/modules/custom/navycom_rfi/js/navycom-rfi-datalayer.js?qivc6k"></script>
+<script src="/modules/custom/navycom_rfi/js/jquery.mask.min.js?qivc6k"></script>
+<script src="/themes/contrib/bootstrap/js/drupal.bootstrap.js?qivc6k"></script>
+<script src="/themes/contrib/bootstrap/js/attributes.js?qivc6k"></script>
+<script src="/themes/contrib/bootstrap/js/theme.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/live-chat.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/affix.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/alert.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/button.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/carousel.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/collapse.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/dropdown.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/modal.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/tooltip.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/popover.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/scrollspy.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/tab.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/transition.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/moment-with-locales.js?qivc6k"></script>
+<script src="/themes/custom/navycom/bootstrap/assets/javascripts/bootstrap/bootstrap-datetimepicker.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/global-hf.js?qivc6k"></script>
+<script src="/core/misc/states.js?v=8.9.7"></script>
+<script src="/themes/contrib/bootstrap/js/misc/states.js?qivc6k"></script>
+<script src="/modules/contrib/webform/js/webform.states.js?v=8.9.7"></script>
+<script src="/modules/contrib/webform/modules/webform_bootstrap/js/webform_bootstrap.states.js?v=8.9.7"></script>
+<script src="/themes/contrib/bootstrap/js/popover.js?qivc6k"></script>
+<script src="/themes/contrib/bootstrap/js/tooltip.js?qivc6k"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/accordion-min.js?v=1.12.1"></script>
-<script src="/modules/features/navycom_core/js/navycom_accordion_formatter.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/sea-story.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/reserve-pay-calculator.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/social-share-drawer.js?qikiks"></script>
+<script src="/modules/features/navycom_core/js/navycom_accordion_formatter.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/sea-story.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/reserve-pay-calculator.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/social-share-drawer.js?qivc6k"></script>
 <script src="/core/assets/vendor/matchMedia/matchMedia.min.js?v=0.2.0"></script>
 <script src="/libraries/chosen/chosen.jquery.min.js?v=1.8.7"></script>
 <script src="/modules/contrib/chosen/js/chosen.js?v=1.7.0"></script>
-<script src="/themes/custom/navycom/dist/js/chosen-select.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/vendor/jquery.simplescroll.js?qikiks"></script>
-<script src="/core/assets/vendor/jquery.cookie/jquery.cookie.min.js?v=1.4.1"></script>
-<script src="/themes/custom/navycom/dist/js/vendor/jquery.cookie.js?qikiks"></script>
-<script src="/themes/custom/navycom/dist/js/bonus-enlistment-banner-block.js?qikiks"></script>
+<script src="/themes/custom/navycom/dist/js/chosen-select.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/vendor/jquery.simplescroll.js?qivc6k"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.0-rc0"></script>
+<script src="/core/misc/jquery.cookie.shim.js?v=8.9.7"></script>
+<script src="/themes/custom/navycom/dist/js/vendor/jquery.cookie.js?qivc6k"></script>
+<script src="/themes/custom/navycom/dist/js/bonus-enlistment-banner-block.js?qivc6k"></script>
 <script src="/core/assets/vendor/jquery-form/jquery.form.min.js?v=4.22"></script>
-<script src="/core/misc/progress.js?v=8.8.1"></script>
-<script src="/themes/contrib/bootstrap/js/misc/progress.js?qikiks"></script>
-<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.8.1"></script>
-<script src="/core/misc/ajax.js?v=8.8.1"></script>
-<script src="/themes/contrib/bootstrap/js/misc/ajax.js?qikiks"></script>
-<script src="/core/modules/views/js/base.js?v=8.8.1"></script>
-<script src="/core/modules/views/js/ajax_view.js?v=8.8.1"></script>
-<script src="/themes/contrib/bootstrap/js/modules/views/ajax_view.js?qikiks"></script>
+<script src="/core/misc/progress.js?v=8.9.7"></script>
+<script src="/themes/contrib/bootstrap/js/misc/progress.js?qivc6k"></script>
+<script src="/core/modules/responsive_image/js/responsive_image.ajax.js?v=8.9.7"></script>
+<script src="/core/misc/ajax.js?v=8.9.7"></script>
+<script src="/themes/contrib/bootstrap/js/misc/ajax.js?qivc6k"></script>
+<script src="/core/modules/views/js/base.js?v=8.9.7"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=8.9.7"></script>
+<script src="/themes/contrib/bootstrap/js/modules/views/ajax_view.js?qivc6k"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=1.12.1"></script>
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
-<script src="/themes/contrib/bootstrap/js/misc/autocomplete.js?qikiks"></script>
-<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?qikiks"></script>
+<script src="/themes/contrib/bootstrap/js/misc/autocomplete.js?qivc6k"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?qivc6k"></script>
 <script type="text/javascript">_satellite.pageBottom();</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"5eaacd444f2e0f16","version":"2020.9.1","si":10}'></script>
 </body>
 </html>

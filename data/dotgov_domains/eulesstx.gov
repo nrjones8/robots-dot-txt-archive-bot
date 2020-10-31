@@ -20,7 +20,7 @@
 <script>
     function handleExternalURL() { };
 </script>
-<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Euless, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Euless, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IklZOGNnU2pIMllYb1VkNjNNQjI2Qnc9PSJ9._KMbAED8zGy81yEzDHK9Sf6Hid-9Xpim_p_hUhBL5U1WU2a4Dkyn9PvNI0IkVwc96l5Hzh3Q9-uWDPYI5MRgkIe0KtHNtN1g.sm1m2uAlQcYmQtHWtG92gA.g6F6CRPW4jZ5pQ9U2Tu2FWcBt6qHMLF9V8mJuKQNB1zYs2Ke8Zf4db8_PTAJa_RXNUmpfDiuxWavYb0ZSALyAfDO1VjhdIFB1XkcV-HE1jT4IcLckziu3VZZMwkCmOkfIEC9u3yEItRWXCYNyk_NJsmuXQQYHVw3AIlvvnBM6x9E1jO-C3Lbcyk_p-pJBHrSUpz5UUTARcOAnTlr4SJdvjS84RbKF1YrqzGDsDWR-NM.NXWW6_AuB8Ab62rNmDn6Z-2yXgjC5N-ofZQ5RipBrqM";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
+<script>window.visionOptions = {virtualApplicationPath:'/',logOnPath:'Admin/LogOn',logOffPath:'Admin/LogOff',enableSessionTimeout:false,sessionTimeoutInMinutes:30,timeToAlertBeforeSessionTimeoutInMinutes:5,extendSessionTimeoutPath:'Admin/Account/ExtendSessionTimeout',mainFolderPath:'/Project/Contents/Main/',centerLocation:'Euless, TX', siteID:1, navigationID:1, isHomePage:true, emergencyNoticeChanged:false, loggedIn:false, showTopTips:true, currentDesignFolderPath:'/Project/Contents/Main/', useDesignThemFontSizeCss:false , clientResponsiveTableEnabled:true, imageUrl:'/Home/ShowPublishedImage/', engagementAdminEndPoint:'/Admin/Engagement/', visionLiveAdminEndPoint:'/Admin/Components/', cmsAdminEndPoint:'/Admin/', enableSplashUrl:true, eSignatureView: '/Shared/SignatureView', socialMediaInfo :{ twitter : { maxLength : 280  } }, baseImageUrl:'/Home/ShowPublishedImage' };;window.visionApps={"cms_core":{"DateFormat":"MM/dd/yyyy","TimeFormat":"h:mm TT","PhoneFormat":"(999) 999-9999","OrganizationName":"Euless, TX","TimeAMFormat":"AM","TimePMFormat":"PM","GoogleReCaptchaPublicKey":"6LflacYZAAAAAI_guTdTbHQCZE5F-MhOTIbJoag3"}};;window.visionApps.token="eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2Q0JDLUhTNTEyIiwiayI6IjdOQ0pKcFVENFIzc3lpalUrNGg3elE9PSJ9.-8-a-3KS5-2DLpHhlPKW8b2Iqb4tFvJJVxjBR99vr8NWlyn341BRuvnlGWIIhN7rMwcMluDh5nmzkSXrf6V90XD9LwoPZFSV.nmUTJR43bwqJXHQWzXyELA.hiHdbxztbjOWDFwHaRY6jYR9Pkab0sj_Y7981RaZI5qULd4xitwtER60Gen9NJ5idwb8_m6cW4sf_c2DY-l3cEW2UwUJOR2EJnpPHZ6CvpsVovEZL0usdVCOqqwO1-EdOyhys6cA7z9PPwhIX6wTKKf3WmTiUREg4Y8BGgJdDUFs41j3dM60bceXXV9lYFhyTDneM9FOvYTzTP213WfLR1mox8CFoHN0VwkYqK10kp4.VBMq8x0MTRo6Sc6yCdc4jpfn1KdvcqwY7W7suTztbyw";(function(window){window.cmsCoreConfig={}; (function(config){ (function(window){window.coreComponentFormConfig={"apiEndPoint":"https://form.visioninternet.com/"};})(window);; })(window.cmsCoreConfig); })(window);(function(window){window.visionLiveConfig={}; (function(config){ config.flexibleComponent={"serverURL":"https://flex.visioninternet.com/"};; })(window.visionLiveConfig); })(window);</script>
 
     <script type="text/javascript">
         // added the htmlEncode and htmlDecode method to fixed the js load order issue.
@@ -573,6 +573,20 @@ $(function () {
 </div></li>
 		<li>
  
+<a  target="_self" title="">
+    <img src="/Home/ShowPublishedImage/4292/637382662956830000" alt="Trunk-or-Treat-Collage">
+</a>
+<div class="container">
+</div></li>
+		<li>
+ 
+<a  target="_self" title="">
+    <img src="/Home/ShowPublishedImage/4326/637395717757470000" alt="Dont-Be-Scared-Be-Prepared-Collage">
+</a>
+<div class="container">
+</div></li>
+		<li>
+ 
 <a href='/recreation/euless-family-life-center' target="_self" title="Expanded hours coming soon to the Euless Family Life Center">
     <img src="/Home/ShowPublishedImage/4266/637368910166270000" alt="EFLC New Hours">
 </a>
@@ -712,6 +726,17 @@ $(function () {
 	  
 
 <li>
+	<a href="/Home/Components/News/News/418/16" class="news-item">
+			<div class="image_frame"><img alt="How to Make an Affordable Rain Barrel" src="/Home/ShowPublishedImage/4306/637382892395200000"/></div>	
+		
+		<div class="item_info">
+            <p class="box_item_title">How to Make an Affordable Rain Barrel</p>
+            <p class="box_item_summary">It&#39;s easy to make your own rain barrel.</p>
+            <p class="news-readmore" href="/Home/Components/News/News/418/16">Keep reading ></p>
+        </div>
+    </a>
+</li>
+<li>
 	<a href="/Home/Components/News/News/416/16" class="news-item">
 			<div class="image_frame"><img alt="FY 2021 Budget Highlights" src="/Home/ShowPublishedImage/4310/637382892405330000"/></div>	
 		
@@ -730,17 +755,6 @@ $(function () {
             <p class="box_item_title">Trunk or Treat</p>
             <p class="box_item_summary">Join us at our annual Trunk or Treat 2020 style! </p>
             <p class="news-readmore" href="/Home/Components/News/News/408/16">Keep reading ></p>
-        </div>
-    </a>
-</li>
-<li>
-	<a href="/Home/Components/News/News/398/16" class="news-item">
-			<div class="image_frame"><img alt="Check Out the Intersection of Heritage Avenue and Cheek-Sparger Road" src="/Home/ShowPublishedImage/4224/637356104520730000"/></div>	
-		
-		<div class="item_info">
-            <p class="box_item_title">Check Out the Intersection of Heritage Avenue and Cheek-Sparger Road</p>
-            <p class="box_item_summary">A new traffic signal has been installed and lanes have been widened at the intersection of Heritage Avenue and Cheek-Sparger Road.</p>
-            <p class="news-readmore" href="/Home/Components/News/News/398/16">Keep reading ></p>
         </div>
     </a>
 </li>
@@ -767,45 +781,6 @@ $(function () {
 
 
 <li>
-    <a href="/Home/Components/Calendar/Event/1449/18" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Oct</div>
-            <div class="datebox-number">19</div>
-        </div>
-        <div class="item_info">
-            <p class="box_item_title">Early Voting</p>
-            <p class="box_item_summary">08:00 AM - Oct, 23 05:00 PM</p>
-        </div>
-    </a>
-</li>
-
-<li>
-    <a href="/Home/Components/Calendar/Event/1451/18" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Oct</div>
-            <div class="datebox-number">24</div>
-        </div>
-        <div class="item_info">
-            <p class="box_item_title">Early Voting</p>
-            <p class="box_item_summary">07:00 AM - 07:00 PM</p>
-        </div>
-    </a>
-</li>
-
-<li>
-    <a href="/Home/Components/Calendar/Event/1453/18" class="event-item">
-        <div class="datebox">
-            <div class="datebox-month">Oct</div>
-            <div class="datebox-number">25</div>
-        </div>
-        <div class="item_info">
-            <p class="box_item_title">Early Voting</p>
-            <p class="box_item_summary">11:00 AM - 04:00 PM</p>
-        </div>
-    </a>
-</li>
-
-<li>
     <a href="/Home/Components/Calendar/Event/1455/18" class="event-item">
         <div class="datebox">
             <div class="datebox-month">Oct</div>
@@ -819,14 +794,53 @@ $(function () {
 </li>
 
 <li>
-    <a href="/Home/Components/Calendar/Event/812/18" class="event-item">
+    <a href="/Home/Components/Calendar/Event/1445/18" class="event-item">
         <div class="datebox">
             <div class="datebox-month">Oct</div>
-            <div class="datebox-number">27</div>
+            <div class="datebox-number">31</div>
         </div>
         <div class="item_info">
-            <p class="box_item_title">Pre-Council Worksession</p>
-            <p class="box_item_summary">04:30 PM - 07:00 PM</p>
+            <p class="box_item_title">Drive Thru Trunk or Treat</p>
+            <p class="box_item_summary">05:00 PM - 07:00 PM</p>
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/Home/Components/Calendar/Event/1054/18" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">02</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Parks Board Meeting</p>
+            <p class="box_item_summary">07:00 PM - 08:00 PM</p>
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/Home/Components/Calendar/Event/1457/18" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">03</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Election Day</p>
+            <p class="box_item_summary">07:00 AM - 07:00 PM</p>
+        </div>
+    </a>
+</li>
+
+<li>
+    <a href="/Home/Components/Calendar/Event/1141/18" class="event-item">
+        <div class="datebox">
+            <div class="datebox-month">Nov</div>
+            <div class="datebox-number">03</div>
+        </div>
+        <div class="item_info">
+            <p class="box_item_title">Planning &amp; Zoning Commission - Pre-Session</p>
+            <p class="box_item_summary">06:00 PM - 06:30 PM</p>
         </div>
     </a>
 </li>	</ul>

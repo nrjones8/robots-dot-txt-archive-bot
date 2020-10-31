@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /admin/
-Allow: /
+Got an HTML response

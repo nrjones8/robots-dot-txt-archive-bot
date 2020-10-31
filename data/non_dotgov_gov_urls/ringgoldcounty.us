@@ -787,7 +787,15 @@ if (typeof RZ.nextseq != 'undefined') RZ.nextseq.modules['slider_1']={field:'seq
 
 
 
-<div class="rzEditWrap alertBtn">
+<!-- start alert html -->
+<div class="alert alert-dismissible floating-alert fade in os-animation" data-os-animation="fadeInUpBig" data-os-animation-delay="2s" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    	<h6>2020 General Election</h6>
+        <strong><br /><a href= "departments/auditor/election_information/current_elections.php">Election Information</a><br /></strong>
+        
+        
+</div>
+<!-- end alert html --><div class="rzEditWrap alertBtn">
 	
 	
 	<script language="JavaScript" type="text/JavaScript">

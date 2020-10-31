@@ -8,12 +8,14 @@ Disallow: /http://www.glenelder.com/city-hall.html
 Disallow: /http://www.glenelder.com/organizations.html
 Disallow: /home-2.html
 Disallow: /http://www.glenelder.com/waconda-lake.html
+Disallow: /2015-craft-fair.html
 Disallow: /http://www.glenelder.com/history.html
 Disallow: /2019-block-party.html
 Disallow: /template.html
-Disallow: /2019-fun-run.html
 Disallow: /covid-19.html
+Disallow: /hunter-breakfast.html
 Disallow: /2018-chili-cook-off.html
+Disallow: /2019-fun-run.html
 Disallow: /gotomeeting-info.html
 Disallow: /2016-funday-schedule.html
 Disallow: /us-24-garage-sale.html
