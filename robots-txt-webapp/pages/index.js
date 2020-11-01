@@ -136,13 +136,13 @@ export default class Home extends Component {
     return (
       <div className="container">
         <Head>
-          <title>Create Next App</title>
+          <title>Robots.txt Database</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
         <main>
           <Header>
-            <h2 style={{ color: 'grey' }}>robots.txt database</h2>
+            <h2 style={{ color: 'white' }}>Robots.txt Database</h2>
           </Header>
           <Content>
             <Row style={{ paddingTop: '20px' }}>
