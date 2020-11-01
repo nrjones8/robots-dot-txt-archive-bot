@@ -152,18 +152,19 @@ export default class Home extends Component {
                   <p>
                   Robots.txt files are used to tell search engines (and other robots) what content on a website they should "index"
                   and show in search results. If a website doesn't want certain content to show up in search results (from Google, for example),
-                  that website can specify a set of rules telling search engines what content to ignore. (link to read more? give an example?)
+                  that website can specify a set of rules telling search engines what content to ignore. See <a href="https://moz.com/learn/seo/robotstxt" target="_blank">Moz's overview</a> for
+                  more detail on what goes into a robots.txt file.
                   </p>
 
                   <p>
-                  Robots.txt files are public (try viewing https://www.cdc.gov/robots.txt for example). This project has gathered robots.txt files across 9000+ government websites,
+                  Robots.txt files are public (try viewing <a href="https://www.cdc.gov/robots.txt" target="_blank">the CDC's robots.txt</a> for example). This project has gathered robots.txt files across 9000+ government websites,
                   and has made them available to search. For example, to find all of the election-related rules, try searching "election" below. In each
                   search result, there is also a link to the Internet Archive's <a href="https://archive.org/web/">Wayback Machine</a>. In some cases,
                   you may be able to find content that has been removed from the live version of a website, but was previously archived.
                   </p>
 
                   <p>
-                  For more information on how the 9000+ websites were collected, please see (TODO link to FAQ or something).
+                  For more information on how the 9000+ websites were collected, please see <a href="https://github.com/nrjones8/robots-dot-txt-archive-bot" target="_blank">Github</a>.
                   </p>
                 </Card>
               </Col>
