@@ -58,10 +58,22 @@ def write_all_domains(all_domains):
 
 def main():
     all_domains = []
+
+    # Sourced from https://home.dotgov.gov/data/ and https://raw.githubusercontent.com/GSA/data/master/dotgov-domains/current-full.csv
     all_domains.extend(read_from_csv('dotgov_domains.csv', 'Domain Name'))
+
+    # Sourced from https://raw.githubusercontent.com/GSA/govt-urls/master/1_govt_urls_full.csv
     all_domains.extend(read_from_csv('non_dotgov_gov_urls.csv', '\ufeffDomain'))
+
+    # Sourced from https://www.cdc.gov/publichealthgateway/sitesgovernance/index.html - see script in `source_scripts` for
+    # code to gather these domains
     all_domains.extend(read_from_csv('state_local_public_health.csv', 'domain'))
+
+    # Sourced from https://www.usa.gov/federal-agencies - see script in `source_scripts` for code to gather them
     all_domains.extend(read_from_csv('fed_gov_from_usa_dot_gov.csv', 'domain'))
+
+    # Sourced from covidtracking.com's list of websites, specifically https://docs.google.com/spreadsheets/d/18oVRrHj3c183mHmq3m89_163yuYltLNlOmPerQ18E8w/edit#gid=1983833656
+    # as linked to from https://github.com/COVID19Tracking/covid-tracking#urlsyaml
     # sites from covidtracking.com include a number of possible columns, special-case these
     all_domains.extend(read_from_covidtracking_csv())
 

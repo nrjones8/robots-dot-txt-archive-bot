@@ -1,4 +1,20 @@
 # About
+Robots.txt files are used to tell search engines (and other robots) what content on a website they should "index" and show in search results. If a website doesn't want certain content to show up in search results (from Google, for example), that website can specify a set of rules telling search engines what content to ignore.
+
+This project aims to collect robots.txt files for websites across the internet, starting with 9000+ government websites. The contents of each robots.txt file are collected once a week, committed to this repo, and parsed for their specific directives (e.g. `Disallow: /user/login/`) to allow for researchers, journalists, and anyone else who is curious about patterns across robots.txt files. The data collected here can help answer questions about what types of content these websites are choosing to hide from search engines.
+
+## Which websites are you collecting robots.txt files for?
+As of November 2020, the focus is on government websites. There are a few sources used to collect as many domains as possible:
+* .gov domains, from https://home.dotgov.gov/data/ and https://raw.githubusercontent.com/GSA/data/master/dotgov-domains/current-full.
+* non .gov government domains, from https://raw.githubusercontent.com/GSA/govt-urls/master/1_govt_urls_full.csv
+* State and local public health departments as listed at https://www.cdc.gov/publichealthgateway/sitesgovernance/index.html
+* Federal agencies listed at: https://www.usa.gov/federal-agencies
+* State and local COVID-related websites, via the Covid Tracking Project. Specifically https://docs.google.com/spreadsheets/d/18oVRrHj3c183mHmq3m89_163yuYltLNlOmPerQ18E8w/edit#gid=1983833656 as linked to from https://github.com/COVID19Tracking/covid-tracking#urlsyaml
+
+Note that there can be overlap in these sources, but subdomains have their own robots.txt files - so while the full list of dotgov domains may have alaska.gov, it doesn't have dhss.alaska.gov - which could have a completely different robots.txt file. See `combine_all_domains_to_check.py` for more detail on how the domains are combined. The `source_scripts/` directory contains scripts used to collect domains, for cases where the domains aren't already provided in a CSV. For example, there is a script there to parse out all of the websites listed at https://www.cdc.gov/publichealthgateway/sitesgovernance/index.html.
+
+
+# Accessing the data
 # Code
 ## Deploying
 ### Deploying updated data
