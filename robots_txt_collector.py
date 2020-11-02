@@ -6,6 +6,11 @@ import requests
 
 from bs4 import BeautifulSoup
 
+SKIP_LIST = [
+    # maps
+    'greencastlepa.gov'
+]
+
 def get_domain_data():
     with open('all_domains_to_check.csv') as f:
         reader = csv.DictReader(f)
@@ -28,10 +33,6 @@ def get_and_save_robots_txt(domain_dict):
         print('Error was {}'.format(str(e)))
         return
 
-    # Write the raw result
-    with open(fname, 'wb') as f:
-        f.write(resp.content)
-
     # janky, but thanks https://stackoverflow.com/a/56887446
     is_valid_html = bool(BeautifulSoup(resp.content, 'html.parser').find())
     if is_valid_html:
@@ -39,6 +40,16 @@ def get_and_save_robots_txt(domain_dict):
     else:
         # Ignore empty lines
         cleaned_result = os.linesep.join([s for s in resp.text.splitlines() if s])
+
+    # In cases where we don't want to accidentally save the raw result, and the response we
+    # got was not a valid robots.txt file, then don't save the raw result
+    should_skip_raw_result = domain in SKIP_LIST and is_valid_html
+    with open(fname, 'wb') as f:
+        if should_skip_raw_result:
+            f.write(bytes('Got an HTML response, and site is in skip list', 'utf-8'))
+        else:
+            # Write the raw result
+            f.write(resp.content)
 
     with open(cleaned_fname, 'w') as f:
         f.write(cleaned_result)
