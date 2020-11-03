@@ -150,9 +150,13 @@ export default class Home extends Component {
               <Col span={14}>
                 <Card>
                   <p>
-                  Robots.txt files are used to tell search engines (and other robots) what content on a website they should "index"
+                  Robots.txt files are used to tell search engines (and other robots) what content on a website they should "crawl"
                   and show in search results. If a website doesn't want certain content to show up in search results (from Google, for example),
-                  that website can specify a set of rules telling search engines what content to ignore. See <a href="https://moz.com/learn/seo/robotstxt" target="_blank">Moz's overview</a> for
+                  that website can specify a set of rules telling search engines what content it should not crawl. While adding a page to the
+                  robots.txt file does <a href="https://support.google.com/webmasters/answer/7424835?hl=en" target="_blank">not guarantee it won't show up in search results</a>,
+                  it greatly decreases the likelihood - and the actual content of the page will not appear in search results.
+
+                  See <a href="https://moz.com/learn/seo/robotstxt" target="_blank">Moz's detailed overview</a> for
                   more detail on what goes into a robots.txt file.
                   </p>
 
