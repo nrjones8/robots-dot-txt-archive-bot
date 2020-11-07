@@ -1,7 +1,9 @@
 import csv
 import os
 
-HTML_RESPONSE_FROM_ROBOTS_TXT = 'Got an HTML response'
+class NonRobotsTxtData:
+    HTML_RESPONSE_FROM_ROBOTS_TXT = 'Got an HTML response'
+    FAILED_REQUEST = 'Request failed'
 
 def _domain_from_fpath(fpath):
     # e.g. data/cleaned/state_local_public_health/healthvermont.gov --> healthvermont.gov
@@ -22,7 +24,7 @@ def parse_robots_txt_file(fpath, domain_source):
     with open(fpath) as f:
         content = [line.strip() for line in f.readlines()]
     
-    if content == HTML_RESPONSE_FROM_ROBOTS_TXT:
+    if content in [NonRobotsTxtData.HTML_RESPONSE_FROM_ROBOTS_TXT, NonRobotsTxtData.HTML_RESPONSE_FROM_ROBOTS_TXT]:
         print('Skipping {}, no valid robots.txt file'.format(fpath))
         return
     

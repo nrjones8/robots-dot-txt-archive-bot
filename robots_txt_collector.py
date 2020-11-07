@@ -1,4 +1,5 @@
 import csv
+import json
 import multiprocessing as mp
 import os
 import requests
@@ -6,10 +7,9 @@ import requests
 
 from bs4 import BeautifulSoup
 
-SKIP_LIST = [
-    # maps
-    'greencastlepa.gov'
-]
+class FetchErrors:
+    REQUEST_ERROR = 'request_error'
+    HTML_RESPONSE_ERROR = 'html_response_error'
 
 def get_domain_data():
     with open('all_domains_to_check.csv') as f:
@@ -25,34 +25,50 @@ def get_and_save_robots_txt(domain_dict):
 
     fname = 'data/{}/{}'.format(site_type, domain)
     cleaned_fname = 'data/cleaned/{}/{}'.format(site_type, domain)
-    robots_url = 'https://{}/robots.txt'.format(domain)
+    robots_url = 'http://{}/robots.txt'.format(domain)
+
+    exception_msg = None
     try:
-        resp = requests.get(robots_url, allow_redirects=True, timeout=15)
+        resp = requests.get(
+            robots_url,
+            allow_redirects=True,
+            timeout=15,
+            verify=False
+        )
     except Exception as e:
         print('Could not get robots.txt file for {}'.format(robots_url))
         print('Error was {}'.format(str(e)))
-        return
+        print('---------------------------')
+        exception_msg = str(e)
 
-    # janky, but thanks https://stackoverflow.com/a/56887446
-    is_valid_html = bool(BeautifulSoup(resp.content, 'html.parser').find())
-    if is_valid_html:
-        cleaned_result = 'Got an HTML response'
+    if exception_msg is not None:
+        raw_to_write = bytes(
+            json.dumps({'issue_type': FetchErrors.REQUEST_ERROR, 'error_msg': exception_msg}),
+            'utf-8'
+        )
+        cleaned_to_write = 'Request failed'
     else:
-        # Ignore empty lines
-        cleaned_result = os.linesep.join([s for s in resp.text.splitlines() if s])
+        # janky, but thanks https://stackoverflow.com/a/56887446
+        is_valid_html = bool(BeautifulSoup(resp.content, 'html.parser').find())
 
-    # In cases where we don't want to accidentally save the raw result, and the response we
-    # got was not a valid robots.txt file, then don't save the raw result
-    should_skip_raw_result = domain in SKIP_LIST and is_valid_html
-    with open(fname, 'wb') as f:
-        if should_skip_raw_result:
-            f.write(bytes('Got an HTML response, and site is in skip list', 'utf-8'))
+        if is_valid_html:
+            raw_to_write = bytes(json.dumps({
+                'issue_type': FetchErrors.HTML_RESPONSE_ERROR,
+                'error_msg': 'HTML response',
+                'status_code': resp.status_code
+            }), 'utf-8')
+            cleaned_to_write = 'Got an HTML response'
         else:
-            # Write the raw result
-            f.write(resp.content)
+            raw_to_write = resp.content
+            # Ignore empty lines
+            cleaned_to_write = os.linesep.join([s for s in resp.text.splitlines() if s])
+
+    with open(fname, 'wb') as f:
+        # Write the raw result
+        f.write(raw_to_write)
 
     with open(cleaned_fname, 'w') as f:
-        f.write(cleaned_result)
+        f.write(cleaned_to_write)
 
     print('{}: raw written to {}, "cleaned" written to {}'.format(robots_url, fname, cleaned_fname))
 
