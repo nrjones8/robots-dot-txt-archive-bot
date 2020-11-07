@@ -178,7 +178,7 @@
             </section>
 
             <section class="contact-info">
-                Please forward this error screen to strabantownship.com's <a href="mailto:webmaster@strabantownship.com?subject=Error message [404] (none) for strabantownship.com/robots.txt port 443 on Friday, 30-Oct-2020 22:48:45 PDT"> WebMaster</a>.
+                Please forward this error screen to strabantownship.com's <a href="mailto:webmaster@strabantownship.com?subject=Error message [404] (none) for strabantownship.com/robots.txt port 443 on Friday, 06-Nov-2020 22:09:08 PST"> WebMaster</a>.
             </section>
 
             <p class="reason-text">The server cannot find the requested page:</p>

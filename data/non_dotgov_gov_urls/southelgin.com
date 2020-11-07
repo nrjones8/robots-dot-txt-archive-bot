@@ -277,7 +277,6 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-1521"><a class="menuA level1 menuHidden" href="residents/forms_directory/index.php" target="_self">Forms & Applications</a></li>
 			<li class="menuLI level1 menuHidden li-388"><a class="menuA level1 menuHidden" href="government/departments/administrative_services/garbage,_recycling___yard_waste/index.php" target="_self">Garbage, Recycling & Yard Waste</a></li>
 			<li class="menuLI level1 menuHidden li-1621"><a class="menuA level1 menuHidden" href="government/departments/community_development/interactive_village_maps/index.php" target="_self">Interactive Maps</a></li>
-			<li class="menuLI level1 menuHidden li-1619"><a class="menuA level1 menuHidden" href="https://epay.southelgin.com/eSuite.Utilities/Default.aspx?ReturnUrl=%2Fesuite.utilities%2F" target="_new">Payment Center</a></li>
 			<li class="menuLI level1 menuHidden li-1618"><a class="menuA level1 menuHidden" href="government/departments/police/community_relations/senior_citizen_programs.php" target="_self">Senior Services</a></li>
 			<li class="menuLI level1 menuHidden li-389"><a class="menuA level1 menuHidden" href="residents/special_events/index.php" target="_self">Special Events</a></li>
 			<li class="menuLI level1 menuHidden li-2032"><a class="menuA level1 menuHidden" href="community/coronavirus_news_updates/index.php" target="_self">Coronavirus News/Updates</a></li>
@@ -285,7 +284,12 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-2119"><a class="menuA level1 menuHidden" href="government/departments/community_development/building_permits/index.php" target="_self">Building Permits</a></li>
 			<li class="menuLI level1 menuHidden li-2169"><a class="menuA level1 menuHidden" href="residents/e-notify.php" target="_self">E-Notify</a></li>
 			<li class="menuLI level1 menuHidden li-2179"><a class="menuA level1 menuHidden" href="residents/emergency_alerts.php" target="_self">Emergency Alerts</a></li>
-			<li class="menuLI level1 menuHidden li-2267"><a class="menuA level1 menuHidden" href="residents/halloween_information/index.php" target="_self">Halloween Information</a></li>
+			<li class="menuLI level1 menuHidden li-2310 children"><a class="menuA level1 menuHidden" href="residents/pay_online/index.php" target="_self">Pay Online</a>
+				<ul class="menuUL level2 menuHidden ul-2308">
+					<li class="menuLI level2 menuHidden li-2308"><a class="menuA level2 menuHidden" href="https://magic.collectorsolutions.com/magic-ui/en-US/Login/village-of-south-elgin1" target="_new">ePay (Permits, Tickets, Licenses)</a></li>
+					<li class="menuLI level2 menuHidden li-1619"><a class="menuA level2 menuHidden" href="https://epay.southelgin.com" target="_new">Online Payment (Utility Bills)</a></li>
+				</ul>
+			</li>
 		</ul>
 	</li>
 	<li class="menuLI level0 menuDisplay li-3 children"><a class="menuA level0 menuDisplay" href="businesses.php" target="_self">Businesses</a>
@@ -294,6 +298,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			<li class="menuLI level1 menuHidden li-402"><a class="menuA level1 menuHidden" href="https://www.elginchamber.com/" target="_new">Elgin Area Chamber of Commerce</a></li>
 			<li class="menuLI level1 menuHidden li-1910"><a class="menuA level1 menuHidden" href="residents/forms_directory/index.php#outer-269 " target="_self">Forms & Applications</a></li>
 			<li class="menuLI level1 menuHidden li-1552"><a class="menuA level1 menuHidden" href="government/departments/community_development/building_permits/building_permit_applications.php#outer-356 " target="_self">Building Permit Applications</a></li>
+			<li class="menuLI level1 menuHidden li-2322"><a class="menuA level1 menuHidden" href="https://magic.collectorsolutions.com/magic-ui/en-US/Login/village-of-south-elgin1" target="_new">ePay (Permits, Tickets, Licenses)</a></li>
 			<li class="menuLI level1 menuHidden li-1553"><a class="menuA level1 menuHidden" href="https://www.southelgin.com/government/departments/community_development/planning___zoning/planning___zoning_applications.php#outer-107" target="_new">Planning & Zoning Applications</a></li>
 			<li class="menuLI level1 menuHidden li-405"><a class="menuA level1 menuHidden" href="http://www.seedsouthelgin.com/" target="_new">S.E.E.D</a></li>
 		</ul>

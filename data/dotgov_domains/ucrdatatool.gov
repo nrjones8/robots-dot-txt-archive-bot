@@ -1,7 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /robots.txt was not found on this server.</p>
-</body></html>
+<!DOCTYPE html>
+<html lang="en" ng-app="cdeApp">
+  <head>
+    <meta name="google-site-verification" content="Vve1IR9o9HdyFhlbsVEMd388yFAirFvVlwLG_73uBVM" />
+    <base href="/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title ng-bind="(pageTitle || 'Home')"></title>
+    <link rel="icon" type="image/png" href="public/ico/favicon.png"/>
+    <link href="build/style.css" rel="stylesheet">
+  </head>
+  <body ng-cloak>
+    <ui-view></ui-view>
+    <script src="env.js"></script>
+    <script src="ie-support.js"></script>
+    <script src="build/app.min.js"></script>
+  </body>
+</html>

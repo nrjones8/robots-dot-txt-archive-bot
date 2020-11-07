@@ -7,8 +7,8 @@
       <h1>Error 403 Your User-Agent is banned from this site.</h1>
       <p>Your User-Agent is banned from this site.</p>
       <h3>Additional Details:</h3>
-      <p>XID: 249013936</p>
-      <p>ID: RP3E1A001</p>
+      <p>XID: 540339585</p>
+      <p>ID: RP3E1D001</p>
       <hr>
       <p>Cache server</p>
     </body>

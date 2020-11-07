@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"GnHUxjByKAThKDRcN869m3y52v3hOIOZ0C7oX3DstrYpnjG8nEKZd1uLc1t88P4Rup8DMh0u5_0Yt8724xoGEaK5Kic1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"1w7V8_OSRw4NgFn7xL1eqiPsugc-eBrIDOjUgfs9sflhzJDKe6iqiFYcxw-aHg1_g1hFM2Gxe7Lx-7eqL5lakrxjkR81\" />");
 						}
 					}
 				}, false);
@@ -1141,21 +1141,12 @@ height: 65px;
 </div>
 
 			</li>
-			<li class="widgetItem" data-news-i-d="1438">
+			<li class="widgetItem" data-news-i-d="1430">
 
-					<h4 id="newsFlashItemHeader1438" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1438">Lived Black Experience </a></h4>
+					<h4 id="newsFlashItemHeader1430" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1430">City Budget Memo for FY2021 </a></h4>
 <div class="widgetDesc">
-				<a href="/CivicAlerts.aspx?AID=1438" id="newsFlashReadOn1438" aria-labelledby="newsFlashItemHeader1438 newsFlashReadOn1438" class="readOn sameLine">Read on...</a>
-</div>
-
-			</li>
-			<li class="widgetItem" data-news-i-d="1434">
-
-					<h4 id="newsFlashItemHeader1434" class="widgetTitle">
-	<a href="/CivicAlerts.aspx?AID=1434">Face coverings exemptions </a></h4>
-<div class="widgetDesc">
-				<a href="/CivicAlerts.aspx?AID=1434" id="newsFlashReadOn1434" aria-labelledby="newsFlashItemHeader1434 newsFlashReadOn1434" class="readOn sameLine">Read on...</a>
+				<a href="/CivicAlerts.aspx?AID=1430" id="newsFlashReadOn1430" aria-labelledby="newsFlashItemHeader1430 newsFlashReadOn1430" class="readOn sameLine">Read on...</a>
 </div>
 
 			</li>

@@ -1,4 +1,7 @@
-Sitemap: http://sellersvilleboro.org/sitemap.xml
-
 User-agent: *
-Crawl-delay: 15
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://sellersvilleboro.org/wp-sitemap.xml
+
+Sitemap: https://sellersvilleboro.org/sitemap.xml

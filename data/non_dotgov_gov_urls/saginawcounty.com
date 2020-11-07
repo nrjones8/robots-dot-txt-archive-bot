@@ -1080,20 +1080,32 @@ MI
   #homepage .alert-editbtn{display:block}
 </style>
 
-<div class="alert-editbtn">
+<!-- start alert html -->
+<div class="alert alert-dismissible floating-alert fade in os-animation" data-os-animation="fadeInUpBig" data-os-animation-delay="2s" role="alert">
+  <div class="alert-editbtn">
     
-  
-  
-  <script language="JavaScript" type="text/JavaScript">
-    RZ.module = 'alert';
-    RZ.nexturl = "editforms/alert-editform.jsp";
-    RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
-    RZ.img = '<span class="rzBtn">Edit Alert</span>';
-    RZ.set = 'alert.pageid=alert';
-    RZ.options = '';
-    if (typeof RZaction != 'undefined') RZaction('editform');
-  </script>
+    
+    
+    <script language="JavaScript" type="text/JavaScript">
+      RZ.module = 'alert';
+      RZ.nexturl = "editforms/alert-editform.jsp";
+      RZ.popupwidth = ''; RZ.popupheight = ''; RZ.popupscroll = '';
+      RZ.img = '<span class="rzBtn">Edit Alert</span>';
+      RZ.set = 'alert.pageid=alert';
+      RZ.options = '';
+      if (typeof RZaction != 'undefined') RZaction('editform');
+    </script>
   </div><!-- alert-editbtn -->
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  <h4>November 3, 2020 Election Results</h4>
+  <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Felectionreporting.com%2Fcounty%2F93504286-47ea-4e69-9e2f-5033ae188960&amp;data=04%7C01%7Cegustafson%40saginawcounty.com%7Cd31349bb433f453f17a408d8802dd652%7C22fcf5174c6f4298981bb987492b9c54%7C0%7C0%7C637400281649140597%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=lt9Ry%2BG7NEi7ZOnd%2FdjoPwD2TG%2B5vbdzKi7yVav9%2FtU%3D&amp;reserved=0" target="_blank">&nbsp;</a>
+  
+
+  
+        <p><a href="alert_detail.php" class="btn">Read More</a></p>
+        
+
+</div>
 
 
 

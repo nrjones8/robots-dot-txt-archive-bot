@@ -16,7 +16,7 @@
  	<meta name="ROBOTS" content="NOARCHIVE" />
  	<meta name="GOOGLEBOT" content="NOARCHIVE" /> 
  	<meta name="author" content="mgryczon"/>
- 	<meta name="revised" content="10/16/2020"/>
+ 	<meta name="revised" content="11/04/2020"/>
  	<meta name="keywords" content="State of New Jersey, New Jersey, Government, State, Employment, ABout NJ, NJ Business, Transportation"/>
  	<meta name="description" content="State of New Jersey, New Jersey, Government, State, Employment, ABout NJ, NJ Business, Transportation"/>
  	<meta name="author" content="mgryczon"/>
@@ -604,8 +604,8 @@ strong{font-weight:normal;font-size: 0.97rem;}
 	      
 	   	<div class="col-lg-3 mb-3 col-sm-12">
 	  		<div class="card spots p-0 m-0 card-block p-0 m-0"> 
-	 			<a href="https://nj.gov/state/elections/vote.shtml" class="h-100" >
-	 			<img class="card-img-top" src="/nj/library/spotlight/2020voting.png" alt="2020 NJ Voter Information Portal"/>
+	 			<a href="https://covid19.nj.gov/pages/testing" class="h-100" >
+	 			<img class="card-img-top" src="/nj/library/spotlight/2020805-COVID-testing.png" alt="Get Tested, Visit https://covid19.nj.gov/pages/testing"/>
 	 			</a>
 	  		 </div>
  		</div>
@@ -1588,6 +1588,31 @@ strong{font-weight:normal;font-size: 0.97rem;}
 			document.write(today.getFullYear());
 		</script>
 		</address>
+		
+		<!-- Include signup modal -->
+			<div class="modal" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+				<div class="modal-dialog" role="document">
+					<div class="modal-content bg-dark text-white">
+						<div class="modal-header border-dark">
+							<h5 class="modal-title">Get email updates</h5>
+							<button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body">
+							<!-- Include overlay sign up form -->
+							<div class="global-signup-overlay"></div>
+						</div>
+						<div class="modal-footer border-dark">
+							<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- End signup modal include -->
+		
+			<!-- Add global signup script -->
+	<script src="https://beta.nj.gov/global-signup/embed.js"></script>
       </div>
     </div>
     <div class="row no-gutters justify-content-center">
@@ -1662,7 +1687,7 @@ $(function() {
 <!-- END OF SmartSource Data Collector TAG -->
 
 
-<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=63667638"></script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1075998700"></script>
 </body>
 
 

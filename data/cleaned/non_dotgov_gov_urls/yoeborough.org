@@ -1,3 +1,4 @@
-Sitemap: http://yoeborough.org/sitemap.xml
 User-agent: *
-Crawl-delay: 15
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://yoeborough.org/sitemap.xml

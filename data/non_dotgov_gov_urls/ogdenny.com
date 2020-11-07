@@ -413,6 +413,7 @@ RZ.jsversion = 1.2//--><!]]></script>
 			</li>
 			<li class="menuLI level1 menuHidden li-54"><a class="menuA level1 menuHidden" href="quality_of_life/churches.php" target="_self">Churches</a></li>
 			<li class="menuLI level1 menuHidden li-55"><a class="menuA level1 menuHidden" href="quality_of_life/libraries.php" target="_self">Libraries</a></li>
+			<li class="menuLI level1 menuHidden li-990"><a class="menuA level1 menuHidden" href="quality_of_life/not-for-profits.php" target="_self">Not-For-Profits</a></li>
 			<li class="menuLI level1 menuHidden li-56"><a class="menuA level1 menuHidden" href="quality_of_life/ogden_senior_center.php" target="_self">Ogden Senior Center</a></li>
 		</ul>
 	</li>

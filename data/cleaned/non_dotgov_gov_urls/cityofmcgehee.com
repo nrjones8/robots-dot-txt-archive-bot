@@ -1,1 +1,1 @@
-Temporarily closed for maintenance.
+Got an HTML response

@@ -710,11 +710,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-traffic-calmi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Rezone-a-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-City-of-Miami-Community-Police-Mediation-Program-CPMP
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-Community-Police-Mediation-Program
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Become-a-Mediator-for-the-Miami-Community-Police-Mediation-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/New-page
@@ -803,7 +799,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Works-Project
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Site-Footer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Commissioner-Hardemon-Gallery
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Commissioner-Reyes-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Areas-of-Government
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Home-Page-Banner-Slide-2-Mini-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Home-Page-Slide-1
@@ -1557,11 +1553,7 @@ Disallow: /Services/Request-traffic-calming-on-your-street
 Disallow: /Services/Rezone-a-Property
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
-Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-City-of-Miami-Community-Police-Mediation-Program-CPMP
-Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-Community-Police-Mediation-Program
-Disallow: /Services/Solve-a-Problem/Become-a-Mediator-for-the-Miami-Community-Police-Mediation-Program
 Disallow: /Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
-Disallow: /Services/Solve-a-Problem/New-page
 Disallow: /Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /Services/Transportation/New-page
@@ -1650,7 +1642,7 @@ Disallow: /Shortcut-Content/Works-Projects
 Disallow: /Site-Footer
 Disallow: /Slideshow
 Disallow: /Slideshow/Commissioner-Hardemon-Gallery
-Disallow: /Slideshow/New-page
+Disallow: /Slideshow/Commissioner-Reyes-Gallery
 Disallow: /Slideshow/OCI-Areas-of-Government
 Disallow: /Slideshow/OCI-Home-Page-Banner-Slide-2-Mini-Park
 Disallow: /Slideshow/OCI-Home-Page-Slide-1

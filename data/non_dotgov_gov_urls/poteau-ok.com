@@ -284,8 +284,8 @@ RZ.jsversion = 1.2//--><!]]></script>
 
 
 	<div id="alert">
-		<span id="alert-header">City Hall Closed Veteran's Day:</span>
-		<span id="alert-caption">City Hall and City of Poteau offices will be closed on November 11th.&nbsp;
+		<span id="alert-header">City Council Meeting is virtual tonight:</span>
+		<span id="alert-caption">The City Council meeting for night will he held virtually. Check the latest article for details...
 			
 				<em><a href="alert_detail_T27_R1.php" id="alert-more">read more</a></em>
 			

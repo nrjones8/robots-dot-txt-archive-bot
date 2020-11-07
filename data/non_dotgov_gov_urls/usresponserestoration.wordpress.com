@@ -229,7 +229,7 @@ function gotoFunction() { window.location.href = document.language.languagesel.o
 	</div>
 		<div class="spacergif"></div>
 	<p class="automattic">
-		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Experiment</span>	</p>
+		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Medley</span>	</p>
 				<script>
 				var cwLink = document.getElementById( 'code-wrangler' );
 				var alternatives = [
@@ -278,7 +278,7 @@ if ( window.top !== window.self ) {
 	}
 }
 </script>
-<script src='//0.gravatar.com/js/gprofiles.js?ver=202044y' id='grofiles-cards-js'></script>
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202045y' id='grofiles-cards-js'></script>
 <script id='wpgroho-js-extra'>
 var WPGroHo = {"my_hash":""};
 </script>
@@ -328,8 +328,8 @@ try{
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'21712249','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
-_stq.push(['view', {'blog':'21712249','v':'wpcom','tz':'-7','user_id':'0','subd':'usresponserestoration'}]);
+_tkq.push(['storeContext', {'blog_id':'21712249','blog_tz':'-8','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'21712249','v':'wpcom','tz':'-8','user_id':'0','subd':'usresponserestoration'}]);
 _stq.push(['extra', {'crypt':'UE5VRnhUZ2VGQSYvTVglSnBOaVR1Jk9bYn5tNmJ+TXolcGJkYXZKZDJWRkgyaEV6ZlluSiZpYTRhWV9aN0tsb0F1W2tRWg=='}]);
 _stq.push([ 'clickTrackerInit', '21712249', '0' ]);
 	</script>

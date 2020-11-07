@@ -75,10 +75,10 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 
         <![endif]-->
-        <script type="text/javascript">CQURLInfo={"requestPath":"/content/portal/en/404","extension":"html","selectors":[],"systemId":"92dfe040-7bd3-4ee3-b9ab-e54a79b771a6","runModes":"crx3,samplecontent,publish,crx3tar"};</script>
+        <script type="text/javascript">CQURLInfo={"requestPath":"/content/portal/en/404","extension":"html","selectors":[],"systemId":"b395713c-a888-4a18-a794-e6c705eee101","runModes":"crx3,samplecontent,publish,crx3tar"};</script>
 
 
-		<script type="text/javascript">CQURLInfo={"requestPath":"/content/portal/en/404","extension":"html","selectors":[],"systemId":"92dfe040-7bd3-4ee3-b9ab-e54a79b771a6","runModes":"crx3,samplecontent,publish,crx3tar"};</script>
+		<script type="text/javascript">CQURLInfo={"requestPath":"/content/portal/en/404","extension":"html","selectors":[],"systemId":"b395713c-a888-4a18-a794-e6c705eee101","runModes":"crx3,samplecontent,publish,crx3tar"};</script>
 <link rel="stylesheet" href="/etc/designs/interactive/ilottery/3rdparty.min.20200618095011.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/interactive/ilottery/common/home.min.20200618095011.css" type="text/css">
 <script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.20200618095011.js"></script>
@@ -1246,7 +1246,7 @@ return __p;
 
 
 
-<div class="navbar-pd-outer" id="1295087315">
+<div class="navbar-pd-outer" id="1322190928">
     <div class="container-fluid">
         <nav class="navbar navbar-pd" role="navigation">
             <div class="collapse navbar-collapse" id="pd-main-nav">
@@ -1600,7 +1600,7 @@ return __p;
 <script type="text/javascript">
     $(document).ready(function() {
     	new portalGGA.views.TopNav({
-            el: $("#1295087315"),
+            el: $("#1322190928"),
             gameConfig: '{"KENO":{"portalGameCode":"KENO","esaGameId":"15","esaGameName":"KENO","wagerPageName":"keno","imageName":"keno","cssName":"keno","displayGameName":"Keno"},"LUCKYFORLIFE":{"portalGameCode":"LUCKYFORLIFE","esaGameId":"11","esaGameName":"LIFE","wagerPageName":"lucky-for-life","imageName":"lucky-for-life","cssName":"lucky-for-life","displayGameName":"Lucky For Life"},"EINSTANTS":{"portalGameCode":"EINSTANTS","esaGameId":"36","esaGameName":"einstants","wagerPageName":"einstants","imageName":"eInstants-logo","cssName":"einstants","displayGameName":"Instant Win"},"POWERBALL":{"portalGameCode":"POWERBALL","esaGameId":"12","esaGameName":"PWRB","wagerPageName":"powerball","imageName":"powerball","cssName":"powerball","displayGameName":"Powerball"},"WILDMONEY":{"portalGameCode":"WILDMONEY","esaGameId":"10","esaGameName":"WILD","wagerPageName":"wild-money","imageName":"wild-money","cssName":"wild-money","displayGameName":"Wild Money"},"BINGO":{"portalGameCode":"BINGO","esaGameId":"13","esaGameName":"bngo","wagerPageName":"bingo","imageName":"bingo","cssName":"bingo","displayGameName":"Bingo"},"INSTANTGAMES":{"portalGameCode":"INSTANTGAMES","esaGameId":"34","esaGameName":"Instant Tickets","wagerPageName":"instant-tickets","imageName":"instant-games","cssName":"instant-games","displayGameName":"Instant Games"},"MEGAMILLIONS":{"portalGameCode":"MEGAMILLIONS","esaGameId":"20","esaGameName":"MEGA","wagerPageName":"megamillions","imageName":"megamillions","cssName":"megamillions","displayGameName":"Mega Millions"},"THENUMBERS":{"portalGameCode":"THENUMBERS","esaGameId":"17","esaGameName":"nbrs","wagerPageName":"the-numbers","imageName":"the-numbers","cssName":"the-numbers","displayGameName":"The Numbers"}}'
         });
     });
@@ -1995,7 +1995,7 @@ return __p;
 
 
 
-<div id="1317009866" class='null'><div><div><h2>We're sorry you can't find the page you're looking for. You may not be able to find it because:</h2>
+<div id="1297453285" class='null'><div><div><h2>We're sorry you can't find the page you're looking for. You may not be able to find it because:</h2>
 <ul>
 <li>You may need to create a new bookmark because the web page has changed.</li>
 <li>You may have typed the web address incorrectly - please double check your spelling and spacing.</li>
@@ -2066,7 +2066,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1306406686" class='null'><h4 class="footer-info__heading"><i>About the Rhode Island Lottery</i></h4>
+<div id="1311968615" class='null'><h4 class="footer-info__heading"><i>About the Rhode Island Lottery</i></h4>
 <p><i>Located at 1425 Pontiac Avenue in Cranston, Rhode Island, the Rhode Island Lottery employs 104 men and women to oversee all aspects of Lottery operations and gaming in the State.</i></p>
 <p><i>The Rhode Island Lottery offers quality products that generate revenue to benefit all.</i></p>
 <p><i>The Rhode Island Lottery is the largest voluntary source of income for the State, benefiting all who live, work and visit the Ocean State.</i></p>
@@ -2097,7 +2097,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1309768400" class='null'><h4 class="footer-info__heading">Play Responsibly</h4>
+<div id="1295532138" class='null'><h4 class="footer-info__heading">Play Responsibly</h4>
 <p>When gambling stops being fun, there’s hope, there's help. Please read further to see some of the symptoms of problem gambling and answer our questions to help determine if gambling has become a problem for you or someone you know.<br>
 </p>
 <p><img class="img-responsive" src="/content/dam/interactive/ilottery/images/footer/gamble-banner.png" alt="gambling problem?"><a class="pull-right btn btn-sm btn-outline-secondary" href="/en-us/player-zone/play-responsibly.html">Find out more</a></p>
@@ -2122,7 +2122,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1319565825" class='null'><h4 class="footer-info__heading">Our Partners</h4>
+<div id="1312683087" class='null'><h4 class="footer-info__heading">Our Partners</h4>
 <p><a href="http://www.twinriver.com/" target="_blank"><img class="footer-partner-logo" src="/content/dam/interactive/ilottery/images/footer/logo-twin-rivers.png" alt="Twin Rivers"></a><a href="https://www.twinrivertiverton.com/" target="_blank"><img class="footer-partner-logo" src="/content/dam/interactive/ilottery/images/footer/logo-tiverton-casino.png" alt="Tiverton Casino Hotel"></a></p>
 </div></div>
  
@@ -2150,7 +2150,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1296460682" class='null'><p><img class="img-responsive footer-state-logo" src="/content/dam/interactive/ilottery/images/footer/ri-badge.jpg" alt="Rhode Island"></p>
+<div id="1320224874" class='null'><p><img class="img-responsive footer-state-logo" src="/content/dam/interactive/ilottery/images/footer/ri-badge.jpg" alt="Rhode Island"></p>
 </div></div>
 
         		</div>
@@ -2170,7 +2170,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1313611662" class='null'><div class="footer-copy__content"><p>This website, www.RILOT.com, is the official website of the Rhode Island Lottery. It is UNLAWFUL for anyone under the age of 18 to play the Lottery. Although every effort is made to ensure the accuracy of the winning numbers information on this website, mistakes can occur. If you have questions about winning numbers, contact the Lottery at 1-401-463-6500 or visit your nearest Lottery Retailer for the official winning numbers and game information.</p>
+<div id="1301917258" class='null'><div class="footer-copy__content"><p>This website, www.RILOT.com, is the official website of the Rhode Island Lottery. It is UNLAWFUL for anyone under the age of 18 to play the Lottery. Although every effort is made to ensure the accuracy of the winning numbers information on this website, mistakes can occur. If you have questions about winning numbers, contact the Lottery at 1-401-463-6500 or visit your nearest Lottery Retailer for the official winning numbers and game information.</p>
 </div>
 </div></div>
 
@@ -2195,7 +2195,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1310682342" class='null'><ul class="list-unstyled list-inline margin-reset">
+<div id="1321649163" class='null'><ul class="list-unstyled list-inline margin-reset">
 <li><a href="/en-us/about-us.html" class="btn btn-link">About Us</a></li>
 <li><a href="/en-us/player-zone/faqs.html" class="btn btn-link">FAQ</a></li>
 <li><a href="/en-us/about-us/contact-us.html" class="btn btn-link">Contact Us</a></li>
@@ -2227,7 +2227,7 @@ Phone: 1-401-463-6500 | Fax: 1-401-463-5669</p>
 
 
 
-<div id="1301326123" class='null'><p>© 2020 Rhode Island Lottery. All Rights Reserved. Any and all use of content, logos and/or other features of this website are prohibited without the written consent of the Rhode Island Lottery.</p>
+<div id="1301894280" class='null'><p>© 2020 Rhode Island Lottery. All Rights Reserved. Any and all use of content, logos and/or other features of this website are prohibited without the written consent of the Rhode Island Lottery.</p>
 </div></div>
 
         </div>

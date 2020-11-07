@@ -522,7 +522,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div class="dropdown__callout">
 									
 						<a href="https://www.idaholottery.com/games/raffle/idaho-1000000-raffle-2020">
-							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-1000.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
+							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-25k.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
 						</a><!-- menu-ads -->
 				</div><!-- /.dropdown__callout -->
 			</div><!-- /.dropdown__col -->
@@ -965,7 +965,7 @@ Guidance Documents</a>
 						<div class="dropdown__callout">
 											
 						<a href="https://www.idaholottery.com/games/raffle/idaho-1000000-raffle-2020">
-							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-1000.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
+							<img src="https://www.idaholottery.com/images/promotions/banners/IDL-LOP-Raffle-220x272-25k.jpg" alt="Idaho Lottery Raffle 2020" height="250px">
 						</a><!-- menu-ads -->
 						</div><!-- /.dropdown__callout -->
 					</div><!-- /.dropdown__col -->
@@ -1167,9 +1167,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="NWzD0qJdk7j9heo8rLrw1mwQ362AMkRds79iLGKraeI5xYbY01Z8dMZ4iwImWWeO6TreznLmyv6DBNIjtjo5rCW6U87iNMNA/0is2q0SGp3hNnBw9TknMM6Y/nROP3sazDOzQ1h1B94XkgsBFN4pAQq8AwyhLSXIyACrcghIA82HQmvjVCRHEGP6/Z846YP8W3pOg+yuYnZtmQ2YRVaoOmkyQ9oyV1xg3YGtxDySHvRB0wgszONQfw/HCs2LzUtxl+w3wZxAGaD/92FxMuva3dhOZbMClNFk1M5qRbWSMc0PU8D4mnHGDVHUAJbsE4wMD2uUazdOJsM3qSvE/mYo62n14/zjVmwUpUL5tQPwNAvXomEvY/rkOrghWVmxBtlNmWXmdcDU66WUz9oiB+EZ7MBmHZmdM6kzkDZxQKlIWboxPn22fk8gzmn1CTzdbBBqWGYAhh89TUbkW2fU2ZcjMQ==" />
+<input type="hidden" name="meta" value="5KrleY3qoBuvC54dVXv18oCsEQtX4TN3sklO8aPQvPVL9rHRpkmJBsCGK7iWzWG45ub7/H6aYn5jzlZHHI9+VQDvmqjgEzN1fJSAbfX9lXgPeDIbMW0Ftgixu8rIggAIpsV+cfphFMw5UoXQV7uENDwZ/XAXWeGdOhQvgJQ1p1PKpdbPOnHy4FV6u1wMVE4iZ+R1mb/w5xxunqQm+pFj636fAQakyKRBzj0zWa7iZJj14KuuwqAomECnxCaDAK19Od4cyCTgDzjFGbHWYG7CHWhjgoctQXoYlGW6bupe1ztotXsiMxKNB+B7SKgj9p3ZSMJ76QX68jA4YSysVnzxQn5a0Dt7yjKza4tBWFPvGrMlBhve+z0Hfs2IcabUy1kyXqjJKW/ZhsDzUkrjsVqXvUyY4Doc+ky7NYtaRKbxlDSlUeJWJshDZw/4lCx65zKAyKKWS7b5WCcJ6F+4Cv8VXg==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="290ed44d6c2ce3d4351005cb22b7c2270c7c6858" />
+<input type="hidden" name="csrf_token" value="6a0d2cb6fd80817e47420f48959948bf9706d473" />
 </div>
 
 
@@ -1224,9 +1224,9 @@ Organizations </a>
 <div class='hiddenFields'>
 <input type="hidden" name="ACT" value="22" />
 <input type="hidden" name="RES" value="" />
-<input type="hidden" name="meta" value="slWhP1GbBoeR0mTw6M6qsApy+ormiOoKidvFNribSVbVC3ge527wDLlYTiV/9Q06SxPrEF9ZWohiHhgr+wcsbORqxjyzb9MVqXCVZypaU/5AyxjWRmEsE2rPgzlYNLs+oIGrO0Zq7Mx4rVNQENNiwNY/1sR3xlbWyCQ48t08b+9VoKKYRpxaV3kFrkbB2XVLKFDPh4Ow2CoZfVz5Ee9rg/d16ETPs12f537pbPg9SabZ9WXa/JkPTNHT9iT/q60QXLMQhJnxXnqcNsAazgNwkrNn/y66e+fYv2klNC2nMlfw5fg6XTiYNopCysXAmLA/VeEwnuJXI5ltiWfVPbUoTxTSURFIMGIFLVu9Ln5csmjClvQCwUyXcC4BOPJz3i/oPsWLlbcN/UQMtkItfHyE5j1H4ECQlfaxe/Dr/VIndcUmblZSLYcMtxP63aVTzMudIge6XjEJ6k/hnMwyUihgsA==" />
+<input type="hidden" name="meta" value="jc6U01FhuF0TXlDEoeCbE6aNLp/LKLpuQX4WrHQi79uv6Dp1uE0WKapkgowHIo8M5LpqwfFGOsLIiqcG0hT1lCiQu1xx2yFkuQUCBb6L0hkfVEhSSM+ipaH947nDUuDKFn2cRJvdMCRsrO8po9npDy4644G4EFr4P2//4TIFpxz/p5qGte3EWNe3lvunzrJxsKb5RONWJzRS234fQ09ZjAcTZV6fFITDG8KsiI1YAgqD3dBowThH6SzElNfWRtCKQwivhbT/mNcC67krm38oEzqvwcjkEtopIKDP3m9Cy1wkS/jKkttZbGczy0Idus/5MYwmk1cLv4cqfQHmYGHfg11O1p49yBBuqzhfNCz5SfXTyDSxGQtmMZgWML6AnM4+F1ouWDyaIj4a6q4GES8MQIjJ6sPjv5sSkTD13voakIOc7PVJZn5PDBkvE562FPq+K+4FkqPU8VLesU7bJpWm5w==" />
 <input type="hidden" name="site_id" value="1" />
-<input type="hidden" name="csrf_token" value="290ed44d6c2ce3d4351005cb22b7c2270c7c6858" />
+<input type="hidden" name="csrf_token" value="6a0d2cb6fd80817e47420f48959948bf9706d473" />
 </div>
 
 

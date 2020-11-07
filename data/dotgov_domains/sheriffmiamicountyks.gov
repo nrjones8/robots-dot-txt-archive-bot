@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"v9M7Xboq-920sS-m-HyVfoD-5XsM1zkY0EhfsT6ki1LtDFVByKqWOedaYuAz6bG5ozvn7wyuRgLl37Kqf5x4oiM6-h01\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"G0XIKbKb1C7qzi5PzpbhpPl_b44fyPQbt8ItaDJpPRM58IPLNV3_6GKYAUCQLPqD3LbjUIWLNfhKfSAPjsi1ARq-OA81\" />");
 						}
 					}
 				}, false);
@@ -843,7 +843,7 @@ The Miami County Sheriff’s Office currently employs two captains, one jail adm
 
 
 <div data-minicalendar="true" class="miniCalendar media" style="width: 50%; ">
-<h3 class="miniCalendarHeader">October 2020</h3>
+<h3 class="miniCalendarHeader">November 2020</h3>
 	<table>
 		<thead>											
 			<tr>										
@@ -886,19 +886,7 @@ Sat
 			</tr>										
 		</thead>										
 		<tbody>											
-<tr><td class="not"><span>
-27
-</span></td>				
-<td class="not"><span>
-28
-</span></td>				
-<td class="not"><span>
-29
-</span></td>				
-<td class="not"><span>
-30
-</span></td>				
-<td>
+<tr><td>
 <span>01</span>
 </td>
 <td>
@@ -907,20 +895,20 @@ Sat
 <td>
 <span>03</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>04</span>
 </td>
 <td>
 <span>05</span>
 </td>
-<td>
+<td class="today">
 <span>06</span>
 </td>
 <td>
 <span>07</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>08</span>
 </td>
 <td>
@@ -929,9 +917,8 @@ Sat
 <td>
 <span>10</span>
 </td>
-</tr>
-<tr><td>
-<span>11</span>
+<td>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=11&amp;CID=14,32'>11</a>
 </td>
 <td>
 <span>12</span>
@@ -942,7 +929,8 @@ Sat
 <td>
 <span>14</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>15</span>
 </td>
 <td>
@@ -951,8 +939,7 @@ Sat
 <td>
 <span>17</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>18</span>
 </td>
 <td>
@@ -964,7 +951,8 @@ Sat
 <td>
 <span>21</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>22</span>
 </td>
 <td>
@@ -973,28 +961,40 @@ Sat
 <td>
 <span>24</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>25</span>
 </td>
 <td>
-<span>26</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=26&amp;CID=14,32'>26</a>
 </td>
 <td>
-<span>27</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=27&amp;CID=14,32'>27</a>
 </td>
 <td>
 <span>28</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>29</span>
 </td>
-<td class="today">
+<td>
 <span>30</span>
 </td>
-<td>
-<span>31</span>
-</td>
+<td class="not"><span>
+01
+</span></td>				
+<td class="not"><span>
+02
+</span></td>				
+<td class="not"><span>
+03
+</span></td>				
+<td class="not"><span>
+04
+</span></td>				
+<td class="not"><span>
+05
+</span></td>				
 </tr>
 
 		</tbody>										

@@ -53,7 +53,6 @@
 		
 		<script type="text/javascript" src="/JavaScript/jQuery/1.12.4/jquery-1.12.4.min.js" ></script>
 		<script type="text/javascript" src="/JavaScript/Bootstrap/3.3.6/js/Bootstrap.min.js" ></script>
-		<script type="text/javascript" src="/JavaScript/jQuery.Validate/1.10.0/jquery.validate.min.js" ></script>
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="/JavaScript/html5shiv/3.6.2/html5shiv.js"></script>
 			<script type="text/javascript" src="/JavaScript/Respond/respond.js"></script>
@@ -87,7 +86,7 @@
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x0A8E1FB5FCDF9E977A1EDBCDBA213A75E4677083DA841BB5E0EE50F5E792615E79EDFA3A0AA1F1D0D94F740BC2BFC08CB77E107DC82A47CB9E3F86307D9784FE,31 Oct 2020 03:51:02 -0000" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xE9866D7CE5E6E9536375BD6FD462C624A21EA2D6AC184B4E390766778B4811CF33F080D070E1EA1336F55CACB9843ED922B5DB85C21838999F2084AE98D39DA0,07 Nov 2020 04:12:16 -0000" />
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
@@ -111,7 +110,7 @@ var g_wsaQoSDataPoints = [];
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fsites\u002fGetCovered", webAbsoluteUrl: "https:\u002f\u002fwww2.illinois.gov\u002fsites\u002fGetCovered", siteAbsoluteUrl: "https:\u002f\u002fwww2.illinois.gov\u002fsites\u002fgetcovered", serverRequestPath: "\u002fsites\u002fgetcovered\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Get Covered Illinois \u0028GCI\u0029", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2020-10-31T03:51:02.7797134Z") - new Date(), siteClientTag: "16$$15.0.4995.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:0,Low:196673},pageListId:"{bad5a6a5-df08-49c7-9071-8d89038ce9ce}",pageItemId:2, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002fsites\u002fgetcovered", allowSilverlightPrompt:'True'};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fsites\u002fGetCovered", webAbsoluteUrl: "https:\u002f\u002fwww2.illinois.gov\u002fsites\u002fGetCovered", siteAbsoluteUrl: "https:\u002f\u002fwww2.illinois.gov\u002fsites\u002fgetcovered", serverRequestPath: "\u002fsites\u002fgetcovered\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Get Covered Illinois \u0028GCI\u0029", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2020-11-07T04:12:16.1119370Z") - new Date(), siteClientTag: "20$$15.0.4995.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:0,Low:196673},pageListId:"{bad5a6a5-df08-49c7-9071-8d89038ce9ce}",pageItemId:2, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002fsites\u002fgetcovered", allowSilverlightPrompt:'True'};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl36$g_c03e9091_6bd8_4dcb_a512_11ffce7955b6',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -163,8 +162,8 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 <div class="alert alert-info alert-dismissible" role="alert"><p> 
       <span class="glyphicon glyphicon glyphicon-plus-sign" aria-hidden="true" style="color:red;"> </span> View up to date information on how Illinois is handling the Coronavirus Disease 2019 (COVID-19) from the 
       <a href="https://coronavirus.illinois.gov/">State of Illinois Coronavirus Response Site</a></p></div>
-           		        <div class="alert alert-GetCoveredinfo alert-dismissible" role="alert"><p> 
-      <span class="glyphicon glyphicon-calendar" aria-hidden="true" style="font-size:1.4em;"> </span> Open Enrollment for the ACA Health Insurance Marketplace is November 1 through December 15, 2020. The Get Covered Illinois (GCI) team is here to help you!</p></div>
+           		        <div class="alert alert-GetCoveredinfo alert-dismissible" role="alert"><p>
+      <span class="glyphicon glyphicon-calendar" aria-hidden="true" style="font-size:1.4em;"> </span> Open Enrollment for the ACA Health Insurance Marketplace is November 1 through December 15, 2020. </p><div id="daysleft"></div><p /></div>
 	                	<div class="soi-utility-wrapper hidden-xs">
 				    	<div class="soi-utility-inner">
 		                		<div class="row">
@@ -178,7 +177,12 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 								</div>
 							</div>
 						</div>	
-						    <a id="ctl00_onetidProjectPropertyTitleGraphic" href="/sites/getcovered/"><img id="ctl00_onetidHeadbnnr2" class="soi-site-logo" name="onetidHeadbnnr0" src="/sites/getcovered/Style%20Library/SOIMetro/Images/SiteLogo.png" alt="Get Covered Illinois, The Official Health Marketplace for Illinois" /></a>
+						    <a id="ctl00_onetidProjectPropertyTitleGraphic" href="/sites/getcovered/">
+						    	
+						    	
+						    	
+						    	<img id="ctl00_onetidHeadbnnr2" class="soi-site-logo" name="onetidHeadbnnr0" src="/sites/getcovered/Style%20Library/SOIMetro/Images/SiteLogo.png" alt="Get Covered Illinois, The Official Health Marketplace for Illinois" />
+						    </a>
 							
     						<div class="soi-motto hidden-sm hidden-xs col-md-8 pull-right">
     							<!--Site Element list Not Available --> 
@@ -201,7 +205,12 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 									        <span class="icon-bar"></span>
 									        <span class="icon-bar"></span>
 								        </button>
-	   					    	    	<a id="ctl00_searchIconMobile" class="soi-search-mobile btn btn-nav pull-right visible-xs" href="/sites/getcovered/search"><span class="glyphicon glyphicon-search"></span></a>										    
+	   					    	    	<a id="ctl00_searchIconMobile" class="soi-search-mobile btn btn-nav pull-right visible-xs" href="/sites/getcovered/search">
+						    	    		
+						    	    		
+						    	    		
+						    	    		<span class="glyphicon glyphicon-search"></span>
+						    	    	</a>										    
 									     <div class="collapse navbar-collapse">
 										    
 												
@@ -469,12 +478,11 @@ equalheight('div.media');
                <a href="https://insurance.illinois.gov/">Illinois Department of Insurance</a><br /> 320 W. Washington St.<br /> Springfield, IL 62767<br /> (217) 782-4515</address></li></ul></div><div class="col-sm-12 col-md-4"><h2>Contact Us</h2><hr /><ul><li>
             <a class="soi-tel-link">1-866-311-1119</a></li><li>
             <a href="mailto:doi.webmaster@illinois.gov">Website Feedback</a></li></ul><ul class="list-inline"><li>
-            <a href="https://twitter.com/IL_Insurance" target="_blank"> 
-               <img alt="Follow us on Twitter" src="/Style%20Library/Images/soi-twitter.png" /></a></li><li>
-            <a href="https://www.linkedin.com/company/il-department-of-insurance/" target="_blank"> 
-               <img alt="Join us on Facebook" src="/Style%20Library/Images/soi-linkedin.png" /></a></li><li>
-            <a href="https://insurance.illinois.gov/rss/" target="_blank"> 
-               <img alt="Instagram" src="/Style%20Library/Images/soi-rss.png" /></a></li></ul></div><div class="col-sm-12 col-md-4"><h2>Translate</h2><hr /><ul><li> 
+            <a href="https://twitter.com/IL_Insurance" target="_blank"><img alt="Follow us on Twitter" src="/Style%20Library/Images/soi-twitter.png" /></a></li><li>
+            <a href="https://www.linkedin.com/company/il-department-of-insurance/" target="_blank"><img alt="Join us on Facebook" src="/Style%20Library/Images/soi-linkedin.png" /></a></li><li>
+            <a href="https://insurance.illinois.gov/rss/" target="_blank"><img alt="Instagram" src="/Style%20Library/Images/soi-rss.png" /></a></li></ul> 
+      <a href="/sites/getcovered/news">
+         <img src="/sites/GetCovered/PublishingImages/SubscribetoGCINews.png" alt="Subscribe to GCI News" /></a> </div><div class="col-sm-12 col-md-4"><h2>Translate</h2><hr /><ul><li> 
             <a href="/sites/GetCovered/pages/translation.aspx">Translation Information</a></li></ul></div></div>
 							</div>
 						</div>
@@ -509,7 +517,7 @@ equalheight('div.media');
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0xE331963F78D6F3D9968583A96828B94105BB687622C9E03C5EBA8146E400098B99C43CA4AC5541E0F76935B430CD507F7B96AD70D6FBF71446898303B0616616,31 Oct 2020 03:51:03 -0000';
+            formDigestElement.value = '0x9BDD0A6290A293A6728400CD326B64F734FDEC867DF18402BFD85506E5A8CE52D180F3F34B1E375F2AD521D33DD597B2E1B381429D8AB67CD8D6C6F8BBDFCDD3,07 Nov 2020 04:12:17 -0000';
             g_updateFormDigestPageLoaded = new Date();
         }
         //]]>

@@ -8,9 +8,10 @@ Disallow:
 # reduce frequency of visits and location of search crawlers
 
 User-agent: teoma
-Crawl-delay: 30
 Disallow: /bin/
 Disallow: /Documents/
+Disallow: /departments/publicworks/recycling/theresource/keyword/
+Disallow: /departments/publicworks/recycling/theresource/date/
 Disallow: /MeetingsandEvents/
 Disallow: /Search/
 Disallow: /Promotions/
@@ -28,9 +29,10 @@ Disallow: /styleguide/
 Disallow: *?
 
 User-agent: Slurp
-Crawl-delay: 30
 Disallow: /bin/
 Disallow: /Documents/
+Disallow: /departments/publicworks/recycling/theresource/keyword/
+Disallow: /departments/publicworks/recycling/theresource/date/
 Disallow: /MeetingsandEvents/
 Disallow: /Search/
 Disallow: /Promotions/
@@ -48,10 +50,11 @@ Disallow: /styleguide/
 Disallow: *?
 
 User-agent: msnbot
-Crawl-delay: 30
 Disallow: /*.jpeg$
 Disallow: /bin/
 Disallow: /Documents/
+Disallow: /departments/publicworks/recycling/theresource/keyword/
+Disallow: /departments/publicworks/recycling/theresource/date/
 Disallow: /MeetingsandEvents/
 Disallow: /Search/
 Disallow: /Directory/
@@ -78,9 +81,10 @@ Disallow: /
 # all robots
 
 User-agent: *
-Crawl-delay: 30
 Disallow: /bin/
 Disallow: /Documents/
+Disallow: /departments/publicworks/recycling/theresource/keyword/
+Disallow: /departments/publicworks/recycling/theresource/date/
 Disallow: /Promotions/
 Disallow: /MeetingsandEvents/
 Disallow: /Search/

@@ -167,8 +167,31 @@ body.custom-background { background-color: #ffffff; }
 			</div> <!-- #left-area -->
 
 				<div id="sidebar">
-		<div id="tribe-events-list-widget-2" class="et_pb_widget tribe-events-list-widget"><h4 class="widgettitle">City Calendar</h4>	<p>There are no upcoming events at this time.</p>
-</div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		<div id="tribe-events-list-widget-2" class="et_pb_widget tribe-events-list-widget"><h4 class="widgettitle">City Calendar</h4>
+	<ol class="tribe-list-widget">
+					<li class="tribe-events-list-widget-events type-tribe_events post-1454 tribe-clearfix tribe-events-venue-682 tribe-events-last">
+				
+								<!-- Event Title -->
+				<h4 class="tribe-event-title">
+					<a href="https://cityofsatsuma.com/wordpress/event/christmas-in-satsuma/" rel="bookmark">Christmas in Satsuma</a>
+				</h4>
+
+								<!-- Event Time -->
+
+				
+				<div class="tribe-event-duration">
+					<span class="tribe-event-date-start">December 5 @ 11:00 am</span> - <span class="tribe-event-time">6:00 pm</span>				</div>
+
+							</li>
+			</ol><!-- .tribe-list-widget -->
+
+	<p class="tribe-events-widget-link">
+		<a href="https://cityofsatsuma.com/wordpress/events/" rel="bookmark">View All Events</a>
+	</p>
+
+</div> <!-- end .et_pb_widget --><script type="application/ld+json">
+[{"@context":"http://schema.org","@type":"Event","name":"Christmas in Satsuma","description":"&lt;p&gt;Saturday, December 5, 2020Annual Arts and Crafts Festival in Baldwin SquareFestivities starting at 11amChristmas Parade at 2pmTree Lighting in the evening&lt;/p&gt;\\n","url":"https://cityofsatsuma.com/wordpress/event/christmas-in-satsuma/","startDate":"2020-12-05T11:00:00-06:00","endDate":"2020-12-05T18:00:00-06:00","location":{"@type":"Place","name":"Baldwin Square","description":"","url":"","address":{"@type":"PostalAddress","addressRegion":"AL","addressCountry":"United States"},"telephone":"","sameAs":""},"performer":"Organization"}]
+</script>	</div> <!-- end #sidebar -->
 		</div> <!-- #content-area -->
 	</div> <!-- .container -->
 </div> <!-- #main-content -->
@@ -232,7 +255,7 @@ body.custom-background { background-color: #ffffff; }
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
-var et_pb_custom = {"ajaxurl":"https:\/\/cityofsatsuma.com\/wordpress\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/cityofsatsuma.com\/wordpress\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/cityofsatsuma.com\/wordpress\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"487481070b","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"b1a64610b7","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"","unique_test_id":"","ab_bounce_rate":"","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/cityofsatsuma.com\/wordpress\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/cityofsatsuma.com\/wordpress\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/cityofsatsuma.com\/wordpress\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"f4505a3e2c","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"47a26dfd22","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"","unique_test_id":"","ab_bounce_rate":"","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 /* ]]> */

@@ -1,3 +1,4 @@
-Sitemap: http://trappeborough.com/sitemap.xml
 User-agent: *
-Crawl-delay: 15
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://trappeborough.com/sitemap.xml

@@ -133,14 +133,14 @@ var MSOWebPartPageFormName = 'aspnetForm';
 var g_presenceEnabled = true;
 var g_wsaEnabled = false;
 
-var g_correlationId = 'b8ef889f-015e-8096-7573-988b884cb35e';
+var g_correlationId = 'b9318b9f-8149-8096-8d37-b71545ddd8e1';
 var g_wsaQoSEnabled = false;
 var g_wsaQoSDataPoints = [];
 var g_wsaRUMEnabled = false;
 var g_wsaLCID = 1033;
 var g_wsaListTemplateId = 850;
 var g_wsaSiteTemplateId = 'BLANKINTERNET#2';
-var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan", webAbsoluteUrl: "https:\u002f\u002fwww.ncdot.gov\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan", siteAbsoluteUrl: "https:\u002f\u002fwww.ncdot.gov", serverRequestPath: "\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "NC Moves 2050 Plan", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002f_layouts\u002f15\u002fNCDOT.RNR.Branding\u002fassets\u002fimages\u002flogos\u002fsiteIcon-ncdot.png?rev=20180710", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2020-10-31T03:58:41.1831049Z") - new Date(), updateFormDigestPageLoaded: new Date("2020-10-31T03:58:41.1831049Z"), siteClientTag: "0$$16.0.5071.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200801},pageListId:"{3dd222e9-bf40-4f77-8687-762ef1457987}",pageItemId:1, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True',"themedCssFolderUrl" : "/_catalogs/theme/Themed/9320848E","themedImageFileNames" : {"spcommon.png" : "spcommon-B35BB0A9.themedpng?ctag=1","ellipsis.11x11x32.png" : "ellipsis.11x11x32-2F01F47D.themedpng?ctag=1","O365BrandSuite.95x30x32.png" : "O365BrandSuite.95x30x32-C212E2FD.themedpng?ctag=1","socialcommon.png" : "socialcommon-6F3394A9.themedpng?ctag=1","spnav.png" : "spnav-230C537D.themedpng?ctag=1"}, isSiteAdmin: false};
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan", webAbsoluteUrl: "https:\u002f\u002fwww.ncdot.gov\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan", siteAbsoluteUrl: "https:\u002f\u002fwww.ncdot.gov", serverRequestPath: "\u002finitiatives-policies\u002fTransportation\u002fnc-2050-plan\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "NC Moves 2050 Plan", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002f_layouts\u002f15\u002fNCDOT.RNR.Branding\u002fassets\u002fimages\u002flogos\u002fsiteIcon-ncdot.png?rev=20180710", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2020-11-07T04:20:01.8631687Z") - new Date(), updateFormDigestPageLoaded: new Date("2020-11-07T04:20:01.8631687Z"), siteClientTag: "0$$16.0.5071.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:200801},pageListId:"{3dd222e9-bf40-4f77-8687-762ef1457987}",pageItemId:1, pagePersonalizationScope:1, alertsEnabled:true, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True',"themedCssFolderUrl" : "/_catalogs/theme/Themed/9320848E","themedImageFileNames" : {"spcommon.png" : "spcommon-B35BB0A9.themedpng?ctag=1","ellipsis.11x11x32.png" : "ellipsis.11x11x32-2F01F47D.themedpng?ctag=1","O365BrandSuite.95x30x32.png" : "O365BrandSuite.95x30x32-C212E2FD.themedpng?ctag=1","socialcommon.png" : "socialcommon-6F3394A9.themedpng?ctag=1","spnav.png" : "spnav-230C537D.themedpng?ctag=1"}, isSiteAdmin: false};
                             function DoCallBack(filterText)
                             {WebForm_DoCallback('ctl00$ctl51$g_644690ad_eab7_4432_aebc_cd18d9556ef3',filterText,UpdateFilterCallback,0,CallBackError,true)
                             }
@@ -879,7 +879,7 @@ $("#contactFooter2").contactFooter({
         if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
             (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
         {
-            formDigestElement.value = '0x7D459ABC34547D766CBF71BC899E8FAFC8873348BD8FB2E39706F9A1FE3977577FD4FB4B1CD71DFD761A530FEAC2DC3882B1CE3BEB7C8F937D34B8A8948A446C,31 Oct 2020 03:58:41 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+            formDigestElement.value = '0x1D6348DFDCA195E979A614D076F44C64B93AA320CC0D597AAD60D1FB55B2089C07DF72DECE41184EA38315BB97D6388E8BA202A1DBD7BCFBAC3B6395A2BB3FB2,07 Nov 2020 04:20:01 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
         }
         //]]>
         </script>

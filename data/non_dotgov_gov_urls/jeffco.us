@@ -36,7 +36,7 @@
 					for (var i = 0; i < forms.length; i++)
 					{
 						if (forms[i].method == "post" && !forms[i].querySelector('[name="__RequestVerificationToken"]') && !absPat.test(forms[i].getAttribute("action"))) {
-							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"yA321F07MdXDQYLtwY-xwftpYu2dE9p9e04gpFRa90aIxU8MLfbhSva1947B9oUvW8GJFsqOMi5QJJ_zcI4sk1Sd9xM1\" />");
+							forms[i].insertAdjacentHTML("beforeend", "<input name=\"__RequestVerificationToken\" type=\"hidden\" value=\"SqVeunlWZ3oYQrOHV9JwFd4aTXVqPBHj6hOuNb05458ZCkpMcPXh3PJHyQGpQThpqMqiK0pHN9KkKVz-JmQXuiXPkus1\" />");
 						}
 					}
 				}, false);
@@ -88,8 +88,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
 	<title>Jefferson County, CO | Official Website</title>
-		<meta name="description" content="">
-		<meta name="keywords" content="Home">
+		<meta name="description" content="The home page for Jefferson County Colorado.">
+		<meta name="keywords" content="Home,jeffco,jefferson county,colorado,web page,homepage">
 				
 	<!--[if IE 6]><script language="JavaScript" type="text/javascript"> var isie6 = true; </script><![endif]-->
 	<!--[if IE 7]><script language="JavaScript" type="text/javascript"> var isie7 = true; </script><![endif]-->
@@ -101,7 +101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	var order = '';
 //--></script>
 	
-	<link href="/-1518795746.css" rel="stylesheet" type="text/css" />	<link href="/-1549106243.css" rel="stylesheet" type="text/css" />
+	<link href="/-1518795746.css" rel="stylesheet" type="text/css" />	<link href="/795382454.css" rel="stylesheet" type="text/css" />
 
 	<link rel="stylesheet" type="text/css" href="/Assets/Styles/Print.css" media="print">
 <script type="text/javascript" src="/Scripts/2011.3.1115/jquery-1.6.4.min.js"></script>
@@ -1087,10 +1087,10 @@ opacity: 1;
 
 <li class="InfoAdvanced widgetItem ">
 	<div style="background-color: rgba(41, 56, 54, .9); min-height:350px; padding:1em;"><span style="text-transform: uppercase; font-weight: 600; color: rgb(190, 214, 0);">Elections Division</span><br>
-<h2 class="widgetTitle">Are you Ready for the Election?</h2>
-<span style="font-size: 14.4px;">Looking for your ballot? Have questions about election security? Wondering where to vote? Just select the link below to visit the Elections page for answers to these questions as well as additional information.<br>
-</span><br>
-<a href="/396" target="_self" class="Hyperlink">See the Elections Website</a></div>
+<h2 class="widgetTitle">Looking for Election Results?</h2>
+You can find all of the Jefferson County election results for the 2020 General Election on the Clerk &amp; Recorder's Election Results page. Just select the link below to be connected.<br>
+<br>
+<a href="/578/Election-Results" target="_self" class="Hyperlink">See Election Results</a></div>
 </li>						</ol>
 					</div>
 		</div>
@@ -1610,14 +1610,14 @@ opacity: 1;
 	    --><div class="widgetItem GraphicLinks">
 
 <div>
-	<a href="/769/Board-of-Equalization" target="_self" class="fancyButton fancyButton1281 " >
+	<a href="/397/Motor-Vehicle" target="_self" class="fancyButton fancyButton1379 " >
 		<span>
-			<span><span class="text">Board of Equalization Hearings</span></span>
+			<span><span class="text">Vehicle Titles, Registrations &amp; Renewals</span></span>
 		</span>
 	</a>
 </div>
-		<style scoped="scoped">.fancyButton1281.fancyButton:link,.fancyButton1281.fancyButton:visited, .fancyButton1281div.fancyButton{
-	background-image: url(/ImageRepository/Document?documentID=14561);
+		<style scoped="scoped">.fancyButton1379.fancyButton:link,.fancyButton1379.fancyButton:visited, .fancyButton1379div.fancyButton{
+	background-image: url(/ImageRepository/Document?documentID=57);
 	background-repeat: no-repeat;
 	background-position: center 1em ;
 Float:none;
@@ -1627,8 +1627,8 @@ opacity: 1;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;}
-.fancyButton1281.fancyButton:hover,.fancyButton1281.fancyButton:focus,.fancyButton1281.fancyButton:active,.fancyButton1281.fancyButton.hover{
-	background-image: url(/ImageRepository/Document?documentID=14562);
+.fancyButton1379.fancyButton:hover,.fancyButton1379.fancyButton:focus,.fancyButton1379.fancyButton:active,.fancyButton1379.fancyButton.hover{
+	background-image: url(/ImageRepository/Document?documentID=56);
 	background-repeat: no-repeat;
 	background-position: center top;
 opacity: 1;
@@ -1636,11 +1636,11 @@ opacity: 1;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;}
-.fancyButton1281.fancyButton:link > span,.fancyButton1281.fancyButton:visited > span, .fancyButton1281div.fancyButton > span{
+.fancyButton1379.fancyButton:link > span,.fancyButton1379.fancyButton:visited > span, .fancyButton1379div.fancyButton > span{
 }
-.fancyButton1281.fancyButton:hover > span,.fancyButton1281.fancyButton:focus > span,.fancyButton1281.fancyButton:active > span,.fancyButton1281.fancyButton.hover > span{
+.fancyButton1379.fancyButton:hover > span,.fancyButton1379.fancyButton:focus > span,.fancyButton1379.fancyButton:active > span,.fancyButton1379.fancyButton.hover > span{
 }
-.fancyButton1281.fancyButton .text{
+.fancyButton1379.fancyButton .text{
 	color: #fff;
 	font-size: .9em;
 	font-family: "Montserrat";
@@ -1655,7 +1655,7 @@ opacity: 1;
 
 
 }
-.fancyButton1281.fancyButton:hover .text,.fancyButton1281.fancyButton:focus .text,.fancyButton1281.fancyButton:active .text,.fancyButton1281.fancyButton.hover .text{
+.fancyButton1379.fancyButton:hover .text,.fancyButton1379.fancyButton:focus .text,.fancyButton1379.fancyButton:active .text,.fancyButton1379.fancyButton.hover .text{
 	text-decoration: underline;
 	background-repeat: no-repeat;
 	background-position: center 10em ;
@@ -1787,14 +1787,14 @@ opacity: 1;
 	    --><div class="widgetItem GraphicLinks">
 
 <div>
-	<a href="/1512/Permits-Reservations" target="_self" class="fancyButton fancyButton1286 " >
+	<a href="/2083/Birth-Death-Certificates" target="_self" class="fancyButton fancyButton1329 " >
 		<span>
-			<span><span class="text">Park Permits &amp; Reservations</span></span>
+			<span><span class="text">Birth &amp; Death Certificates</span></span>
 		</span>
 	</a>
 </div>
-		<style scoped="scoped">.fancyButton1286.fancyButton:link,.fancyButton1286.fancyButton:visited, .fancyButton1286div.fancyButton{
-	background-image: url(/ImageRepository/Document?documentID=13970);
+		<style scoped="scoped">.fancyButton1329.fancyButton:link,.fancyButton1329.fancyButton:visited, .fancyButton1329div.fancyButton{
+	background-image: url(/ImageRepository/Document?documentID=15480);
 	background-repeat: no-repeat;
 	background-position: center 1em ;
 Float:none;
@@ -1804,8 +1804,8 @@ opacity: 1;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;}
-.fancyButton1286.fancyButton:hover,.fancyButton1286.fancyButton:focus,.fancyButton1286.fancyButton:active,.fancyButton1286.fancyButton.hover{
-	background-image: url(/ImageRepository/Document?documentID=13971);
+.fancyButton1329.fancyButton:hover,.fancyButton1329.fancyButton:focus,.fancyButton1329.fancyButton:active,.fancyButton1329.fancyButton.hover{
+	background-image: url(/ImageRepository/Document?documentID=15481);
 	background-repeat: no-repeat;
 	background-position: center top;
 opacity: 1;
@@ -1813,11 +1813,11 @@ opacity: 1;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;}
-.fancyButton1286.fancyButton:link > span,.fancyButton1286.fancyButton:visited > span, .fancyButton1286div.fancyButton > span{
+.fancyButton1329.fancyButton:link > span,.fancyButton1329.fancyButton:visited > span, .fancyButton1329div.fancyButton > span{
 }
-.fancyButton1286.fancyButton:hover > span,.fancyButton1286.fancyButton:focus > span,.fancyButton1286.fancyButton:active > span,.fancyButton1286.fancyButton.hover > span{
+.fancyButton1329.fancyButton:hover > span,.fancyButton1329.fancyButton:focus > span,.fancyButton1329.fancyButton:active > span,.fancyButton1329.fancyButton.hover > span{
 }
-.fancyButton1286.fancyButton .text{
+.fancyButton1329.fancyButton .text{
 	color: #fff;
 	font-size: .9em;
 	font-family: "Montserrat";
@@ -1832,8 +1832,8 @@ opacity: 1;
 
 
 }
-.fancyButton1286.fancyButton:hover .text,.fancyButton1286.fancyButton:focus .text,.fancyButton1286.fancyButton:active .text,.fancyButton1286.fancyButton.hover .text{
-	text-decoration: underline;
+.fancyButton1329.fancyButton:hover .text,.fancyButton1329.fancyButton:focus .text,.fancyButton1329.fancyButton:active .text,.fancyButton1329.fancyButton.hover .text{
+	text-decoration: none;
 	background-repeat: no-repeat;
 	background-position: center 10em ;
 
@@ -1917,65 +1917,6 @@ opacity: 1;
 	    --><div class="widgetItem GraphicLinks">
 
 <div>
-	<a href="/2493/Slash-Collection" target="_self" class="fancyButton fancyButton1370 " >
-		<span>
-			<span><span class="text">Slash Collection</span></span>
-		</span>
-	</a>
-</div>
-		<style scoped="scoped">.fancyButton1370.fancyButton:link,.fancyButton1370.fancyButton:visited, .fancyButton1370div.fancyButton{
-	background-image: url(/ImageRepository/Document?documentID=13407);
-	background-repeat: no-repeat;
-	background-position: center 1em ;
-Float:none;
-margin: 0 auto;
-opacity: 1;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;}
-.fancyButton1370.fancyButton:hover,.fancyButton1370.fancyButton:focus,.fancyButton1370.fancyButton:active,.fancyButton1370.fancyButton.hover{
-	background-image: url(/ImageRepository/Document?documentID=13408);
-	background-repeat: no-repeat;
-	background-position: center top;
-opacity: 1;
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;}
-.fancyButton1370.fancyButton:link > span,.fancyButton1370.fancyButton:visited > span, .fancyButton1370div.fancyButton > span{
-}
-.fancyButton1370.fancyButton:hover > span,.fancyButton1370.fancyButton:focus > span,.fancyButton1370.fancyButton:active > span,.fancyButton1370.fancyButton.hover > span{
-}
-.fancyButton1370.fancyButton .text{
-	color: #fff;
-	font-size: .9em;
-	font-family: "Montserrat";
-	text-align: center;
-	padding-top: 11em;
-	font-weight: 500;
-	text-decoration: none;
-	padding-top: 11em;
-	background-image: url(/ImageRepository/Document?documentID=77);
-	background-repeat: no-repeat;
-	background-position: center 10em ;
-
-
-}
-.fancyButton1370.fancyButton:hover .text,.fancyButton1370.fancyButton:focus .text,.fancyButton1370.fancyButton:active .text,.fancyButton1370.fancyButton.hover .text{
-	text-decoration: underline;
-	background-repeat: no-repeat;
-	background-position: center 10em ;
-
-
-}
-</style>
-
- </div><!--
---></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
-	    --><div class="widgetItem GraphicLinks">
-
-<div>
 	<a href="/2838/Snow-Removal" target="_self" class="fancyButton fancyButton1315 " >
 		<span>
 			<span><span class="text">Snow Removal</span></span>
@@ -2022,6 +1963,65 @@ opacity: 1;
 
 }
 .fancyButton1315.fancyButton:hover .text,.fancyButton1315.fancyButton:focus .text,.fancyButton1315.fancyButton:active .text,.fancyButton1315.fancyButton.hover .text{
+	text-decoration: underline;
+	background-repeat: no-repeat;
+	background-position: center 10em ;
+
+
+}
+</style>
+
+ </div><!--
+--></div></div><!----><div class="col col1  last"><div class="semanticList"><!--
+	    --><div class="widgetItem GraphicLinks">
+
+<div>
+	<a href="/2648/Health" target="_self" class="fancyButton fancyButton1528 " >
+		<span>
+			<span><span class="text">Medical Assistance</span></span>
+		</span>
+	</a>
+</div>
+		<style scoped="scoped">.fancyButton1528.fancyButton:link,.fancyButton1528.fancyButton:visited, .fancyButton1528div.fancyButton{
+	background-image: url(/ImageRepository/Document?documentID=15478);
+	background-repeat: no-repeat;
+	background-position: center 1em ;
+Float:none;
+margin: 0 auto;
+opacity: 1;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;}
+.fancyButton1528.fancyButton:hover,.fancyButton1528.fancyButton:focus,.fancyButton1528.fancyButton:active,.fancyButton1528.fancyButton.hover{
+	background-image: url(/ImageRepository/Document?documentID=15479);
+	background-repeat: no-repeat;
+	background-position: center top;
+opacity: 1;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;}
+.fancyButton1528.fancyButton:link > span,.fancyButton1528.fancyButton:visited > span, .fancyButton1528div.fancyButton > span{
+}
+.fancyButton1528.fancyButton:hover > span,.fancyButton1528.fancyButton:focus > span,.fancyButton1528.fancyButton:active > span,.fancyButton1528.fancyButton.hover > span{
+}
+.fancyButton1528.fancyButton .text{
+	color: #fff;
+	font-size: .9em;
+	font-family: "Montserrat";
+	text-align: center;
+	padding-top: 11em;
+	font-weight: 500;
+	text-decoration: none;
+	padding-top: 11em;
+	background-image: url(/ImageRepository/Document?documentID=77);
+	background-repeat: no-repeat;
+	background-position: center 10em ;
+
+
+}
+.fancyButton1528.fancyButton:hover .text,.fancyButton1528.fancyButton:focus .text,.fancyButton1528.fancyButton:active .text,.fancyButton1528.fancyButton.hover .text{
 	text-decoration: underline;
 	background-repeat: no-repeat;
 	background-position: center 10em ;
@@ -2283,7 +2283,19 @@ margin-top:-5px;
 	<div class="cpWindow cpWindow467efcd6-8576-46fe-a4e7-1b1f2bc4e127">
 		<ol class="semanticList cpSlider">
 						<li class="widgetItem" data-index="0">
-								<a href="/CivicAlerts.aspx?AID=1403"><img class="media" src="/ImageRepository/Document?documentID=24016" alt="JCPH Announces New COVID-19 Mitigation Strategies" data-delayed-image="" /></a>
+								<a href="/CivicAlerts.aspx?AID=1405"><img class="media" src="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
+						<div class="text">
+								<h4 id="newsFlashItemHeader1405" class="widgetTitle">
+		<a href="/CivicAlerts.aspx?AID=1405">Notice: First Amended Public Health Order 20-009 </a>
+	</h4>
+	<div class="widgetDesc">
+In response to questions from the public and partners, we have added a number of clarifications to the First Amended JCPH PHO 20-009. This amended version is now in effect.						<a id="newsFlashReadOn1405" href="/CivicAlerts.aspx?AID=1405" class="readOn" aria-labelledby="newsFlashItemHeader1405 newsFlashReadOn1405">Read more.</a>
+	</div>
+
+						</div>
+						</li>
+						<li class="widgetItem" data-index="1">
+								<a href="/CivicAlerts.aspx?AID=1403"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=24016" alt="JCPH Announces New COVID-19 Mitigation Strategies" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1403" class="widgetTitle">
 		<a href="/CivicAlerts.aspx?AID=1403">JCPH Announces New COVID-19 Mitigation Strategies to Help Protect Community </a>
@@ -2294,7 +2306,7 @@ Jefferson County relinquishes its local variance and implements a new public hea
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="1">
+						<li class="widgetItem" data-index="2">
 								<a href="/CivicAlerts.aspx?AID=1394"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23877" alt="Water and Development" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1394" class="widgetTitle">
@@ -2306,7 +2318,7 @@ The link between water and land use in Jeffco has long been evaluated, but polic
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="2">
+						<li class="widgetItem" data-index="3">
 								<a href="/CivicAlerts.aspx?AID=335"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=11995" alt="Engage-Jeffco-News-general" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader335" class="widgetTitle">
@@ -2318,7 +2330,7 @@ Engage Jeffco includes important updates from the county, community events, clas
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="3">
+						<li class="widgetItem" data-index="4">
 								<a href="/CivicAlerts.aspx?AID=1375"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23545" alt="sustainability award photo with plants" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1375" class="widgetTitle">
@@ -2330,7 +2342,7 @@ On Sept. 15, the Jefferson County Commissioners and the Sustainability Commissio
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="4">
+						<li class="widgetItem" data-index="5">
 								<a href="/CivicAlerts.aspx?AID=1374"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=14936" alt="County News" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1374" class="widgetTitle">
@@ -2342,7 +2354,7 @@ On Sept. 15, the Jefferson County Board of County Commissions adopted by majorit
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="5">
+						<li class="widgetItem" data-index="6">
 								<a href="/CivicAlerts.aspx?AID=1369"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23480" alt="old book with historic preservation symposium" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1369" class="widgetTitle">
@@ -2354,7 +2366,7 @@ The 17th Annual Historical Preservation Symposium, hosted by the Jefferson Count
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="6">
+						<li class="widgetItem" data-index="7">
 								<a href="/CivicAlerts.aspx?AID=1359"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23432" alt="Commissioners Open for Business Thumbnail" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1359" class="widgetTitle">
@@ -2366,7 +2378,7 @@ Jefferson County Commissioners Libby Szabo, Casey Tighe and Lesley Dahlkemper vi
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="7">
+						<li class="widgetItem" data-index="8">
 								<a href="/CivicAlerts.aspx?AID=1354"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23332" alt="Facilities-Sustainability-ConservationKit" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1354" class="widgetTitle">
@@ -2378,7 +2390,7 @@ The free LED lighting kits will help residents save energy and money at home. Th
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="8">
+						<li class="widgetItem" data-index="9">
 								<a href="/CivicAlerts.aspx?AID=1345"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23288" alt="RMMA-Sheltair" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1345" class="widgetTitle">
@@ -2390,7 +2402,7 @@ Sheltair is proud to announce the opening of its new state-of-the-art FBO and ha
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="9">
+						<li class="widgetItem" data-index="10">
 								<a href="/CivicAlerts.aspx?AID=1338"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=23252" alt="CDOT-CO74-Rockfall-Mitigation" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1338" class="widgetTitle">
@@ -2402,7 +2414,7 @@ The Colorado Department of Transportation began a rockfall mitigation project fo
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="10">
+						<li class="widgetItem" data-index="11">
 								<a href="/CivicAlerts.aspx?AID=1298"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1298" class="widgetTitle">
@@ -2414,7 +2426,7 @@ Jeffco has seen an increase in COVID-19 cases and has surpassed its two-week cas
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="11">
+						<li class="widgetItem" data-index="12">
 								<a href="/CivicAlerts.aspx?AID=1296"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1296" class="widgetTitle">
@@ -2426,7 +2438,7 @@ JCPH today issued a new Public Health Order 20-008 that requires everyone in Jef
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="12">
+						<li class="widgetItem" data-index="13">
 								<a href="/CivicAlerts.aspx?AID=1288"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1288" class="widgetTitle">
@@ -2438,7 +2450,7 @@ JCPH today issued Public Health Order 20-007, which requires venues hosting larg
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="13">
+						<li class="widgetItem" data-index="14">
 								<a href="/CivicAlerts.aspx?AID=1285"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1285" class="widgetTitle">
@@ -2450,7 +2462,7 @@ JCPH will rescind its Public Health Order 20-005. All individuals and businesses
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="14">
+						<li class="widgetItem" data-index="15">
 								<a href="/CivicAlerts.aspx?AID=1262"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22444" alt="logo" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1262" class="widgetTitle">
@@ -2462,7 +2474,7 @@ JCPH has been closely monitoring the situation at Bandimere Speedway, and we are
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="15">
+						<li class="widgetItem" data-index="16">
 								<a href="/CivicAlerts.aspx?AID=1250"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22316" alt="RTD - Get our region moving" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1250" class="widgetTitle">
@@ -2474,7 +2486,7 @@ The Regional Transportation District (RTD) is ready to get the region moving aga
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="16">
+						<li class="widgetItem" data-index="17">
 								<a href="/CivicAlerts.aspx?AID=1245"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=21869" alt="Safer at Home UPDATE" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1245" class="widgetTitle">
@@ -2486,7 +2498,7 @@ As cases of COVID-19 begin to decline in the county, JCPH reminds residents we m
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="17">
+						<li class="widgetItem" data-index="18">
 								<a href="/CivicAlerts.aspx?AID=1233"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=22005" alt="Outdoor-Seating" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1233" class="widgetTitle">
@@ -2498,7 +2510,7 @@ Restaurants and bars located in unincorporated Jefferson County can now apply fo
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="18">
+						<li class="widgetItem" data-index="19">
 								<a href="/CivicAlerts.aspx?AID=1204"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=17482" alt="Flood-Awareness-2019" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1204" class="widgetTitle">
@@ -2510,7 +2522,7 @@ Many people think they are not in danger of flooding if they don't live near a s
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="19">
+						<li class="widgetItem" data-index="20">
 								<a href="/CivicAlerts.aspx?AID=1195"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=21573" alt="Safer-at-Home graphic" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1195" class="widgetTitle">
@@ -2522,7 +2534,7 @@ JCPH will allow the county’s extension of the Stay-at-Home order to expire at 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="20">
+						<li class="widgetItem" data-index="21">
 								<a href="/CivicAlerts.aspx?AID=1179"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20743" alt="Stay-At-Home Order Images" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1179" class="widgetTitle">
@@ -2534,7 +2546,7 @@ JCPH has issued a public health order extending the state’s Stay-at-Home order
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="21">
+						<li class="widgetItem" data-index="22">
 								<a href="/CivicAlerts.aspx?AID=1151"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20783" alt="Jeffco-Hope-Fund-2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1151" class="widgetTitle">
@@ -2546,7 +2558,7 @@ Community First Foundation created the Jeffco Hope Fund to strengthen and stabil
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="22">
+						<li class="widgetItem" data-index="23">
 								<a href="/CivicAlerts.aspx?AID=1183"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20657" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1183" class="widgetTitle">
@@ -2558,7 +2570,7 @@ Jefferson County Public Health is working with county leadership, business leade
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="23">
+						<li class="widgetItem" data-index="24">
 								<a href="/CivicAlerts.aspx?AID=1148"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20743" alt="Stay-At-Home Order Images" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1148" class="widgetTitle">
@@ -2570,7 +2582,7 @@ Stay-At-Home Public Health Orders were put in place effective March 26 at 8 a.m.
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="24">
+						<li class="widgetItem" data-index="25">
 								<a href="/CivicAlerts.aspx?AID=1145"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20721" alt="BCC-Group-Shot-2020" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1145" class="widgetTitle">
@@ -2582,7 +2594,7 @@ Jeffco has a long tradition of coming together to care for one another in times 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="25">
+						<li class="widgetItem" data-index="26">
 								<a href="/CivicAlerts.aspx?AID=1143"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20705" alt="County-Online-Services" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1143" class="widgetTitle">
@@ -2594,7 +2606,7 @@ With Jefferson County offices closed due to COVID-19, the county compiled a page
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="26">
+						<li class="widgetItem" data-index="27">
 								<a href="/CivicAlerts.aspx?AID=1141"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20691" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1141" class="widgetTitle">
@@ -2606,7 +2618,7 @@ Jefferson County Public Health today issued a public health order to close all d
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="27">
+						<li class="widgetItem" data-index="28">
 								<a href="/CivicAlerts.aspx?AID=1133"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20657" alt="COVID-19 Update" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1133" class="widgetTitle">
@@ -2618,7 +2630,7 @@ As the COVID-19, or Coronavirus, becomes more widespread, the Board of County Co
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="28">
+						<li class="widgetItem" data-index="29">
 								<a href="/CivicAlerts.aspx?AID=1130"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=14936" alt="County News" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1130" class="widgetTitle">
@@ -2630,7 +2642,7 @@ On March 13, Commissioner Dahlkemper signed a Disaster Declaration, allowing the
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="29">
+						<li class="widgetItem" data-index="30">
 								<a href="/CivicAlerts.aspx?AID=1125"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1125" class="widgetTitle">
@@ -2642,7 +2654,7 @@ We have been notified that another Jeffco resident has tested positive for COVID
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="30">
+						<li class="widgetItem" data-index="31">
 								<a href="/CivicAlerts.aspx?AID=1121"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1121" class="widgetTitle">
@@ -2654,7 +2666,7 @@ Two passengers aboard a cruise, who are Jefferson County residents, have tested 
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="31">
+						<li class="widgetItem" data-index="32">
 								<a href="/CivicAlerts.aspx?AID=1119"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1119" class="widgetTitle">
@@ -2666,7 +2678,7 @@ JCPH has been notified that the State Laboratory at the Colorado Department of P
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="32">
+						<li class="widgetItem" data-index="33">
 								<a href="/CivicAlerts.aspx?AID=1113"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20541" alt="coronavirus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1113" class="widgetTitle">
@@ -2678,7 +2690,7 @@ On March 5, the Colorado Department of Public Health and Environment (CDPHE) rep
 
 						</div>
 						</li>
-						<li class="widgetItem" data-index="33">
+						<li class="widgetItem" data-index="34">
 								<a href="/CivicAlerts.aspx?AID=1069"><img class="media" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-delay-load="/ImageRepository/Document?documentID=20030" alt="Tobacco-Free-Campus" data-delayed-image="" /></a>
 						<div class="text">
 								<h4 id="newsFlashItemHeader1069" class="widgetTitle">
@@ -2812,6 +2824,15 @@ Effective February 3, 2020, smoking and the use of tobacco products will not be 
 	<div class="row  wide" style="">
 				<div class="col col1 first last">
 					<ol class="semanticList">
+			<li class="widgetItem" data-news-i-d="1407">
+
+					<h4 id="newsFlashItemHeader1407" class="widgetTitle">
+	<a href="/CivicAlerts.aspx?AID=1407">Full Road Closure of Kendrick St. </a></h4>
+<div class="widgetDesc">
+A full Road Closure of Kendrick St will be closed to traffic from 32nd to 29th, Nov. 9-20, 2020.				<a href="/CivicAlerts.aspx?AID=1407" id="newsFlashReadOn1407" aria-labelledby="newsFlashItemHeader1407 newsFlashReadOn1407" class="readOn">Read on...</a>
+</div>
+
+			</li>
 			<li class="widgetItem" data-news-i-d="1401">
 
 					<h4 id="newsFlashItemHeader1401" class="widgetTitle">
@@ -3043,7 +3064,7 @@ View all of the latest events and details from the county, a place to see the Bo
 
 
 <div data-minicalendar="true" class="miniCalendar media" style="width: 50%; ">
-<h3 class="miniCalendarHeader">October 2020</h3>
+<h3 class="miniCalendarHeader">November 2020</h3>
 	<table>
 		<thead>											
 			<tr>										
@@ -3086,19 +3107,7 @@ Sat
 			</tr>										
 		</thead>										
 		<tbody>											
-<tr><td class="not"><span>
-27
-</span></td>				
-<td class="not"><span>
-28
-</span></td>				
-<td class="not"><span>
-29
-</span></td>				
-<td class="not"><span>
-30
-</span></td>				
-<td>
+<tr><td>
 <span>1</span>
 </td>
 <td>
@@ -3107,30 +3116,29 @@ Sat
 <td>
 <span>3</span>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>4</span>
 </td>
 <td>
 <span>5</span>
 </td>
-<td>
+<td class="today">
 <span>6</span>
 </td>
 <td>
 <span>7</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>8</span>
 </td>
 <td>
 <span>9</span>
 </td>
 <td>
-<span>10</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=10&amp;CID=14'>10</a>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>11</span>
 </td>
 <td>
@@ -3142,21 +3150,21 @@ Sat
 <td>
 <span>14</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>15</span>
 </td>
 <td>
 <span>16</span>
 </td>
 <td>
-<span>17</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=17&amp;CID=14'>17</a>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>18</span>
 </td>
 <td>
-<span>19</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=19&amp;CID=14'>19</a>
 </td>
 <td>
 <span>20</span>
@@ -3164,17 +3172,17 @@ Sat
 <td>
 <span>21</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>22</span>
 </td>
 <td>
 <span>23</span>
 </td>
 <td>
-<span>24</span>
+<a href='/calendar.aspx?view=list&year=2020&amp;month=11&amp;day=24&amp;CID=14'>24</a>
 </td>
-</tr>
-<tr><td>
+<td>
 <span>25</span>
 </td>
 <td>
@@ -3186,15 +3194,28 @@ Sat
 <td>
 <span>28</span>
 </td>
-<td>
+</tr>
+<tr><td>
 <span>29</span>
 </td>
-<td class="today">
+<td>
 <span>30</span>
 </td>
-<td>
-<a href='/calendar.aspx?view=list&year=2020&amp;month=10&amp;day=31&amp;CID=14'>31</a>
-</td>
+<td class="not"><span>
+1
+</span></td>				
+<td class="not"><span>
+2
+</span></td>				
+<td class="not"><span>
+3
+</span></td>				
+<td class="not"><span>
+4
+</span></td>				
+<td class="not"><span>
+5
+</span></td>				
 </tr>
 
 		</tbody>										
@@ -3218,9 +3239,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sat Oct. 31  </h4>
+			<h4 class="widgetTitle">Tue Nov. 10  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5764">Slash Collection: Oct. 31 - Nov. 1 @ Thunder Valley</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5377">Board of County Commissioners&#39; Public Hearing, Staff Briefing, County Manager/BCC Admin Staff</a></strong>
 
 		</div>
 				</li>
@@ -3234,9 +3255,9 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Sun Nov. 1  </h4>
+			<h4 class="widgetTitle">Tue Nov. 17  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5765">Slash Collection: Oct. 31 - Nov. 1 @ Thunder Valley</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5378">Board of County Commissioners&#39; Public Hearing, Staff Briefing, County Manager/BCC Admin Staff</a></strong>
 
 		</div>
 				</li>
@@ -3250,11 +3271,11 @@ Sat
 
 
 <li class="widgetItem " >
-			<h4 class="widgetTitle">Tue Nov. 3  </h4>
+			<h4 class="widgetTitle">Tue Nov. 17  </h4>
 			<div style="" class="widgetDesc">
-					<strong><a href="/Calendar.aspx?EID=5376">CANCELED: Board of County Commissioners&#39; Public Hearing, Staff Briefing, County Manager/BCC Admin Staff</a></strong>
+					<strong><a href="/Calendar.aspx?EID=5938">JCPH Board of Health Meeting </a></strong>
 
-		</div>
+The Jefferson County Board of Health members are a...		</div>
 				</li>
 					</ol>
 				</div>

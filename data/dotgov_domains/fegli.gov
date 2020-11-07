@@ -120,7 +120,7 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 			<div id="OPMLogo">
 				<a href="/"><span>U.S. Office of Personnel Management</span></a>
 			</div>
-				<nav id="MainNavigation">
+				<nav id="ContentPlaceHolderDefault_MainNavigation">
 <?xml version="1.0" encoding="utf-16"?><ul><li class="about-us"><a href="/about-us/"><span>About</span></a><a tabindex="-1" class="toggleNavShow" href="#">
                 Open "About" Submenu
               </a><div class="ddNavWrapper"><table cellpadding="0" cellspacing="0"><tr><td class="ddNavCorner ddNavCornerTL" /><td class="ddNavEdge ddNavEdgeTop" /><td class="ddNavCorner ddNavCornerTR" /></tr><tr><td class="ddNavEdge ddNavEdgeLeft" /><td class="ddNavBody HasFeaturedContent&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"><div class="SecondaryNav_Wrapper" parentnavitem="/about-us/"><ul class="SecondaryNav"><li class=""><a href="/about-us/"><span>Our Agency</span></a></li>
@@ -190,7 +190,8 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 					</li>
 		<li class="insurance current"><a href="/healthcare-insurance/"><span>Insurance</span></a><a tabindex="-1" class="toggleNavShow" href="#">
                 Open "Insurance" Submenu
-              </a><div class="ddNavWrapper"><table cellpadding="0" cellspacing="0"><tr><td class="ddNavCorner ddNavCornerTL" /><td class="ddNavEdge ddNavEdgeTop" /><td class="ddNavCorner ddNavCornerTR" /></tr><tr><td class="ddNavEdge ddNavEdgeLeft" /><td class="ddNavBody HasFeaturedContent&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"><div class="SecondaryNav_Wrapper" parentnavitem="/healthcare-insurance/"><ul class="SecondaryNav FirstColumn"><li class=""><a href="/healthcare-insurance/life-events/"><span>Life Events</span></a></li>
+              </a><div class="ddNavWrapper"><table cellpadding="0" cellspacing="0"><tr><td class="ddNavCorner ddNavCornerTL" /><td class="ddNavEdge ddNavEdgeTop" /><td class="ddNavCorner ddNavCornerTR" /></tr><tr><td class="ddNavEdge ddNavEdgeLeft" /><td class="ddNavBody HasFeaturedContent&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;"><div class="SecondaryNav_Wrapper" parentnavitem="/healthcare-insurance/"><ul class="SecondaryNav FirstColumn"><li class=""><a href="/openseason/"><span>Open Season</span></a></li>
+		<li class=""><a href="/healthcare-insurance/life-events/"><span>Life Events</span></a></li>
 		<li class=""><a href="/healthcare-insurance/changes-in-health-coverage/"><span>Changes in Health Coverage</span></a></li>
 		<li class=""><a href="/healthcare-insurance/healthcare/"><span>Healthcare</span></a></li>
 		<li class=""><a href="/healthcare-insurance/healthcare/plan-information/compare-plans/"><span>FEHB Plan Comparison Tool</span></a></li>
@@ -209,6 +210,7 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 		
 		
 		</ul><ul class="SecondaryNav SecondColumn">
+		
 		
 		
 		
@@ -320,6 +322,21 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 		
 		</ul>
 				</nav>
+							<a href="#MainNavigation_Responsive" style="display: none; visibility: hidden;" class="menu-link">&#9776;</a>
+		  <div id="MainNavigation_Responsive" style="display: none; visibility: hidden;" class="panel" role="navigation">
+			<ul>
+				<li><a href="/about-us/">About</a></li>
+				<li><a href="/policy-data-oversight/">Policy</a></li>
+				<li><a href="/healthcare-insurance/">Insurance</a></li>
+				<li><a href="/retirement-services/">Retirement</a></li>
+				<li><a href="/investigations/">Investigations</a></li>
+				<li><a href="/services-for-agencies/">Agency Services</a></li>
+				<li><a href="/news/">News</a></li>
+			</ul>
+		  </div>
+			<div id="responsiveSearch" style="display: none; visibility: hidden;">
+				<a href="/search/"><img src="/img/global/ico-search.png" alt="Search Button" /></a>
+			</div>
 		</div>
 	</header>
 
@@ -335,7 +352,8 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 				<div id="SideNavigation" class="SideNavContainer">
 <div id="SideNav"><a href="#content" class="skipnav">Skip Navigation</a><h3>In This Section</h3>
   <ul id="SecondaryNavigation">
-    <li class="collapsed first"><a href="/healthcare-insurance/life-events/">Life Events</a><a href="#toggle" class="toggleSecNav">Toggle submenu</a><ul>
+    <li class=" first"><a href="/openseason/">Open Season</a></li>
+				<li class="collapsed"><a href="/healthcare-insurance/life-events/">Life Events</a><a href="#toggle" class="toggleSecNav">Toggle submenu</a><ul>
         <li class=" first"><a href="/healthcare-insurance/life-events/memy-family/">Me/My Family</a></li>
 				<li class=""><a href="/healthcare-insurance/life-events/job/">Job</a></li>
 				<li class=""><a href="/healthcare-insurance/life-events/retirement/">Retirement</a></li>
@@ -469,7 +487,7 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 					<h1 id="PageHeader">Healthcare & Insurance <span>Life Insurance</span></h1>
 
 				<form id="csrfForm">
-					<input name="__RequestVerificationToken" type="hidden" value="fzt_tBkBfxhwoM8Z7W9AVYyMWP-T8g5hgDEDI26qjcv7edUJLlT3hc9fefehTvyt10KJAUoIhYeOQS_2HBcQ85aUgnM1" />
+					<input name="__RequestVerificationToken" type="hidden" value="uTlcg3miWtOgA8hEN2Cj4oaQiajrIpZvb7Dx7TFeCpB3Dv5gheAn-3GS96d543IVByxp6Cdx7OBYcUsnAzJhwePwAbM1" />
 				</form>
 				<form id="frmMain">
 					
@@ -595,7 +613,8 @@ if( !window.jQuery ) {document.write('<script type="text\/javascript" src="\/js\
 		<li class=""><a href="/policy-data-oversight/contact-policymakers/">Contact Policymakers</a></li>
 		</ul>
 					</li>
-		<li class="insurance"><a href="/healthcare-insurance/">Insurance</a><ul><li class=""><a href="/healthcare-insurance/life-events/">Life Events</a></li>
+		<li class="insurance"><a href="/healthcare-insurance/">Insurance</a><ul><li class=""><a href="/openseason/">Open Season</a></li>
+		<li class=""><a href="/healthcare-insurance/life-events/">Life Events</a></li>
 		<li class=""><a href="/healthcare-insurance/changes-in-health-coverage/">Changes in Health Coverage</a></li>
 		<li class=""><a href="/healthcare-insurance/healthcare/">Healthcare</a></li>
 		<li class=""><a href="/healthcare-insurance/healthcare/plan-information/compare-plans/">FEHB Plan Comparison Tool</a></li>

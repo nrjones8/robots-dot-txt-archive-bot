@@ -2293,6 +2293,10 @@
               Weekly News Summary, October 25-31            </a>
                       <a href="https://millelacsband.com/news/november-2020-message-from-the-chief-executive" >
               November 2020 Message from the Chief Executive            </a>
+                      <a href="https://millelacsband.com/news/reduced-building-access-due-to-positive-covid-19-tests" >
+              Reduced building access due to positive COVID-19 tests            </a>
+                      <a href="https://millelacsband.com/news/weekly-news-summary-november-1-7" >
+              Weekly News Summary, November 1-7            </a>
                   </div>
       </nav>
       
@@ -2368,8 +2372,8 @@
       
             <div class="news-holder">
         <h3>Latest News</h3>
-        <a href="https://millelacsband.com/news/november-2020-message-from-the-chief-executive" class="news-title">
-          November 2020 Message from the Chief Executive        </a>
+        <a href="https://millelacsband.com/news/reduced-building-access-due-to-positive-covid-19-tests" class="news-title">
+          Reduced building access due to positive COVID-19 tests        </a>
         <div class="button-holder">
           <a href="https://millelacsband.com/news" class="button">All News</a>
         </div>

@@ -38,7 +38,7 @@
 
 
 	
-		<link rel='shortcut icon' type='image/x-icon' href='/lwdcms/image-view.php?module=core_settings&module_id=1&image_name=favicon_website&option=ico&width=32&height=32&r=0&g=0&b=0&quality=100&use_original=0&ts=1604121615'>
+		<link rel='shortcut icon' type='image/x-icon' href='/lwdcms/image-view.php?module=core_settings&module_id=1&image_name=favicon_website&option=ico&width=32&height=32&r=0&g=0&b=0&quality=100&use_original=0&ts=1604727615'>
 	</head>
 <body>
 

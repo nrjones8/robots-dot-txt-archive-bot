@@ -1,4 +1,70 @@
-# https://foiaonline.regulations.gov/foia robots.txt file
-User-agent: *
-Disallow: /foia/action/getContent
-Disallow: /foia/dwr
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="FOIAonline planned maintenance notification.">
+    <meta name="author" content="Jeff Edwards">
+    <title>FOIAonline :: Maintenance</title>
+
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" 
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" 
+          integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+    crossorigin="anonymous">
+
+   
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+    
+    <!-- Custom styles for this template -->
+    <!-- <link href="jumbotron.css" rel="stylesheet"> -->
+  
+  </head>
+  <body>
+    <!-- <nav class="navbar navbar-expand-md fixed-top" style="background-color:#323A45">-->
+    <nav class="navbar navbar-expand-md fixed-top" style="background-color:#112e51">
+      <img src="data:image/png;base64,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" />
+           
+    </nav>
+
+<main role="main">
+
+  <!-- Main jumbotron for a primary marketing message or call to action -->
+  <div class="jumbotron">
+    <div class="container">
+      <h1 class="display-3">FOIAonline Planned Maintenance</h1>
+      <p>Thank you for visiting FOIAonline.
+      <br><br>
+      We are currently conducting planned system maintenance that began at 17:00 on Friday, 11/06/2020 and should be complete by 18:00 on Sunday, 11/08/2020.
+      <br><br>
+      We appreciate your patience as we work to keep the site operating at peak performance.
+      </p>
+    </div>
+  </div>
+
+
+</main>
+
+<footer class="container">
+  <p>FOIAonline Help Desk:  (844) 238-7744</p>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+  </body>
+</html>

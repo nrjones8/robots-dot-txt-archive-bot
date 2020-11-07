@@ -40,44 +40,44 @@
   <title>NC Department of Labor</title>
   <meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1, user-scalable=no">
   <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/modules/system/system.base.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/system/system.menus.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/system/system.theme.css?qhtuq5");
+@import url("//www.labor.nc.gov/modules/system/system.base.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/system/system.menus.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/system/system.theme.css?qjdesc");
 </style>
 <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qhtuq5");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?qjdesc");
 </style>
 <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/comment/comment.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/field/theme/field.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/node/node.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qhtuq5");
-@import url("//www.labor.nc.gov/modules/user/user.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/views/css/views.css?qhtuq5");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/ldap/ldap_user/ldap_user.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/comment/comment.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/date/date_api/date.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/field/theme/field.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/node/node.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?qjdesc");
+@import url("//www.labor.nc.gov/modules/user/user.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/video_filter/video_filter.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/extlink/extlink.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/views/css/views.css?qjdesc");
 </style>
 <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qhtuq5");
-@import url("//www.labor.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qhtuq5");
-@import url("//www.labor.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qhtuq5");
+@import url("//www.labor.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/ctools/css/ctools.css?qjdesc");
+@import url("//www.labor.nc.gov/sites/all/modules/contrib/ldap/ldap_servers/ldap_servers.admin.css?qjdesc");
+@import url("//www.labor.nc.gov/profiles/openpublic/modules/contrib/panels/css/panels.css?qjdesc");
 </style>
 <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qhtuq5");
+@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/contextual-links.css?qjdesc");
 </style>
 <style type="text/css" media="print">
-@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qhtuq5");
+@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/print.css?qjdesc");
 </style>
 <style type="text/css" media="all">
-@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/style-ncdcr.css?qhtuq5");
+@import url("//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/css/style-ncdcr.css?qjdesc");
 </style>
   <!--[if IE 8]><script src="profiles/nc_site/themes/nc_site_child_theme/js/libs/EventListener.js"></script><![endif]-->
   <!--[if IE 8]><script src="profiles/nc_site/themes/nc_site_child_theme/js/libs/selectivizr-min.js"></script><![endif]-->
@@ -91,10 +91,10 @@ jQuery.migrateMute = true; jQuery.migrateTrace = false;
 <script type="text/javascript" src="//www.labor.nc.gov/misc/jquery-extend-3.4.0.js?v=1.9.1"></script>
 <script type="text/javascript" src="//www.labor.nc.gov/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.9.1"></script>
 <script type="text/javascript" src="//www.labor.nc.gov/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/misc/drupal.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/misc/drupal.js?qjdesc"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_site_child_theme","theme_token":"vApxJcB7THfahb8-OQOjc4M6HlSveSYQMEdEWyOJyPY","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"profiles\/north_carolina\/modules\/features\/nc_carousel\/nc_carousel.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.min.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-ncdcr.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true},"field_group":{"div":"full"},"collapseAccordions":null,"clientsideValidation":{"forms":{"nc-search-block-form":{"errorPlacement":"4","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"nc_search_block_form":{"maxlength":128,"messages":{"maxlength":"Search field has to have maximum 128 values."}}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"nc-search-block-form":{}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nc_site_child_theme","theme_token":"8Df-2hq4-snYOJyak-STrnPQIKQFXttIGEtKNtqg80o","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/owl.carousel.js":1,"profiles\/north_carolina\/modules\/features\/nc_carousel\/nc_carousel.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.9\/jquery.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery-migrate\/1.2.1\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"profiles\/north_carolina\/modules\/custom\/nc_extlink\/nc_extlink.js":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"profiles\/openpublic\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/jcaption\/jcaption.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.min.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/match.media.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/enquire.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.autosize.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.easing.1.3.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.fitvids.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.magnific-popup.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/jquery.maskedinput.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/modernizr.custom.min.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/libs\/respond.src.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/scrollmagic.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.overflow.menu.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.matchHeight.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/script.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.anchor.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/vendors\/jquery.ui.tabs.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.accordion.js":1,"profiles\/north_carolina\/themes\/nc_base_theme\/js\/modules\/abt.ajaxErrorScroll.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/comment_notify\/comment_notify.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/video_filter\/video_filter.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/openpublic\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/contextual-links.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/print.css":1,"profiles\/north_carolina\/themes\/nc_base_theme\/css\/style-ncdcr.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"jcaption":{"jcaption_selectors":["img.caption"],"jcaption_alt_title":"title","jcaption_requireText":1,"jcaption_copyStyle":0,"jcaption_removeStyle":0,"jcaption_removeClass":1,"jcaption_removeAlign":1,"jcaption_copyAlignmentToClass":1,"jcaption_copyFloatToClass":1,"jcaption_copyClassToClass":1,"jcaption_autoWidth":1,"jcaption_keepLink":0,"jcaption_styleMarkup":"","jcaption_animate":0,"jcaption_showDuration":"200","jcaption_hideDuration":"200"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"nav, .social-links","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1},"urlIsAjaxTrusted":{"\/":true},"field_group":{"div":"full"},"collapseAccordions":null,"clientsideValidation":{"forms":{"nc-search-block-form":{"errorPlacement":"4","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"nc_search_block_form":{"maxlength":128,"messages":{"maxlength":"Search field has to have maximum 128 values."}}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"nc-search-block-form":{}}}});
 //--><!]]>
 </script>
 <script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
@@ -102,50 +102,50 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2"></script>
 <script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/modules/custom/nc_extlink/nc_extlink.js?qjdesc"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 document.createElement( "picture" );
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/comment_notify/comment_notify.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/extlink/extlink.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/openpublic/libraries/colorbox/jquery.colorbox-min.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/js/colorbox.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/styles/default/colorbox_style.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/colorbox/js/colorbox_load.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/jcaption/jcaption.js?qjdesc"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/google_analytics/googleanalytics.js?qjdesc"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-109631488-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
 //--><!]]>
 </script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/jquery-validate/jquery.validate.min.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/jquery-validate/jquery.validate.min.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/field_group/field_group.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/match.media.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/enquire.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.autosize.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.easing.1.3.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.fitvids.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.magnific-popup.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/jquery.maskedinput.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/modernizr.custom.min.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/libs/respond.src.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/scrollmagic.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.overflow.menu.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.matchHeight.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/script.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.anchor.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.accordion.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/jquery.ui.tabs.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.accordion.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/modules/abt.ajaxErrorScroll.js?qjdesc"></script>
 </head>
 <body class="html front not-logged-in no-sidebars page-node page-node- page-node-1 node-type-landing-page i18n-en footer-columns enterprise-core-white" >
 <!--[if lt IE 9]>
@@ -167,7 +167,7 @@ window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
                               <form action="/" method="post" id="nc-search-block-form" accept-charset="UTF-8"><label for="nc_search_block_form" class="visuallyhidden">Search NC.gov</label>
 <input type="search" placeholder="Search..." name="nc_search_block_form" id="nc_search_block_form" />
 <input type="submit" value="Submit" /><span class="icon-search" aria-hidden="true"></span>
-<input type="hidden" name="form_build_id" value="form-ckIupAZyGvOQOdkgFIALmVOyDX1vnNOYebG8cuIHzP8" />
+<input type="hidden" name="form_build_id" value="form-nZSpBebdo4k83g778_W19izEOk78NrVcVdAISuAG1aE" />
 <input type="hidden" name="form_id" value="nc_search_block_form" />
 </form>                          </div>
           </div>
@@ -680,13 +680,13 @@ window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'
   </div></div> <!-- /#page, /#page-wrapper -->
 <script type="text/javascript" async="async" src="//www.labor.nc.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
 <script type="text/javascript" async="async" src="//www.labor.nc.gov/sites/all/modules/contrib/picture/picture.min.js?v=7.72"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qhtuq5"></script>
-<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/modules/features/nc_carousel/nc_carousel.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/themes/nc_base_theme/js/vendors/owl.carousel.js?qjdesc"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/profiles/north_carolina/modules/features/nc_carousel/nc_carousel.js?qjdesc"></script>
 
 <!--[if lt IE 9]>
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/clientside_validation.ie8.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/clientside_validation.ie8.js?qjdesc"></script>
 <![endif]-->
-<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/clientside_validation.js?qhtuq5"></script>
+<script type="text/javascript" src="//www.labor.nc.gov/sites/all/modules/contrib/clientside_validation/clientside_validation.js?qjdesc"></script>
 <!--[if lte IE 9]><script src="profiles/nc_site/themes/nc_site_child_theme/js/libs/flexie.min.js"></script><![endif]-->
 </body>
 </html>

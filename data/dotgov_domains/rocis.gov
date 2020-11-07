@@ -41,26 +41,69 @@
 	            <h1>Help Desk:1-866-450-5250</h1>
 	        </div>
 			<div class="content_area_login_main">
-				            <div class="landing_content_area">
+				
+<script type="text/javascript">
+
+$(document).ready(function() {
+	if (parent!=self) { // must be inside an iFrame 
+		parent.window.location.href='index.do';
+		return;
+	}
+	if (document.getElementById("RocisLogoutTag")) {	// if the logout tag presents, this page is invoked from a jQuery dialog
+		window.location.href='index.do';
+		return;
+	}
+		
+});
+</script>
+<style>
+    .alert-danger {
+        color: #721c24;
+        background-color: #f8d7da;
+
+    }
+    .alert {
+        position: relative;
+        padding: 1.5rem 1.75rem;
+        border: 1px solid #f5c6cb;
+        border-radius: .25rem;
+        margin: 0 0 25px 77px;
+    }
+
+    div#sessionTimeOut {
+        display: block;
+        width: 80%;
+    }
+    
+    :focus {
+    outline: -webkit-focus-ring-color auto 1px;
+    outline-color: -webkit-focus-ring-color;
+    outline-style: auto;
+    outline-width: 1px;
+	}
+</style>
+
+            <div class="landing_content_area">
+            	
             <div class="landing_content_header_area">
                 <h1>Welcome to ROCIS</h1>
             </div>
             <div class="warning_content">
             	<h1>***************************WARNING*********************************</h1>
-                <p>This is a U.S.General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY."  This system is subject to monitoring.  Therefore, no expectation of privacy is to be assumed.  Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution.</p>
+                <p>This is a U.S.General Services Administration Federal Government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring.  Therefore, no expectation of privacy is to be assumed.  Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution.</p>
+                <div style="margin-left:50px;font-size:14px;color: #153870;background-color: #FFFF00;text-shadow: 2px 2px 3px rgba(255,255,255,0.1);">
+                <i>
+                ROCIS will not work properly in Compatibility View for Internet Explorer 11+ users. If you're experiencing issues with ROCIS, view the <a href="/rocis/jsp3/common/turn_off_compatiblity_view_clear_cache_IE11-1.docx" style="color:#AD0000;">Turning Off Compatibility View Mode in Internet Explorer 11</a> 
+                document for instructions on how to turn off Compatibility View and clear your internet browser cache in Internet Explorer 11. You may have to contact your IT support to access these settings.
+                </i>
+                </div><br>
                 <form action="#">
                 	<fieldset>
 						<legend>
 							<label class="hidden_label" for="clety3">&nbsp;</label>
+							<br><a id="continue" class="warning_bt" title="I have read the message and proceed to login page" href="login.do">I have read the message and proceed to login page</a>
 						</legend>
 					</fieldset>
-		<p align="center">
-                    <H1>The ROCIS application is currently undergoing system maintenance.</H1>
-                	<br/>
-                    <H1>We apologize for any inconvenience this may cause.</H1>
-                	<br/>
-                    <H1>Please try again later.</H1>
-                </p>
                 </form>
             </div>
             </div>

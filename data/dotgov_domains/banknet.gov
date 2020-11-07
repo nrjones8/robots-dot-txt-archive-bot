@@ -1,344 +1,288 @@
-<!DOCTYPE html>
+
+<!-- SiteMinder Encoding=UTF-8; -->
 <html lang="en">
 <head>
-<meta name="perc_linkback" id="perc_linkback" content="FmxkbXgHYGRgeAFiY2J4BmZlY3gTYmRl"/>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Outage Message - Comptroller of the Currency (OCC)</title>
-<title>Untitled Document</title>
-<style type="text/css">
-	@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900");
-	@import url("https://fonts.googleapis.com/css?family=Merriweather:300,400,700,900");
-	body {
-		margin:0;
-		padding:0;
+<title>BankNet Login</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<div id="htmlconverter" style="display:none;"></div>
+
+<script type="text/javascript" src="js/ArcotAdapterIntegration.js"></script>
+<link href="css/arcot-enrollment.css" rel="stylesheet" type="text/css" />
+
+<script language="javascript" type="text/javascript">
+
+function html_entity_decode(str)
+
+{
+	try
+	{
+		var tarea=document.createElement('textarea');
+		tarea.innerHTML = str; return tarea.value;
+		tarea.parentNode.removeChild(tarea);
+
 	}
-	.hide {
-		display:none;
-		/*height:1px;
-		left: -9999px;
-		position: absolute;
-		top: -9999px;
-		width:1px;*/
+
+	catch(e)
+
+	{
+		//for IE add <div id="htmlconverter" style="display:none;"></div> to the page
+		document.getElementById("htmlconverter").innerHTML = '<textarea id="innerConverter">' + str + '</textarea>';
+		var content = document.getElementById("innerConverter").value;
+		document.getElementById("htmlconverter").innerHTML = "";
+
+		return content;
+
 	}
-	a, a:link, a:active {
-		color: #205493;
-		font: 400 17px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		text-decoration: none;
-        line-height: 22px;
-	}
-	a:visited {
-		color: #4c2c92;
-		text-decoration: none;
-	}
-	a:hover {
-		color: #112e51;
-		text-decoration: underline;
-	}
-	a:focus {
-		color: #112e51;
-		text-decoration: none;
-			outline: 1px dotted #0071bc;
-	}
-	#topbar-wrpr {
-		background:#205493;
-		height:40px;
-		width:100%;
-	}
-	.topbar-container,
-	.logo-container,
-	.footer-websites-container,
-	.footer-links-container {
-		margin:0 auto;
-		padding:0;
-		width:1024px;
-	}
-	.topbar-container p {
-		color:#FFF;
-		font:400 20px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		float:right;
-		margin:0;
-		padding-top:7px;
-	}
-	#logo-wrpr {
-		background:#FFF;
-		border-bottom:1px solid #999;
-		box-shadow:0 3px 6px 0 #999;
-		color: #205493;
-		-webkit-box-shadow:0 3px 6px 0 #999;
-		height:100px;
-		width:100%;
-	}
-	.occ-logo {
-		/*background-image: url(images/occ-logo-des.svg);*/
-		background-repeat: no-repeat;
-		display: block;
-		float:left;
-		font:600 26px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		height: 60px;
-		padding: 0;
-		margin: 15px 0 0 0;
-		/*text-indent: -9999px;*/
-		width: 330px;
-	}
-	.occ-logo a, .occ-logo a:link, .occ-logo a:active {
-		color: #205493;
-		font: 600 30px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		text-decoration: none;
-        line-height: 22px;
-	}
-	.occ-logoa:visited {
-		color: #4c2c92;
-		text-decoration: none;
-	}
-	.occ-logoa:hover {
-		color: #112e51;
-		text-decoration: underline;
-	}
-	.occ-logoa:focus {
-		color: #112e51;
-		text-decoration: none;
-			outline: 1px dotted #0071bc;
-	}
-	.tagline {
-		color:#222;
-		font:600 26px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		float:right;
-		margin:28px 0 0 0;
-	}
-	#content-wrpr {
-		background:#FFF;
-		height:auto;
-		width:100%;
-	}
-	.content-container {
-		margin:0 auto;
-		margin-top:50px;
-		min-height:180px;
-		padding:0;
-		width:1024px;
-	}
-	.content-container p {
-		color:#222;
-		font:400 24px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		line-height:28px;
-		margin:0 0 40px 0;
-		padding:0;
-	}
-	.content-container .tagline2 {
-		color:#222;
-		font:600 26px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		margin:50px 0 40px 0;
-	}
-	#footer-websites-wrpr {
-		background:#205493;
-		height:160px;
-		width:100%;
-	}
-	.footer-websites-container h4 {
-		color:#FFF;
-		font: 400 22px 'Merriweather', Georgia, Palatino, serif;
-		margin:0;
-		padding:20px 0 0 0;
-	}
-	.footer-websites-container ul {
-		margin-top: 15px;
-		padding: 0;
-		width: 100%;
-	}
-	.footer-websites-container li {
-		display: inline-block;
-		list-style: none;
-		margin: 0 20px 0 0;
-		padding: 0;
-		width: 230px;
-		vertical-align: top;
-	}
-	.footer-websites-container li span.footer-logo {
-		float:left;
-		margin:0 12px 0 0;
-		padding-bottom:30px;
-		width:40px;
-	}
-	.footer-websites-container li span.footer-logo-website {
-		display:block;
-		margin:0;
-		padding:0;
-	}
-	.footer-websites-container li span.footer-logo-website a,
-	.footer-websites-container li span.footer-logo-website a:link {
-		color:#FFF;
-		font: 600 18px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		text-decoration: none;
-	}
-	.footer-websites-container li span.footer-logo-website a:hover {
-		color:#FFF;
-		text-decoration: underline;
-	}
-	.footer-websites-container li span.footer-logo-text {
-		color:#FFF;
-		display:block;
-		font: 400 17px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		margin:0 0 20px 0;
-		padding:0;
-	}
-	.footer-websites-container li span.footer-logo-text a,
-	.footer-websites-container li span.footer-logo-text a:link {
-		color:#FFF;
-		font: 400 17px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-	}
-	.footer-websites-container li span.footer-logo-text a:hover {
-		color:#FFF;
-		text-decoration: underline;
-	}
-	#footer-links-wrpr {
-		background:#FFF;
-		height:200px;
-		width:100%;
-	}
-	.footer-links ul {
-		float: left;
-		margin-top: 20px;
-		padding: 0;
-		width: auto;
-	}
-	.footer-links li {
-		color: #222;
-		display: inline-block;
-		font: 400 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		list-style: none;
-		margin: 3px 10px 0 0;
-		padding-right: 12px;
-	}
-	.footer-socialmedia ul {
-		float: right;
-		margin-top: 15px;
-		padding: 0;
-		width: auto;
-	}
-	.footer-socialmedia li {
-		display: inline-block;
-		list-style: none;
-		margin-right: 12px;
-		padding: 0;
-		text-align: right;
-	}
-@media screen and (max-width: 1100px) {
-	.topbar-container,
-	.logo-container,
-	.content-container,
-	.footer-websites-container,
-	.footer-links-container {
-		width:90%;
-	}
-	#footer-websites-wrpr {
-		height: 100%;
-	}
-	.footer-websites-container li {
-		display: inline-block;
-		margin:0;
-		width: 100%;
-	}
-	.footer-links ul,
-	.footer-socialmedia ul {
-		margin-top: 0;
+
+}
+
+function initPage()
+{
+	// When the user is not known to SiteMinder, it redirects back to
+	// this page but with realmoid and type not set. Upon entering user
+	// name again the browser displays an internal error. 
+	//
+	// Check for missing params and redirect to another errror page.
+	if( '' == "" && '06-531abf05-248a-4819-9d72-ba2adc184b12' == "" )
+	{
+		window.location="shimunknownuser.fcc";
+		//document.getElementById("Login").setfocus;
+	} else {
+		//document.Login.elements["USER"].focus();
+		document.forms[0].elements[0].focus();
+		//document.Login.elements[0].focus();
 	}
 }
-@media screen and (max-width: 768px) {
-	.topbar-container p {
-		float:none;
-		text-align: center;
-	}
-	.tagline {
-		display:none;
-	}
-	.tagline2 {
-		display:block;
-	}
-	.content-container {
-		margin-bottom: 50px;
-	}
-	.footer-links ul,
-	.footer-socialmedia ul {
-		display:block;
-		float: none;
-		text-align: center;
-		width:100%;
-	}
-	.footer-links li {
-		margin: 0;
-    	padding: 0 6px;
+
+function submitForm()
+{
+	if (document.Login.elements["USER"].value =="") {
+		alert("Please enter a valid User Name");
+		document.Login.elements["USER"].focus();
+	} else
+	{
+		document.Login.submit();
 	}
 }
-@media screen and (max-width: 480px) {
-	.occ-logo {
-		/*height: 53px;
-		margin: 18px 0 0 0;*/
-		width: 100%;
-	}
-	.occ-logo a, .occ-logo a:link, .occ-logo a:active {
-		color: #205493;
-		font: 600 30px 'Source Sans Pro', Arial, Helvetica, sans-serif;
-		text-decoration: none;
-        line-height: 22px;
+function DisplayMessage()
+{
+	var usrmsg = '';
+	if (usrmsg !== null && usrmsg !== "")
+	{
+		var decodedHTMLStr = "";
+		var j = "";
+		try
+		{
+			decodedHTMLStr = decodeURIComponent(hexDecode(''));
+			j = eval('(' + decodedHTMLStr + ')');
+		}
+		catch(e)
+		{
+			document.write("<b>" + "Error in displaying the original user message. Contact Administrator." + "</b><p>");
+			j = "";
+		}
+		
+		if(j !== "" )
+		{
+			if( j.msg !== "" ){
+				// no need to show error code
+				// one can use switch to display user corresponding error msg
+				// else display a standard message
+				switch(j.code){
+					case 706021001:
+						document.write("<b>" + "Unable to create Token" + "</b><p>");
+						alert("Unable to create Token");
+					break;
+					case 706021002:
+						document.write("<b>" + "Unable to retrieve Token" + "</b><p>");
+						alert("Unable to retrieve Token");
+					break;
+					case 706021003:
+						document.write("<b>" + "Unable to update Token" + "</b><p>");
+						alert("Unable to update Token");
+					break;
+					case 706021004:
+						document.write("<b>" + "Unable to delete Token" + "</b><p>");
+						alert("Unable to delete Token");
+					break;
+					case 706021005:
+						document.write("<b>" + "Configured auth landling url does not match auth url in token. Contact Administrator." + "</b><p>");
+						alert("Configured auth landling url does not match auth url in token. Contact Administrator.");
+					break;
+					case 706021006:
+						document.write("<b>" + "Unrecognized Shim Action. Contact Administrator." + "</b><p>");
+						alert("Unrecognized Shim Action. Contact Administrator.Unrecognized Shim Action. Contact Administrator.");
+					break;
+					case 706021007:
+						document.write("<b>" + "Initialization failed for the section. Contact Administrator." + "</b><p>");
+						alert("Initialization failed for the section. Contact Administrator.");
+					break;
+					case 706021008:
+						document.write("<b>" + "Password service not configured properly. Contact Administrator." + "</b><p>");
+						alert("Password service not configured properly. Contact Administrator.");
+					break;
+					case 706051102:
+						document.write("<b>" + "Password field not present. Please retry." + "</b><p>");
+						alert("Password field not present. Please retry.");
+					break;
+					case 706051103:
+						document.write("<b>" + "Invalid password format. Please retry." + "</b><p>");
+						alert("Invalid password format. Please retry.");
+					break;
+					case 706051104:
+						document.write("<b>" + "Token userID does not match disambiguated userID. Please retry." + "</b><p>");
+						alert("Token userID does not match disambiguated userID. Please retry.");
+					break;
+					case 706051105:
+						document.write("<b>" + "Backing scheme failure. Please retry." + "</b><p>");
+						alert("Backing scheme failure. Please try again.");
+					break;
+					case 706051106:
+						document.write("<b>" + "Risk Engine Post Eval denied transaction" + "</b><p>");
+						alert("Risk Engine Post Eval denied transaction");
+					break;
+					case 706051107:
+						document.write("<b>" + "Password reset failed. Please retry." + "</b><p>");
+						alert("Password reset failed. Please retry.");
+					break;
+					case 706053201:
+						document.write("<b>" + "User is disabled by administrator. Contact administrator." + "</b><p>");
+						alert("User is disabled by administrator. Contact administrator.");
+					break;
+					case 706053202:
+						document.write("<b>" + "Max login attempts exceeded." + "</b><p>");
+						alert("Max login attempts exceeded.");
+					break;
+					case 706053203:
+						document.write("<b>" + "User is inactive." + "</b><p>");
+						alert("User is inactive.");
+					break;
+					case 706053204:
+						document.write("<b>" + "Password expired." + "</b><p>");
+						alert("Password expired.");
+					break;
+					case 706053205:
+						document.write("<b>" + "User is disabled in the directory." + "</b><p>");
+						alert("User is disabled in the directory.");
+					break;
+					case 707034252:
+						document.write("<b>" + "The e-mail format entered is incorrect. Please try again." + "</b><p>");
+						alert("The e-mail format entered is incorrect. Please try again.");
+					break;
+					default :
+						if(j.msg == "ShowStdErrMsg"){
+							document.write("<b>" + "Invalid credential. Please retry.." + "</b><p>");
+							alert("Invalid credential. Please retry..");
+						}
+						else
+						{
+							// these message will be any way localized by the AFM
+							//if (j.msg = "The e-mail format entered is incorrect. Please try again.") {
+							//document.write("<font color=red><b>" + j.msg + "</b><p>");
+							//}else{
+							document.write("<b>" + "<font color=red>" + j.msg + "</b></font><p>");
+							alert(j.msg);
+							//}
+						}
+				}//switch
+			} // if( j.msg !== "" )
+		} // if(j !== "" )
 	}
 }
-@media screen and (max-width: 360px) {
-	#logo-wrpr {
-		height: 130px;
-	}
-}
-</style>
+
+</script>
 </head>
-<body>
-<div id="topbar-wrpr">
-	<div class="topbar-container">
-		<p>Contact OCC: (202) 649-6800</p>
-	</div>	
-</div>
-<div id="logo-wrpr">
-	<div class="logo-container">
-		<div class="occ-logo">Office of the Comptroller of the Currency</div>
-		<div class="tagline">Important Announcement</div>
-	</div>
-</div>
-<div id="content-wrpr">
-	<div class="content-container">
-		<p class="hide tagline2">Important Announcement</p>
-		<p>Our system are currently undergoing maintenance.</p>
-		<p>Please try again later.</p>
-	</div>	
-</div>
-<div id="footer-websites-wrpr">
-	<div class="footer-websites-container">
-		<h4>Our Websites</h4>
-			<ul>
-				<li><!-- <span class="footer-logo"><a href="https://www.banknet.gov/home/" target="_blank" ><img alt="" src="images/footer-banknet.png"></a></span> --><span class="footer-logo-website"><a href="https://www.occ.gov/" target="_blank" >OCC.gov</a></span><span class="footer-logo-text">Visit the official website of the OCC</span></li>
-				<li><!-- <span class="footer-logo"><a href="https://www.banknet.gov/home/" target="_blank" ><img alt="" src="images/footer-banknet.png"></a></span> --><span class="footer-logo-website"><a href="https://www.banknet.gov/home/" target="_blank" >BankNet.gov</a></span><span class="footer-logo-text">Find resources for bankers</span></li>
-				<li><!-- <span class="footer-logo"><a href="https://www.helpwithmybank.gov/index.html" target="_blank" ><img alt="" src="images/footer-helpwithmybank.png"> </a></span> --><span class="footer-logo-website"><a href="https://www.helpwithmybank.gov/index.html" target="_blank" >HelpWithMyBank.gov</a></span><span class="footer-logo-text">Get answers to banking questions</span></li>
-				<li><!-- <span class="footer-logo"> <a href="https://careers.occ.gov/index.html" target="_blank" ><img alt="" src="images/footer-careers.png"></a></span> --><span class="footer-logo-website"> <a href="https://careers.occ.gov/index.html" target="_blank" >Careers.occ.gov</a></span> <span class="footer-logo-text">Join one of the best places to work</span></li>
-			</ul>
-	</div>
-</div>
-<div id="footer-links-wrpr">
-	<div class="footer-links-container">
-		<div class="footer-links">
-			<ul>
-				<li><a href="https://home.treasury.gov/footer/no-fear-act" target="_blank" >No Fear Act</a></li>
-				<li><a href="https://www.usa.gov/" target="_blank" >USA.gov</a></li>
-				<li><a href="https://home.treasury.gov" target="_blank" >U.S. Treasury</a></li>
-			</ul>
-		</div>
-		<div class="footer-socialmedia">
-			<ul>
-				<li><a href="https://www.facebook.com/pages/Washington-DC/US-Comptroller-of-the-Currency/213254918823" target="_blank"><!--<img alt="OCC Facebook Page" src="images/footer-facebook.png">-->Facebook</a></li>
-				<li><a href="https://twitter.com/usocc" target="_blank"><!--<img alt="OCC Twitter Page" src="images/footer-twitter.png">-->Twitter</a></li>
-				<li><a href="https://www.linkedin.com/company/office-of-the-comptroller-of-the-currency" target="_blank"><!-- <img alt="OCC LinkedIn Page" src="images/footer-linkedin.png">-->LinkedIn</a></li>
-				<li><a href="http://www.youtube.com/user/OCCChannel#p/c/2BAA3C3A20C2630E" target="_blank"><!--<img alt="OCC YouTube Page" src="images/footer-youtube.png">-->YouTube</a></li>
-				<!--<li class="last"><a href="/rss/index-rss.html"><img alt="" src="images/footer-rss.png"></a></li>-->
-			</ul>
-		</div>
-	</div>
+
+
+<body onLoad="initPage()">
+<div class="body" >
+<!--onLoad="initPage()" -->
+
+
+<table border="0" align="center" >
+	<tr >
+			<td >
+				<table align="center" border="0" align="center" >
+					<tr>
+						<td >
+						<div class="header">
+							<div align="center" width="770px" height="59px" margin-top="8px" margin-right="8px"><img src="ca-logo.png" alt="BankNet logo  Office of the Comptroller of the Currency -- Ensuring a Safe and Sound Federal Banking System for all Americans"/>
+							</div>
+							<div align="center"><img width="770px" height="6px" margin-top="8px" margin-right="8px" src="blue-line-banknet.png" alt="Blue line" />
+							</div>				
+						</div>
+						
+						</td>
+					</tr>
+				</table>
+			</td>
+	</tr>
+	<tr>
+		<td>
+			<div class="formspace" >
+					<form NAME="Login" id="Login" METHOD="POST" >
+					  <INPUT TYPE=HIDDEN NAME="SMENC" aria-label="SMENC" VALUE="UTF-8"> 
+					  <INPUT type=HIDDEN name="SMLOCALE" aria-label="SMLOCALE" value="US-EN">
+					<table class="AuthTable750" border="0">				
+						<tr><td id="topheading" aria-label="Login" ><h2>Login</h2></td></tr>
+						<tr><td id="retrymsg" ><script>DisplayMessage();</script></td></tr>
+						<tr><td>
+					  <table border="0">
+  						<tr>
+  							<td  ><aria-label name="USER_ID"> <b>User Name:</b></label> </td>  
+  							<td id="USER_ID"  name="userid_label" ><input type="text" name="USER" size="35" tabindex="0"  aria-label="User Name"  value="" ></label>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" id="Submit"  tabindex="0" class="submitbutton" aria-label="continue" name="cont" value="Continue" onClick="submitForm();"></label>	
+							</td>
+		
+  						</tr>
+						  <tr>
+							<td id="userid_label">&nbsp;</td>
+					  		<td id="userid_label" ><a class="deflink"  href="https://iams2.occ.gov/bnportal/collectEmail.jsp">Forgot User&nbsp;Name</a>
+								</td>
+						</tr>
+  
+  					<tr>
+    						<td colspan="2">
+    							<input type=hidden name=target value="http://www.banknet.gov/home/errors/404">
+				                <input type=hidden name=smauthreason value="0">
+				                <input type=hidden name=smagentname value="eIE2F0OPEPpExDHLF9qacpJ/hfLmjd/RV1W1/gx/Rdq8h4JxBu3KH3MQ6tRkc+GaOl6u6wnh+u2VoUHLOkIJhAyXS+hDZ30dIDfvXOz3/2lQl7EPtqhVSbdX1VTCCqNZ">
+				                <input type=hidden name=type value="33554433">
+				                <input type=hidden name=realmoid value="06-531abf05-248a-4819-9d72-ba2adc184b12">
+							</td>
+						</tr>
+		  		  <tr>
+		  		  <td colspan="3"  class="greyLarge" style="text-align: left;" >
+		  		  <!--b>Please Note:</b> You are entering an official U.S. government computer network. In entering this system, you acknowledge your responsibility under applicable laws and policies and agree to maintain the security and privacy of all information contained herein. You agree that you will use this system for authorized purposes only. Your behaviour on the system may be monitored, recorded, and subject to audit. Use of the information system indicates consent to monitoring and recording. Unauthorized, inappropriate, or illegal uses are punishable by criminal prosecution or administrative sanction.<-->
+		  		  <aria-label ><b>Security Notice:</b> You are entering an official U.S. government computer network.  This system may contain non-public OCC information within the meaning of 12 CFR 4.32(b) that is subject to use and disclosure restrictions specified at 12 CFR 4.37. The unauthorized use or disclosure of non-public OCC information or the unauthorized modification of any information stored on this system may result in criminal prosecution or administrative proceedings. In entering this system, you acknowledge your responsibility under applicable laws and policies and agree to maintain the security and privacy of all information contained herein. You agree that you will use this system for authorized purposes only. Your behavior on the system may be monitored, recorded, and subject to audit. Use of the information system indicates consent to monitoring and recording.
+				  </label>
+				  </td>
+		  </tr>
+		  <tr><td>&nbsp;</td></tr>
+						<!--tr>
+							<td colspan="2" align="right" ><div class="button1" ><input  type="button" id="Submit" class="submitbutton"  name="cont" value="Continue" onClick="submitForm();"></div></td>
+						</tr-->
+  					</table>  
+
+					</form>	
+				</td></tr>
+			</table>
+			</div>
+		</td>
+	</tr>
+</table>
+
+<table width="800" border="0" align="center">
+
+<tr align="center">
+<td align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+
+<td align="center">For assistance, contact the BankNet help desk at (800) 641-5925.</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+
+</table>			
+
 </div>
 </body>
 </html>

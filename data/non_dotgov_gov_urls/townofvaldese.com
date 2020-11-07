@@ -1396,20 +1396,20 @@ Page not found
       
       
       <div class="side-panel-post">
-        <a href="/blog/town-hall-announcement/">
+        <a href="/blog/hydrant-flushing-today/">
           
           <div class="side-panel-img">
             <img class="center-block"
-              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/seal.png/seal-325x100.png"
+              src="https://static.townofvaldese.com/public/media/uploads/blog/.thumbnails/raindrop-001.jpg/raindrop-001-325x100.jpg"
               width="100%">
           </div>
           
-          <h3 style="margin-bottom: 20px;">TOWN HALL ANNOUNCEMENT</h3>
+          <h3 style="margin-bottom: 20px;">Hydrant Flushing Today</h3>
         </a>
       </div>
       <div class="side-panel-button">
         <a class="btn btn-primary"
-          href="/blog/town-hall-announcement/">Read Post &gt;</a>
+          href="/blog/hydrant-flushing-today/">Read Post &gt;</a>
       </div>
       
       

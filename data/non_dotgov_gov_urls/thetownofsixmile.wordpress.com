@@ -264,7 +264,7 @@ function gotoFunction() { window.location.href = document.language.languagesel.o
 	</div>
 		<div class="spacergif"></div>
 	<p class="automattic">
-		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Brainchild</span>	</p>
+		<span>An </span><a class="automattic-logo" href="https://automattic.com/">Automattic</a><span> Ruckus</span>	</p>
 				<script>
 				var cwLink = document.getElementById( 'code-wrangler' );
 				var alternatives = [
@@ -330,13 +330,13 @@ try{
 <script type="text/javascript">
 _tkq = window._tkq || [];
 _stq = window._stq || [];
-_tkq.push(['storeContext', {'blog_id':'15320361','blog_tz':'-4','user_lang':'en','blog_lang':'en','user_id':'0'}]);
-_stq.push(['view', {'blog':'15320361','v':'wpcom','tz':'-4','user_id':'0','subd':'thetownofsixmile'}]);
+_tkq.push(['storeContext', {'blog_id':'15320361','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'15320361','v':'wpcom','tz':'-5','user_id':'0','subd':'thetownofsixmile'}]);
 _stq.push(['extra', {'crypt':'UE5VRnhUZ2VGQSYvTVglSnBOaVR1Jk9bYn5tNmJ+TXolcGJkYXZKZDJWRkgyaEV6ZlluSiZpYTRhWV9aN1tTL3BBLFNhSA=='}]);
 _stq.push([ 'clickTrackerInit', '15320361', '0' ]);
 	</script>
 <noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
-<script>
+<script defer id="bilmur" data-provider="wordpress.com" data-service="simple" src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202045"></script><script>
 if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
 
 	wpcom_mobile_user_agent_info.init();

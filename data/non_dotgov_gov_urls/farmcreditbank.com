@@ -239,7 +239,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                                         <div class="form-inline pl-20">
                                             
                                             <form role="search" method="get" name="searchForm-desk" action="/search-results">
-                                                <input name="__RequestVerificationToken" type="hidden" value="lw72wfSUaRCzSc0Udy7IwsilrNUBNAfHgeXNhROTUq63PAsy9-2XC0MDTsp9_UPNwcBmppNaef1vG8hs88hMYj0EF3eXjaifcLeJjr5PSek1" />
+                                                <input name="__RequestVerificationToken" type="hidden" value="si5XMUQkwIQhVJYn2T4i0yqGP1pIXcBxsQtU2ZYHLY6UCeOcWn6qz4k7pQrCfUBLsmGCtH6HgpNkHSM7M2qnsDX7G-csRb64QMCJVZs89DA1" />
                                                 <div class="input-group shrink">
                                                     <label class="control-label d-none">Search</label>
                                                     <input type="text" aria-labelledby="scroll-down-search" autocomplete="off" class="form-control sticky-search" name="searchTerm" placeholder="Search" value="" id="search1">
@@ -249,7 +249,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                                                         </button>
                                                     </div>
                                                 </div>
-                                            <input type="hidden" name="__ncforminfo" value="baBnHYXuqFFXWL10KslurrmnADDSA3B8IsNM4rBCvFHjcb8AOgqQ5_AEYcIftmNSlktvIYF_WB9bHo2JCRD90jWso4vM7opshfJui3ZRYvny5NJWoa03OA=="/></form>
+                                            <input type="hidden" name="__ncforminfo" value="-ZVVFcZWP_V_IhJlS2gduLWT5p3yXEbg00MlsYZf9k_LwMJlXeKrLrvuMoWl_h6oOHFerFW9Quc8cAzv8w3R6DfT-jlMaGMYJtTdvbRD4C3A5oUQU8McgA=="/></form>
                                         </div>
                                     </div>
                                 </nav>
@@ -304,7 +304,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                             <div class="float-right-left">
                                 <div class="site-search">
                                     <form role="search" method="get" name="searchForm-desk" action="/search-results">
-                                        <input name="__RequestVerificationToken" type="hidden" value="PrM4w2mshHDrRHFQJ-hvDkVr60T3cOkJrmibpGeUzHQfQr2Fcco0fKhaNMUxbq57A_ccbO96PQt8f_1TpkymKvwVX7EZcVAMhr0R11GEQEA1" />
+                                        <input name="__RequestVerificationToken" type="hidden" value="Hqu0orAU6m9hT-dayK4U97wqu7kFBm3EGpkoADw0XhcCAyIRKG2rvfcjhCjGFJNj9F9uHZ2dr60nZaekYI5XgRmtjIB-_5I3DMokNqNchQc1" />
                                         <div class="form-group">
                                             <div class="input-group">
                                                 <label class="control-label d-none">Search</label>
@@ -317,7 +317,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                                             </div>
                                         </div>
 
-                                    <input type="hidden" name="__ncforminfo" value="baBnHYXuqFFXWL10KslurrmnADDSA3B8IsNM4rBCvFHSVfrWFzBGmTdd6jwkrcANj6U2Patjdn05I3EtpURL-1kp9ulL33tyQ2I0JS6qEEXYgfyDXWXS1Q=="/></form>
+                                    <input type="hidden" name="__ncforminfo" value="-ZVVFcZWP_V_IhJlS2gduLWT5p3yXEbg00MlsYZf9k9bnfHbSOek6qjANclkIeeP11uTCfxcTDfBidjeS6a-sDfkaHD925SYm1DKKq9HbC82fZMq3xd8fw=="/></form>
                                 </div>
                             </div>
                         </div>
@@ -331,7 +331,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                                         <li class="d-block d-md-none">
                                             <div class="site-search">
                                                 <form role="search" method="get" name="searchForm-mobile" action="/search-results">
-                                                    <input name="__RequestVerificationToken" type="hidden" value="3Vi8dH_dsu2TWqrfd08PfbjhPgPn8ygHtu7emxQmnfR-fGu65si-_sUGDGaocb7Q1t16HK9Xml4F1EHdJnwhr6fCOoAH-i_SVNWpiYdP_Yc1" />
+                                                    <input name="__RequestVerificationToken" type="hidden" value="tfeCvjIcu9H5tgw-cYjw-hxL7JUqcpDg_yxbhLzvM12eGwehq-pBcS3JmK-XR7g3vXbz_r4hy-RMc4aUXw1SRP1SrgdfZS-Kkj_ohYSYHn81" />
                                                     <div class="form-group">
                                                         <div class="input-group">
                                                             <label class="control-label d-none">Search</label>
@@ -344,7 +344,7 @@ try{var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-28428927-1"]),_gaq.push(["_tr
                                                         </div>
                                                     </div>
 
-                                                <input type="hidden" name="__ncforminfo" value="baBnHYXuqFFXWL10KslurrmnADDSA3B8IsNM4rBCvFH-UIXHnxtJ7X-hVsqFIs3jX5Q1U_3zIRfFWgSMoHX5tNGLfpmbGRDbsAGU1vvFCUsTK4J5ErlE1g=="/></form>
+                                                <input type="hidden" name="__ncforminfo" value="-ZVVFcZWP_V_IhJlS2gduLWT5p3yXEbg00MlsYZf9k9X0CxlZf7dMmdLVdgxpa5mRG0xrm_QychHkehlI1v4t9JKnUJ6HnGuTFd1IcAFA1g="/></form>
                                             </div>
                                         </li>
                                             <li class="nav-item d-block d-md-none">
@@ -804,12 +804,21 @@ $(scrollTop).click(function() {
                                     <div class="card-deck">
                                                 <div class="card">
                                                     <div class="card-body">
+                                                        <span class="h7-class fw-600">Financial Results</span>
+                                                        <div class="underline-green"></div>
+                                                        <h5><a href="https://www.farmcreditbank.com/news/third-quarter-financial-results-2020/"     class="h5-class no-decoration">Farm Credit Bank of Texas Reports Third Quarter Financial Results</a></h5>
+                                                        <em>11/2/2020</em>
+                                                    </div>
+                                                </div>
+                                                <div class="card">
+                                                    <div class="card-body">
                                                         <span class="h7-class fw-600">Leadership</span>
                                                         <div class="underline-green"></div>
                                                         <h5><a href="https://www.farmcreditbank.com/news/ceo-larry-doyle-announces-retirement/"     class="h5-class no-decoration">Farm Credit Bank of Texas CEO Larry Doyle Announces Retirement, Chief Financial Officer Amie Pala is Named CEO-Elect</a></h5>
                                                         <em>10/23/2020</em>
                                                     </div>
                                                 </div>
+                                                    <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <span class="h7-class fw-600">Financial Results</span>
@@ -818,21 +827,12 @@ $(scrollTop).click(function() {
                                                         <em>7/31/2020</em>
                                                     </div>
                                                 </div>
-                                                    <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <span class="h7-class fw-600">Financial Results</span>
                                                         <div class="underline-green"></div>
                                                         <h5><a href="https://www.farmcreditbank.com/news/strong-growth-first-quarter-2020/"     class="h5-class no-decoration">Farm Credit Bank of Texas Reports Strong Growth in First Quarter</a></h5>
                                                         <em>5/1/2020</em>
-                                                    </div>
-                                                </div>
-                                                <div class="card">
-                                                    <div class="card-body">
-                                                        <span class="h7-class fw-600">Financial Results</span>
-                                                        <div class="underline-green"></div>
-                                                        <h5><a href="https://www.farmcreditbank.com/news/fcbt-distributes-over-90-percent-2019-earnings/"     class="h5-class no-decoration">Farm Credit Bank of Texas Distributes Over 90% of 2019 Earnings</a></h5>
-                                                        <em>2/21/2020</em>
                                                     </div>
                                                 </div>
                                                     <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>
@@ -866,12 +866,21 @@ $(scrollTop).click(function() {
                                     <div class="card-deck">
                                                 <div class="card">
                                                     <div class="card-body">
+                                                        <span class="h7-class fw-600">Financial Results</span>
+                                                        <div class="underline-green"></div>
+                                                        <h5><a href="https://www.farmcreditbank.com/news/third-quarter-financial-results-2020/"   class="h5-class no-decoration">Farm Credit Bank of Texas Reports Third Quarter Financial Results</a></h5>
+                                                        <em>11/2/2020</em>
+                                                    </div>
+                                                </div>
+                                                <div class="card">
+                                                    <div class="card-body">
                                                         <span class="h7-class fw-600">Leadership</span>
                                                         <div class="underline-green"></div>
                                                         <h5><a href="https://www.farmcreditbank.com/news/ceo-larry-doyle-announces-retirement/"   class="h5-class no-decoration">Farm Credit Bank of Texas CEO Larry Doyle Announces Retirement, Chief Financial Officer Amie Pala is Named CEO-Elect</a></h5>
                                                         <em>10/23/2020</em>
                                                     </div>
                                                 </div>
+                                                    <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <span class="h7-class fw-600">Financial Results</span>
@@ -880,21 +889,12 @@ $(scrollTop).click(function() {
                                                         <em>7/31/2020</em>
                                                     </div>
                                                 </div>
-                                                    <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>
                                                 <div class="card">
                                                     <div class="card-body">
                                                         <span class="h7-class fw-600">Financial Results</span>
                                                         <div class="underline-green"></div>
                                                         <h5><a href="https://www.farmcreditbank.com/news/strong-growth-first-quarter-2020/"   class="h5-class no-decoration">Farm Credit Bank of Texas Reports Strong Growth in First Quarter</a></h5>
                                                         <em>5/1/2020</em>
-                                                    </div>
-                                                </div>
-                                                <div class="card">
-                                                    <div class="card-body">
-                                                        <span class="h7-class fw-600">Financial Results</span>
-                                                        <div class="underline-green"></div>
-                                                        <h5><a href="https://www.farmcreditbank.com/news/fcbt-distributes-over-90-percent-2019-earnings/"   class="h5-class no-decoration">Farm Credit Bank of Texas Distributes Over 90% of 2019 Earnings</a></h5>
-                                                        <em>2/21/2020</em>
                                                     </div>
                                                 </div>
                                                     <div class="w-100 d-none d-sm-block d-xl-none my-20"></div>

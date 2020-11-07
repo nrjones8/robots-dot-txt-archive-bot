@@ -52,7 +52,7 @@
               		<img src="/images/caution.svg" alt="caution" class="center">
                     <h2 class="center">Invalid ID number and/or Access Code, or account is deactivated.</h2>
                         
-                        <h5 class="center">Please <a href='login.jsp;jsessionid=DB11189B3A6C3CDF0A8A642B410BCB03'><strong>try again</strong></a>,
+                        <h5 class="center">Please <a href='login.jsp;jsessionid=F16B430084EE2CF0311A8C64DC7F2F0F'><strong>try again</strong></a>,
                         or <a href="/help/contact.html" ><u>contact us</u></a> for further assistance.</h5>
             	</div>
 			<!-- InstanceEndEditable -->	

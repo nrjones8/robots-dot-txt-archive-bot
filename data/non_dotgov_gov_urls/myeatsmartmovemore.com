@@ -36,7 +36,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <!-- If Site Icon isn't set in customizer -->
     <link rel="pingback" href="https://www.eatsmartmovemorenc.com/xmlrpc.php">
   
-	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.2 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Page not found - Eat Smart, Move More NC</title>
 	<meta name="robots" content="noindex, follow" />
 	<meta property="og:locale" content="en_US" />
@@ -183,7 +183,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>    
     <section class="show-for-xlarge">
       <a href="https://www.eatsmartmovemorenc.com/myesmm/myesmm-core-behaviors/">
-        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-2.png" alt="Core Behaviors" class="headerCoreBanner">
+        <img src="https://www.eatsmartmovemorenc.com/wp-content/themes/esmm/assets/images/home/CoreBehaviors/CoreBehaviorsSmall-4.png" alt="Core Behaviors" class="headerCoreBanner">
       </a>
     </section>
     

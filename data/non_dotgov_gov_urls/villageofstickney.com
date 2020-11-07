@@ -19,7 +19,7 @@
 <script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
 <!-- End Constant Contact Active Forms -->
     <form method="post" action="/robots.txt" id="form">
-<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="NX+tz8WDlyCMl66zG0hts6vq6a4MKad/1+KufNYRYyd2Pd+D3O0mFL2inOOL/xtmBu8exCqQFwwz7N1EISa6y8eX8ZOzAYfagCC8J+nuGos=" />
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="CKYJzVSDf4WQmVhxIRUMRYqF80h5hBrC+it3ec6NNVke/oHyDj6JZI9mNHuCEY2RXjRZ1DYnLRPOXsGJXJnuXDp5TdOUgpVNsxiVsRypch4=" />
 
 
 <input type="hidden" name="lng" id="lng" value="en-US" />
@@ -59,7 +59,7 @@ CMS.Application = {
 </div>
 
   <div class="alert bg-info alert-top" role="alert">
-    <a href="/emergency-notification">Village Hall Closed 11-3-20 click for more info</a>
+    <a href="/emergency-notification">Annual Veterans Day Event click for more info</a>
   </div>
 
 
@@ -559,7 +559,7 @@ _gaq.push(['_trackPageview']);
 } catch(err) {}
 }
 //]]>
-</script>  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="T6L+WKnODpr4zJJCgsEZ5R0KKJtq1Wu58bR0ZCyhXdiaH8D65QhqfBzbLZog6JnLaWPUB4IrgpNkmeV+mqfGz5emQFN6kSxsUIGaES1VcK79B3tWV4T8cGMgP+/nHdVKfcB9yVJyrXYsfhrYEWjXrk3dpw7gO3hqv5B0R9IrTGeg53ISdb+dqyuLwcU1wRVhHeFdPjWW55CXfvc10sR1vPWVCZNEvCNU+TWdegW/HhECl0DTWVwRXObzC4/yGOaZB/RZ/UErv5SQ58909sNaswYumGl2Fi/w6Gs+iNMAb3i9MruWxhg7DjA6dODKkgvMP66c/f6mOljfL3IRgO5F+9XmpqEO5QrJlrkch+SZSYW0Lo70L+KyjLRJgP5onxjiDZyQ5w1jv4BfoI0v4oafkZZsD4Ut2NS1AK8hwCngJm596lc/WyCbZ3dog7E8tNhVJRUVj/6RZkOME8pZe41Rb3ycYomki6XPNnUisBSD6Uo9Qi/eNDlkgjILxG12cXBdobmge3RqOVbXC99AXMiwGED5MLDKyUuCfvmS48WUcyskbrx7a0iKEeEm1ltOMOLe6QMP97ukXDyg39CbMyNHbIyYA1M00rz2nWyXeJEiWS8e7zSB8GxTuNdmFgRfiOSjVmkStEwZeHH6XRlzzbJYC+q234u2V+bRfpGiGWXMVMtfWGVFunEgR4E+lbI+9hezo6O1R+bb6SXNobnHatGJWr5orNVXJa2i0FDBLJ3HxH8BGhl5HmiLmxtphaFMBbDWFFhNziFq9or4zvOQlNrwyeqKpBeaxEh1vcwoNpc9xEfATEkLSoF680yV4MEMQnc6ac9qshldM58YRLSWzL9cZ+dCygQIoROEGCjbOHAZcq0=" />
+</script>  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="jDkjZ6ebSq420OT3SE8Q/tuDi6DZwem+dN1gif4u6skPVSikFEPjnhfr7vRBmi2zncQVgLEIsoAmosncXSqtAQxJMg5gwURmhjSPy1nSrFQCWmZbNivRFxcO4HM6jutrb7XrhAQ5e+zYZ+6iGIZhLuD1XDl6yaoqg8lA3OoJ/p8a+siL8TLOKZ/R2i1LW2Hj9EdBANL/phamuDiuTXol+yCJv8BCCwsVywXVtLcfp+SqKCCyu1wLdgo1nqbDkA9tbVhzMFaWKNufEwEv1oMfZO0F3IMZjzZ9LKTCwmHHGA6dFjWTrMzNaULL0Sdjp8P4ng2jLmG71JhAkoOWe5MxgXU2G+fPSyhdzGs0+gdcLLjIBNJA+sgeapVKNMxgJmyL1FOhsGy1TJwVZMZvTPoI0MqPFLfvvqFDbIrfFoqX6I4qmlo3K4T/j3V5dWsBl5l+G8ctK25qk6Jh3nfuzzIhQpQqewQG93zqgAbx+V/yCGbegr11vd7+dgrxiS90k9X2ZfIKnC4WCkXKyYrzmOsomX35lAf80O0Uv99dcRox7IKEa/9zaTc2MuVkteUYG1vCEGNpz8DJqbRZElYRwuNMpMxJEmOEt/bqoPINMZVSPy0Rsg3UB8G9myic3muautdj5mj4zidfwJfFb7yLm/JYGN/48X37Hhyop/vI7Gl99gIY3kTMmKf188jyxsNuTHhb+VsyjF0BgFUmIso+MRSJJcyGdWPenoDSsX16dWz1UACJhtBawmC/T+Ek73mu/GJYBLAGxXJLSydt9yegjwgB8Fk8fl92WO3G4aqQUiIaoFsxMn8rjik3iLe5fvbE+Bgw1PcgnbMGVhmnYef6vr1q1g==" />
   <script type="text/javascript">
       //<![CDATA[
       if (window.WebForm_InitCallback) {
