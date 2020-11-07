@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://athenswis.com/sitemap.xml
+Sitemap: http://athenswis.com/sitemap.xml

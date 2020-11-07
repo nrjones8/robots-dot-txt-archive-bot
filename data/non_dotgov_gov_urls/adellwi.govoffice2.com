@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://adellwi.govoffice2.com/sitemap.xml
+Sitemap: http://adellwi.govoffice2.com/sitemap.xml

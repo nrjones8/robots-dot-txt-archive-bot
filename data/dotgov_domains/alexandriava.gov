@@ -1,1 +1,26 @@
+#
+# Hi.
+#
+# This is the robots.txt for our failover site
+#
+# Lots of URLs are slightly different on our failover site, and our DR setup
+# won't let us send 302 redirects, so our failover site delivers a combination of
+#   - good content with URLs you should not index (/SocialMedia.html)
+#   - Not Found errors for URLs that are perfectly good 99.99% of the time (/SocialMedia)
+#
+# So here's the deal:
+#   - This file tells you not to index most ".html" URLs since those are mostly what's 
+#     used on our DR site, but almost never used on our main site. This should keep your
+#     index from getting cluttered with bad URLs like /SocialMedia.html
+#     Reference: https://support.google.com/webmasters/answer/156449?hl=en
+#   - Our error pages, even though they look like normal 404 Page Not Found errors, will
+#     announce themselves as HTTP 503 Service Unavailable. This should keep you from indexing
+#     the error page you see for /SocialMedia at our DR site, and tell you to leave the old
+#     index data as-is while we're failed over.
+#     Reference: http://googlewebmastercentral.blogspot.com/2011/01/how-to-deal-with-planned-site-downtime.html
+
+
+# block most HTML
+User-agent: *
+Disallow: /*.html
 

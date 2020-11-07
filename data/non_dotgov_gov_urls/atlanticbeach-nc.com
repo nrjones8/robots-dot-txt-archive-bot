@@ -1,0 +1,1 @@
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='atlanticbeach-nc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x10a34c650>, 'Connection to atlanticbeach-nc.com timed out. (connect timeout=15)'))"}

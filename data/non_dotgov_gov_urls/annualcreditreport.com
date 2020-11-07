@@ -1,5 +1,1 @@
-<html>
-<body>
-<b>404 </b>
-</body>
-</html>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

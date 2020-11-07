@@ -1,0 +1,1 @@
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='asgteo.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10a1b7e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"}

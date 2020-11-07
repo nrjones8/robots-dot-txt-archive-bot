@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://anderson.govoffice.com/sitemap.xml
+Sitemap: http://anderson.govoffice.com/sitemap.xml

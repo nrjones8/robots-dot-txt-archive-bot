@@ -1,0 +1,18 @@
+User-agent: *
+Crawl-Delay: 2
+Disallow: *.php/*.php
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /gwcal/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: mj12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+#User-agent: AhrefsBot
+#Disallow: *.php/*.php
+
+
