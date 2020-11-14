@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://tyler.govoffice.com/sitemap.xml
+Sitemap: http://tyler.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://fosston.com/sitemap.xml
+Sitemap: http://fosston.com/sitemap.xml

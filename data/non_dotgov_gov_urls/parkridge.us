@@ -1,6 +1,46 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-<HTML><HEAD><TITLE>Not Found</TITLE>
-<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-<BODY><h2>Not Found</h2>
-<hr><p>HTTP Error 404. The requested resource is not found.</p>
-</BODY></HTML>
+User-agent: Googlebot
+Disallow: /cms/
+Disallow: /admin/
+
+Disallow: /events/event.aspx
+Disallow: /events/month.aspx
+Disallow: /events/week.aspx
+Disallow: /events/day.aspx
+Disallow: /events/week-list.aspx
+
+User-agent: bingbot
+Disallow: /cms/
+Disallow: /admin/
+
+Disallow: /events/event.aspx
+Disallow: /events/month.aspx
+Disallow: /events/week.aspx
+Disallow: /events/day.aspx
+Disallow: /events/week-list.aspx
+
+User-agent: Yahoo! Slurp
+Disallow: /cms/
+Disallow: /admin/
+
+Disallow: /events/event.aspx
+Disallow: /events/month.aspx
+Disallow: /events/week.aspx
+Disallow: /events/day.aspx
+Disallow: /events/week-list.aspx
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+sitemap: http://www.parkridge.us/sitemap.aspx

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://westlakeland.govoffice2.com/sitemap.xml
+Sitemap: http://westlakeland.govoffice2.com/sitemap.xml

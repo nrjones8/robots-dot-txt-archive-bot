@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://slayton.govoffice.com/sitemap.xml
+Sitemap: http://slayton.govoffice.com/sitemap.xml

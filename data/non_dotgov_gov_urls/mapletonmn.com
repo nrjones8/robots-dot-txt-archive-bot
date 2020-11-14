@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mapletonmn.com/sitemap.xml
+Sitemap: http://mapletonmn.com/sitemap.xml

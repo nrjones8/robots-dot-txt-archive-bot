@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://townofpeterborough.com/sitemap.xml
+Sitemap: http://townofpeterborough.com/sitemap.xml

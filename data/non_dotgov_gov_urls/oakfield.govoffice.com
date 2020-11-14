@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://oakfield.govoffice.com/sitemap.xml
+Sitemap: http://oakfield.govoffice.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://nevis.govoffice.com/sitemap.xml
+Sitemap: http://nevis.govoffice.com/sitemap.xml

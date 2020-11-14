@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofprincetonwi.com/sitemap.xml
+Sitemap: http://cityofprincetonwi.com/sitemap.xml

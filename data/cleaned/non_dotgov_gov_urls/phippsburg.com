@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://phippsburg.com/sitemap.xml
+Sitemap: http://phippsburg.com/sitemap.xml

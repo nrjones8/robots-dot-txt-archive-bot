@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofnewrockford.com/sitemap.xml
+Sitemap: http://cityofnewrockford.com/sitemap.xml

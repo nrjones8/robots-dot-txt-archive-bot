@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofdanube.com/sitemap.xml
+Sitemap: http://cityofdanube.com/sitemap.xml

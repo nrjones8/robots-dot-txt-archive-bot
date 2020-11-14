@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://hawley.govoffice.com/sitemap.xml
+Sitemap: http://hawley.govoffice.com/sitemap.xml

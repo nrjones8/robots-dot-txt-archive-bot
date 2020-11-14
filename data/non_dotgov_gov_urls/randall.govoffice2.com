@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://randall.govoffice2.com/sitemap.xml
+Sitemap: http://randall.govoffice2.com/sitemap.xml

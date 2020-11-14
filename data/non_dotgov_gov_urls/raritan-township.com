@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://raritan-township.com/sitemap.xml
+Sitemap: http://raritan-township.com/sitemap.xml

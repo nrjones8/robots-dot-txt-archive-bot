@@ -1,1 +1,1 @@
-<HTML><HEAD><TITLE>Unable to Process Request</TITLE></HEAD><BODY><P>Http Status Code: 404</P><P>Reason: File not found or unable to read file</P></BODY></HTML>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

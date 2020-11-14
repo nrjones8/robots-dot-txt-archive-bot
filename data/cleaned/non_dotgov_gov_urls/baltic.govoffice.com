@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://baltic.govoffice.com/sitemap.xml
+Sitemap: http://baltic.govoffice.com/sitemap.xml

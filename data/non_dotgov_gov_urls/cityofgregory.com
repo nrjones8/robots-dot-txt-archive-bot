@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofgregory.com/sitemap.xml
+Sitemap: http://cityofgregory.com/sitemap.xml

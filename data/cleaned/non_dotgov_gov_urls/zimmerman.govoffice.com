@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://zimmerman.govoffice.com/sitemap.xml
+Sitemap: http://zimmerman.govoffice.com/sitemap.xml

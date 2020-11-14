@@ -1,5 +1,1 @@
-<html>
-<meta http-equiv="refresh" content="2;url=http://templates.doteasy.com/ErrorPages/error404/">
-<body>
-</body>
-</html>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

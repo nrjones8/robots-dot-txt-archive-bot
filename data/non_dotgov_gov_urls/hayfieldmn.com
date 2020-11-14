@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://hayfieldmn.com/sitemap.xml
+Sitemap: http://hayfieldmn.com/sitemap.xml

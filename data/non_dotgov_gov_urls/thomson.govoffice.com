@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://thomson.govoffice.com/sitemap.xml
+Sitemap: http://thomson.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://wabedo.govoffice.com/sitemap.xml
+Sitemap: http://wabedo.govoffice.com/sitemap.xml

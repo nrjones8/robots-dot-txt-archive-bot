@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofwimberley.com/sitemap.xml
+Sitemap: http://cityofwimberley.com/sitemap.xml

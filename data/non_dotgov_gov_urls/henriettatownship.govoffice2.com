@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://henriettatownship.govoffice2.com/sitemap.xml
+Sitemap: http://henriettatownship.govoffice2.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://marine.govoffice.com/sitemap.xml
+Sitemap: http://marine.govoffice.com/sitemap.xml

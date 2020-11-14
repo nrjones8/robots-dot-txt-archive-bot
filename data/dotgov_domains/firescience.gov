@@ -1,6 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-<HTML><HEAD><TITLE>Bad Request</TITLE>
-<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-<BODY><h2>Bad Request - Invalid Hostname</h2>
-<hr><p>HTTP Error 400. The request hostname is invalid.</p>
-</BODY></HTML>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='firescience.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39a2aab310>, 'Connection to firescience.gov timed out. (connect timeout=15)'))"}

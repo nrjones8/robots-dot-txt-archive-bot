@@ -1,4 +1,8 @@
-User-agent: *
-Disallow: /globaladmin/
-Disallow: /aspx/admin/
-Sitemap: https://www.iowaeconomicdevelopment.com/aspx/general/sitemapxml.aspx
+user-agent: *
+disallow: /content
+disallow: /bundles
+disallow: /GlobalAdmin
+disallow: /aspx/Admin
+disallow: /error
+allow: /content/images
+sitemap: https://www.iowaeda.com/sitemap.xml

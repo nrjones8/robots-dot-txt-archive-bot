@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://searsmont.com/sitemap.xml
+Sitemap: http://searsmont.com/sitemap.xml

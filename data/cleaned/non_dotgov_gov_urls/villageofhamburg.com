@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://villageofhamburg.com/sitemap.xml
+Sitemap: http://villageofhamburg.com/sitemap.xml

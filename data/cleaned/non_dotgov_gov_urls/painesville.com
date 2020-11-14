@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://painesville.com/sitemap.xml
+Sitemap: http://painesville.com/sitemap.xml

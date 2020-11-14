@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://kadokasd.com/sitemap.xml
+Sitemap: http://kadokasd.com/sitemap.xml

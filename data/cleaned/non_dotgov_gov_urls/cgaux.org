@@ -1,0 +1,21 @@
+# This file is read by web-crawlers to determine what they should ignore on this site
+#
+# Updated by Alex Belleque April 13th, 2011
+User-agent: *
+Disallow: /_images/ 	# Stops indexing of images 
+Disallow: /.smileys/ 	# Prevents spaming with icons 
+Disallow: /cgi-bin/ 	# Prevent any unwanted actions such as voting
+Disallow: /tmp/			# Stops any unwanted tmp reading
+Disallow: /_includes/ 	# Stops indexing of includes 	
+Disallow: /SpryAssets/ 	# Stops web-crawler from getting spry files. 
+Disallow: /can2/	# Stops Bill P's CAN system from being crawled 
+Disallow: /search/	# Stops old search system from being crawled 
+Disallow: /units/	# Stops web-crawler from getting the redirect notice for the olds units page
+Disallow: /members/whats_new/	# Stops web-crawler from getting olds What's New Items
+Disallow: /members/wantads/ 	# Stops web-crawler from getting old help wanted ads. 
+Disallow: /boatinged/classes/ 	# Stops web-crawler from indexing Class Pages
+Disallow: /recaptcha/ 	# Stops web-crawler from indexing Captcha system
+Disallow: /response/ 	# Stops web-crawler from indexing the response department as they will be setup on their own searchs system
+Disallow: /training/ 	# Stops web-crawler from indexing the member training department as they will be setup on their own searchs system
+Disallow: /WOW_signin.php?unit=	# Stops crawlers from slowing the server by indexing this page
+Disallow: /content.php?unit= # Stops crawlers from slowing server by indexing this page

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://conrad.govoffice.com/sitemap.xml
+Sitemap: http://conrad.govoffice.com/sitemap.xml

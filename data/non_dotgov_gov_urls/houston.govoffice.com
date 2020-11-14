@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://houston.govoffice.com/sitemap.xml
+Sitemap: http://houston.govoffice.com/sitemap.xml

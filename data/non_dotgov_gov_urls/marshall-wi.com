@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://marshall-wi.com/sitemap.xml
+Sitemap: http://marshall-wi.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://lakota-nd.com/sitemap.xml
+Sitemap: http://lakota-nd.com/sitemap.xml

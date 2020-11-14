@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://newgloucester.com/sitemap.xml
+Sitemap: http://newgloucester.com/sitemap.xml

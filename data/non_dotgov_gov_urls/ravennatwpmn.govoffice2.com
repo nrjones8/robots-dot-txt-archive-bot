@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://ravennatwpmn.govoffice2.com/sitemap.xml
+Sitemap: http://ravennatwpmn.govoffice2.com/sitemap.xml

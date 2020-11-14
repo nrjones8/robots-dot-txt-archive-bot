@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lakefieldmn.com/sitemap.xml
+Sitemap: http://lakefieldmn.com/sitemap.xml

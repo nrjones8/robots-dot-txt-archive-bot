@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://bloomingprairie.com/sitemap.xml
+Sitemap: http://bloomingprairie.com/sitemap.xml

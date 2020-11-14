@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://keewatin.govoffice.com/sitemap.xml
+Sitemap: http://keewatin.govoffice.com/sitemap.xml

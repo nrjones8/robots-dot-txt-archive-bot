@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityoflaurenssc.com/sitemap.xml
+Sitemap: http://cityoflaurenssc.com/sitemap.xml

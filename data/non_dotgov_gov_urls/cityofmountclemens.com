@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofmountclemens.com/sitemap.xml
+Sitemap: http://cityofmountclemens.com/sitemap.xml

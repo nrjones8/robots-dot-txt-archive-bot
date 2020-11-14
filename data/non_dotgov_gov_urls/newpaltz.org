@@ -1,14 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>401 Unauthorized</title>
-</head><body>
-<h1>Unauthorized</h1>
-<p>This server could not verify that you
-are authorized to access the document
-requested.  Either you supplied the wrong
-credentials (e.g., bad password), or your
-browser doesn't understand how to supply
-the credentials required.</p>
-<p>Additionally, a 401 Unauthorized
-error was encountered while trying to use an ErrorDocument to handle the request.</p>
-</body></html>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='newpaltz.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39a2db4a60>, 'Connection to newpaltz.org timed out. (connect timeout=15)'))"}

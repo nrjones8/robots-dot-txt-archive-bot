@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://nl-nh.com/sitemap.xml
+Sitemap: http://nl-nh.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofclintonsc.com/sitemap.xml
+Sitemap: http://cityofclintonsc.com/sitemap.xml

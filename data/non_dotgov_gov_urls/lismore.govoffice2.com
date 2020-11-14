@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://lismore.govoffice2.com/sitemap.xml
+Sitemap: http://lismore.govoffice2.com/sitemap.xml

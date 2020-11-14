@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://edenvalley.govoffice.com/sitemap.xml
+Sitemap: http://edenvalley.govoffice.com/sitemap.xml

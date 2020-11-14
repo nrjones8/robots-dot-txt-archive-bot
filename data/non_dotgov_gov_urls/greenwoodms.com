@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0;URL=https://www.greenwoodms.com/site/404" />
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

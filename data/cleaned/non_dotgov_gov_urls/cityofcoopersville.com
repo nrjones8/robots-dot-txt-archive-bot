@@ -1,0 +1,14 @@
+Sitemap: http://www.cityofcoopersville.com/sitemap.xml
+User-agent: NerdyBot
+Disallow: /
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://www.coopersville.com
+Disallow: /http://library.municode.com/index.aspx?clientId=13312
+Disallow: /http://www.coopersvillelibrary.org
+Disallow: /http://coopersvillebroncos.org
+Disallow: /http://www.coopersvillehistoricalmuseum.org
+Disallow: /http://library.municode.com/index.aspx?clientId=13312
+Disallow: /http://coopersvilledda.com/
+Disallow: /https://www.seniorguidance.org/assisted-living/michigan/

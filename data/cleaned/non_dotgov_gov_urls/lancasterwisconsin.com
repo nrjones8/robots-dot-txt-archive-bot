@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lancasterwisconsin.com/sitemap.xml
+Sitemap: http://lancasterwisconsin.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://milanmn.com/sitemap.xml
+Sitemap: http://milanmn.com/sitemap.xml

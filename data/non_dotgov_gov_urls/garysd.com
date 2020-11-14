@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://garysd.com/sitemap.xml
+Sitemap: http://garysd.com/sitemap.xml

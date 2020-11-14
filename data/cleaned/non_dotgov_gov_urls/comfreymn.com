@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://comfreymn.com/sitemap.xml
+Sitemap: http://comfreymn.com/sitemap.xml

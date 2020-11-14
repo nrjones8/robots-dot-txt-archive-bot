@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://evansdale.govoffice.com/sitemap.xml
+Sitemap: http://evansdale.govoffice.com/sitemap.xml

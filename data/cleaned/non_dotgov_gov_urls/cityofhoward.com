@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofhoward.com/sitemap.xml
+Sitemap: http://cityofhoward.com/sitemap.xml

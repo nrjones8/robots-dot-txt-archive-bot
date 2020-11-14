@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mohallndak.com/sitemap.xml
+Sitemap: http://mohallndak.com/sitemap.xml

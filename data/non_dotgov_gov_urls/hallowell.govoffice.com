@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://hallowell.govoffice.com/sitemap.xml
+Sitemap: http://hallowell.govoffice.com/sitemap.xml

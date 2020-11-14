@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: admin.php
+Disallow: config
+Disallow: header
+Disallow: footer
+Disallow: pntables
+Disallow: referer
+Disallow: /employee
+Disallow: /images
+Disallow: /includes
+Disallow: /modules/NS-
+Disallow: /pnadodb
+Disallow: /themes
+Disallow: /index.php?module=PostCalendar
+Request-rate: 1/5 # maximum rate is one page every 5 seconds
+Visit-time: 1800-0600 # only visit between 01:00 and 05:00 AM

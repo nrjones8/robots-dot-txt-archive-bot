@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='arlingtontx.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x1095d20d0>, 'Connection to arlingtontx.gov timed out. (connect timeout=15)'))"}
+#Global Level
+User-agent: *
+Disallow: /Search/
+Disallow: /WebApi/
+Disallow: /WebServices/
+Disallow: /portal/svc/
+Disallow: /Common/controls/StaffDirectory/ws/StaffDirectoryWS.asmx/
+Disallow: /Common/controls/WorkspaceCalendar/ws/WorkspaceCalendarWS.asmx/
+Disallow: /common/controls/General/CalendarPicker/CalendarPickerWS.asmx/
+

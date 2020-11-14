@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://freeburg.com/sitemap.xml
+Sitemap: http://freeburg.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://colmansd.com/sitemap.xml
+Sitemap: http://colmansd.com/sitemap.xml

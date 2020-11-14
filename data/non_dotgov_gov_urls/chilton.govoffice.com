@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://chilton.govoffice.com/sitemap.xml
+Sitemap: http://chilton.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://trimont.govoffice.com/sitemap.xml
+Sitemap: http://trimont.govoffice.com/sitemap.xml

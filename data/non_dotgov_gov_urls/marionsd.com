@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://marionsd.com/sitemap.xml
+Sitemap: http://marionsd.com/sitemap.xml

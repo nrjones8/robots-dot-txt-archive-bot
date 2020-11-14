@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://newunderwood.com/sitemap.xml
+Sitemap: http://newunderwood.com/sitemap.xml

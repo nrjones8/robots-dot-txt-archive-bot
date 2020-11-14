@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://trappeborough.com/sitemap.xml
+Sitemap: http://trappeborough.com/sitemap.xml

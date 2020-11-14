@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://lakelillian.govoffice.com/sitemap.xml
+Sitemap: http://lakelillian.govoffice.com/sitemap.xml

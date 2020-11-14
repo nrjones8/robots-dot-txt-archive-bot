@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://woodrowtwpmn.govoffice2.com/sitemap.xml
+Sitemap: http://woodrowtwpmn.govoffice2.com/sitemap.xml

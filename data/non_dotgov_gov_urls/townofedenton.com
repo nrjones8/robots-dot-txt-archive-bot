@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://townofedenton.com/sitemap.xml
+Sitemap: http://townofedenton.com/sitemap.xml

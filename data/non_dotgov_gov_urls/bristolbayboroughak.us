@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Allow: /
+Allow: /sitemap.htm
+Allow: /*.php$
+Disallow: /*.html$
+Sitemap: http://www.bbbak.us/sitemap.xml
+
+
+User-agent: Bingbot
+Allow: /
+Allow: /sitemap.htm
+Allow: /*.php$
+Disallow: /*.html$
+Sitemap: http://www.bbbak.us/sitemap.xml
+
+
+User-agent: *
+Allow: /
+Allow: /sitemap.htm
+Allow: /*.php$
+Disallow: /*.html$
+Sitemap: http://www.bbbak.us/sitemap.xml

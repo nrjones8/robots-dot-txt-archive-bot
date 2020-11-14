@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lakebentonminnesota.com/sitemap.xml
+Sitemap: http://lakebentonminnesota.com/sitemap.xml

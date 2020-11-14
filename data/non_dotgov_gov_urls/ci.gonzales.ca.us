@@ -1,9 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL was not found on this server.</p>
-<p>Additionally, a 404 Not Found
-error was encountered while trying to use an ErrorDocument to handle the request.</p>
-</body></html>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gonzalesca.govrobots.txt', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f39a28f14f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}

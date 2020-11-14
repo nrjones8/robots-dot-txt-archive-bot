@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofmound.com/sitemap.xml
+Sitemap: http://cityofmound.com/sitemap.xml

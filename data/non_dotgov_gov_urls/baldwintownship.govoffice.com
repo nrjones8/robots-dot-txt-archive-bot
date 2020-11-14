@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://baldwintownship.govoffice.com/sitemap.xml
+Sitemap: http://baldwintownship.govoffice.com/sitemap.xml

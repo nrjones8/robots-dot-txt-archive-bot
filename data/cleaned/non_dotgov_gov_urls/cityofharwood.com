@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofharwood.com/sitemap.xml
+Sitemap: http://cityofharwood.com/sitemap.xml

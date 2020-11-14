@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofwanamingo.com/sitemap.xml
+Sitemap: http://cityofwanamingo.com/sitemap.xml

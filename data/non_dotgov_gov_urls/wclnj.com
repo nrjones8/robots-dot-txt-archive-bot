@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://wclnj.com/sitemap.xml
+Sitemap: http://wclnj.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://salemsd.com/sitemap.xml
+Sitemap: http://salemsd.com/sitemap.xml

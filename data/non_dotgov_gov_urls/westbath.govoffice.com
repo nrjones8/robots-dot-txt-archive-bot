@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://westbath.govoffice.com/sitemap.xml
+Sitemap: http://westbath.govoffice.com/sitemap.xml

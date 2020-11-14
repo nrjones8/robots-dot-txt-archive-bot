@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://townofgeorgia.com/sitemap.xml
+Sitemap: http://townofgeorgia.com/sitemap.xml

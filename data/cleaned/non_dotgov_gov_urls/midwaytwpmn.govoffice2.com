@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://midwaytwpmn.govoffice2.com/sitemap.xml
+Sitemap: http://midwaytwpmn.govoffice2.com/sitemap.xml

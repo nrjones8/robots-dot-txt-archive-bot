@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://louisvilleohio.com/sitemap.xml
+Sitemap: http://louisvilleohio.com/sitemap.xml

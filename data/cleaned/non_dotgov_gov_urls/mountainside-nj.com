@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://mountainside-nj.com/sitemap.xml
+Sitemap: http://mountainside-nj.com/sitemap.xml

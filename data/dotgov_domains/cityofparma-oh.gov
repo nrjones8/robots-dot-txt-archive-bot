@@ -1,0 +1,9 @@
+# Allows all robots to spider site. Removes 404 errors from log files.
+
+User-agent: *
+disallow /bin/
+disallow /css/
+disallow /img/
+disallow /img_development/
+disallow /include/
+disallow /JavaScript/

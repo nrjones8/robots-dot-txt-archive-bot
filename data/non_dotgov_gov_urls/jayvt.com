@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://jayvt.com/sitemap.xml
+Sitemap: http://jayvt.com/sitemap.xml

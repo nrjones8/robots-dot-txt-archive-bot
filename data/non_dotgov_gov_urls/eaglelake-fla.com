@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://eaglelake-fla.com/sitemap.xml
+Sitemap: http://eaglelake-fla.com/sitemap.xml

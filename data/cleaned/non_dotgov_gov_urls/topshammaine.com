@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://topshammaine.com/sitemap.xml
+Sitemap: http://topshammaine.com/sitemap.xml

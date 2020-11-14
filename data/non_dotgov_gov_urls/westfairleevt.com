@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://westfairleevt.com/sitemap.xml
+Sitemap: http://westfairleevt.com/sitemap.xml

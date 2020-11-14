@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://villageofglenwood.com/sitemap.xml
+Sitemap: http://villageofglenwood.com/sitemap.xml

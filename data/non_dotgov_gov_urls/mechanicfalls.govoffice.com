@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mechanicfalls.govoffice.com/sitemap.xml
+Sitemap: http://mechanicfalls.govoffice.com/sitemap.xml

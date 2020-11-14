@@ -1,6 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-<HTML><HEAD><TITLE>Not Found</TITLE>
-<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-<BODY><h2>Not Found</h2>
-<hr><p>HTTP Error 404. The requested resource is not found.</p>
-</BODY></HTML>
+﻿User-Agent: *
+Disallow: /page*.aspx
+Disallow: /cm/webui/
+Disallow: /Training/
+Disallow: /system/images/
+Disallow: /sites/
+Disallow: /ResidentsOld/
+Disallow: /Assets/BOS/Minutes/2009+Minutes/January+6$!2c+2009.pdf
+Disallow: /Go​ver​nme​nt/​Dir​ect​ory​/Co​mmu​nit​y_D​eve​lop​men​t/B​uil​din​g/B​uil​din​g_F​orm​s__​_Do​cum​ent​s/B​uil​din​g_F​orm​s__​_Do​cum​ent​s.h​tm
+Allow: /
+

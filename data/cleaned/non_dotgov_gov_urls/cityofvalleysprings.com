@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofvalleysprings.com/sitemap.xml
+Sitemap: http://cityofvalleysprings.com/sitemap.xml

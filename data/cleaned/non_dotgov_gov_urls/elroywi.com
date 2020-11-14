@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://elroywi.com/sitemap.xml
+Sitemap: http://elroywi.com/sitemap.xml

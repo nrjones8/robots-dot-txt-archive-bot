@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://china.govoffice.com/sitemap.xml
+Sitemap: http://china.govoffice.com/sitemap.xml

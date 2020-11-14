@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofcorning.com/sitemap.xml
+Sitemap: http://cityofcorning.com/sitemap.xml

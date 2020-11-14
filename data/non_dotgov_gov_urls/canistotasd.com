@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://canistotasd.com/sitemap.xml
+Sitemap: http://canistotasd.com/sitemap.xml

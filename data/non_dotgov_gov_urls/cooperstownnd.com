@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cooperstownnd.com/sitemap.xml
+Sitemap: http://cooperstownnd.com/sitemap.xml

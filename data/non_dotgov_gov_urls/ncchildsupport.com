@@ -1,9 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /robots.txt was not found on this server.</p>
-<hr>
-<address>IBM_HTTP_Server Server at ncchildsupport.com Port 443</address>
-</body></html>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ncchildsupport.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39a3eda5e0>, 'Connection to ncchildsupport.com timed out. (connect timeout=15)'))"}

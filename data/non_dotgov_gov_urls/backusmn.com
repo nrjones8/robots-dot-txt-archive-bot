@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://backusmn.com/sitemap.xml
+Sitemap: http://backusmn.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://coldspring.govoffice.com/sitemap.xml
+Sitemap: http://coldspring.govoffice.com/sitemap.xml

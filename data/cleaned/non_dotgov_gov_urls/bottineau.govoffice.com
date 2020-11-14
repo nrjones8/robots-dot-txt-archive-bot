@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://bottineau.govoffice.com/sitemap.xml
+Sitemap: http://bottineau.govoffice.com/sitemap.xml

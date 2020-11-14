@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.cityofcarver.com/sitemap.xml
+Sitemap: http://www.cityofcarver.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lilydale.govoffice.com/sitemap.xml
+Sitemap: http://lilydale.govoffice.com/sitemap.xml

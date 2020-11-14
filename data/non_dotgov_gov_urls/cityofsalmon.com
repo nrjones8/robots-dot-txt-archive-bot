@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofsalmon.com/sitemap.xml
+Sitemap: http://cityofsalmon.com/sitemap.xml

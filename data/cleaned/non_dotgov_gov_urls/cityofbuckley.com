@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofbuckley.com/sitemap.xml
+Sitemap: http://cityofbuckley.com/sitemap.xml

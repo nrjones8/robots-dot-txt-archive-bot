@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://plainwi.govoffice2.com/sitemap.xml
+Sitemap: http://plainwi.govoffice2.com/sitemap.xml

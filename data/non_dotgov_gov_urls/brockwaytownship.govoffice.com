@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://brockwaytownship.govoffice.com/sitemap.xml
+Sitemap: http://brockwaytownship.govoffice.com/sitemap.xml

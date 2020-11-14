@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://faith.govoffice.com/sitemap.xml
+Sitemap: http://faith.govoffice.com/sitemap.xml

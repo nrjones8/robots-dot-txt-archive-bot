@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofdeerparkwa.com/sitemap.xml
+Sitemap: http://cityofdeerparkwa.com/sitemap.xml

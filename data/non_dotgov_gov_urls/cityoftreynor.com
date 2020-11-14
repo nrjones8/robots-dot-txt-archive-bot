@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityoftreynor.com/sitemap.xml
+Sitemap: http://cityoftreynor.com/sitemap.xml

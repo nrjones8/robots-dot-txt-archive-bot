@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://clio.govoffice.com/sitemap.xml
+Sitemap: http://clio.govoffice.com/sitemap.xml

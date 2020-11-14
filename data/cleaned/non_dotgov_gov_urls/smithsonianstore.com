@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /util/ 
+Disallow: /account 
+Disallow: /source/
+Disallow: /*/QuickViewEnhancement.do
+Disallow: /*/AdditionalViews.do
+Disallow: /*/ViewLarger.do
+Disallow: /*/catalogQuickShop.do
+Disallow: /*/unsubscribe.do
+Sitemap: https://www.smithsonianstore.com/sitemap.xml

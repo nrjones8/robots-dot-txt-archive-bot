@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofbradenton.com/sitemap.xml
+Sitemap: http://cityofbradenton.com/sitemap.xml

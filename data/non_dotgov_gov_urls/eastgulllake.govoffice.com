@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://eastgulllake.govoffice.com/sitemap.xml
+Sitemap: http://eastgulllake.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://herreidsd.com/sitemap.xml
+Sitemap: http://herreidsd.com/sitemap.xml

@@ -1,0 +1,21 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+
+# Remove the following from all search engines
+
+User-agent: *
+Disallow: /admin
+Disallow: /agenda/
+Disallow: /code/
+Disallow: /form_mailer/
+Disallow: /page/
+Disallow: /podcast/
+Disallow: /poll/
+Disallow: /press_release/
+Disallow: /public/docs/code/
+Disallow: /section/
+Disallow: /story/
+Disallow: /images/
+Disallow: /assets/
+Disallow: /media/
+Disallow: /themes/
+Disallow: /minutes/view/

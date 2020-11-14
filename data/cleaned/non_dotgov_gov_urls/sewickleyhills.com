@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://sewickleyhills.com/sitemap.xml
+Sitemap: http://sewickleyhills.com/sitemap.xml

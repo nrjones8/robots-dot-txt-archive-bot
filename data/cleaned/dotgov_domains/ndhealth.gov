@@ -1,0 +1,25 @@
+# robots.txt for http://ndhealth.gov/
+User-agent: *
+Disallow: /images/ # These are just images
+Disallow: /ndhd/intra/
+Disallow: /java/ # these are java apps
+Disallow: /intra/ # this is intranet stuff
+Disallow: /intranet/ # this is intranet stuff
+Disallow: /pubs/ScheduledItems/ # items to be published at a specific time
+Disallow: /ehs/eir/
+Disallow: /experimental/ # media library
+Disallow: /incidentresponse/ # Incident tracking system
+Disallow: /prevent/disease/secure/
+Disallow: /discussion/
+Disallow: /healthynd/Workgroups2010Results.asp
+Disallow: /subscriptions/
+Disallow: /util/
+Disallow: /calendar/
+Disallow: /epr/calendar/
+Disallow: /ndiac/calendar/
+Disallow: /resource/DEHS/calendar/
+Disallow: /RESOURCE/DEHS/calendar/
+Disallow: /ET/SatTrainingCalendar/
+Disallow: /ET/WebcastCalendar/
+Disallow: /EMS/Training/Calendar/
+Disallow: /ndhd/resource/DEHS/calendar/

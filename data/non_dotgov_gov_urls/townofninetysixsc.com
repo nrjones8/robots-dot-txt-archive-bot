@@ -1,1 +1,1 @@
-<html><head><title>townofninetysixsc.com</title></head><body><h1>townofninetysixsc.com</h1><p>Coming soon.</p></body></html>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

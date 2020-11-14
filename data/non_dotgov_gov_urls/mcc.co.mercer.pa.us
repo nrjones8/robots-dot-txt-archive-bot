@@ -1,6 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-<HTML><HEAD><TITLE>Not Found</TITLE>
-<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-<BODY><h2>Not Found</h2>
-<hr><p>HTTP Error 404. The requested resource is not found.</p>
-</BODY></HTML>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mcc.co.mercer.pa.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39a2ca5610>, 'Connection to mcc.co.mercer.pa.us timed out. (connect timeout=15)'))"}

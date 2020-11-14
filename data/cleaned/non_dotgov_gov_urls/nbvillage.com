@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://nbvillage.com/sitemap.xml
+Sitemap: http://nbvillage.com/sitemap.xml

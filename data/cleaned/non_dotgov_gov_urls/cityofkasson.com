@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofkasson.com/sitemap.xml
+Sitemap: http://cityofkasson.com/sitemap.xml

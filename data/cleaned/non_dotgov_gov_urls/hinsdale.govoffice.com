@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://hinsdale.govoffice.com/sitemap.xml
+Sitemap: http://hinsdale.govoffice.com/sitemap.xml

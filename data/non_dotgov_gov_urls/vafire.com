@@ -1,7 +1,1 @@
-<html>
-<head><title>404 Not Found</title></head>
-<body>
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

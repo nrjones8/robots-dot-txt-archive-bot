@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://oakridgenc.com/sitemap.xml
+Sitemap: http://oakridgenc.com/sitemap.xml

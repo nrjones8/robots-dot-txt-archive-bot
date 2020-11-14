@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofavonmn.com/sitemap.xml
+Sitemap: http://cityofavonmn.com/sitemap.xml

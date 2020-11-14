@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofprosser.com/sitemap.xml
+Sitemap: http://cityofprosser.com/sitemap.xml

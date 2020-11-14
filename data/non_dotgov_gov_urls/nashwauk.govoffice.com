@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://nashwauk.govoffice.com/sitemap.xml
+Sitemap: http://nashwauk.govoffice.com/sitemap.xml

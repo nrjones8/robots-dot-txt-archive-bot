@@ -5,5 +5,5 @@ User-agent: *
 Disallow: /search
 Allow: /
 
-Sitemap: https://peachamblog.blogspot.com/sitemap.xml
+Sitemap: http://peachamblog.blogspot.com/sitemap.xml
 

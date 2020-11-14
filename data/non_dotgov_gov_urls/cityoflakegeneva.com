@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityoflakegeneva.com/sitemap.xml
+Sitemap: http://cityoflakegeneva.com/sitemap.xml

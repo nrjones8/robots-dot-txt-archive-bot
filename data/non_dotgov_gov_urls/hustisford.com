@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://hustisford.com/sitemap.xml
+Sitemap: http://hustisford.com/sitemap.xml

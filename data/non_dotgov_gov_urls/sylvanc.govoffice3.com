@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://sylvanc.govoffice3.com/sitemap.xml
+Sitemap: http://sylvanc.govoffice3.com/sitemap.xml

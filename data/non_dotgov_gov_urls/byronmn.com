@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://byronmn.com/sitemap.xml
+Sitemap: http://byronmn.com/sitemap.xml

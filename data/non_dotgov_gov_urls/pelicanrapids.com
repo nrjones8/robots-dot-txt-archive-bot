@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://pelicanrapids.com/sitemap.xml
+Sitemap: http://pelicanrapids.com/sitemap.xml

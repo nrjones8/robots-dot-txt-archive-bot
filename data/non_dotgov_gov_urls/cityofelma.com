@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofelma.com/sitemap.xml
+Sitemap: http://cityofelma.com/sitemap.xml

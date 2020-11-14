@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://holmenwi.com/sitemap.xml
+Sitemap: http://holmenwi.com/sitemap.xml

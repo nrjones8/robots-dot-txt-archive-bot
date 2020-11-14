@@ -1,0 +1,41 @@
+User-Agent: *
+Disallow:
+User-Agent: Googlebot
+Allow:
+User-Agent: Googlebot-Mobile
+Allow:
+User-agent: Googlebot-Image
+Disallow:
+User-Agent: msnbot
+Allow:
+User-Agent: bingbot
+Allow:
+User-agent: Gigabot
+Allow:
+User-Agent: Teoma
+Allow:
+User-agent: yahoo-mmcrawler
+Allow:
+User-agent: Slurp
+Allow:
+User-agent: *
+Disallow: /calendar/
+Disallow: /calendar/action:posterboard/
+Disallow: /calendar/action:agenda/
+Disallow: /calendar/action:oneday/
+Disallow: /calendar/action:month/
+Disallow: /calendar/action:week/
+Disallow: /calendar/action:map/
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /cgi-bin/
+Disallow: /_address_wp/
+Disallow: /__domain_images_wp/
+Disallow: /favicon/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/

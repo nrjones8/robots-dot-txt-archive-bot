@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://plainviewmn.com/sitemap.xml
+Sitemap: http://plainviewmn.com/sitemap.xml

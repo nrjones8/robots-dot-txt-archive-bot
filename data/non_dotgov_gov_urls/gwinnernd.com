@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://gwinnernd.com/sitemap.xml
+Sitemap: http://gwinnernd.com/sitemap.xml

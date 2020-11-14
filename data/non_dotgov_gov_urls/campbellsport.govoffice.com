@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://campbellsport.govoffice.com/sitemap.xml
+Sitemap: http://campbellsport.govoffice.com/sitemap.xml

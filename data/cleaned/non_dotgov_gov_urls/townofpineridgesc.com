@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://townofpineridgesc.com/sitemap.xml
+Sitemap: http://townofpineridgesc.com/sitemap.xml

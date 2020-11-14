@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://centervillemn.com/sitemap.xml
+Sitemap: http://centervillemn.com/sitemap.xml

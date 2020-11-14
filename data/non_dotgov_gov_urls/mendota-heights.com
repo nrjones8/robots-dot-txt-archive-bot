@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mendota-heights.com/sitemap.xml
+Sitemap: http://mendota-heights.com/sitemap.xml

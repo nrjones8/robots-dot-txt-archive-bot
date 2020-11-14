@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://dunncountywi.govoffice2.com/sitemap.xml
+Sitemap: http://dunncountywi.govoffice2.com/sitemap.xml

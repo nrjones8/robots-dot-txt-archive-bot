@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofnewrichlandmn.com/sitemap.xml
+Sitemap: http://cityofnewrichlandmn.com/sitemap.xml

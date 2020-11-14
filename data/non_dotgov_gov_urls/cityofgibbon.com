@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofgibbon.com/sitemap.xml
+Sitemap: http://cityofgibbon.com/sitemap.xml

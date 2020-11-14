@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofmccleary.com/sitemap.xml
+Sitemap: http://cityofmccleary.com/sitemap.xml

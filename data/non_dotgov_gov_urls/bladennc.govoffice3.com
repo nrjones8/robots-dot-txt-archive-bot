@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://bladennc.govoffice3.com/sitemap.xml
+Sitemap: http://bladennc.govoffice3.com/sitemap.xml

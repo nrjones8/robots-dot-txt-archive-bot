@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://greenwoodmn.com/sitemap.xml
+Sitemap: http://greenwoodmn.com/sitemap.xml

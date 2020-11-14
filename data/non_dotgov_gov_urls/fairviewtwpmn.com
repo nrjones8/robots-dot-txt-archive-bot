@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://fairviewtwpmn.com/sitemap.xml
+Sitemap: http://fairviewtwpmn.com/sitemap.xml

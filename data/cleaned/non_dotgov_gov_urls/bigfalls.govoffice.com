@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://bigfalls.govoffice.com/sitemap.xml
+Sitemap: http://bigfalls.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://pinecity.govoffice.com/sitemap.xml
+Sitemap: http://pinecity.govoffice.com/sitemap.xml

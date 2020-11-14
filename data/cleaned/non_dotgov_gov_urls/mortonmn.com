@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://mortonmn.com/sitemap.xml
+Sitemap: http://mortonmn.com/sitemap.xml

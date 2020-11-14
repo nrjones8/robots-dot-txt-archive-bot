@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofnorthoaks.com/sitemap.xml
+Sitemap: http://cityofnorthoaks.com/sitemap.xml

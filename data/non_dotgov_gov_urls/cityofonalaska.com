@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofonalaska.com/sitemap.xml
+Sitemap: http://cityofonalaska.com/sitemap.xml

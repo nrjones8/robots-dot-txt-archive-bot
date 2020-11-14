@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://ho-ho-kusboro.com/sitemap.xml
+Sitemap: http://ho-ho-kusboro.com/sitemap.xml

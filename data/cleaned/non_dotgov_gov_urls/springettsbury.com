@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://springettsbury.com/sitemap.xml
+Sitemap: http://springettsbury.com/sitemap.xml

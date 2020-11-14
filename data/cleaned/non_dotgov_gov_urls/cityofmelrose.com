@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofmelrose.com/sitemap.xml
+Sitemap: http://cityofmelrose.com/sitemap.xml

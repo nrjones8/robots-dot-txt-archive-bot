@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://eaglebendmn.com/sitemap.xml
+Sitemap: http://eaglebendmn.com/sitemap.xml

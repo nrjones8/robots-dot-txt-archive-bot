@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://crookedlake.govoffice2.com/sitemap.xml
+Sitemap: http://crookedlake.govoffice2.com/sitemap.xml

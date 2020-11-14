@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://bristolsd.com/sitemap.xml
+Sitemap: http://bristolsd.com/sitemap.xml

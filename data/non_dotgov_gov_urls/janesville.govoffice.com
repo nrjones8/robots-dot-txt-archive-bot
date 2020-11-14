@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://janesville.govoffice.com/sitemap.xml
+Sitemap: http://janesville.govoffice.com/sitemap.xml

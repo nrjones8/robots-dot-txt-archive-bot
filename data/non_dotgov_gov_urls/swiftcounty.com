@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://swiftcounty.com/sitemap.xml
+Sitemap: http://swiftcounty.com/sitemap.xml

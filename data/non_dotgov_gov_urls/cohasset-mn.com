@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cohasset-mn.com/sitemap.xml
+Sitemap: http://cohasset-mn.com/sitemap.xml

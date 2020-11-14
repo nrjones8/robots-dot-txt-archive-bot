@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://hector.govoffice.com/sitemap.xml
+Sitemap: http://hector.govoffice.com/sitemap.xml

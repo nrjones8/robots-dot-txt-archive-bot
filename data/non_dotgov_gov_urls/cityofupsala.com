@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofupsala.com/sitemap.xml
+Sitemap: http://cityofupsala.com/sitemap.xml

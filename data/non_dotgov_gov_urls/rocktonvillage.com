@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://rocktonvillage.com/sitemap.xml
+Sitemap: http://rocktonvillage.com/sitemap.xml

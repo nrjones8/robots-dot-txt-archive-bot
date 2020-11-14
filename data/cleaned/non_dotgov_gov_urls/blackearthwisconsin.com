@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://blackearthwisconsin.com/sitemap.xml
+Sitemap: http://blackearthwisconsin.com/sitemap.xml

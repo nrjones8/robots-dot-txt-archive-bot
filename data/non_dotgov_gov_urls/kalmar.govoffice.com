@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://kalmar.govoffice.com/sitemap.xml
+Sitemap: http://kalmar.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofoakparkheights.com/sitemap.xml
+Sitemap: http://cityofoakparkheights.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://eyota.govoffice.com/sitemap.xml
+Sitemap: http://eyota.govoffice.com/sitemap.xml

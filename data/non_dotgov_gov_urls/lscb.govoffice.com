@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://lscb.govoffice.com/sitemap.xml
+Sitemap: http://lscb.govoffice.com/sitemap.xml

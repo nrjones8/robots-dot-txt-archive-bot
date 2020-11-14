@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://richardsontownship.govoffice2.com/sitemap.xml
+Sitemap: http://richardsontownship.govoffice2.com/sitemap.xml

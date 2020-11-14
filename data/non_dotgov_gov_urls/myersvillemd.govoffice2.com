@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://myersvillemd.govoffice2.com/sitemap.xml
+Sitemap: http://myersvillemd.govoffice2.com/sitemap.xml

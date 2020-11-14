@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://readingvt.govoffice.com/sitemap.xml
+Sitemap: http://readingvt.govoffice.com/sitemap.xml

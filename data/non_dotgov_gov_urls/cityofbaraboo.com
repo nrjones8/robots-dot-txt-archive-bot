@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofbaraboo.com/sitemap.xml
+Sitemap: http://cityofbaraboo.com/sitemap.xml

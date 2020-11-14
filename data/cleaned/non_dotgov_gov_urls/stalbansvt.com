@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://stalbansvt.com/sitemap.xml
+Sitemap: http://stalbansvt.com/sitemap.xml

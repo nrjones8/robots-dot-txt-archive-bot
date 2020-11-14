@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lakelandshores.govoffice.com/sitemap.xml
+Sitemap: http://lakelandshores.govoffice.com/sitemap.xml

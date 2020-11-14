@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://collegevilletownship.com/sitemap.xml
+Sitemap: http://collegevilletownship.com/sitemap.xml

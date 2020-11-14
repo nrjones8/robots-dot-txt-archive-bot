@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://sandstone.govoffice.com/sitemap.xml
+Sitemap: http://sandstone.govoffice.com/sitemap.xml

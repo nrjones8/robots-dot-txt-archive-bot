@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://ellendalend.com/sitemap.xml
+Sitemap: http://ellendalend.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://epping.govoffice.com/sitemap.xml
+Sitemap: http://epping.govoffice.com/sitemap.xml

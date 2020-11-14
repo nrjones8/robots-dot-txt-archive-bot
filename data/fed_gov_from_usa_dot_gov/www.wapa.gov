@@ -1,18 +1,1 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="SharePointError" content=""/>
-<meta name="Description" content=""/>
-<meta name="Keywords" content=""/>
-<meta name="Robots" content="NOINDEX"/>
-<script type="text/javascript">
-<!--
-window.location.replace("https:\u002f\u002fwww.wapa.gov\u002fPages\u002fPageNotFoundError.aspx?requestUrl=https:\u002f\u002fwww.wapa.gov\u002frobots.txt")
--->
-</script>
-</head>
-<body>
-<!------------------------------------------------------------------------->
-File Not Found
-<!------------------------------------------------------------------------->
-</body>
-</html>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.wapa.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39a2ee9ee0>, 'Connection to www.wapa.gov timed out. (connect timeout=15)'))"}

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://evelethmn.com/sitemap.xml
+Sitemap: http://evelethmn.com/sitemap.xml

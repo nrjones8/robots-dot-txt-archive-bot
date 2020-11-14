@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://sunvalley.govoffice.com/sitemap.xml
+Sitemap: http://sunvalley.govoffice.com/sitemap.xml

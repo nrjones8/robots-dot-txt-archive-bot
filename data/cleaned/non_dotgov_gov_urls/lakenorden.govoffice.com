@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://lakenorden.govoffice.com/sitemap.xml
+Sitemap: http://lakenorden.govoffice.com/sitemap.xml

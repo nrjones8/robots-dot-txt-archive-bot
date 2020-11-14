@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://clearwatercity.com/sitemap.xml
+Sitemap: http://clearwatercity.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://carringtonnd.com/sitemap.xml
+Sitemap: http://carringtonnd.com/sitemap.xml

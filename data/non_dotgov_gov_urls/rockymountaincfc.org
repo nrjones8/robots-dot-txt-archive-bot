@@ -1,9 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access /robots.txt
-on this server.<br />
-</p>
-</body></html>
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='rockymountaincfc.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f39a2bd9dc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

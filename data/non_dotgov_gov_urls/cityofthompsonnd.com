@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofthompsonnd.com/sitemap.xml
+Sitemap: http://cityofthompsonnd.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://wanaqueborough.com/sitemap.xml
+Sitemap: http://wanaqueborough.com/sitemap.xml

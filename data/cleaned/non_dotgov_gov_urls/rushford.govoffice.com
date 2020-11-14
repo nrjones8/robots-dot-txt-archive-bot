@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://rushford.govoffice.com/sitemap.xml
+Sitemap: http://rushford.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofpayette.com/sitemap.xml
+Sitemap: http://cityofpayette.com/sitemap.xml

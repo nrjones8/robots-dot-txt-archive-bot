@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /web/gwinnett/Calendar/General
+Disallow: /web/gwinnett/Calendar/TVGwinnett
+Disallow: /web/gwinnett/Calendar/DOTEvents
+Disallow: /web/gwinnett/Calendar/General/
+Disallow: /web/gwinnett/Calendar/TVGwinnett/
+Disallow: /web/gwinnett/Calendar/DOTEvents/
+Disallow: /web/gwinnett/AboutGwinnett/Transportation/Transportation/RoadClosures
+Allow: /

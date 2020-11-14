@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://manchester.govoffice2.com/sitemap.xml
+Sitemap: http://manchester.govoffice2.com/sitemap.xml

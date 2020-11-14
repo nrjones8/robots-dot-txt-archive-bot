@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://graftongov.com/sitemap.xml
+Sitemap: http://graftongov.com/sitemap.xml

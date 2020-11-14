@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofmandan.com/sitemap.xml
+Sitemap: http://cityofmandan.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://killingtontown.com/sitemap.xml
+Sitemap: http://killingtontown.com/sitemap.xml

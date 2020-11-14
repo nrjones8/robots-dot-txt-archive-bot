@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://caldwell-nj.com/sitemap.xml
+Sitemap: http://caldwell-nj.com/sitemap.xml

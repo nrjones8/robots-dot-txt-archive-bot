@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://coolidgeaz.com/sitemap.xml
+Sitemap: http://coolidgeaz.com/sitemap.xml

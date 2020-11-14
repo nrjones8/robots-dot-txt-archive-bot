@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityoflennoxsd.com/sitemap.xml
+Sitemap: http://cityoflennoxsd.com/sitemap.xml

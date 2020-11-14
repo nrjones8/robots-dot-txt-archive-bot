@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://granitefallsnc.com/sitemap.xml
+Sitemap: http://granitefallsnc.com/sitemap.xml

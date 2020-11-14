@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://gatescounty.govoffice2.com/sitemap.xml
+Sitemap: http://gatescounty.govoffice2.com/sitemap.xml

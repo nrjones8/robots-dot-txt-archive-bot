@@ -1,4 +1,1 @@
-<head>
-<meta http-equiv="refresh" content="0;URL='https://fssabenefits.in.gov/bp/#'" /?
-</head>
-</html>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

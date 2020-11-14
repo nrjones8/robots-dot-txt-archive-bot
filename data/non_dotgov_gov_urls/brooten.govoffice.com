@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://brooten.govoffice.com/sitemap.xml
+Sitemap: http://brooten.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mauston.com/sitemap.xml
+Sitemap: http://mauston.com/sitemap.xml

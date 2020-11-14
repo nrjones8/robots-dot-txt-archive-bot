@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://milnornd.com/sitemap.xml
+Sitemap: http://milnornd.com/sitemap.xml

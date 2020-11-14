@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofpickens.com/sitemap.xml
+Sitemap: http://cityofpickens.com/sitemap.xml

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://wt.govoffice.com/sitemap.xml
+Sitemap: http://wt.govoffice.com/sitemap.xml

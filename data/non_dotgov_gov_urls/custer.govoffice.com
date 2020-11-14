@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://custer.govoffice.com/sitemap.xml
+Sitemap: http://custer.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://hartland.govoffice.com/sitemap.xml
+Sitemap: http://hartland.govoffice.com/sitemap.xml

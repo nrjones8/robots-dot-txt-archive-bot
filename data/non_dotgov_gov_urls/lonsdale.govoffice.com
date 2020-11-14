@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://lonsdale.govoffice.com/sitemap.xml
+Sitemap: http://lonsdale.govoffice.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://canby.govoffice.com/sitemap.xml
+Sitemap: http://canby.govoffice.com/sitemap.xml

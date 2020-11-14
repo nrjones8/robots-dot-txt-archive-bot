@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://stpaulpark.govoffice.com/sitemap.xml
+Sitemap: http://stpaulpark.govoffice.com/sitemap.xml

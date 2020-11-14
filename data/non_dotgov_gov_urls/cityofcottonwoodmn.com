@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofcottonwoodmn.com/sitemap.xml
+Sitemap: http://cityofcottonwoodmn.com/sitemap.xml

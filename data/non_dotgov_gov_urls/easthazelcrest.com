@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://easthazelcrest.com/sitemap.xml
+Sitemap: http://easthazelcrest.com/sitemap.xml

@@ -1,1 +1,1 @@
-<p style="text-align: center;"><strong>Not Found</strong><br /><br />The requested URL was not found on this server.</p>
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 463}

@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://michigannd.com/sitemap.xml
+Sitemap: http://michigannd.com/sitemap.xml

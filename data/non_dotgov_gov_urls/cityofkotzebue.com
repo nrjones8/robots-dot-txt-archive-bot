@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofkotzebue.com/sitemap.xml
+Sitemap: http://cityofkotzebue.com/sitemap.xml

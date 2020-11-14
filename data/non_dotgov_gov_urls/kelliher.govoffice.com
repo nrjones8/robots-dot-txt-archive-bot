@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://kelliher.govoffice.com/sitemap.xml
+Sitemap: http://kelliher.govoffice.com/sitemap.xml

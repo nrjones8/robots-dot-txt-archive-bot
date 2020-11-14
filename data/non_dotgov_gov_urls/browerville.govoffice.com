@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://browerville.govoffice.com/sitemap.xml
+Sitemap: http://browerville.govoffice.com/sitemap.xml

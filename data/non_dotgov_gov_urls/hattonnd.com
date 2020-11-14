@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://hattonnd.com/sitemap.xml
+Sitemap: http://hattonnd.com/sitemap.xml

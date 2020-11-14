@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://cityofmayer.com/sitemap.xml
+Sitemap: http://cityofmayer.com/sitemap.xml

@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://beresfordsd.com/sitemap.xml
+Sitemap: http://beresfordsd.com/sitemap.xml

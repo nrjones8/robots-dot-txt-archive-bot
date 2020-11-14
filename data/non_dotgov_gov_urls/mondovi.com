@@ -30,4 +30,4 @@ Disallow: /
 
 Crawl-delay: 60
 
-Sitemap: https://mondovi.com/sitemap.xml
+Sitemap: http://mondovi.com/sitemap.xml

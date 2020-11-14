@@ -23,4 +23,4 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 Crawl-delay: 60
-Sitemap: https://cityofconnell.com/sitemap.xml
+Sitemap: http://cityofconnell.com/sitemap.xml
