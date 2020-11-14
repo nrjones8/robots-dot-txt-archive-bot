@@ -51,7 +51,10 @@ export default class Home extends Component {
           render: (site, record) => (
             <div>
               <div>{site}</div>
-              <div style={{ fontSize: 10 }}>(see <a target="_blank" href={`https://${site}/robots.txt`}>live robots.txt</a>)</div>
+              <div style={{ fontSize: 10 }}>
+                (see <a target="_blank" href={`https://${site}/robots.txt`}>live robots.txt, </a>
+                <a target="_blank" href={waybackMachineUrl(site, '/robots.txt')}>Internet archive of robots.txt</a>)
+              </div>
             </div>
           )
         },
