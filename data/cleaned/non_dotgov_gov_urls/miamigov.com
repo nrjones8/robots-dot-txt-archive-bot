@@ -257,6 +257,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Education-Initiatives
@@ -423,8 +426,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Featured-Content-Secondar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/MEETING-TEMPLATE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/Copy-of-Latest-News
@@ -1097,6 +1101,9 @@ Disallow: /Government/Departments-Organizations/Copy-of-Management-Budget-1
 Disallow: /Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
+Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
+Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
+Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/New-page
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /Government/Departments-Organizations/Fire-Rescue/New-page
 Disallow: /Government/Departments-Organizations/Grants-Administration/Education-Initiatives
@@ -1263,8 +1270,9 @@ Disallow: /Home/Featured-Content-Secondary
 Disallow: /Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website
-Disallow: /Home/Homepage/Events/New-page
 Disallow: /Home/Homepage/Events/Test-Calendar
+Disallow: /Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
+Disallow: /Home/Homepage/Public-Meetings/MEETING-TEMPLATE
 Disallow: /Home/Tabs/About
 Disallow: /Home/Tabs/About-the-New-Website
 Disallow: /Home/Tabs/Copy-of-Latest-News

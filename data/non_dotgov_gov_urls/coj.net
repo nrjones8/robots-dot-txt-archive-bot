@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+#
+# Rule 1 disabling ad crawlers: https://support.google.com/webmasters/answer/1061943?hl=en
+# Checks desktop web page ad quality
+#
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
+
+#
+# Rule 2 recommended by Kentico
+#
+
+User-agent: * 
+Disallow: /CMSAdminControls/UI/UniSelector/LiveSelectionDialog.aspx
+
+Sitemap: /all-of-coj/site-map.aspx

@@ -131,7 +131,7 @@ Allow: /scRIPTS
 Allow: /ScRIPTS
 Allow: /sCRIPTS
 Allow: /SCRIPTS
-Disallow: /admin
+Disallow: https://www.gilibrary.org/sys/sso/login
 Disallow: /Admin
 Disallow: /aDmin
 Disallow: /ADmin

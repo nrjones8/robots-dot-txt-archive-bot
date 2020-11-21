@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.claiborneone.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.claiborneone.org/wp-sitemap.xml

@@ -1,3 +1,1 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.oakvillecityhall.com/sitemap.xml
+Got an HTML response

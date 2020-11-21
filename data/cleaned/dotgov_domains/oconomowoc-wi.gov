@@ -2,10 +2,6 @@ user-agent: Baiduspider
 Disallow: /
 User-agent: Yandex
 Disallow: /
-User-agent: SemrushBot
-Disallow: /
-User-agent: SemrushBot-SA
-Disallow: /
 User-agent: *
 Disallow: /activedit
 Disallow: /admin

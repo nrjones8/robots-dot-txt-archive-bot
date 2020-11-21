@@ -2,6 +2,8 @@ User-agent: Baiduspider
 Disallow: /
 User-agent: Yandex
 Disallow: /
+User-agent: *
+Disallow: /sys/sso
 User-agent: Googlebot
 Allow: /scripts
 Allow: /Scripts

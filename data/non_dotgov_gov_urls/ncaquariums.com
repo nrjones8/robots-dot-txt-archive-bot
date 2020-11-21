@@ -2,6 +2,7 @@ User-agent: Googlebot
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$
+Disallow: *.ashx$
 Disallow: *.vb$
 Disallow: *.cs$
 Disallow: *.resx$
@@ -17,6 +18,7 @@ User-agent: Googlebot-Image
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$
+Disallow: *.ashx$
 Disallow: *.vb$
 Disallow: *.cs$
 Disallow: *.resx$
@@ -32,6 +34,7 @@ User-agent: Twitterbot
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$
+Disallow: *.ashx$
 Disallow: *.vb$
 Disallow: *.cs$
 Disallow: *.resx$
@@ -47,6 +50,7 @@ User-agent: *
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$
+Disallow: *.ashx$
 Disallow: *.vb$
 Disallow: *.cs$
 Disallow: *.resx$

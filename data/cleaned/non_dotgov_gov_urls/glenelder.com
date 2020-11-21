@@ -7,6 +7,7 @@ Disallow: /apps/
 Disallow: /http://www.glenelder.com/city-hall.html
 Disallow: /http://www.glenelder.com/organizations.html
 Disallow: /home-2.html
+Disallow: /spagetti-dinner.html
 Disallow: /http://www.glenelder.com/waconda-lake.html
 Disallow: /2015-craft-fair.html
 Disallow: /http://www.glenelder.com/history.html

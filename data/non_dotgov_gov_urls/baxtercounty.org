@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /phplive/
+Disallow: /cgi-bin/
+Disallow: /securimage/
+Disallow: /phpseclib/
+Disallow: /phpmysqlautobackup/
+Disallow: /phpmailer/
+Disallow: /PHPMailer5
+Disallow: /phplive435/
+Disallow: /phplive_4xx/
+Disallow: /Images/
+Disallow: /images/
+Disallow: /EOP/
+Disallow: /entropybanner/
+Disallow: /clerksms/
+Disallow: /cert/
+Disallow: /animal_control/

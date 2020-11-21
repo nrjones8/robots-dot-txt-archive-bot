@@ -1,16 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Disallow: /events-calender/action~posterboard/
-Disallow: /events-calender/action~agenda/
-Disallow: /events-calender/action~oneday/
-Disallow: /events-calender/action~month/
-Disallow: /events-calender/action~week/
-Disallow: /events-calender/action~stream/
-Disallow: /events-calender/action~undefined/
-Disallow: /events-calender/action~http:/
-Disallow: /events-calender/action~default/
-Disallow: /events-calender/action~poster/
-Disallow: /events-calender/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow: /wp-content/uploads/wpforms/

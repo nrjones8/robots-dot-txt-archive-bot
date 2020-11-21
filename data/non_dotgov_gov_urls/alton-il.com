@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /customCode
-Disallow: /inc
-Disallow: /email
-Sitemap: http://www.cityofaltonil.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}
