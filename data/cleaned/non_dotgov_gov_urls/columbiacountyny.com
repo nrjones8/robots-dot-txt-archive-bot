@@ -54,10 +54,11 @@ Disallow: /facilities.html
 Disallow: /http://www.elections.ny.gov/VotingRegister.html
 Disallow: /http://www.townoflivingston.org/
 Disallow: /redirect-pages.html
-Disallow: /highway-department.html
+Disallow: /https://sites.google.com/columbiacountyny.com/ccfairhousing/home
 Disallow: /http://www.timesunion.com/closings/?search=Columbia+County&type=school
 Disallow: /http://www.stuyvesantny.us/
 Disallow: /http://www.ny.gov/agencies
+Disallow: /highway-department.html
 Disallow: /http://www.taghkanic.org/
 Disallow: /http://www.columbiacountytourism.org/
 Disallow: /https://translate.google.com/translate?sl=en&tl=es&u=columbiacountyny.com

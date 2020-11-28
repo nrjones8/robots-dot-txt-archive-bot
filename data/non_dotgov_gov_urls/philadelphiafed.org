@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /
-
-Sitemap: https://philadelphiafed-prod-cd.ase2.p.azure.frb.pvt/sitemap.xml
+Disallow: /404
+Disallow: /502
+Disallow: /api/
+Disallow: /error
+Disallow: /Search-Results
+Disallow: /search-results

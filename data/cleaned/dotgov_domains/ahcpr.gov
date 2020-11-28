@@ -58,3 +58,37 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+# CUSTOM CONFIG BELOW
+Disallow /redirects/
+# Filterable view pages
+Disallow: /research/findings/evidence-based-reports/search.html?
+Disallow: /research/findings/studies/index.html?
+Disallow: /news/newsletters/e-newsletter/index.html?
+Disallow: /news/events/other/index.html?
+Disallow: /news/newsroom/press-releases/index.html?
+Disallow: /news/newsroom/noticias/index.html?
+Disallow: /news/newsroom/articles-of-interest/index.html?
+Disallow: /news/newsroom/case-studies/index.html?
+Disallow: /cahps/bibliography/index.html?
+Disallow: /cahps/surveys-guidance/item-sets/search.html?
+Disallow: /cahps/faq/index.html?
+Disallow: /programs/index.html?
+Disallow: /tools/index.html?
+Disallow: /data/dataresources/index.html?
+# Special use pages
+Disallow: /research/findings/ta/technical-assistance-form-thank-you.html
+Disallow: /funding/contracts/proposal-instructions.html
+# Deprecated pages
+Disallow: /sites/default/files/publications/files/organization-chart.pdf
+Disallow: /whatsnew.html
+# Temporary
+Disallow: /news/events/ahrq-research-summit-learning.html
+Allow: /professionals/quality-patient-safety/hais/tools/perinatal-care/index.html
+Disallow: /professionals/quality-patient-safety/hais/tools/perinatal-care/
+Disallow: /nhguide/toolkits/determine-whether-to-treat/antibiotic-tool.html
+Disallow: /topics/index-v2-f5L2sheVSpUMT9tL.html
+Disallow: /learning-health-systems/
+Disallow: /whatsnew.html
+Disallow: /health-literacy
+Disallow: /rural-post-partum-challenge
+Disallow: /questions

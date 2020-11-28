@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='carrabassettvalley.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Crawl-delay: 5
+Disallow: /admin/
+Disallow: /cron/
+Disallow: /downloads/
+Disallow: /engine/
+Disallow: /images/
+Disallow: /js/
+Disallow: /modules/
+Disallow: /themes/admin/
+Disallow: /utilities/
+Disallow: /wysiwyg/

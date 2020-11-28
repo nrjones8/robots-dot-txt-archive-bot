@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='vafire.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8f6d7539d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

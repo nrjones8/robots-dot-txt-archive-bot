@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='phillipsburgantiquemall.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8f6c191b50>, 'Connection to phillipsburgantiquemall.com timed out. (connect timeout=15)'))"}

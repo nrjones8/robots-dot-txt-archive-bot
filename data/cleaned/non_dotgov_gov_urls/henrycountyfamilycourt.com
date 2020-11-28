@@ -14,4 +14,4 @@ Disallow: /cgi-bin/
 Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
-# This file was generated on Sun, 26 Jan 2020 09:13:43 +0000
+# This file was generated on Thu, 13 Aug 2020 05:54:34 +0000
