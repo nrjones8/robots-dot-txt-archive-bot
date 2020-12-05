@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='floridasathletictraining.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8f6c1c7400>, 'Connection to floridasathletictraining.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpforms/
+
+Sitemap: https://floridasathletictraining.gov/wp-sitemap.xml
+
+Sitemap: https://floridasathletictraining.gov/sitemap.xml

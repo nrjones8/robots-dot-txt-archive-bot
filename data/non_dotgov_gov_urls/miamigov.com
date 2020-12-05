@@ -260,7 +260,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-or-Pyrotechnics-Permit
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Education-Initiatives
@@ -322,9 +323,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Development-of-Regional-Impact-DRI-Landing/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Hurricane-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Intended-Decision-Notifications-Allapattah
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Planning-Department-Projects
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Planning-FAQs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Reserve-School-Concurrency
@@ -1103,7 +1102,8 @@ Disallow: /Government/Departments-Organizations/Emergency-Management-Threat-Leve
 Disallow: /Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
-Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/New-page
+Disallow: /Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-or-Pyrotechnics-Permit
+Disallow: /Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-Permit
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /Government/Departments-Organizations/Fire-Rescue/New-page
 Disallow: /Government/Departments-Organizations/Grants-Administration/Education-Initiatives
@@ -1165,9 +1165,7 @@ Disallow: /Government/Departments-Organizations/Planning/Copy-of-School-Concurre
 Disallow: /Government/Departments-Organizations/Planning/Development-of-Regional-Impact-DRI-Landing/OLD-DRI-Updates
 Disallow: /Government/Departments-Organizations/Planning/Hurricane-Preparedness
 Disallow: /Government/Departments-Organizations/Planning/Intended-Decision-Notifications-Allapattah
-Disallow: /Government/Departments-Organizations/Planning/New-page
 Disallow: /Government/Departments-Organizations/Planning/Planning-Department-Projects
-Disallow: /Government/Departments-Organizations/Planning/Planning-FAQs
 Disallow: /Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
 Disallow: /Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /Government/Departments-Organizations/Planning/Reserve-School-Concurrency

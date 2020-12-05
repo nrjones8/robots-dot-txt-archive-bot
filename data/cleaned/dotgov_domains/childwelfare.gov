@@ -1,41 +1,67 @@
 ï»¿User-agent: *
-Allow:/
-Allow:/assets/CWIG/assets/Image/si-shareable-graphics/
-Allow:/assets/CWIG/assets/Image/cwig-shareable-graphics/
-Disallow:/core/vendor/fullcalendar
-Disallow:/core/vendor/prettify
-Disallow:/admin/
-Disallow:/core/vendor/
-Disallow:/config/
-Disallow:/c/
-Disallow:/CFIDE/
-Disallow:/cwig/
-Disallow:/ICF-HQ/	
-Disallow:/Macintosh HD/
-Disallow:/users/
-Disallow:/assets/
-Disallow:/cart/
-Disallow:/cb/
-Disallow:/cfc/
-Disallow:/CWLibrarian/
-Disallow:/calendar/cbconference/admin/
-Disallow:/includes*
-Disallow:/search/
-Disallow:/survey/
-Disallow:/targetedsurvey/
-Disallow:/styleGuide/
-Disallow:/test/
-Disallow:/*.css$
-Disallow:/*.cfm$
-Disallow:/*.js$
-Disallow:/*.exe$
-Disallow:/*.sql$
-Disallow:/*.cfc$
-Disallow:/*.svn$
-Disallow:/fostercaremonth20*
-Disallow:/fostercaremonth-archives*
-Disallow:/topics/preventing/preventionmonth20*
-Disallow:/topics/preventing/prevention-month-archives*
-Disallow:/topics/adoption/nam20*
-Disallow:/topics/adoption/nam-archives*
-SITEMAP:Â https://www.childwelfare.gov/sitemap.xml
+Crawl-delay: 10
+# maximum rate is one page every 10 seconds
+Request-rate: 1/10
+# only visit between 1900 (02:00PM EST) and 1500 (10:00AM EST) UTC
+Visit-time: 1900-1500
+Allow: /
+Allow: /assets/CWIG/assets/Image/si-shareable-graphics/
+Allow: /assets/CWIG/assets/Image/cwig-shareable-graphics/
+Disallow: /core/vendor/fullcalendar
+Disallow: /core/vendor/prettify
+Disallow: /admin/
+Disallow: /accessibility/
+Disallow: /core/vendor/
+Disallow: /config/
+Disallow: /c/
+Disallow: /CFIDE/
+Disallow: /cwig/
+Disallow: /ICF-HQ/
+Disallow: /Macintosh HD/
+Disallow: /users/
+Disallow: /assets/
+Disallow: /cart/
+Disallow: /cb/
+Disallow: /cfc/
+Disallow: /css/
+Disallow: /ch_emails/
+Disallow: /CWLibrarian/
+Disallow: /calendar/cbconference/admin/
+Disallow: /includes*
+Disallow: /search/
+Disallow: /survey/
+Disallow: /targetedsurvey/
+Disallow: /styleGuide/
+Disallow: /test/
+Disallow: /tasks/
+Disallow: /requirements/
+Disallow: /*.cfc$
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.exe$
+Disallow: /*.flv$
+Disallow: /*.sql$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /*.gif$
+Disallow: /*.tif$
+Disallow: /*.svn$
+Disallow: /*.swf$
+Disallow: /*.git$
+Disallow: /fostercaremonth20*
+Disallow: /fostercaremonth-archives*
+Disallow: /topics/preventing/preventionmonth20*
+Disallow: /topics/preventing/prevention-month-archives*
+Disallow: /topics/adoption/nam20*
+Disallow: /topics/adoption/nam-archives*
+User-agent: AhrefsBot
+User-agent: Baiduspider
+User-agent: DotBot
+User-agent: Ezooms
+User-agent: MauiBot
+User-agent: MJ12bot
+User-agent: SEMrushBot
+User-agent: YandexBot
+User-agent: PetalBot
+Disallow: /
+SITEMAP: https://www.childwelfare.gov/sitemap.xml

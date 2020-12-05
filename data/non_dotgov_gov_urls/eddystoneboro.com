@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://eddystoneboro.org/sitemap.xml
+Sitemap: https://eddystoneborough.org/wp-sitemap.xml

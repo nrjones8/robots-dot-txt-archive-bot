@@ -36,7 +36,6 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
-Disallow: /help-topics
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -51,8 +50,6 @@ Disallow: /index.php/user/logout/
 # add new rules here.
 Disallow: /judicial-directory
 Disallow: /index.php/judicial-directory
-Disallow: /help-topics
-Disallow: /index.php/help-topics
 Disallow: /search-results
 Disallow: /help-using-nccourts-gov/
 Disallow: /sites/files/*.pdf

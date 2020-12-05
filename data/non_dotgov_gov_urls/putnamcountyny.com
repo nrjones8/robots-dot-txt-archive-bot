@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /wordpress/wp-admin/
 Allow: /wordpress/wp-admin/admin-ajax.php
+Sitemap: https://www.putnamcountyny.com/wp-sitemap.xml
 Disallow: /calendar-4/action~posterboard/
 Disallow: /calendar-4/action~agenda/
 Disallow: /calendar-4/action~oneday/

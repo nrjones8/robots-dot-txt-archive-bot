@@ -13,8 +13,9 @@ Disallow: /http://www.slhserver1.com/2020burnettcountyguidemap/
 Disallow: /http://www.northmemorial.com/ems/
 Disallow: /http://burnettcountyfun.com/
 Disallow: /http://www.burnettmedicalcenter.com
-Disallow: /http://www.grantsburgwifire.org/
+Disallow: /https://grantsburgfoodshelf.com/
 Disallow: /http://grantsburgareahistoricalsociety.weebly.com/
+Disallow: /http://www.grantsburgwifire.org/
 Disallow: /http://grantsburg.wislib.org/
 Disallow: /http://grograntsburg.com/
 Disallow: /http://gk12.net
