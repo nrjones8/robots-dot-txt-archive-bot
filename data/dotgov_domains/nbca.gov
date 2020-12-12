@@ -3,3 +3,6 @@ Crawl-delay: 5
 Disallow: /Scripts
 Disallow: /Admin
 Disallow: /*.asmx*
+
+User-agent: *
+Disallow: /sys/sso

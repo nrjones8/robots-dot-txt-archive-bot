@@ -5,4 +5,4 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /http://
-Disallow: /https://www.billingdoc.net/finalpayonline31/index.php?c=BMS033
+Disallow: /https://pay.billingdoc.net/finalpayonline/index.php?c=BMS033

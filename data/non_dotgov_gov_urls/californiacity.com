@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='p3nlhclust404.shr.prod.phx3.secureserver.net', port=80): Max retries exceeded with url: /SharedContent/redirect_0.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fad3cb958b0>, 'Connection to p3nlhclust404.shr.prod.phx3.secureserver.net timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /
