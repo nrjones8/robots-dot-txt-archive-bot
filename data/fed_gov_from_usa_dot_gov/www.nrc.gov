@@ -1,18 +1,5 @@
-user-agent: *
-Sitemap: https://www.nrc.gov/sitemapindex.xml
-Disallow: /acrs/
-Disallow: /aeod/
-Disallow: /cfide/
-Disallow: /cfdocs/
-Disallow: /nrc/
-Disallow: /nmss/
-Disallow: /oe/
-Disallow: /opa/
-Disallow: /public-involve-new/
-Disallow: /temp/
-Disallow: /who-we-are/
-Disallow: /what-we-do/
-Disallow: /site-help/templates/
-Disallow: /NRR/
-User-agent: TurnitinBot
-Disallow: /
+user-agent:*
+Sitemap: https://nrc.gov/sitemapindex.xml
+Disallow: https://nrc.gov/wordpress/wp-login.php/
+Disallow: https://nrc.gov/ads.txt/
+Disallow: https://nrc.gov/autodiscover/autodiscover.xml

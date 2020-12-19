@@ -10,6 +10,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ARL
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/attorneyinternship
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/A-Z-Index
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/BE305
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Beta-Services/Get-City-Gym-Memebership
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Beta-Services/New-page-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/board-comment
@@ -50,6 +51,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Com
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Copy-of-Register-as-a-Building-Contractor
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Embed-test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/ePlan-Introduction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Example-Guide
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Example-Guide-Start-a-New-Business
@@ -103,16 +105,21 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Library
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Lost-Animals
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Venues-for-hire
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Department
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Department/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/New-page-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/Test-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/dig
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Becky-Test-12-15
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Campaign-Reports
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Education
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/gg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Maurice-L.-Kemp-EMS-Cadet-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Rent-at-the-Caribbean-Marketplace
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/View-Approved-Planning-Legislation
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/embed
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/emerge
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Update
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Updates
@@ -220,6 +227,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Code-Compliance/ProChamps
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Resilience-and-Sustainability
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
@@ -254,6 +263,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Code-Compliance/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-City-Attorney-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-City-Clerk-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Guide-to-Doing-Business-With-the-City-of-Miami-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Management-Budget-1
@@ -266,6 +276,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/General-Procurement-Terms-Conditions-IFB_version-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/General-Terms-Conditions-IFB_version-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Education-Initiatives
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Education-InitiativesB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
@@ -344,6 +356,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Copy-of-Purchase-Order-Terms-and-Conditions-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/General-Terms-Conditions-IFBv1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Pre-Bid-Meeting-Sign-In-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
@@ -375,6 +389,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Zoning/New-page
@@ -428,6 +443,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-We
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/MEETING-TEMPLATE
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/Copy-of-Latest-News
@@ -546,6 +562,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2/Hurricane-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/residentsurvey
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages/Sample-A-Z-Services-Page
@@ -606,6 +623,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/C
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Concierge-Plan-Review-and-Permit-Services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Copy-of-Get-a-Sidewalk-Cafe-Permit-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Designated-Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Determine-if-Your-Building-Needs-to-Meet-BE305-Compliance
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Elevators/Get-a-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Elevators/Get-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
@@ -624,6 +642,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-New-Construction
@@ -852,6 +871,7 @@ Disallow: /Appeal-a-Warrant-or-Waiver
 Disallow: /ARL
 Disallow: /attorneyinternship
 Disallow: /A-Z-Index
+Disallow: /BE305
 Disallow: /Beta-Services/Get-City-Gym-Memebership
 Disallow: /Beta-Services/New-page-1
 Disallow: /board-comment
@@ -892,6 +912,7 @@ Disallow: /Content-Sandbox/Boards-and-Commissions/New-page
 Disallow: /Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /Content-Sandbox/City-Clerk
 Disallow: /Content-Sandbox/Copy-of-Register-as-a-Building-Contractor
+Disallow: /Content-Sandbox/Embed-test
 Disallow: /Content-Sandbox/ePlan-Introduction
 Disallow: /Content-Sandbox/Example-Guide
 Disallow: /Content-Sandbox/Example-Guide-Start-a-New-Business
@@ -945,16 +966,21 @@ Disallow: /Default-Content/Library
 Disallow: /Default-Content/Lost-Animals
 Disallow: /Default-Content/Venues-for-hire
 Disallow: /Department
+Disallow: /Department/Office-of-Resilience-and-Sustainability
 Disallow: /Departments/New-page-1
+Disallow: /Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Departments/Test-Department-Page
 Disallow: /dig
 Disallow: /DSA
+Disallow: /DSA/Becky-Test-12-15
 Disallow: /DSA/Campaign-Reports
 Disallow: /DSA/Education
 Disallow: /DSA/gg
 Disallow: /DSA/Maurice-L.-Kemp-EMS-Cadet-Program
 Disallow: /DSA/OLD-DRI-Updates
 Disallow: /DSA/Rent-at-the-Caribbean-Marketplace
+Disallow: /DSA/View-Approved-Planning-Legislation
+Disallow: /embed
 Disallow: /emerge
 Disallow: /Emergency-Update
 Disallow: /Emergency-Updates
@@ -1062,6 +1088,8 @@ Disallow: /Government/Department/New-page
 Disallow: /Government/Department/Test-Building-Department-Page
 Disallow: /Government/Department/Test-Department-Page
 Disallow: /Government/Departments/Office-of-Code-Compliance/ProChamps
+Disallow: /Government/Departments/Office-of-Resilience-and-Sustainability
+Disallow: /Government/Departments/Resilience-and-Sustainability
 Disallow: /Government/Departments/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
@@ -1096,6 +1124,7 @@ Disallow: /Government/Departments-Organizations/Code-Compliance/Code-Inspector-P
 Disallow: /Government/Departments-Organizations/Code-Compliance/New-page
 Disallow: /Government/Departments-Organizations/Copy-of-City-Attorney-1
 Disallow: /Government/Departments-Organizations/Copy-of-City-Clerk-1
+Disallow: /Government/Departments-Organizations/Copy-of-Guide-to-Doing-Business-With-the-City-of-Miami-1
 Disallow: /Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
 Disallow: /Government/Departments-Organizations/Copy-of-Management-Budget-1
@@ -1108,6 +1137,8 @@ Disallow: /Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-or-P
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Get-a-Fireworks-Permit
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /Government/Departments-Organizations/Fire-Rescue/New-page
+Disallow: /Government/Departments-Organizations/General-Procurement-Terms-Conditions-IFB_version-1
+Disallow: /Government/Departments-Organizations/General-Terms-Conditions-IFB_version-1
 Disallow: /Government/Departments-Organizations/Grants-Administration/Education-Initiatives
 Disallow: /Government/Departments-Organizations/Grants-Administration/Education-InitiativesB
 Disallow: /Government/Departments-Organizations/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
@@ -1186,6 +1217,8 @@ Disallow: /Government/Departments-Organizations/Planning-Department-Final/Hurric
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
+Disallow: /Government/Departments-Organizations/Procurement/Copy-of-Purchase-Order-Terms-and-Conditions-1
+Disallow: /Government/Departments-Organizations/Procurement/General-Terms-Conditions-IFBv1
 Disallow: /Government/Departments-Organizations/Procurement/New-page
 Disallow: /Government/Departments-Organizations/Procurement/Pre-Bid-Meeting-Sign-In-Form
 Disallow: /Government/Departments-Organizations/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
@@ -1217,6 +1250,7 @@ Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Get-
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/New-page
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
+Disallow: /Government/Departments-Organizations/Resilience-and-Sustainability
 Disallow: /Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
 Disallow: /Government/Departments-Organizations/Zoning/New-page
@@ -1270,6 +1304,7 @@ Disallow: /Home/Homepage/About-the-New-Website
 Disallow: /Home/Homepage/Events/Test-Calendar
 Disallow: /Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /Home/Homepage/Public-Meetings/MEETING-TEMPLATE
+Disallow: /Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Home/Tabs/About
 Disallow: /Home/Tabs/About-the-New-Website
 Disallow: /Home/Tabs/Copy-of-Latest-News
@@ -1394,6 +1429,7 @@ Disallow: /Residents/New-page-2
 Disallow: /Residents/New-page-2/Hurricane-Resources
 Disallow: /Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /residentsurvey
+Disallow: /Resilience-and-Sustainability
 Disallow: /rezone
 Disallow: /Sample-Pages
 Disallow: /Sample-Pages/Sample-A-Z-Services-Page
@@ -1454,6 +1490,7 @@ Disallow: /Services/Building-Permitting/Concierge-Plan-Review/Request-a-Concierg
 Disallow: /Services/Building-Permitting/Concierge-Plan-Review-and-Permit-Services
 Disallow: /Services/Building-Permitting/Copy-of-Get-a-Sidewalk-Cafe-Permit-1
 Disallow: /Services/Building-Permitting/Designated-Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /Services/Building-Permitting/Determine-if-Your-Building-Needs-to-Meet-BE305-Compliance
 Disallow: /Services/Building-Permitting/Elevators/Get-a-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /Services/Building-Permitting/Elevators/Get-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /Services/Building-Permitting/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
@@ -1472,6 +1509,7 @@ Disallow: /Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /Services/Building-Permitting/New-page
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-New-Construction

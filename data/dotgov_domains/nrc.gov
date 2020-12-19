@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='nrc.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4fb3e5f430>, 'Connection to nrc.gov timed out. (connect timeout=15)'))"}
+user-agent:*
+Sitemap: https://nrc.gov/sitemapindex.xml
+Disallow: https://nrc.gov/wordpress/wp-login.php/
+Disallow: https://nrc.gov/ads.txt/
+Disallow: https://nrc.gov/autodiscover/autodiscover.xml

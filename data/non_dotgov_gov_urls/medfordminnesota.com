@@ -1,1 +1,19 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='medfordminnesota.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /blocks 
+Disallow: /concrete 
+Disallow: /config 
+Disallow: /controllers 
+Disallow: /css 
+Disallow: /elements 
+Disallow: /helpers 
+Disallow: /jobs 
+Disallow: /js 
+Disallow: /languages 
+Disallow: /libraries 
+Disallow: /mail 
+Disallow: /models 
+Disallow: /packages 
+Disallow: /single_pages 
+Disallow: /themes 
+Disallow: /tools
+Disallow: /updates

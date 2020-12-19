@@ -1,8 +1,5 @@
 User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
+Disallow: /template/
 
-User-agent: googlebot
-Disallow: *.csi
+Sitemap: https://www.discovermott.com/sitemap.xml
+
