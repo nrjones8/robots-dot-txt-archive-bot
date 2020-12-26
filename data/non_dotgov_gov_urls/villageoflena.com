@@ -1,14 +1,1 @@
-User-agent: *
-Disallow: 
-Allow: /modules/contentbox/themes/
-Disallow: /coldbox/
-Disallow: /config/
-Disallow: /handlers/
-Disallow: /includes/
-Disallow: /layouts/
-Disallow: /interceptors/
-Disallow: /logs/
-Disallow: /model/
-Disallow: /modules/
-Disallow: /plugins/
-Disallow: /views/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
