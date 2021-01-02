@@ -1,4 +1,4 @@
-Sitemap: http://www.elkrapids.com/sitemap.xml
+Sitemap: https://www.elkrapids.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

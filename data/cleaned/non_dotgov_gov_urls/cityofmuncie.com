@@ -1,19 +1,72 @@
-#	DATE		MODIFIER	COMMENTS
-#	2010-11-22	MRB			Created document.
-#	2011-01-22	MRB			Added rules for authentication and AJAX pages.
-#	2011-06-14	MRB			Added rule for password-protected documents.
-#	2011-06-25	MRB			Added rule for cache directory.
-#	2012-04-14	MRB			Added checksum for comparison against "master" version.
-#	
-#	CHECKSUM: cfe41d2cdf86df296daaecd86ca9d02bcd5ced64
-# Allow all robots for all pages except those for authentication and AJAX support
-User-agent: 	*
-Disallow: 		/cache/
-Disallow: 		/documents/secure/
-Disallow: 		/login.php
-Disallow: 		/logout.php
-Disallow: 		/service.php
-# [CustomDirectives]
-# Restrict crawling to 5 second intervals and point robots to the sitemap
-Crawl-delay: 	5
-Sitemap: 		http://www.cityofmuncie.com/sitemap.xml
+User-agent: *
+Disallow: /egov/help
+Noindex: /egov/help
+Disallow: /egov/imgs
+Disallow: /egov/include
+Noindex: /egov/include
+Disallow: /egov/apps/events
+Noindex: /egov/apps/events
+Disallow: /include
+Crawl-delay: 300
+# This thing comes from a known spyware site, so shove off.
+User-agent: FunWebProducts
+Disallow: /
+# Crawlers that are kind enough to obey, but which we'd rather not have
+# unless they're feeding search engines.
+User-agent: UbiCrawler
+Disallow: /
+User-agent: DOC
+Disallow: /
+User-agent: Zao
+Disallow: /
+# Some bots are known to be trouble, particularly those designed to copy
+# entire sites. Please obey robots.txt.
+User-agent: sitecheck.internetseer.com
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: MSIECrawler
+Disallow: /
+User-agent: SiteSnagger
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: Fetch
+Disallow: /
+User-agent: Offline Explorer
+Disallow: /
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+# Doesn't follow robots.txt anyway, but...
+User-agent: k2spider
+Disallow: /
+# Hits many times per second, not acceptable
+# http://www.nameprotect.com/botinfo.html
+User-agent: NPBot
+Disallow: /
+# A capture bot, downloads gazillions of pages with no public benefit
+# http://www.webreaper.net/
+User-agent: WebReaper
+Disallow: /

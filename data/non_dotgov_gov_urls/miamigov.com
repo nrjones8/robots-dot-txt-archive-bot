@@ -72,6 +72,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Permitting-Web
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/User-Testing-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Copy-of-Emergency-Updates-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Copy-of-Services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Coronavirus/CoronavirusCOVID-19-Daily-Updates
@@ -940,6 +941,7 @@ Disallow: /Content-Sandbox/Permitting-Website-User-Testing
 Disallow: /Content-Sandbox/Styles-Add-ins
 Disallow: /Content-Sandbox/User-Testing-Form
 Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
+Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
 Disallow: /Copy-of-Emergency-Updates-1
 Disallow: /Copy-of-Services
 Disallow: /Coronavirus/CoronavirusCOVID-19-Daily-Updates

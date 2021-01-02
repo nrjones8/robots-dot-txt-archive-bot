@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='acgov.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5bdd260a90>, 'Connection to acgov.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /form_app/feedback/feedback.jsp
+Disallow: /gsa_app/gsa/purchasing/buyerlist.jsp
+Disallow: /not_found.htm
+Disallow: /server_error.htm
+Disallow: /unauthorized.htm
+Disallow: /forbidden.htm
+Disallow: /feedback.htm
+Disallow: /calendar_app/DisplayListServlet
+Disallow: /calendar_app/DisplayMonthServlet
+Disallow: /calendar_app/DisplayDailyServlet
+Disallow: /calendar_app/DisplayDetailServlet
+Disallow: /ms/maintenance/
+

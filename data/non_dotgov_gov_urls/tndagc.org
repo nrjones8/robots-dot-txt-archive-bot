@@ -1,1 +1,16 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-Agent: *
+Disallow: /assets/
+Disallow: /forms/
+Disallow: /css/
+Disallow: /forms/
+Disallow: /js/
+Disallow: /oc/
+Disallow: /titlevi/
+Disallow: /uploads/
+Disallow: /benefitsvendor.html
+Disallow: /header.html
+Disallow: /district.html
+Disallow: /footer.html
+Disallow: /map.html
+
+Sitemap: http://www.tndagc.org/sitemap.txt
