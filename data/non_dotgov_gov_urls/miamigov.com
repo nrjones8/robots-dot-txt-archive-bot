@@ -73,6 +73,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/User-Testing-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Instructions-for-City-Commission-Meeting-1-14-21-TEST
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Copy-of-Emergency-Updates-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Copy-of-Services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Coronavirus/CoronavirusCOVID-19-Daily-Updates
@@ -305,6 +306,18 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Services/New-page-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Services/Opportunity-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Marinas-Redirect-while-working-on-other-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/Marlins-Park-NET
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattahat-at-Curtis-Park-NET-Office
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattahat-Curtis-Park-NET-office
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattah-NET-Office
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Flagami-NET-at-Antonio-Maceo-Park-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Havana-NET-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Wynwood-Edgewater-NET-at-Roberto-Clemente-Park-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Flagami-NET-at-Antonio-Maceo-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Havana-NET
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Marlins-Park-NET
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/NET-Administration-Office-at-Green-Lab
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/NET-Administration-Office-at-Green-Lab
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements/Strategic-Capital-Initiatives
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/OCI-Home-Page-Rotating-Banner
@@ -357,8 +370,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Copy-of-General-Terms-Conditions-IFBv1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Copy-of-Purchase-Order-Terms-and-Conditions-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/General-Terms-Conditions-IFBv1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/General-Terms-Conditions-RFPv1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Pre-Bid-Meeting-Sign-In-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
@@ -391,6 +406,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Sustainability
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Speical-Terms-Conditions_version-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Zoning/New-page
@@ -565,6 +581,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurr
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparation-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparations-For-the-Disabled
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Marlins-Park-NET
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2/Hurricane-Resources
@@ -942,6 +959,7 @@ Disallow: /Content-Sandbox/Styles-Add-ins
 Disallow: /Content-Sandbox/User-Testing-Form
 Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
+Disallow: /Content-Sandbox/Virtual-Meeting-Training/Instructions-for-City-Commission-Meeting-1-14-21-TEST
 Disallow: /Copy-of-Emergency-Updates-1
 Disallow: /Copy-of-Services
 Disallow: /Coronavirus/CoronavirusCOVID-19-Daily-Updates
@@ -1175,6 +1193,18 @@ Disallow: /Government/Departments-Organizations/Human-Services/Copy-of-Opportuni
 Disallow: /Government/Departments-Organizations/Human-Services/New-page-1
 Disallow: /Government/Departments-Organizations/Human-Services/Opportunity-Center
 Disallow: /Government/Departments-Organizations/Marinas-Redirect-while-working-on-other-page
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/Marlins-Park-NET
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattahat-at-Curtis-Park-NET-Office
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattahat-Curtis-Park-NET-office
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Allapattah-NET-Office
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Flagami-NET-at-Antonio-Maceo-Park-1
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Havana-NET-1
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Wynwood-Edgewater-NET-at-Roberto-Clemente-Park-1
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Flagami-NET-at-Antonio-Maceo-Park
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Havana-NET
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Marlins-Park-NET
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/NET-Administration-Office-at-Green-Lab
+Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/NET-Administration-Office-at-Green-Lab
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements/Strategic-Capital-Initiatives
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/OCI-Home-Page-Rotating-Banner
@@ -1227,8 +1257,10 @@ Disallow: /Government/Departments-Organizations/Planning-Department-Final/Hurric
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
+Disallow: /Government/Departments-Organizations/Procurement/Copy-of-General-Terms-Conditions-IFBv1-1
 Disallow: /Government/Departments-Organizations/Procurement/Copy-of-Purchase-Order-Terms-and-Conditions-1
 Disallow: /Government/Departments-Organizations/Procurement/General-Terms-Conditions-IFBv1
+Disallow: /Government/Departments-Organizations/Procurement/General-Terms-Conditions-RFPv1
 Disallow: /Government/Departments-Organizations/Procurement/New-page
 Disallow: /Government/Departments-Organizations/Procurement/Pre-Bid-Meeting-Sign-In-Form
 Disallow: /Government/Departments-Organizations/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
@@ -1261,6 +1293,7 @@ Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/New-
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /Government/Departments-Organizations/Resilience-and-Sustainability
+Disallow: /Government/Departments-Organizations/Speical-Terms-Conditions_version-1
 Disallow: /Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
 Disallow: /Government/Departments-Organizations/Zoning/New-page
@@ -1441,6 +1474,7 @@ Disallow: /Residents/Hurricane-Guide/Hurricane-Safety-Resources
 Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/New-page
 Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparation-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricanes-Before-the-Storm/Preparations-For-the-Disabled
+Disallow: /Residents/Marlins-Park-NET
 Disallow: /Residents/My-Neighborhood
 Disallow: /Residents/New-page-2
 Disallow: /Residents/New-page-2/Hurricane-Resources

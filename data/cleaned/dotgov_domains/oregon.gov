@@ -58,6 +58,8 @@ Disallow: /wcb/Orders # Content should not be available except through Orders pa
 Disallow: /v3replaced # Site should be eventually removed
 Disallow: /odot/projects/pages/project-details.aspx?project=18564 #Temp removal
 Disallow: /ODOT/projects/pages/project-details.aspx?project=18564 #Temp removal
+Disallow: /dor/programs/property/Pages/exemptions-manual.aspx #added per ticket 115081
+Disallow: /DOR/programs/property/Pages/exemptions-manual.aspx (case variation)
 Allow: /_vti_bin/Lists.asmx
 Allow: */_vti_bin/Lists.asmx
 Allow: /_vti_bin/Lists.asmx
@@ -128,3 +130,12 @@ Allow: /WCB/dcbs_index.html
 Allow: /wcb/dcbs_index.html # (case variation)
 Allow: /WCB/Orders
 Allow: /wcb/Orders # (case variation)
+Allow: /wcb/dcbs_index2.html
+Allow: /WCB/dcbs_index2.html # (case variation)
+User-agent: thunderstonesa
+Allow: /WCB/dcbs_index.html
+Allow: /wcb/dcbs_index.html # (case variation)
+Allow: /WCB/Orders
+Allow: /wcb/Orders # (case variation)
+Allow: /wcb/dcbs_index2.html
+Allow: /WCB/dcbs_index2.html # (case variation)

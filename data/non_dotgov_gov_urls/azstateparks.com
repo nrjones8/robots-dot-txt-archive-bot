@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+# robots.txt for https://azstateparks.com/
+
+User-agent: *
+Disallow: /reserve/tours/availableTours.html?tourDate= # Requires date parameters
+Disallow: /reserve/tours/alerts.html?startDate= # Alert includes
+Disallow: /reserve/cabins/alerts.html?startDate= 
+Disallow: /reserve/camping/alerts.html?startDate= 

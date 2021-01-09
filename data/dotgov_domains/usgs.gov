@@ -23,8 +23,6 @@ Disallow: /centers/hif
 Disallow: /hif-themes/
 Disallow: /hif-topics/
 Disallow: /hif-non-theme-topics/
-Disallow: /special-topic/dorian
-Disallow: /special-topic/hurricane-dorian
 Disallow: /dorian-themes/
 Disallow: /dorian-topics/
 Disallow: /dorian-non-theme-topics/
@@ -106,6 +104,7 @@ Disallow: /envhealthprog-non-theme-topics/
 Disallow: /media/images/*logo*
 Disallow: /science-centers-and-observatories/
 Disallow: /locations/
+Disallow: /program/
 Disallow: /*-themes/
 Disallow: /*-topics/
 Disallow: /*-non-theme-topics/
@@ -113,6 +112,7 @@ Disallow: /cost-centers/
 Disallow: /connect/
 Disallow: /cost-center/
 Disallow: /science-centers/
+Disallow: /special-topics/
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/
@@ -217,21 +217,15 @@ Disallow: /wret-topics/
 
 #------
 #SPECIAL TOPICS
-#DROUGHT
-Disallow: /special-topic/drought
 #FLOODS
-Disallow: /special-topic/floods
 Disallow: /floods-themes/
 Disallow: /floods-topics/
 #BIG SUR
-Disallow: /special-topic/big-sur-landslide
 Disallow: /big-sur-themes/
 #MICROBIOME
-Disallow: /special-topic/microbiome
 Disallow: /microbiome-themes/
 Disallow: /microbiome-topics/
 #MISSISSIPPI
-Disallow: /special-topic/mississippi-river
 Disallow: /mississippi_themes/
 Disallow: /mississippi_topics/
 #------
@@ -408,6 +402,7 @@ Disallow: /innovation-topics/
 Disallow: /lsc-themes/
 Disallow: /lsc-topics/
 #LHP LANDSLIDE HAZARDS PROGRAM
+Disallow: /program/landslide-hazards-program
 Disallow: /lhp-themes/
 Disallow: /lhp-topics/
 #LRMA LAND RESOURCES MA

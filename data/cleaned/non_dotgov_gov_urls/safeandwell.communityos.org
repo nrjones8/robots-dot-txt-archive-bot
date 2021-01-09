@@ -1,1 +1,44 @@
-Request failed
+#  robots.txt
+#
+#  Tells robots (aka: spiders, crawlers) where they can
+#  and cannot go.
+#
+#  Note that there is no "Allow" directive.  Also, you cannot
+#  use "*" outside of the 'User-agent' directive.
+#
+#  Each folder except the local folder should be disallowed.
+#
+User-agent: *
+Disallow: /ad_site
+Disallow: /admin
+Disallow: /auto
+Disallow: /clientkb
+Disallow: /core
+Disallow: /cos
+Disallow: /docs
+Disallow: /errors
+Disallow: /forum
+Disallow: /HMIS
+Disallow: /include
+Disallow: /language
+Disallow: /lib
+Disallow: /nextpath
+Disallow: /path
+Disallow: /pro
+Disallow: /prototypes
+Disallow: /reports
+Disallow: /scripts
+Disallow: /step
+Disallow: /subviews
+Disallow: /system
+Disallow: /tcf
+Disallow: /temp
+Disallow: /tempcode
+Disallow: /testing
+Disallow: /training
+Disallow: /vl_admin
+Disallow: /witango
+Disallow: /WitangoAdmin
+Disallow: /Witango5Admin
+Disallow: /z_eda
+Disallow: /zf/googlemaps/index/
