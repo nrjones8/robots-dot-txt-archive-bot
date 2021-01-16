@@ -1,24 +1,43 @@
 #########################################################################
 # robots.txt generated at http://www.mcanerin.com			#
-#File Name	:robots.txt						#
+#File Name	:robots.txt		 				#
 #Date Created	:Feb 15th, 2013						#
 #Descr		:This file is used for temp sites and symlinked to dir.	#
 #Author		:Charlie						#
 #########################################################################
-User-agent: *
+User-agent: Gigabot
 Disallow: /
+User-agent: Scrubby
+Disallow: /
+User-agent: Robozilla
+Disallow: /
+User-agent: Nutch
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: naverbot
+Disallow: /
+User-agent: yeti
+Disallow: /
+User-agent: asterias
+Disallow: /
+User-agent: semrushbot
+Disallow: /
+User-agent: *
+Crawl-delay: 120
 ##Block or Allow Dirs below##
 Disallow: /cgi-bin/
-Disallow: /css/
+#Disallow: /css/
 Disallow: /docs/
 Disallow: /includes/
-Disallow: /images/
-Disallow: /js/
+#Disallow: /images/
+#Disallow: /js/
 Disallow: /lib/
-Disallow: /rss/
 Disallow: /search/
 Disallow: /stats/
 Disallow: /templates/
-Disallow: /themes/
+#Disallow: /themes/
 Disallow: /temp_pa/
+##Sitemap leave or remove
+#Sitemap: /sitemap_protocol.php
 Disallow: /docs/

@@ -7,5 +7,5 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /http://www.edgeofthewilderness.com
-Disallow: /http://www.northitascaelectric.com/news/calendar.html
+Disallow: /https://www.edgeofthewilderness.org/community-calendar.html
 Disallow: /http://www.edgeofthewilderness.com

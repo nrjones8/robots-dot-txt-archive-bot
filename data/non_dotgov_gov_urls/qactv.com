@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='qac.org', port=80): Max retries exceeded with url: /410/Public-Information---QACTV (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff8e8f43130>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

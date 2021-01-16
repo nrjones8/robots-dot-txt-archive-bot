@@ -9,6 +9,7 @@ Disallow: /apps/
 Disallow: /staffdirectory-text.html
 Disallow: /hosting.html
 Disallow: /bookshelf.html
+Disallow: /dalyaward.html
 Disallow: /home-slider.html
 Disallow: /flash.html
 Disallow: /gif-hosting.html
@@ -20,4 +21,3 @@ Disallow: /hosting1.html
 Disallow: /hold031920.html
 Disallow: /ppe.html
 Disallow: /bpsbookshelf.html
-Disallow: /dalyawardnominations.html

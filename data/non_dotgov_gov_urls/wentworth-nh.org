@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /_notes/ 	# Disallow the _notes pages folder
-Disallow: /common/	# Disallow the common folder
-Disallow: /img/ 	# Disallow the images folder
-Disallow: /error-pages/ 	# Disallow the error pages folder
-Disallow: /prototype # Disallow the prototype folder
-Disallow: /templates	#Disallow the templates folder
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='wentworth-nh.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0736faa7c0>, 'Connection to wentworth-nh.org timed out. (connect timeout=15)'))"}

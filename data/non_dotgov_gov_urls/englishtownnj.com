@@ -1,7 +1,1 @@
-Sitemap: http://englishtownnj.com/sitemap.xml
-Sitemap: http://englishtownnj.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://englishtownnj.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='englishtownnj.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f07371ccee0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

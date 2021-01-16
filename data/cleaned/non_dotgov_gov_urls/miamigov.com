@@ -268,6 +268,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Management-Budget-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Copy-of-Special-Terms-Conditions-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -380,6 +381,12 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Procurement-Department-Code-of-Ethics
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Procurement-Performance-Analytics
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Purchase-Order-Terms-and-Conditions
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/General-Terms-Conditions-IFBv1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/General-Terms-Conditions-RFPv1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Dinner-Key-Mooring-Facility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Marina-Stadium-Marina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Marine-Stadium-Marina
@@ -405,6 +412,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Sustainability
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions-IFB
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions-RFPQ
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Speical-Terms-Conditions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Speical-Terms-Conditions_version-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
@@ -1155,6 +1166,7 @@ Disallow: /Government/Departments-Organizations/Copy-of-Guide-to-Doing-Business-
 Disallow: /Government/Departments-Organizations/Copy-of-Housing-Community-Development
 Disallow: /Government/Departments-Organizations/Copy-of-Innovation-and-Technology-DoIT-1
 Disallow: /Government/Departments-Organizations/Copy-of-Management-Budget-1
+Disallow: /Government/Departments-Organizations/Copy-of-Special-Terms-Conditions-1
 Disallow: /Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -1267,6 +1279,12 @@ Disallow: /Government/Departments-Organizations/Procurement/Procurement
 Disallow: /Government/Departments-Organizations/Procurement/Procurement-Department-Code-of-Ethics
 Disallow: /Government/Departments-Organizations/Procurement/Procurement-Performance-Analytics
 Disallow: /Government/Departments-Organizations/Procurement/Purchase-Order-Terms-and-Conditions
+Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools
+Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/General-Terms-Conditions-IFBv1
+Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/General-Terms-Conditions-RFPv1
+Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
+Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
+Disallow: /Government/Departments-Organizations/Procurement/Special-Terms-Conditions-IFB
 Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Dinner-Key-Mooring-Facility
 Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Marina-Stadium-Marina
 Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Marine-Stadium-Marina
@@ -1292,6 +1310,10 @@ Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/New-
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /Government/Departments-Organizations/Resilience-and-Sustainability
+Disallow: /Government/Departments-Organizations/Special-Terms-Conditions
+Disallow: /Government/Departments-Organizations/Special-Terms-Conditions-IFB
+Disallow: /Government/Departments-Organizations/Special-Terms-Conditions-RFPQ
+Disallow: /Government/Departments-Organizations/Speical-Terms-Conditions
 Disallow: /Government/Departments-Organizations/Speical-Terms-Conditions_version-1
 Disallow: /Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
