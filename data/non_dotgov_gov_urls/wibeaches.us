@@ -1,13 +1,1 @@
-User-Agent: gsa-crawler
-Disallow: /traverse/f?p=BEACH*
-
-# MJ12bot/v1.4.3; http://www.majestic12.co.uk/bot.php?+ doesn't support the
-# Crawl-delay directive. We are currently blocking it on the apache side
-# 10/2/2012 --dekester
-
-User-Agent: MJ12bot
-Disallow: /apex/f?p=BEACH*
-
-User-agent: *
-Crawl-delay: 10
-
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

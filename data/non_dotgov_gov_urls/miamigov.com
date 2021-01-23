@@ -126,7 +126,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/emerge
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Update
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Updates/Resources
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/estart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/Copy-of-Background-Images
@@ -208,6 +207,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-2-Commissioner-Ken-Russell-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-4-Commissioner-Manolo-Reyes-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/climatechange/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Heat
@@ -365,6 +365,20 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision-TEST
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-033-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-037-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-039-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-042-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-043-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-038
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-039
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-040
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-043
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
@@ -551,7 +565,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-UDRB-Applica
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Union-Negotiation-Meeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-virginiakey-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Web-Request-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/eStart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/film-permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Find-Your-Commissioner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/GIS-Land-Development-Application
@@ -725,6 +738,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Z
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Change-Property-Zoning-Rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Copy-of-Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Copy-of-Get-a-Utility-Permit-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Copy-of-Make-a-Protocol-Request-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Dig-or-Construct-on-Roadway-Public-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Dig-or-Construct-on-Roadway-Public-Right-of-WayExcavate
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-BidSync
@@ -751,6 +765,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-or-Clos
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Historical-Collection
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Make-a-Protocol-Request
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/New-page-8
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
@@ -1023,7 +1038,6 @@ Disallow: /emerge
 Disallow: /Emergency-Update
 Disallow: /Emergency-Updates
 Disallow: /Emergency-Updates/Resources
-Disallow: /estart
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images
@@ -1106,6 +1120,7 @@ Disallow: /Government/City-Officials/Copy-of-District-1-Commissioner-Alex-Diaz-d
 Disallow: /Government/City-Officials/Copy-of-District-2-Commissioner-Ken-Russell-2
 Disallow: /Government/City-Officials/Copy-of-District-4-Commissioner-Manolo-Reyes-1
 Disallow: /Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
+Disallow: /Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /Government/ClimateChange/Climate-Change-Impacts
 Disallow: /Government/climatechange/Flooding
 Disallow: /Government/ClimateChange/Heat
@@ -1263,6 +1278,20 @@ Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision-TEST
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/New-page
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-033-1
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-037-1
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-039-1
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-042-1
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-043-1
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-038
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-039
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-040
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-043
+Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
@@ -1455,7 +1484,6 @@ Disallow: /redirects/Copy-of-UDRB-Application-CheckList-PDF-1
 Disallow: /redirects/Copy-of-Union-Negotiation-Meeting-1
 Disallow: /redirects/Copy-of-virginiakey-1
 Disallow: /redirects/Copy-of-Web-Request-1
-Disallow: /redirects/eStart
 Disallow: /redirects/film-permits
 Disallow: /redirects/Find-Your-Commissioner
 Disallow: /redirects/GIS-Land-Development-Application
@@ -1629,6 +1657,7 @@ Disallow: /Services/Building-Permitting/Zoning-Questions/Copy-of-View-Bi-annual-
 Disallow: /Services/Change-Property-Zoning-Rezone
 Disallow: /Services/Copy-of-Appeal-a-Warrant-or-Waiver
 Disallow: /Services/Copy-of-Get-a-Utility-Permit-1
+Disallow: /Services/Copy-of-Make-a-Protocol-Request-1
 Disallow: /Services/Dig-or-Construct-on-Roadway-Public-Right-of-Way
 Disallow: /Services/Dig-or-Construct-on-Roadway-Public-Right-of-WayExcavate
 Disallow: /Services/Doing-Business/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-BidSync
@@ -1655,6 +1684,7 @@ Disallow: /Services/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Work
 Disallow: /Services/Get-a-Utility-Permit
 Disallow: /Services/Historical-Collection
 Disallow: /Services/Make-a-Protocol-Request
+Disallow: /Services/Make-a-Protocol-Request-D5
 Disallow: /Services/New-page-8
 Disallow: /Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners

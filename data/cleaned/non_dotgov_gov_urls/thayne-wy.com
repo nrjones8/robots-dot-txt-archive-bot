@@ -1,11 +1,1 @@
-User-agent: *
-Disallow: /Admin/
-Disallow: /App_Code/
-Disallow: /App_Data/
-Disallow: /Bin/
-Disallow: /Controls/
-Disallow: /User/
-Disallow: /App_WebReferences/
-Disallow: /tree2/
-Disallow: /backup/
-Disallow: /sf/
+Request failed

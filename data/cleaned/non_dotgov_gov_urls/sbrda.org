@@ -1,2 +1,1 @@
-ï»¿User-agent: *
-Disallow:
+Request failed

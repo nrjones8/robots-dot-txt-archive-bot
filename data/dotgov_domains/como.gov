@@ -3,12 +3,13 @@ Disallow: /_mm/
 Disallow: /_notes/
 Disallow: /_baks/
 Disallow: /MMWIP/
-Disallow: /CMS/
+Disallow: /CMS/*
 Disallow: bowhunt.php
 Disallow: bus_all_lic_xml.cfm
-Disallow: business_license.cfm
+Disallow: *business_license.cfm
 Disallow: health_inspections/xml.php
 Disallow: fire/performance-dashboard/
+Disallow: health/appointments*
 Allow: /CMS/granicus/downloadfile*
 Allow: /CMS/pressreleases/view*
 Allow: /CMS/pressreleases/directory*

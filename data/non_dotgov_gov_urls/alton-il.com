@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /customCode
-Disallow: /inc
-Disallow: /email
-Sitemap: http://www.cityofaltonil.com/sitemap.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

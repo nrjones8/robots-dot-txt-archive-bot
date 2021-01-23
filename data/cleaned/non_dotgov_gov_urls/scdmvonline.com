@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /pagenotfound
-Disallow: /sitecore/
+Got an HTML response

@@ -1,1 +1,1 @@
-404 Not Found
+Got an HTML response

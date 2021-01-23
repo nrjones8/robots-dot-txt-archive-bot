@@ -43,6 +43,7 @@ Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
+Disallow: /search
 Disallow: /search/
 Disallow: /user/register/
 Disallow: /user/password/
@@ -53,6 +54,7 @@ Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
+Disallow: /index.php/search
 Disallow: /index.php/search/
 Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/

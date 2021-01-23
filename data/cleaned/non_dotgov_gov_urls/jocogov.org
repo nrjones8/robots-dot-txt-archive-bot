@@ -77,6 +77,9 @@ Disallow: /user/*/track
 Disallow: /user/*/track?page=*
 # no access to seo test - dada page
 Disallow: /dada
+# no access to aging dashboard until after publish
+Disallow: /aging-resources-guide
+Disallow: /aging-resources-guide/*
 # Googlebot picked up strange homepage URLs somewhere
 Disallow: /home/*
 sitemap: https://www.jocogov.org/sitemap.xml

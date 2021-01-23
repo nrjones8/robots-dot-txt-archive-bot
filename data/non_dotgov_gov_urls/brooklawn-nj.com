@@ -1,8 +1,1 @@
-User-Agent: *
-Disallow: /admin/
-Disallow: /utils/
-Disallow: /forms/
-Disallow: /users/
-Disallow: /session_pair_phase_1$
-Disallow: /session_pair_phase_2?token=*
-Sitemap: http://www.brooklawn-nj.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lostredirect.dnsmadeeasy.com', port=80): Max retries exceeded with url: /lostredirect.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f00939ef1c0>, 'Connection to lostredirect.dnsmadeeasy.com timed out. (connect timeout=15)'))"}
