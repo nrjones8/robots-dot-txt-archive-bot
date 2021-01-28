@@ -33,7 +33,10 @@ def get_and_save_robots_txt(domain_dict):
             robots_url,
             allow_redirects=True,
             timeout=15,
-            verify=False
+            verify=False,
+            headers={
+                'User-Agent': 'robotst.txt db (https://robots-dot-txt-db.com/)'
+            }
         )
     except Exception as e:
         print('Could not get robots.txt file for {}'.format(robots_url))
