@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.cityofdickson.com/sitemap.xml
+User-agent: *
+

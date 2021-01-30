@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Crawl-delay: 1
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /OLD_SITE/

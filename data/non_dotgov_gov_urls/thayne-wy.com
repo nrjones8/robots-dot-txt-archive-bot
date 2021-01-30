@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='thayne-wy.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /Admin/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /Bin/
+Disallow: /Controls/
+Disallow: /User/
+Disallow: /App_WebReferences/
+Disallow: /tree2/
+Disallow: /backup/
+Disallow: /sf/

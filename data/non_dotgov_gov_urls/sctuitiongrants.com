@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+Sitemap: https://sctuitiongrants.org/sitemap.xml
+Sitemap: https://sctuitiongrants.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

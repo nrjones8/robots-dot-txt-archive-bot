@@ -1,1 +1,25 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+Disallow: /community/town-calendar-of-events/action~posterboard/
+Disallow: /community/town-calendar-of-events/action~agenda/
+Disallow: /community/town-calendar-of-events/action~oneday/
+Disallow: /community/town-calendar-of-events/action~month/
+Disallow: /community/town-calendar-of-events/action~week/
+Disallow: /community/town-calendar-of-events/action~stream/
+Disallow: /community/town-calendar-of-events/action~undefined/
+Disallow: /community/town-calendar-of-events/action~http:/
+Disallow: /community/town-calendar-of-events/action~default/
+Disallow: /community/town-calendar-of-events/action~poster/
+Disallow: /community/town-calendar-of-events/action~*/

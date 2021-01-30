@@ -1,1 +1,2 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+<!-- SHTML Wrapper - 404 Not Found -->
+[an error occurred while processing this directive]

@@ -1,1 +1,14 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+# Default modx exclusions
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/	
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+# Sitemap: http://example.com/sitemap.xml

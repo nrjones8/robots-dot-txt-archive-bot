@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-agent: MJ12bot
+Disallow: /
+
+User-Agent: *
+Disallow: /admin/
+Disallow: /portal/
+Disallow: /_int/
+Disallow: /img/
+Disallow: /js/
+Disallow: /style/

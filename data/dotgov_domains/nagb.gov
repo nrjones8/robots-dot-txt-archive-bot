@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /content/members
+Disallow: /content/nomination
+Disallow: /content/nominations
+Disallow: /content/login
+
+Sitemap: https://www.nagb.gov/sitemap.xml

@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: 
+Crawl-delay: 15
+Sitemap: http://dev.oceanviewde.com/sitemap.xml
+

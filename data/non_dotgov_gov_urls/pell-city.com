@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+Sitemap: https://pell-city.com/sitemap.xml
+Sitemap: https://pell-city.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

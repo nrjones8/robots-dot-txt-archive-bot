@@ -1,1 +1,5 @@
-Got an HTML response
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Crawl-delay: 5

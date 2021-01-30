@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/

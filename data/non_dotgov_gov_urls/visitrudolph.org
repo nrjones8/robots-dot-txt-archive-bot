@@ -1,1 +1,14 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+# Others
+User-agent: *
+Allow: /index.php
+Allow: /gallery.php
+Allow: /calendar.php
+Allow: /minutes.php
+Allow: /500.shtml
+Allow: /500.php
+Allow: /404.shtml
+Allow: /403.shtml
+Allow: /401.shtml
+Allow: /400.shtml
+
+Sitemap: https://villageofrudolphwi.org/sitemap.xml

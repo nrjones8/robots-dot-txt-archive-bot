@@ -1,1 +1,25 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+Disallow: /calendar-of-events/action~posterboard/
+Disallow: /calendar-of-events/action~agenda/
+Disallow: /calendar-of-events/action~oneday/
+Disallow: /calendar-of-events/action~month/
+Disallow: /calendar-of-events/action~week/
+Disallow: /calendar-of-events/action~stream/
+Disallow: /calendar-of-events/action~undefined/
+Disallow: /calendar-of-events/action~http:/
+Disallow: /calendar-of-events/action~default/
+Disallow: /calendar-of-events/action~poster/
+Disallow: /calendar-of-events/action~*/

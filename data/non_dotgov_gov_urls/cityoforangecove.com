@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Disallow:
+Sitemap:http://cityoforangecove.com/site_map.xml

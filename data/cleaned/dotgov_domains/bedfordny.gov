@@ -1,1 +1,14 @@
-Got an HTML response
+User-agent: *
+Disallow: /calendar-3/action~posterboard/
+Disallow: /calendar-3/action~agenda/
+Disallow: /calendar-3/action~oneday/
+Disallow: /calendar-3/action~month/
+Disallow: /calendar-3/action~week/
+Disallow: /calendar-3/action~stream/
+Disallow: /calendar-3/action~undefined/
+Disallow: /calendar-3/action~http:/
+Disallow: /calendar-3/action~default/
+Disallow: /calendar-3/action~poster/
+Disallow: /calendar-3/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

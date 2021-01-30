@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /download/
+Disallow: /cjis-security-policy-risk-assessment-lite/
+
+User-agent: Swiftbot
+Disallow: /download/392/
+Disallow: /download/393/
+Disallow: /cjis-security-policy-risk-assessment-lite/
+Disallow: /gamblingissues/

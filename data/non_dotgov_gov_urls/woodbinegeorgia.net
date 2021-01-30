@@ -1,1 +1,10 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Sitemap: http://woodbinegeorgia.net/sitemap.xml
+
+User-agent: *
+Disallow: /blog
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: https://woodbinegeorgia.net/blog/sitemap.xml

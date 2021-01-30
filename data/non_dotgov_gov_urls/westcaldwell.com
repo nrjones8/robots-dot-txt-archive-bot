@@ -1,1 +1,31 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+User-agent:*
+Disallow: /popup.aspx
+Disallow: /content/search.aspx
+Disallow: /QScendPublic/
+Disallow: /QscendPublic/
+Disallow: /qscendPublic/
+Disallow: /QScendpublic/
+Disallow: /Qscendpublic/
+Disallow: /qscendpublic/
+Disallow: /QCore/
+Disallow: /Qcore/
+Disallow: /qcore/
+Disallow: /QContent/
+Disallow: /Qcontent/
+Disallow: /qcontent/
+Disallow: /QAlert/
+Disallow: /Qalert/
+Disallow: /qalert/
+Disallow: /QScheduler/
+Disallow: /Qscheduler/
+Disallow: /qscheduler/
+Disallow: /QPolling/
+Disallow: /Qpolling/
+Disallow: /qpolling/
+Disallow: /QNotify/
+Disallow: /Qnotify/
+Disallow: /qnotify/
+Disallow: /QForms/
+Disallow: /Qforms/
+Disallow: /qforms/
+Crawl-delay: 15

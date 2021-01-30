@@ -1,1 +1,19 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /home/action~posterboard/
+Disallow: /home/action~agenda/
+Disallow: /home/action~oneday/
+Disallow: /home/action~month/
+Disallow: /home/action~week/
+Disallow: /home/action~stream/
+Disallow: /home/welcome/action~posterboard/
+Disallow: /home/welcome/action~agenda/
+Disallow: /home/welcome/action~oneday/
+Disallow: /home/welcome/action~month/
+Disallow: /home/welcome/action~week/
+Disallow: /home/welcome/action~stream/

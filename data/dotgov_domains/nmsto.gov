@@ -1,1 +1,25 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /home/action~posterboard/
+Disallow: /home/action~agenda/
+Disallow: /home/action~oneday/
+Disallow: /home/action~month/
+Disallow: /home/action~week/
+Disallow: /home/action~stream/
+Disallow: /home/action~undefined/
+Disallow: /home/action~http:/
+Disallow: /home/action~default/
+Disallow: /home/action~poster/
+Disallow: /home/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/

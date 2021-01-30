@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Business-Resources
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/accessmiamijobs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/adjacent
@@ -207,6 +210,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-4-Commissioner-Manolo-Reyes-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-of-Miami-Open-Data
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/climatechange/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Heat
@@ -455,7 +459,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solut
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Forever-TEST
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/New-page-2/Resources
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/New-page-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Covid-Complaints
@@ -470,6 +474,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Empl
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/grapeland
@@ -1037,6 +1042,9 @@ Disallow: /emerge
 Disallow: /Emergency-Update
 Disallow: /Emergency-Updates
 Disallow: /Emergency-Updates/Resources
+Disallow: /estart/Home/Tabs
+Disallow: /estart/Home/Tabs/Business-Resources
+Disallow: /estart/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images
@@ -1120,6 +1128,7 @@ Disallow: /Government/City-Officials/Copy-of-District-2-Commissioner-Ken-Russell
 Disallow: /Government/City-Officials/Copy-of-District-4-Commissioner-Manolo-Reyes-1
 Disallow: /Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
 Disallow: /Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
+Disallow: /Government/City-of-Miami-Open-Data
 Disallow: /Government/ClimateChange/Climate-Change-Impacts
 Disallow: /Government/climatechange/Flooding
 Disallow: /Government/ClimateChange/Heat
@@ -1368,7 +1377,7 @@ Disallow: /Government/Miami-Climate-Solutions/Storm-Preparedness
 Disallow: /Government/MiamiClimateSolutions/Storms
 Disallow: /Government/Miami-Climate-Solutions/Storms
 Disallow: /Government/Miami-Forever-TEST
-Disallow: /Government/New-page-2/Resources
+Disallow: /Government/New-page-2
 Disallow: /Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /Government/Reopening-Miami/Business-Resources
 Disallow: /Government/Reopening-Miami/Covid-Complaints
@@ -1383,6 +1392,7 @@ Disallow: /Government/Reopening-Plan/Employment-Job-Resources
 Disallow: /Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /Government/Reopening-Plan/Resources
 Disallow: /Government/Shelly-Long
+Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /Government/Videos/New-page
 Disallow: /Government/Videos/Video-Player
 Disallow: /grapeland

@@ -1,1 +1,14 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Disallow: /scheduler/action~posterboard/
+Disallow: /scheduler/action~agenda/
+Disallow: /scheduler/action~oneday/
+Disallow: /scheduler/action~month/
+Disallow: /scheduler/action~week/
+Disallow: /scheduler/action~stream/
+Disallow: /scheduler/action~undefined/
+Disallow: /scheduler/action~http:/
+Disallow: /scheduler/action~default/
+Disallow: /scheduler/action~poster/
+Disallow: /scheduler/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

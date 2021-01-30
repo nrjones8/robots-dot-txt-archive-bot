@@ -1,1 +1,3 @@
-403 - Forbidden | Access to this page is forbidden.
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

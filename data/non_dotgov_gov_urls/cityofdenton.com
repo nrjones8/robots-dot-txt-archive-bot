@@ -1,5 +1,1 @@
-User-agent: "Arachni/v1.5.1"
-Disallow: /
-
-User-agent: *
-Disallow:
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofdenton.com', port=80): Read timed out. (read timeout=15)"}

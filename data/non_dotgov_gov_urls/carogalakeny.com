@@ -1,1 +1,2 @@
-You don't have access to this. Call with any questions or changes.
+User-agent: *
+Disallow: /ohs71/

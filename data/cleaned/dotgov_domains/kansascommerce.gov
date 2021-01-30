@@ -1,1 +1,7 @@
-Got an HTML response
+# Default Flywheel robots file
+User-agent: *
+Allow: /*?v
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /*?
+Crawl-delay: 3

@@ -1,1 +1,16 @@
-Got an HTML response
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: MSNBot
+Disallow: 
+User-agent: psbot
+Disallow: 
+User-agent: *
+Disallow: /
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://spartanj.org/sitemap_index.xml

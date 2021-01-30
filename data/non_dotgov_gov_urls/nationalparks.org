@@ -93,5 +93,7 @@ Disallow: /?q=user/logout/
 
 Disallow: /*?
 Allow: /*?page=
+Allow: /*?utm_source=twitter&utm_medium=photopost
 Disallow: /*?page=*&*
 Disallow: /*?page=0*
+Disallow: /*?utm_source=twitter&utm_medium=photopost*

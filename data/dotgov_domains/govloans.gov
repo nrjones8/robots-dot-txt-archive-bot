@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /your-inquiry-has-been-submitted
+Disallow: /manifest.json
+Sitemap: https://www.govloans.gov/sitemap.xml
+Host: https://www.govloans.gov

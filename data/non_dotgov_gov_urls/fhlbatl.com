@@ -1,12 +1,1 @@
-# robots.txt for http://www.fhlbatl.com/
-# Last modified: 01/27/10
-
-# This keeps out all well-behaved robots.
-# Disallow: * is not valid.
-
-User-agent: *
-Disallow: /rootcert/
-Disallow: /onestep/^M
-
-
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='fhlbatl.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa9a7f0aac0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}

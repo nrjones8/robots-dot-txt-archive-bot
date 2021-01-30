@@ -1,4 +1,4 @@
-Sitemap: http://www.cityoflangdon.com/sitemap.xml
+Sitemap: https://www.cityoflangdon.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

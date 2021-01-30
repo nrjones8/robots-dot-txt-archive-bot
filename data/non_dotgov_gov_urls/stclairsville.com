@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+Sitemap: https://stclairsville.com/sitemap.xml
+Sitemap: https://stclairsville.com/news-sitemap.xml
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+

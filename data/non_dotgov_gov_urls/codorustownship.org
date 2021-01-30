@@ -1,1 +1,26 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+# XML Sitemap & Google News version 5.1.2 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: http://codorustownship.org/sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: */xmlrpc.php
+Disallow: */wp-*.php
+Disallow: */trackback/
+Disallow: *?wptheme=
+Disallow: *?comments=
+Disallow: *?replytocom
+Disallow: */comment-page-
+Disallow: *?s=
+Disallow: /calendar-2/action~posterboard/
+Disallow: /calendar-2/action~agenda/
+Disallow: /calendar-2/action~oneday/
+Disallow: /calendar-2/action~month/
+Disallow: /calendar-2/action~week/
+Disallow: /calendar-2/action~stream/
+Disallow: /calendar-2/action~undefined/
+Disallow: /calendar-2/action~http:/
+Disallow: /calendar-2/action~default/
+Disallow: /calendar-2/action~poster/
+Disallow: /calendar-2/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

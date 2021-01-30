@@ -1,8 +1,14 @@
-Sitemap: http://cityofwinterville.com/sitemap.xml
-
 User-agent: *
-Disallow: /resource/components/audio_player/playlist/
-Disallow: /resource/components/flickr_gallery/
-Disallow: /resource/components/google_map/show_iframe/
-Disallow: /resource/components/image_gallery/User-agent: *
-allow: /
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

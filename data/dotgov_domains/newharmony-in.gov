@@ -1,4 +1,6 @@
 User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -6,10 +8,8 @@ Disallow: /calendar/action~month/
 Disallow: /calendar/action~week/
 Disallow: /calendar/action~stream/
 Disallow: /calendar/action~undefined/
-Disallow: /calendar/action~http:/
 Disallow: /calendar/action~default/
 Disallow: /calendar/action~poster/
-Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
 Disallow: /meetings-and-announcements/action~posterboard/
@@ -19,7 +19,8 @@ Disallow: /meetings-and-announcements/action~month/
 Disallow: /meetings-and-announcements/action~week/
 Disallow: /meetings-and-announcements/action~stream/
 Disallow: /meetings-and-announcements/action~undefined/
-Disallow: /meetings-and-announcements/action~http:/
 Disallow: /meetings-and-announcements/action~default/
 Disallow: /meetings-and-announcements/action~poster/
-Disallow: /meetings-and-announcements/action~*/
+
+Sitemap: https://newharmony-in.gov/sitemap.xml
+Sitemap: https://newharmony-in.gov/sitemap.rss

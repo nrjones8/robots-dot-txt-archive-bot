@@ -1,1 +1,12 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+
+# Squirrly SEO Robots
+
+User-agent: *
+Disallow: */trackback/
+Disallow: */xmlrpc.php
+Disallow: /wp-*.php
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Allow: */wp-content/uploads/
+
+

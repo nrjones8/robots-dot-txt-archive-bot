@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='sccourts.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /appealsrosters/
+Disallow: /calendar/
+Disallow: /CDR/
+Disallow: /CRsystem/
+Disallow: /clerks/
+Disallow: /probate/
+Disallow: /notification/
+Disallow: /feedback/
+Disallow: /supremerosters/
+Disallow: /opinions/HTMLFiles/

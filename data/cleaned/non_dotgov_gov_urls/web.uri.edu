@@ -1,1 +1,40 @@
-Got an HTML response
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /search/ #block access to internal search result pages
+Disallow: *?s=* #block access to internal search result pages
+Disallow: *?p=* #block access to pages for which permalinks fails
+Disallow: *&p=* #block access to pages for which permalinks fails
+Disallow: *&preview=* #block access to preview pages
+Disallow: /tag/ #block access to tag pages
+Disallow: /author/ #block access to author pages
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-content/themes
+Disallow: /trackback
+Disallow: /feed
+Disallow: /comments
+#Disallow: /category/*/*
+Disallow: */trackback
+Disallow: */comments
+#Disallow: /*?*
+#Disallow: /*?
+Disallow: /wp-content/muplugins
+Disallow: /wp-content/includes
+Disallow: /wp-content/upgrade
+Disallow: /404 #block access to 404 page
+Allow: /wp-content/blogs.dir
+#Allow: /site/wp-includes/js/jquery/jquery-migrate.min.js?*
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+Allow: /*
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow:
+Allow: /*
+# digg mirror
+User-agent: duggmirror
+Disallow: /
