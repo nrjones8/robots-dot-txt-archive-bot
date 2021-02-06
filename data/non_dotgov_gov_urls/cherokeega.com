@@ -1,2 +1,2 @@
 User-Agent: *
-Disallow: /Communications/
+Disallow: /_images/secure

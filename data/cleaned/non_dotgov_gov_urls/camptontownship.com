@@ -1,6 +1,4 @@
 User-agent: *
-Allow: campton.htm
+Allow: index.htm
 Disallow: /Main
-Disallow: /cgi-bin
-Disallow: /data
-Disallow: /Main/ctsite_2
+Disallow: /Backup

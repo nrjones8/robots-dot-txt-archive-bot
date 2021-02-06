@@ -1,2 +1,1 @@
-User-agent: NinjaBot
-Allow: /
+Request failed

@@ -29,3 +29,4 @@ Disallow: /logs9uh2/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp7y84/
+Disallow: /files/

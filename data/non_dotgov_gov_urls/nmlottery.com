@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /vip-editable.aspx
-Disallow: /get-involved.aspx
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.nmlottery.com/wp-sitemap.xml

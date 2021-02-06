@@ -1,3 +1,4 @@
-Sitemap: http://avondaleboro.net/sitemap.xml
 User-agent: *
-Crawl-delay: 15
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://avondaleboro.net/wp-sitemap.xml

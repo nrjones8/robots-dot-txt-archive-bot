@@ -1,5 +1,1 @@
-Sitemap: https://middletownborough.com/sitemap.xml
-Sitemap: https://middletownborough.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='middletownborough.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f385a154e50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

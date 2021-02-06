@@ -1,5 +1,1 @@
-Sitemap: http://www.florams.com/sitemap.xml
-Sitemap: http://www.florams.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='florams.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3859e06b20>, 'Connection to florams.com timed out. (connect timeout=15)'))"}

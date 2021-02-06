@@ -61,3 +61,9 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 # Querystrings
 Disallow: /*?*=*
+
+# Custom directives
+User-agent: *
+Crawl-delay: 10
+
+Sitemap: https://www.wilsoncenter.org/sitemap.xml

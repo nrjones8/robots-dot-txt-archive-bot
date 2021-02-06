@@ -1,1 +1,3 @@
-The page cannot be displayed because an internal server error has occurred.
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

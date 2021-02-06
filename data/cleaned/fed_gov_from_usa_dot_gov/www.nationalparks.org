@@ -90,5 +90,6 @@ Disallow: /?q=user/logout/
 # NPF-1222, disallowing indexing of view pages & queries
 Disallow: /*?
 Allow: /*?page=
+Allow: /*?utm_*
 Disallow: /*?page=*&*
 Disallow: /*?page=0*

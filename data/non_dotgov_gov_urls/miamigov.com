@@ -68,6 +68,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald-11717
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/New-page-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OC-Test-Register-as-a-Building-Contractor
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OLD-Mayor-Suarez-In-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OLD-Mayor-Suarez-Press
@@ -475,6 +476,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Empl
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/Video-Player
@@ -523,6 +525,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/MFB-Citizens-Oversight-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Miamarina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/miami21
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/MiamiCapital/NewBidsandProposals.html
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/migration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/municode/procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
@@ -590,6 +593,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/sealevelrise
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Senior-Data-Fellow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Special-Events
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/SSPR-Redirect
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Tenant-Migration-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/UDRB-Application-CheckList-PDF
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Union-Negotiation-Meeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Unsafe-Structures
@@ -982,6 +986,7 @@ Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Mayor-Suarez-News
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald-11717
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
+Disallow: /Content-Sandbox/New-page-2
 Disallow: /Content-Sandbox/OC-Test-Register-as-a-Building-Contractor
 Disallow: /Content-Sandbox/OLD-Mayor-Suarez-In-the-News
 Disallow: /Content-Sandbox/OLD-Mayor-Suarez-Press
@@ -1393,6 +1398,7 @@ Disallow: /Government/Reopening-Plan/Employment-Job-Resources
 Disallow: /Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /Government/Reopening-Plan/Resources
 Disallow: /Government/Shelly-Long
+Disallow: /Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /Government/Videos/New-page
 Disallow: /Government/Videos/Video-Player
@@ -1447,6 +1453,7 @@ Disallow: /MFB-Citizens-Oversight-Board
 Disallow: /Miamarina
 Disallow: /miami21
 Disallow: /MiamiCapital/NewBidsandProposals.html
+Disallow: /migration
 Disallow: /municode/procurement
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
@@ -1514,6 +1521,7 @@ Disallow: /redirects/sealevelrise
 Disallow: /redirects/Senior-Data-Fellow
 Disallow: /redirects/Special-Events
 Disallow: /redirects/SSPR-Redirect
+Disallow: /redirects/Tenant-Migration-Instructions
 Disallow: /redirects/UDRB-Application-CheckList-PDF
 Disallow: /redirects/Union-Negotiation-Meeting
 Disallow: /redirects/Unsafe-Structures
