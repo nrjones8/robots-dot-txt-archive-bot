@@ -9,7 +9,6 @@ Disallow: /http://www.grantsburgwifire.org
 Disallow: /https://client.pointandpay.net/web/VillageofGrantsburgTreasurer
 Disallow: /http://www.slhserver1.com/2020burnettcountyguidemap/
 Disallow: /http://www.northmemorial.com/ems/
-Disallow: /http://burnettcountyfun.com/
 Disallow: /http://www.burnettmedicalcenter.com
 Disallow: /https://grantsburgfoodshelf.com/
 Disallow: /http://grantsburgareahistoricalsociety.weebly.com/

@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /calendar/action~posterboard/
-Disallow: /calendar/action~agenda/
-Disallow: /calendar/action~oneday/
-Disallow: /calendar/action~month/
-Disallow: /calendar/action~week/
-Disallow: /calendar/action~stream/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='maquoketaia.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d4d7393a0>, 'Connection to maquoketaia.com timed out. (connect timeout=15)'))"}

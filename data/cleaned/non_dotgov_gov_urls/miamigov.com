@@ -195,6 +195,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/S
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/Sea-Level-Rise-Committee-Meeting-618
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/Sea-Level-Rise-Committee-Meeting-6182018
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/SLRC-Agendas/Sea-Level-Rise-Committee-Meeting-6182018
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-WDRC
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Facilities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Meetings-Agendas/Full-Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Meetings-Agendas/Meetings-Agendas
@@ -261,7 +263,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Civilian-Investigative-Panel
@@ -1117,6 +1118,8 @@ Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/Sea-Level-Rise-Committee-Meeting-618
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/Sea-Level-Rise-Committee-Meeting-6182018
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/SLRC-Agendas/Sea-Level-Rise-Committee-Meeting-6182018
+Disallow: /Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-WDRC
+Disallow: /Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC
 Disallow: /Government/City-Facilities
 Disallow: /Government/City-Meetings-Agendas/Full-Meeting-Calendar
 Disallow: /Government/City-Meetings-Agendas/Meetings-Agendas
@@ -1183,7 +1186,6 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Qua
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Upcoming-Elections-General-and-Special-Elections
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Voter-Information
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections-Frequently-Asked-Questions-FAQs
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel

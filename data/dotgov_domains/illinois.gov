@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_catalogs/
+
+
+
+Sitemap: https://www2qa.illinois.gov:443/sitemap.xml

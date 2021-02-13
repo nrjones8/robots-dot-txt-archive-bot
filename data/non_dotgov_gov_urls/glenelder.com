@@ -19,11 +19,11 @@ Disallow: /covid-19.html
 Disallow: /hunter-breakfast.html
 Disallow: /2018-chili-cook-off.html
 Disallow: /2019-fun-run.html
-Disallow: /gotomeeting-info.html
 Disallow: /2016-funday-schedule.html
 Disallow: /us-24-garage-sale.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
 Disallow: /ge-cloverleaf-4-h.html
-Disallow: /hmpg-header-storage.html
 Disallow: /http://www.glenelder.com/city-library.html
+Disallow: /hmpg-header-storage.html
 Disallow: /storage.html
+Disallow: /gotomeeting-info.html

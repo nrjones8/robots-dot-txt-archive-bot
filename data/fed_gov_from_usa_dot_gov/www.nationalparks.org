@@ -93,6 +93,8 @@ Disallow: /?q=user/logout/
 
 Disallow: /*?
 Allow: /*?page=
-Allow: /*?utm_*
 Disallow: /*?page=*&*
 Disallow: /*?page=0*
+
+User-agent: Twitterbot
+Allow: /*?utm_*

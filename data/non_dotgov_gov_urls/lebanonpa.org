@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.lebanonpa.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: * 
+Disallow: http://www.lebanonpa.org/Lists/User%20Registration%20Request%20History/AllItems.aspx
+Disallow: http://www.lebanonpa.org/SiteReg/Lists/User%20Registration%20Request%20History/AllItems.aspx
+ 
+User-Agent: Googlebot 
+Disallow: http://www.lebanonpa.org/Lists/User%20Registration%20Request%20History/AllItems.aspx
+Disallow: http://www.lebanonpa.org/SiteReg/Lists/User%20Registration%20Request%20History/AllItems.aspx

@@ -1,11 +1,1 @@
-User-Agent: *
-Disallow: /data/
-Disallow: /archivedpages/
-Disallow: /m/
-Disallow: /cgi-bin/
-Disallow: /wn/
-Disallow: /insider/
-Disallow: /special/
-Disallow: /zk/
-Disallow: /zg/
-Disallow: /jicivil/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='wilawlibrary.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d4ea8dcd0>, 'Connection to wilawlibrary.gov timed out. (connect timeout=15)'))"}
