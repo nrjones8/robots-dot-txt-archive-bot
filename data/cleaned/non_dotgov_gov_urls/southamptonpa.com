@@ -28,8 +28,6 @@ Disallow: /scripts/
 Disallow: /Umbraco/
 Disallow: /Umbraco_Client/
 Disallow: /Views/
-# Disallow: //
 User-agent: MJ12bot
 Disallow: /
-# User-agent: BOT
-# Disallow: /
+Sitemap: https://www.ustwp.org/sitemap.xml

@@ -14,6 +14,7 @@ Disallow: /http://www.glenelder.com/waconda-lake.html
 Disallow: /2015-craft-fair.html
 Disallow: /http://www.glenelder.com/history.html
 Disallow: /2019-block-party.html
+Disallow: /2019-motorcycle--car-run.html
 Disallow: /template.html
 Disallow: /covid-19.html
 Disallow: /hunter-breakfast.html

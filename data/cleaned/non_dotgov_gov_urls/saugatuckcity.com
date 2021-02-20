@@ -5,12 +5,9 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /https://saugatuckdouglas.com
-Disallow: /general.html
 Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/saugatuck_mi/0-0-0-6803
 Disallow: /https://www.consumersenergy.com
 Disallow: /about.html
-Disallow: /assessing1.html
-Disallow: /planningzoning.html
 Disallow: /https://www.saugatuckfire.org
 Disallow: /https://www.sdlibrary.org
 Disallow: /https://www.michigangasutilities.com

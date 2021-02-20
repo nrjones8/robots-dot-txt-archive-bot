@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='willacoochee.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d4d75cb20>, 'Connection to willacoochee.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /cache/
+Disallow: /_backup/
+Disallow: /_mygallery/
+Disallow: /_temp/
+Disallow: /_tempalbums/
+Disallow: /_tmpfileop/
+Disallow: /dbboon/
+Disallow: /Flash/
+Disallow: /images/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /stats/
+Disallow: /statshistory/
+Disallow: /WstxSearchResults.html
+Disallow: /WstxSearchResults.php
+Disallow: /QSC/

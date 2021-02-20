@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+User-agent: *
+Disallow: /main/wp-admin/
+Allow: /main/wp-admin/admin-ajax.php

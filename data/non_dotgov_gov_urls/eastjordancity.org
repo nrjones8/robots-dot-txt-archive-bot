@@ -1,3 +1,59 @@
 User-agent: *
+Sitemap: /page-sitemap.xml
+Allow: /wp-admin/admin-ajax.php
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
 Disallow: /wp-admin/
-Disallow: /*add-to-cart=*
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /*.pdf
+Disallow: /*.doc
+Disallow: /*.xls
+Disallow: /*.xlsm
+Noindex: *.pdf
+Crawl-delay: 20
+
+User-agent: GoogleBot
+Allow: /*.js
+Allow: /*.css
+
+User-agent: rogerbot
+Crawl-delay: 10
+User-agent: dotbot
+Crawl-delay: 10
+User-Agent: MJ12bot
+Crawl-delay: 10
+User-Agent: veoozbot
+Crawl-delay: 10
+User-agent: Pinterest
+Crawl-delay: 10
+User-agent: som-gsa-crawler-one
+Crawl-delay: 5
+User-agent: som-gsa-crawler-two
+Crawl-delay: 5
+
+User-agent: Bombora
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: SeznamBot
+Disallow: /
+User-agent: istellabot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+
+
+
+
+

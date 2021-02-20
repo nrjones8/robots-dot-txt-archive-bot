@@ -60,3 +60,6 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+#Custom Files
+Disallow: /sites/default/files/files/2017-06/reasonable-modification-statement.pdf
+Disallow: /sites/default/files/files/2017-06/reasonable-modification-request-form.pdf

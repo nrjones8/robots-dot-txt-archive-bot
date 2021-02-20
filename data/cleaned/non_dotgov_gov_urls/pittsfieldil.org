@@ -18,3 +18,10 @@ Disallow: /events/action~oneday/
 Disallow: /events/action~month/
 Disallow: /events/action~week/
 Disallow: /events/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

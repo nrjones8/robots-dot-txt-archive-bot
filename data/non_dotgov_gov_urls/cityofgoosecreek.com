@@ -13,6 +13,8 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+Sitemap: https://www.cityofgoosecreek.com/sitemap.xml
+
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
