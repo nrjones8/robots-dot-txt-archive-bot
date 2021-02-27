@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+
+User-agent: *
+Disallow: /the-fly-rlw
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://www.sanjuanciudadpatria.com/the-fly-rlw/sitemap.xml

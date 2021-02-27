@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
-Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://kentuckyguard.dodlive.mil/wp-sitemap.xml

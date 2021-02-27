@@ -1,33 +1,5 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
 User-agent: *
-Disallow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Crawl-delay: 60
-
-Sitemap: http://cityofelma.com/sitemap.xml
+Sitemap: https://cityofelma.com/wp-sitemap.xml

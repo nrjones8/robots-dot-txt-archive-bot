@@ -353,6 +353,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Development-of-Regional-Impact-DRI-Landing/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Hurricane-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Intended-Decision-Notifications-Allapattah
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Planning-Department-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
@@ -382,8 +383,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-043
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/New-Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
@@ -506,7 +509,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/Public-Notices
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/Image-Gallery-Test
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/impactfee
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/interimparking
@@ -549,6 +551,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Recreation/Dinner-Key-Ma
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/passwordreset
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/pay
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/payments
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/gis.html
@@ -698,7 +701,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-New-Construction
@@ -715,7 +717,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/P
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Get-a-Solar-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Get-a-Standalone-Tree-Removal-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Get-a-Tree-Permit-New-Construction
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permitting-Documentation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permitting-Documents
@@ -932,8 +933,8 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-News-Item-3
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-TEST-News-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-2
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-3
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-4
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/sandra-test
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
@@ -1294,6 +1295,7 @@ Disallow: /Government/Departments-Organizations/Planning/Copy-of-School-Concurre
 Disallow: /Government/Departments-Organizations/Planning/Development-of-Regional-Impact-DRI-Landing/OLD-DRI-Updates
 Disallow: /Government/Departments-Organizations/Planning/Hurricane-Preparedness
 Disallow: /Government/Departments-Organizations/Planning/Intended-Decision-Notifications-Allapattah
+Disallow: /Government/Departments-Organizations/Planning/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /Government/Departments-Organizations/Planning/Planning-Department-Projects
 Disallow: /Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
 Disallow: /Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
@@ -1323,8 +1325,10 @@ Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appeal
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-043
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
+Disallow: /Government/Departments-Organizations/Planning-Department/New-Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
+Disallow: /Government/Departments-Organizations/Planning-Department-Final/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
@@ -1447,7 +1451,6 @@ Disallow: /Home/Tabs/Public-Notices
 Disallow: /https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /Image-Galleries
 Disallow: /Image-Galleries/Image-Gallery-Test
-Disallow: /Image-Galleries/New-page
 Disallow: /Image-Galleries/TEST-Image-Gallery
 Disallow: /impactfee
 Disallow: /interimparking
@@ -1471,8 +1474,8 @@ Disallow: /LHCC/News-Press/Copy-of-News-Item-3-1
 Disallow: /LHCC/News-Press/Copy-of-TEST-News-1
 Disallow: /LHCC/News-Press/News-Item-1
 Disallow: /LHCC/News-Press/News-Item-2
-Disallow: /LHCC/News-Press/News-Item-3
 Disallow: /LHCC/News-Press/News-Item-4
+Disallow: /LHCC/News-Press/sandra-test
 Disallow: /LHCC/News-Press/TEST-News
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
@@ -1516,6 +1519,7 @@ Disallow: /Parks-Recreation/Dinner-Key-Marina
 Disallow: /passwordreset
 Disallow: /pay
 Disallow: /payments
+Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /planning/gis.html
@@ -1665,7 +1669,6 @@ Disallow: /Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
-Disallow: /Services/Building-Permitting/New-page
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-New-Construction
@@ -1682,7 +1685,6 @@ Disallow: /Services/Building-Permitting/Permit-Catalog/Get-a-Permit-to-Install-W
 Disallow: /Services/Building-Permitting/Permit-Catalog/Get-a-Solar-Permit
 Disallow: /Services/Building-Permitting/Permit-Catalog/Get-a-Standalone-Tree-Removal-Permit-No-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Get-a-Tree-Permit-New-Construction
-Disallow: /Services/Building-Permitting/Permit-Catalog/New-page
 Disallow: /Services/Building-Permitting/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Services/Building-Permitting/Permitting-Documentation
 Disallow: /Services/Building-Permitting/Permitting-Documents

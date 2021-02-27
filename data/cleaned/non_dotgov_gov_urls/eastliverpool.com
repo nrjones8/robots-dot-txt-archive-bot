@@ -1,5 +1,3 @@
-User-agent: * 
-Disallow: /.quarantine/
-Disallow: /.tmb/
-Disallow: /.well-known/
-Disallow: /cgi-bin/
+User-agent: *
+Disallow:
+Sitemap: https://eastliverpool.com/sitemap.xml

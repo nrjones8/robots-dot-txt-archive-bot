@@ -7,6 +7,7 @@ Disallow: /dlink/
 Disallow: /include/
 Disallow: /leftnav/
 Disallow: /special/
+Disallow: /search/
 Disallow: /finance/
 Disallow: /help/
 Disallow: /mbs/cgi-bin/

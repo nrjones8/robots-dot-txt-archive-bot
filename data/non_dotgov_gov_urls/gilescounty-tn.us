@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gilescounty-tn.us', port=80): Read timed out. (read timeout=15)"}
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

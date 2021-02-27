@@ -1,2 +1,1 @@
-<!-- SHTML Wrapper - 404 Not Found -->
-[an error occurred while processing this directive]
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='city-sheridan-wy.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb18b5c9670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
