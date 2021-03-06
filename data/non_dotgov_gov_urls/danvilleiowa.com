@@ -1,3 +1,4 @@
-#robots.txt for all our sites
+# Default /robots.txt File for all Community Architect Partner pages
+
 User-agent: *
-Disallow: /contact_us.php
+Disallow: /cgi-bin/

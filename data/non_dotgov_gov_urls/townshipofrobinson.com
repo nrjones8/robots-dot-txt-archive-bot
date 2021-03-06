@@ -24,6 +24,7 @@ Disallow: /calendar/action~http:/
 Disallow: /calendar/action~default/
 Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
+Crawl-delay: 10
 
 User-agent: SemrushBot-SA
 Allow: /

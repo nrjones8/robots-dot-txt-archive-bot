@@ -1,4 +1,4 @@
-Sitemap: http://www.rogerscity.com/sitemap.xml
+Sitemap: https://www.rogerscity.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

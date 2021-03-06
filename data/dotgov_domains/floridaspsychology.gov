@@ -1,8 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/uploads/wpforms/
-
-Sitemap: https://floridaspsychology.gov/wp-sitemap.xml
-
-Sitemap: https://floridaspsychology.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='floridaspsychology.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe707699eb0>, 'Connection to floridaspsychology.gov timed out. (connect timeout=15)'))"}

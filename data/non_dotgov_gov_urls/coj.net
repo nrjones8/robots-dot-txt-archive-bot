@@ -1,17 +1,1 @@
-#
-# Rule 1 disabling ad crawlers: https://support.google.com/webmasters/answer/1061943?hl=en
-# Checks desktop web page ad quality
-#
-
-User-agent: Googlebot
-User-agent: AdsBot-Google
-Disallow: /
-
-#
-# Rule 2 recommended by Kentico
-#
-
-User-agent: * 
-Disallow: /CMSAdminControls/UI/UniSelector/LiveSelectionDialog.aspx
-
-Sitemap: /all-of-coj/site-map.aspx
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='coj.net', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1125)')))"}

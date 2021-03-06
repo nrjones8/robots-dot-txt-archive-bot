@@ -1,6 +1,5 @@
 User-agent: *
 
-Disallow: /
 Disallow: /globaladmin/
 Disallow: /aspx/admin/
 Disallow: /aspx/setusers.aspx

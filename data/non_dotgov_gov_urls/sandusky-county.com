@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='sanduskycountyoh.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe7080ae400>, 'Connection to sanduskycountyoh.gov timed out. (connect timeout=15)'))"}

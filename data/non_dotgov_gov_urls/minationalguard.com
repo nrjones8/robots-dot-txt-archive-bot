@@ -1,1 +1,1 @@
-Sitemap: http://minationalguard.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='minationalguard.com', port=80): Read timed out. (read timeout=15)"}

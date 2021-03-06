@@ -32,5 +32,6 @@ Disallow: /webdoc/media
 Disallow: /webdoc/demo
 Disallow: /webdoc/about
 Disallow: /webdoc/secure/
+Disallow: /general/#utilities/offices.asp
 User-Agent: archive.org_bot
 Disallow:
