@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /cms/wp-admin/
-Allow: /cms/wp-admin/admin-ajax.php
+Crawl-delay: 30
 
-Sitemap: https://ncrehs.com/wp-sitemap.xml

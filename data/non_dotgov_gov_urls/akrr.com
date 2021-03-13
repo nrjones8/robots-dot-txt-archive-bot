@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='akrr.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe7078a8490>, 'Connection to akrr.com timed out. (connect timeout=15)'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='akrr.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0dbc3d3eb0>, 'Connection to akrr.com timed out. (connect timeout=15)'))"}

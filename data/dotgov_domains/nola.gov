@@ -1,1 +1,40 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+User-agent: *
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /images
+
+User-agent: facebookexternalhit
+Allow: /images
+
+User-agent: Googlebot
+Allow: /
+Disallow: /*?*
+Disallow: /311/quick-access*
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /*?*
+Disallow: /311/quick-access*
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /*?*
+Disallow: /311/quick-access*
+
+User-agent: Googlebot-Video
+Allow: /
+Disallow: /*?*
+Disallow: /311/quick-access*
+
+User-agent: Googlebot-Mobile
+Allow: /
+Allow: /CMSPages/*
+Allow: /*axd?*
+Disallow: /*?*
+Disallow: /311/quick-access*
+
+User-agent: bingbot
+Allow: /
+Disallow: /*?*
+Disallow: /311/quick-access*

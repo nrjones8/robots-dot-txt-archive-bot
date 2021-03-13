@@ -10,12 +10,13 @@ Disallow: /https://saugatuckdouglas.com
 Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/saugatuck_mi/0-0-0-6803
 Disallow: /https://www.consumersenergy.com
 Disallow: /about.html
+Disallow: /city-projects.html
 Disallow: /https://www.saugatuckfire.org
 Disallow: /https://www.sdlibrary.org
 Disallow: /https://www.michigangasutilities.com
-Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
 Disallow: /links.html
 Disallow: /https://www.republicservices.com
+Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
 Disallow: /https://www.sdhistoricalsociety.org
 Disallow: /https://saugatuckpublicschools.com
 Disallow: /https://klswa.com

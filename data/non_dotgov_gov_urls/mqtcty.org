@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='marquettemi.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe707f879d0>, 'Connection to marquettemi.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.marquettemi.gov/wp-sitemap.xml

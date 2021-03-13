@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /eldo-missouri/wp-admin/
+Allow: /eldo-missouri/wp-admin/admin-ajax.php
+
+Sitemap: http://cityofeldoradospringsmo.com/wp-sitemap.xml

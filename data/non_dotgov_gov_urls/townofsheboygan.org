@@ -1,1 +1,20 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofsheboygan.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe708041c70>, 'Connection to townofsheboygan.org timed out. (connect timeout=15)'))"}
+# Block a bot that was causing issues by ignoring Disallow lines below
+User-Agent: OmniExplorer_Bot
+Disallow: /
+
+# Block hotlinking of music files by projectplaylist.com due to perceived user bandwidth theft
+User-agent: projectplaylist-directlink
+Disallow: /
+
+# Block all bots from the core Homestead site
+User-agent: *
+Disallow: /~site/Scripts_ElementMailer
+Disallow: /~site/Scripts_ExternalRedirect
+Disallow: /~site/Scripts_ForSale
+Disallow: /~site/Scripts_HitCounter
+Disallow: /~site/Scripts_NewGuest
+Disallow: /~site/Scripts_RealTracker
+Disallow: /~site/Scripts_Track
+Disallow: /~site/Scripts_WebPoll
+Disallow: /~site/siteapps/showmap.action
+

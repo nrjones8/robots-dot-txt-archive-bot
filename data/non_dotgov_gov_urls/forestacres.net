@@ -13,6 +13,8 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+Sitemap: https://www.forestacres.net/sitemap.xml
+
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images
@@ -88,3 +90,4 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Sitemap: https://www.forestacres.net/sitemap.xml
