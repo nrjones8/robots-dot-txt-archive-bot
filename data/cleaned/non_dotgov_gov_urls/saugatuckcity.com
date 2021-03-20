@@ -16,6 +16,7 @@ Disallow: /links.html
 Disallow: /https://www.republicservices.com
 Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
 Disallow: /https://www.sdhistoricalsociety.org
+Disallow: /https://www.saugatuckdouglasartclub.org/
 Disallow: /https://saugatuckpublicschools.com
 Disallow: /https://klswa.com
 Disallow: /https://bsaonline.com/?uid=126

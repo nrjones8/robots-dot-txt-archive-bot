@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /employees/
-Disallow: /training/
-Disallow: /img/
-Disallow: /ncstate/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='correctionenterprises.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb40e3624c0>, 'Connection to correctionenterprises.com timed out. (connect timeout=15)'))"}

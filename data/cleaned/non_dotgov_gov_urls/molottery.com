@@ -25,8 +25,7 @@ Disallow: /newsletters/*
 Disallow: /pico_css/*
 Disallow: /pico_js/*
 Disallow: /pico_swf/*
-Disallow: /play_responsibly/*
-Disallow: /scams/*
+Disallow: /play_responsibly/reports/*
 Disallow: /WEB-INF/*
 Disallow: /WEB-INF/conf/*
 # 
@@ -49,6 +48,7 @@ Disallow: /errorPage.jsp
 Disallow: /privacy_policy.shtm
 Disallow: /template.shtm
 Disallow: /terms_conditions.shtm
+Disallow: /play_responsibly/rotator.shtm
 # 
 # End of robots.txt file
 #

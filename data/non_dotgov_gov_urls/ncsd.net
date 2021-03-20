@@ -2,6 +2,7 @@
 
 User-agent: Googlebot
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -26,10 +27,13 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/api
+Disallow: /m/classes
+Disallow: /ourpages
 crawl-delay: 1
 
 User-agent: Googlebot-Mobile
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -54,10 +58,13 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/api
+Disallow: /m/classes
+Disallow: /ourpages
 crawl-delay: 1
 
 User-agent: Twitterbot
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -82,10 +89,12 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/api
+Disallow: /m/classes
 crawl-delay: 1
 
 User-agent: W3C-checklink
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -110,10 +119,13 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/
+Disallow: /m/classes/
+Disallow: /ourpages
 crawl-delay: 1
 
 User-Agent: bingbot
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -138,10 +150,12 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/api
+Disallow: /m/classes
 crawl-delay: 1
 
 User-Agent: msnbot
 Disallow: /apps/ajax/
+Disallow: /apps/classes/
 Disallow: /apps/directory/
 Disallow: /apps/events/events_rss.jsp
 Disallow: /apps/events/calendar_pff.jsp
@@ -166,6 +180,7 @@ Disallow: /apps/videos/
 Disallow: /apps/cross.jsp
 Disallow: /apps/temp.jsp
 Disallow: /m/api
+Disallow: /m/classes
 crawl-delay: 1
 
 User-agent: rogerbot

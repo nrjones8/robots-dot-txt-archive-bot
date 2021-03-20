@@ -22,25 +22,19 @@ Disallow: /
 User-agent: jobs.de-Robot
 Disallow: /
 
-# Backlink Analysis
-user-agent: AhrefsBot
-disallow: /
+
 
 # Bot der Leipziger Unister Holding GmbH
 user-agent: UnisterBot
 disallow: /
 
-# http://moz.com/products
-User-agent: dotbot
-Disallow: /
+
 
 # http://www.searchmetrics.com
 User-agent: SearchmetricsBot
 Disallow: /
 
-# http://www.majestic12.co.uk/projects/dsearch/mj12bot.php
-User-agent: MJ12bot
-Disallow: /
+
 
 # http://www.domaintools.com/webmasters/surveybot.php
 User-agent: SurveyBot
@@ -58,10 +52,7 @@ Disallow: /
 User-agent: wotbox
 Disallow: /
 
-# http://www.opensiteexplorer.org/dotbot
-# http://moz.com/researchtools/ose/dotbot
-User-agent: dotbot
-Disallow: /
+
 
 # http://www.meanpath.com/meanpathbot.html
 User-agent: meanpathbot
@@ -189,9 +180,7 @@ Disallow: /
 User-agent: HaosouSpider
 Disallow: /
 
-# http://www.moz.com/dp/rogerbot
-User-agent: rogerbot
-Disallow: /
+
 
 # http://www.openhose.org/bot.html
 User-agent: OpenHoseBot

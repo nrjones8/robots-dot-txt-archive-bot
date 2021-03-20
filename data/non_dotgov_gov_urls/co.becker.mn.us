@@ -1,1 +1,31 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /calendar/
+Disallow: /intranet/
+Disallow: /_mm
+Disallow: /_notes
+Disallow: /_baks
+Disallow: /MMWIP
+Disallow: /calendar
+Disallow: /intranet
+Disallow: /dept/sheriff/data/photos/*
+
+
+User-agent: googlebot
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /calendar/
+Disallow: /intranet/
+Disallow: /_mm
+Disallow: /_notes
+Disallow: /_baks
+Disallow: /MMWIP
+Disallow: /calendar
+Disallow: /intranet
+Disallow: *.csi
+Disallow: /dept/sheriff/data/photos/*

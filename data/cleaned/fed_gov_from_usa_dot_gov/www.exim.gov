@@ -54,8 +54,6 @@ Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
-Disallow: /sites/default/files/pub/
-Disallow: /sites/default/files/999/
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
@@ -79,7 +77,6 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
-Disallow: /now-leaving/
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -90,5 +87,3 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
-Disallow: /?q=user/now-leaving/
-sitemap: https://www.exim.gov/sitemap.xml

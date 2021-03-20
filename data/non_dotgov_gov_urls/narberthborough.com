@@ -1,12 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-includes/
-Allow: /wp-includes/js/
-Allow: /wp-includes/images/
-Disallow: /trackback/
-Disallow: /wp-login.php
-Disallow: /wp-register.php
-Allow: /wp-content/uploads/
-Disallow: /wp-content/plugins/
-Disallow: /readme.html
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}

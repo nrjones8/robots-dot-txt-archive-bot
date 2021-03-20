@@ -1,1 +1,29 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /_next/static/chunks/*.css$
+Allow: /_next/static/chunks/*.css?
+Allow: /_next/static/chunks/*.js$
+Allow: /_next/static/chunks/*.js?
+Allow: /_next/static/chunks/*.gif
+Allow: /_next/static/chunks/*.jpg
+Allow: /_next/static/chunks/*.jpeg
+Allow: /_next/static/chunks/*.png
+Allow: /_next/static/chunks/*.svg
+Allow: /images/*.png
+# Paths (clean URLs)
+Disallow: /api/
