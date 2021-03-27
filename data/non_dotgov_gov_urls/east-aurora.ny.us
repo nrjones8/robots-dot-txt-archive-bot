@@ -1,8 +1,1 @@
-User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
-
-User-agent: googlebot
-Disallow: *.csi
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='east-aurora.ny.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b7e9fb850>, 'Connection to east-aurora.ny.us timed out. (connect timeout=15)'))"}

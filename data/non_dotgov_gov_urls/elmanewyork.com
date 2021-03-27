@@ -1,4 +1,1 @@
-# www.robotstxt.org/
-# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
-
-User-agent: *
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='elmanewyork.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b7ede5c70>, 'Connection to elmanewyork.com timed out. (connect timeout=15)'))"}

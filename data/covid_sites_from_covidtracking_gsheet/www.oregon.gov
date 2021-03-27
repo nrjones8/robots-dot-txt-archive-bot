@@ -148,3 +148,9 @@ Allow: /WCB/Orders
 Allow: /wcb/Orders # (case variation)
 Allow: /wcb/dcbs_index2.html
 Allow: /WCB/dcbs_index2.html # (case variation)
+
+
+# ---------------------- OMB ----------------------
+
+User-agent: Googlebot
+Disallow: /omb/BoardActions/*pdf$

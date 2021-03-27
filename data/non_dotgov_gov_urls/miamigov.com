@@ -791,6 +791,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-Information-on
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/OLD-Rezone-a-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Parks-the-Environment/Plan-a-party-at-Grapeland-Water-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Parks-the-Environment/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree-Kyle
@@ -1086,7 +1087,9 @@ Disallow: /estart/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images
+Disallow: /files/assets/public/document-resources/pdf-docs/city-attorney/org-chart.pdf
 Disallow: /files/assets/public/validation/loaderio-3222d0840f994f184825e15134ccc3fc.txt
+Disallow: /files/sharedassets/public/attorneys/org-chart.pdf
 Disallow: /film-permits
 Disallow: /findyourcommissioner
 Disallow: /firesocialmedia
@@ -1759,6 +1762,7 @@ Disallow: /Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
 Disallow: /Services/OLD-Rezone-a-Property
 Disallow: /Services/Parks-the-Environment/Plan-a-party-at-Grapeland-Water-Park
+Disallow: /Services/Parks-the-Environment/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /Services/Remove-a-tree
 Disallow: /Services/Remove-a-tree-Kyle

@@ -1,8 +1,1 @@
-# Added by SEO Ultimate's Link Mask Generator module
-User-agent: *
-Disallow: /go/
-# End Link Mask Generator output
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofatkins.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4b7ec52850>, 'Connection to cityofatkins.org timed out. (connect timeout=15)'))"}

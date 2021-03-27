@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /news-and-events/events/action~posterboard/
-Disallow: /news-and-events/events/action~agenda/
-Disallow: /news-and-events/events/action~oneday/
-Disallow: /news-and-events/events/action~month/
-Disallow: /news-and-events/events/action~week/
-Disallow: /news-and-events/events/action~stream/
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Sitemap: https://childrensinn.org/wp-sitemap.xml

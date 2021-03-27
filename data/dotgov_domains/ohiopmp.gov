@@ -1,6 +1,5 @@
-﻿User-agent: *
-Crawl-delay: 10
-Disallow: /Service/
+﻿Crawl-delay: 10
+User-agent: * Disallow: /Service/
 Disallow: /App_Code/
 Disallow: /bin/
 Disallow: /fonts/
@@ -8,3 +7,4 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /portal/
 Disallow: /asdfgh/asdfgh.aspx
+Disallow: /*?*

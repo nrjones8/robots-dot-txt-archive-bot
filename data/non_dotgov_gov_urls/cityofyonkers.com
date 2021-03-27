@@ -1,5 +1,1 @@
-User-agent: *
-Crawl-delay: 20
-Disallow: /Scripts
-Disallow: /Admin
-Disallow: /*.asmx*
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

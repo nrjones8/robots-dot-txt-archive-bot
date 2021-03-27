@@ -107,20 +107,24 @@ Disallow: /centers/vsc
 Disallow: /vsc-themes/
 Disallow: /vsc-topics/
 Disallow: /vsc-non-theme-topics/
+Disallow: /centers/volscicenter
+Disallow: /volscicenter-themes/
+Disallow: /volscicenter-topics/
+Disallow: /volscicenter-non-theme-topics/
 #-----GLOBALS-------------
-#Global non-indexing of any item matching paths below. Do not add individual elsewhere.
+#Global non-indexing of any item matching paths below. Do not add individuals elsewhere.
 Disallow: /media/images/*logo*
 Disallow: /science-centers-and-observatories/
 Disallow: /locations/
 Disallow: /program/
 Disallow: /*-themes/
-Disallow: /*-topics/
+#Disallow: /*-topics/
 Disallow: /*-non-theme-topics/
 Disallow: /cost-centers/
 Disallow: /connect/
 Disallow: /cost-center/
 Disallow: /science-centers/
-Disallow: /special-topics/
+#Disallow: /special-topics/
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/

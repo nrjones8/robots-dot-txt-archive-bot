@@ -1,1 +1,3 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+User-agent: *
+Disallow:  
+Sitemap: http://bellairemichigan.com/sitemap.xml

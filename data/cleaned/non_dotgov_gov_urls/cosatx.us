@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /Scripts
-Disallow: /Admin
-Disallow: /*.asmx*
+Got an HTML response

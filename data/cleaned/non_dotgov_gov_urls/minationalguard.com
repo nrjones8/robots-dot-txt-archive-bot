@@ -1,1 +1,1 @@
-Request failed
+Sitemap: http://minationalguard.com/sitemap.xml

@@ -21,6 +21,7 @@ Crawl-delay: 5
 
 User-agent: Googlebot
 Allow: /
+Disallow: /z/
 
 User-agent: Twitterbot
 Disallow:

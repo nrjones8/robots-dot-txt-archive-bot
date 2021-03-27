@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://yeadonborough.org/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='yeadonborough.org', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4b7ea31a00>, 'Connection to yeadonborough.org timed out. (connect timeout=15)'))"}
