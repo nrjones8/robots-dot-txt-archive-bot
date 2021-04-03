@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /-/media/*
+Disallow: /documents/7714906/*
+Disallow: /cobankuniversity$
+Disallow: /cobankwebinar$
+Disallow: /corporate/industry/electric-distribution/*
+Disallow: /government-affairs-update$
+Sitemap: https://cobank.com:443/sitemap.xml

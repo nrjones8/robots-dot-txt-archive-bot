@@ -254,7 +254,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
@@ -501,8 +500,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Featured-Content-Secondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Trolley
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
@@ -650,6 +651,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Plant-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree-Kyle
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Compliance-inspection-for-a-Certificate-of-Use
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Enforcement-inspection-for-a-Certificate-of-Use
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/311-Success
@@ -712,6 +717,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
@@ -769,10 +775,14 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Introducing-eBuilder
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Fire-Department-Feedback-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Garbage-Recycling/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/General-Public-Works-Permit-App
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Construction-Permit-Public-Works
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-An-Alcohol-Reservation-Letter
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Apply-to-Remove-a-Tree-New-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Copy-of-Get-a-Tree-Permit-New-Construction
@@ -795,6 +805,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Plan-a-party-at-Grape
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree-Kyle
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Report-a-Problem/Appeal-a-Warrant-or-Waiver
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation/Tax-Preparation-Documents
@@ -851,6 +862,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Copy-of-Regist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Dig-or-Construct-on-City-Property-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Dig-or-Construct-on-Roadway-Public-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-ACity-Gym-Membership
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/Apply-to-Remove-a-Tree-for-New-Construction
@@ -868,6 +880,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit-t
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-City-Gym-Memebership
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -875,6 +888,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Change-Property-Zoning-Rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Dig-or-Construct-on-City-Property-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Building-Permit
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Get-a-Building-Permit
@@ -882,6 +896,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/Event-to-test-workflow
@@ -1208,7 +1223,6 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /Government/Departments-Organizations/City-Clerk
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
@@ -1455,8 +1469,10 @@ Disallow: /Home/FeaturedContentSecondary
 Disallow: /Home/Featured-Content-Secondary
 Disallow: /Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
+Disallow: /Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
 Disallow: /Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /Home/FeaturedContentSecondary/Miami-Trolley
+Disallow: /Home/FeaturedContentSecondary/New-page
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website
 Disallow: /Home/Homepage/Events/Test-Calendar
@@ -1621,6 +1637,10 @@ Disallow: /Service-Directory/Plant-a-tree-in-the-right-of-way
 Disallow: /Service-Directory/Remove-a-tree
 Disallow: /Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /Service-Directory/Remove-a-tree-Kyle
+Disallow: /Service-Directory/Request-a-Code-Compliance-inspection-for-a-Certificate-of-Use
+Disallow: /Service-Directory/Request-a-Code-Enforcement-inspection-for-a-Certificate-of-Use
+Disallow: /Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use
+Disallow: /Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /Services/311-Success
@@ -1683,6 +1703,7 @@ Disallow: /Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
+Disallow: /Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Building-Permitting/New-page
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-to-Remove-a-Tree-for-Construction
@@ -1740,10 +1761,14 @@ Disallow: /Services/Doing-Business/Get-a-Florida-State-Fertilizer-License
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /Services/Doing-Business/Introducing-eBuilder
+Disallow: /Services/Doing-Business/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /Services/Fire-Department-Feedback-Form
+Disallow: /Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
+Disallow: /Services/Garbage-Recycling/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /Services/General-Public-Works-Permit-App
 Disallow: /Services/Get-a-Construction-Permit-Public-Works
+Disallow: /Services/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Get-An-Alcohol-Reservation-Letter
 Disallow: /Services/Get-a-Permit/Apply-to-Remove-a-Tree-New-Construction
 Disallow: /Services/Get-a-Permit/Copy-of-Get-a-Tree-Permit-New-Construction
@@ -1766,6 +1791,7 @@ Disallow: /Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /Services/Remove-a-tree
 Disallow: /Services/Remove-a-tree-Kyle
 Disallow: /Services/Report-a-Problem/Appeal-a-Warrant-or-Waiver
+Disallow: /Services/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation/New-page
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation/Tax-Preparation-Documents
@@ -1822,6 +1848,7 @@ Disallow: /Services-Folder/Copy-of-Register-as-a-Building-Contractor
 Disallow: /Services-Folder/Dig-or-Construct-on-City-Property-Right-of-Way
 Disallow: /Services-Folder/Dig-or-Construct-on-Roadway-Public-Right-of-Way
 Disallow: /Services-Folder/Get-ACity-Gym-Membership
+Disallow: /Services-Folder/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder/Get-a-Permit/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /Services-Folder/Get-a-Permit/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /Services-Folder/Get-a-Permit/Apply-to-Remove-a-Tree-for-New-Construction
@@ -1839,6 +1866,7 @@ Disallow: /Services-Folder/Get-a-Permit-to-Build-a-Driveway
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Get-City-Gym-Memebership
+Disallow: /Services-Folder/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Appeal-a-Warrant-or-Waiver
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -1846,6 +1874,7 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Apply-to-Remove-a-Tree-for-Co
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Change-Property-Zoning-Rezone
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Dig-or-Construct-on-City-Property-Right-of-Way
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Building-Permit
+Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Apply-for-a-Standalone-Tree-Permit-No-Construction
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Get-a-Building-Permit
@@ -1853,6 +1882,7 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Get-a-Permit-to-
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
+Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Shortcut-Content/Events-Activities/Event-to-test-workflow

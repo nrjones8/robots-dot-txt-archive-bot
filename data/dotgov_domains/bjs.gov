@@ -1,1 +1,11 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.xml$
+Allow: /sitemap.xml
+Crawl-delay: 45
+ 
+# Last line
+Sitemap: https://www.bjs.gov/sitemap.xml
+
+

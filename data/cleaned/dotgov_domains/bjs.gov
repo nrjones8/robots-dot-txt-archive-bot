@@ -1,1 +1,9 @@
-Got an HTML response
+User-agent: *
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.xml$
+Allow: /sitemap.xml
+Crawl-delay: 45
+ 
+# Last line
+Sitemap: https://www.bjs.gov/sitemap.xml

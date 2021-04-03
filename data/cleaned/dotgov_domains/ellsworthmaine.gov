@@ -13,4 +13,3 @@ Disallow: /plugins/
 Disallow: /templates/
 Disallow: /tmp/
 Disallow: /xmlrpc/
-Crawl-delay: 10
