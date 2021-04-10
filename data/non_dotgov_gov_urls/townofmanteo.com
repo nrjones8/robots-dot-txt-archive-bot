@@ -1,3 +1,1 @@
-#robots.txt for all our sites
-User-agent: *
-Disallow: /contact_us.php
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

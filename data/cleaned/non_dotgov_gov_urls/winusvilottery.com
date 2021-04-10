@@ -25,3 +25,4 @@ Disallow: /logs/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp/
+Crawl-delay: 10

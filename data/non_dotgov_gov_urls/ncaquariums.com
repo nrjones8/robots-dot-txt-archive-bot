@@ -76,8 +76,6 @@ Disallow: /admin/
 Disallow: /Admin/
 Disallow: /bin
 Disallow: /Bin
-Disallow: /assets/
-Disallow: /Assets/
 Disallow: /Sitefiles/
 Disallow: /sitefiles/
 Crawl-delay: 30

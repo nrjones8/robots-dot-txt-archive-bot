@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ncids.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /Brief Bank/
+Disallow: /ParentRepresentation/Brief Bank/
+Disallow: /Brief%20Bank/
+Disallow: /ParentRepresentation/Brief%20Bank/
+Disallow: /PwdTest/contactus.html
+

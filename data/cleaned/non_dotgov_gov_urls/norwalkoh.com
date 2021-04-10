@@ -4,6 +4,7 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
 Disallow: /static/
 Disallow:/*?author=*
@@ -31,6 +32,7 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
 Disallow: /static/
 Disallow:/*?author=*
@@ -58,6 +60,7 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
 Disallow: /static/
 Disallow:/*?author=*
@@ -85,6 +88,7 @@ Disallow: /config
 Disallow: /search
 Disallow: /account$
 Disallow: /account/
+Disallow: /commerce/digital-download/
 Disallow: /api/
 Disallow: /static/
 Disallow:/*?author=*

@@ -1,1 +1,0 @@
-Sitemap: http://www.cityofhalsey.com/index.htm/sitemap.xml

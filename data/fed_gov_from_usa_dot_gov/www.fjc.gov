@@ -88,3 +88,7 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+
+# FJC customizations
+# 1/25/2017 - request that interactive IDB pages not be crawled
+Disallow: /research/idb/interactive/
