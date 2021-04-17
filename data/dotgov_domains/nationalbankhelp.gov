@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', BadStatusLine('HTTP/1.1 HTTP 404 Not Found\\r\\n'))"}
+user-agent: gsa-crawler
+Disallow:
+user-agent: *
+Disallow: /404.html
+Sitemap: https://helpwithmybank.gov/sitemap.xml

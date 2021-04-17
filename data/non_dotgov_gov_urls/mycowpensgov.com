@@ -1,12 +1,1 @@
-user-agent: *
-Allow: /
-user-agent: Googlebot
-Allow: /
-User-agent: slurp
-Allow: /
-User-agent: msnbot
-Allow: /
-user-agent: *
-Disallow: /*add-to-cart=*
-
-Sitemap: https://microzoomers.co/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mycowpensgov.com', port=80): Read timed out. (read timeout=15)"}

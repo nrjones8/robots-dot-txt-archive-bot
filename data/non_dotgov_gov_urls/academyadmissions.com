@@ -1,2 +1,3 @@
-User-agent: PowerMapper
-Allow: /
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

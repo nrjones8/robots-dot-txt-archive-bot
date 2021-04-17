@@ -1,3 +1,4 @@
-Sitemap: http://waterfordboro.net/sitemap.xml
 User-agent: *
-Crawl-delay: 15
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://waterfordboro.net/wp-sitemap.xml

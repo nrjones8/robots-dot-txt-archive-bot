@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='midway-nc.gov', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://midway-nc.gov/sitemap.xml
+Sitemap: https://midway-nc.gov/sitemap.rss

@@ -6,4 +6,4 @@ Disallow: /_catalogs/
 
 
 
-Sitemap: https://spf.kitsapgov.com:443/sitemap.xml
+Sitemap: http://www.kitsapgov.com:80/sitemap.xml

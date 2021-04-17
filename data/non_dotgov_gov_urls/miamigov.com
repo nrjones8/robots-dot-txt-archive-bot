@@ -64,6 +64,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Landing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Landing/General-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Landing/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Local-Business-User-Testing
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Lookup-Property-Information-Service-Schedules
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Mayor-Suarez-in-the-News-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Mayor-Suarez-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald
@@ -513,10 +514,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Featured-Content-Secondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Trolley
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
@@ -1030,6 +1029,7 @@ Disallow: /Content-Sandbox/Landing
 Disallow: /Content-Sandbox/Landing/General-1
 Disallow: /Content-Sandbox/Landing/New-page
 Disallow: /Content-Sandbox/Local-Business-User-Testing
+Disallow: /Content-Sandbox/Lookup-Property-Information-Service-Schedules
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Mayor-Suarez-in-the-News-OLD
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Mayor-Suarez-News
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald
@@ -1485,10 +1485,8 @@ Disallow: /Home/FeaturedContentSecondary
 Disallow: /Home/Featured-Content-Secondary
 Disallow: /Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
-Disallow: /Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
 Disallow: /Home/FeaturedContentSecondary/Miami-Forever-Bond
 Disallow: /Home/FeaturedContentSecondary/Miami-Trolley
-Disallow: /Home/FeaturedContentSecondary/New-page
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website
 Disallow: /Home/Homepage/Events/Test-Calendar

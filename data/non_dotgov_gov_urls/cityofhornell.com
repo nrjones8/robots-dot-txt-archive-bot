@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.cityofhornell.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc40dbddb80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.cityofhornell.com/sitemap.xml
+User-agent: *
+

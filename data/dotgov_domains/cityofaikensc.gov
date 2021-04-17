@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofaikensc.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc40db59d30>, 'Connection to cityofaikensc.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /calendar-of-events/action~posterboard/
+Disallow: /calendar-of-events/action~agenda/
+Disallow: /calendar-of-events/action~oneday/
+Disallow: /calendar-of-events/action~month/
+Disallow: /calendar-of-events/action~week/
+Disallow: /calendar-of-events/action~stream/
+Crawl-delay: 60
+Disallow: /cgi-bin/
+Sitemap: https://www.cityofaikensc.gov/sitemap.xml

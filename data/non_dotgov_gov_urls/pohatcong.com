@@ -24,7 +24,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*design_theme_id*
+Disallow: /*oseid*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/
@@ -42,7 +42,7 @@ Disallow: /carts
 Disallow: /orders
 Disallow: /51841368243/checkouts
 Disallow: /51841368243/orders
-Disallow: /*design_theme_id*
+Disallow: /*oseid*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 
@@ -74,7 +74,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*design_theme_id*
+Disallow: /*oseid*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/
@@ -110,7 +110,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*design_theme_id*
+Disallow: /*oseid*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/
