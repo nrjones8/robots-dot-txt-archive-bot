@@ -23,7 +23,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*oseid*
+Disallow: /*?*oseid=*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/
@@ -40,7 +40,7 @@ Disallow: /carts
 Disallow: /orders
 Disallow: /51841368243/checkouts
 Disallow: /51841368243/orders
-Disallow: /*oseid*
+Disallow: /*?*oseid=*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 User-agent: Nutch
@@ -70,7 +70,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*oseid*
+Disallow: /*?*oseid=*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/
@@ -105,7 +105,7 @@ Disallow: /blogs/*%2b*
 Disallow: /*/blogs/*+*
 Disallow: /*/blogs/*%2B*
 Disallow: /*/blogs/*%2b*
-Disallow: /*oseid*
+Disallow: /*?*oseid=*
 Disallow: /*preview_theme_id*
 Disallow: /*preview_script_id*
 Disallow: /policies/

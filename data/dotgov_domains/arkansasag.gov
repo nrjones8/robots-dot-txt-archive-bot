@@ -1,12 +1,8 @@
-User-Agent: *
-Disallow: /scripts
-Crawl-delay: 20
-
-User-Agent: Scooter
-Disallow: /
-
-User-Agent: Googlebot-Image
-Disallow: /
-
-User-agent: Googlebot
-Allow: /
+# Default robots file version:2
+User-agent: *
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

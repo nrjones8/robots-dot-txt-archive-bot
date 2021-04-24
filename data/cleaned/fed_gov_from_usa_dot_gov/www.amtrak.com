@@ -1,3 +1,16 @@
 Sitemap: https://www.amtrak.com/sitemap.xml
 User-agent: *
-Disallow: 
+Disallow: /account-overview/*
+Disallow: /account-overview
+Disallow: /home/welcome
+Disallow: /servlet/*
+Disallow: /reference-data/*
+Disallow: /api/*
+Disallow: /ibcontent/*
+Disallow: /test-target/*
+Disallow: /archive/*
+Disallow: /tcversion/*
+Disallow: /ContentMigration
+Disallow: /services/*
+Disallow: /wifi/*
+Disallow: /future-layouts/*  

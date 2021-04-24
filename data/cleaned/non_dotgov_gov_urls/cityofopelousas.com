@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
+disallow: /wp-admin
 Allow: /wp-admin/admin-ajax.php
-Sitemap: http://cityofopelousas.com/wp-sitemap.xml
+Sitemap: https://www.kalacosolutions.com/sitemap.xml

@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: 
+Allow: /
 SITEMAP: https://cityofseldovia.com/sitemap.xml

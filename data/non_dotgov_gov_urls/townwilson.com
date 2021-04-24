@@ -17,3 +17,4 @@ Disallow: /
 
 Sitemap: https://www.townwilson.com/sitemap.xml
 Sitemap: https://www.townwilson.com/sitemap.rss
+Sitemap: https://www.townwilson.com/sitemap.xml

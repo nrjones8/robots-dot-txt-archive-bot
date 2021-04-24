@@ -3,4 +3,5 @@ user-agent: *
 disallow: /scripts/
 disallow: /css/
 disallow: /assets/
+disallow: /assets-v2/
 disallow: /umbraco/

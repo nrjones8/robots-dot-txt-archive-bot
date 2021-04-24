@@ -1,2 +1,1 @@
-User-Agent: *
-Disallow:
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='p3nlhclust404.shr.prod.phx3.secureserver.net', port=80): Max retries exceeded with url: /SharedContent/redirect_0.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7feccf14ef40>, 'Connection to p3nlhclust404.shr.prod.phx3.secureserver.net timed out. (connect timeout=15)'))"}

@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /Error
-
-Sitemap: https://www.health.mil/sitemap.xml
-Sitemap: https://health.mil/sitemap.xmlgoogle.com 
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='health.mil', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fecce744370>, 'Connection to health.mil timed out. (connect timeout=15)'))"}

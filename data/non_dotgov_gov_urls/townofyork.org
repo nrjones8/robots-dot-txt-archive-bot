@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofyork.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef7d2d0550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /cms/wp-admin/
+Disallow: /cms/wp-includes/
+Disallow: /cms/wp-content/
+Sitemap: https://www.townofyork.org/sitemap.xml.gz
+
+User-agent: bingbot 
+Disallow: /

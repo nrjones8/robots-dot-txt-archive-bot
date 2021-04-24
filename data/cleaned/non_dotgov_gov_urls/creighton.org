@@ -1,8 +1,8 @@
-Sitemap: https://www.creighton.org/sitemap.xml
-User-agent: NerdyBot
-Disallow: /
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
 User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
-Disallow: /http://www.locationone.com/loislogin/nebraska/
-Disallow: /http://www.creighton.org/uploads/4/8/2/6/48265253/demographics.pdf
+Disallow: /
