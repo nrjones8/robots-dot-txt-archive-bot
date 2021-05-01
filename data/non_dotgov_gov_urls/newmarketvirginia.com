@@ -1,18 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-Disallow: /news-and-events/event-calendar/action~posterboard/
-Disallow: /news-and-events/event-calendar/action~agenda/
-Disallow: /news-and-events/event-calendar/action~oneday/
-Disallow: /news-and-events/event-calendar/action~month/
-Disallow: /news-and-events/event-calendar/action~week/
-Disallow: /news-and-events/event-calendar/action~stream/
-Disallow: /news-and-events/event-calendar/action~undefined/
-Disallow: /news-and-events/event-calendar/action~default/
-Disallow: /news-and-events/event-calendar/action~poster/
-Disallow: /news-and-events/event-calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
-
-Sitemap: https://www.newmarketvirginia.com/sitemap.xml
-Sitemap: https://www.newmarketvirginia.com/sitemap.rss
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='newmarketvirginia.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4665931550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

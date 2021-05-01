@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# Default Flywheel robots file
+User-agent: *
+Allow: /*?v
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /*?
+Crawl-delay: 3

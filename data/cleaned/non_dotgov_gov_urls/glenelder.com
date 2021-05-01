@@ -14,10 +14,10 @@ Disallow: /http://www.glenelder.com/history.html
 Disallow: /2019-block-party.html
 Disallow: /2019-motorcycle--car-run.html
 Disallow: /template.html
-Disallow: /upcoming-energy-bill.html
 Disallow: /hunter-breakfast.html
 Disallow: /2018-chili-cook-off.html
 Disallow: /2019-fun-run.html
+Disallow: /upcoming-energy-bill.html
 Disallow: /covid-19.html
 Disallow: /2016-funday-schedule.html
 Disallow: /us-24-garage-sale.html

@@ -124,7 +124,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Becky-Test-12-15
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Education
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/gg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Maurice-L.-Kemp-EMS-Cadet-Program
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Request-a-Revocation-Permit
@@ -246,6 +245,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Test-Building-Department-Page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
@@ -262,7 +262,14 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -498,6 +505,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Empl
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/test-xx
@@ -520,10 +528,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Featured-Content-Secondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Copy-of-Climate-Change-in-the-City-of-Miami-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Trolley
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
@@ -616,6 +621,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Miami-Capital-New-Bi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Morningside-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Municode-Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/My-Security-Info
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Parks-Aquatics
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Pay
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Project-Intake-Form
@@ -633,6 +639,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/virginiakey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Virtual-Community-Budget-Meeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/WDRC-Application-Guidelines
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Web-Request
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Website-Study
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rentaltest
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Image-1
@@ -956,6 +963,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/virginiakey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/warrant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/watch-live
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/webrequest
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Website-Study
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Works-Projects
@@ -1098,7 +1106,6 @@ Disallow: /DSA/Becky-Test-12-15
 Disallow: /DSA/Education
 Disallow: /DSA/gg
 Disallow: /DSA/Maurice-L.-Kemp-EMS-Cadet-Program
-Disallow: /DSA/New-page
 Disallow: /DSA/OLD-DRI-Updates
 Disallow: /DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /DSA/Request-a-Revocation-Permit
@@ -1226,6 +1233,7 @@ Disallow: /Government/Departments/Office-of-Code-Compliance/ProChamps
 Disallow: /Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Government/Departments/Resilience-and-Sustainability
 Disallow: /Government/Departments/Test-Building-Department-Page
+Disallow: /Government/Departments-Organizations/Board-Announcements-and-Applications
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
@@ -1242,7 +1250,14 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
 Disallow: /Government/Departments-Organizations/City-Clerk
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -1478,6 +1493,7 @@ Disallow: /Government/Reopening-Plan/Employment-Job-Resources
 Disallow: /Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /Government/Reopening-Plan/Resources
 Disallow: /Government/Shelly-Long
+Disallow: /Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /Government/test-xx
@@ -1500,10 +1516,7 @@ Disallow: /Home/FeaturedContentSecondary
 Disallow: /Home/Featured-Content-Secondary
 Disallow: /Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
-Disallow: /Home/FeaturedContentSecondary/Climate-Change-in-the-City-of-Miami
-Disallow: /Home/FeaturedContentSecondary/Copy-of-Climate-Change-in-the-City-of-Miami-1
 Disallow: /Home/FeaturedContentSecondary/Miami-Trolley
-Disallow: /Home/FeaturedContentSecondary/New-page
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website
 Disallow: /Home/Homepage/Events/Test-Calendar
@@ -1613,6 +1626,7 @@ Disallow: /redirects/Miami-Capital-New-Bids-and-Proposals
 Disallow: /redirects/Morningside-Park
 Disallow: /redirects/Municode-Procurement
 Disallow: /redirects/My-Security-Info
+Disallow: /redirects/New-page
 Disallow: /redirects/Parks-Aquatics
 Disallow: /redirects/Pay
 Disallow: /redirects/Project-Intake-Form
@@ -1630,6 +1644,7 @@ Disallow: /redirects/virginiakey
 Disallow: /redirects/Virtual-Community-Budget-Meeting
 Disallow: /redirects/WDRC-Application-Guidelines
 Disallow: /redirects/Web-Request
+Disallow: /redirects/Website-Study
 Disallow: /remove-a-tree
 Disallow: /rentaltest
 Disallow: /Residents/Copy-of-Grapeland-Image-1
@@ -1953,6 +1968,7 @@ Disallow: /virginiakey
 Disallow: /warrant
 Disallow: /watch-live
 Disallow: /webrequest
+Disallow: /Website-Study
 Disallow: /Whats-On/Background-Images
 Disallow: /Whats-On/New-page
 Disallow: /Works-Projects

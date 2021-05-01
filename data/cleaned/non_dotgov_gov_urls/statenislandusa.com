@@ -19,4 +19,3 @@ Disallow: /hosting1.html
 Disallow: /hold031920.html
 Disallow: /ppe.html
 Disallow: /bpsbookshelf.html
-Disallow: /songwriters.html

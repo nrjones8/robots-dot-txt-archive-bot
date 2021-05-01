@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Allow: /
+Disallow: /government-services-directory/*/
+Disallow: /texas-state-agencies-departments/*/
+Disallow: /es/directorio-servicios-gubernamentales/*/
+Disallow: /es/agencias-departamentos-del-estado-de-texas/*/
+Disallow: /search/?search=
+Disallow: /es/search/?search=
+Sitemap: https://www.texas.gov/sitemap.xml

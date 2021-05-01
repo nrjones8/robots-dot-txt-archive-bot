@@ -43,6 +43,7 @@ Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
+Disallow: /search
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
@@ -60,3 +61,5 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+Disallow: /search?keyword=*
+Disallow: /search?

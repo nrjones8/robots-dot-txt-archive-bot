@@ -1,1 +1,136 @@
-Request failed
+# List of places that bots shouldn't crawl
+# For more info see http://www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+User-agent: *
+#added 9/17/2013 to fix the session variable undefined issue for application street permit and csb
+User-agent: AddThis.com robot tech.support@clearspring.com
+Disallow: /government/departments/public-safety/neighborhood-stabilization-office/citizens-service-bureau/csb-request-submit.cfm
+Disallow: /government/departments/street/street-permits-application.cfm
+User-agent: AddThis.com
+Disallow: /government/departments/public-safety/neighborhood-stabilization-office/citizens-service-bureau/csb-request-submit.cfm
+Disallow: /government/departments/street/street-permits-application.cfm
+User-agent: *
+#added 7/18/2018 - BD - for SLDC grant application docs
+Disallow: /government/departments/sldc/sldc/build-grant-application/ 
+Disallow: https://www.stlouis-mo.gov/build-grant-application/
+#added 1/26/17 - BD - Don't index our JSON downloads
+Disallow: /data/*&dataType=json
+Disallow: */customcf/*
+#added 12/28/17 - BD - Park being indexed that shouldn't be
+Disallow: /government/departments/parks/parks/browse-parks/view-park.cfm?parkID=84&parkName=Tambo+Park
+#added 11/01/17 - BD - Bing is crawling a ton of URLs that don't exist, which is annoying. Stop it.
+Disallow: */topic.cfm
+Allow: /services/topic.cfm
+Allow: /government/city-laws/ordinances/topic.cfm
+#added 5/15/13
+Disallow: /government/departments/information-technology/web-development/feature-request-public.cfm
+Disallow: /government/departments/planning/planning/adopted-plans/strategic-land-use/legend3.cfm
+#added 9/6/11 - Ben D.
+Disallow: /citygov/
+Disallow: /test-left-nav/
+Disallow: /CFIDE/
+Disallow: /*.pdf$
+Disallow: /*.txt$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.ppt$
+Disallow: /*.pptx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /test/
+Disallow: /Base-Plus-One.cfm$
+Disallow: /shenTest/
+Disallow: /*?parcelId=
+Disallow: /*?detail=1
+Disallow: /*&parcelId=
+Disallow: /*loader.cfm?csModule=
+Disallow: /*login.cfm$
+Disallow: /*logout.cfm$
+Disallow: /shentest/
+Disallow: /*eventsearch.cfm$
+Disallow: /*buildingpermit=true&sortbyOwnerName
+Disallow: /*buildingpermit=true&sortbyAppDate
+Disallow: /*buildingpermit=true&sortbyCompleteDate
+Disallow: /*buildingpermit=true&sortbyIssueDate
+Disallow: /*buildingpermit=true&sortbyNewUse
+Disallow: /government/departments/information-technology/web-development/documentation/
+#added 8/3/2011- Shen add to clean google mini cache files not exist
+Disallow: /community/neighborhoods/
+Disallow: /live-work/http: /
+Disallow: 2000-census-summary-by-neighborhoods.cfm
+Disallow: @
+Disallow: /https: /
+Disallow: /http: /
+Disallow: /news-media/browse-by-audience.cfm
+Disallow: .edu
+#added 7/29/2011 - Shen Do not crawl feature-request-public.cfm file
+Disallow: feature-request-public.cfm
+#added 7/26/2011 - Shen Do not crawl archive folder
+Disallow: /archive/
+#added 07/19/11 - Shen D - Do not crawl individual cemetery search
+Disallow: ?section=
+#added 07/19/11 - Shen D - Do not crawl individual restaurant ratinings
+Disallow: ?EstID=
+#added 07/19/11 - Shen - Do not crawl individual lra property list
+Disallow: ?detail=1&parcelId=
+#added 07/19/11 - Ben D - Do not crawl individual resolutions
+Disallow: ?rDetail=true&resolutionId=
+#added 05/19/11 - Ben D - Do not crawl search results page
+Disallow: searchresults.cfm
+#added 05/18/11 - Tony - Do not geo content
+Disallow: slupmap.cfm
+Disallow: histmap.cfm
+#added 05/18/11 - Ben D - Do not crawl service request, board  bills, etc.
+Disallow: csb-request-submit.cfm
+Disallow: check-service-request.cfm
+Disallow: ?bbDetail=true
+Disallow: /city-laws/board-bill-search.cfm
+#added 04/14/11 - Ben D - Do not crawl dynamic.stlouis-mo.gov as per Sonya
+Disallow: http: //dynamic.
+Disallow: http: //stlcin.
+#added 04/06/11 - Ben D - Get rid of old a-z stuff
+Disallow: /FAQs/
+#added 03/31/11 - Ben D - No more duplicate entries because of 'www' addresses.
+Disallow: /web-development/documentation
+Disallow: http: //www.
+#added 01/06/11 - Ben D - We don't want duplicate search results for index pages.
+Disallow: index.cfm
+#added 11/18/10 - Ben D
+Disallow: /CFIDE/
+Disallow: /components/
+Disallow: /test-left-nav/
+Disallow: .pdf
+Disallow: .doc
+Disallow: .ppt
+Disallow: .txt
+#added 11/3/10 - Ben D
+Disallow: /internal-apps/
+#added 9/15/10 - Ben D
+Disallow: /test/
+Disallow: /Base-Plus-One.cfm
+#added 9/14/10 - Ben D
+Disallow: /shenTest/
+#added 9/9/10
+Disallow: detail=1$
+Disallow: ?parcelId=
+Disallow: detail=1
+Disallow: &parcelId=
+Disallow: /loader.cfm?csModule=
+Disallow: /commonspot/
+Disallow: /*/createpage.cfm$
+Disallow: /*/login.cfm$
+Disallow: /*/logout.cfm$
+Disallow: /address-search/
+Disallow: /shentest/
+Disallow: /sladmin/
+Disallow: /test/
+Disallow: /customcf/
+Disallow: /events/
+Disallow: /government/departments/comptroller/office-functions/
+Disallow: /government/departments/comptroller/office-functions/index.cfm
+#added 9/9/10 - Address and property search sort options
+Disallow: buildingpermit=true&sortbyOwnerName
+Disallow: buildingpermit=true&sortbyAppDate
+Disallow: buildingpermit=true&sortbyCompleteDate
+Disallow: buildingpermit=true&sortbyIssueDate
+Disallow: buildingpermit=true&sortbyNewUse
+Allow: /robots.txt

@@ -1,9 +1,1 @@
-User-agent: *
-Disallow: /fileadmin/*
-Disallow: /typo3/*
-Disallow: /uploads/*
-Disallow: /home/search-results
-Disallow: /home/search-results.html
-Disallow: /home/calendar*
-Disallow: /departments/health/environmental-health/air-quality.html
-Disallow: /health/environmental-health/air-quality.html
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.lccountymt.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4665c841f0>: Failed to establish a new connection: [Errno 111] Connection refused'))"}

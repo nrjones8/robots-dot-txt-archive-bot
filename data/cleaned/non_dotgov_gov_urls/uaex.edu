@@ -1,4 +1,5 @@
-# Group 1: Allow all search engines to crawl everything in sitemap file
 User-agent: *
 Disallow: /errors
+Disallow: /*.xml$
+Disallow: /*.XML$
 Sitemap: http://www.uaex.uada.edu/sitemap.xml

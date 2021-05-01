@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /cmsctx/
-Disallow: /
+Request failed

@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: 
+Allow: /
 SITEMAP: https://ridgespringsc.com/sitemap.xml

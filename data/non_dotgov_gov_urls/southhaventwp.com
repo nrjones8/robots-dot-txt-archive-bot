@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='southhaventwp.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://southhaventwp.com/wp-sitemap.xml
