@@ -19,3 +19,7 @@ Disallow: /hosting1.html
 Disallow: /hold031920.html
 Disallow: /ppe.html
 Disallow: /bpsbookshelf.html
+Disallow: /insidesi.html
+Disallow: /6/
+Disallow: /insidesi/
+Disallow: /insidesi

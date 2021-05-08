@@ -1,9 +1,5 @@
+Sitemap: https://www.townofcathlamet.com/sitemap.xml
 User-agent: *
 Allow: /
-# Optimization for Google Ads Bot
-User-Agent: AdsBot-Google-Mobile
-User-Agent: AdsBot-Google
-Disallow: /_api/*
-Disallow: /_partials*
-Disallow: /pro-gallery-webapp/v1/galleries/*
-Sitemap: https://www.townofcathlamet.com/sitemap.xml
+Disallow: /versions/2/include/
+Disallow: /versions/2/wizard/

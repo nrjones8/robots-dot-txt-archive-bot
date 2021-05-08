@@ -1,4 +1,1 @@
-﻿User-agent: *
-Allow: /
-
-Sitemap: https://www.tva.com/sitemap/sitemap-index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tva.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb2171df4f0>, 'Connection to tva.com timed out. (connect timeout=15)'))"}

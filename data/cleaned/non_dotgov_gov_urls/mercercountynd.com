@@ -1,10 +1,1 @@
-User-agent: *
-Disallow: /taoCMS/
-Disallow: /components/
-Allow: /components/google_sitemap.php
-Allow: /components/sitemap.php
-Allow: /components/rssfeed.php
-Allow: /components/stylesheet.php
-Allow: /components/newsfeed.php
-Allow: /components/*/js*.php
-Allow: /
+Request failed

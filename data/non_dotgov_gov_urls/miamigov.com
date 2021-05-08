@@ -576,6 +576,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Focus-on-Fitness-to
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Trolley-Detours
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment-December
@@ -920,6 +922,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/Event-to-test-workflow
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/News-Media/FirefighterEMT-Recruitment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/News-Media/Firefighter-EMT-Recruitment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/News-Media/Firefighter-Recruitment
@@ -979,8 +982,6 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-News-Item-1-1
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/sandra-test
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1547,8 +1548,6 @@ Disallow: /LHCC/Home/Tabs/New-page
 Disallow: /LHCC/Home/Tabs/TABS-test
 Disallow: /LHCC/News-articles
 Disallow: /LHCC/News-Press
-Disallow: /LHCC/News-Press/Copy-of-News-Item-1-1
-Disallow: /LHCC/News-Press/sandra-test
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1581,6 +1580,8 @@ Disallow: /News-Media/Focus-on-Fitness-to-Prevent-Gun-Violence-in-Overtown
 Disallow: /News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /News-Media/Trolley-Detours
 Disallow: /Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
+Disallow: /Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
+Disallow: /Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
 Disallow: /Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment-December
@@ -1925,6 +1926,7 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Code-Inspection-for
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Shortcut-Content/Events-Activities/Event-to-test-workflow
+Disallow: /Shortcut-Content/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /Shortcut-Content/News-Media/FirefighterEMT-Recruitment
 Disallow: /Shortcut-Content/News-Media/Firefighter-EMT-Recruitment
 Disallow: /Shortcut-Content/News-Media/Firefighter-Recruitment

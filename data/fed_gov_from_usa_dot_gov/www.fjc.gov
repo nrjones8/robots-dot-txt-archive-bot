@@ -14,7 +14,7 @@
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Crawl-delay: 10
+Crawl-delay: 30
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?
@@ -92,3 +92,5 @@ Disallow: /?q=user/logout/
 # FJC customizations
 # 1/25/2017 - request that interactive IDB pages not be crawled
 Disallow: /research/idb/interactive/
+Disallow: /sites/default/files/idb
+

@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='town-atkinsonnh.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4665ca8eb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /police_911_guidelines.html

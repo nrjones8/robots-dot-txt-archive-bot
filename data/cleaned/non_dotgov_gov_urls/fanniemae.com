@@ -13,6 +13,7 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
+Disallow: /*/node/
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?

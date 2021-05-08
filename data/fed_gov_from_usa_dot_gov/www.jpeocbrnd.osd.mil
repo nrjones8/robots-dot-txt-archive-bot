@@ -1,1 +1,26 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.jpeocbrnd.osd.mil', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f46654a20a0>, 'Connection to www.jpeocbrnd.osd.mil timed out. (connect timeout=15)'))"}
+Sitemap: /SiteMap.aspx
+User-agent: *
+Disallow: *captcha*
+Disallow: /*Print.aspx
+Disallow: /*.axd$
+Disallow: /*.exe$
+Disallow: /bin/
+Disallow: /Bin/
+Disallow: /*.bin$
+Disallow: /*.dll$
+Disallow: /*.ssi$
+Disallow: /Error/
+Disallow: /Controls/
+Disallow: /controls/
+Disallow: /Utility/
+Disallow: /install/
+Disallow: /Admin/
+Disallow: /App_Browser/
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /App_GlobalResources/
+Disallow: /Components/
+Disallow: /Config/
+Disallow: /Documentation/
+Disallow: /Install/
+Disallow: /Providers/

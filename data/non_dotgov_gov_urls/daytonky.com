@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://www.daytonky.com/wp-sitemap.xml
+Sitemap: https://daytonky.com/wp-sitemap.xml

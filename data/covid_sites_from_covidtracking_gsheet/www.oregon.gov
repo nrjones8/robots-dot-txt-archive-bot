@@ -1,4 +1,4 @@
-# Last Updated: 11/13/19 by MCS, NIC
+# Last Updated: 05/03/21 by MCS, NIC
 
 # ---------------------- Statewide ----------------------
 
@@ -55,10 +55,20 @@ Disallow: /ERB/pages/sprlordersbyissued_2004_2005.aspx
 Disallow: /ERB/pages/sprlordersbyfiled_2011_15.aspx
 Disallow: /ERB/pages/sprlordersbyfiled_2006_2010.aspx
 Disallow: /ERB/pages/sprlordersbyfiled_2002_2005.aspx
+Disallow: /WCB/board-orders/Documents
+Disallow: /wcb/board-Orders/Documents # (case variation)
+Disallow: /WCB/Board-Orders/Documents # (case variation)
+Disallow: /wcb/Board-orders/Documents # (case variation)
+Disallow: /WCB/board-orders/documents # (case variation)
+Disallow: /wcb/board-Orders/documents # (case variation)
+Disallow: /WCB/Board-Orders/documents # (case variation)
+Disallow: /wcb/Board-orders/documents # (case variation)
 Disallow: /WCB/dcbs_index.html # Map of all WCB order documents
 Disallow: /wcb/dcbs_index.html # Map of all WCB order documents (case variation)
 Disallow: /WCB/Orders # Content should not be available except through Orders page
 Disallow: /wcb/Orders # Content should not be available except through Orders page (case variation)
+Disallow: /WCB/orders # Content should not be available except through Orders page (case variation)
+Disallow: /wcb/orders # Content should not be available except through Orders page (case variation)
 Disallow: /v3replaced # Site should be eventually removed
 Disallow: /odot/projects/pages/project-details.aspx?project=18564 #Temp removal
 Disallow: /ODOT/projects/pages/project-details.aspx?project=18564 #Temp removal

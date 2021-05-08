@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='beavertonmi.org', port=443): Read timed out. (read timeout=15)"}
+Sitemap: https://beavertonmi.org/sitemap.xml
+Sitemap: https://beavertonmi.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -34,9 +34,9 @@ Disallow: /http://www.omrolibrary.org/
 Disallow: /http://www.omrolibrary.org/
 Disallow: /http://library.municode.com/index.aspx?clientID=14604&stateID=49&statename=Wisconsin
 Disallow: /http://www.omro-wi.com/police-department.html
-Disallow: /http://www.co.winnebago.wi.us/treasurer/property-information-0
 Disallow: /http://www.omro-wi.com/election-information.html
 Disallow: /http://www.omro-wi.com/public-works.html
+Disallow: /http://www.co.winnebago.wi.us/treasurer/property-information-0
 Disallow: /http://www.omro-wi.com/park-facilities--rentals.html
 Disallow: /link-page.html
 Disallow: /http://www.omro-wi.com/pool-rental.html

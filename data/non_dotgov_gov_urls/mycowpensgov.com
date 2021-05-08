@@ -1,12 +1,1 @@
-user-agent: *
-Allow: /
-user-agent: Googlebot
-Allow: /
-User-agent: slurp
-Allow: /
-User-agent: msnbot
-Allow: /
-user-agent: *
-Disallow: /*add-to-cart=*
-
-Sitemap: https://microzoomers.co/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mycowpensgov.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb216f13a30>, 'Connection to mycowpensgov.com timed out. (connect timeout=15)'))"}

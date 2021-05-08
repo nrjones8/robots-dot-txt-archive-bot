@@ -1,7 +1,4 @@
-Sitemap: http://www.cityofmaysville.com/sitemap.xml
 User-agent: *
-Allow: /*.js$
-Allow: /*.css$
 #WordPress
 Disallow: /wp-admin/
 Disallow: /wp-includes/

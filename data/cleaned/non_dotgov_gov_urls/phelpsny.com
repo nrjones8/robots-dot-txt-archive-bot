@@ -14,4 +14,5 @@ Disallow: /calendar/action~default/
 Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/Disallow: /uploads/wpo-plugins-tables-list.json
+Disallow: /*/action~*/
+Disallow: /uploads/wpo-plugins-tables-list.json
