@@ -1,3 +1,4 @@
-#robots.txt for all our sites
 User-agent: *
-Disallow: /content/*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://www.wilsonborough.org/wp-sitemap.xml

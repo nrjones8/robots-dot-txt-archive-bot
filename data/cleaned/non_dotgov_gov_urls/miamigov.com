@@ -52,6 +52,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Com
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/COM-Service-Page-Demo
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/COM-Service-Page-Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Copy-of-Register-as-a-Building-Contractor
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Copy-of-TEST-City-of-Miami-Address-History-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Embed-test
@@ -69,7 +70,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald-11717
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/New-page-2
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/New-page-3
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OC-Test-Register-as-a-Building-Contractor
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OLD-Mayor-Suarez-In-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/OLD-Mayor-Suarez-Press
@@ -979,8 +979,6 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider/Second-Slide
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1035,6 +1033,7 @@ Disallow: /Content-Sandbox/Boards-and-Commissions/New-page
 Disallow: /Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /Content-Sandbox/City-Clerk
 Disallow: /Content-Sandbox/COM-Service-Page-Demo
+Disallow: /Content-Sandbox/COM-Service-Page-Test
 Disallow: /Content-Sandbox/Copy-of-Register-as-a-Building-Contractor
 Disallow: /Content-Sandbox/Copy-of-TEST-City-of-Miami-Address-History-1
 Disallow: /Content-Sandbox/Embed-test
@@ -1052,7 +1051,6 @@ Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/Miami-Herald-11717
 Disallow: /Content-Sandbox/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /Content-Sandbox/New-page-2
-Disallow: /Content-Sandbox/New-page-3
 Disallow: /Content-Sandbox/OC-Test-Register-as-a-Building-Contractor
 Disallow: /Content-Sandbox/OLD-Mayor-Suarez-In-the-News
 Disallow: /Content-Sandbox/OLD-Mayor-Suarez-Press
@@ -1545,8 +1543,6 @@ Disallow: /LHCC/Home/Slider
 Disallow: /LHCC/Home/Slider/Second-Slide
 Disallow: /LHCC/Home/Tabs/New-page
 Disallow: /LHCC/Home/Tabs/TABS-test
-Disallow: /LHCC/News-articles
-Disallow: /LHCC/News-Press
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART

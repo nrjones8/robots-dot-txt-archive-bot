@@ -1,1 +1,54 @@
-Request failed
+User-agent: *
+Crawl-delay: 7
+# Block user specific pages
+Disallow: /settings/
+Disallow: /app/completedDocs.action
+Disallow: /dashboard/
+Disallow: /notifications/
+Disallow: /aid-summary/
+Disallow: /payment/
+# Block auth SL flows
+Disallow: /app/plusApplication.action 
+Disallow: /app/obtainEndorser.action
+Disallow: /app/extenuatingCircumstancesInfo.action
+Disallow: /app/printEa.action
+Disallow: /app/creditCheckAppeal.action
+Disallow: /app/nothingDecision.action
+Disallow: /app/undecidedDecision.action
+Disallow: /app/viewFailedCreditCheckDetail.action
+Disallow: /app/endorserAddendum.action
+Disallow: /app/appealSuccess.action 
+Disallow: /app/parentPlusCounseling.action
+Disallow: /app/createEmpn.action 
+Disallow: /app/entranceCounseling.action
+Disallow: /app/teachCounseling.action
+Disallow: /app/teachNote.action
+Disallow: /app/teachExitCounseling.action
+Disallow: /app/exitCounseling.action
+Disallow: /app/consolidation.action 
+Disallow: /app/repayment.action
+Disallow: /app/CosignRepayment.action
+Disallow: /app/pslfFlow.action
+Disallow: /app/financialAwarenessCounseling.action
+Disallow: /*?*execution=
+Disallow: /app/print*
+Disallow: /d/
+# Block Help Center search listings
+Disallow: /help-center/answers/search/
+Disallow: /help-center/contact/search/
+Disallow: /help-center/answers/topic/getting_started/search/
+Disallow: /help-center/answers/topic/managing_your_account/search/
+Disallow: /help-center/answers/topic/completing_the_fafsa/search/
+Disallow: /help-center/answers/topic/repaying_loans/search/
+Disallow: /help-center/answers/topic/types_of_aid/search/
+Disallow: /help-center/answers/topic/glossary/search/
+# Block Read-Only pages
+Disallow: /app/*HtmlPreview.action
+Disallow: /app/*HTMLPreview.action
+Disallow: /app/*Html.action
+# Block Directories
+Disallow: /node/
+Disallow: /es/node/
+Disallow: /taxonomy/
+Disallow: /es/taxonomy/
+Sitemap: https://studentaid.gov/sitemap.xml

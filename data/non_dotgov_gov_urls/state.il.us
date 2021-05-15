@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_catalogs/
+
+
+
+Sitemap: https://www2qa.illinois.gov:443/sitemap.xml

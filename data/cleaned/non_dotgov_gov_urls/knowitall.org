@@ -12,6 +12,7 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+Sitemap: https://www.knowitall.org/sitemap.xml
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
@@ -35,6 +36,8 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
+Disallow: /sites/default/files/kiad7/private/
+Disallow: /sites/default/files/lwd7/private/
 # Files
 Disallow: /README.txt
 Disallow: /web.config

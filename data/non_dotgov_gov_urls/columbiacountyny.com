@@ -74,5 +74,5 @@ Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-solid
 Disallow: /http://www.stopdwi.org/home
 Disallow: /https://sites.google.com/a/columbiacountyny.com/treasurer/
 Disallow: /https://columbiacountytourism.org/
-Disallow: /veterans1.html
+Disallow: /https://sites.google.com/columbiacountyny.com/ccnyveterans/home
 Disallow: /youth-bureau.html

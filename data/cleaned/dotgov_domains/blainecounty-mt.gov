@@ -1,4 +1,9 @@
-User-Agent: *
-Allow: /
-Disallow: /wp-admin
-Disallow: /admin
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Sitemap: https://blainecounty-mt.gov/sitemap.xml
+Sitemap: https://blainecounty-mt.gov/sitemap.rss
+Sitemap: https://blainecounty-mt.gov/xmlsitemap.xml
+Allow: /rsssitemap.xml
+Allow: /rsslatest.xml
+Allow: /htmlsitemap.htm

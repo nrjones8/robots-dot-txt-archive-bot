@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-Agent: *
+Disallow: /rotc/find-schools.
+
+Sitemap: https://goarmy.com/sitemap.xml
+Sitemap: https://www.goarmy.com/static/seo/eng-mos-sitemap.xml
+Sitemap: https://www.goarmy.com/static/seo/spanish-mos-sitemap.xml
+Sitemap: https://www.goarmy.com/static/seo/career-categories-sitemap.xml
+Sitemap: https://www.goarmy.com/static/seo/career-categories-spanish-sitemap.xml
