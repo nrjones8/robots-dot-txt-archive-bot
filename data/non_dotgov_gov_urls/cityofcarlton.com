@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: https://www.cityofcarlton.com/c/
 Disallow: https://www.cityofcarlton.com/protected/
-Disallow: /adopt-a-hydrant/
 Disallow: /council-agendas/2021-agendas/
 Disallow: /council-agendas/2020-agendas/
 Disallow: /council-agendas/2019-agendas/

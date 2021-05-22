@@ -1,1 +1,27 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='bartlettnh.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcb0c37d5e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /search.php
+Disallow: /searchc.php
+Disallow: /status.php
+Disallow: /contact.php
+
+User-agent: Baiduspider
+Disallow: /search.php
+Disallow: /searchc.php
+Disallow: /status.php
+Disallow: /contact.php
+
+User-agent: Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+Disallow: /search.php
+Disallow: /searchc.php
+Disallow: /status.php
+Disallow: /contact.php
+
+User-agent: Baiduspider+(+http://www.baidu.com/search/spider.htm)
+Disallow: /search.php
+Disallow: /searchc.php
+Disallow: /status.php
+Disallow: /contact.php
+
+
+
+

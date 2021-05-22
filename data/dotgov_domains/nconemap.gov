@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}
+User-agent: *
+Crawl-delay: 60
+Disallow: /sites/
+Disallow: /admin/
+Disallow: /sessions/
+Sitemap: https://www.nconemap.gov/sitemap.xml

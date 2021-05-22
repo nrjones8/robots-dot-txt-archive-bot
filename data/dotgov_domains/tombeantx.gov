@@ -1,1 +1,20 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tombeantx.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcb0c519f40>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+# Default Flywheel robots file
+User-agent: *
+Disallow: /calendar/action:posterboard/
+Disallow: /calendar/action:agenda/
+Disallow: /calendar/action:oneday/
+Disallow: /calendar/action:month/
+Disallow: /calendar/action:week/
+Disallow: /calendar/action:map/
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /events/action~posterboard/
+Disallow: /events/action~agenda/
+Disallow: /events/action~oneday/
+Disallow: /events/action~month/
+Disallow: /events/action~week/
+Disallow: /events/action~stream/

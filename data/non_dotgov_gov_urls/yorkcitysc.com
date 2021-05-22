@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='yorkcitysc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fcb0c795370>, 'Connection to yorkcitysc.com timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

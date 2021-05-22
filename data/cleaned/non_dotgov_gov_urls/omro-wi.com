@@ -11,7 +11,6 @@ Disallow: /http://www.omro-wi.com/aquatic-center.html
 Disallow: /http://www.ci.oshkosh.wi.us/Fire/emergency.htm
 Disallow: /http://www.omro-wi.com/election-information.html
 Disallow: /http://www.omro-wi.com/city-clerk.html
-Disallow: /http://www.omro-wi.com/employment-opportunities.html
 Disallow: /http://www.omro-wi.com/building--zoning.html
 Disallow: /http://omrofiredepartment.com/
 Disallow: /http://www.omro-wi.com/index.html

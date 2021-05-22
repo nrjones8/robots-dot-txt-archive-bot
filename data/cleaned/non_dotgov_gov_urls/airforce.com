@@ -1,2 +1,1 @@
-User-agent: *
-/account/choose-password
+Got an HTML response

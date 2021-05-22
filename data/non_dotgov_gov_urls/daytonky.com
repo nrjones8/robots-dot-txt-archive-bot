@@ -1,5 +1,59 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+User-Agent: *
+Allow: /
 
-Sitemap: https://daytonky.com/wp-sitemap.xml
+User-agent: 008
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: Vagabondo
+Disallow: /
+
+User-Agent: SEOkicks-Robot
+Disallow: /
+
+User-Agent: ia_archiver
+Disallow: /
+
+User-Agent: archive.org_bot
+Disallow: /
+
+User-Agent: special_archiver
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: special_archiver
+Disallow: /
+
+User-Agent: heritrix
+Disallow: /
+
+User-Agent: netEstate NE Crawler
+Disallow: /
+
+User-Agent: sistrix
+Disallow: /
+
+User-Agent: WBSearchBot
+Disallow: /
+
+User-Agent: QuerySeekerSpider
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: SiteExplorer
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
