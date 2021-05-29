@@ -1,3 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /Terms
+Disallow: /Privacy
+Allow: /
+Disallow: /Admin/
+Disallow: /SHStore/Checkout/*
+Sitemap: /sitemap.xml

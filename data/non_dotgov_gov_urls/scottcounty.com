@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /main/wp-admin/
-Allow: /main/wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://scottcounty.com/wp-sitemap.xml

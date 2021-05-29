@@ -7,9 +7,9 @@ Disallow: /userdocs/FileLocker/
 Disallow: /userdocs/mugshot/
 Disallow: /mobile/
 
-Sitemap: http://www.traveliowa.com/aspx/rss_feed.aspx
+Sitemap: https://www.traveliowa.com/aspx/rss_feed.aspx
 
-Sitemap: http://www.traveliowa.com/aspx/sitemap.xml.gz
+Sitemap: https://www.traveliowa.com/aspx/sitemapxml.aspx
 
 
 # Proprietary German backlinks service.

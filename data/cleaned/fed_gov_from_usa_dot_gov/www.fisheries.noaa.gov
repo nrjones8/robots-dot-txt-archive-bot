@@ -74,3 +74,24 @@ Disallow: /index.php/user/logout/
 Disallow: /themes/custom/noaa_components/pattern-lab/
 # Sitemap files
 Sitemap: https://www.fisheries.noaa.gov/sitemap.xml
+# Node Paths
+Disallow: /node/*
+# Misc Items
+Disallow: /foss/::NO:::$
+Disallow /inport/about/
+Disallow /inport/contact/*
+Disallow /inport/forgot-password/*
+Disallow /inport/help/*
+Disallow /inport/hierarchy/*
+Disallow /inport/organization/*
+Disallow /inport/organizations/*
+Disallow: /inport/item/*
+Disallow /inport/privacy/*
+Disallow /inport/release-notes/*
+Disallow /inport/search/*
+Disallow /inport/security/*
+Disallow /inport/stats/*
+Disallow /inport/system-availability/*
+Disallow: /inportserve/waf/.xml$
+Disallow: /inportserve/waf/.pdf$
+Disallow /jira/secure/*
