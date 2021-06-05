@@ -1,4 +1,4 @@
-user-agent: *
+User-agent: *
 Disallow: /click?
 Disallow: /search?
 Disallow: /rss?
@@ -11,4 +11,4 @@ Disallow: /tours/*/js/
 Disallow: /*/national-parks-existential-crisis-180964880/
 User-agent: ia_archiver
 Disallow: /
-sitemap: https://smithsonian.com/sitemap.xml
+Sitemap: https://smithsonian.com/sitemap.xml

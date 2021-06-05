@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='abingdon-va.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7b9de62760>, 'Connection to abingdon-va.gov timed out. (connect timeout=15)'))"}
+Sitemap: https://abingdon-va.gov/sitemap.xml
+Sitemap: https://abingdon-va.gov/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://abingdon-va.gov/sitemap.xml

@@ -1,8 +1,5 @@
 User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-User-agent: googlebot
-Disallow: *.csi
+Sitemap: https://www.cityoforland.com/wp-sitemap.xml

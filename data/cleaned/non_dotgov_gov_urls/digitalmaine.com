@@ -62,3 +62,5 @@ Disallow: /useradd.cgi
 Disallow: /do/email_editor
 Disallow: /do/
 sitemap: https://digitalmaine.com/siteindex.xml
+User-agent: Amazonbot               # Amazon's user agent
+Disallow: /            # disallow this directory

@@ -5,6 +5,7 @@ Disallow: /cgi-bin
 Disallow: /entrez
 Disallow: /COG
 Disallow: /Entrez
+Disallow: /mailman
 Disallow: /myncbi
 Disallow: /sutils
 Disallow: /Taxonomy/Selector
@@ -44,6 +45,7 @@ Disallow: /cgi-bin
 Disallow: /entrez
 Disallow: /COG
 Disallow: /Entrez
+Disallow: /mailman
 Disallow: /myncbi
 Disallow: /sutils
 Disallow: /Taxonomy/Selector
@@ -217,6 +219,7 @@ Allow: /books/NBK*
 
 User-agent: Exabot
 Disallow: /Structure
+Disallow: /mailman
 
 
 User-agent: bingbot

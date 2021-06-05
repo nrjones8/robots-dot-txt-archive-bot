@@ -508,6 +508,13 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutio
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Forever-TEST
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/New-page-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/Copy-of-In-person-Meeting-Historic-and-Environmental-Preservation-Board-June-1-2021-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/Copy-of-In-person-Meeting-Planning-Zoning-and-Appeals-Board-March-3-2021-1-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-April-6-2021
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-June-1-2021
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-March-2-2021
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-March-2-2021-1-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-May-4-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Covid-Complaints
@@ -1501,6 +1508,13 @@ Disallow: /Government/MiamiClimateSolutions/Storms
 Disallow: /Government/Miami-Climate-Solutions/Storms
 Disallow: /Government/Miami-Forever-TEST
 Disallow: /Government/New-page-2
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/Copy-of-In-person-Meeting-Historic-and-Environmental-Preservation-Board-June-1-2021-1
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/Copy-of-In-person-Meeting-Planning-Zoning-and-Appeals-Board-March-3-2021-1-1
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-April-6-2021
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-June-1-2021
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-March-2-2021
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-March-2-2021-1-1
+Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Historic-and-Environmental-Preservation-Board-May-4-2021
 Disallow: /Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /Government/Reopening-Miami/Business-Resources
 Disallow: /Government/Reopening-Miami/Covid-Complaints

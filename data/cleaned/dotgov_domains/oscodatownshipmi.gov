@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /unknown.asp
+Got an HTML response

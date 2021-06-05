@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='jeffersonwis.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7b9d5c56d0>, 'Connection to jeffersonwis.com timed out. (connect timeout=15)'))"}
+User-Agent: *
+Disallow:
