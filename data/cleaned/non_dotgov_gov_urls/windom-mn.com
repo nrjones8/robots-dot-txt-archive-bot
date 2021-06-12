@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
-Sitemap: https://windom-mn.com/sitemap.xml
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://windom-mn.com/wp-sitemap.xml

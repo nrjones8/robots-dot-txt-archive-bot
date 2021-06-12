@@ -24,6 +24,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Alpha-services/311-Test-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/appealart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ARL
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/arts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/attorneyinternship
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/A-Z-Index
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/BE305
@@ -199,6 +200,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/COM-Application-Pages
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Beta-User-Test-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Board-Meeting-Public-Comment-Registration
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Board-Organizational-Chart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Boards-Committees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Boards-Committees-Overview
@@ -207,6 +209,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/C
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/ClimateResilience/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/ClimateResilience/RSS-Feed-Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/ClimateResilience/Sea-Level-Rise-Committee-Meetings
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meeting-618
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/061818-Meeting
@@ -322,6 +325,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Summer-Jobs-Connect-Miami/Apply-for-Summer-Jobs-Connect
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Grants-Administration/Summer-Jobs-Connect-Miami/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Business-Continuity-Micro-Enterprise-Program-Application
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Business-Continuity-Micro-Enterprise-Program-Application-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Rehabilitation-Program-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Replacement-Program-1
@@ -412,7 +416,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision-TEST
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-026-3
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-037-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-039-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-041-1
@@ -998,6 +1001,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Works-Projects
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/About/Featured-Background/New-page
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Include-POC
@@ -1006,6 +1010,14 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider/Second-Slide
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/New-page
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/TEST-News
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-TEST-News-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Little-Haiti-Live
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1018,6 +1030,7 @@ Disallow: /Alpha-services/311-Test-Page
 Disallow: /appealart
 Disallow: /Appeal-a-Warrant-or-Waiver
 Disallow: /ARL
+Disallow: /arts
 Disallow: /attorneyinternship
 Disallow: /A-Z-Index
 Disallow: /BE305
@@ -1199,6 +1212,7 @@ Disallow: /Glossary
 Disallow: /Glossary/COM-Application-Pages
 Disallow: /Government/Beta-User-Test-2
 Disallow: /Government/Board-Meeting-Public-Comment-Registration
+Disallow: /Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /Government/Boards-Committees/Board-Organizational-Chart
 Disallow: /Government/Boards-Committees/Boards-Committees
 Disallow: /Government/Boards-Committees/Boards-Committees-Overview
@@ -1207,6 +1221,7 @@ Disallow: /Government/Boards-Committees/ClimateResilience/ClimateResilienceNotes
 Disallow: /Government/Boards-Committees/ClimateResilience/New-page
 Disallow: /Government/Boards-Committees/ClimateResilience/RSS-Feed-Test
 Disallow: /Government/Boards-Committees/ClimateResilience/Sea-Level-Rise-Committee-Meetings
+Disallow: /Government/Boards-Committees/New-page
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meeting-618
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings
 Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-Committee-Meetings/061818-Meeting
@@ -1322,6 +1337,7 @@ Disallow: /Government/Departments-Organizations/Grants-Administration/New-page-1
 Disallow: /Government/Departments-Organizations/Grants-Administration/Summer-Jobs-Connect-Miami/Apply-for-Summer-Jobs-Connect
 Disallow: /Government/Departments-Organizations/Grants-Administration/Summer-Jobs-Connect-Miami/New-page
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Business-Continuity-Micro-Enterprise-Program-Application
+Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Business-Continuity-Micro-Enterprise-Program-Application-1
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Housing-Community-Development
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Rehabilitation-Program-1
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Replacement-Program-1
@@ -1412,7 +1428,6 @@ Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/Little-Haiti-Intended-Decision-TEST
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decisions-Little-Haiti/New-page
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-026-3
-Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-037-1
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-039-1
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-041-1
@@ -1571,6 +1586,7 @@ Disallow: /impactfee
 Disallow: /interimparking
 Disallow: /isaias
 Disallow: /LHCC/About/Featured-Background/New-page
+Disallow: /LHCC/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /LHCC/Home/Do-it-online/New-page
 Disallow: /LHCC/Home/Do-it-online/Programs
 Disallow: /LHCC/Home/Include-POC
@@ -1579,6 +1595,14 @@ Disallow: /LHCC/Home/Slider
 Disallow: /LHCC/Home/Slider/Second-Slide
 Disallow: /LHCC/Home/Tabs/New-page
 Disallow: /LHCC/Home/Tabs/TABS-test
+Disallow: /LHCC/News-articles/New-page
+Disallow: /LHCC/News-articles/TEST-News
+Disallow: /LHCC/News-Press/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
+Disallow: /LHCC/News-Press/Copy-of-TEST-News-1
+Disallow: /LHCC/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
+Disallow: /LHCC/News-Press/Little-Haiti-Live
+Disallow: /LHCC/News-Press/News-Item-1
+Disallow: /LHCC/News-Press/TEST-News
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART

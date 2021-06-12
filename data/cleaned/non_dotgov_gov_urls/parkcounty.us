@@ -1,3 +1,5 @@
-#Code to not allow any search engines!
 User-agent: *
-Disallow: /
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Sitemap: https://parkcounty-wy.gov/sitemap.xml
+Sitemap: https://parkcounty-wy.gov/sitemap.rss

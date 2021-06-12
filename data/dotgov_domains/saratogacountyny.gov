@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='saratogacountyny.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.saratogacountyny.gov/wp-sitemap.xml

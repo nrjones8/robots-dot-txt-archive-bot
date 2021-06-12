@@ -8,6 +8,10 @@ Disallow: /dashboard/
 Disallow: /notifications/
 Disallow: /aid-summary/
 Disallow: /payment/
+Disallow: /teach-initial-and-subsequent-counseling/demo/agreement-to-serve#!/demoTeachInit/*
+Disallow: /mpn/parentplus/demo/information#!/empnDemo/*
+Disallow: /plus-app/parent/demo/loan#!/plusDemo/*
+Disallow: /ats/demo/information#!/demoTeachAts/*
 
 # Block auth SL flows
 Disallow: /app/plusApplication.action 

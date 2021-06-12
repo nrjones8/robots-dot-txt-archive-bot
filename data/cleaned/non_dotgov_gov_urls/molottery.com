@@ -49,6 +49,7 @@ Disallow: /privacy_policy.shtm
 Disallow: /template.shtm
 Disallow: /terms_conditions.shtm
 Disallow: /play_responsibly/rotator.shtm
+Disallow: /play_responsibly/employeeResources.shtm
 # 
 # End of robots.txt file
 #
