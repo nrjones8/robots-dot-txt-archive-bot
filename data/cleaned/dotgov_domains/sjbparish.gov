@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Calendar
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Emergency-Preparedness/Shared-links
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Copy-of-Flood-Maps-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Videos
@@ -12,7 +11,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Residents/Inauguration
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Visitors/Accommodations
 Disallow: /Calendar
 Disallow: /Departments/Emergency-Preparedness/Shared-links
-Disallow: /Departments/Planning-and-Zoning/Copy-of-Flood-Maps-1
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /files/assets/public/templateimages/embed-bg.png

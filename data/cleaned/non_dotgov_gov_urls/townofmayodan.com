@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.townofmayodan.com/wp-sitemap.xml
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/

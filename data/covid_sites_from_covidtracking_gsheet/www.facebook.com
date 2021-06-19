@@ -13,7 +13,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -34,7 +33,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -55,7 +53,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -77,7 +74,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -99,7 +95,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -120,7 +115,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -141,7 +135,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /map_tile.php
@@ -165,7 +158,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -187,7 +179,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -208,7 +199,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -229,7 +219,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -251,7 +240,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -272,7 +260,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -293,7 +280,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -314,7 +300,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -336,7 +321,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -357,7 +341,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -378,7 +361,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
@@ -399,7 +381,6 @@ Disallow: /dialog/
 Disallow: /fbml/ajax/dialog/
 Disallow: /feeds/
 Disallow: /file_download.php
-Disallow: /hashtag/
 Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/

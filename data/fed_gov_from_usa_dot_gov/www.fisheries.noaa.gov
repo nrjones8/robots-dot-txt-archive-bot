@@ -82,20 +82,10 @@ Disallow: /node/*
 
 # Misc Items
 Disallow: /foss/::NO:::$
-Disallow /inport/about/
-Disallow /inport/contact/*
-Disallow /inport/forgot-password/*
-Disallow /inport/help/*
-Disallow /inport/hierarchy/*
-Disallow /inport/organization/*
-Disallow /inport/organizations/*
-Disallow: /inport/item/*
-Disallow /inport/privacy/*
-Disallow /inport/release-notes/*
-Disallow /inport/search/*
-Disallow /inport/security/*
-Disallow /inport/stats/*
-Disallow /inport/system-availability/*
 Disallow: /inportserve/waf/.xml$
 Disallow: /inportserve/waf/.pdf$
 Disallow /jira/secure/*
+Disallow /search?*
+Disallow /species-directory/*?*
+Disallow /protected-resource-regulations?*
+Disallow /sites/default/files/*?*

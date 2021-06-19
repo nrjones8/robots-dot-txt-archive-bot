@@ -6,3 +6,4 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /freedom-five-checkout-page.html

@@ -1,1 +1,1 @@
-Got an HTML response
+The page cannot be displayed because an internal server error has occurred.

@@ -36,12 +36,12 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /new-page/details$
-Disallow: /new-page/details?
-Disallow: /new-page/details/~
 Disallow: /departments-and-services/human-services/transportation$
 Disallow: /departments-and-services/human-services/transportation?
 Disallow: /departments-and-services/human-services/transportation/~
+Disallow: /new-page/details$
+Disallow: /new-page/details?
+Disallow: /new-page/details/~
 Disallow: /production/calendar/list$
 Disallow: /production/calendar/list?
 Disallow: /production/calendar/list/~
@@ -57,6 +57,9 @@ Disallow: /departments-and-services/human-services/veterans/~
 Disallow: /approved-designs$
 Disallow: /approved-designs?
 Disallow: /approved-designs/~
+Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee$
+Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee?
+Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/~
 Disallow: /instructions$
 Disallow: /instructions?
 Disallow: /instructions/~
@@ -69,9 +72,6 @@ Disallow: /instructions/homepage/~
 Disallow: /instructions/header-and-footer$
 Disallow: /instructions/header-and-footer?
 Disallow: /instructions/header-and-footer/~
-Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee$
-Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee?
-Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/~
 Disallow: /new-page$
 Disallow: /new-page?
 Disallow: /new-page/~
@@ -123,15 +123,15 @@ Disallow: /production/organizational/tabs/~
 Disallow: /site-notes$
 Disallow: /site-notes?
 Disallow: /site-notes/~
+Disallow: /departments-and-services/human-services/elderly-outreach$
+Disallow: /departments-and-services/human-services/elderly-outreach?
+Disallow: /departments-and-services/human-services/elderly-outreach/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
 Disallow: /production/constituent/profile$
 Disallow: /production/constituent/profile?
 Disallow: /production/constituent/profile/~
-Disallow: /departments-and-services/human-services/elderly-outreach$
-Disallow: /departments-and-services/human-services/elderly-outreach?
-Disallow: /departments-and-services/human-services/elderly-outreach/~
 Disallow: /production/page-layout/three-columns-top$
 Disallow: /production/page-layout/three-columns-top?
 Disallow: /production/page-layout/three-columns-top/~
@@ -336,12 +336,12 @@ Disallow: /departments-and-services/human-services/housing/~
 Disallow: /departments-and-services/human-services/food-bank$
 Disallow: /departments-and-services/human-services/food-bank?
 Disallow: /departments-and-services/human-services/food-bank/~
-Disallow: /departments-and-services/human-services/back-to-school$
-Disallow: /departments-and-services/human-services/back-to-school?
-Disallow: /departments-and-services/human-services/back-to-school/~
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/poems$
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/poems?
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/poems/~
+Disallow: /departments-and-services/human-services/back-to-school$
+Disallow: /departments-and-services/human-services/back-to-school?
+Disallow: /departments-and-services/human-services/back-to-school/~
 Disallow: /departments-and-services/human-services/renters-rebate$
 Disallow: /departments-and-services/human-services/renters-rebate?
 Disallow: /departments-and-services/human-services/renters-rebate/~

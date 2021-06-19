@@ -1,8 +1,1 @@
-# Added by SEO Ultimate's Link Mask Generator module
-User-agent: *
-Disallow: /go/
-# End Link Mask Generator output
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofatkins.com', port=80): Read timed out. (read timeout=15)"}
