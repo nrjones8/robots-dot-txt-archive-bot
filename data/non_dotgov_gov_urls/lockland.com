@@ -1,19 +1,8 @@
+# Default robots file version:2
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: http://locklandoh.org/wp-sitemap.xml
-Disallow: /*blackhole
-Disallow: /?blackhole
-Disallow: /residents-2/calendar/action~posterboard/
-Disallow: /residents-2/calendar/action~agenda/
-Disallow: /residents-2/calendar/action~oneday/
-Disallow: /residents-2/calendar/action~month/
-Disallow: /residents-2/calendar/action~week/
-Disallow: /residents-2/calendar/action~stream/
-Disallow: /residents-2/calendar/action~undefined/
-Disallow: /residents-2/calendar/action~http:/
-Disallow: /residents-2/calendar/action~default/
-Disallow: /residents-2/calendar/action~poster/
-Disallow: /residents-2/calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

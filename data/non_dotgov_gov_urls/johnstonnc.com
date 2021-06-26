@@ -10,3 +10,6 @@ Disallow: /vendorftp/
 Disallow: /visitors_files/
 Disallow: /calendar.cfm
 Disallow: /BOE_Nov2008/
+Disallow: /media/
+Disallow: /PIO/
+Disallow: /PIOInfo/

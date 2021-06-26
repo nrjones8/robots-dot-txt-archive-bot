@@ -1,1 +1,3 @@
-Got an HTML response
+User-agent: *
+Allow: /
+Sitemap: _DOMAIN_/sitemap.xml

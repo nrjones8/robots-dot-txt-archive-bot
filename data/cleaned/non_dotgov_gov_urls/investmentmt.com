@@ -1,4 +1,5 @@
+# www.robotstxt.org/
+# http://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /SearchResults
-Disallow: /404Error
-Disallow: /505Error
+Disallow: /404error
+Sitemap: https://investmentmt.com/sitemap.xml

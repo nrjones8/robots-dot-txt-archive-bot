@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Disallow: /uploads/wpo-plugins-tables-list.json
+Disallow: https://medorand.com/wp-content/uploads/wpo-plugins-tables-list.json
