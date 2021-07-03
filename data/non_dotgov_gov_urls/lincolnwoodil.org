@@ -1,19 +1,8 @@
+# Default robots file version:2
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.lincolnwoodil.org/wp-sitemap.xml
-Disallow: /*blackhole
-Disallow: /?blackhole
-Disallow: /our-community/events/action~posterboard/
-Disallow: /our-community/events/action~agenda/
-Disallow: /our-community/events/action~oneday/
-Disallow: /our-community/events/action~month/
-Disallow: /our-community/events/action~week/
-Disallow: /our-community/events/action~stream/
-Disallow: /our-community/events/action~undefined/
-Disallow: /our-community/events/action~http:/
-Disallow: /our-community/events/action~default/
-Disallow: /our-community/events/action~poster/
-Disallow: /our-community/events/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

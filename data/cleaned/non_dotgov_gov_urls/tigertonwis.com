@@ -1,2 +1,3 @@
-User-Agent: *
-Disallow: /
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*

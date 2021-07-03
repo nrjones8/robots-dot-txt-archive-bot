@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofhadley.com', port=80): Read timed out. (read timeout=15)"}
+Sitemap: http://cityofhadley.com/sitemap.xml

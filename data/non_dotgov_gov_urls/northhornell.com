@@ -1,4 +1,1 @@
-# Sitemap is also available on /sitemap.xml
-Sitemap: https://www.northhornell.com/sitemap.xml
-User-agent: *
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='northhornell.com', port=80): Read timed out. (read timeout=15)"}

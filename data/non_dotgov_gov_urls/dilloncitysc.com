@@ -103,3 +103,5 @@ Disallow: /
 User-agent: spyfu
 Disallow: /
 
+
+Sitemap: http://www.dilloncitysc.com/wp-sitemap.xml

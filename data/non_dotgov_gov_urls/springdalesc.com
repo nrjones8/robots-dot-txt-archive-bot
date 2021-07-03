@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 30
 
-Sitemap: http://www.springdalesc.com/wp-sitemap.xml

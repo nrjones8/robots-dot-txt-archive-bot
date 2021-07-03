@@ -1,8 +1,10 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
-User-agent: *
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+Sitemap: https://www.masonville-ny.us/sitemap.xml
+User-Agent: SemrushBot
+Disallow: /
+User-Agent: BlackWidow
 Disallow: /

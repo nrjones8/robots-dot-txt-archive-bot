@@ -1,3 +1,3 @@
-User-agent: *
-Disallow: 
-
+user-agent: *
+Allow: /$
+Disallow: /

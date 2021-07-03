@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='perrytownship-lake.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc8eeb228e0>, 'Connection to perrytownship-lake.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp1/wp-admin/
+Allow: /wp1/wp-admin/admin-ajax.php

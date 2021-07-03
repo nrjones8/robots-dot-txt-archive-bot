@@ -1,1 +1,41 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='sciencebase.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /confluence/
+Disallow: /arcgis/
+Disallow: /flexviewer/
+Disallow: /catalogMaps/
+Disallow: /vocab/
+Disallow: /catalog/file/
+Disallow: /catalog/folder/
+Disallow: /catalog/item/imap/
+Disallow: /catalog/item/feedMap/
+Disallow: /catalog/items/searchOverlay
+Disallow: /catalog/*?community=*
+Disallow: /catalog/*&community=*
+Disallow: /catalog/*?format=*
+Disallow: /catalog/*&format=*
+Disallow: /catalog/*?view=*
+Disallow: /catalog/*&view=*
+Crawl-Delay: 10
+Sitemap: https://www.sciencebase.gov/sitemaps/sitemap_index.xml
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: UptimeRobot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
