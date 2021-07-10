@@ -553,6 +553,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/test-xx
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Videos/Video-Player
@@ -1597,6 +1598,7 @@ Disallow: /Government/Shelly-Long
 Disallow: /Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /Government/Special-Commission-Meeting-Public-Comment-Registration
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
+Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /Government/test-xx
 Disallow: /Government/Videos/New-page
 Disallow: /Government/Videos/Video-Player

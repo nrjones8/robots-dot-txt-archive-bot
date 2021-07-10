@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://townofotis.com/sitemap.xml
+Sitemap: https://townofotis.com/sitemap.xml

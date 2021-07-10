@@ -1,1 +1,1 @@
-Sitemap: http://cityofhadley.com/sitemap.xml
+Sitemap: http://www.cityofhadley.com/sitemap.xml
