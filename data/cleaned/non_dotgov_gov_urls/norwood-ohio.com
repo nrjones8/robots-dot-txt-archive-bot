@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://norwood-ohio.com/sitemap.xml
+Got an HTML response

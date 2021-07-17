@@ -1,1 +1,1 @@
-Sitemap: http://www.cityofhadley.com/sitemap.xml
+Request failed

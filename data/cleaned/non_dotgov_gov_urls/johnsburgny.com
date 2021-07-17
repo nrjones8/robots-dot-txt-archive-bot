@@ -1,4 +1,4 @@
-Sitemap: http://www.johnsburgny.com/sitemap.xml
+Sitemap: https://www.johnsburgny.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

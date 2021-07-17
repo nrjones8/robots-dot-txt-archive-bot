@@ -804,6 +804,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/New-page
@@ -1050,6 +1051,7 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-TEST-News-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Little-Haiti-Live
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Sounds-of-Little-Haiti-Peace-Vigil-Memorial
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
@@ -1657,6 +1659,7 @@ Disallow: /LHCC/News-Press/Copy-of-TEST-News-1
 Disallow: /LHCC/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
 Disallow: /LHCC/News-Press/Little-Haiti-Live
 Disallow: /LHCC/News-Press/News-Item-1
+Disallow: /LHCC/News-Press/Sounds-of-Little-Haiti-Peace-Vigil-Memorial
 Disallow: /LHCC/News-Press/TEST-News
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
@@ -1871,6 +1874,7 @@ Disallow: /Services/Building-Permitting/Get-a-Sidewalk-Cafe-Permit
 Disallow: /Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
+Disallow: /Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Building-Permitting/New-page

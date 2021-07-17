@@ -1,2 +1,1 @@
-User-agent: *
-Crawl-delay: 10
+Request failed

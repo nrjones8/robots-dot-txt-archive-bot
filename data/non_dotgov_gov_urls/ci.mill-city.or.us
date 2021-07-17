@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /feeds
-Allow: /_/rsrc/
-Disallow: /_/
-Sitemap: http://www.ci.mill-city.or.us:80/system/feeds/sitemap
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ci.mill-city.or.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f42697d7a30>, 'Connection to ci.mill-city.or.us timed out. (connect timeout=15)'))"}
