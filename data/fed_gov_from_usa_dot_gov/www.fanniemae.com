@@ -13,8 +13,13 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+Sitemap: https://singlefamily.fanniemae.com/sitemap.xml
+Sitemap: https://multifamily.fanniemae.com/sitemap.xml
+Sitemap: https://capitalmarkets.fanniemae.com/sitemap.xml
+Sitemap: https://www.fanniemae.com/sitemap.xml
 User-agent: *
 Disallow: /*/node/
+Disallow: /homeown/
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?

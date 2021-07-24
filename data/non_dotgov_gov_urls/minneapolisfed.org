@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+﻿# robots.txt for Federal Reserve Bank of Minneapolis 
+# updated: 12/22/2020
+User-agent: *
+Disallow: /api/
+Disallow: /*link.aspx?_id*
+Disallow: /*media/*.ashx*
+Disallow: /home/legacy/
+Disallow: /home/legacyevents/
+Disallow: /home/legacypapers/
+Disallow: /home/legacyspeeches/
+Disallow: /All Sites/MFed/home/
+Disallow: /home/*/repository/*
+Disallow: /Search?*
+Disallow: /*?page=*

@@ -1,5 +1,6 @@
+# Directories
 User-agent: *
-Allow: /
+Disallow: /
 Disallow: /clerk/ArchiveSearch/
 Disallow: /scripts/
 Disallow: /App_Code/
@@ -7,7 +8,10 @@ Disallow: /App_WebReferences/
 Disallow: /Bin/
 Disallow: /webReports/
 Disallow: /Dev/
-Disallow:/Parksandrec/ContactHandler/
+Disallow: /Parksandrec/ContactHandler/
+Disallow: /DesktopModules/
+Disallow: /admin/
+# Bots
 User-agent: MJ12bot
 Disallow: /
 User-agent: AhrefsBot 

@@ -54,6 +54,9 @@ Disallow: /terms_conditions.shtm
 Disallow: /play_responsibly/rotator.shtm
 Disallow: /play_responsibly/employeeResources.shtm
 
+Disallow: /media/news_release.jsp
+
+
 # 
 # End of robots.txt file
 #

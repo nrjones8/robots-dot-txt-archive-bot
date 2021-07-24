@@ -1,19 +1,8 @@
+# Default robots file version:2
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.lakecountyclerkfl.gov/wp-sitemap.xml
-Disallow: /*blackhole
-Disallow: /?blackhole
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~posterboard/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~agenda/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~oneday/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~month/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~week/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~stream/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~undefined/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~http:/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~default/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~poster/
-Disallow: /departments/courts-management/civil-family/circuit-county-civil/foreclosure/calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

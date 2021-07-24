@@ -1,1 +1,2 @@
-Request failed
+User-agent: *
+Sitemap:http://cityofmarblehill.com/sitemap.xml

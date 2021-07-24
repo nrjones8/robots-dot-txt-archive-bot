@@ -58,4 +58,12 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
-Sitemap: https://www.whistleblowers.gov/sitemap.xml
+Disallow: /403error.html
+Disallow: /404error.html
+Disallow: /injuryreporting/ita/help-request-form/index.html
+Disallow: /node/*
+Sitemap: https://www.osha.gov/sites/default/files/sitemap-index.xml
+User-agent: usasearch
+Disallow: /sites/default/files/laws-regs/federalregister/*
+Sitemap: https://www.osha.gov/sites/default/files/sitemap-index.xml
+Crawl-delay: 3

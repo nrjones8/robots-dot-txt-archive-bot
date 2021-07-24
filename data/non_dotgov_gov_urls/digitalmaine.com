@@ -63,4 +63,4 @@ Disallow: /do/email_editor
 Disallow: /do/
 
 sitemap: https://digitalmaine.com/siteindex.xml
-sitemap: https://digitalmaine.com/exhibit/sitemap.xml
+sitemap: https://digitalmaine.com/exhibit/sitemap.xml</magic if bepress_ir></magic else>

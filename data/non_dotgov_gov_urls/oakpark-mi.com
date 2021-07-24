@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='oakpark-mi.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42697d2370>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.glisa.org/sitemap.xml

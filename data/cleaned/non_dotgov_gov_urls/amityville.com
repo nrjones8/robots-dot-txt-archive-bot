@@ -1,19 +1,8 @@
+# Default robots file version:2
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://amityville.com/wp-sitemap.xml
-Disallow: /*blackhole
-Disallow: /?blackhole
-Disallow: /community-cal/action~posterboard/
-Disallow: /community-cal/action~agenda/
-Disallow: /community-cal/action~oneday/
-Disallow: /community-cal/action~month/
-Disallow: /community-cal/action~week/
-Disallow: /community-cal/action~stream/
-Disallow: /community-cal/action~undefined/
-Disallow: /community-cal/action~http:/
-Disallow: /community-cal/action~default/
-Disallow: /community-cal/action~poster/
-Disallow: /community-cal/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

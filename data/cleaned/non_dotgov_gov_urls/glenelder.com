@@ -20,11 +20,11 @@ Disallow: /2018-chili-cook-off.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
 Disallow: /us-24-garage-sale.html
 Disallow: /ge-cloverleaf-4-h.html
+Disallow: /hmpg-header-storage.html
 Disallow: /http://www.glenelder.com/city-library.html
 Disallow: /mower-for-sale.html
-Disallow: /hmpg-header-storage.html
-Disallow: /election-information.html
 Disallow: /storage.html
+Disallow: /election-information.html
 Disallow: /upcoming-energy-bill.html
 Disallow: /covid-19.html
 Disallow: /gotomeeting-info.html

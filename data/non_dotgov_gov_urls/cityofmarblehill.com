@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofmarblehill.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+
+Sitemap:http://cityofmarblehill.com/sitemap.xml
