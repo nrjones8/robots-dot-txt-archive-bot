@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofcherryville.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3849ad4100>, 'Connection to cityofcherryville.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Allow: /
+
+# Optimization for Google Ads Bot
+User-Agent: AdsBot-Google-Mobile
+User-Agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+Sitemap: https://www.cityofcherryville.com/sitemap.xml

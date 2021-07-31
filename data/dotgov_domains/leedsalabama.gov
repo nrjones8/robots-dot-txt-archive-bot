@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: https://www.leedsalabama.org/wp-content/uploads/wpo-plugins-tables-list.json
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='leedsalabama.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0418e9aa60>, 'Connection to leedsalabama.gov timed out. (connect timeout=15)'))"}

@@ -1,1 +1,1 @@
-Got an HTML response
+Request failed

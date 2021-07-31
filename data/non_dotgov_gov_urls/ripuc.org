@@ -1,15 +1,3 @@
-User-agent: Googlebot
-Disallow: 
-
-User-agent: Bingbot
-Disallow: 
-
-
-User-agent: Visualping
-Disallow: /
-
-User-agent: MSNbot
-Disallow: / 
-
-User-agent: SemrushBot
-Disallow: /
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*

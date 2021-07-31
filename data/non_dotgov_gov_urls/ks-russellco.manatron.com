@@ -48,10 +48,10 @@ Disallow: /
 User-Agent: Owlin
 Disallow: /
 
-User-Agent: DUckDuckGo
+User-Agent: DuckDuckGo
 Disallow: /
 
-User-Agent: DUckDuckBot
+User-Agent: DuckDuckBot
 Disallow: /
 
 User-Agent: PagesInventory
@@ -133,16 +133,16 @@ User-agent: +http://megaindex.com/crawler
 Disallow: /
 
 User-agent: The Knowledge AI 
-Disallow:/
+Disallow: /
 
 User-agent: AccompanyBot
-Disallow:/
+Disallow: /
 
 User-agent: ZoominfoBot
-Disallow:/
+Disallow: /
 
 User-agent: GarlikCrawler/1.2
-Disallow:/
+Disallow: /
 
 User-agent: BLEXBot
 Disallow: /

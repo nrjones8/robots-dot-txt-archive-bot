@@ -6,7 +6,6 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /http://www.coopersville.com
 Disallow: /http://library.municode.com/index.aspx?clientId=13312
 Disallow: /http://www.coopersvillelibrary.org
 Disallow: /http://coopersvillebroncos.org

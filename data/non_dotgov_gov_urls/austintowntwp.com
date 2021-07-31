@@ -1,6 +1,5 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://www.austintowntwp.com/sitemap.xml
-Sitemap: http://www.austintowntwp.com/sitemap.rss
+Sitemap: http://www.austintowntwp.com/wp-sitemap.xml
