@@ -1,1 +1,1 @@
-Not Found [CFN #0005]
+User-agent: *

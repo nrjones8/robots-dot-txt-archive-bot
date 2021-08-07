@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.ic3.gov', port=443): Read timed out. (read timeout=15)"}
+﻿# robots.txt - IC3.gov
+
+User-agent: *
+Disallow: /Home/Error
+Disallow: /Home/PageNotFound
+Disallow: /Content/Images/
+Disallow: /Content/Styles/
+Disallow: /Home/Egress
+Disallow: /Media/PDF/AnnualReport/missing.aspx

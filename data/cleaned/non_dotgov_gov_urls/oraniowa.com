@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: guest.html
+Got an HTML response

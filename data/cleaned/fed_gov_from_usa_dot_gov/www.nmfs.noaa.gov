@@ -77,10 +77,6 @@ Sitemap: https://www.fisheries.noaa.gov/sitemap.xml
 # Node Paths
 Disallow: /node/*
 # Misc Items
-Disallow: /foss/::NO:::$
-Disallow: /inportserve/waf/.xml$
-Disallow: /inportserve/waf/.pdf$
-Disallow /jira/secure/*
 Disallow /search?*
 Disallow /species-directory/*?*
 Disallow /protected-resource-regulations?*
