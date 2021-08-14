@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /SD/
-Disallow: /dev/
+Got an HTML response

@@ -1,1 +1,22 @@
-Request failed
+# robots.txt for http://www.myfloridahouse.gov
+# mail webmaster@myfloridahouse.gov for constructive criticism
+User-agent: *
+Disallow: /Sections/MyHouse/myhouse.aspx
+Disallow: /Sections/MyHouse/RulesBillReview.aspx
+Disallow: /Sections/Bills/bills.aspx
+Disallow: /Sections/MyHouse/login.aspx
+Disallow: /Sections/PublicGuide/SalarySearchForm.aspx
+Disallow: /Sections/PublicGuide/ContractsSearchForm.aspx
+Disallow: /Sections/PublicGuide/PublicRequestForm.aspx
+Disallow: /CheckStatus/StatusPollerGrid.aspx
+Disallow: /check.aspx
+Disallow: /UC_Page
+Disallow: /LD
+Disallow: /api
+Disallow: /Sections/Documents/loaddoc.aspx
+User-agent: LWP::Simple
+Disallow: /
+User-agent: lwp-trivial
+Disallow: /
+User-agent: Yandex
+Disallow: /  

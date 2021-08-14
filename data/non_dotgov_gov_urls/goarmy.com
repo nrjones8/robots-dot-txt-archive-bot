@@ -1,13 +1,1 @@
-User-Agent: *
-Disallow: /rotc/find-schools.*
-Disallow: /locate-a-recruiter.*
-Disallow: /learn/understanding-the-asvab.*
-
-Allow: /learn/understanding-the-asvab.html
-Allow: /locate-a-recruiter.html
-
-Sitemap: https://goarmy.com/sitemap.xml
-Sitemap: https://www.goarmy.com/static/seo/eng-mos-sitemap.xml
-Sitemap: https://www.goarmy.com/static/seo/spanish-mos-sitemap.xml
-Sitemap: https://www.goarmy.com/static/seo/career-categories-sitemap.xml
-Sitemap: https://www.goarmy.com/static/seo/career-categories-spanish-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='goarmy.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fdb6538b2e0>, 'Connection to goarmy.com timed out. (connect timeout=15)'))"}

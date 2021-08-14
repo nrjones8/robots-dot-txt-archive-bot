@@ -1,3 +1,5 @@
+Sitemap: http://www.cityofrahway.org/sitemap.xml
+Sitemap: http://www.cityofrahway.org/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

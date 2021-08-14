@@ -1,2 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120

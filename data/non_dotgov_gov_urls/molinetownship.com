@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.molinetownship.com/wp-sitemap.xml
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

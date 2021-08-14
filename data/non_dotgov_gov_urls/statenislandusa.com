@@ -8,8 +8,8 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /staffdirectory-text.html
 Disallow: /hosting.html
-Disallow: /bookshelf.html
 Disallow: /dalyaward.html
+Disallow: /bookshelf.html
 Disallow: /home-slider.html
 Disallow: /flash.html
 Disallow: /gif-hosting.html

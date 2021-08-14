@@ -4,3 +4,4 @@ Disallow: /wp-admin/
 
 Sitemap: https://www.boltonnewyork.com/sitemap.xml
 Sitemap: https://www.boltonnewyork.com/sitemap.rss
+

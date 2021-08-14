@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='clallam.net', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe44e23bfd0>, 'Connection to clallam.net timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /test/
+Disallow: /testing/
+Disallow: /j1FSnt/
+Disallow: /error_page/
+Disallow: /BackupOld/
+Disallow: /css/
+Disallow: /includes/
+
+User-agent: googlebot
+Disallow: *.csi

@@ -75,4 +75,4 @@ Disallow: /http://www.stopdwi.org/home
 Disallow: /https://sites.google.com/a/columbiacountyny.com/treasurer/
 Disallow: /https://columbiacountytourism.org/
 Disallow: /https://sites.google.com/columbiacountyny.com/ccnyveterans/home
-Disallow: /youth-bureau.html
+Disallow: /https://sites.google.com/columbiacountyny.com/cc-youth-bureau/about-us
