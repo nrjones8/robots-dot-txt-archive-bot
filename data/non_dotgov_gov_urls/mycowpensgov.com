@@ -1,12 +1,5 @@
-user-agent: *
-Allow: /
-user-agent: Googlebot
-Allow: /
-User-agent: slurp
-Allow: /
-User-agent: msnbot
-Allow: /
-user-agent: *
-Disallow: /*add-to-cart=*
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://microzoomers.co/sitemap_index.xml
+Sitemap: https://microzoomers.co/wp-sitemap.xml

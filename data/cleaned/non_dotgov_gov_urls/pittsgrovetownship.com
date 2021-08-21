@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php  Sitemap: https://www.pittsgrovetownship.com/wp-sitemap.xml  Disallow: /uploads/wpo-plugins-tables-list.json
+Got an HTML response

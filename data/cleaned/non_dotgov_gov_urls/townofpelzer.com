@@ -1,5 +1,8 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-Sitemap: https://www.voting-integrity.org/sitemap.xml
-Sitemap: https://www.voting-integrity.org/sitemap.rss
+Disallow: /

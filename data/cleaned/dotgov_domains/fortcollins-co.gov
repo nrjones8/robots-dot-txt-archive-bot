@@ -13,6 +13,7 @@ Disallow: /purchasing/pdf/*
 Disallow: /tags-codes/*
 Disallow: /fctrip/ajax/*
 Disallow: /peakload/*
+Disallow: /it/digital-strategy-2021
 Disallow: /openbook/*
 Disallow: /utilities/water-meter-maintenance
 Disallow: /cityclerk/pdf/wc-resources.pdf

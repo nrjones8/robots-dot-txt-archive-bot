@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='itis.gov', port=443): Read timed out. (read timeout=15)"}
+
+# robots.txt for http://www.itis.gov
+
+User-agent: *
+Disallow:/tmp/
+Disallow:/FilesToBeDownloaded/
+Disallow:/ntwb/
+Disallow:/ntwb-web-services/
+Disallow:/ItisDataTools/
+Disallow:/ITISWebService/
+Disallow:/itisdownload/
+Disallow:/download/

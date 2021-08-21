@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+User-agent: *
+Disallow: /wp1/wp-admin/
+Allow: /wp1/wp-admin/admin-ajax.php

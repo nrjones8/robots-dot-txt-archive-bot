@@ -179,7 +179,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/firesocialmedia
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/FOLDER-NEED-TO-EXAMINE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Footer-Links
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Appeal-Intended-Decision-Trees-FORM
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Apply-for-a-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-Contractor-Registration-FORM
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm-FORM
@@ -666,7 +665,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/First-Annual-Swim-A
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Focus-on-Fitness-to-Prevent-Gun-Violence-in-Overtown
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Trolley-Detours
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/noisewaiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
@@ -720,7 +718,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Miami-Capital-New-Bi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Morningside-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Municode-Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/My-Security-Info
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Parks-Aquatics
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Pay
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Project-Intake-Form
@@ -766,9 +763,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages/Sample-A-Z-Servic
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/sealevelrise
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/seniordatafellow
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Apply-for-a-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Apply-for-a-Standalone-Tree-Permit-No-Construction
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Apply-for-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Applying-for-a-Standalone-tree-permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Change-Property-Zoning-Rezone
@@ -794,7 +789,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Appeal-a-Warrant-or-W
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Appealing-an-AIPPB-Decision-to-the-City-Commission
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Appealing-an-Exception-or-a-Variance
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Appealing-a-Warrant-or-Waiver
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Apply-for-a-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Apply-for-a-Public-Works-Construction-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Apply-for-a-Public-Works-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -811,7 +805,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/A
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Appeals-Hearings/Appeal-an-Exception-or-a-Variance
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Appeals-Hearings/Appeal-a-PZAB-Decision
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Apply-for-a-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Apply-for-a-Public-Works-Construction-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Building-Forms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Building-Permit-Forms
@@ -982,7 +975,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Directory/Appeal-a-Wa
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Directory/Opening-a-New-Business-Feedback-on-Process
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Appeal-a-Warrant-or-Waiver
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Apply-for-a-Construction-Noise-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Change-Property-Zoning-Rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Copy-of-Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Copy-of-Register-as-a-Building-Contractor
@@ -1078,7 +1070,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Works-Projects
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/About/Featured-Background/New-page
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Include-POC
@@ -1087,8 +1078,6 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Slider/Second-Slide
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Adventure-time-with-Yaya
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1254,7 +1243,6 @@ Disallow: /firesocialmedia
 Disallow: /FOLDER-NEED-TO-EXAMINE
 Disallow: /Footer-Links
 Disallow: /Forms/Appeal-Intended-Decision-Trees-FORM
-Disallow: /Forms/Apply-for-a-Construction-Noise-Waiver
 Disallow: /Forms/Building-Contractor-Registration-FORM
 Disallow: /Forms/Building-records-request-microfilm
 Disallow: /Forms/Building-records-request-microfilm-FORM
@@ -1713,7 +1701,6 @@ Disallow: /interimparking
 Disallow: /isaias
 Disallow: /itsupport
 Disallow: /LHCC/About/Featured-Background/New-page
-Disallow: /LHCC/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /LHCC/Home/Do-it-online/New-page
 Disallow: /LHCC/Home/Do-it-online/Programs
 Disallow: /LHCC/Home/Include-POC
@@ -1722,8 +1709,6 @@ Disallow: /LHCC/Home/Slider
 Disallow: /LHCC/Home/Slider/Second-Slide
 Disallow: /LHCC/Home/Tabs/New-page
 Disallow: /LHCC/Home/Tabs/TABS-test
-Disallow: /LHCC/News-Press/Adventure-time-with-Yaya
-Disallow: /LHCC/News-Press/Copy-of-NePale-Kreyól-Speak-Kreyól-Learn-the-basics-1
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1757,7 +1742,6 @@ Disallow: /News-Media/First-Annual-Swim-Awards-Ceremony
 Disallow: /News-Media/Focus-on-Fitness-to-Prevent-Gun-Violence-in-Overtown
 Disallow: /News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /News-Media/Trolley-Detours
-Disallow: /noisewaiver
 Disallow: /Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
@@ -1811,7 +1795,6 @@ Disallow: /redirects/Miami-Capital-New-Bids-and-Proposals
 Disallow: /redirects/Morningside-Park
 Disallow: /redirects/Municode-Procurement
 Disallow: /redirects/My-Security-Info
-Disallow: /redirects/New-page
 Disallow: /redirects/Parks-Aquatics
 Disallow: /redirects/Pay
 Disallow: /redirects/Project-Intake-Form
@@ -1857,9 +1840,7 @@ Disallow: /Sample-Pages/Sample-A-Z-Services-Page
 Disallow: /sealevelrise
 Disallow: /Search-Results
 Disallow: /seniordatafellow
-Disallow: /Service-Directory/Apply-for-a-Construction-Noise-Waiver
 Disallow: /Service-Directory/Apply-for-a-Standalone-Tree-Permit-No-Construction
-Disallow: /Service-Directory/Apply-for-Construction-Noise-Waiver
 Disallow: /Service-Directory/Applying-for-a-Standalone-tree-permit-No-Construction
 Disallow: /Service-Directory/Apply-to-Remove-a-Tree-for-Construction
 Disallow: /Service-Directory/Change-Property-Zoning-Rezone
@@ -1885,7 +1866,6 @@ Disallow: /Services/Appeal-a-Warrant-or-Waiver
 Disallow: /Services/Appealing-an-AIPPB-Decision-to-the-City-Commission
 Disallow: /Services/Appealing-an-Exception-or-a-Variance
 Disallow: /Services/Appealing-a-Warrant-or-Waiver
-Disallow: /Services/Apply-for-a-Construction-Noise-Waiver
 Disallow: /Services/Apply-for-a-Public-Works-Construction-Permit
 Disallow: /Services/Apply-for-a-Public-Works-Permit
 Disallow: /Services/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -1902,7 +1882,6 @@ Disallow: /Services/Building-Permitting/All-things-ePlan/Standard-Naming-Convent
 Disallow: /Services/Building-Permitting/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/New-page
 Disallow: /Services/Building-Permitting/Appeals-Hearings/Appeal-an-Exception-or-a-Variance
 Disallow: /Services/Building-Permitting/Appeals-Hearings/Appeal-a-PZAB-Decision
-Disallow: /Services/Building-Permitting/Apply-for-a-Construction-Noise-Waiver
 Disallow: /Services/Building-Permitting/Apply-for-a-Public-Works-Construction-Permit
 Disallow: /Services/Building-Permitting/Building-Forms
 Disallow: /Services/Building-Permitting/Building-Permit-Forms
@@ -2073,7 +2052,6 @@ Disallow: /Services-Directory/Appeal-a-Warrant-or-Waiver-to-the-Planning-Zoning-
 Disallow: /Services-Directory/Opening-a-New-Business-Feedback-on-Process
 Disallow: /Services-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /Services-Folder/Appeal-a-Warrant-or-Waiver
-Disallow: /Services-Folder/Apply-for-a-Construction-Noise-Waiver
 Disallow: /Services-Folder/Change-Property-Zoning-Rezone
 Disallow: /Services-Folder/Copy-of-Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Copy-of-Register-as-a-Building-Contractor

@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# robots.txt for myouttask.com - there is nothing here for a search engine
+User-agent: *
+Allow: /$
+Disallow: /

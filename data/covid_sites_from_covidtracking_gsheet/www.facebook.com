@@ -395,17 +395,20 @@ Disallow: /sharer/
 User-agent: Applebot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: baiduspider
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Bingbot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch
 
@@ -413,6 +416,7 @@ User-agent: Discordbot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
 
@@ -420,6 +424,7 @@ User-agent: facebookexternalhit
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
 
@@ -427,6 +432,7 @@ User-agent: Googlebot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch
 
@@ -434,6 +440,7 @@ User-agent: ia_archiver
 Allow: /about/privacy
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /full_data_use_policy
 Allow: /legal/terms
 Allow: /policy.php
@@ -443,61 +450,72 @@ User-agent: LinkedInBot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
 
 User-agent: msnbot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Naverbot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Pinterestbot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
 
 User-agent: seznambot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Slurp
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: teoma
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: TelegramBot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
 
 User-agent: Twitterbot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Yandex
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Yeti
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: *

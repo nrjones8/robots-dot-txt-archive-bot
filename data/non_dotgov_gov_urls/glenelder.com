@@ -17,6 +17,7 @@ Disallow: /letter-from-the-mayor.html
 Disallow: /hunter-breakfast.html
 Disallow: /spagetti-dinner.html
 Disallow: /template.html
+Disallow: /city-budget-hearing.html
 Disallow: /2019-motorcycle--car-run.html
 Disallow: /2018-chili-cook-off.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
