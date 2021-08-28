@@ -6,6 +6,7 @@
 		Disallow: /class/
 		Disallow: /content_types/
 		Disallow: /widgets/
+		Disallow: /search/
 		
 		Sitemap: https://www.millersburgohio.com/sitemap_index.xml	
 				

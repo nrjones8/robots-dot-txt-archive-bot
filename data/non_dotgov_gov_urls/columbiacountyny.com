@@ -46,7 +46,6 @@ Disallow: /http://www.townofgreenport.com/
 Disallow: /redirect-pages.html
 Disallow: /http://hillsdaleny.com/
 Disallow: /https://dmv.ny.gov/nav/custom-plates
-Disallow: /https://sites.google.com/a/columbiacountyny.com/col-co-department-of-social-services/
 Disallow: /http://cityofhudson.org
 Disallow: /https://translate.google.com/translate?sl=en&tl=es&u=columbiacountyny.com
 Disallow: /https://www.hudsonvalley360.com/
@@ -72,7 +71,6 @@ Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /http://www.ccswcd.org/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-solid-waste/home/
 Disallow: /http://www.stopdwi.org/home
-Disallow: /https://sites.google.com/a/columbiacountyny.com/treasurer/
 Disallow: /https://columbiacountytourism.org/
 Disallow: /https://sites.google.com/columbiacountyny.com/ccnyveterans/home
 Disallow: /https://sites.google.com/columbiacountyny.com/cc-youth-bureau/about-us

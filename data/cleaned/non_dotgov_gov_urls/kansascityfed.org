@@ -1,1 +1,9 @@
-Got an HTML response
+User-agent: *
+Disallow: /*.asp$
+Disallow: /*.php$
+Disallow: /*.cfm$
+Disallow: /search
+Disallow: /login
+Disallow: /admin
+Host: www.kansascityfed.org
+Sitemap: https://www.kansascityfed.org/sitemap.xml

@@ -1,10 +1,1 @@
-User-agent: *
-Disallow: /taoCMS/
-Disallow: /components/
-Allow: /components/google_sitemap.php
-Allow: /components/sitemap.php
-Allow: /components/rssfeed.php
-Allow: /components/stylesheet.php
-Allow: /components/newsfeed.php
-Allow: /components/*/js*.php
-Allow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='napoleonnd.com', port=80): Read timed out. (read timeout=15)"}

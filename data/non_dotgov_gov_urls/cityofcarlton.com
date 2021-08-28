@@ -1,6 +1,10 @@
 User-agent: *
 Disallow: https://www.cityofcarlton.com/c/
 Disallow: https://www.cityofcarlton.com/protected/
+Disallow: /city-code-ordinances/housing-zoning/
+Disallow: /city-code-ordinances/bow-hunting/
+Disallow: /city-code-ordinances/sewer-lateral-and-sump-pump/
+Disallow: /city-code-ordinances/zoning-applications/
 Disallow: /council-agendas/2021-agendas/
 Disallow: /council-agendas/2020-agendas/
 Disallow: /council-agendas/2019-agendas/

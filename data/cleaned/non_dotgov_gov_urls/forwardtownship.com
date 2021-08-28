@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: _DOMAIN_/sitemap.xml
+Sitemap: http://forwardtownship.com/sitemap.xml
