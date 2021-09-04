@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='stjosephcountyindiana.com', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}

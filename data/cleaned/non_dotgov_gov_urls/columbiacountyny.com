@@ -4,6 +4,7 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /-test-transportation-complaint-form.html
 Disallow: /http://philmont.org/
 Disallow: /http://www.columbiacountysheriff.us
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-environmental-management-council/
@@ -64,7 +65,7 @@ Disallow: /http://www.columbiacountytourism.org/
 Disallow: /managed-information-systems.html
 Disallow: /payroll.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-probation-department/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-real-property-tax/
+Disallow: /https://www.columbiacountyny.com/realproperty.html
 Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /http://www.ccswcd.org/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-solid-waste/home/

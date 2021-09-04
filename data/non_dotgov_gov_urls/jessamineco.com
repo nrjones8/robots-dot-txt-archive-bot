@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://jessamineco.com/wp-sitemap.xml
+Sitemap: https://jessamineco.com/sitemap.xml

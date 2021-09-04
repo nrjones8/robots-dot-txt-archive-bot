@@ -1,20 +1,22 @@
 # robots.txt for http://www.tazewell.com/
-# Last modified: 2019-03-11T15:01:00-0600
+# Last modified: 2021-09-01T17:17:00-0600
 
 User-agent: *
 Disallow: /ContactUs.html
 Disallow: /FOIAContacts.html
+Disallow: /taz-bor.html
+Disallow: /test.html
 Disallow: /AnimalControl/AnimalControl.html
 Disallow: /AnimalControl/HowToRegisterYourPet.html
 Disallow: /AnimalControl/UpdateInformation.html
 Disallow: /Assessments/Assessments.html
 Disallow: /Auditor/Auditor.html
 Disallow: /BoardofReview/BoardofReview.html
-Disallow: /ChildrensAdvocacy/Children'sAdvocacy.html
-Disallow: /CircuitClerk/
+Disallow: /ChildrensAdvocacy/ChildrensAdvocacy.html
 Disallow: /CommunityDevelopment/BuildingandPermitInformation.html
 Disallow: /CommunityDevelopment/CodesandOrdinancesEnforced.html
 Disallow: /CommunityDevelopment/CommunityDevelopment.html
+Disallow: /CommunityDevelopment/EnterpriseZoneInformation.html
 Disallow: /CommunityDevelopment/HelpfulHandoutsDiagramsandBuildingCodeInformation.html
 Disallow: /CommunityDevelopment/MiscDocumentsandInformation.html
 Disallow: /CommunityDevelopment/SubdivisionandStormwaterErosionInfo.html
@@ -24,19 +26,24 @@ Disallow: /CommunityDevelopment/TitleSevenChapterOneZoningCode.html
 Disallow: /CommunityDevelopment/ZoningBoardofAppeals.html
 Disallow: /Coroner/Coroner.html
 Disallow: /CountyAdministration/CountyAdministration.html
-Disallow: /CountyBoard/
+Disallow: /CountyBoard/*Committee.html
+Disallow: /CountyBoard/*Committees.html
+Disallow: /CountyBoard/BoardRep*.html
+Disallow: /CountyClerk/CountyClerk&Recorder.html
+Disallow: /CountyClerk/CountyClerkElections.html
 Disallow: /CountyClerk/CountyClerkFOIA.html
+Disallow: /CountyClerk/CountyClerkVitalRecords.html
 Disallow: /Courts/Courts.html
 Disallow: /DentalCenter/DentalCenter.html
-Disallow: /EMA/EMA.html
 Disallow: /ETSB/ETSB.html
-Disallow: /Finance/Finance.html
+Disallow: /Finance/FinanceBids.html
+Disallow: /groupwise
 Disallow: /HealthDepartment/HealthDepartment.html
-Disallow: /HighwayDepartment/HighwayDepartment.html
 Disallow: /HR/HR.html
+Disallow: /images
 Disallow: /Maintenance/Buildings&GroundsMaintenance.html
 Disallow: /Probation/ProbationContactInfo.html
-Disallow: /Sheriff/
+Disallow: /Sheriff-OLD
 Disallow: /StatesAttorney/State'sAttorney.html
 Disallow: /StatesAttorney/State'sAttorneyAboutUs.html
 Disallow: /StatesAttorney/State'sAttorneyBadCheck.html

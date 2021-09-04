@@ -1,33 +1,11 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
 User-agent: *
-Disallow: /
+Allow: /
 
-Crawl-delay: 60
+# Optimization for Google Ads Bot
+User-Agent: AdsBot-Google-Mobile
+User-Agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
 
-Sitemap: http://beresfordsd.com/sitemap.xml
+Sitemap: https://www.beresfordsd.com/sitemap.xml

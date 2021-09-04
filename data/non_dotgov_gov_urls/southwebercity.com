@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /wp-admin/
-Allow: /ajax
+Allow: /wp-admin/admin-ajax.php

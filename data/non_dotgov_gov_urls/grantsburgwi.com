@@ -15,7 +15,6 @@ Disallow: /http://www.burnettmedicalcenter.com
 Disallow: /https://grantsburgfoodshelf.com/
 Disallow: /http://grantsburgareahistoricalsociety.weebly.com/
 Disallow: /http://www.grantsburgwifire.org/
-Disallow: /http://grantsburg.wislib.org/
 Disallow: /http://grograntsburg.com/
 Disallow: /http://gk12.net
 Disallow: /http://www.wisconsin.gov/state/

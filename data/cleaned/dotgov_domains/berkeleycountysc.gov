@@ -16,3 +16,6 @@ Disallow: /wp-content/uploads/images/staff_profile/5226.jpg
 Disallow: /aby_ss/
 Disallow: /search/
 Disallow: /?s=*
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

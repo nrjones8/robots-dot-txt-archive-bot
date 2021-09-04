@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='wpnj.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd21db69970>, 'Connection to wpnj.us timed out. (connect timeout=15)'))"}
+User-Agent: *
+Disallow: /qscendpublic/
+Disallow: /qcore/
+Disallow: /qcontent/
+Disallow: /qalert/
+Disallow: /qscheduler/
+Disallow: /qpolling/
+Disallow: /qnotify/
+Disallow: /qforms/
+Disallow: /qcore/
+Disallow: /content/search.aspx

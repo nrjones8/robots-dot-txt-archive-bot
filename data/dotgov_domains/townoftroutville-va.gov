@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /administration/index.php
+Disallow: /administration/area.php
+Disallow: /administration/banner.php
+Disallow: /administration/newsletter.php
+Disallow: /administration/news.php
+Disallow: /administration/report.php
+Disallow: /administration/links.php
+Disallow: /administration/gallery.php
+Disallow: /administration/contentnew.php
+Disallow: /administration/content.php
+Disallow: /administration/business.php
+Disallow: /administration/alert.php
+Disallow: /administration/settings.php
+
+Disallow: /cgi-bin/
+Disallow: /uploads/

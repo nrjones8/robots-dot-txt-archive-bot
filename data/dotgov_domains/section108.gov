@@ -1,1 +1,15 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: 008
+Disallow: /	
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /web_arch/
+Disallow: /rr/mopic/staff
+Disallow: /loc/volunteers
+Disallow: /ficmanagers
+Disallow: /preserv/extranet/
+Disallow: /myloc
+Disallow: /nationalfilmregistry
+Disallow: /fedsearch
+Disallow: /search
+Crawl-Delay: 2

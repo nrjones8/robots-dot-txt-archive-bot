@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /content/lookup
-Disallow: /en-us/deals/
-Disallow: /content/visitflorida/en-us/deals/
+Allow: /
+Crawl-delay: 2
 Sitemap: https://www.visitflorida.com/sitemap.xml

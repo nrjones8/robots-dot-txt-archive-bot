@@ -1,6 +1,6 @@
 User-agent: MJ12bot
 Disallow: /
-User-Agent: *
+User-agent: *
 Disallow: /admin/
 Disallow: /portal/
 Disallow: /_int/
