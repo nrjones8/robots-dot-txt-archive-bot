@@ -1,5 +1,5 @@
 User-agent: *
-Crawl-delay: 60
+Crawl-delay: 15
 
 # Directories
 Disallow: /includes/
@@ -48,7 +48,7 @@ Disallow: /?q=sites/all/modules/
 Disallow: /?q=sites/all/libraries/
 Disallow: /?q=sites/all/include/
 
-# Aha Extras
+# Extras
 Disallow: /printmail/
 Disallow: /?q=printmail/
 Disallow: /printpdf/
@@ -94,7 +94,6 @@ Disallow: /calendar/week/
 Disallow: /q=calendar/week/
 Disallow: /calendar/year/
 Disallow: /q=calendar/year/
-#Additional
 Disallow: /dashboard
 Disallow: /?q=dashboard/
 Disallow: /my-business-licenses
@@ -117,8 +116,10 @@ Disallow: /taxonomy/term/
 Disallow: /?q=taxonomy/term/
 Disallow: /sites/default/files/webform/
 Disallow: /?q=sites/default/files/webform/
+Disallow: /interested-parties/
+Disallow: /?q=interested-parties/
 
-# 8
+
 # JS/CSS
 Allow: /core/*.css$
 Allow: /core/*.js$

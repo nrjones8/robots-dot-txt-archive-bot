@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='usarmyjrotc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0d22bf1f10>, 'Connection to usarmyjrotc.com timed out. (connect timeout=15)'))"}

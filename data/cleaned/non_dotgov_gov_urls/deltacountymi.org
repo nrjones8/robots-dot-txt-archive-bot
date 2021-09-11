@@ -1,4 +1,10 @@
+# BEGIN W3TC ROBOTS
 User-agent: *
+Disallow: /wp-content/cache/
+# END W3TC ROBOTS
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://deltacountymi.gov/wp-sitemap.xml
+Disallow: /readme.html
+Disallow: /refer/

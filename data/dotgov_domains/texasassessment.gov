@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.texasassessment.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /
+
+Sitemap: http://www.texasassessment.gov/sitemap.xml
+Sitemap: http://fl-alt-staging.cambiumast.com/sitemap.xml

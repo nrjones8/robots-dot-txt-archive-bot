@@ -1,1 +1,4 @@
-Request failed
+User-agent: Twitterbot
+Allow: /
+User-agent: * 
+Disallow: /

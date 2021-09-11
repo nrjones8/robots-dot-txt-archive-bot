@@ -1,16 +1,3 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Disallow: /calendar-old__trashed/action~posterboard/
-Disallow: /calendar-old__trashed/action~agenda/
-Disallow: /calendar-old__trashed/action~oneday/
-Disallow: /calendar-old__trashed/action~month/
-Disallow: /calendar-old__trashed/action~week/
-Disallow: /calendar-old__trashed/action~stream/
-Disallow: /calendar-old__trashed/action~undefined/
-Disallow: /calendar-old__trashed/action~http:/
-Disallow: /calendar-old__trashed/action~default/
-Disallow: /calendar-old__trashed/action~poster/
-Disallow: /calendar-old__trashed/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/

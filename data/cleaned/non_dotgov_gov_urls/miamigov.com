@@ -3,6 +3,7 @@ Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Copy-of-Solve-a-Pro
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/New-page
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Solve-a-Problem
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Watch-Live-Meetings
+Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Import-General-Pages/Business/New-Business-Guide
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Government/Watch-Live-Meetings
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Climate-Change-Environment
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Copy-of-Solve-a-Problem-1
@@ -42,6 +43,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/board-comment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/permits.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/unsafestructures.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Access-Jobs-Image-Gallery
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Murals
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/New-page
@@ -50,6 +52,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Co
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Supplemental-Sign-Regulations/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Miamis-Food-Truck-Ordinance
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
@@ -259,6 +262,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/S
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Commission-Meeting-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Commission-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Commission-Meeting-Public-Comment-Registration-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Commission-Meeting-Online-Public-Comment-Form-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/CoronavirusCOVID-19-Daily-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/CoronavirusCOVID-19-Information/Cancelled-Events-COVID
@@ -424,21 +428,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Planning-Meetings-Events/New-page-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Planning-Meetings-Events/Planning-Table-Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft-MFP
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft-Miami-Freedom-Park
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Miami-Freedom-Park-Pg.-2
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Miami-Freedom-Park-Timeline
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Reserve-School-Concurrency
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Run-School-Concurrency
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/School-Concurrency-Process
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Copy-of-Draft-Miami-Freedom-Park-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Draft
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Draft-Miami-Freedom-Park
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Miami-Freedom-Park-Timeline
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Copy-of-Intended-Decision-Notifications-Model-City-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Copy-of-Intended-Decisions-Little-Haiti-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decision-Notifications-Allapattah
@@ -526,6 +520,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Elections
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Elections-Info
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Elections-Information
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Final-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/First-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Instructions-for-the-Commission-Meeting-of-September-13-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD/New-page
@@ -619,6 +616,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library/Copy-of-Background-Ima
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/liquorreview
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Lost-Animals
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/makers
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Maps-Data/Public-Records-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/marinas
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediationsurvey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediatiorsurvey
@@ -632,6 +630,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/migration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/municode/procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/City-Commission
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Flooding
@@ -645,6 +644,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/ProChamps
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -679,9 +679,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
@@ -1181,9 +1183,11 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Easter-Seals-After-School-Program
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Free-Summer-Arts-Camp
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Camp-Discovery-Showcase
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-News-Item-3-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Easter-Seals-After-School-Program
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Free-Summer-Arts-Camp
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-4
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
@@ -1207,6 +1211,7 @@ Disallow: /board-comment
 Disallow: /building/permits.html
 Disallow: /building/unsafestructures.html
 Disallow: /Business/Access-Jobs-Image-Gallery
+Disallow: /Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
 Disallow: /Business/City-of-Miami-Sign-Code/Murals
 Disallow: /Business/City-of-Miami-Sign-Code/New-page
@@ -1215,6 +1220,7 @@ Disallow: /Business/City-of-Miami-Sign-Code/Supplemental-Sign-Regulations/Murals
 Disallow: /Business/City-of-Miami-Sign-Code/Supplemental-Sign-Regulations/New-page
 Disallow: /Business/City-of-Miami-Sign-Code/Understanding-the-Citys-Sign-Code
 Disallow: /Business/Miamis-Food-Truck-Ordinance
+Disallow: /Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
@@ -1430,6 +1436,7 @@ Disallow: /Government/ClimateReadyMiami/Storms
 Disallow: /Government/Commission-Meeting-Online-Public-Comment-Form
 Disallow: /Government/Commission-Meeting-Public-Comment-Registration
 Disallow: /Government/Commission-Meeting-Public-Comment-Registration-Form
+Disallow: /Government/Copy-of-Commission-Meeting-Online-Public-Comment-Form-1
 Disallow: /Government/Copy-of-Housing-Community-Development
 Disallow: /Government/CoronavirusCOVID-19-Daily-Updates
 Disallow: /Government/CoronavirusCOVID-19-Information/Cancelled-Events-COVID
@@ -1595,21 +1602,11 @@ Disallow: /Government/Departments-Organizations/Planning/Planning-Meetings-Event
 Disallow: /Government/Departments-Organizations/Planning/Planning-Meetings-Events/New-page-1
 Disallow: /Government/Departments-Organizations/Planning/Planning-Meetings-Events/Planning-Table-Test
 Disallow: /Government/Departments-Organizations/Planning/Post-Hurricane-Tree-Management
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft-MFP
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Draft-Miami-Freedom-Park
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Miami-Freedom-Park-Pg.-2
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/Miami-Freedom-Park-Timeline
-Disallow: /Government/Departments-Organizations/Planning/Project-Stories/Miami-Freedom-Park/New-page
 Disallow: /Government/Departments-Organizations/Planning/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /Government/Departments-Organizations/Planning/Reserve-School-Concurrency
 Disallow: /Government/Departments-Organizations/Planning/Run-School-Concurrency
 Disallow: /Government/Departments-Organizations/Planning/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /Government/Departments-Organizations/Planning/School-Concurrency-Process
-Disallow: /Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Copy-of-Draft-Miami-Freedom-Park-1
-Disallow: /Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Draft
-Disallow: /Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Draft-Miami-Freedom-Park
-Disallow: /Government/Departments-Organizations/Planning/Special-Area-Plans-SAP/Miami-Freedom-Park-Timeline
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Copy-of-Intended-Decision-Notifications-Model-City-1
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Copy-of-Intended-Decisions-Little-Haiti-1
 Disallow: /Government/Departments-Organizations/Planning/View-Intended-Decisions-Posted-for-Tree-Permitting/Intended-Decision-Notifications-Allapattah
@@ -1697,6 +1694,9 @@ Disallow: /Government/Departments-Organizations/Zoning/Zoning-Interpretations/Zo
 Disallow: /Government/Elections
 Disallow: /Government/Elections-Info
 Disallow: /Government/Elections-Information
+Disallow: /Government/Final-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /Government/First-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /Government/Instructions-for-the-Commission-Meeting-of-September-13-2021
 Disallow: /Government/Join-Miami-Police-Department-MPD
 Disallow: /Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /Government/Join-Miami-Police-Department-MPD/New-page
@@ -1798,9 +1798,11 @@ Disallow: /LHCC/Home/Tabs/TABS-test
 Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Easter-Seals-After-School-Program
 Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Free-Summer-Arts-Camp
 Disallow: /LHCC/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
+Disallow: /LHCC/News-Press/Camp-Discovery-Showcase
 Disallow: /LHCC/News-Press/Copy-of-News-Item-3-1
 Disallow: /LHCC/News-Press/Easter-Seals-After-School-Program
 Disallow: /LHCC/News-Press/Free-Summer-Arts-Camp
+Disallow: /LHCC/News-Press/New-page
 Disallow: /LHCC/News-Press/News-Item-4
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
@@ -1812,6 +1814,7 @@ Disallow: /Library/Copy-of-Background-Images
 Disallow: /liquorreview
 Disallow: /Lost-Animals
 Disallow: /makers
+Disallow: /Maps-Data/Public-Records-Request
 Disallow: /marinas
 Disallow: /mediationsurvey
 Disallow: /mediatiorsurvey
@@ -1825,6 +1828,7 @@ Disallow: /migration
 Disallow: /municode/procurement
 Disallow: /My-Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /My-Government/Boards-Committees/City-Commission
+Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
 Disallow: /My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /My-Government/ClimateChange/Flooding
@@ -1838,6 +1842,7 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
+Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /My-Government/Departments/Code-Compliance/ProChamps
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
@@ -1872,9 +1877,11 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Gen
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
+Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /My-Government/Departments/Resilience-and-Sustainability
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
+Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /My-Government/Elections/Elections-Information
 Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
@@ -2354,6 +2361,7 @@ Disallow: /user-test/Government/Copy-of-Solve-a-Problem-1
 Disallow: /user-test/Government/New-page
 Disallow: /user-test/Government/Solve-a-Problem
 Disallow: /user-test/Government/Watch-Live-Meetings
+Disallow: /user-test/Import-General-Pages/Business/New-Business-Guide
 Disallow: /user-test/My-Government/Watch-Live-Meetings
 Disallow: /user-test/My-Home-Neighborhood/Climate-Change-Environment
 Disallow: /user-test/My-Home-Neighborhood/Copy-of-Solve-a-Problem-1

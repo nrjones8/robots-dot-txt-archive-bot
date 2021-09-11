@@ -1,2 +1,1 @@
-User-agent: * 
-Disallow: /temp
+Request failed
