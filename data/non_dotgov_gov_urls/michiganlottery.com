@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.michiganlottery.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /games?SEARCH_TERM=
+
+Sitemap: https://www.michiganlottery.com/sitemap.xml

@@ -1,62 +1,61 @@
 #
+# robots.txt
 #
-# Please note: There are a lot of pages on this site, and there are
-# some misbehaved spiders out there that go _way_ too fast. If you're
-# irresponsible, your access to the site may be blocked.
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
 #
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
 #
-# ----- TEMP
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
 
-# added by civica to stop google index the dev site
-#User-agent: *
-#Disallow: /
-
-# Set delay for requests
 User-agent: *
-Request-rate: 1/5         # maximum rate is one page every 5 seconds
-Visit-time: 0900-1100     # only visit between 1:00 AM and 3:00 AM UT (GMT)
-
-# Don't index javascripts or stylesheets
-User-Agent: *
-Disallow: /*.js$
-Disallow: /*.css$
-
-# Don't index Images
-User-Agent: *
-Disallow: /*.gif$
-Disallow: /*.jpg$
-Disallow: /*.png$
-
-# Don't index these folders
-User-Agent: *
-Disallow: /*private*/
-Disallow: /*trash*/
-Disallow: /aspnet*/
-Disallow: /*aspnet*/
-Disallow: /cals/
-Disallow: /custom/
-Disallow: /civicax/
-Disallow: /_cache/
-Disallow: /_trashcan/
-Disallow: /_blobs/
-Disallow: /documents/
-Disallow: /faqs/
-Disallow: /flash/
-Disallow: /forms/
-Disallow: /forum/
-Disallow: /galleries/
-
-# Updated 091009 to comply with WAC recommendation
-# Disallow: /images/
-#
-
-Disallow: /img/
-Disallow: /inc/
-Disallow: /navdata/
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
 Disallow: /search/
-Disallow: groupcommon.asp
-Disallow: /swfs/
-Disallow: /ute/
-
-
-# END OF FILE
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/

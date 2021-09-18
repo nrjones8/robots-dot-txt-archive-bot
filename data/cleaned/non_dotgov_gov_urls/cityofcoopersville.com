@@ -1,4 +1,4 @@
-Sitemap: http://www.cityofcoopersville.com/sitemap.xml
+Sitemap: https://www.cityofcoopersville.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

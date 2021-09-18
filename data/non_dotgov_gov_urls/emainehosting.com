@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='emainehosting.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0d23257760>, 'Connection to emainehosting.com timed out. (connect timeout=15)'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

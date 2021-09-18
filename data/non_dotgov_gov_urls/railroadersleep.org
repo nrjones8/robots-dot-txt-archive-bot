@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='railroadersleep.fra.dot.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0d23302100>, 'Connection to railroadersleep.fra.dot.gov timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

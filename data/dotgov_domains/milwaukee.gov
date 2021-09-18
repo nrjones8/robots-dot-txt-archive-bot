@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='milwaukee.gov', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /display/components/Blocks
+Disallow: /*?*PrintPage=yes*
+Disallow: /MCINT
+Disallow: /ImageLibrary/Groups/cnty*

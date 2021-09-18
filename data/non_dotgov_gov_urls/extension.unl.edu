@@ -95,3 +95,5 @@ Disallow: /?q=book/export/html/
 Disallow: /?q=*/book/export/html/
 Disallow: /user
 Disallow: /user/*
+# UNL sites with custom domains that don't redirect
+Disallow: /ianr/extension/food/buy-fresh/

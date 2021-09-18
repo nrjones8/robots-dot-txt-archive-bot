@@ -1,4 +1,10 @@
+# For Production environment
+# Block all CMS resources for all bots
+# (inc Google Adsbot which ignore robots.txt unless specifically named)
 User-agent: *
+User-agent: Mediapartners-Google #Adsense
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
 Disallow: /workarea/
 Disallow: /widgets/
 Disallow: /File-a-Police-Report-Online/?step=*

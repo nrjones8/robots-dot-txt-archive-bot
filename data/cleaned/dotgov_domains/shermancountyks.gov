@@ -1,4 +1,6 @@
-# BEGIN W3TC ROBOTS
 User-agent: *
-Disallow: /wp-content/cache/
-# END W3TC ROBOTS
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpforms/
+Sitemap: https://www.shermancountyks.gov/wp-sitemap.xml
+Sitemap: https://www.shermancountyks.gov/sitemap.xml

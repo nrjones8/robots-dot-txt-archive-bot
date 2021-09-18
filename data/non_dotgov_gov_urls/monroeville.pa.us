@@ -1,1 +1,16 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Disallow: /
+
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://wwwtest.monroeville.pa.us/sitemapInitial.xml

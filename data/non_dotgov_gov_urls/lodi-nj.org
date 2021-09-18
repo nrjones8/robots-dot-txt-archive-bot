@@ -1,1 +1,11 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-Agent: *
+Disallow: /qscendpublic/
+Disallow: /qcore/
+Disallow: /qcontent/
+Disallow: /qalert/
+Disallow: /qscheduler/
+Disallow: /qpolling/
+Disallow: /qnotify/
+Disallow: /qforms/
+Disallow: /qcore/
+Disallow: /content/search.aspx

@@ -43,6 +43,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/board-comment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/permits.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/unsafestructures.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Access-Jobs-Image-Gallery
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Murals
@@ -273,6 +274,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Civilian
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Department-Page
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Code-Compliance/ProChamps
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Resilience-and-Sustainability
@@ -561,6 +566,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Busi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Employment-Job-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Resources
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Public-Comment-Registration
@@ -602,6 +608,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/Public-Notices
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Topic-Areas
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Home-Ownership/Housing-Income-Limits
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/Image-Gallery-Test
@@ -716,8 +723,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/parks/park_morningside.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Public-Places/Marinas/Dinner-Key-Mooring-Facility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Public-Places/Marinas/Miamarina-at-Bayside
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Public-Places/Parks-Directory/Dinner-Key-Marina
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Public-Places/Rent-Park-Equipment
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Public-Places/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Recreation/Dinner-Key-Marina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/passwordreset
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/pay
@@ -816,6 +821,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Im
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Grapeland-Image
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event-in-The-City-of-Miami
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Housing/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricane-Isaias-Updates
@@ -1011,7 +1017,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-Information-on
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/OLD-Rezone-a-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Parks-the-Environment/Plan-a-party-at-Grapeland-Water-Park
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Parks-the-Environment/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree-Kyle
@@ -1211,6 +1216,7 @@ Disallow: /board-comment
 Disallow: /building/permits.html
 Disallow: /building/unsafestructures.html
 Disallow: /Business/Access-Jobs-Image-Gallery
+Disallow: /Business/Business-Assistance-Grant
 Disallow: /Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
 Disallow: /Business/City-of-Miami-Sign-Code/Murals
@@ -1447,6 +1453,10 @@ Disallow: /Government/Department/Civilian-Investigative-Panel
 Disallow: /Government/Department/New-page
 Disallow: /Government/Department/Test-Building-Department-Page
 Disallow: /Government/Department/Test-Department-Page
+Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
+Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
+Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments/Office-of-Code-Compliance/ProChamps
 Disallow: /Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Government/Departments/Resilience-and-Sustainability
@@ -1735,6 +1745,7 @@ Disallow: /Government/Reopening-Plan/Business-Resources
 Disallow: /Government/Reopening-Plan/Employment-Job-Resources
 Disallow: /Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /Government/Reopening-Plan/Resources
+Disallow: /Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /Government/Shelly-Long
 Disallow: /Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /Government/Special-Commission-Meeting-Public-Comment-Registration
@@ -1776,6 +1787,7 @@ Disallow: /Home/Tabs/Public-Notices
 Disallow: /Home/Topic-Areas
 Disallow: /Home/Trees
 Disallow: /Housing-Assistance-Recovery/Home-Ownership/Housing-Income-Limits
+Disallow: /Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant
 Disallow: /https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /Image-Galleries
 Disallow: /Image-Galleries/Image-Gallery-Test
@@ -1914,8 +1926,6 @@ Disallow: /parks/park_morningside.html
 Disallow: /Parks-Public-Places/Marinas/Dinner-Key-Mooring-Facility
 Disallow: /Parks-Public-Places/Marinas/Miamarina-at-Bayside
 Disallow: /Parks-Public-Places/Parks-Directory/Dinner-Key-Marina
-Disallow: /Parks-Public-Places/Rent-Park-Equipment
-Disallow: /Parks-Public-Places/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /Parks-Recreation/Dinner-Key-Marina
 Disallow: /passwordreset
 Disallow: /pay
@@ -2014,6 +2024,7 @@ Disallow: /Residents/Copy-of-Grapeland-Image-1
 Disallow: /Residents/Grapeland-Image
 Disallow: /Residents/Host-an-Event
 Disallow: /Residents/Host-an-Event-in-The-City-of-Miami
+Disallow: /Residents/Housing/Business-Assistance-Grant
 Disallow: /Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /Residents/Hurricane-Guide/Hurricane-Isaias-Updates
@@ -2209,7 +2220,6 @@ Disallow: /Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
 Disallow: /Services/OLD-Rezone-a-Property
 Disallow: /Services/Parks-the-Environment/Plan-a-party-at-Grapeland-Water-Park
-Disallow: /Services/Parks-the-Environment/Reserve-a-Park-Facility/Rent-Park-Equipment
 Disallow: /Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /Services/Remove-a-tree
 Disallow: /Services/Remove-a-tree-Kyle

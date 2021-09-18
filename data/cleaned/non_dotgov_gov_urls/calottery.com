@@ -14,6 +14,8 @@ Disallow: /promounsubscribe
 Disallow: /sitecore modules/
 Disallow: /mobile-promotions
 Disallow: /my-account/my-profile
+Disallow: /scratchers-quiz-results
+Disallow: /scratchers-quiz-questions
 Disallow: /my-account/my-profile/edit
 Disallow: /manual-account-verification
 Disallow: /Unsubscribe-Notification-Results

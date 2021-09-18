@@ -1,1 +1,21 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='treasury.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0d239952e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /_layouts
+Disallow: /Style%20Library
+Disallow: /utilities/
+Disallow: /securerout/
+Disallow: /auctions/irs/akamai-test-object.html
+Disallow: /ffb/akamai-test-object.html
+Disallow: /irsob/akamai-test-object.html
+Disallow: /auctions/treasury/rp/akamai-test-object.html
+Disallow: /auctions/treasury/gp/akamai-test-object.html
+Disallow: /auctions/irs/docs/
+Disallow: /auctions/irs/images/
+Disallow: /auctions/treasury/rp/images/
+Disallow: /auctions/treasury/rp/include/
+Disallow: /tigta/akamai-test-object.html
+Disallow: /initiatives/financial-stability/about
+Disallow: /initiatives/financial-stability/briefing-room/
+Disallow: /initiatives/financial-stability/Pages/default-old.aspx
+Disallow: /initiatives/financial-stability/programs/
+Disallow: /initiatives/financial-stability/results/
+Disallow: /Pages/Search*

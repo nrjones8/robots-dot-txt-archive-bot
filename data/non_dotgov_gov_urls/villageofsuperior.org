@@ -1,4 +1,8 @@
-Sitemap: http://www.villageofsuperior.org/sitemap.xml#Wildcard robots.txt agent (ask all bots to crawl slowly but still index everything).
+Sitemap: https://www.villageofsuperior.org/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
 User-agent: *
-Crawl-delay: 1
-Disallow:
+Disallow: /ajax/
+Disallow: /apps/
