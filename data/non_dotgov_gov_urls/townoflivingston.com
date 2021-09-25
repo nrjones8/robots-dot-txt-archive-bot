@@ -1,6 +1,2 @@
-User-agent: psbot
-Disallow: /
-User-agent: *
+User-Agent: *
 Disallow:
-Crawl-delay: 10
-Sitemap: https://townoflivingston-com.webnode.com/sitemap.xml

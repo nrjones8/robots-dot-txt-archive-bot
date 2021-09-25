@@ -11,9 +11,10 @@ Disallow: /http://www.glenelder.com/waconda-lake.html
 Disallow: /2015-craft-fair.html
 Disallow: /http://www.glenelder.com/history.html
 Disallow: /2021-fun-run.html
-Disallow: /hunter-breakfast.html
+Disallow: /steakfest-cookoff.html
 Disallow: /spagetti-dinner.html
 Disallow: /template.html
+Disallow: /hunter-breakfast.html
 Disallow: /2019-motorcycle--car-run.html
 Disallow: /2018-chili-cook-off.html
 Disallow: /http://www.glenelder.com/waconda-springs.html

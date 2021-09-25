@@ -61,7 +61,10 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
+Disallow: /hidden
+Disallow: /hidden/
 Disallow: /hidden/login
+Disallow: /hidden/login/
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

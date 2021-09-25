@@ -35,7 +35,7 @@ Disallow: /http://www.clermontny.org/
 Disallow: /central-services.html
 Disallow: /https://www.nycourts.gov/courts/
 Disallow: /http://townofcopake.org/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/elections/election_information/election-results
+Disallow: /https://sites.google.com/a/columbiacountyny.com/elections/election-information/election-results
 Disallow: /https://weather.com/weather/today/l/12534:4:US
 Disallow: /http://gallatin.yourtownhub.com/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/civilservice/

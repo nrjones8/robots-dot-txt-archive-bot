@@ -1,2 +1,8 @@
 User-agent: *
 Crawl-delay: 10
+
+User-agent: *
+Disallow: /Admin/
+Disallow: /Account/
+Disallow: /cust_login.cfm
+Sitemap: https://lvd-nsn.gov/sitemap.xml

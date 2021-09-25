@@ -1,6 +1,1 @@
-User-agent: *
-Crawl-Delay: 5
-Disallow: /admin/
-Disallow: /tasks/
-Disallow: /requirements/
-Disallow: /config/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

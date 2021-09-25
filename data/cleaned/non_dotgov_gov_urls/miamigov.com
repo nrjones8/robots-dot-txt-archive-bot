@@ -178,6 +178,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Appeal-Intended-Decision
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-Contractor-Registration-FORM
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm-FORM
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Copy-of-Apply-for-a-Construction-Noise-Waiver-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Dewatering-Permit-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Direct-Deposit-ACH-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Flooding-Report-Form
@@ -192,6 +193,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/On-Demand-Form-En-Espano
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/On-Demand-transportation-FORM
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Protocol-Request-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Report-a-Damaged-Sidewalk-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Report-an-Improperly-Parked-Scooter
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Report-a-Pothole
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Report-a-Pothole-FORM
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Report-a-Problem
@@ -278,6 +280,10 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Cl
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Code-Compliance/ProChamps
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Resilience-and-Sustainability
@@ -597,6 +603,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Events/Test-Calendar
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Home/Homepage/Meetings-Events/MEETING-TEMPLATE
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Home/Homepage/Meetings-Events/Test-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/MEETING-TEMPLATE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
@@ -638,6 +646,17 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/municode/procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/City-Commission
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Autism-Awareness
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Autism-Awareness-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Autism-Awareness-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Copy-of-Autism-Awareness-1-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/District-4-Farm-Share
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Flagami-Trolley
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Senior-Center
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Three-Kings-Parade
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-5-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Flooding
@@ -710,6 +729,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Focus-on-Fitness-to
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Trolley-Detours
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/Events-Activities/Event-to-test-workflow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
@@ -817,6 +837,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Website-Study
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Register-for-Confidential-Exempt-Self-Identification
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rentaltest
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/reportascooter
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Image-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Grapeland-Image
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event
@@ -1357,6 +1378,7 @@ Disallow: /Forms/Appeal-Intended-Decision-Trees-FORM
 Disallow: /Forms/Building-Contractor-Registration-FORM
 Disallow: /Forms/Building-records-request-microfilm
 Disallow: /Forms/Building-records-request-microfilm-FORM
+Disallow: /Forms/Copy-of-Apply-for-a-Construction-Noise-Waiver-1
 Disallow: /Forms/Dewatering-Permit-Form
 Disallow: /Forms/Direct-Deposit-ACH-Form
 Disallow: /Forms/Flooding-Report-Form
@@ -1371,6 +1393,7 @@ Disallow: /Forms/On-Demand-Form-En-Espanol
 Disallow: /Forms/On-Demand-transportation-FORM
 Disallow: /Forms/Protocol-Request-Form
 Disallow: /Forms/Report-a-Damaged-Sidewalk-Form
+Disallow: /Forms/Report-an-Improperly-Parked-Scooter
 Disallow: /Forms/Report-a-Pothole
 Disallow: /Forms/Report-a-Pothole-FORM
 Disallow: /Forms/Report-a-Problem
@@ -1457,6 +1480,10 @@ Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
+Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
+Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
+Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
+Disallow: /Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /Government/Departments/Office-of-Code-Compliance/ProChamps
 Disallow: /Government/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Government/Departments/Resilience-and-Sustainability
@@ -1776,6 +1803,8 @@ Disallow: /Home/FeaturedContentSecondary/Miami-Trolley
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website
 Disallow: /Home/Homepage/Events/Test-Calendar
+Disallow: /Home/Homepage/Meetings-Events/MEETING-TEMPLATE
+Disallow: /Home/Homepage/Meetings-Events/Test-Calendar
 Disallow: /Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /Home/Homepage/Public-Meetings/MEETING-TEMPLATE
 Disallow: /Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
@@ -1841,6 +1870,17 @@ Disallow: /municode/procurement
 Disallow: /My-Government/Boards-Committees/Arts-and-Entertainment-Board
 Disallow: /My-Government/Boards-Committees/City-Commission
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Autism-Awareness
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Autism-Awareness-1
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Autism-Awareness-2
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Copy-of-Copy-of-Autism-Awareness-1-1
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/District-4-Farm-Share
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Flagami-Trolley
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/New-page
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Senior-Center
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Three-Kings-Parade
+Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-5-Image-Gallery
 Disallow: /My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /My-Government/ClimateChange/Flooding
@@ -1913,6 +1953,7 @@ Disallow: /News-Media/Focus-on-Fitness-to-Prevent-Gun-Violence-in-Overtown
 Disallow: /News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OFFICER
 Disallow: /News-Media/Trolley-Detours
 Disallow: /Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
+Disallow: /Notices/Events-Activities/Event-to-test-workflow
 Disallow: /Notices/News-Media/Code-Relief-Program-approved-and-expedited-review-of-Building-plans
 Disallow: /Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Plans
 Disallow: /Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
@@ -2020,6 +2061,7 @@ Disallow: /redirects/Website-Study
 Disallow: /Register-for-Confidential-Exempt-Self-Identification
 Disallow: /remove-a-tree
 Disallow: /rentaltest
+Disallow: /reportascooter
 Disallow: /Residents/Copy-of-Grapeland-Image-1
 Disallow: /Residents/Grapeland-Image
 Disallow: /Residents/Host-an-Event
