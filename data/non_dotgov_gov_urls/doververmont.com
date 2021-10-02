@@ -1,59 +1,15 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
-
 User-agent: *
-Crawl-delay: 10
-# CSS, JS, Images
-Allow: /misc/*.css$
-Allow: /misc/*.css?
-Allow: /misc/*.js$
-Allow: /misc/*.js?
-Allow: /misc/*.gif
-Allow: /misc/*.jpg
-Allow: /misc/*.jpeg
-Allow: /misc/*.png
-Allow: /modules/*.css$
-Allow: /modules/*.css?
-Allow: /modules/*.js$
-Allow: /modules/*.js?
-Allow: /modules/*.gif
-Allow: /modules/*.jpg
-Allow: /modules/*.jpeg
-Allow: /modules/*.png
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /themes/*.css$
-Allow: /themes/*.css?
-Allow: /themes/*.js$
-Allow: /themes/*.js?
-Allow: /themes/*.gif
-Allow: /themes/*.jpg
-Allow: /themes/*.jpeg
-Allow: /themes/*.png
+Crawl-delay: 15
+
 # Directories
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
+Disallow: /sites/all/modules/
+Disallow: /sites/all/libraries/
+Disallow: /sites/all/include/
 Disallow: /themes/
 # Files
 Disallow: /CHANGELOG.txt
@@ -88,3 +44,108 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Disallow: /?q=sites/all/modules/
+Disallow: /?q=sites/all/libraries/
+Disallow: /?q=sites/all/include/
+
+# Extras
+Disallow: /printmail/
+Disallow: /?q=printmail/
+Disallow: /printpdf/
+Disallow: /?q=printpdf/
+Disallow: /print/
+Disallow: /?q=print/
+Disallow: /citizenrequest/
+Disallow: /?q=citizenrequest/
+Disallow: /calendar.ics
+Disallow: /?q=calendar.ics
+Disallow: /banner/
+Disallow: /?q=banner/
+Disallow: /simplenews/
+Disallow: /?q=simplenews/
+Disallow: /faq/
+Disallow: /?q=faq/
+Disallow: /standard-location/
+Disallow: /?q=standard-location/
+Disallow: /intranet/
+Disallow: /?q=intranet/
+Disallow: /banner/
+Disallow: /?q=banner/
+Disallow: /rss/
+Disallow: /?q=rss/
+Disallow: /data/
+Disallow: /?q=data/
+Disallow: /dept/
+Disallow: /?q=dept/
+Disallow: /sites/all/modules/
+Disallow: /?q=sites/all/modules/
+Disallow: /sites/all/libraries/
+Disallow: /?q=sites/all/libraries/
+Disallow: /user/login
+Disallow: /ticket-administration
+Disallow: /?q=/ticket-administration
+Disallow: /ticket_status
+Disallow: /?q=/ticket_status
+Disallow: /directory/xls
+Disallow: /?q=/directory/xls
+Disallow: /calendar/day/
+Disallow: /q=calendar/day/
+Disallow: /calendar/week/
+Disallow: /q=calendar/week/
+Disallow: /calendar/year/
+Disallow: /q=calendar/year/
+Disallow: /dashboard
+Disallow: /?q=dashboard/
+Disallow: /my-business-licenses
+Disallow: /?q=my-business-licenses/
+Disallow: /my-business-license-orders
+Disallow: /?q=my-business-license-orders/
+Disallow: /bsns-license-renewal-search
+Disallow: /?q=bsns-license-renewal-search/
+Disallow: /bsns-license/
+Disallow: /?q=bsns-license/
+Disallow: /mywestlinn
+Disallow: /?q=mywestlinn/
+Disallow: /mybusiness
+Disallow: /?q=mybusiness/
+Disallow: /business-registration-*
+Disallow: /?q=business-registration-*
+Disallow: /participantprofile/
+Disallow: /?q=participantprofile/
+Disallow: /taxonomy/term/
+Disallow: /?q=taxonomy/term/
+Disallow: /sites/default/files/webform/
+Disallow: /?q=sites/default/files/webform/
+Disallow: /interested-parties/
+Disallow: /?q=interested-parties/
+
+
+# JS/CSS
+Allow: /core/*.css$
+Allow: /core/*.js$
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips/
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/

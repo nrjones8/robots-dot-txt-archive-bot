@@ -16,6 +16,7 @@ Disallow: /2021-fun-run.html
 Disallow: /steakfest-cookoff.html
 Disallow: /spagetti-dinner.html
 Disallow: /template.html
+Disallow: /soup-luncheon.html
 Disallow: /hunter-breakfast.html
 Disallow: /2019-motorcycle--car-run.html
 Disallow: /2018-chili-cook-off.html

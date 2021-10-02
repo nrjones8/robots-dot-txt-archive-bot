@@ -21,7 +21,7 @@ Disallow: /accounts-payable.html
 Disallow: /http://www.columbiaedc.com/
 Disallow: /your-government.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-real-property-tax/assessments
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/board-calendar
+Disallow: /https://boardofsupervisors.columbiacountyny.com/home/board-calendar
 Disallow: /http://austerlitzny.com/
 Disallow: /https://columbiachamber-ny.com/
 Disallow: /county-services.html

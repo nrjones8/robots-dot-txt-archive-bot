@@ -1,6 +1,5 @@
 # we use Shopify as our ecommerce platform
 User-agent: *
-Disallow: /a/downloads/-/*
 Disallow: /admin
 Disallow: /cart
 Disallow: /orders
@@ -47,7 +46,6 @@ User-agent: Nutch
 Disallow: /
 User-agent: AhrefsBot
 Crawl-delay: 10
-Disallow: /a/downloads/-/*
 Disallow: /admin
 Disallow: /cart
 Disallow: /orders
@@ -82,7 +80,6 @@ Disallow: /apple-app-site-association
 Sitemap: https://phillipsburgantiquemall.com/sitemap.xml
 User-agent: AhrefsSiteAudit
 Crawl-delay: 10
-Disallow: /a/downloads/-/*
 Disallow: /admin
 Disallow: /cart
 Disallow: /orders

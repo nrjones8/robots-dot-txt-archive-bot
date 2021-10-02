@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.philaport.com/sitemap.xml
-Sitemap: https://www.philaport.com/sitemap.rss
-
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='philaport.com', port=443): Read timed out. (read timeout=15)"}
