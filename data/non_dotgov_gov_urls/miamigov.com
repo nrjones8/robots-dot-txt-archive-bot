@@ -75,6 +75,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Health-and-Safety
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Youth
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/communitybudgetmeeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community-Health/Apply-for-a-Large-Group-Feeding-Permit
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community-Health/Apply-for-a-Large-Group-Feeding-Permit-for-the-Homeless
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community-Health/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/communitymeeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Connect/Getting-Around
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox
@@ -174,6 +177,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Emergency-Updates/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Events-Activities/Copy-of-Background-Images
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/feedings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/film-permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/findyourcommissioner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/firesocialmedia
@@ -474,10 +478,14 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/New-Miami-Comprehensive-Neighborhood-Plan-MCNP
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/Virginia-Key-Flex-ParkMarine-Stadium
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning-Department-Final/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Copy-of-General-Terms-Conditions-IFBv1-1
@@ -721,6 +729,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Combined-Calendar-Test
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Miami-21-Task-Force-Meeting-in-March-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Planning-Table-Test
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Planning-Department-Projects
@@ -776,6 +785,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment-December
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Special-Message-Vendors
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/OLDRESTOREO
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Our-Services
@@ -804,8 +814,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Ca
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Appeal-an-Unsafe-Structures-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
@@ -1032,6 +1044,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/T
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Trees/New-Standalone-Tree-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Trees-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Trees-OLD/FAQs-about-Trees-Tree-Permits
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Unsafe-Structures
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/View-Bi-annual-Rezone-Cycle-Deadlines-to-Submit-for-Public-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Zoning-Issues/View-Bi-annual-Rezone-Cycle-Deadlines-to-Submit-for-Public-Hearing
@@ -1100,6 +1113,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appea
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-an-Unsafe-Structure-Violation/Appeal-an-Unsafe-Structures-Violation
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-an-Unsafe-Structure-Violation/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Request-traffic-Calming-on-a-Street
@@ -1238,6 +1253,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Works-Projects
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Copy-of-2021-Breastfeed-Miami-Art-of-Breastfeeding-Event-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/La-Mode-Eclectic-Showcase
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/About/Featured-Background/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/Programs
@@ -1249,13 +1265,23 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Tabs/TABS-test
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Easter-Seals-After-School-Program
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Free-Summer-Arts-Camp
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/New-page
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Camp-Discovery-Showcase
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-News-Item-3-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Copy-of-TEST-News-1
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Easter-Seals-After-School-Program
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Free-Summer-Arts-Camp
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/La-Mode-Eclectic-Showcase
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Little-Haiti-Live
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/New-page
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/News-Item-4
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Sounds-of-Little-Haiti-Peace-Vigil-Memorial
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Sounds-of-Little-Haiti-Reloaded-with-Enposib
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1309,6 +1335,9 @@ Disallow: /Community/Health-and-Safety
 Disallow: /Community/New-page
 Disallow: /Community/Youth
 Disallow: /communitybudgetmeeting
+Disallow: /Community-Health/Apply-for-a-Large-Group-Feeding-Permit
+Disallow: /Community-Health/Apply-for-a-Large-Group-Feeding-Permit-for-the-Homeless
+Disallow: /Community-Health/New-page
 Disallow: /communitymeeting
 Disallow: /Connect/Getting-Around
 Disallow: /Content-Sandbox
@@ -1411,6 +1440,7 @@ Disallow: /estart/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images
+Disallow: /feedings
 Disallow: /files/assets/public/document-resources/pdf-docs/city-attorney/org-chart.pdf
 Disallow: /files/assets/public/validation/loaderio-3222d0840f994f184825e15134ccc3fc.txt
 Disallow: /files/sharedassets/public/attorneys/org-chart.pdf
@@ -1714,10 +1744,14 @@ Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appeal
 Disallow: /Government/Departments-Organizations/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /Government/Departments-Organizations/Planning-Department/Hurricane-Preparedness
 Disallow: /Government/Departments-Organizations/Planning-Department/New-Miami-Comprehensive-Neighborhood-Plan-MCNP
+Disallow: /Government/Departments-Organizations/Planning-Department/Virginia-Key-Flex-ParkMarine-Stadium
+Disallow: /Government/Departments-Organizations/Planning-Department/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Copy-of-Hurricane-Preparedness-1
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Hurricane-Preparedness
+Disallow: /Government/Departments-Organizations/Planning-Department-Final/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Miami-Comprehensive-Neighborhood-Plan-MCNP
 Disallow: /Government/Departments-Organizations/Planning-Department-Final/Post-Hurricane-Tree-Management
+Disallow: /Government/Departments-Organizations/Planning-Department-Final/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD
 Disallow: /Government/Departments-Organizations/Police-Department/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /Government/Departments-Organizations/Procurement/Copy-of-General-Terms-Conditions-IFBv1-1
@@ -1875,6 +1909,7 @@ Disallow: /isaias
 Disallow: /itsupport
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Copy-of-2021-Breastfeed-Miami-Art-of-Breastfeeding-Event-1
+Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/La-Mode-Eclectic-Showcase
 Disallow: /LHCC/About/Featured-Background/New-page
 Disallow: /LHCC/Home/Do-it-online/New-page
 Disallow: /LHCC/Home/Do-it-online/Programs
@@ -1886,13 +1921,23 @@ Disallow: /LHCC/Home/Tabs/New-page
 Disallow: /LHCC/Home/Tabs/TABS-test
 Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Easter-Seals-After-School-Program
 Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Free-Summer-Arts-Camp
+Disallow: /LHCC/News-articles/New-page
+Disallow: /LHCC/News-articles/TEST-News
 Disallow: /LHCC/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /LHCC/News-Press/Camp-Discovery-Showcase
 Disallow: /LHCC/News-Press/Copy-of-News-Item-3-1
+Disallow: /LHCC/News-Press/Copy-of-TEST-News-1
+Disallow: /LHCC/News-Press/COVID-19-Vaccination-Site-Charles-Hadley-Park
 Disallow: /LHCC/News-Press/Easter-Seals-After-School-Program
 Disallow: /LHCC/News-Press/Free-Summer-Arts-Camp
+Disallow: /LHCC/News-Press/La-Mode-Eclectic-Showcase
+Disallow: /LHCC/News-Press/Little-Haiti-Live
 Disallow: /LHCC/News-Press/New-page
+Disallow: /LHCC/News-Press/News-Item-1
 Disallow: /LHCC/News-Press/News-Item-4
+Disallow: /LHCC/News-Press/Sounds-of-Little-Haiti-Peace-Vigil-Memorial
+Disallow: /LHCC/News-Press/Sounds-of-Little-Haiti-Reloaded-with-Enposib
+Disallow: /LHCC/News-Press/TEST-News
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
@@ -1985,6 +2030,7 @@ Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /My-Government/Departments/Planning/Combined-Calendar-Test
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
+Disallow: /My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
 Disallow: /My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Miami-21-Task-Force-Meeting-in-March-2021
 Disallow: /My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Planning-Table-Test
 Disallow: /My-Government/Departments/Planning/Planning-Department-Projects
@@ -2040,6 +2086,7 @@ Disallow: /Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Pla
 Disallow: /Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment-December
+Disallow: /Notices/News-Media/Special-Message-Vendors
 Disallow: /Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /OLDRESTOREO
 Disallow: /Our-Services
@@ -2068,8 +2115,10 @@ Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog-2
 Disallow: /Permits-Construction/Permit-Catalog-2
 Disallow: /Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
+Disallow: /Permits-Construction/Unsafe-Structures/Appeal-an-Unsafe-Structures-Violation
 Disallow: /Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
@@ -2296,6 +2345,7 @@ Disallow: /Services/Building-Permitting/Trees/FAQs-about-Trees-Tree-Permits
 Disallow: /Services/Building-Permitting/Trees/New-Standalone-Tree-Permit-No-Construction
 Disallow: /Services/Building-Permitting/Trees-OLD
 Disallow: /Services/Building-Permitting/Trees-OLD/FAQs-about-Trees-Tree-Permits
+Disallow: /Services/Building-Permitting/Unsafe-Structures
 Disallow: /Services/Building-Permitting/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /Services/Building-Permitting/View-Bi-annual-Rezone-Cycle-Deadlines-to-Submit-for-Public-Hearing
 Disallow: /Services/Building-Permitting/Zoning-Issues/View-Bi-annual-Rezone-Cycle-Deadlines-to-Submit-for-Public-Hearing
@@ -2364,6 +2414,8 @@ Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
 Disallow: /Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
 Disallow: /Services/Solve-a-Problem/New-page
+Disallow: /Services/Solve-a-Problem/Respond-to-an-Unsafe-Structure-Violation/Appeal-an-Unsafe-Structures-Violation
+Disallow: /Services/Solve-a-Problem/Respond-to-an-Unsafe-Structure-Violation/New-page
 Disallow: /Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
 Disallow: /Services/Transportation/Request-traffic-Calming-on-a-Street

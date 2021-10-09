@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+
+
+Sitemap: https://sp.health.maryland.gov:443/sitemap.xml
