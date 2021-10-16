@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# All robots allowed
+User-agent: *
+Disallow:
+
+# Sitemap files
+Sitemap: https://www.clintoncounty-ia.gov/sitemap.aspx

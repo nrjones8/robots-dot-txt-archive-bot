@@ -23,6 +23,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: baiduspider
 Disallow: /ajax/
@@ -43,6 +45,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Bingbot
 Disallow: /ajax/
@@ -63,6 +67,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Discordbot
 Disallow: /
@@ -84,6 +90,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: facebookexternalhit
 Disallow: /
@@ -105,6 +113,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Googlebot
 Disallow: /ajax/
@@ -125,6 +135,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Googlebot-Image
 Disallow: /ajax/
@@ -147,6 +159,8 @@ Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /static_map.php
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: ia_archiver
 Disallow: /
@@ -168,6 +182,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: LinkedInBot
 Disallow: /
@@ -189,6 +205,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: msnbot
 Disallow: /ajax/
@@ -209,6 +227,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Naverbot
 Disallow: /ajax/
@@ -229,6 +249,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Pinterestbot
 Disallow: /
@@ -250,6 +272,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: seznambot
 Disallow: /ajax/
@@ -270,6 +294,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Slurp
 Disallow: /ajax/
@@ -290,6 +316,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: teoma
 Disallow: /ajax/
@@ -310,6 +338,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: TelegramBot
 Disallow: /
@@ -331,6 +361,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Twitterbot
 Disallow: /ajax/
@@ -351,6 +383,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Yandex
 Disallow: /ajax/
@@ -371,6 +405,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Yeti
 Disallow: /ajax/
@@ -391,6 +427,8 @@ Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
 Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 
 User-agent: Applebot
 Allow: /ajax/bootloader-endpoint/

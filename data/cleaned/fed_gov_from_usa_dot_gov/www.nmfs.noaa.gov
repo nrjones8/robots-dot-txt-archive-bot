@@ -39,22 +39,45 @@ Disallow: /profiles/
 Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
+Disallow: /taxonomy/
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
-Disallow: /user/register
-Disallow: /user/password
-Disallow: /user/login
-Disallow: /user/logout
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /funding-opportunities/open-opportunities*
+Disallow: /funding-opportunities/closed-opportunities*
+Disallow: /fishing-and-seafood-permits?*
+Disallow: /protected-species-permits?*
+Disallow: /rules-and-announcements/*?*
+Disallow: /resources/*?*
+Disallow: /all-events*
+Disallow: /events*
+Disallow: /past-events*
+Disallow: /news-and-announcements/*?*
+Disallow: /tags*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
-Disallow: /index.php/user/password
-Disallow: /index.php/user/register
-Disallow: /index.php/user/login
-Disallow: /index.php/user/logout
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+# PatternLab
+Disallow: /themes/custom/noaa_components/pattern-lab/
+# Sitemap files
+Sitemap: https://www.fisheries.noaa.gov/sitemap.xml
+# Node Paths
+Disallow: /node/*
+# Misc Items
+Disallow /search?*
+Disallow /species-directory/*?*
+Disallow /protected-resource-regulations?*
+Disallow /sites/default/files/*?*

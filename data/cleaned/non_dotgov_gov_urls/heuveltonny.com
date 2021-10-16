@@ -4,4 +4,3 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /http://

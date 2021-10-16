@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://chesterfield.nh.gov/sitemap.xml
-Sitemap: https://chesterfield.nh.gov/sitemap.rss
-
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

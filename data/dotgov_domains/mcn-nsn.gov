@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mcn-nsn.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc339d74a30>, 'Connection to mcn-nsn.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin
+Allow: /wp-admin/admin-ajax.php

@@ -1,1 +1,24 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='forsythco.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc339d4f850>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /login
+Disallow: /Admin
+Disallow: /Host
+Disallow: /Portals
+Disallow: /portals
+Disallow: /admin
+Disallow: /host
+Disallow: /Meetings
+Disallow: /Search-Results?
+Disallow: /*.jpg$
+Disallow: /*.pdf$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.tif$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Crawl-delay: 1
+User-agent: *
+Disallow: /Activity-Feed
+User-agent: Googlebot-Image
+Disallow: /

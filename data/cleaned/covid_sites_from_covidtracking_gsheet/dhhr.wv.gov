@@ -1,1 +1,1 @@
-404 NOT FOUND
+Request failed

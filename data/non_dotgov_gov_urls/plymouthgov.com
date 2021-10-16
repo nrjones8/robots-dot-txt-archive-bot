@@ -1,17 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /calendar/action~posterboard/
-Disallow: /calendar/action~agenda/
-Disallow: /calendar/action~oneday/
-Disallow: /calendar/action~month/
-Disallow: /calendar/action~week/
-Disallow: /calendar/action~stream/
-Disallow: /calendar/action~undefined/
-Disallow: /calendar/action~http:/
-Disallow: /calendar/action~default/
-Disallow: /calendar/action~poster/
-Disallow: /calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
-Sitemap: https://plymouthgov.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='plymouthgov.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f07fd264a90>, 'Connection to plymouthgov.com timed out. (connect timeout=15)'))"}

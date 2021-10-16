@@ -12,7 +12,7 @@ Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/cc-form-2__secured__
 Disallow: /https://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&&jsenabled=1&winh=920&winw=1920&inifr=false
 Disallow: /https://www.omniapartners.com/publicsector/us-communities-an-omnia-partner
 Disallow: /https://www.okacco.com/policies--procedures.html
-Disallow: /http://agecon.okstate.edu/ctp/files/June%202016%20County%20Commissioner%20Handbook%20.pdf
+Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/county-commissioner-2021.pdf
 Disallow: /http://www.jasoncwagnerfoundation.org/
 Disallow: /https://eriskhub.com/acco
 Disallow: /http://www.occedb.org/statutes/

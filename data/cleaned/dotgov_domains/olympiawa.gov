@@ -1,4 +1,12 @@
-ï»¿User-agent: *
-Disallow: /staging/
-Disallow: /test-channel/
-Disallow: /media/apps/arcgis-online/
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: LinkedInBot/1.0
+Allow: /
+User-agent: Twitterbot
+Allow: /
+User-agent: *
+Disallow: /

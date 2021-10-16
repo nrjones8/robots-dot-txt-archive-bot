@@ -1,2 +1,1 @@
-User-agent: * 
-Disallow:
+Got an HTML response
