@@ -1,1 +1,10 @@
-Got an HTML response
+<!-- Id = $Id: robots.txt 6740 2020-12-10 14:30:43Z jkarthigairajan $ -->
+<!-- URL = $URL: https://prod-cicm.uspto.gov/scm/svn/ADMIN-WWWUSPTO-DEV-D8/trunk/www/web_cms_common/var/www/html/robots.txt $ -->
+User-agent: *
+Disallow: /web/offices/com/sol/foia/oed/disc/D2008-03.pdf
+Disallow: /go/com/sol/foia/oed/disc/D2008-03.pdf
+Disallow: /cgi-bin/
+Disallow: /includes/
+Sitemap: https://www.uspto.gov/xfer-search/sitemap.xml
+Sitemap: https://www.uspto.gov/xfer-search/sitemap1.xml
+Sitemap: https://www.uspto.gov/xfer-search/sitemap2.xml

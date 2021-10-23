@@ -5,4 +5,6 @@ Crawl-Delay: 10
 Allow: /
 Disallow: /music-trail/artist-questionnaire
 Disallow: /styleguide
+Disallow: /summer
+Disallow: /spring
 Sitemap: http://www.travelok.com/sitemap.xml.gz

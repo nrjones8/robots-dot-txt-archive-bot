@@ -1,1 +1,1 @@
-Sitemap: http://www.cityofhadley.com/sitemap.xml
+Got an HTML response

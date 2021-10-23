@@ -1,1 +1,1 @@
-User-agent: *
+Request failed

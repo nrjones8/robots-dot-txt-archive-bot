@@ -1,1 +1,1 @@
-Unavailable Shop
+Got an HTML response

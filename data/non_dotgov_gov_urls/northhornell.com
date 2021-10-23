@@ -1,4 +1,1 @@
-# Sitemap is also available on /sitemap.xml
-Sitemap: https://www.northhornell.com/sitemap.xml
-User-agent: *
-
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

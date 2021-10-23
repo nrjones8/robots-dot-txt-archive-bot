@@ -1,8 +1,12 @@
-# Default robots file version:2
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: LinkedInBot/1.0
+Allow: /
+User-agent: Twitterbot
+Allow: /
 User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+Disallow: /

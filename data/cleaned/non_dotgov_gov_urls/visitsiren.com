@@ -1,4 +1,4 @@
-Sitemap: https://www.visitsiren.com/sitemap.xml
+Sitemap: http://www.visitsiren.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

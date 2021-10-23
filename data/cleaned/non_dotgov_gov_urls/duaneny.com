@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://duaneny.com/wp-sitemap.xml
+Disallow: /wp-admin/
+Sitemap: https://duaneny.com/sitemap.xml
+Sitemap: https://duaneny.com/sitemap.rss

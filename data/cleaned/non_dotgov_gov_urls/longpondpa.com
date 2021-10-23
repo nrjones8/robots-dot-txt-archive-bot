@@ -1,1 +1,1 @@
-Sitemap: http://longpondpa.com/sitemap.xml
+Got an HTML response

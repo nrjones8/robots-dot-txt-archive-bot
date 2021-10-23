@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='elmcitync.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f07fd0d5b80>, 'Connection to elmcitync.com timed out. (connect timeout=15)'))"}
+#WPCYCLE WordPress Robots txt
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://elmcitync.com/sitemap.xml

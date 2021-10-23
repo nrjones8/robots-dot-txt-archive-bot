@@ -1,2 +1,1 @@
-User-agent: SMTBot
-Disallow: /
+Got an HTML response
