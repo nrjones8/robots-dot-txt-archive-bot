@@ -1,1 +1,12 @@
-Got an HTML response
+#
+# robots.txt
+#
+User-agent: *
+Crawl-delay: 10
+# Directories
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /tipuesearch/
+Disallow: /manifest.json
+Disallow: /README.md

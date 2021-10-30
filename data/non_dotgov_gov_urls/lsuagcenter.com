@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /extranet/
-Allow: /
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}

@@ -1,4 +1,5 @@
 User-agent:googlebot
+Allow: /publicorder*.pdf
 Disallow:/*.pdf$
 
 User-agent:googlebot
@@ -11,3 +12,5 @@ Disallow:/BDReN/
 Disallow:/Policy/
 Disallow:/nl/
 Disallow:/NoCrawl/
+
+Sitemap: https://llr.sc.gov/sitemap.xml

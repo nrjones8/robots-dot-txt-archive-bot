@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.stripes.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow:
+Sitemap: https://www.stripes.com/sitemap/sitemap-index.xml

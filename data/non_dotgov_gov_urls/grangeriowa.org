@@ -1,8 +1,53 @@
-User-Agent: *
+User-Agent: Googlebot
+Crawl-delay: 1
 Allow: /wp-content/uploads/
-Crawl-delay: 5
 Disallow: /wp-content/plugins/
 Disallow: /wp-admin/
 Disallow: /wp-content/uploads/backupbuddy_backups
 Disallow: /readme.html
 Disallow: /refer/
+
+User-Agent: Bingbot
+Crawl-delay: 1
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/backupbuddy_backups
+Disallow: /readme.html
+Disallow: /refer/
+
+User-Agent: Slurp
+Crawl-delay: 1
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/backupbuddy_backups
+Disallow: /readme.html
+Disallow: /refer/
+
+User-Agent: DuckDuckBot
+Crawl-delay: 1
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/backupbuddy_backups
+Disallow: /readme.html
+Disallow: /refer/
+
+User-Agent: Googlebot-Image
+Crawl-delay: 1
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/backupbuddy_backups
+Disallow: /readme.html
+Disallow: /refer/
+
+User-Agent: Googlebot-Mobile
+Crawl-delay: 1
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/backupbuddy_backups
+Disallow: /readme.html
+Disallow: /refer/
+
+User-agent: *
+Disallow: /

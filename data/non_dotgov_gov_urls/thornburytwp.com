@@ -1,6 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.thornburytwp.com/sitemap.xml
-Sitemap: https://www.thornburytwp.com/sitemap.rss
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='thornburytwp.com', port=80): Read timed out. (read timeout=15)"}
