@@ -43,7 +43,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/OLD-PAGE-Certificate-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Budgets-and-Finances/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
@@ -348,6 +347,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Housing-Community-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Rehabilitation-Program-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Replacement-Program-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Small-Business-Emergency-Loan-Program-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Copy-of-Small-Business-Emergency-Loan-Program-Proposed-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Housing-Income-Limits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/rentaltest
@@ -355,6 +355,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Single-Family-Rehabilitation-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Single-Family-Replacement-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program-Proposed
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Resources/Become-a-Miami-Firefighter/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
@@ -685,6 +686,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Hous
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Housing-Community-Development/Single-Family-Rehabilitation-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Housing-Community-Development/Single-Family-Replacement-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/Opportunity-Center
@@ -889,6 +891,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages/Sample-A-Z-Services-Page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/SBELP2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/sealevelrise
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/seniordatafellow
@@ -1227,9 +1230,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Website-Study
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Whats-On/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Works-Projects
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Caribbean-Market-Day
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Copy-of-2021-Breastfeed-Miami-Art-of-Breastfeeding-Event-1
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/La-Mode-Eclectic-Showcase
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/About/Featured-Background/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Home/Do-it-online/New-page
@@ -1244,7 +1245,6 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-L
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Global-Borderless-Caribbean-XII-Focus-Miami-Exhibition
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-articles/TEST-News
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Camp-Discovery-Showcase
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Caribbean-Market-Day
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/Caribbean-Market-Day-Caribbean-Month
@@ -1299,7 +1299,6 @@ Disallow: /Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
-Disallow: /Business-Licenses/Budgets-and-Finances/New-page
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
@@ -1612,6 +1611,7 @@ Disallow: /Government/Departments-Organizations/Housing-Community-Development/Co
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Housing-Community-Development
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Rehabilitation-Program-1
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Single-Family-Replacement-Program-1
+Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Small-Business-Emergency-Loan-Program-1
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Copy-of-Small-Business-Emergency-Loan-Program-Proposed-1
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Housing-Income-Limits
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/rentaltest
@@ -1619,6 +1619,7 @@ Disallow: /Government/Departments-Organizations/Housing-Community-Development/Si
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Single-Family-Rehabilitation-Program
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Single-Family-Replacement-Program
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program
+Disallow: /Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /Government/Departments-Organizations/Housing-Community-Development/Small-Business-Emergency-Loan-Program-Proposed
 Disallow: /Government/Departments-Organizations/Human-Resources/Become-a-Miami-Firefighter/New-page
 Disallow: /Government/Departments-Organizations/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
@@ -1883,9 +1884,7 @@ Disallow: /impactfee
 Disallow: /interimparking
 Disallow: /isaias
 Disallow: /itsupport
-Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Caribbean-Market-Day
-Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Copy-of-2021-Breastfeed-Miami-Art-of-Breastfeeding-Event-1
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/La-Mode-Eclectic-Showcase
 Disallow: /LHCC/About/Featured-Background/New-page
 Disallow: /LHCC/Home/Do-it-online/New-page
@@ -1900,7 +1899,6 @@ Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Caribbean-Market-D
 Disallow: /LHCC/NePale-Kreyól-Speak-Kreyól-Learn-the-basics/Global-Borderless-Caribbean-XII-Focus-Miami-Exhibition
 Disallow: /LHCC/News-articles/New-page
 Disallow: /LHCC/News-articles/TEST-News
-Disallow: /LHCC/News-Press/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /LHCC/News-Press/Camp-Discovery-Showcase
 Disallow: /LHCC/News-Press/Caribbean-Market-Day
 Disallow: /LHCC/News-Press/Caribbean-Market-Day-Caribbean-Month
@@ -1990,6 +1988,7 @@ Disallow: /My-Government/Departments/Housing-Community-Development/Single-Family
 Disallow: /My-Government/Departments/Housing-Community-Development/Single-Family-Rehabilitation-Program
 Disallow: /My-Government/Departments/Housing-Community-Development/Single-Family-Replacement-Program
 Disallow: /My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program
+Disallow: /My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /My-Government/Departments/Human-Services/Opportunity-Center
@@ -2194,6 +2193,7 @@ Disallow: /rezone
 Disallow: /Rezoning-Information
 Disallow: /Sample-Pages
 Disallow: /Sample-Pages/Sample-A-Z-Services-Page
+Disallow: /SBELP2
 Disallow: /sealevelrise
 Disallow: /Search-Results
 Disallow: /seniordatafellow

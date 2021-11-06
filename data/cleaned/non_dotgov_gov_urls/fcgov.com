@@ -18,16 +18,18 @@ Disallow: /openbook/*
 Disallow: /utilities/water-meter-maintenance
 Disallow: /cityclerk/pdf/wc-resources.pdf
 Disallow: /*?PageSpeed=noscript*
-Crawl-Delay: 5
+Crawl-Delay: 10
 #crawling post URL's
-user-agent: AhrefsBot
-disallow: /
+User-agent: AhrefsBot
+Disallow: /
 # too many repeated hits, too quick
 User-agent: Baidu
 Disallow: /
 #not needed
 User-agent: SiteCheck-sitecrawl by Siteimprove.com
 Disallow: /
+Crawl-Delay: 10
 #not needed
 User-agent: LinkCheck by Siteimprove.com
 Disallow: /
+Crawl-Delay: 10

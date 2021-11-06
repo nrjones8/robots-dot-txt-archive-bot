@@ -2,6 +2,6 @@ User-agent: *
 Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
 
-Sitemap: http://www.cityofstafford.com/sitemap.xml
-Sitemap: http://www.cityofstafford.com/sitemap.rss
+Sitemap: https://www.cityofstafford.com/sitemap.xml
+Sitemap: https://www.cityofstafford.com/sitemap.rss
 

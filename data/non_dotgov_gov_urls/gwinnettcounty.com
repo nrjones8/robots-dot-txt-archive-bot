@@ -1,9 +1,1 @@
-User-agent: *
-Disallow: /web/gwinnett/Calendar/General
-Disallow: /web/gwinnett/Calendar/TVGwinnett
-Disallow: /web/gwinnett/Calendar/DOTEvents
-Disallow: /web/gwinnett/Calendar/General/
-Disallow: /web/gwinnett/Calendar/TVGwinnett/
-Disallow: /web/gwinnett/Calendar/DOTEvents/
-Disallow: /web/gwinnett/AboutGwinnett/Transportation/Transportation/RoadClosures
-Allow: /
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.gwinnettcounty.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f85b9795460>, 'Connection to www.gwinnettcounty.com timed out. (connect timeout=15)'))"}

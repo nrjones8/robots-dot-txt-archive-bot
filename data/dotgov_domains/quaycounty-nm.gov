@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='quaycounty-nm.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa14a01e8b0>, 'Connection to quaycounty-nm.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /quaycounty/wp-admin/
+Allow: /quaycounty/wp-admin/admin-ajax.php

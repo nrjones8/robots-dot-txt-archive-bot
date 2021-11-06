@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.osmre.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa149ecb2b0>, 'Connection to www.osmre.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /programs/awards/Judges2017/
+Disallow: /scripts
+

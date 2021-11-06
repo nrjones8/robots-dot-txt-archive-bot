@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cfcwnc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f85b9f94a60>, 'Connection to cfcwnc.com timed out. (connect timeout=15)'))"}

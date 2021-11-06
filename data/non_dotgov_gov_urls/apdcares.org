@@ -1,1 +1,39 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+#robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /cdc-plus/
+Disallow: /cgi-bin-backup/
+Disallow: /includes/
+Disallow: /video/
+
+User-agent: Googlebot
+Disallow: /supported-employment-materials/
+Disallow: /training/training-materials.htm
+Disallow: /choice/
+Disallow: /video/
+
+
+User-agent: Googlebot-Mobile
+Disallow: /supported-employment-materials/
+Disallow: /training/training-materials.htm
+Disallow: /choice/
+Disallow: /video/
+
+
+User-agent: Bingbot
+Disallow: /supported-employment-materials/
+Disallow: /training/training-materials.htm
+Disallow: /choice/
+Disallow: /video/
+
+
+User-agent: yahoo-mmcrawler
+Disallow: /supported-employment-materials/
+Disallow: /training/training-materials.htm
+Disallow: /choice/
+Disallow: /video/
+
+Sitemap: http://www.apd.myflorida.com/sitemap.xml
+
