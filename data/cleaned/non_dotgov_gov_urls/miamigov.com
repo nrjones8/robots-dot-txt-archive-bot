@@ -25,6 +25,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/A-Z-Index
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/BE305
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Beta-Services/Get-City-Gym-Memebership
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Beta-Services/New-page-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/bitcoinindustryday
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/board-comment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/permits.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/unsafestructures.html
@@ -44,6 +45,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/City-of-Miami-Industry-Day
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Officials
@@ -612,6 +615,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Topic-Areas
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Home-Ownership/Housing-Income-Limits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Housing-Assistance-Recovery/Recovery/Copy-of-Business-Assistance-Grant-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Image-Galleries/Image-Gallery-Test
@@ -630,6 +635,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Maps-Data/Public-Records-Reque
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/marinas
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediationsurvey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediatiorsurvey
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/meetinginstructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mfasetup
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/MFB-Citizens-Oversight-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Miamarina
@@ -669,6 +675,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
@@ -710,11 +717,13 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Miami-21-Task-Force-Meeting-in-March-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Planning-Table-Test
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Planning-Department-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Post-Hurricane-Tree-Management
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Submit-Invoices-to-the-Planning-Department
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -839,6 +848,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/GIS-Land-Development
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Grapeland
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/IT-Support
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Marinas
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/MeetingInstructions
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Meeting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/MFA-Setup
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/miami21
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Miami-Capital-New-Bids-and-Proposals
@@ -907,10 +918,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Plant-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree-Kyle
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Compliance-inspection-for-a-Certificate-of-Use
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Enforcement-inspection-for-a-Certificate-of-Use
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/311-Success
@@ -1042,7 +1049,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Introducing-eBuilder
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Fire-Department-Feedback-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
@@ -1076,7 +1082,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Plan-a-party-at-Grape
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Remove-a-tree-Kyle
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Report-a-Problem/Appeal-a-Warrant-or-Waiver
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-with-a-Tax-Preparation/Tax-Preparation-Documents
@@ -1152,7 +1157,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit-t
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-City-Gym-Memebership
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Tree-Permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Trees
@@ -1171,7 +1175,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
@@ -1281,6 +1284,7 @@ Disallow: /A-Z-Index
 Disallow: /BE305
 Disallow: /Beta-Services/Get-City-Gym-Memebership
 Disallow: /Beta-Services/New-page-1
+Disallow: /bitcoinindustryday
 Disallow: /board-comment
 Disallow: /building/permits.html
 Disallow: /building/unsafestructures.html
@@ -1300,6 +1304,8 @@ Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
+Disallow: /Business-Licenses/Doing-Business-with-the-City/City-of-Miami-Industry-Day
+Disallow: /Business-Licenses/Doing-Business-with-the-City/New-page
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
@@ -1876,6 +1882,8 @@ Disallow: /Home/Topic-Areas
 Disallow: /Home/Trees
 Disallow: /Housing-Assistance-Recovery/Home-Ownership/Housing-Income-Limits
 Disallow: /Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant
+Disallow: /Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant-2
+Disallow: /Housing-Assistance-Recovery/Recovery/Copy-of-Business-Assistance-Grant-1
 Disallow: /https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfaction-Survey
 Disallow: /Image-Galleries
 Disallow: /Image-Galleries/Image-Gallery-Test
@@ -1932,6 +1940,7 @@ Disallow: /Maps-Data/Public-Records-Request
 Disallow: /marinas
 Disallow: /mediationsurvey
 Disallow: /mediatiorsurvey
+Disallow: /meetinginstructions
 Disallow: /mfasetup
 Disallow: /MFB-Citizens-Oversight-Board
 Disallow: /Miamarina
@@ -1971,6 +1980,7 @@ Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Elec
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
@@ -2012,11 +2022,13 @@ Disallow: /My-Government/Departments/Planning/Combined-Calendar-Test
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
+Disallow: /My-Government/Departments/Planning/New-page
 Disallow: /My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Miami-21-Task-Force-Meeting-in-March-2021
 Disallow: /My-Government/Departments/Planning/Planning-Calendar-of-Meetings-Events/Planning-Table-Test
 Disallow: /My-Government/Departments/Planning/Planning-Department-Projects
 Disallow: /My-Government/Departments/Planning/Post-Hurricane-Tree-Management
 Disallow: /My-Government/Departments/Planning/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
+Disallow: /My-Government/Departments/Planning/Submit-Invoices-to-the-Planning-Department
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2141,6 +2153,8 @@ Disallow: /redirects/GIS-Land-Development-Application
 Disallow: /redirects/Grapeland
 Disallow: /redirects/IT-Support
 Disallow: /redirects/Marinas
+Disallow: /redirects/MeetingInstructions
+Disallow: /redirects/Meeting-Instructions
 Disallow: /redirects/MFA-Setup
 Disallow: /redirects/miami21
 Disallow: /redirects/Miami-Capital-New-Bids-and-Proposals
@@ -2209,10 +2223,6 @@ Disallow: /Service-Directory/Plant-a-tree-in-the-right-of-way
 Disallow: /Service-Directory/Remove-a-tree
 Disallow: /Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /Service-Directory/Remove-a-tree-Kyle
-Disallow: /Service-Directory/Request-a-Code-Compliance-inspection-for-a-Certificate-of-Use
-Disallow: /Service-Directory/Request-a-Code-Enforcement-inspection-for-a-Certificate-of-Use
-Disallow: /Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use
-Disallow: /Service-Directory/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /Services/311-Success
@@ -2344,7 +2354,6 @@ Disallow: /Services/Doing-Business/Get-a-Florida-State-Fertilizer-License
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /Services/Doing-Business/Introducing-eBuilder
-Disallow: /Services/Doing-Business/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /Services/Fire-Department-Feedback-Form
 Disallow: /Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
@@ -2378,7 +2387,6 @@ Disallow: /Services/Plan-a-party-at-Grapeland-Water-Park
 Disallow: /Services/Remove-a-tree
 Disallow: /Services/Remove-a-tree-Kyle
 Disallow: /Services/Report-a-Problem/Appeal-a-Warrant-or-Waiver
-Disallow: /Services/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation/New-page
 Disallow: /Services/Request-Assistance-with-a-Tax-Preparation/Tax-Preparation-Documents
@@ -2454,7 +2462,6 @@ Disallow: /Services-Folder/Get-a-Permit-to-Build-a-Driveway
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Get-City-Gym-Memebership
-Disallow: /Services-Folder/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder/Tree-Permits
 Disallow: /Services-Folder/Trees
@@ -2473,7 +2480,6 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Get-a-Permit-to-
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
-Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Code-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017

@@ -1,3 +1,8 @@
+# Default Flywheel robots file
 User-agent: *
-Allow: /
-SITEMAP: https://kiskitownship-pa.gov/sitemap.xml
+Disallow: /calendar/action*
+Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

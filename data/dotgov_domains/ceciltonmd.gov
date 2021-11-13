@@ -1,1 +1,23 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ceciltonmd.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f85b9e45e20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Crawl-delay: 15
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /search/
+Disallow: *?
+Disallow: *&preview=*
+Disallow: /tag/
+Disallow: /author/
+Disallow: /404-error/
+Disallow: /wp-content/updraft
+Disallow: /wp-content/wflogs
+Disallow: /wp-content/uploads/db-backup
+Disallow: /wp-content/uploads/ithemes-security
+Disallow: /wp-content/uploads/wpmc-trash
+Disallow: /*add-to-cart=*
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+
+Sitemap: https://ceciltonmd.gov/sitemap.xml

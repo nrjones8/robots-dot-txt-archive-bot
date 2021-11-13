@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.cityofconway.com', port=443): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofconway.com', port=80): Read timed out. (read timeout=15)"}

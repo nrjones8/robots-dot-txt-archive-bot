@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /cgi-bin/
+Disallow: /Sitefinity/
+Sitemap: https://paturnpike.com/sitemap/sitemap.xml
+Sitemap: https://www.paturnpike.com/sitemap/sitemap.xml

@@ -32,7 +32,7 @@ Allow: /profiles/*.jpg
 Allow: /profiles/*.jpeg
 Allow: /profiles/*.png
 Allow: /profiles/*.svg
-Sitemap: /default/sitemap.xml
+Sitemap: https://www.navy.com/default/sitemap.xml
 # Directories
 Disallow: /core/
 Disallow: /profiles/

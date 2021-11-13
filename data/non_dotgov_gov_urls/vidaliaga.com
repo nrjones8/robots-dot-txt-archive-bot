@@ -1,3 +1,1 @@
-#robots.txt for all our sites
-User-agent: *
-Disallow: /content/*
+Sitemap: http://vidaliaga.com/sitemap.xml
