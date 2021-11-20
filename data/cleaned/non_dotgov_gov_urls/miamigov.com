@@ -3,6 +3,7 @@ Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Copy-of-Solve-a-Pro
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/New-page
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Solve-a-Problem
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Watch-Live-Meetings
+Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Home/New-page
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Import-General-Pages/Business/New-Business-Guide
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Government/Watch-Live-Meetings
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Climate-Change-Environment
@@ -55,6 +56,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City-Facilities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityofficials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityofficials.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/COM-Application-Pages
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/CommsRequest
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Community-Partnerships
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Disabilities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Emergency-Management
@@ -245,6 +247,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Comm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-1-Commissioner-Alex-Diaz-de-la-Portilla-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-2-Commissioner-Ken-Russell-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-of-Miami-Open-Data
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/climatechange/Flooding
@@ -257,6 +260,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/S
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Commission-Meeting-Online-Public-Comment-Form-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Housing-Community-Development
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/CoronavirusCOVID-19-Daily-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/CoronavirusCOVID-19-Information/Cancelled-Events-COVID
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/CoronavirusCOVID-19-Information/March-9th-COVID-Update
@@ -529,6 +533,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Elections-Info
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Final-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/First-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Instructions-for-the-City-Commission-Meetings-Backup
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Instructions-for-the-Commission-Meeting-of-September-13-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
@@ -659,6 +664,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/D
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Senior-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Three-Kings-Parade
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-5-Image-Gallery
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/City-Officials/District-5-Commissioner-Christine-King/Make-a-Protocol-Request-D5
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Flooding
@@ -675,6 +682,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/Communications-Services-Request
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
@@ -714,6 +723,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Combined-Calendar-Test
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Community-Planning-Main-Page/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
@@ -849,7 +859,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Grapeland
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/IT-Support
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Marinas
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/MeetingInstructions
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Meeting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/MFA-Setup
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/miami21
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Miami-Capital-New-Bids-and-Proposals
@@ -1072,6 +1081,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-or-Clos
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Historical-Collection
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Make-a-Protocol-Request
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/New-page-8
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
@@ -1314,6 +1324,7 @@ Disallow: /City-Facilities
 Disallow: /cityofficials
 Disallow: /cityofficials.html
 Disallow: /COM-Application-Pages
+Disallow: /CommsRequest
 Disallow: /Community/Community-Partnerships
 Disallow: /Community/Disabilities
 Disallow: /Community/Emergency-Management
@@ -1512,6 +1523,7 @@ Disallow: /Government/City-Officials/Commissioner-Wifredo-Willy-Gort
 Disallow: /Government/City-Officials/Copy-of-District-1-Commissioner-Alex-Diaz-de-la-Portilla-1
 Disallow: /Government/City-Officials/Copy-of-District-2-Commissioner-Ken-Russell-2
 Disallow: /Government/City-Officials/Copy-of-District-5-Commissioner-Keon-Hardemon-1
+Disallow: /Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /Government/City-of-Miami-Open-Data
 Disallow: /Government/ClimateChange/Climate-Change-Impacts
 Disallow: /Government/climatechange/Flooding
@@ -1524,6 +1536,7 @@ Disallow: /Government/ClimateReadyMiami/Storm-Preparedness
 Disallow: /Government/ClimateReadyMiami/Storms
 Disallow: /Government/Copy-of-Commission-Meeting-Online-Public-Comment-Form-1
 Disallow: /Government/Copy-of-Housing-Community-Development
+Disallow: /Government/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /Government/CoronavirusCOVID-19-Daily-Updates
 Disallow: /Government/CoronavirusCOVID-19-Information/Cancelled-Events-COVID
 Disallow: /Government/CoronavirusCOVID-19-Information/March-9th-COVID-Update
@@ -1796,6 +1809,7 @@ Disallow: /Government/Elections-Info
 Disallow: /Government/Elections-Information
 Disallow: /Government/Final-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /Government/First-Budget-Hearing-Online-Public-Comment-Form
+Disallow: /Government/Instructions-for-the-City-Commission-Meetings-Backup
 Disallow: /Government/Instructions-for-the-Commission-Meeting-of-September-13-2021
 Disallow: /Government/Join-Miami-Police-Department-MPD
 Disallow: /Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
@@ -1964,6 +1978,8 @@ Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/Dis
 Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Senior-Center
 Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery/Three-Kings-Parade
 Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-5-Image-Gallery
+Disallow: /My-Government/City-Officials/District-5-Commissioner-Christine-King/Make-a-Protocol-Request-D5
+Disallow: /My-Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /My-Government/ClimateChange/Climate-Change-Impacts
 Disallow: /My-Government/ClimateChange/Flooding
@@ -1980,6 +1996,8 @@ Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Elec
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /My-Government/Departments/Communications/Communications-Services-Request
+Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
@@ -2019,6 +2037,7 @@ Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /My-Government/Departments/Planning/Combined-Calendar-Test
+Disallow: /My-Government/Departments/Planning/Community-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /My-Government/Departments/Planning/Master-Plans/Virginia-KeyMarine-Stadium-Flex-Park
@@ -2154,7 +2173,6 @@ Disallow: /redirects/Grapeland
 Disallow: /redirects/IT-Support
 Disallow: /redirects/Marinas
 Disallow: /redirects/MeetingInstructions
-Disallow: /redirects/Meeting-Instructions
 Disallow: /redirects/MFA-Setup
 Disallow: /redirects/miami21
 Disallow: /redirects/Miami-Capital-New-Bids-and-Proposals
@@ -2377,6 +2395,7 @@ Disallow: /Services/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Work
 Disallow: /Services/Get-a-Utility-Permit
 Disallow: /Services/Historical-Collection
 Disallow: /Services/Make-a-Protocol-Request
+Disallow: /Services/Make-a-Protocol-Request-D5
 Disallow: /Services/New-page-8
 Disallow: /Services/Obtain-Information-on-Adjacent-and-Abutting-Property-Owners
 Disallow: /Services/Obtain-List-of-Adjacent-or-Abutting-Property-Owners
@@ -2532,6 +2551,7 @@ Disallow: /user-test/Government/Copy-of-Solve-a-Problem-1
 Disallow: /user-test/Government/New-page
 Disallow: /user-test/Government/Solve-a-Problem
 Disallow: /user-test/Government/Watch-Live-Meetings
+Disallow: /user-test/Home/New-page
 Disallow: /user-test/Import-General-Pages/Business/New-Business-Guide
 Disallow: /user-test/My-Government/Watch-Live-Meetings
 Disallow: /user-test/My-Home-Neighborhood/Climate-Change-Environment

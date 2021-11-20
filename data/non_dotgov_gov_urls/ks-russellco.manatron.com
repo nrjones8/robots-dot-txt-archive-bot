@@ -147,6 +147,9 @@ Disallow: /
 User-agent: BLEXBot
 Disallow: /
 
+User-agent: WikiDo
+Disallow: /
+
 
 User-agent: msnbot
 Disallow: /admin/

@@ -108,6 +108,8 @@ User-agent: GarlikCrawler/1.2
 Disallow: /
 User-agent: BLEXBot
 Disallow: /
+User-agent: WikiDo
+Disallow: /
 User-agent: msnbot
 Disallow: /admin/
 Disallow: /App_Browsers/

@@ -1,2 +1,5 @@
-User-agent: AhrefsBot 
-Disallow: / 
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.medpac.gov/wp-sitemap.xml

@@ -27,4 +27,14 @@ Disallow: /plugins/
 Disallow: /tmp/
 User-agent: SemrushBot
 Disallow: /
+User-agent: nbot
+Disallow: /
+User-agent: NetSystemsResearch
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
 Sitemap: /sitemap.xml

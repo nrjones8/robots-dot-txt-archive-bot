@@ -39,15 +39,15 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /government/commissions/town-meetings$
-Disallow: /government/commissions/town-meetings?
-Disallow: /government/commissions/town-meetings/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~
+Disallow: /government/commissions/town-meetings$
+Disallow: /government/commissions/town-meetings?
+Disallow: /government/commissions/town-meetings/~
 Disallow: /government/commissions/commission-on-aging/resources$
 Disallow: /government/commissions/commission-on-aging/resources?
 Disallow: /government/commissions/commission-on-aging/resources/~
@@ -78,15 +78,15 @@ Disallow: /government/commissions/redevelopment-agency/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
-Disallow: /government/commissions/special-services-district-authority$
-Disallow: /government/commissions/special-services-district-authority?
-Disallow: /government/commissions/special-services-district-authority/~
 Disallow: /government/commissions/ecdc$
 Disallow: /government/commissions/ecdc?
 Disallow: /government/commissions/ecdc/~
 Disallow: /education/putnam-school-administration$
 Disallow: /education/putnam-school-administration?
 Disallow: /education/putnam-school-administration/~
+Disallow: /government/commissions/special-services-district-authority$
+Disallow: /government/commissions/special-services-district-authority?
+Disallow: /government/commissions/special-services-district-authority/~
 Disallow: /government/commissions/ethics-commission$
 Disallow: /government/commissions/ethics-commission?
 Disallow: /government/commissions/ethics-commission/~
@@ -96,12 +96,12 @@ Disallow: /government/commissions/putnam-trails-committee/~
 Disallow: /production/posts/list$
 Disallow: /production/posts/list?
 Disallow: /production/posts/list/~
-Disallow: /production$
-Disallow: /production?
-Disallow: /production/~
 Disallow: /government/commissions/inland-wetlands-commission$
 Disallow: /government/commissions/inland-wetlands-commission?
 Disallow: /government/commissions/inland-wetlands-commission/~
+Disallow: /production$
+Disallow: /production?
+Disallow: /production/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
@@ -267,6 +267,9 @@ Disallow: /production/navigation/~
 Disallow: /production/posts$
 Disallow: /production/posts?
 Disallow: /production/posts/~
+Disallow: /production/constituent$
+Disallow: /production/constituent?
+Disallow: /production/constituent/~
 Disallow: /production/resources$
 Disallow: /production/resources?
 Disallow: /production/resources/~
@@ -288,9 +291,6 @@ Disallow: /production/qa-testing/~
 Disallow: /production/site-specs$
 Disallow: /production/site-specs?
 Disallow: /production/site-specs/~
-Disallow: /production/constituent$
-Disallow: /production/constituent?
-Disallow: /production/constituent/~
 Disallow: /production/athletics$
 Disallow: /production/athletics?
 Disallow: /production/athletics/~

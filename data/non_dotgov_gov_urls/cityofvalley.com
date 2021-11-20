@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofvalley.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpforms/

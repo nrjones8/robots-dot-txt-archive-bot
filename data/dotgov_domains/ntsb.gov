@@ -1,17 +1,1 @@
-User-agent: *
-Disallow: /_layouts/
-Disallow: /_vti_bin/
-Disallow: /_catalogs/
-Disallow: /_cts/
-Disallow: /_private/
-Disallow: /Lists/
-Disallow: /m/
-Disallow: /ReusableContent/
-Disallow: /WorkflowTasks/
-Disallow: /SiteCollectionDocuments/
-Disallow: /SiteCollectionImages/
-Disallow: /SiteAssets/
-Disallow: /Documents/Forms/
-Disallow: /Pages/Forms/
-Disallow: /Search/
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ntsb.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd819cae610>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

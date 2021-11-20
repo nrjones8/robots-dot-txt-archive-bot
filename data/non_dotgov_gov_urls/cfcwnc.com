@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cfcwnc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fbf1a0a9b20>, 'Connection to cfcwnc.com timed out. (connect timeout=15)'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
