@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='texasonline.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd8197f5910>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+User-agent: *
+Allow: /
+Disallow: /government-services-directory/*/
+Disallow: /texas-state-agencies-departments/*/
+Disallow: /es/directorio-servicios-gubernamentales/*/
+Disallow: /es/agencias-departamentos-del-estado-de-texas/*/
+Disallow: /search/?search=
+Disallow: /es/search/?search=
+Sitemap: https://www.texas.gov/sitemap.xml

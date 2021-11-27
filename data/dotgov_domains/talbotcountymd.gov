@@ -1,1 +1,13 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='talbotcountymd.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd819cda640>, 'Connection to talbotcountymd.gov timed out. (connect timeout=15)'))"}
+# prohibition spybots
+User-agent: AhrefsBot
+Disallow: / 
+User-agent: MJ12bot
+Disallow: / 
+User-agent: ia_archiver
+Disallow: / 
+User-agent: rogerbot
+Disallow: / 
+User-agent: spbot
+Disallow: / 
+User-agent: ScoutJet
+Disallow: / 

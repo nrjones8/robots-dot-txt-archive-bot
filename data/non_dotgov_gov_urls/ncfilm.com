@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+# CMS default robots.txt for :domain
+# :account / :site_title
+
+User-agent: *
+Allow: /

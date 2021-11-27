@@ -1,1 +1,9 @@
-Request failed
+User-agent: *
+Allow: /
+Disallow: /government-services-directory/*/
+Disallow: /texas-state-agencies-departments/*/
+Disallow: /es/directorio-servicios-gubernamentales/*/
+Disallow: /es/agencias-departamentos-del-estado-de-texas/*/
+Disallow: /search/?search=
+Disallow: /es/search/?search=
+Sitemap: https://www.texas.gov/sitemap.xml

@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://mountpocono-pa.gov/sitemap.xml
+Sitemap: https://mountpocono-pa.gov/sitemap.rss
+

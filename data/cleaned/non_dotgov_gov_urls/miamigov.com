@@ -576,6 +576,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Reso
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/COVID-Complaints
@@ -1852,6 +1853,7 @@ Disallow: /Government/Reopening-Plan/Resources
 Disallow: /Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /Government/Shelly-Long
 Disallow: /Government/Special-Commission-Meeting-Online-Public-Comment-Form
+Disallow: /Government/Special-Commission-Online-Public-Comment-Form
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/Business-Resources
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery/Reopening-City-Service-Updates/COVID-Complaints

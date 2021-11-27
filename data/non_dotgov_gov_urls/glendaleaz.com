@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='glendaleaz.com', port=443): Read timed out. (read timeout=15)"}
+#Global Level
+User-agent: *
+Disallow: /Search/
+Disallow: /WebApi/
+Disallow: /WebServices/
+Disallow: /portal/svc/
+Disallow: /Common/controls/StaffDirectory/ws/StaffDirectoryWS.asmx/
+Disallow: /Common/controls/WorkspaceCalendar/ws/WorkspaceCalendarWS.asmx/
+Disallow: /common/controls/General/CalendarPicker/CalendarPickerWS.asmx/
+

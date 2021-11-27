@@ -1,1 +1,26 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.rhinebeckny.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd81a4f9610>, 'Connection to www.rhinebeckny.gov timed out. (connect timeout=15)'))"}
+Sitemap: https://www.rhinebeckny.gov/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://www.rhinebeck-ny.gov/building-department.html
+Disallow: /http://www.rhinebeck-ny.gov/planning-board.html
+Disallow: /http://www.rhinebeck-ny.gov/assessors.html
+Disallow: /http://www.rhinebeck-ny.gov/planning-board.html
+Disallow: /http://www.rhinebeck-ny.gov/building-department.html
+Disallow: /http://www.rhinebeck-ny.gov/building-department.html
+Disallow: /http://www.rhinebeck-ny.gov/building-department.html
+Disallow: /http://www.rhinebeck-ny.gov/planning-board.html
+Disallow: /http://www.rhinebeck-ny.gov/planning-board.html
+Disallow: /http://www.rhinebeck-ny.gov/zoning-board-of-appeals.html
+Disallow: /open-jobs.html
+Disallow: /http://www.tax.ny.gov/pit/property/exemption/vetexempt.htm
+Disallow: /http://www.rhinebeck-ny.gov/zoning-enforcement.html
+Disallow: /http://ecode360.com/documents/pub/RH0960/Budgets/?
+Disallow: /http://www.rhinebeckrec.com/info/
+Disallow: /http://www.rhinebeck-ny.gov/tax-collector.html
+Disallow: /http://ecode360.com/RH0960?needHash=true
+Disallow: /internal-contact-list.html

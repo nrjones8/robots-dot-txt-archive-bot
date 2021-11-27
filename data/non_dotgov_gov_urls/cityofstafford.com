@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.cityofstafford.com/sitemap.xml
-Sitemap: https://www.cityofstafford.com/sitemap.rss
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofstafford.com', port=80): Read timed out. (read timeout=15)"}

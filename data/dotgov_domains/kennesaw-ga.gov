@@ -1,16 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /events-calendar/action~posterboard/
-Disallow: /events-calendar/action~agenda/
-Disallow: /events-calendar/action~oneday/
-Disallow: /events-calendar/action~month/
-Disallow: /events-calendar/action~week/
-Disallow: /events-calendar/action~stream/
-Disallow: /events-calendar/action~undefined/
-Disallow: /events-calendar/action~http:/
-Disallow: /events-calendar/action~default/
-Disallow: /events-calendar/action~poster/
-Disallow: /events-calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/Disallow: /wp-content/plugins/vimeography/lib/shared/assets/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='kennesaw-ga.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5c5158d340>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
