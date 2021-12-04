@@ -1,7 +1,4 @@
-# Tells Scanning Robots Where They Are And Are Not Welcome
-# User-agent:	can also specify by name; "*" is for everyone
-# Disallow:	directories or files that are disallowed
-# Modified: 07/22/05 to include 3 bottom dirs
+User-Agent: *
+Allow: /
 
-User-agent: *
-Disallow: /databases
+Sitemap: https://sansiro.net/sitemap.xml

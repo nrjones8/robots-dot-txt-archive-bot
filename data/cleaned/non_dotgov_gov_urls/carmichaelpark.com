@@ -1,8 +1,5 @@
 User-agent: SemrushBot
 Disallow: /
-# Moz's bot
-User-agent: dotbot
-Disallow: /
 User-agent: AhrefsBot
 Disallow: /
 User-agent: Sidetrade indexer bot

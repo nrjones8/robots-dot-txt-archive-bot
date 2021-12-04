@@ -1,14 +1,2 @@
-User-Agent: *
-Disallow: *.doc$
-Disallow: *.pdf$
-Disallow: *.jpg$
-Disallow: *.gif$
-Disallow: *.wmv$
-Disallow: *.mpg$
-Disallow: *search*
-Disallow: *sendto*
-Disallow: *view?*
-Disallow: *?month*
-Disallow: */events-list/previous*
-Crawl-delay: 6
-Request-rate: 10/1m
+UserAgent: *
+Disallow: /

@@ -39,12 +39,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /home-clone4$
-Disallow: /home-clone4?
-Disallow: /home-clone4/~
 Disallow: /home-clone2$
 Disallow: /home-clone2?
 Disallow: /home-clone2/~
+Disallow: /home-clone4$
+Disallow: /home-clone4?
+Disallow: /home-clone4/~
 Disallow: /departments/pr/clone$
 Disallow: /departments/pr/clone?
 Disallow: /departments/pr/clone/~
@@ -57,15 +57,18 @@ Disallow: /production/banners/left-banner/~
 Disallow: /burn-permit$
 Disallow: /burn-permit?
 Disallow: /burn-permit/~
-Disallow: /government/agendas-minutes/agendas-minutes-posts$
-Disallow: /government/agendas-minutes/agendas-minutes-posts?
-Disallow: /government/agendas-minutes/agendas-minutes-posts/~
 Disallow: /home-clone-testing$
 Disallow: /home-clone-testing?
 Disallow: /home-clone-testing/~
 Disallow: /home-mock-up-nov21$
 Disallow: /home-mock-up-nov21?
 Disallow: /home-mock-up-nov21/~
+Disallow: /government/agendas-minutes/agendas-minutes-posts$
+Disallow: /government/agendas-minutes/agendas-minutes-posts?
+Disallow: /government/agendas-minutes/agendas-minutes-posts/~
+Disallow: /archived-elements$
+Disallow: /archived-elements?
+Disallow: /archived-elements/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
@@ -75,9 +78,9 @@ Disallow: /our-town/news/town-news-default/~
 Disallow: /production/posts/new-page$
 Disallow: /production/posts/new-page?
 Disallow: /production/posts/new-page/~
-Disallow: /archived-elements$
-Disallow: /archived-elements?
-Disallow: /archived-elements/~
+Disallow: /our-town/350th-celebration/350th-anniversary-commmittee$
+Disallow: /our-town/350th-celebration/350th-anniversary-commmittee?
+Disallow: /our-town/350th-celebration/350th-anniversary-commmittee/~
 Disallow: /government/live-streaming$
 Disallow: /government/live-streaming?
 Disallow: /government/live-streaming/~
@@ -102,6 +105,9 @@ Disallow: /our-town/map-of-suffield/~
 Disallow: /things-to-do/shop-suffield$
 Disallow: /things-to-do/shop-suffield?
 Disallow: /things-to-do/shop-suffield/~
+Disallow: /our-town/350th-celebration/commemorative-items$
+Disallow: /our-town/350th-celebration/commemorative-items?
+Disallow: /our-town/350th-celebration/commemorative-items/~
 Disallow: /our-town/history$
 Disallow: /our-town/history?
 Disallow: /our-town/history/~
@@ -120,6 +126,9 @@ Disallow: /departments/public-works/capital-projects-clone/~
 Disallow: /production/calendar/grid$
 Disallow: /production/calendar/grid?
 Disallow: /production/calendar/grid/~
+Disallow: /our-town/350th-celebration$
+Disallow: /our-town/350th-celebration?
+Disallow: /our-town/350th-celebration/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
@@ -204,9 +213,6 @@ Disallow: /production/organizational/production/organizational/container/~
 Disallow: /production/organizational/production/organizational/tabs$
 Disallow: /production/organizational/production/organizational/tabs?
 Disallow: /production/organizational/production/organizational/tabs/~
-Disallow: /site-notes$
-Disallow: /site-notes?
-Disallow: /site-notes/~
 Disallow: /production/page-layout/production/page-layout/2-column-layout$
 Disallow: /production/page-layout/production/page-layout/2-column-layout?
 Disallow: /production/page-layout/production/page-layout/2-column-layout/~
@@ -255,6 +261,9 @@ Disallow: /production/form/~
 Disallow: /production/news-elements$
 Disallow: /production/news-elements?
 Disallow: /production/news-elements/~
+Disallow: /site-notes$
+Disallow: /site-notes?
+Disallow: /site-notes/~
 Disallow: /production/navigation$
 Disallow: /production/navigation?
 Disallow: /production/navigation/~

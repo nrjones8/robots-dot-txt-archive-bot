@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://killdeer.com/sitemap.xml
+Sitemap: https://killdeer.com/sitemap.rss

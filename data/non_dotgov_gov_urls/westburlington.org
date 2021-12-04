@@ -1,1 +1,27 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='westburlington.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5c51863df0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-Agent: *
+Disallow: 
+Disallow: /administrator
+Disallow: /_docs
+Disallow: /bin
+Disallow: /cache
+Disallow: /cli
+Disallow: /components
+Disallow: /countdown
+Disallow: /documents
+Disallow: /images
+Disallow: /includes
+Disallow: /language
+Disallow: /layouts
+Disallow: /lib
+Disallow: /libraries
+Disallow: /livehelp
+Disallow: /log
+Disallow: /media
+Disallow: /modules
+Disallow: /plugins
+Disallow: /t3-assets
+Disallow: /templates
+Disallow: /tmp
+Disallow: /website
