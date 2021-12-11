@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /
+
+Sitemap: https://townofminerva.com/sitemap.xml
+Sitemap: https://townofminerva.com/sitemap.rss
+

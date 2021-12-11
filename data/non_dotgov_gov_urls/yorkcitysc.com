@@ -1,2 +1,6 @@
-﻿User-agent: *
+User-agent: *
 Disallow:
+
+
+
+

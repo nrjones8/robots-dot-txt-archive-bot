@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='myescambia.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1131)')))"}
+User-agent: *
+Allow: /
+
+Sitemap: https://myescambia.com/sitemap/sitemap.xml
+
+#        _
+#       [ ]
+#      (   )
+#       |>|
+#    __/===\__
+#   //| o=o |\\
+# <]  | o=o |  [>
+#     \=====/
+#    / / | \ \
+#   <_________>

@@ -38,6 +38,11 @@ Disallow: /profiles/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
+Disallow: /search-nimh
+Disallow: /search-nimh-health-topics
+Disallow: /search-nimh-news
+Disallow: /search-nimh-publications
+Disallow: /search-nimh-videos
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
@@ -48,6 +53,7 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
+Disallow: /archive
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

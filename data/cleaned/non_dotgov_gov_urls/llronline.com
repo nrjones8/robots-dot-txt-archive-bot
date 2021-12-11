@@ -1,6 +1,7 @@
 User-agent:googlebot
 Allow: /publicorder*.pdf
 Disallow:/*.pdf$
+Disallow:/*videos.aspx
 User-agent:googlebot
 User-agent:adsbot-google
 User-agent: *

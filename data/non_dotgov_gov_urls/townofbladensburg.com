@@ -1,1 +1,37 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofbladensburg.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb2994301f0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+User-agent: Googlebot
+Disallow:  /info/
+Disallow:  /search/
+
+User-agent: Mediapartners-Google
+Disallow:  /info/
+Disallow:  /search/
+
+User-agent: Yahoo! Slurp
+Allow: /$
+Disallow: /
+
+User-agent: bingbot
+Allow: /$
+Disallow: /
+
+User-agent: Yandex
+Allow: /$
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: IPS-Agent
+Disallow: /parking.php4
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /
