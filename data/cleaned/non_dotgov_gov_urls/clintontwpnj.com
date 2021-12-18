@@ -1,2 +1,1 @@
-User-Agent: *
-Allow: /
+Got an HTML response

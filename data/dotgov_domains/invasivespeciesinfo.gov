@@ -16,13 +16,17 @@
 # For syntax checking, see:
 # http://www.frobee.com/robots-txt-check
 
+User-agent: usasearch
+Crawl-delay: 2
+
 User-agent: *
 Crawl-delay: 10
+
 # Directories
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/
-Disallow: /profiles/
+#Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
 # Files
@@ -58,3 +62,4 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Sitemap: https://www.invasivespeciesinfo.gov/sitemap.xml

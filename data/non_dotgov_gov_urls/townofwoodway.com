@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.townofwoodway.com', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.townofwoodway.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f578d661490>, 'Connection to www.townofwoodway.com timed out. (connect timeout=15)'))"}
