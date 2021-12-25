@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: http://www.ayden.com/sitemap.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

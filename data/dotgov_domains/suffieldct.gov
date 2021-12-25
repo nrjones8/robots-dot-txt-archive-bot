@@ -30,7 +30,6 @@ Allow: /fs/pages/news
 Allow: /fs/pages/search
 Allow: /fs/pages/search-results-item/post
 Allow: /fs/pages/sitemap
-Allow: /fs/comms-manager/view/
 Allow: /fs/form-manager/view/
 Allow: /fs/resource-manager/view/
 
@@ -39,15 +38,15 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /home-clone4$
-Disallow: /home-clone4?
-Disallow: /home-clone4/~
 Disallow: /home-clone2$
 Disallow: /home-clone2?
 Disallow: /home-clone2/~
 Disallow: /departments/pr/clone$
 Disallow: /departments/pr/clone?
 Disallow: /departments/pr/clone/~
+Disallow: /home-clone4$
+Disallow: /home-clone4?
+Disallow: /home-clone4/~
 Disallow: /under-construction$
 Disallow: /under-construction?
 Disallow: /under-construction/~
@@ -60,18 +59,12 @@ Disallow: /burn-permit/~
 Disallow: /home-clone-testing$
 Disallow: /home-clone-testing?
 Disallow: /home-clone-testing/~
-Disallow: /home-mock-up-nov21$
-Disallow: /home-mock-up-nov21?
-Disallow: /home-mock-up-nov21/~
 Disallow: /government/agendas-minutes/agendas-minutes-posts$
 Disallow: /government/agendas-minutes/agendas-minutes-posts?
 Disallow: /government/agendas-minutes/agendas-minutes-posts/~
-Disallow: /building-clone$
-Disallow: /building-clone?
-Disallow: /building-clone/~
-Disallow: /archived-elements$
-Disallow: /archived-elements?
-Disallow: /archived-elements/~
+Disallow: /home-mock-up-nov21$
+Disallow: /home-mock-up-nov21?
+Disallow: /home-mock-up-nov21/~
 Disallow: /our-town/news/town-news-default$
 Disallow: /our-town/news/town-news-default?
 Disallow: /our-town/news/town-news-default/~
@@ -84,6 +77,12 @@ Disallow: /our-town/350th-celebration/350th-anniversary-commmittee/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
+Disallow: /archived-elements$
+Disallow: /archived-elements?
+Disallow: /archived-elements/~
+Disallow: /building-clone$
+Disallow: /building-clone?
+Disallow: /building-clone/~
 Disallow: /government/live-streaming$
 Disallow: /government/live-streaming?
 Disallow: /government/live-streaming/~
@@ -318,12 +317,12 @@ Disallow: /home-clone/~
 Disallow: /production$
 Disallow: /production?
 Disallow: /production/~
-Disallow: /finance-clone$
-Disallow: /finance-clone?
-Disallow: /finance-clone/~
 Disallow: /things-to-do/a-day-in-suffield$
 Disallow: /things-to-do/a-day-in-suffield?
 Disallow: /things-to-do/a-day-in-suffield/~
+Disallow: /finance-clone$
+Disallow: /finance-clone?
+Disallow: /finance-clone/~
 Disallow: /public-works-clone$
 Disallow: /public-works-clone?
 Disallow: /public-works-clone/~

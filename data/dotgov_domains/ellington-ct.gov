@@ -30,7 +30,6 @@ Allow: /fs/pages/news
 Allow: /fs/pages/search
 Allow: /fs/pages/search-results-item/post
 Allow: /fs/pages/sitemap
-Allow: /fs/comms-manager/view/
 Allow: /fs/form-manager/view/
 Allow: /fs/resource-manager/view/
 
@@ -90,9 +89,9 @@ Disallow: /production/posts/single/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
-Disallow: /production/constituent/directory$
-Disallow: /production/constituent/directory?
-Disallow: /production/constituent/directory/~
+Disallow: /production/constituent/profile$
+Disallow: /production/constituent/profile?
+Disallow: /production/constituent/profile/~
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/other-agencies$
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/other-agencies?
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/other-agencies/~
@@ -129,9 +128,9 @@ Disallow: /production/organizational/tabs/~
 Disallow: /site-notes$
 Disallow: /site-notes?
 Disallow: /site-notes/~
-Disallow: /production/constituent/profile$
-Disallow: /production/constituent/profile?
-Disallow: /production/constituent/profile/~
+Disallow: /production/constituent/directory$
+Disallow: /production/constituent/directory?
+Disallow: /production/constituent/directory/~
 Disallow: /production/page-layout/three-columns-top$
 Disallow: /production/page-layout/three-columns-top?
 Disallow: /production/page-layout/three-columns-top/~
@@ -183,6 +182,9 @@ Disallow: /production/calendar/grid/~
 Disallow: /production/calendar/slideshow$
 Disallow: /production/calendar/slideshow?
 Disallow: /production/calendar/slideshow/~
+Disallow: /production/constituent/students$
+Disallow: /production/constituent/students?
+Disallow: /production/constituent/students/~
 Disallow: /production/constituent/search$
 Disallow: /production/constituent/search?
 Disallow: /production/constituent/search/~
@@ -192,9 +194,6 @@ Disallow: /departments-and-services/human-services/tax-assistance/~
 Disallow: /production/page-layout/1-column-layout$
 Disallow: /production/page-layout/1-column-layout?
 Disallow: /production/page-layout/1-column-layout/~
-Disallow: /production/constituent/students$
-Disallow: /production/constituent/students?
-Disallow: /production/constituent/students/~
 Disallow: /fire-marshal$
 Disallow: /fire-marshal?
 Disallow: /fire-marshal/~

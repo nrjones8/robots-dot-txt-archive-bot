@@ -1,5 +1,18 @@
-Sitemap: https://www.camphillborough.com/sitemap.xml
-Sitemap: https://www.camphillborough.com/news-sitemap.xml
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /

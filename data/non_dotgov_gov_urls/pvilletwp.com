@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-Host: pvilletwp.com
-Sitemap: http://pvilletwp.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}

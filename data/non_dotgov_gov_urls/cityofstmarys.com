@@ -106,3 +106,5 @@ Disallow: /
 User-agent: spyfu
 Disallow: /
 
+
+Sitemap: https://www.cityofstmarys.com/wp-sitemap.xml

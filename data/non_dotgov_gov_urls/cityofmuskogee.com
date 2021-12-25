@@ -1,1 +1,18 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.muskogeeonline.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f578ccec130>, 'Connection to www.muskogeeonline.org timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+
+User-agent: *
+Disallow: /

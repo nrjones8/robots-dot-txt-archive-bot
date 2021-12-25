@@ -8,3 +8,4 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /http://www.rogerscitymarina.com
 Disallow: /http://rogerscityareachamber.com
+Disallow: /https://rogerscityfire.org/

@@ -335,7 +335,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/General-Procurement-Terms-Conditions-IFB_version-1
@@ -688,8 +687,11 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Report-a-Fire-System-Impairment
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Submit-a-Fire-System-Maintenance-Report
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Hurricane-Information
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Grants-Administration/Education-Initiatives
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
@@ -762,6 +764,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
@@ -1632,7 +1635,6 @@ Disallow: /Government/Departments-Organizations/Draft/Test
 Disallow: /Government/Departments-Organizations/Emergency-Management/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Emergency-Management-Threat-Level
 Disallow: /Government/Departments-Organizations/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
-Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
 Disallow: /Government/Departments-Organizations/Fire-Rescue/Hurricane-Information
 Disallow: /Government/Departments-Organizations/General-Procurement-Terms-Conditions-IFB_version-1
@@ -2024,8 +2026,11 @@ Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
-Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau
+Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
+Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/New-page
+Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Report-a-Fire-System-Impairment
+Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Submit-a-Fire-System-Maintenance-Report
 Disallow: /My-Government/Departments/Fire-Rescue/Hurricane-Information
 Disallow: /My-Government/Departments/Grants-Administration/Education-Initiatives
 Disallow: /My-Government/Departments/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
@@ -2098,6 +2103,7 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Spe
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
+Disallow: /My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /My-Government/Departments/Resilience-and-Sustainability
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review

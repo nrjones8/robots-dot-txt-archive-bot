@@ -1,1 +1,16 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='artrs.gov', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+

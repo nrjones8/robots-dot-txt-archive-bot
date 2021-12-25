@@ -1,1 +1,13 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+
+User-agent: *
+
+Sitemap: http://www.schaumburgtownship.org/sitemap.xml
+
+Disallow: /doc/
+Disallow: /install/
+Disallow: /lib/
+Disallow: /modules/
+Disallow: /module_custom/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /tmp/
