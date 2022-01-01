@@ -1,7 +1,1 @@
-
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.farmermac.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='farmermac.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa71321bc40>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

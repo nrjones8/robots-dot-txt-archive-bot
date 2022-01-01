@@ -43,7 +43,8 @@ Disallow: /web.config
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
-Disallow: /node/add/
+Disallow: /node/*
+Disallow: /*/node/*
 Disallow: /search/
 Disallow: /user/register
 Disallow: /user/password

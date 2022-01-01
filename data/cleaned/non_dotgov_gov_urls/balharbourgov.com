@@ -71,3 +71,4 @@ User-agent: serpstat
 Disallow: /
 User-agent: spyfu
 Disallow: /
+Sitemap: http://www.balharbourgov.com/wp-sitemap.xml

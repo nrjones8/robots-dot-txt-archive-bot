@@ -1,10 +1,1 @@
-User-agent: Baiduspider
-Disallow: /
-
-User-agent: *
-Disallow: /undefined*
-Disallow: *I_map.aspx*
-Disallow: *I_emailevent.aspx*
-Disallow: *I_emailbusiness.aspx*
-
-Sitemap: https://www.gonzales.texas.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofgonzales.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa713304b20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

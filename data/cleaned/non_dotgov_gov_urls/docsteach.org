@@ -10,6 +10,32 @@
 #
 # For syntax checking, see:
 # http://tool.motoricerca.info/robots-checker.phtml
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SiteAuditBot
+Disallow: /
+User-agent: SemrushBot-BA
+Disallow: /
+User-agent: SemrushBot-SI
+Disallow: /
+User-agent: SemrushBot-SWA
+Disallow: /
+User-agent: SemrushBot-CT
+Disallow: /
+User-agent: SemrushBot-BM
+Disallow: /
+User-agent: SplitSignalBot
+Disallow: /
+User-agent: Bingbot
+Crawl-Delay: 10
+Disallow: /images/
+Disallow: /documents?*
+Disallow: /documents/documents?*
+Disallow: /activites?*
 User-agent: *
 Disallow: /administrator/
 Disallow: /bin/
