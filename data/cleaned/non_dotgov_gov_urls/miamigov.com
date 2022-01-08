@@ -18,6 +18,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/accessmiamijobs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/adjacent
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Alpha-services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Alpha-services/311-Test-Page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Copy-of-Information-About-the-COVID-19-Coronavirus-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/appealart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ARL
@@ -765,7 +767,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-DIRECTORY
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-TEAM-DIRECTORY
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
@@ -1353,6 +1354,8 @@ Disallow: /accessmiamijobs
 Disallow: /adjacent
 Disallow: /Alpha-services
 Disallow: /Alpha-services/311-Test-Page
+Disallow: /Announcements/Copy-of-Information-About-the-COVID-19-Coronavirus-1
+Disallow: /Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /appealart
 Disallow: /Appeal-a-Warrant-or-Waiver
 Disallow: /ARL
@@ -2147,7 +2150,6 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Spe
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-DIRECTORY
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-TEAM-DIRECTORY
-Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code

@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/
+User-agent: RavenCrawler
+Crawl-delay: 5

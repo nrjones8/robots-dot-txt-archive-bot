@@ -18,6 +18,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -39,6 +40,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -60,6 +62,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -82,6 +85,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -104,6 +108,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -125,6 +130,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -147,6 +153,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -170,6 +177,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -192,6 +200,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -213,6 +222,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -234,6 +244,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -256,6 +267,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -277,6 +289,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -298,6 +311,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -319,6 +333,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -341,6 +356,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -362,6 +378,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -383,6 +400,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php
@@ -404,6 +422,7 @@ Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photo.php
 Disallow: /photos.php
+Disallow: /plugins/
 Disallow: /share.php
 Disallow: /share/
 Disallow: /sharer.php

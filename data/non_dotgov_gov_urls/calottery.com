@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /xsl/
 Disallow: /SAVE
 Disallow: /temp/
+Disallow: /blog/
 Disallow: /upload/
 Disallow: /sitecore
 Disallow: /Sitecore
@@ -9,6 +10,7 @@ Disallow: /App_Data/
 Disallow: /App_config/
 Disallow: /unsubscribe
 Disallow: /App_Browsers/
+Disallow: /search-results
 Disallow: /sitecore_files/
 Disallow: /promounsubscribe
 Disallow: /sitecore modules/

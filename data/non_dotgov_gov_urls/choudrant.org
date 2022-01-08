@@ -1,3 +1,38 @@
+#
+# Added by Google
+# Modify or delete lines below to allow robots to crawl your site.
+
+# Allow AdSense Crawlers
+User-agent: Mediapartners-Google
+Disallow: 
+
+# Allow Google Crawlers
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-News
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: Googlebot-Video
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: Adsbot-Google
+Disallow:
+
+# Allow Ubersuggest Crawler
+User-agent: RSiteAuditor
+Disallow:
+
+# Allow Bing Crawler
+User-agent: bingbot
+Disallow:
+
+# Block all robots
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /

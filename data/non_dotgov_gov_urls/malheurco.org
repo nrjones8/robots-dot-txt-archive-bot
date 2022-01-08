@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='malheurco.org', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa713405790>, 'Connection to malheurco.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.malheurco.org/wp-sitemap.xml
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://www.malheurco.org/xmlsitemap.xml
+
+Allow: /rsssitemap.xml
+Allow: /rsslatest.xml
+Allow: /htmlsitemap.htm
+

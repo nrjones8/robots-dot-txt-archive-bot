@@ -1,1 +1,16 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='iowastatefair.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa713384670>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# robots.txt for https://www.iowastatefair.org/
+
+sitemap: https://www.iowastatefair.org/sitemaps-1-sitemap.xml
+sitemap: https://www.iowastatefairgrounds.org/sitemaps-1-sitemap.xml
+
+# live - don't allow web crawlers to index cpresources/ or vendor/
+
+User-agent: *
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /.env
+Disallow: /cache/
+
+
+User-agent: SemrushBot
+Disallow: /
