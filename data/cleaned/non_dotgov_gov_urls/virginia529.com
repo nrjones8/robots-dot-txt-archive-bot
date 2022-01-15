@@ -10,3 +10,4 @@ Disallow: /about/reports-test-1/
 Disallow: /about/reports-test-2/
 Disallow: /about/reports-new/
 Disallow: /performance/
+Sitemap: https://www.virginia529.com/sitemap/sitemap/

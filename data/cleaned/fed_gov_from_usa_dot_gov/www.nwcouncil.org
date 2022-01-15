@@ -13,7 +13,7 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
-Crawl-delay: 10
+Crawl-delay: 30
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?
@@ -87,3 +87,23 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+# Remove meeting status urls.
+Disallow: /admin/meeting/*/status
+Disallow: /?q=admin/meeting/*/status
+# Remove search document pages.
+Disallow: /search-documents
+Disallow: /?q=search-documents
+Disallow: /search-documents?*
+Disallow: /?q=search-documents?*
+# Remove search pages.
+Disallow: /search
+Disallow: /?q=search
+Disallow: /search?*
+Disallow: /?q=search?*
+Disallow: /search/*
+Disallow: /?q=search/*
+# Remove news and cal pages with queries.
+Disallow: /news?*
+Disallow: /?q=news?*
+Disallow: /calendar?*
+Disallow: /?q=calendar?*

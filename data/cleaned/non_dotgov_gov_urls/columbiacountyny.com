@@ -6,13 +6,11 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /-test-transportation-complaint-form.html
 Disallow: /http://philmont.org/
-Disallow: /http://www.columbiacountysheriff.us
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-environmental-management-council/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-agriculture-and-farmland-board/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/home
 Disallow: /http://www.ny-municipalities.com/
 Disallow: /http://villageofkinderhook.org/
-Disallow: /http://www.ccemscoordinator.com
 Disallow: /http://www.valatievillage.com/
 Disallow: /https://villageofchatham.com/
 Disallow: /accounts-payable.html
@@ -23,6 +21,7 @@ Disallow: /https://boardofsupervisors.columbiacountyny.com/home/board-calendar
 Disallow: /http://austerlitzny.com/
 Disallow: /https://columbiachamber-ny.com/
 Disallow: /county-services.html
+Disallow: /http://www.ccemscoordinator.com
 Disallow: /http://www.sunycgcc.edu/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/home
 Disallow: /http://www.townofclaverack.com/
@@ -66,6 +65,7 @@ Disallow: /managed-information-systems.html
 Disallow: /payroll.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-probation-department/
 Disallow: /https://www.columbiacountyny.com/realproperty.html
+Disallow: /http://www.columbiacountysheriff.us
 Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /http://www.ccswcd.org/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-solid-waste/home/

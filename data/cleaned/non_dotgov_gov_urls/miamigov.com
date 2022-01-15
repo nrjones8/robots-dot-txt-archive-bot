@@ -861,6 +861,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Project-Inta
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-PublicRecords-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-PublicRecords-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-sealevelrise-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Special-Events-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-SSPR-Redirect-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-UDRB-Application-CheckList-PDF-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Union-Negotiation-Meeting-1
@@ -881,6 +882,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Municode-Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/My-Security-Info
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Parks-Aquatics
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Pay
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Permit-Catalog
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Project-Intake-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/PublicRecords
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Public-Works-GIS-Portal
@@ -2244,6 +2246,7 @@ Disallow: /redirects/Copy-of-Project-Intake-Form-1
 Disallow: /redirects/Copy-of-PublicRecords-1
 Disallow: /redirects/Copy-of-PublicRecords-2
 Disallow: /redirects/Copy-of-sealevelrise-1
+Disallow: /redirects/Copy-of-Special-Events-1
 Disallow: /redirects/Copy-of-SSPR-Redirect-1
 Disallow: /redirects/Copy-of-UDRB-Application-CheckList-PDF-1
 Disallow: /redirects/Copy-of-Union-Negotiation-Meeting-1
@@ -2264,6 +2267,7 @@ Disallow: /redirects/Municode-Procurement
 Disallow: /redirects/My-Security-Info
 Disallow: /redirects/Parks-Aquatics
 Disallow: /redirects/Pay
+Disallow: /redirects/Permit-Catalog
 Disallow: /redirects/Project-Intake-Form
 Disallow: /redirects/PublicRecords
 Disallow: /redirects/Public-Works-GIS-Portal

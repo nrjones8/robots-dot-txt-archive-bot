@@ -5,12 +5,14 @@ Disallow: /city-code-ordinances/housing-zoning/
 Disallow: /city-code-ordinances/bow-hunting/
 Disallow: /city-code-ordinances/sewer-lateral-and-sump-pump/
 Disallow: /city-code-ordinances/zoning-applications/
+Disallow: /council-agendas/2022-agendas/
 Disallow: /council-agendas/2021-agendas/
 Disallow: /council-agendas/2020-agendas/
 Disallow: /council-agendas/2019-agendas/
 Disallow: /council-agendas/2018-agendas/
 Disallow: /council-agendas/2017-agendas/
 Disallow: /council-agendas/2016-agendas/
+Disallow: /council-minutes/2022-meeting-minutes/
 Disallow: /council-minutes/2021-meeting-minutes/
 Disallow: /council-minutes/2020-meeting-minutes/
 Disallow: /council-minutes/2019-meeting-minutes/

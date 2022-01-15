@@ -1,11 +1,1 @@
-# Tells Scanning Robots Where They Are and Are Not Welcome
-User-agent: *    # applies to all robots
-Disallow: /admin/
-Disallow: /cgi-bin/
-Disallow: /common/
-Disallow: /images/
-Disallow: /pages/virtualAcad/admin/
-Disallow: /pages/virtualAcad/admin_old/
-Disallow: /phpMyAdmin/
-Disallow: /phoundry/
-Disallow: /util/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='chinacommission.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f334ccdcb50>, 'Connection to chinacommission.gov timed out. (connect timeout=15)'))"}

@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.ennismontana.org/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ennismontana.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f334ca00c40>, 'Connection to ennismontana.org timed out. (connect timeout=15)'))"}

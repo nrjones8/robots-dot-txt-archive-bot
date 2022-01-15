@@ -1,16 +1,11 @@
-user-agent: *
-Disallow: /click?
+User-agent: *
+Disallow: /accounts/*
+Disallow: /museumdays/accounts/
+Disallow: /accounts/login/
 Disallow: /search?
 Disallow: /rss?
-Disallow: /?epl=
-Disallow: /*?epl=
-Disallow: /*?*&epl=
 Disallow: /article/preview/*/
-Disallow: /tours/sid-*/
-Disallow: /tours/*/js/
-Disallow: /*/national-parks-existential-crisis-180964880/
+Disallow: /blogs/blogpost/preview/*
+Disallow: /dashboard/*/
 
-User-agent: ia_archiver
-Disallow: /
-
-sitemap: https://www.airspacemag.com/sitemap.xml
+Sitemap: https://www.smithsonianmag.com/sitemap.xml

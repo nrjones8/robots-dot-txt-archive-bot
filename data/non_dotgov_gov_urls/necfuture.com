@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /ScriptResource.axd      # Ignore script resources
-Disallow: /WebResource.axd         # Ignore web resources
-Disallow: /include/        # Ignore include files
-
-
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

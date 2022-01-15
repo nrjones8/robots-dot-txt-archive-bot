@@ -1,11 +1,1 @@
-# /robots.txt file for https://geoinfo.nmt.edu/
-
-User-agent: *
-Disallow: /Templates/
-Disallow: /cgi-bin/
-Disallow: /_*
-Disallow: /staff/mclemore/amd/
-Disallow: /publications/cart/
-Disallow: /CFIDE/
-Disallow: /nmtso/data/
-Disallow: /*viewPDF.cfm
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='geoinfo.nmt.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f334cb87e50>, 'Connection to geoinfo.nmt.edu timed out. (connect timeout=15)'))"}

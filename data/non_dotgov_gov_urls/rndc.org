@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='rndc.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /readme.html
+Disallow: /trackback
+Disallow: */trackback
+Disallow: /wp-snapshots
+
+Sitemap: http://www.rndc.org/sitemap.xml
