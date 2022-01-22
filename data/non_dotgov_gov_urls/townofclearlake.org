@@ -1,1 +1,16 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofclearlake.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f334b81d6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# robots.txt file for http://townofclearlake.org
+# Prevents search engine robots from adding these directories
+
+User-agent: *
+Disallow: /_borders/
+Disallow: /_fpclass/
+Disallow: /_overlay/
+Disallow: /_private/
+Disallow: /_themes/
+Disallow: /content/
+Disallow: /images/
+Disallow: /includes/
+Disallow: /webstats/
+Disallow: 404.htm
+Disallow: ownerinfo.htm
+Disallow: ownerinfofinished.htm

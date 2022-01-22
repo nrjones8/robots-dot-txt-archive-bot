@@ -1,1 +1,2 @@
-site shut down
+User-Agent: *
+Disallow:

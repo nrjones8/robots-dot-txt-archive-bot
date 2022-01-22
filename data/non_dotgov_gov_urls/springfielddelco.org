@@ -1,3 +1,3 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+user-agent: * 
+disallow: 
+crawl-delay: 60

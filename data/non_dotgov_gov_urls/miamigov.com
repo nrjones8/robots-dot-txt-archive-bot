@@ -1510,8 +1510,12 @@ Disallow: /Events-Activities/Copy-of-Background-Images
 Disallow: /files/assets/public/document-resources/pdf-docs/city-attorney/org-chart.pdf
 Disallow: /files/assets/public/validation/loaderio-3222d0840f994f184825e15134ccc3fc.txt
 Disallow: /files/sharedassets/public/attorneys/_s4a7319b.jpg
+Disallow: /files/sharedassets/public/attorneys/dsgoldberg.jpg
+Disallow: /files/sharedassets/public/attorneys/gamez.jpg
 Disallow: /files/sharedassets/public/attorneys/org-chart.pdf
 Disallow: /files/sharedassets/public/attorneys/robin-jones-jackson.jpg
+Disallow: /files/sharedassets/public/attorneys/rsotruba.jpg
+Disallow: /files/sharedassets/public/attorneys/rsrivas.jpg
 Disallow: /film-permits
 Disallow: /findyourcommissioner
 Disallow: /firesocialmedia

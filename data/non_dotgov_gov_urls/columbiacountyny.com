@@ -8,7 +8,7 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /-test-transportation-complaint-form.html
 Disallow: /http://philmont.org/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-environmental-management-council/
+Disallow: /https://sites.google.com/columbiacountyny.com/emc
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-agriculture-and-farmland-board/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/home
 Disallow: /http://www.ny-municipalities.com/
@@ -39,7 +39,7 @@ Disallow: /https://weather.com/weather/today/l/12534:4:US
 Disallow: /http://gallatin.yourtownhub.com/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/civilservice/
 Disallow: /http://www.germantownny.org/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-environmental-management-council/
+Disallow: /https://sites.google.com/columbiacountyny.com/emc
 Disallow: /http://www.townofghent.org/
 Disallow: /county-attorney.html
 Disallow: /http://www.townofgreenport.com/
