@@ -12,3 +12,5 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+User-agent: *
+Crawl-Delay: 3

@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-
-Sitemap: http://www.meadvillems.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='meadvillems.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f86e57ede80>, 'Connection to meadvillems.com timed out. (connect timeout=15)'))"}

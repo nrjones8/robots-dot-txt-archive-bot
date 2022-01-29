@@ -14,3 +14,5 @@ User-agent: *
 #Disallow: /*/action~*/
 Disallow: /cgi-bin/
 Disallow: /subdomains/
+User-agent: *
+Crawl-Delay: 3

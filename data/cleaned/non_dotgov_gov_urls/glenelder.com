@@ -12,10 +12,10 @@ Disallow: /http://www.glenelder.com/waconda-lake.html
 Disallow: /2015-craft-fair.html
 Disallow: /http://www.glenelder.com/history.html
 Disallow: /2021-fun-run.html
-Disallow: /2021-funday-schedule.html
-Disallow: /glen-elder-shirts.html
 Disallow: /spagetti-dinner.html
 Disallow: /template.html
+Disallow: /2021-funday-schedule.html
+Disallow: /glen-elder-shirts.html
 Disallow: /steakfest-cookoff.html
 Disallow: /soup-luncheon.html
 Disallow: /2019-motorcycle--car-run.html

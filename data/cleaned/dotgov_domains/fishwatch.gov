@@ -31,7 +31,6 @@ Allow: /modules/*.gif
 Allow: /modules/*.jpg
 Allow: /modules/*.jpeg
 Allow: /modules/*.png
-Allow: /profiles/
 Allow: /profiles/*.css$
 Allow: /profiles/*.css?
 Allow: /profiles/*.js$
@@ -52,6 +51,7 @@ Allow: /themes/*.png
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/
+Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
 # Files

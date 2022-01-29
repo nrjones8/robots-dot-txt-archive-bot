@@ -1,13 +1,17 @@
 # robots.txt, www.NCLifetimeIncome.org 11/22/2010
 # http://www.w3.org/TR/1998/REC-html40-19980424/appendix/notes.html#h-B.4.1
 #
+User-agent: PowerMapper
+Allow: /
 User-agent: Slurp
 #Yahoo specific directives
 Crawl-delay: 2
 Disallow: /bin
 Disallow: /Controls
+Disallow: /BrowserSupport.html
 #All other robots
 User-agent: *
 #folders to disallow
 Disallow: /bin
 Disallow: /Controls
+Disallow: /BrowserSupport.html
