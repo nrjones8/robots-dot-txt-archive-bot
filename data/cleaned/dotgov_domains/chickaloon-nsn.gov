@@ -1,3 +1,4 @@
-user-agent: * 
-disallow: 
-crawl-delay: 60
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: http://www.chickaloon-nsn.gov/wp-sitemap.xml

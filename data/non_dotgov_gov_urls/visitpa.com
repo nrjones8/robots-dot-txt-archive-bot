@@ -59,3 +59,5 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+#Taxonomy pages admin added by PREM 01192022
+Disallow: /taxonomy/

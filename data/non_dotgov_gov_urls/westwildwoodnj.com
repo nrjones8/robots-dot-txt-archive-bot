@@ -1,9 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.westwildwoodnj.com/sitemap.xml
-Sitemap: https://www.westwildwoodnj.com/sitemap.rss
-
-
-Sitemap: https://www.westwildwoodnj.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}

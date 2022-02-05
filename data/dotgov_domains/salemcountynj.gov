@@ -1,23 +1,6 @@
 User-agent: *
-Crawl-delay: 15
 Disallow: /wp-admin/
-Disallow: /wp-login.php
-Disallow: /wp-includes/
-Disallow: /xmlrpc.php
-Disallow: /search/
-Disallow: *?
-Disallow: *&preview=*
-Disallow: /tag/
-Disallow: /author/
-Disallow: /404-error/
-Disallow: /wp-content/updraft
-Disallow: /wp-content/wflogs
-Disallow: /wp-content/uploads/db-backup
-Disallow: /wp-content/uploads/ithemes-security
-Disallow: /wp-content/uploads/wpmc-trash
-Disallow: /*add-to-cart=*
-Disallow: /cart/
-Disallow: /checkout/
-Disallow: /my-account/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.salemcountynj.gov/sitemap.xml
+Sitemap: https://www.salemcountynj.gov/wp-sitemap.xml
+Disallow: /wp-content/uploads/vfb/

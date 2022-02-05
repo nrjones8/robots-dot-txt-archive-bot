@@ -816,6 +816,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-H
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-or-Zoning-Issue
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-Zoning-Issue
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-Zoning
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Create-an-iBuild-Account
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
@@ -866,6 +867,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Special-Even
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-SSPR-Redirect-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-UDRB-Application-CheckList-PDF-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Union-Negotiation-Meeting-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Unsafe-Structures-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-virginiakey-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Web-Request-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/film-permits
@@ -893,6 +895,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Senior-Data-Fellow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Special-Events
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/SSPR-Redirect
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Tenant-Migration-Instructions
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/trainingvideos
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/UDRB-Application-CheckList-PDF
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Union-Negotiation-Meeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Unsafe-Structures
@@ -1293,6 +1296,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages/Sample-A-Z-Servic
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/traffic-calming
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/trainingvideos
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-traffic-Calming-on-a-Street
@@ -2204,6 +2208,7 @@ Disallow: /Permits-Construction/Appeals-Hearings/Appeal-a-PZAB-Decision
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-or-Zoning-Issue
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-Zoning-Issue
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-Zoning
+Disallow: /Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /Permits-Construction/Create-an-iBuild-Account
 Disallow: /Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
@@ -2254,6 +2259,7 @@ Disallow: /redirects/Copy-of-Special-Events-1
 Disallow: /redirects/Copy-of-SSPR-Redirect-1
 Disallow: /redirects/Copy-of-UDRB-Application-CheckList-PDF-1
 Disallow: /redirects/Copy-of-Union-Negotiation-Meeting-1
+Disallow: /redirects/Copy-of-Unsafe-Structures-1
 Disallow: /redirects/Copy-of-virginiakey-1
 Disallow: /redirects/Copy-of-Web-Request-1
 Disallow: /redirects/film-permits
@@ -2281,6 +2287,7 @@ Disallow: /redirects/Senior-Data-Fellow
 Disallow: /redirects/Special-Events
 Disallow: /redirects/SSPR-Redirect
 Disallow: /redirects/Tenant-Migration-Instructions
+Disallow: /redirects/trainingvideos
 Disallow: /redirects/UDRB-Application-CheckList-PDF
 Disallow: /redirects/Union-Negotiation-Meeting
 Disallow: /redirects/Unsafe-Structures
@@ -2681,6 +2688,7 @@ Disallow: /System-pages/Sample-A-Z-Services-Page
 Disallow: /System-pages/Search-Results
 Disallow: /TEST-Image-Gallery
 Disallow: /traffic-calming
+Disallow: /trainingvideos
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Transportation-Roadways/Request-traffic-Calming-on-a-Street

@@ -107,17 +107,21 @@ Disallow: /civicax/filebank/blobdload.aspx?blobid=211261
 Disallow: /civicax/filebank/blobdload.aspx?blobid=27212
 Disallow: /civicax/filebank/blobdload.aspx?blobid=34346
 Disallow: /civicax/filebank/blobdload.aspx?blobid=38512
-Disallow: /civicax/filebank/blobdload.aspx?blobid=153501
-Disallow: /civicax/filebank/blobdload.aspx?blobid=166904
-Disallow: /civicax/filebank/blobdload.aspx?blobid=166893
-Disallow: /civicax/filebank/blobdload.aspx%3FBlobID%3D153501
-Disallow: /civicax/filebank/blobdload.aspx%3FBlobID%3D166904
-Disallow: /civicax/filebank/blobdload.aspx%3FBlobID%3D166893
-Disallow: /documents/ES/Autopay%20App.pdf
+# Begin GT document removal
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=153501
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=166904
+Disallow: /civicax/filebank/blobdload.aspx?BlobID=166893
+Disallow: /civicax/filebank/blobdload.aspx?BlobID%3D153501
+Disallow: /civicax/filebank/blobdload.aspx?BlobID%3D166904
+Disallow: /civicax/filebank/blobdload.aspx?BlobID%3D166893
 Disallow: /SBdocuments/Advisory_Groups/Building_and_Fire_Code_Board_of_Appeals/Archive/2015_Archives/03_Staff_Reports/2015-06-26%201215%20E.%20Cota.pdf
+Disallow: /SBdocuments/Advisory_Groups/Building_and_Fire_Code_Board_of_Appeals/Archive/2015_Archives/03_Staff_Reports/2015-06-26 1215 E. Cota.pdf
 Disallow: /SBdocuments/Advisory_Groups/Building_and_Fire_Code_Board_of_Appeals/Archive/2015_Archives/05_Minutes/2015-06-26%20Building%20Fire%20Appeal%20Minutes%2006.26.15.pdf
+Disallow: /SBdocuments/Advisory_Groups/Building_and_Fire_Code_Board_of_Appeals/Archive/2015_Archives/05_Minutes/2015-06-26 Building Fire Appeal Minutes 06.26.15.pdf
 Disallow: /SBdocuments/Advisory_Groups/Staff_Hearing_Officer/Archive/2014_Archives/03_Staff_Reports_2014/2014_11_26_November_26_2014_Item_II-D_1215_E_Cota_Street_Report.pdf
 Disallow: /SBdocuments/Advisory_Groups/Single_Family_Design_Board/Archive/2014_Archives/05_Minutes/2014-09-08_September_8_20147_Minutes.pdf
+# End GT document removal
+Disallow: /documents/ES/Autopay%20App.pdf
 # Don't index these folders
 Disallow: /admin/
 Disallow: /cals/
