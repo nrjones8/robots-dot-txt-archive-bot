@@ -1,6 +1,7 @@
-User-Agent: *
-Disallow:
 User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://townlyme.org/wp-sitemap.xml
 Disallow: /calendar-2/action~posterboard/
 Disallow: /calendar-2/action~agenda/
 Disallow: /calendar-2/action~oneday/

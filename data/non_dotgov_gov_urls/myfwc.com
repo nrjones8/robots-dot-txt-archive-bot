@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='myfwc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7bd2b99b20>, 'Connection to myfwc.com timed out. (connect timeout=15)'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='myfwc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f9d5c8666a0>, 'Connection to myfwc.com timed out. (connect timeout=15)'))"}

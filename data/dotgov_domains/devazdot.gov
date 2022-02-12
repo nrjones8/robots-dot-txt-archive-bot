@@ -1,1 +1,12 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# Pantheon's documentation on robots.txt: https://pantheon.io/docs/bots-and-indexing/
+User-agent: *
+Disallow: /
+
+User-agent: RavenCrawler
+User-agent: rogerbot
+User-agent: dotbot
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: PowerMapper
+User-agent: Swiftbot
+Allow: /

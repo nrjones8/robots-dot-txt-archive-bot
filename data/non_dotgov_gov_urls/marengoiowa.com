@@ -6,4 +6,3 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /https://marengoiowa.weebly.com/utilities.html

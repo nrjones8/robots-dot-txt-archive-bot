@@ -1,8 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.cityofmagnoliams.com/?sitemap=index
-
-
-Sitemap: https://www.cityofmagnoliams.com/index.php?xml_sitemap=params=
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

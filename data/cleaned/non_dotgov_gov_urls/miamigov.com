@@ -739,6 +739,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Submit-Invoices-to-the-Planning-Department
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-005-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-006-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-008-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -751,6 +753,8 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Plan
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-005
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-006
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-007
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-008
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -911,6 +915,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Im
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Grapeland-Image
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event-in-The-City-of-Miami
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Housing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Housing/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Hurricane-Guide-Alert
@@ -2131,6 +2136,8 @@ Disallow: /My-Government/Departments/Planning/School-Concurrency/Reserve-School-
 Disallow: /My-Government/Departments/Planning/Submit-Invoices-to-the-Planning-Department
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-20-038-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-005-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-006-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-008-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2143,6 +2150,8 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-044
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-005
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-006
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-007
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-008
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -2303,6 +2312,7 @@ Disallow: /Residents/Copy-of-Grapeland-Image-1
 Disallow: /Residents/Grapeland-Image
 Disallow: /Residents/Host-an-Event
 Disallow: /Residents/Host-an-Event-in-The-City-of-Miami
+Disallow: /Residents/Housing
 Disallow: /Residents/Housing/Business-Assistance-Grant
 Disallow: /Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricane-Guide-Alert

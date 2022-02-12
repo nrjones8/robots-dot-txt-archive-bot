@@ -1,4 +1,4 @@
-Sitemap: http://www.cityofbigfork.com/sitemap.xml
+Sitemap: https://www.cityofbigfork.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /

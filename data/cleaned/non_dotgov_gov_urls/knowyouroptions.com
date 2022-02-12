@@ -19,6 +19,7 @@ Sitemap: https://www.fanniemae.com/sitemap.xml
 User-agent: *
 Disallow: /*/node/
 Disallow: /homeown/
+Disallow: /media/document/pdf/virtual-sf-reinsurance-summit-agenda-2022.pdf
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
