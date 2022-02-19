@@ -1,1 +1,23 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cfcsanantonio.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9d5c5f60a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+User-agent: *
+Disallow: /bt2
+Disallow: /*?*nmovie=
+Disallow: /*?*action=
+Disallow: /*?*tvaction=
+Disallow: /bt1
+Disallow: /bt3
+Disallow: /bt5
+Disallow: /bt7
+Sitemap: https://cfcsanantonio.org/m-sitemap.xml
+Sitemap: https://cfcsanantonio.org/tvnext-sitemap.xml
+Sitemap: https://cfcsanantonio.org/tv-sitemap.xml
+Sitemap: https://cfcsanantonio.org/tvpopular-sitemap.xml
+Sitemap: https://cfcsanantonio.org/tahun/2021.xml
+Sitemap: https://cfcsanantonio.org/tahun/2020.xml
+Sitemap: https://cfcsanantonio.org/tahun/2019.xml
+Sitemap: https://cfcsanantonio.org/tahun/2018.xml
+Sitemap: https://cfcsanantonio.org/tahun/2017.xml
+Sitemap: https://cfcsanantonio.org/tahun/2016.xml
+Sitemap: https://cfcsanantonio.org/tahun/2010.xml

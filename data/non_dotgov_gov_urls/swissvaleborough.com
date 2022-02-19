@@ -1,10 +1,35 @@
-# robots.txt for CME Websites.com
-user-agent: *
-
-
-
-disallow: /Bin 			#standard site folders
-disallow: /Configuration 	#standard site folders
-disallow: /Transforms 		#standard site folders
-disallow: web.config
-disallow: gdspublisher.xml
+user-agent: Baiduspider
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: *
+Disallow: /activedit
+Disallow: /admin
+Disallow: /common/admin/
+Disallow: /OJA
+Disallow: /support
+Disallow: /currenteventsview.asp
+Disallow: /search.asp
+Disallow: /currenteventsview.aspx
+Disallow: /search.aspx
+Disallow: /currentevents.aspx
+Disallow: /Support
+Disallow: /CurrentEventsView.asp
+Disallow: /Search.asp
+Disallow: /CurrentEventsView.aspx
+Disallow: /Search.aspx
+Disallow: /Search
+Disallow: /CurrentEvents.aspx
+Disallow: /Currentevents.aspx
+Disallow: /map.aspx
+Disallow: /map.asp
+Disallow: /Map.aspx
+Disallow: /Map.asp
+Sitemap: /sitemap.xml
+Disallow: /RSS.aspx
+User-agent: Siteimprove
+Crawl-delay: 20

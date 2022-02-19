@@ -4,6 +4,4 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /events.html
 Disallow: /ida.html
-Disallow: /budget.html

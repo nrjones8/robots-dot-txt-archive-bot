@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mountjoyborough.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7953c12dc0>, 'Connection to mountjoyborough.com timed out. (connect timeout=15)'))"}

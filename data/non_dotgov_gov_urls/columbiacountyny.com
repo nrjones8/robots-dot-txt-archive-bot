@@ -37,7 +37,7 @@ Disallow: /http://townofcopake.org/
 Disallow: /https://sites.google.com/a/columbiacountyny.com/elections/election-information/election-results
 Disallow: /https://weather.com/weather/today/l/12534:4:US
 Disallow: /http://gallatin.yourtownhub.com/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/civilservice/
+Disallow: /https://www.columbiacountyny.com/civil-service-home-page.html
 Disallow: /http://www.germantownny.org/
 Disallow: /https://sites.google.com/columbiacountyny.com/emc
 Disallow: /http://www.townofghent.org/

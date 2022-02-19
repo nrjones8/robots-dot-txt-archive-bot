@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tampa.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f9d5c923be0>, 'Connection to tampa.gov timed out. (connect timeout=15)'))"}
+#
+# robots_noindex.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file is served on all non-prod environments to prevent indexing
+#
+User-agent: *
+Disallow: /
