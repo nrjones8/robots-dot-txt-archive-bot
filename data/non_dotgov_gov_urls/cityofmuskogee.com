@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofmuskogee.com', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.muskogeeonline.org', port=80): Read timed out. (read timeout=15)"}

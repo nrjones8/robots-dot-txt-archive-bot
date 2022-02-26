@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: https://hoosierlottery.com/Special-Pages/Test-Pages/Test-Devi
 Disallow: https://hoosierlottery.com/Games/draw/hoosier-lotto
 Disallow: https://hoosierlottery.com/Games/draw/hoosier-lotto-plus
 Disallow: https://hoosierlottery.com/Games/draw/daily-3-evening

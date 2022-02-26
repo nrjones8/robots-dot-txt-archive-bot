@@ -1,4 +1,4 @@
-Sitemap: http://www.townofparkerarizona.com/sitemap.xml
+Sitemap: https://www.townofparkerarizona.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /

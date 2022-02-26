@@ -1,1 +1,18 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ci.newport.mn.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f7953b3c3a0>, 'Connection to ci.newport.mn.us timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /documents/
+Disallow: /vids/
+Disallow: /script/
+Disallow: /site_admin/
+Disallow: /search/
+Disallow: /map_asset/
+Disallow: /jsdatepick-calendar/
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /

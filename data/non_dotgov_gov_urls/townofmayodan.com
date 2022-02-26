@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.townofmayodan.com/wp-sitemap.xml
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -15,3 +12,14 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+Disallow: /live/calendar/action~posterboard/
+Disallow: /live/calendar/action~agenda/
+Disallow: /live/calendar/action~oneday/
+Disallow: /live/calendar/action~month/
+Disallow: /live/calendar/action~week/
+Disallow: /live/calendar/action~stream/
+Disallow: /live/calendar/action~undefined/
+Disallow: /live/calendar/action~http:/
+Disallow: /live/calendar/action~default/
+Disallow: /live/calendar/action~poster/
+Disallow: /live/calendar/action~*/

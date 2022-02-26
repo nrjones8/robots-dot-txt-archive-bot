@@ -12,9 +12,10 @@ Disallow: /city-projects.html
 Disallow: /https://www.saugatuckfire.org
 Disallow: /https://www.sdlibrary.org
 Disallow: /https://www.michigangasutilities.com
-Disallow: /https://www.sdhistoricalsociety.org
 Disallow: /links.html
+Disallow: /https://michigantownshipservices.secureserversites.net/city-of-saugatuck
 Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
+Disallow: /https://www.sdhistoricalsociety.org
 Disallow: /https://www.saugatuckdouglasartclub.org/
 Disallow: /https://saugatuckpublicschools.com
 Disallow: /https://klswa.com

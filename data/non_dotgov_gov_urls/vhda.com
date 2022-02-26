@@ -1,14 +1,1 @@
-﻿User-Agent: *
-Disallow: /Search/
-Disallow: /Redirects/
-Disallow: /Authenticate/
-Disallow: /_layouts/
-Disallow: /ReusableContent/
-Disallow: /Reports%20List/
-Disallow: /WorkflowTasks/
-Disallow: /SiteCollectionDocuments/
-Disallow: /SiteCollectionImages/
-Disallow: /Documents/Forms/
-Disallow: /Pages/Forms/
-Disallow: /Pages/SiteIsUp.aspx
-Disallow: /Pages/Housing%20Directory/ExportOrgsToExcel.aspx
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
