@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /portal/
+Request failed

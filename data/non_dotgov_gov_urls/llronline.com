@@ -12,6 +12,7 @@ Disallow:/PolSurvey/
 Disallow:/BDReN/
 Disallow:/Policy/
 Disallow:/nl/
+Disallow:/nl/2022_01/
 Disallow:/NoCrawl/
 
 Sitemap: https://llr.sc.gov/sitemap.xml

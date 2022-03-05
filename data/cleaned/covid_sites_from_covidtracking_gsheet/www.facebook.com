@@ -274,6 +274,28 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+User-agent: Screaming Frog SEO Spider
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /dialog/
+Disallow: /fbml/ajax/dialog/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /job_application/
+Disallow: /l.php
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photo.php
+Disallow: /photos.php
+Disallow: /plugins/
+Disallow: /share.php
+Disallow: /share/
+Disallow: /sharer.php
+Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
 User-agent: seznambot
 Disallow: /ajax/
 Disallow: /album.php
@@ -500,6 +522,13 @@ Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
 Allow: /watch/?v=*
+User-agent: Screaming Frog SEO Spider
+Allow: /*/videos/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
+Allow: /watch
 User-agent: seznambot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet

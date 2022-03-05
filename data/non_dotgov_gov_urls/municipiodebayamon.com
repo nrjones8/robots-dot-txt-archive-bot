@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.municipiodebayamon.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='municipiodebayamon.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd4b8b573a0>, 'Connection to municipiodebayamon.com timed out. (connect timeout=15)'))"}

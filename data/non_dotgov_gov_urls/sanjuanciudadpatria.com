@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+Sitemap: https://sanjuan.pr/sitemap_index.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,7 +1,3 @@
-# Default Flywheel robots file
+#robots.txt for all our sites
 User-agent: *
-Allow: /*?v
-Disallow: /calendar/action*
-Disallow: /events/action*
-Disallow: /*?
-Crawl-delay: 3
+Disallow: /content/*
