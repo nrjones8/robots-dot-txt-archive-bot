@@ -1,21 +1,25 @@
-
-
-User-Agent: ia_archiver
+User-agent: Googlebot
+Crawl-delay: 10
 Disallow:
- 
-User-Agent: *
-Disallow: /note/
-Disallow: /search.php
-Disallow: /click.php
-Disallow: /search_caf.php
-Disallow: /t.php
-Disallow: /exitpage/
-Disallow: /popup/
-Disallow: /r.php
-Disallow: /secondary_feed/
 
-User-agent: MJ12bot
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Slurp
+Crawl-delay: 10
+Disallow:
+
+User-agent: MSNBot
+Crawl-delay: 10
+Disallow:
+
+User-agent: bingbot
+Crawl-delay: 10
+Disallow:
+
+User-agent: ia_archiver
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
 Disallow: /
-
-
-

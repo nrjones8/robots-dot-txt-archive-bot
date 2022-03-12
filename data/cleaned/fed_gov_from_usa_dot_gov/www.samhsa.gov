@@ -48,6 +48,20 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+# Taxonomies
+Disallow: /issues-conditions-disorders/*
+Disallow: /learning-community/*
+Disallow: /location/*
+Disallow: /substances/*
+Disallow: /treatment-prevention-recovery/*
+Disallow: /professional-research-topics/*
+Disallow: /postal-code/*
+Disallow: /population-groups/*
+Disallow: /pc-topic/*
+Disallow: /pc-type/*
+Disallow: /hpr-topic/*
+Disallow: /hpr-resource-format/*
+Disallow: /audience/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

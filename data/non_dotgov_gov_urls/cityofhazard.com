@@ -1,3 +1,9 @@
 User-agent: *
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+
+Sitemap: https://www.cityofhazard.com/sitemap.rss
+
+
+Sitemap: https://www.cityofhazard.com/sitemap.xml

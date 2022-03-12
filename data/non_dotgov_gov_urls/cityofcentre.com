@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+Sitemap: https://www.cityofcentre.com/sitemap.xml
+Sitemap: https://www.cityofcentre.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.cityofcentre.com/sitemap_index.xml
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

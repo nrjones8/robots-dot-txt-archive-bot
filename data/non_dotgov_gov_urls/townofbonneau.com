@@ -1,1 +1,19 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofbonneau.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd4b8741d60>, 'Connection to townofbonneau.com timed out. (connect timeout=15)'))"}
+
+
+
+User-agent: *
+Disallow: /cache/
+Disallow: /_backup/
+Disallow: /_mygallery/
+Disallow: /_temp/
+Disallow: /_tempalbums/
+Disallow: /_tmpfileop/
+Disallow: /dbboon/
+Disallow: /Flash/
+Disallow: /images/
+Disallow: /mobile/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /stats/
+Disallow: /statshistory/
+Disallow: /QSC/

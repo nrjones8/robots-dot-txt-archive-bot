@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='madisoncountyfl.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://madisoncountyfl.com/wp-sitemap.xml
+
+Sitemap: https://madisoncountyfl.com/sitemapindex.xml
