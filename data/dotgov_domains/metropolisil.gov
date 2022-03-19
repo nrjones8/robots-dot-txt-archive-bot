@@ -1,16 +1,5 @@
 User-agent: *
-Allow: /
-Sitemap: https://metropolisil.gov/sitemap.xml
-Sitemap: https://metropolisil.gov/sitemap0.xml
-Sitemap: https://metropolisil.gov/sitemap1.xml
-Sitemap: https://metropolisil.gov/sitemap2.xml
-Sitemap: https://metropolisil.gov/sitemap3.xml
-Sitemap: https://metropolisil.gov/sitemap4.xml
-Sitemap: https://metropolisil.gov/sitemap5.xml
-Sitemap: https://metropolisil.gov/sitemap6.xml
-Sitemap: https://metropolisil.gov/sitemap7.xml
-Sitemap: https://metropolisil.gov/sitemap8.xml
-Sitemap: https://metropolisil.gov/sitemap9.xml
-Sitemap: https://metropolisil.gov/sitemap10.xml
-Sitemap: https://metropolisil.gov/sitemap11.xml
-Sitemap: https://metropolisil.gov/sitemap12.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.metropolisil.gov/wp-sitemap.xml

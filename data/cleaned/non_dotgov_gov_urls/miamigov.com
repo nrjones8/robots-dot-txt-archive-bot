@@ -46,7 +46,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Miamis-Food-Truck-Ord
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
@@ -67,6 +66,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Community/Youth
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/communitybudgetmeeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/communitymeeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/conmit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Connect/Getting-Around
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/311Direct
@@ -273,6 +273,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Civilian
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Department-Page
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -287,6 +288,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-3
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
@@ -296,11 +298,15 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -393,6 +399,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/Strategic-Capital-Initiatives-Improvements-OCI
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Daniel-S.-Goldberg
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Manager
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/OLD-City-Clerks-Office-OLD
@@ -665,6 +672,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/St
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building-Updated
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
@@ -714,6 +723,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Offi
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Manager
@@ -784,6 +794,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Copy-of-3922-930-AM-Special-Commission-Online-Public-Comment-Form-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
@@ -826,6 +837,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-H
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-or-Zoning-Issue
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-Zoning-Issue
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-Zoning
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Create-an-iBuild-Account
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
@@ -964,6 +976,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Plant-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tree-Kyle
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Hearing/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/311-Success
@@ -1150,6 +1165,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appea
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Solve-a-Problem/Request-an-Administrative-Hearing-for-Derelict-Vessel-Citation/Explanation-of-Rights-Derelict-Vessel-Citation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
@@ -1209,6 +1226,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit-t
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-City-Gym-Memebership
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Tree-Permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Trees
@@ -1227,6 +1245,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
@@ -1404,7 +1423,6 @@ Disallow: /Business/Miamis-Food-Truck-Ordinance
 Disallow: /Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
-Disallow: /Business-Licenses/Budgets-and-Finances/American-Rescue-Plan-Act-ARPA
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
@@ -1425,6 +1443,7 @@ Disallow: /Community/New-page
 Disallow: /Community/Youth
 Disallow: /communitybudgetmeeting
 Disallow: /communitymeeting
+Disallow: /conmit
 Disallow: /Connect/Getting-Around
 Disallow: /Content-Sandbox
 Disallow: /Content-Sandbox/311Direct
@@ -1643,6 +1662,7 @@ Disallow: /Government/Department/Civilian-Investigative-Panel
 Disallow: /Government/Department/New-page
 Disallow: /Government/Department/Test-Building-Department-Page
 Disallow: /Government/Department/Test-Department-Page
+Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -1657,6 +1677,7 @@ Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Constr
 Disallow: /Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /Government/Departments-Organizations/City-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-3
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
@@ -1666,11 +1687,15 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
 Disallow: /Government/Departments-Organizations/City-Clerk
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -1763,6 +1788,7 @@ Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-O
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/Strategic-Capital-Initiatives-Improvements-OCI
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Daniel-S.-Goldberg
+Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Manager
 Disallow: /Government/Departments-Organizations/OLD-City-Clerks-Office-OLD
@@ -2073,6 +2099,8 @@ Disallow: /My-Government/ClimateChange/Storm-Preparedness
 Disallow: /My-Government/ClimateChange/Storms
 Disallow: /My-Government/Departments/Building-Updated
 Disallow: /My-Government/Departments/City-Attorney
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
@@ -2122,6 +2150,7 @@ Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Pag
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /My-Government/Departments/Office-of-the-City-Manager
@@ -2192,6 +2221,7 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Copy-of-3922-930-AM-Special-Commission-Online-Public-Comment-Form-1
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
@@ -2234,6 +2264,7 @@ Disallow: /Permits-Construction/Appeals-Hearings/Appeal-a-PZAB-Decision
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-or-Zoning-Issue
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-a-Planning-Zoning-Issue
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-Zoning
+Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /Permits-Construction/Create-an-iBuild-Account
 Disallow: /Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
@@ -2372,6 +2403,9 @@ Disallow: /Service-Directory/Plant-a-tree-in-the-right-of-way
 Disallow: /Service-Directory/Remove-a-tree
 Disallow: /Service-Directory/Remove-a-Tree-for-Construction
 Disallow: /Service-Directory/Remove-a-tree-Kyle
+Disallow: /Service-Directory/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
+Disallow: /Service-Directory/Request-a-Hearing/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
+Disallow: /Service-Directory/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /Services/311-Success
@@ -2558,6 +2592,8 @@ Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /Services/Solve-a-Problem/Appeal-a-Warrant-or-Waiver
 Disallow: /Services/Solve-a-Problem/File-a-Workers-Compensation-Claim
 Disallow: /Services/Solve-a-Problem/New-page
+Disallow: /Services/Solve-a-Problem/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
+Disallow: /Services/Solve-a-Problem/Request-an-Administrative-Hearing-for-Derelict-Vessel-Citation/Explanation-of-Rights-Derelict-Vessel-Citation
 Disallow: /Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /Services/Transportation
 Disallow: /Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
@@ -2617,6 +2653,7 @@ Disallow: /Services-Folder/Get-a-Permit-to-Build-a-Driveway
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Get-City-Gym-Memebership
+Disallow: /Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder/Tree-Permits
 Disallow: /Services-Folder/Trees
@@ -2635,6 +2672,7 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Get-a-Permit-to-
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-the-right-of-way
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
+Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017

@@ -1,5 +1,5 @@
-Sitemap: http://www.townofchadbourn.com/sitemap.xml
-Sitemap: http://www.townofchadbourn.com/news-sitemap.xml
+Sitemap: https://www.townofchadbourn.com/sitemap.xml
+Sitemap: https://www.townofchadbourn.com/news-sitemap.xml
 User-agent: *
 Disallow: /newchad/wp-admin/
 Allow: /newchad/wp-admin/admin-ajax.php

@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /agendas-minutes-clone$
+Disallow: /agendas-minutes-clone?
+Disallow: /agendas-minutes-clone/~
 Disallow: /public-works-clone$
 Disallow: /public-works-clone?
 Disallow: /public-works-clone/~
@@ -68,12 +71,12 @@ Disallow: /production/banners/left-banner/~
 Disallow: /home-clone-testing$
 Disallow: /home-clone-testing?
 Disallow: /home-clone-testing/~
-Disallow: /government/agendas-minutes/agendas-minutes-posts$
-Disallow: /government/agendas-minutes/agendas-minutes-posts?
-Disallow: /government/agendas-minutes/agendas-minutes-posts/~
 Disallow: /home-mock-up-nov21$
 Disallow: /home-mock-up-nov21?
 Disallow: /home-mock-up-nov21/~
+Disallow: /government/agendas-minutes/agendas-minutes-posts$
+Disallow: /government/agendas-minutes/agendas-minutes-posts?
+Disallow: /government/agendas-minutes/agendas-minutes-posts/~
 Disallow: /burn-permit$
 Disallow: /burn-permit?
 Disallow: /burn-permit/~
@@ -86,9 +89,6 @@ Disallow: /under-construction/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
-Disallow: /building-clone$
-Disallow: /building-clone?
-Disallow: /building-clone/~
 Disallow: /our-town/news/town-news-default$
 Disallow: /our-town/news/town-news-default?
 Disallow: /our-town/news/town-news-default/~
@@ -98,12 +98,15 @@ Disallow: /production/posts/new-page/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
-Disallow: /archived-elements$
-Disallow: /archived-elements?
-Disallow: /archived-elements/~
+Disallow: /building-clone$
+Disallow: /building-clone?
+Disallow: /building-clone/~
 Disallow: /government/live-streaming$
 Disallow: /government/live-streaming?
 Disallow: /government/live-streaming/~
+Disallow: /archived-elements$
+Disallow: /archived-elements?
+Disallow: /archived-elements/~
 Disallow: /production/posts/post-grid$
 Disallow: /production/posts/post-grid?
 Disallow: /production/posts/post-grid/~
@@ -209,6 +212,9 @@ Disallow: /production/posts/post-slideshow/~
 Disallow: /production/news-elements/news-post-page$
 Disallow: /production/news-elements/news-post-page?
 Disallow: /production/news-elements/news-post-page/~
+Disallow: /site-notes$
+Disallow: /site-notes?
+Disallow: /site-notes/~
 Disallow: /production/social-elements/youtube$
 Disallow: /production/social-elements/youtube?
 Disallow: /production/social-elements/youtube/~
@@ -230,9 +236,6 @@ Disallow: /production/organizational/production/organizational/container/~
 Disallow: /production/organizational/production/organizational/tabs$
 Disallow: /production/organizational/production/organizational/tabs?
 Disallow: /production/organizational/production/organizational/tabs/~
-Disallow: /site-notes$
-Disallow: /site-notes?
-Disallow: /site-notes/~
 Disallow: /production/page-layout/production/page-layout/2-column-layout$
 Disallow: /production/page-layout/production/page-layout/2-column-layout?
 Disallow: /production/page-layout/production/page-layout/2-column-layout/~

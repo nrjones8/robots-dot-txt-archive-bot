@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /test-page$
+Disallow: /test-page?
+Disallow: /test-page/~
 Disallow: /budget$
 Disallow: /budget?
 Disallow: /budget/~
@@ -86,15 +89,12 @@ Disallow: /departments/community-services/services/scholarships/~
 Disallow: /departments/fire-rescue/sops-general-orders/sop-forms$
 Disallow: /departments/fire-rescue/sops-general-orders/sop-forms?
 Disallow: /departments/fire-rescue/sops-general-orders/sop-forms/~
-Disallow: /stay-connected/alerts-notifications$
-Disallow: /stay-connected/alerts-notifications?
-Disallow: /stay-connected/alerts-notifications/~
-Disallow: /departments/planning-codes/planning/projects/tif-cea-scarborough-downs$
-Disallow: /departments/planning-codes/planning/projects/tif-cea-scarborough-downs?
-Disallow: /departments/planning-codes/planning/projects/tif-cea-scarborough-downs/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
+Disallow: /stay-connected/alerts-notifications$
+Disallow: /stay-connected/alerts-notifications?
+Disallow: /stay-connected/alerts-notifications/~
 Disallow: /government/boards-committees/cable-television-committee$
 Disallow: /government/boards-committees/cable-television-committee?
 Disallow: /government/boards-committees/cable-television-committee/~
@@ -146,18 +146,18 @@ Disallow: /production/posts/list/~
 Disallow: /production/posts/single$
 Disallow: /production/posts/single?
 Disallow: /production/posts/single/~
-Disallow: /production$
-Disallow: /production?
-Disallow: /production/~
-Disallow: /home-clone$
-Disallow: /home-clone?
-Disallow: /home-clone/~
 Disallow: /departments/fire-rescue/sops-general-orders/sop-book-1$
 Disallow: /departments/fire-rescue/sops-general-orders/sop-book-1?
 Disallow: /departments/fire-rescue/sops-general-orders/sop-book-1/~
+Disallow: /production$
+Disallow: /production?
+Disallow: /production/~
 Disallow: /home-clone-nov-4-2021$
 Disallow: /home-clone-nov-4-2021?
 Disallow: /home-clone-nov-4-2021/~
+Disallow: /home-clone$
+Disallow: /home-clone?
+Disallow: /home-clone/~
 Disallow: /production/social-elements/feeds$
 Disallow: /production/social-elements/feeds?
 Disallow: /production/social-elements/feeds/~

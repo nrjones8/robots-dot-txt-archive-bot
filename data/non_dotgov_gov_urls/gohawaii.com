@@ -88,14 +88,3 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
-# No crawling of taxonomies
-Disallow: /additional-filters/
-Disallow: /background-images/
-Disallow: /category/
-Disallow: /country-language/
-Disallow: /element/
-Disallow: /event-category/
-Disallow: /functional/
-Disallow: /island/
-Disallow: /special-alert-types/
-Disallow: /traveler-types/

@@ -6,6 +6,14 @@ Disallow: /search/#stq=*
 Disallow: /search/
 Disallow: /available.html
 Allow: /wp-content/themes/sf_fed_rebrand_2015/library/images/refresh/apple-touch-icon-200x200-uo.png
-Allow: /wp-content/blogs.dir/1/files/*
-
-Sitemap: https://www.frbsf.org/sitemap-index.xml
+Allow: /wp-content/uploads/*
+Allow: /wp-content/uploads/sites/2/*
+Allow: /wp-content/uploads/sites/3/*
+Allow: /wp-content/uploads/sites/4/*
+Allow: /wp-content/uploads/sites/5/*
+Allow: /wp-content/uploads/sites/7/*
+Sitemap: https://www.frbsf.org/sitemap.xml
+Sitemap: https://www.frbsf.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
