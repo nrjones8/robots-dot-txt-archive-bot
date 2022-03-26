@@ -36,8 +36,6 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
-# iFrames that should not be indexed
-Disallow: /best-of-list/iframe
 # Files
 Disallow: /README.txt
 Disallow: /web.config
@@ -62,7 +60,9 @@ Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 
-Sitemap: https://www.tampa.gov/sitemap.xml
 #
 # cot-robots.txt
 #
+# iFrames that should not be indexed
+Disallow: /best-of-list/iframe
+Sitemap: https://www.tampa.gov/sitemap.xml

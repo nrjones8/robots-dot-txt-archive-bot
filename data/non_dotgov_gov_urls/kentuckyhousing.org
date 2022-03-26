@@ -1,1 +1,10 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /SitePages/
+
+
+
+Sitemap: https://www.kyhousing.org:443/sitemap.xml

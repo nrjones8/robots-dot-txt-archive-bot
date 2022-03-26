@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
+Your PHP installation appears to be missing the MySQL extension which is required by WordPress.

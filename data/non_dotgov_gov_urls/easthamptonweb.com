@@ -106,3 +106,5 @@ Disallow: /
 User-agent: spyfu
 Disallow: /
 
+
+Sitemap: https://www.easthamptonweb.com/wp-sitemap.xml

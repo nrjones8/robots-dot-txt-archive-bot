@@ -7,3 +7,4 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /ida.html
+Disallow: /veterans.html

@@ -1,43 +1,39 @@
-# Whitelist twitterbot to allow crawlers to access page markup when links to pages with or without images are shared
-User-agent: Twitterbot
-Disallow:
-
-# Whitelist facebookexternalhit to allow crawlers to access page markup when links to pages with or without images are shared
-User-agent: facebookexternalhit
-Disallow:
-
-# all other bots
-Crawl-delay: 1.0 
 User-agent: *
 Disallow: /*?
-Disallow: /contact_us/
-Disallow: /surveys/
-Disallow: /newemployeeconnections/
-Disallow: /resources/
-Disallow: /search/
-Disallow: *print=1*
-Disallow: *.css*
+Disallow: /404
+Disallow: /500
+Disallow: /503
 Disallow: *.js*
+Disallow: /vrs/
+Disallow: *.css*
 Disallow: *.cgi*
 Disallow: *.jpg*
 Disallow: *.gif*
 Disallow: *.png*
 Disallow: *.tif*
 Disallow: *.svg*
-Disallow: /sitelib/
-Disallow: /vrs/
-Disallow: /banking/education_for_bankers/speakers_bureau
-Disallow: /publications/print_subscription
-Disallow: /publications/education/education_pub_request
-Disallow: /publications/single_issue_pub_request
-Disallow: /feedback/
-Disallow: /blank.html
-Disallow: /404
-Disallow: /500.html
-Disallow: /500
-Disallow: /503.html
-Disallow: /503
-Disallow: /offsite/
-Disallow: /ErrorPages/
 Disallow: /HTML/
+Disallow: /search/
+Disallow: /surveys/
+Disallow: *print=1*
+Disallow: /sitelib/
+Disallow: /500.html
+Disallow: /503.html
+Disallow: /offsite/
+Disallow: /feedback/
+Disallow: /resources/
+Disallow: /blank.html
+Disallow: /contact_us/
+Disallow: /ErrorPages/
+Disallow: /newemployeeconnections/
+Disallow: /publications/print_subscription
+Disallow: /publications/single_issue_pub_request
+Disallow: /publications/education/education_pub_request
+Disallow: /banking/education_for_bankers/speakers_bureau
 Disallow: /-/media/RichmondFedOrg/publications/research/working_papers/2019/wp19-08_data_educational_attainment.xlsx
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: facebookexternalhit
+Disallow:

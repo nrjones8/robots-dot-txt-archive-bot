@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

@@ -34,7 +34,6 @@ Disallow: /simpleview-export/
 Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
-Disallow: /authors/*
 Disallow: /admin/
 Disallow: /ad-content/
 Disallow: /comment/reply/
@@ -65,4 +64,3 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 Disallow: /index.php/trip-planner/*
 Disallow: /index.php/calendar/*
-Disallow: /sites/default/files/*

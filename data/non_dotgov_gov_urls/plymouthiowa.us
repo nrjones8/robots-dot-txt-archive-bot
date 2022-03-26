@@ -1,6 +1,1 @@
-# Robots.txt file from https://www.plymouthiowa.us
-
-Sitemap: https://www.plymouthiowa.us/sitemap.xml
-
-User-agent: *
-Disallow:
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.plymouthiowa.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4fb84e0d60>, 'Connection to www.plymouthiowa.us timed out. (connect timeout=15)'))"}
