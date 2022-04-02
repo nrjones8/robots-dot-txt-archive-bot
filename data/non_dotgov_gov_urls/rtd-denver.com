@@ -46,10 +46,10 @@ Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search
 Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -57,10 +57,10 @@ Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search
 Disallow: /index.php/search/
-Disallow: /index.php/user/password/
-Disallow: /index.php/user/register/
-Disallow: /index.php/user/login/
-Disallow: /index.php/user/logout/
-#Custom Files
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+# Custom Files
 Disallow: /sites/default/files/files/2017-06/reasonable-modification-statement.pdf
 Disallow: /sites/default/files/files/2017-06/reasonable-modification-request-form.pdf

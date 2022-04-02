@@ -10,6 +10,16 @@ Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Government/Watch-Live-Meeti
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Climate-Change-Environment
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Copy-of-Solve-a-Problem-1
 Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Solve-a-Problem
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Announcements
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Glossary
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Home/Do-it-online
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Home/Featured-Content
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Home/Slider
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Home/Tabs
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Image-Galleries
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Site-Footer
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Site-Footer/Footer-Widgets
+Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Site-Footer/Sub-Footer-Links
 Disallow: /$5702845a-1037-4bb6-a4cf-2ce8a4b2e853$/*
 Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs
 Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Business-Resources
@@ -126,7 +136,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/COVID-19-Recovery/Unemployment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidcomplaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidoffenders
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidreport
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidtep
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/A-Z-Index
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Buy-Miami-Listings-by-Category
@@ -844,7 +853,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Historica
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page
@@ -1503,7 +1511,6 @@ Disallow: /COVID-19-Recovery/Unemployment-Job-Resources
 Disallow: /covidcomplaints
 Disallow: /covidoffenders
 Disallow: /covidreport
-Disallow: /covidtep
 Disallow: /Default-Content
 Disallow: /Default-Content/A-Z-Index
 Disallow: /Default-Content/Buy-Miami-Listings-by-Category
@@ -2062,6 +2069,16 @@ Disallow: /Library/Copy-of-Background-Images
 Disallow: /liquorreview
 Disallow: /Lost-Animals
 Disallow: /makers
+Disallow: /manuelartime/Announcements
+Disallow: /manuelartime/Glossary
+Disallow: /manuelartime/Home/Do-it-online
+Disallow: /manuelartime/Home/Featured-Content
+Disallow: /manuelartime/Home/Slider
+Disallow: /manuelartime/Home/Tabs
+Disallow: /manuelartime/Image-Galleries
+Disallow: /manuelartime/Site-Footer
+Disallow: /manuelartime/Site-Footer/Footer-Widgets
+Disallow: /manuelartime/Site-Footer/Sub-Footer-Links
 Disallow: /Maps-Data/Public-Records-Request
 Disallow: /marinas
 Disallow: /mediationsurvey
@@ -2271,7 +2288,6 @@ Disallow: /Permits-Construction/Historically-Designated-Properties/Get-a-Standar
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Permits-Construction/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
-Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page

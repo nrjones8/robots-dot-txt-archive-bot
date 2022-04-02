@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='teasd.com', port=80): Read timed out. (read timeout=15)"}
+# www.robotstxt.org/ # http://code.google.com/web/controlcrawlindex/ User-agent: * Allow: /app/public/site/images Allow: /app/public/site/fonts Allow: /app/public/site/fonts/ Allow: /vendor/fortyfour/fluid-core/resources/fontawesomeDisallow: /.git/* Disallow: /bootstrap/* Disallow: /node_modules/* Disallow: /vendor/* Disallow: /admin/* Disallow: /auth/*

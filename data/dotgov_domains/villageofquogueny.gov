@@ -1,6 +1,5 @@
 User-agent: *
-Crawl-delay: 10
-Sitemap: http://villageofquogue.com/trafficbasedsspdeltasitemap.xml
-Sitemap: http://villageofquogue.com/trafficbasedsspsitemap.xml
-Sitemap: http://www.villageofquogue.com/trafficbasedsspdeltasitemap.xml
-Sitemap: http://www.villageofquogue.com/trafficbasedsspsitemap.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://villageofquogueny.gov/wp-sitemap.xml

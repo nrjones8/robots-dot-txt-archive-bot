@@ -32,6 +32,7 @@ Disallow: /simpleview-export/
 Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
+Disallow: /authors/*
 Disallow: /admin/
 Disallow: /ad-content/
 Disallow: /comment/reply/
@@ -50,6 +51,7 @@ Disallow: /music-pathways/application
 Disallow: /music-pathway/application
 Disallow: /pathway-markers/*
 Disallow: /style-guide/
+Disallow: /sites/default/files/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

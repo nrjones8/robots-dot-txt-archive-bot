@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /departments/pr/suffield-summer-fair$
+Disallow: /departments/pr/suffield-summer-fair?
+Disallow: /departments/pr/suffield-summer-fair/~
 Disallow: /agendas-minutes-clone$
 Disallow: /agendas-minutes-clone?
 Disallow: /agendas-minutes-clone/~
@@ -101,12 +104,12 @@ Disallow: /production/posts/new-page/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
-Disallow: /government/live-streaming$
-Disallow: /government/live-streaming?
-Disallow: /government/live-streaming/~
 Disallow: /archived-elements$
 Disallow: /archived-elements?
 Disallow: /archived-elements/~
+Disallow: /government/live-streaming$
+Disallow: /government/live-streaming?
+Disallow: /government/live-streaming/~
 Disallow: /production/posts/post-grid$
 Disallow: /production/posts/post-grid?
 Disallow: /production/posts/post-grid/~
@@ -134,12 +137,12 @@ Disallow: /our-town/history/~
 Disallow: /things-to-do/shop-suffield$
 Disallow: /things-to-do/shop-suffield?
 Disallow: /things-to-do/shop-suffield/~
-Disallow: /fs-test$
-Disallow: /fs-test?
-Disallow: /fs-test/~
 Disallow: /our-town/worship-and-cemeteries-clone$
 Disallow: /our-town/worship-and-cemeteries-clone?
 Disallow: /our-town/worship-and-cemeteries-clone/~
+Disallow: /fs-test$
+Disallow: /fs-test?
+Disallow: /fs-test/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
