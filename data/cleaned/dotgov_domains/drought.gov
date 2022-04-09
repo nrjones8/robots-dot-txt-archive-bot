@@ -44,6 +44,7 @@ Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
+Disallow: /testing/
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
@@ -58,9 +59,3 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-#
-# Add extra config to the file /assets/robots.txt to have changes to
-# /robots.txt persist after a composer update.
-#
-# Paths (clean URL's)
-Disallow: /testing/

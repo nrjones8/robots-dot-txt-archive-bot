@@ -1,1 +1,3 @@
-Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

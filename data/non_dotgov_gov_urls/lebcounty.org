@@ -1,18 +1,1 @@
-User-Agent: *
-Disallow: /_layouts/
-Disallow: /_catalogs/
-Disallow: /_cts/
-Disallow: /_private/
-Disallow: /Lists/
-Disallow: /m/
-Disallow: /ReusableContent/
-Disallow: /WorkflowTasks/
-Disallow: /SiteCollectionDocuments/
-Disallow: /SiteCollectionImages/
-Disallow: /SiteAssets/
-Disallow: /Documents/Forms/
-Disallow: /Pages/Forms/
-Disallow: /Search/
-Disallow: /SiteReg/
-Disallow: /MembersOnly/
-Disallow: /Visit/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lebcounty.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5992c6b280>, 'Connection to lebcounty.org timed out. (connect timeout=15)'))"}

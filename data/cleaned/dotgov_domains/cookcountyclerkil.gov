@@ -39,6 +39,8 @@ Disallow: /profiles/
 Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)
+Disallow: /elections-handwriting-training
+Disallow: /deputy-voter-registrar-training
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
@@ -58,4 +60,3 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-Disallow: /*?language=*

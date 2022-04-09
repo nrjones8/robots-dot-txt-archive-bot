@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /library/
+Disallow: /font-awesome/
+Disallow: /fonts/
+
+Sitemap: https://nchealthequity.ncdhhs.gov/sitemap.xml

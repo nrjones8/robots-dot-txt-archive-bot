@@ -58,6 +58,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/CERT
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Officials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityattorney
@@ -567,6 +568,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Inst
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Art-in-Public-Places-Board-meeting-March-15-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-Person-Meeting-Virginia-Key-Advisory-Board-July-27-2021
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Regular-City-Commission-Meeting-Public-Comment-Registration
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Regular-City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Business-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Miami/Covid-Complaints
@@ -694,6 +696,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Become-a-City-of-Miami-CERT-member
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Miami-CERT
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -758,6 +763,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-008-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-009-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-010-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-011-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-013-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-015-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -775,6 +783,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-009
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-010
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-011
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-012
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-013
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-015
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-016
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -856,10 +868,14 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Ca
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-an-Event-Temporary-Structure-or-Sidewalk-Cafe
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-a-Special-or-Temporary-Event
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
@@ -1341,6 +1357,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/traffic-calming
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/trainingvideos
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Deferment-of-SidewalkCurb-and-Gutter-Construction-App-Documents
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Driveway-Approach-Application-Documents
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Improvements-Application-Documents
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Private-Utilities-Construction-Application-Documents
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-traffic-Calming-on-a-Street
@@ -1433,6 +1454,7 @@ Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
+Disallow: /CERT
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
 Disallow: /cityattorney
@@ -1954,6 +1976,7 @@ Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetin
 Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-person-Meeting-Art-in-Public-Places-Board-meeting-March-15-2021
 Disallow: /Government/Public-Comment-Instructions-for-Board-and-Committee-Meetings/In-Person-Meeting-Virginia-Key-Advisory-Board-July-27-2021
 Disallow: /Government/Regular-City-Commission-Meeting-Public-Comment-Registration
+Disallow: /Government/Regular-City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /Government/Reopening-City-Service-Updates/COVID-Complaints
 Disallow: /Government/Reopening-Miami/Business-Resources
 Disallow: /Government/Reopening-Miami/Covid-Complaints
@@ -2129,6 +2152,9 @@ Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
+Disallow: /My-Government/Departments/Emergency-Management/Become-a-City-of-Miami-CERT-member
+Disallow: /My-Government/Departments/Emergency-Management/Miami-CERT
+Disallow: /My-Government/Departments/Emergency-Management/New-page
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -2193,6 +2219,9 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-008-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-009-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-010-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-011-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-013-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-015-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2210,6 +2239,10 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-009
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-010
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-011
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-012
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-013
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-015
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-016
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -2291,10 +2324,14 @@ Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page
+Disallow: /Permits-Construction/Permit-Catalog/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog-2
+Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-an-Event-Temporary-Structure-or-Sidewalk-Cafe
+Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-a-Special-or-Temporary-Event
+Disallow: /Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /Permits-Construction/Permit-Catalog-2
 Disallow: /Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
@@ -2776,6 +2813,11 @@ Disallow: /System-pages/Search-Results
 Disallow: /TEST-Image-Gallery
 Disallow: /traffic-calming
 Disallow: /trainingvideos
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Deferment-of-SidewalkCurb-and-Gutter-Construction-App-Documents
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Driveway-Approach-Application-Documents
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Improvements-Application-Documents
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Private-Utilities-Construction-Application-Documents
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Transportation-Roadways/Request-traffic-Calming-on-a-Street

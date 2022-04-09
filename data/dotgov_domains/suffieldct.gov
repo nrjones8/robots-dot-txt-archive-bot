@@ -38,9 +38,6 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments/pr/suffield-summer-fair$
-Disallow: /departments/pr/suffield-summer-fair?
-Disallow: /departments/pr/suffield-summer-fair/~
 Disallow: /agendas-minutes-clone$
 Disallow: /agendas-minutes-clone?
 Disallow: /agendas-minutes-clone/~
@@ -104,12 +101,12 @@ Disallow: /production/posts/new-page/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
-Disallow: /archived-elements$
-Disallow: /archived-elements?
-Disallow: /archived-elements/~
 Disallow: /government/live-streaming$
 Disallow: /government/live-streaming?
 Disallow: /government/live-streaming/~
+Disallow: /archived-elements$
+Disallow: /archived-elements?
+Disallow: /archived-elements/~
 Disallow: /production/posts/post-grid$
 Disallow: /production/posts/post-grid?
 Disallow: /production/posts/post-grid/~

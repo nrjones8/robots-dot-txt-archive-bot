@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tuscolacounty.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /edit/
+Disallow: /search/
+Disallow: /components/
+Disallow: /doc/
+Disallow: /fonts/
+Disallow: /old/
+Disallow: /php/
+Disallow: /isapi/

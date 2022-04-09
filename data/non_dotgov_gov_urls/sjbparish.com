@@ -6,8 +6,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zonin
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Videos
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Water-OutageBoil-Water-Advisory
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Page-Not-Found
@@ -26,8 +24,6 @@ Disallow: /files/assets/public/templateimages/team-image.jpg
 Disallow: /files/assets/public/templateimages/vendor_registration_07-20-6.pdf
 Disallow: /files/assets/public/templateimages/vendor_registration_2021.pdf
 Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
-Disallow: /Home/Tabs/New-page
-Disallow: /Home/Tabs/Water-OutageBoil-Water-Advisory
 Disallow: /Internal-Styles
 Disallow: /New-page
 Disallow: /Page-Not-Found
