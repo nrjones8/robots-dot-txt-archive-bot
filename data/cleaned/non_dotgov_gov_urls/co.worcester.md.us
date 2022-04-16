@@ -49,6 +49,7 @@ Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
 # Paths (no clean URLs)
+Disallow: /index.php/
 Disallow: /index.php/*
 Disallow: /index.php/minutes
 Disallow: /index.php/admin/

@@ -35,12 +35,12 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /departments-and-services/human-services/municipal-agent$
-Disallow: /departments-and-services/human-services/municipal-agent?
-Disallow: /departments-and-services/human-services/municipal-agent/~
 Disallow: /departments-and-services/human-services$
 Disallow: /departments-and-services/human-services?
 Disallow: /departments-and-services/human-services/~
+Disallow: /departments-and-services/human-services/municipal-agent$
+Disallow: /departments-and-services/human-services/municipal-agent?
+Disallow: /departments-and-services/human-services/municipal-agent/~
 Disallow: /departments-and-services/human-services/back-to-school$
 Disallow: /departments-and-services/human-services/back-to-school?
 Disallow: /departments-and-services/human-services/back-to-school/~
@@ -221,6 +221,9 @@ Disallow: /production/page-layout/two-column-bottom-left-sidebar/~
 Disallow: /production/page-layout/two-column-right-sidebar$
 Disallow: /production/page-layout/two-column-right-sidebar?
 Disallow: /production/page-layout/two-column-right-sidebar/~
+Disallow: /departments-and-services/human-services/energy-assistance$
+Disallow: /departments-and-services/human-services/energy-assistance?
+Disallow: /departments-and-services/human-services/energy-assistance/~
 Disallow: /production/qa-reports$
 Disallow: /production/qa-reports?
 Disallow: /production/qa-reports/~
@@ -233,21 +236,18 @@ Disallow: /production/page-layout/one-column-over-two/~
 Disallow: /production/page-layout/three-column-bottom$
 Disallow: /production/page-layout/three-column-bottom?
 Disallow: /production/page-layout/three-column-bottom/~
-Disallow: /departments-and-services/human-services/energy-assistance$
-Disallow: /departments-and-services/human-services/energy-assistance?
-Disallow: /departments-and-services/human-services/energy-assistance/~
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/videos$
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/videos?
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/resources/videos/~
+Disallow: /departments-and-services/human-services/elderly-outreach$
+Disallow: /departments-and-services/human-services/elderly-outreach?
+Disallow: /departments-and-services/human-services/elderly-outreach/~
 Disallow: /production/page-layout/two-columns-middle$
 Disallow: /production/page-layout/two-columns-middle?
 Disallow: /production/page-layout/two-columns-middle/~
 Disallow: /production/page-layout/three-columns-middle$
 Disallow: /production/page-layout/three-columns-middle?
 Disallow: /production/page-layout/three-columns-middle/~
-Disallow: /departments-and-services/human-services/elderly-outreach$
-Disallow: /departments-and-services/human-services/elderly-outreach?
-Disallow: /departments-and-services/human-services/elderly-outreach/~
 Disallow: /production/page-layout/2-column-layout$
 Disallow: /production/page-layout/2-column-layout?
 Disallow: /production/page-layout/2-column-layout/~
@@ -335,12 +335,12 @@ Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusio
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/racism-as-a-public-health-crisis/articles-for-deeper-understanding$
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/racism-as-a-public-health-crisis/articles-for-deeper-understanding?
 Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusion-committee/racism-as-a-public-health-crisis/articles-for-deeper-understanding/~
-Disallow: /departments-and-services/human-services/resources$
-Disallow: /departments-and-services/human-services/resources?
-Disallow: /departments-and-services/human-services/resources/~
 Disallow: /departments-and-services/human-services/housing$
 Disallow: /departments-and-services/human-services/housing?
 Disallow: /departments-and-services/human-services/housing/~
+Disallow: /departments-and-services/human-services/resources$
+Disallow: /departments-and-services/human-services/resources?
+Disallow: /departments-and-services/human-services/resources/~
 Disallow: /departments-and-services/human-services/food-bank$
 Disallow: /departments-and-services/human-services/food-bank?
 Disallow: /departments-and-services/human-services/food-bank/~

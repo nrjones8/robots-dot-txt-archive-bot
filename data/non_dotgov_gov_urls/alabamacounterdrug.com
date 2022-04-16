@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
-Sitemap: http://www.yoursite.com/sitemap.gz
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='alabamacounterdrug.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe3d1aa45b0>, 'Connection to alabamacounterdrug.com timed out. (connect timeout=15)'))"}
