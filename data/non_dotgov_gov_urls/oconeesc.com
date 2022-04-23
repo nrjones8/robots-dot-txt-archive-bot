@@ -4,6 +4,7 @@ Allow: /*.css*
 Allow: /*.png*
 Allow: /*.jpg*
 Allow: /*.gif*
+Allow: /*.webp*
 
 Disallow: /administrator/
 Disallow: /cache/

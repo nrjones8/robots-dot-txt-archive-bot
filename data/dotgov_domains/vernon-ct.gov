@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /clerk$
+Disallow: /clerk?
+Disallow: /clerk/~
 Disallow: /henri$
 Disallow: /henri?
 Disallow: /henri/~

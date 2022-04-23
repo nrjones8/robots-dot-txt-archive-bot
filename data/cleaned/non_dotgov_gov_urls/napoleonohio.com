@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /_theme
 Disallow: /application/attributes
 Disallow: /application/authentication
 Disallow: /application/bootstrap

@@ -1,5 +1,1 @@
-User-agent: *
-Disallow:/webres/File/newsimport/
-
-
-Sitemap: https://www.fhlbdm.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='fhlbdm.com', port=443): Read timed out. (read timeout=15)"}

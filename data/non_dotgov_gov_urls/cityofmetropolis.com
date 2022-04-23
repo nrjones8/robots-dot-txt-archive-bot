@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.metropolisil.gov', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1131)')))"}

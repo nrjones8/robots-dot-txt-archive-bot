@@ -1,10 +1,1 @@
-Sitemap: http://cayuganation-nsn.gov/sitemap.xml
-
-User-agent: NerdyBot
-Disallow: /
-
-User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
-Disallow: /cayuga-nation-news.html
-Disallow: /history-timeline.html
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cayuganation-nsn.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3d693ed100>, 'Connection to cayuganation-nsn.gov timed out. (connect timeout=15)'))"}

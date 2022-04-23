@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: http://forwardtownship.com/sitemap.xml
+Got an HTML response

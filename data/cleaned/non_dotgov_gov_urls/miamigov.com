@@ -1392,6 +1392,8 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-traffic-Calming-on-a-Street
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Trolley-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/tree-removal-contruction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Trees
@@ -2875,6 +2877,8 @@ Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Transportation-Roadways/Request-traffic-Calming-on-a-Street
+Disallow: /Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
+Disallow: /Transportation-Roadways/Trolley-Information/New-page
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Calendar
 Disallow: /tree-removal-contruction
 Disallow: /Trees
