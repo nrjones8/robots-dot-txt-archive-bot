@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /qdynamo/
+Request failed

@@ -1,1 +1,21 @@
-Got an HTML response
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+Allow: /*.webp*
+Allow: /*.mp3*
+Allow: /*.mp4*
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Sitemap: https://seneca.sc.us/index.php?option=com_jmap&view=sitemap&format=xml

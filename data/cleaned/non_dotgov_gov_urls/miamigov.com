@@ -84,7 +84,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/CERT
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Officials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityattorney
@@ -722,9 +721,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Become-a-City-of-Miami-CERT-member
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Miami-CERT
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -1366,6 +1362,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miamarina/Miamarina-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miamarina/Miamarina-Bayside-4
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miamarina/Miamarina-Bayside-5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miamarina/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miami-CERT/CERT-AT-WORK-3
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miami-CERT/CERT-AT-WORK-4
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miami-CERT/Copy-of-CERT-AT-WORK-2-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Miami-CERT/Copy-of-CERT-AT-WORK-3-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Areas-of-Government
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Home-Page-Banner-Slide-2-Mini-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Home-Page-Slide-1
@@ -1483,7 +1483,6 @@ Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /CERT
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
 Disallow: /cityattorney
@@ -2207,9 +2206,6 @@ Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
-Disallow: /My-Government/Departments/Emergency-Management/Become-a-City-of-Miami-CERT-member
-Disallow: /My-Government/Departments/Emergency-Management/Miami-CERT
-Disallow: /My-Government/Departments/Emergency-Management/New-page
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -2851,6 +2847,10 @@ Disallow: /Slideshow/Miamarina/Miamarina-Bayside-3
 Disallow: /Slideshow/Miamarina/Miamarina-Bayside-4
 Disallow: /Slideshow/Miamarina/Miamarina-Bayside-5
 Disallow: /Slideshow/Miamarina/New-page
+Disallow: /Slideshow/Miami-CERT/CERT-AT-WORK-3
+Disallow: /Slideshow/Miami-CERT/CERT-AT-WORK-4
+Disallow: /Slideshow/Miami-CERT/Copy-of-CERT-AT-WORK-2-1
+Disallow: /Slideshow/Miami-CERT/Copy-of-CERT-AT-WORK-3-1
 Disallow: /Slideshow/OCI-Areas-of-Government
 Disallow: /Slideshow/OCI-Home-Page-Banner-Slide-2-Mini-Park
 Disallow: /Slideshow/OCI-Home-Page-Slide-1

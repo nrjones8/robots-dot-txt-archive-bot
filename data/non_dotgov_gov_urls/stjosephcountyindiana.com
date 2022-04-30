@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}

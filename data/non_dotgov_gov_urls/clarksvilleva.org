@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='clarksvilleva.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f3d69190b80>, 'Connection to clarksvilleva.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /events-calendar/action~posterboard/
+Disallow: /events-calendar/action~agenda/
+Disallow: /events-calendar/action~oneday/
+Disallow: /events-calendar/action~month/
+Disallow: /events-calendar/action~week/
+Disallow: /events-calendar/action~stream/
+Disallow: /events-calendar/action~undefined/
+Disallow: /events-calendar/action~http:/
+Disallow: /events-calendar/action~default/
+Disallow: /events-calendar/action~poster/
+Disallow: /events-calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

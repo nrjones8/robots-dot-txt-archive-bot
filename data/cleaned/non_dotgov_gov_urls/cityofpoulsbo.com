@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: http://cityofpoulsbo.com/wp-sitemap.xml
+Sitemap: https://cityofpoulsbo.com/wp-sitemap.xml
