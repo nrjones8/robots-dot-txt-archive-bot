@@ -1,1 +1,37 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='freemantownship.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb6011c2580>, 'Connection to freemantownship.com timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+Disallow:  /info/
+Disallow:  /search/
+
+User-agent: Mediapartners-Google
+Disallow:  /info/
+Disallow:  /search/
+
+User-agent: Yahoo! Slurp
+Allow: /$
+Disallow: /
+
+User-agent: bingbot
+Allow: /$
+Disallow: /
+
+User-agent: Yandex
+Allow: /$
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: ia_archiver
+Disallow:
+
+User-agent: IPS-Agent
+Disallow: /parking.php4
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /

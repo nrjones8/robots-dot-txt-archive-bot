@@ -16,6 +16,8 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Pro
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Departments/Purchasing-and-Procurement/Contracts
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Page-Not-Found
@@ -44,6 +46,8 @@ Disallow: /files/assets/public/templateimages/vendor_registration_07-20-6.pdf
 Disallow: /files/assets/public/templateimages/vendor_registration_2021.pdf
 Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /Home/Departments/Purchasing-and-Procurement/Contracts
+Disallow: /Home/Tabs/Boil-Water
+Disallow: /Home/Tabs/New-page
 Disallow: /Internal-Styles
 Disallow: /New-page
 Disallow: /Page-Not-Found

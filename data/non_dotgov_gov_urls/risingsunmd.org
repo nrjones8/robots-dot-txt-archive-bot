@@ -1,7 +1,7 @@
 User-agent: *
+Disallow: /egov/imgs
 Disallow: /egov/help
 Noindex: /egov/help
-Disallow: /egov/imgs
 Disallow: /egov/include
 Noindex: /egov/include
 Disallow: /egov/apps/events

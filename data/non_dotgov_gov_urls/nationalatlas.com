@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='nationalmap.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb60146e3d0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"}
+User-agent: *
+Disallow: /

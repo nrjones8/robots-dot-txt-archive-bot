@@ -3,3 +3,4 @@ User-agent: *
 Disallow: /Currently/
 Disallow: /SC Sites/Santee Cooper/404.aspx
 Disallow: /Employees/
+Disallow: /SC Sites/Santee Cooper/About/Integrated Resource Plan/Feedback/Index

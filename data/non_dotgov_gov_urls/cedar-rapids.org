@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cedar-rapids.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /document_center/BuildingServices/sign_application_form.pdf
+Disallow: /Parks%20&%20Rec/Forestry/Permit%20Application%20-%20Tree%20Planting%20in%20Public%20Right-of-Way.pdf
+Noindex: /document_center/BuildingServices/sign_application_form.pdf
+Noindex: /Parks%20&%20Rec/Forestry/Permit%20Application%20-%20Tree%20Planting%20in%20Public%20Right-of-Way.pdf
+Disallow: /am_editor_s_training/*
+Noindex: /am_editor_s_training/*

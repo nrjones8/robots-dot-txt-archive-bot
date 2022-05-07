@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-Agent: *
+Disallow: /cpx.php
+Disallow: /medios1.php
+Disallow: /toolbar.php
+Disallow: /check_image.php
+Disallow: /check_popunder.php

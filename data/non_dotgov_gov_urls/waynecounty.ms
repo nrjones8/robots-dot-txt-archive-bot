@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='waynecounty.ms', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb6016b1280>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+User-Agent: MSIECrawler
+Disallow: /
+
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: /images
+Disallow: /scripts
