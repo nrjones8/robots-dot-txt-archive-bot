@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tishomingo.ms', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tishomingo.ms', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63cfc10fa0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

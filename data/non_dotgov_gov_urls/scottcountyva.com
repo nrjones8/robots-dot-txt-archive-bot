@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='scottcountyva.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2cb0096370>, 'Connection to scottcountyva.com timed out. (connect timeout=15)'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

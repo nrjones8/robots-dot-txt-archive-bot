@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='historicswedesboro.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2cb08b0d60>, 'Connection to historicswedesboro.com timed out. (connect timeout=15)'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='historicswedesboro.com', port=80): Read timed out. (read timeout=15)"}

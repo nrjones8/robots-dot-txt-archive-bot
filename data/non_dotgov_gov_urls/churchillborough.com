@@ -1,10 +1,1 @@
-# robots.txt for Churchill Borough.
-user-agent: *
-
-
-
-disallow: /Bin 			#standard site folders
-disallow: /Configuration 	#standard site folders
-disallow: /Transforms 		#standard site folders
-disallow: web.config
-disallow: gdspublisher.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

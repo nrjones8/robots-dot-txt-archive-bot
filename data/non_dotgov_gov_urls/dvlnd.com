@@ -1,16 +1,1 @@
-User-agent: *
-
-Disallow: /_mm/
-
-Disallow: /_notes/
-
-Disallow: /_baks/
-
-Disallow: /MMWIP/
-
-
-
-User-agent: googlebot
-
-Disallow: *.csi
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='dvlnd.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f63d001dd30>, 'Connection to dvlnd.com timed out. (connect timeout=15)'))"}

@@ -1,20 +1,33 @@
-# Block a bot that was causing issues by ignoring Disallow lines below
-User-Agent: OmniExplorer_Bot
-Disallow: /
+# robots.txt
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /manager/
+Disallow: /*Design*
+Disallow: /*month*
+Disallow: /*GUESTBOOK*
 
-# Block hotlinking of music files by projectplaylist.com due to perceived user bandwidth theft
-User-agent: projectplaylist-directlink
-Disallow: /
+User-agent: MSNBot
+Disallow: /admin/
+Disallow: /manager/
+Disallow: /*Design*
+Disallow: /*month*
+Disallow: /*GUESTBOOK*
 
-# Block all bots from the core Homestead site
+User-agent: ia_archiver
+Disallow: /admin/
+Disallow: /manager/
+
+User-agent: archive.org_bot
+Disallow: /admin/
+Disallow: /manager/
+
+User-agent: W3C-checklink
+Disallow: /admin/
+Disallow: /manager/
+
 User-agent: *
-Disallow: /~site/Scripts_ElementMailer
-Disallow: /~site/Scripts_ExternalRedirect
-Disallow: /~site/Scripts_ForSale
-Disallow: /~site/Scripts_HitCounter
-Disallow: /~site/Scripts_NewGuest
-Disallow: /~site/Scripts_RealTracker
-Disallow: /~site/Scripts_Track
-Disallow: /~site/Scripts_WebPoll
-Disallow: /~site/siteapps/showmap.action
+Disallow: /
 
+Crawl-delay: 60
+
+Sitemap: http://hebronnd.org/sitemap.xml

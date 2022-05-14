@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /budget$
-Disallow: /budget?
-Disallow: /budget/~
 Disallow: /test-page$
 Disallow: /test-page?
 Disallow: /test-page/~
+Disallow: /departments/public-works/public-works-news/default$
+Disallow: /departments/public-works/public-works-news/default?
+Disallow: /departments/public-works/public-works-news/default/~
 Disallow: /stay-connected/municipal-projects/public-works-projects$
 Disallow: /stay-connected/municipal-projects/public-works-projects?
 Disallow: /stay-connected/municipal-projects/public-works-projects/~
@@ -158,15 +158,15 @@ Disallow: /production/posts/single/~
 Disallow: /production$
 Disallow: /production?
 Disallow: /production/~
+Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1$
+Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1?
+Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1/~
 Disallow: /home-clone-nov-4-2021$
 Disallow: /home-clone-nov-4-2021?
 Disallow: /home-clone-nov-4-2021/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
-Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1$
-Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1?
-Disallow: /departments/fire-rescue/sogs-general-orders/sop-book-1/~
 Disallow: /production/social-elements/feeds$
 Disallow: /production/social-elements/feeds?
 Disallow: /production/social-elements/feeds/~
