@@ -38,12 +38,18 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /agendas-minutes-clone$
-Disallow: /agendas-minutes-clone?
-Disallow: /agendas-minutes-clone/~
 Disallow: /things-to-do/trees-for-suffield$
 Disallow: /things-to-do/trees-for-suffield?
 Disallow: /things-to-do/trees-for-suffield/~
+Disallow: /agendas-minutes-clone$
+Disallow: /agendas-minutes-clone?
+Disallow: /agendas-minutes-clone/~
+Disallow: /home-summer-fair-testing$
+Disallow: /home-summer-fair-testing?
+Disallow: /home-summer-fair-testing/~
+Disallow: /home-summer-fair-testing-2$
+Disallow: /home-summer-fair-testing-2?
+Disallow: /home-summer-fair-testing-2/~
 Disallow: /public-works-clone$
 Disallow: /public-works-clone?
 Disallow: /public-works-clone/~
@@ -59,9 +65,6 @@ Disallow: /home-clone2/~
 Disallow: /departments/pr/clone$
 Disallow: /departments/pr/clone?
 Disallow: /departments/pr/clone/~
-Disallow: /home-clone4$
-Disallow: /home-clone4?
-Disallow: /home-clone4/~
 Disallow: /departments/youth/inclusivity$
 Disallow: /departments/youth/inclusivity?
 Disallow: /departments/youth/inclusivity/~
@@ -71,15 +74,12 @@ Disallow: /archived-elements/inclusivity/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
-Disallow: /home-clone-testing$
-Disallow: /home-clone-testing?
-Disallow: /home-clone-testing/~
-Disallow: /government/agendas-minutes/agendas-minutes-posts$
-Disallow: /government/agendas-minutes/agendas-minutes-posts?
-Disallow: /government/agendas-minutes/agendas-minutes-posts/~
 Disallow: /home-mock-up-nov21$
 Disallow: /home-mock-up-nov21?
 Disallow: /home-mock-up-nov21/~
+Disallow: /government/agendas-minutes/agendas-minutes-posts$
+Disallow: /government/agendas-minutes/agendas-minutes-posts?
+Disallow: /government/agendas-minutes/agendas-minutes-posts/~
 Disallow: /under-construction$
 Disallow: /under-construction?
 Disallow: /under-construction/~
@@ -89,12 +89,12 @@ Disallow: /burn-permit/~
 Disallow: /production/news-elements/news-list$
 Disallow: /production/news-elements/news-list?
 Disallow: /production/news-elements/news-list/~
-Disallow: /production/constituent/directory$
-Disallow: /production/constituent/directory?
-Disallow: /production/constituent/directory/~
 Disallow: /building-clone$
 Disallow: /building-clone?
 Disallow: /building-clone/~
+Disallow: /production/constituent/directory$
+Disallow: /production/constituent/directory?
+Disallow: /production/constituent/directory/~
 Disallow: /our-town/news/town-news-default$
 Disallow: /our-town/news/town-news-default?
 Disallow: /our-town/news/town-news-default/~
@@ -206,9 +206,6 @@ Disallow: /production/athletics/profile/~
 Disallow: /production/athletics/table$
 Disallow: /production/athletics/table?
 Disallow: /production/athletics/table/~
-Disallow: /site-notes$
-Disallow: /site-notes?
-Disallow: /site-notes/~
 Disallow: /production/constituent/production/constituent/students$
 Disallow: /production/constituent/production/constituent/students?
 Disallow: /production/constituent/production/constituent/students/~
@@ -221,6 +218,9 @@ Disallow: /production/news-elements/news-post-page/~
 Disallow: /production/social-elements/youtube$
 Disallow: /production/social-elements/youtube?
 Disallow: /production/social-elements/youtube/~
+Disallow: /site-notes$
+Disallow: /site-notes?
+Disallow: /site-notes/~
 Disallow: /production/organizational/production/organizational/two-column$
 Disallow: /production/organizational/production/organizational/two-column?
 Disallow: /production/organizational/production/organizational/two-column/~

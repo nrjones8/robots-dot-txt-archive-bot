@@ -1,5 +1,6 @@
 User-Agent: *
 Disallow: /admin/
+Disallow: /auth/
 Disallow: /utils/
 Disallow: /forms/
 Disallow: /users/

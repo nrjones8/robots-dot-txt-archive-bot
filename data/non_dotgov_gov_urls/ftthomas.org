@@ -3,3 +3,7 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://ftthomas.org/wp-sitemap.xml
+
+User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole

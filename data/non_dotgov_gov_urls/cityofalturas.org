@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-Agent: *
+Disallow: /contactus.html
+Disallow: /contactnow.html
+Disallow: /sitemap.html
+Disallow: /happy-*
+
+Sitemap: https://www.cityofalturas.org/sitemap/index.xml

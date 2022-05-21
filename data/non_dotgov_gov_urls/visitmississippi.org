@@ -1,25 +1,5 @@
-# Default Flywheel robots file
 User-agent: *
-Allow: /*?v
-Disallow: /calendar/action*
-Disallow: /events/action*
-Disallow: /*?
-Crawl-delay: 3
-Disallow: */trackback
-Disallow: /xmlrpc.php
-Disallow: /*/feed
-Disallow: /*/comments
-Disallow: /*.php$
-Disallow: /blackhole/
-Disallow: /wp-login.php #block access to admin section
-Disallow: /search/ #block access to internal search result pages
-Disallow: *?s=* #block access to internal search result pages
-Disallow: *?p=* #block access to pages for which permalinks fails
-Disallow: *&p=* #block access to pages for which permalinks fails
-Disallow: *&preview=* #block access to preview pages
-Disallow: /tag/ #block access to tag pages
-Disallow: /author/ #block access to author pages
-Disallow: /404-error/ #block access to 404 page
-Allow: /*?utm*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://visitmississippi.org/sitemap_index.xml
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

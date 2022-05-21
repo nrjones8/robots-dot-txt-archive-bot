@@ -13,6 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+User-agent: msnbot
+Disallow: /
+
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images

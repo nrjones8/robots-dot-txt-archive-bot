@@ -1,4 +1,1 @@
-Sitemap: https://sanjuan.pr/sitemap_index.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='sanjuanciudadpatria.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0cf3eac250>, 'Connection to sanjuanciudadpatria.com timed out. (connect timeout=15)'))"}

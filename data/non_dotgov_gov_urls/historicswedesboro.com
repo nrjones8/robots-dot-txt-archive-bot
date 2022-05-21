@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='historicswedesboro.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /about/calendar/action~posterboard/
+Disallow: /about/calendar/action~agenda/
+Disallow: /about/calendar/action~oneday/
+Disallow: /about/calendar/action~month/
+Disallow: /about/calendar/action~week/
+Disallow: /about/calendar/action~stream/
