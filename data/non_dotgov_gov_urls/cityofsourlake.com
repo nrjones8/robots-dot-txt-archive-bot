@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.cityofsourlake.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofsourlake.com', port=80): Read timed out. (read timeout=15)"}

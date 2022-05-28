@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='nccivilwar150.com', port=80): Read timed out."}

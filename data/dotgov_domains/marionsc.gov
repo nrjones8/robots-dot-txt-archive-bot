@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='marionsc.gov', port=80): Read timed out. (read timeout=15)"}
+Sitemap: https://marionsc.gov/sitemap.xml
+Sitemap: https://marionsc.gov/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: https://marionsc.gov/wp-content/uploads/wpforms/

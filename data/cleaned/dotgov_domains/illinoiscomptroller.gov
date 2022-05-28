@@ -1,6 +1,13 @@
 User-agent: *
-Crawl-Delay: 5
-Disallow: /admin/
-Disallow: /tasks/
-Disallow: /requirements/
+Disallow: 
+Allow: /modules/contentbox/themes/
+Disallow: /coldbox/
 Disallow: /config/
+Disallow: /handlers/
+Disallow: /layouts/
+Disallow: /interceptors/
+Disallow: /logs/
+Disallow: /model/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /views/

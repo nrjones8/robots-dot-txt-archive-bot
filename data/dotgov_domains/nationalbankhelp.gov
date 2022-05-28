@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+user-agent: gsa-crawler
+Disallow:
+user-agent: *
+Disallow: /404.html
+Sitemap: https://helpwithmybank.gov/sitemap.xml

@@ -617,6 +617,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Empl
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Reopening-Plan/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Shelly-Long
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Stand-Up-Miami-Covid-and-Recovery
@@ -725,6 +726,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-CIP-Case-Report
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-Civilian-Investigate-Panel-Case-Report
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/ProChamps
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/Communications-Services-Request
@@ -1428,8 +1432,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Plant-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-traffic-Calming-on-a-Street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Trolley-Calendar
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Trolley-Information/Trolley-Detours-Holidays/Trolley-Alerts-and-Detours
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/tree-removal-contruction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/trolley/events.html
@@ -2062,6 +2066,7 @@ Disallow: /Government/Reopening-Plan/Employment-Unemployment-Job-Resources
 Disallow: /Government/Reopening-Plan/Resources
 Disallow: /Government/Second-Budget-Hearing-Online-Public-Comment-Form
 Disallow: /Government/Shelly-Long
+Disallow: /Government/Special-City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /Government/Special-Commission-Meeting-Online-Public-Comment-Form
 Disallow: /Government/Special-Commission-Online-Public-Comment-Form
 Disallow: /Government/Stand-Up-Miami-Covid-and-Recovery
@@ -2244,6 +2249,9 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
+Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
+Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-CIP-Case-Report
+Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-Civilian-Investigate-Panel-Case-Report
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /My-Government/Departments/Code-Compliance/ProChamps
 Disallow: /My-Government/Departments/Communications/Communications-Services-Request
@@ -2947,8 +2955,8 @@ Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Transportation-Roadways/Request-traffic-Calming-on-a-Street
 Disallow: /Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
-Disallow: /Transportation-Roadways/Trolley-Information/New-page
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Calendar
+Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Detours-Holidays/Trolley-Alerts-and-Detours
 Disallow: /tree-removal-contruction
 Disallow: /Trees
 Disallow: /trolley/events.html

@@ -62,6 +62,7 @@ Disallow: /http://www.taghkanic.org/
 Disallow: /highway-department.html
 Disallow: /http://www.timesunion.com/closings/?search=Columbia+County&type=school
 Disallow: /http://www.ny.gov/agencies
+Disallow: /https://historian.columbiacountyny.com/
 Disallow: /http://www.columbiacountytourism.org/
 Disallow: /managed-information-systems.html
 Disallow: /payroll.html

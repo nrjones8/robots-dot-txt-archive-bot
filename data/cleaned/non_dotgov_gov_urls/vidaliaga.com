@@ -1,1 +1,1 @@
-Request failed
+Sitemap: http://vidaliaga.com/sitemap.xml
