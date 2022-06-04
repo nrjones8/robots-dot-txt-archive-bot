@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
 # Stop bots from crawling junk URLs
 User-agent: *
@@ -105,3 +104,5 @@ Disallow: /
 
 User-agent: coccoc
 Disallow: /
+
+Sitemap: https://ohiocourtofclaims.gov/sitemap_index.xml

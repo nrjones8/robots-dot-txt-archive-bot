@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 # Stop bots from crawling junk URLs
 User-agent: *
 Disallow: /*?s=*
@@ -76,3 +75,4 @@ User-agent: Sogou web spider
 Disallow: /
 User-agent: coccoc
 Disallow: /
+Sitemap: https://nebraskacityne.gov/sitemap_index.xml

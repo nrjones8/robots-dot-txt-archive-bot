@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+Sitemap: https://villageofcoldwater.com/sitemap_index.xml

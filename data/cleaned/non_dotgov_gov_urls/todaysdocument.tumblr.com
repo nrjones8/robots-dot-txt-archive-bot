@@ -1,4 +1,3 @@
-Sitemap: https://todaysdocument.tumblr.com/sitemap-pages.xml
 Sitemap: https://todaysdocument.tumblr.com/sitemap.xml
 User-agent: *
 Disallow: /random

@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+Sitemap: https://greenvilleme.com/sitemap_index.xml

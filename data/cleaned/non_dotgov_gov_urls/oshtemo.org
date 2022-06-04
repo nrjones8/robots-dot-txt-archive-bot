@@ -1,7 +1,12 @@
-# Default Flywheel robots file
 User-agent: *
-Allow: /*?v
-Disallow: /calendar/action*
-Disallow: /events/action*
-Disallow: /*?
-Crawl-delay: 3
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Oshtemo/Welcome-to-Oshtemo-Township/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Oshtemo/Welcome-to-Oshtemo-Township/Oshtemo-Township-Image-Gallery
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Style-Guide
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/New-page-1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/Pancake-Breakfast
+Disallow: /About-Oshtemo/Welcome-to-Oshtemo-Township/New-page
+Disallow: /About-Oshtemo/Welcome-to-Oshtemo-Township/Oshtemo-Township-Image-Gallery
+Disallow: /Internal-Style-Guide
+Disallow: /Training/New-page-1
+Disallow: /Training/Pancake-Breakfast
+Sitemap : https://www.oshtemo.org/sitemap.xml

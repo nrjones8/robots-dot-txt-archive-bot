@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -15,3 +14,4 @@ Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
 Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Sitemap: https://jeffersoncountytn.gov/sitemap_index.xml

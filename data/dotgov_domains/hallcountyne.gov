@@ -1,10 +1,1 @@
-# robots.txt for http://www.hallcountyne.gov/
-
-User-agent:	*
-Disallow:	/admin/
-Disallow:	/cgi-bin/
-Disallow:	/hall_co_db/
-Disallow:	/images/
-Disallow:       /includes/
-Disallow:       /weather/
-Disallow:       /working/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='hallcountyne.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f62a243a790>, 'Connection to hallcountyne.gov timed out. (connect timeout=15)'))"}

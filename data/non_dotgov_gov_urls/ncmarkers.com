@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ncmarkers.com', port=80): Read timed out."}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

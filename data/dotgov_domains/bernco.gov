@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -14,3 +13,42 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+
+Sitemap: https://www.bernco.gov/sitemap_index.xml
+
+Sitemap: https://www.bernco.gov/county-manager/sitemap_index.xml
+Sitemap: https://www.bernco.gov/government/sitemap_index.xml
+Sitemap: https://www.bernco.gov/district-1/sitemap_index.xml
+Sitemap: https://www.bernco.gov/district-2/sitemap_index.xml
+Sitemap: https://www.bernco.gov/district-3/sitemap_index.xml
+Sitemap: https://www.bernco.gov/district-4/sitemap_index.xml
+Sitemap: https://www.bernco.gov/district-5/sitemap_index.xml
+Sitemap: https://www.bernco.gov/assessor/sitemap_index.xml
+Sitemap: https://www.bernco.gov/clerk/sitemap_index.xml
+Sitemap: https://www.bernco.gov/probate-court/sitemap_index.xml
+Sitemap: https://www.bernco.gov/bernalillo-county-sheriff/sitemap_index.xml
+Sitemap: https://www.bernco.gov/treasurer/sitemap_index.xml
+Sitemap: https://www.bernco.gov/boards-commissions/sitemap_index.xml
+Sitemap: https://www.bernco.gov/human-resources/sitemap_index.xml
+Sitemap: https://www.bernco.gov/metropolitan-detention-center/sitemap_index.xml
+Sitemap: https://www.bernco.gov/economic-development/sitemap_index.xml
+Sitemap: https://www.bernco.gov/legal/sitemap_index.xml
+Sitemap: https://www.bernco.gov/compliance-office/sitemap_index.xml
+Sitemap: https://www.bernco.gov/capital-improvement-program/sitemap_index.xml
+Sitemap: https://www.bernco.gov/community-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/planning/sitemap_index.xml
+Sitemap: https://www.bernco.gov/health-and-public-safety/sitemap_index.xml
+Sitemap: https://www.bernco.gov/animal-care-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/department-behavioral-health-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/fire/sitemap_index.xml
+Sitemap: https://www.bernco.gov/youth-services-center/sitemap_index.xml
+Sitemap: https://www.bernco.gov/public-works/sitemap_index.xml
+Sitemap: https://www.bernco.gov/general-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/business-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/your-community/sitemap_index.xml
+Sitemap: https://www.bernco.gov/online-services/sitemap_index.xml
+Sitemap: https://www.bernco.gov/bernco-view/sitemap_index.xml
+Sitemap: https://www.bernco.gov/emergency-management/sitemap_index.xml
+Sitemap: https://www.bernco.gov/emergency-communications/sitemap_index.xml
+Sitemap: https://www.bernco.gov/oeo-sandbox/sitemap_index.xml
+Sitemap: https://www.bernco.gov/rts-test/sitemap_index.xml

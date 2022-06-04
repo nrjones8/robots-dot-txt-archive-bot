@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /ajax
+Disallow:
+
+Sitemap: https://elgintownship.com/sitemap_index.xml

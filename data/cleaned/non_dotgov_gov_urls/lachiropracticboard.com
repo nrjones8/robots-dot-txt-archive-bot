@@ -1,1 +1,2 @@
-Not Found [CFN #0005]
+User-agent: *
+Crawl-delay: 10

@@ -12,9 +12,11 @@ Disallow: /hmpg-header-storage.html
 Disallow: /glen-elder-shirts.html
 Disallow: /hunters-lunch.html
 Disallow: /home-2.html
+Disallow: /summer-kickoff.html
 Disallow: /us-24-garage-sale.html
 Disallow: /template.html
 Disallow: /steakfest-cookoff.html
+Disallow: /hamburger-feed.html
 Disallow: /soup-luncheon.html
 Disallow: /events.html
 Disallow: /2021-funday-schedule.html

@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+
+Sitemap: https://cityofsouthport.com/sitemap_index.xml

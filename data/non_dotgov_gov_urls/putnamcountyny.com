@@ -14,3 +14,5 @@ Disallow: /calendar-4/action~poster/
 Disallow: /calendar-4/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+
+Sitemap: https://www.putnamcountyny.com/sitemap_index.xml

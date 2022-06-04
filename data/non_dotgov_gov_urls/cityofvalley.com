@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /wp-content/uploads/wpforms/
+
+Sitemap: https://cityofvalley.com/sitemap_index.xml

@@ -1,13 +1,1 @@
-# robots.txt for http://www.kingcounty.gov/
-# save as ANSI to remove UTF-8 BOM (byte order mark)
-#
-#
-User-agent: *                  # All spiders should avoid 
-Disallow: /cgi-bin             #	scripts
-Disallow: /scripts
-Disallow: /advertising
-Disallow: /board
-Disallow: /forum
-Disallow: /forums
-Disallow: /phpbb
-Disallow: /phpbb2
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

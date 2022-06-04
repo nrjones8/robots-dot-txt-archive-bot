@@ -2,10 +2,6 @@ user-agent: Baiduspider
 Disallow: /
 User-agent: Yandex
 Disallow: /
-User-agent: SemrushBot
-Disallow: /
-User-agent: SemrushBot-SA
-Disallow: /
 User-agent: *
 Disallow: /activedit
 Disallow: /admin
@@ -33,7 +29,6 @@ Sitemap: /sitemap.xml
 Disallow: /RSS.aspx
 User-agent: Siteimprove
 Crawl-delay: 20
-
 User-agent: Siteimprovebot
 Crawl-delay: 20
 User-agent: Siteimprovebot-crawler
