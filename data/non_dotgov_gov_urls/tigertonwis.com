@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tigertonwis.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f62a21d00d0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+User-agent: *
+Disallow: /admin/
+Disallow: /lichun/
+Disallow: /ilichun/
+Disallow: /install/
+Disallow: /templates/
+Disallow: /uploads/
+Disallow: /member.php
+Disallow: /shoppingcart.php
+Disallow: /order.php
+Disallow: /orderenter.php
+Disallow: /orderpay.php
+
+Sitemap: /sitemap.txt
+Sitemap: /sitemap.xml
+Sitemap: /sitemap.html
+Allow: /

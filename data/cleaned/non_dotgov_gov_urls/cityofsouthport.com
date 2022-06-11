@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://cityofsouthport.com/sitemap_index.xml
+Sitemap: http://cityofsouthport.com/sitemap_index.xml

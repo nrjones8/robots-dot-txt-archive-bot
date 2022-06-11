@@ -825,6 +825,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-018-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-019-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-020-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-021-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-022-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-023-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-024-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-025-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -850,6 +855,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-019
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-020
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-021
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-022
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-023
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-024
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-025
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-026
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -2365,6 +2375,11 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-018-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-019-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-020-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-021-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-022-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-023-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-024-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-025-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2390,6 +2405,11 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-019
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-020
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-021
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-022
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-023
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-024
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-025
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-026
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics

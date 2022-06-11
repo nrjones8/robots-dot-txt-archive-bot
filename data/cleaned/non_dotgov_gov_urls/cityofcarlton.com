@@ -33,7 +33,7 @@ Disallow: /council-minutes/2016-special-meetings/
 Disallow: /council-minutes/2015-meeting-minutes/
 Disallow: /council-minutes/2015-agendas/
 Disallow: /council-minutes/2014-meeting-minutes/
-Disallow: /forms-applications/
+Disallow: /downloadable-forms/
 Disallow: /employment/
 Disallow: /fee-schedules/
 Disallow: /fire-ambulance/
@@ -42,6 +42,9 @@ Disallow: /helpful-links/
 Disallow: /hillside-cemetery/
 Disallow: /housing-redevelopment-authority/
 Disallow: /local-events/
+Disallow: /local-events/carlton-clean-up-days/
+Disallow: /local-events/carlton-daze/
+Disallow: /local-events/elections/
 Disallow: /parks-and-recreation/
 Disallow: /pay-my-bill/
 Disallow: /planning-and-zoning/

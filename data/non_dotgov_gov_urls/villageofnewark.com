@@ -1,1 +1,20 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='villageofnewark.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f62a21012b0>, 'Connection to villageofnewark.com timed out. (connect timeout=15)'))"}
+
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /cache/
+Disallow: /_backup/
+Disallow: /_mygallery/
+Disallow: /_temp/
+Disallow: /_tempalbums/
+Disallow: /_tmpfileop/
+Disallow: /dbboon/
+Disallow: /Flash/
+Disallow: /images/
+Disallow: /mobile/
+Disallow: /plugins/
+Disallow: /scripts/
+Disallow: /stats/
+Disallow: /statshistory/
+Disallow: /QSC/

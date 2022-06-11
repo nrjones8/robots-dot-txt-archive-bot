@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /events-calendar/action~posterboard/
 Disallow: /events-calendar/action~agenda/
 Disallow: /events-calendar/action~oneday/
@@ -13,4 +12,7 @@ Disallow: /events-calendar/action~default/
 Disallow: /events-calendar/action~poster/
 Disallow: /events-calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/Disallow: /wp-content/plugins/vimeography/lib/shared/assets/
+Disallow: /*/action~*/
+
+Sitemap: https://www.kennesaw-ga.gov/sitemap_index.xml
+Disallow: /wp-content/plugins/vimeography/lib/shared/assets/

@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /community/calendar/action~posterboard/
 Disallow: /community/calendar/action~agenda/
 Disallow: /community/calendar/action~oneday/
@@ -14,3 +13,4 @@ Disallow: /community/calendar/action~poster/
 Disallow: /community/calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+Sitemap: https://www.barnesvillemn.com/sitemap_index.xml
