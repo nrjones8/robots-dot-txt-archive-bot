@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+User-agent: *
+# For production mode
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp/?blackhole
+Disallow: /mwc-registration/
+# https://docs.gravityview.co/article/522-preventing-views-and-entries-from-being-by-the-google-crawler-bot
+Disallow: /view/*/entry/*
+Disallow: /*/entry/*

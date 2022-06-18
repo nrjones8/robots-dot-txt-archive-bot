@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-includes/
+Got an HTML response

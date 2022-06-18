@@ -20,6 +20,5 @@ Disallow: /financials.html
 Disallow: /http://grantsburgareahistoricalsociety.weebly.com/
 Disallow: /emergency-services.html
 Disallow: /http://www.grantsburgwifire.org/
-Disallow: /http://grograntsburg.com/
 Disallow: /http://gk12.net
 Disallow: /http://www.wisconsin.gov/state/

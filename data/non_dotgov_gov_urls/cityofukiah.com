@@ -1,30 +1,3 @@
 User-agent: *
-Disallow: /OldSite/
-Disallow: /bu/
-Disallow: /phplist/
-Disallow: /pdf/
-Disallow: /cgi-bin/
-Disallow: /city_hall/
-Disallow: /forms/
-Disallow: /ftp/
-Disallow: /kiosk/
 Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/
-Disallow: /NewWeb/wp-admin/
-Disallow: /NewWeb/wp-includes/
-Disallow: /NewWeb/wp-content/
-Disallow: /trackback/
-Disallow: /index.php
-Disallow: /xmlrpc.com
-Disallow: /wp-login.php
-Disallow: /NewWeb/wp-content/plugins/
-Disallow: /comments/feed/
-Disallow: /calendar/
-crawl-delay: 10
-
-User-agent: Yandex
-Disallow: /
-
-User-agent: Baiduspider
-Disallow: /
+Allow: /wp-admin/admin-ajax.php
