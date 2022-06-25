@@ -1,1 +1,11 @@
-Got an HTML response
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /arhdata/
+Disallow: /archive/
+Disallow: /data/
+Disallow: /aws/
+Disallow: /webalizer/
+Disallow: /*.avi$
+Disallow: /*.mpg$
+Disallow: /*.wmv$
+Disallow: /*.pdf$

@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.sjra.net/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}

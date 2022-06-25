@@ -1,14 +1,12 @@
-User-agent: Googlebot*
-Crawl-delay: 20
-Disallow: /Calendar.asp
-Disallow: /SearchResults.asp
-# Google Mini
-User-agent: gsa-crawler
-Crawl-delay: 10
-Disallow: /Calendar.asp
-User-agent: 008
-Disallow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: LinkedInBot/1.0
+Allow: /
+User-agent: Twitterbot
+Allow: /
 User-agent: *
-Crawl-delay: 30
-Disallow: /Calendar.asp
-Disallow: /SearchResults.asp
+Disallow: /

@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
 
-Sitemap: https://worthtownship.com/wp-sitemap.xml
+Sitemap: https://worthtownship.com/sitemap.xml
+Sitemap: https://worthtownship.com/sitemap.rss
+

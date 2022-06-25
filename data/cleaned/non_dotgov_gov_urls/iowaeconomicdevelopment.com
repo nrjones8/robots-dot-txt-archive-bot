@@ -1,8 +1,8 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
-User-agent: *
-Disallow: /
+user-agent: *
+disallow: /content
+disallow: /bundles
+disallow: /GlobalAdmin
+disallow: /aspx/Admin
+disallow: /error
+allow: /content/images
+sitemap: https://iowaeconomicdevelopment-site.azurewebsites.net/sitemap.xml

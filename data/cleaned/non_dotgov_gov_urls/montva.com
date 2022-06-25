@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /Sitefinity
+Got an HTML response

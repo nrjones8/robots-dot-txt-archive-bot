@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /wp-content/uploads/vfb/
+
+Sitemap: https://blackduckmn.com/sitemap_index.xml

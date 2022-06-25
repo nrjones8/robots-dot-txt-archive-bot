@@ -1,7 +1,12 @@
 User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Noindex: /wp-content/
+Noindex: /wp-includes/
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
 Disallow: /calendar/action~month/
 Disallow: /calendar/action~week/
 Disallow: /calendar/action~stream/
+

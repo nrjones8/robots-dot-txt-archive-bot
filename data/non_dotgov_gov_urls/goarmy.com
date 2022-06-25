@@ -12,6 +12,7 @@ Disallow: /content/spflibrary/families.html
 Disallow: /AMP-benefits.html
 Disallow: /popups/cadence-jukebox.html
 Disallow: /events/special-teams-challenge.popup.html
+Disallow: /rotc/schools/
 
 Allow: /learn/understanding-the-asvab.html
 Allow: /locate-a-recruiter.html

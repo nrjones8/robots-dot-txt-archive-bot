@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://www.shoholatwp.org/sitemap.xml
-Sitemap: https://www.shoholatwp.org/sitemap.rss
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='shoholatwp.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f49c1b658b0>, 'Connection to shoholatwp.org timed out. (connect timeout=15)'))"}
