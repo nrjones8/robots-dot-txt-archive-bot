@@ -1,4 +1,4 @@
-Sitemap: https://www.columbiacountyny.com/sitemap.xml
+Sitemap: http://www.columbiacountyny.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /
@@ -6,7 +6,6 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /-test-transportation-complaint-form.html
 Disallow: /http://philmont.org/
 Disallow: /https://sites.google.com/columbiacountyny.com/emc
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-agriculture-and-farmland-board/

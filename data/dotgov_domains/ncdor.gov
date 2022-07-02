@@ -61,3 +61,4 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 # DS Additions
 Disallow: /user
+Disallow: /user/login

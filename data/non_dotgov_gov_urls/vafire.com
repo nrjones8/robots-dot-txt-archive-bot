@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.vafire.com/wp-sitemap.xml

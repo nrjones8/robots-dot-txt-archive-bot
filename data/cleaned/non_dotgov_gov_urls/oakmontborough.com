@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -14,3 +13,4 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+Sitemap: https://oakmontborough.com/sitemap_index.xml

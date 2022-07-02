@@ -71,6 +71,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/building/unsafestructures.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Building-3
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Building-3/Building-Bulletins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Access-Jobs-Image-Gallery
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Building-and-Permitting/Building-Efficiency-305-Miami
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Building-and-Permitting/Building-Efficiency-305-Miami-BE305
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Building-and-Permitting/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
@@ -879,7 +882,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2022-0002-–-T4-R-Bed-and-Breakfast-by-Warrant-Interpretation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -971,6 +976,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Reque
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Miami-21-Atlas-Rezone-Future-Land-Use-Map-FLUMComprehensive-PlanSpecial-Area-Plan-SAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezones/Request-a-RezoneFLUM-ChangeSAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/plant
@@ -1535,6 +1541,9 @@ Disallow: /building/unsafestructures.html
 Disallow: /Building-3
 Disallow: /Building-3/Building-Bulletins
 Disallow: /Business/Access-Jobs-Image-Gallery
+Disallow: /Business/Building-and-Permitting/Building-Efficiency-305-Miami
+Disallow: /Business/Building-and-Permitting/Building-Efficiency-305-Miami-BE305
+Disallow: /Business/Building-and-Permitting/New-page
 Disallow: /Business/Business-Assistance-Grant
 Disallow: /Business/Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/City-of-Miami-Sign-Code/Billboards-Murals-Banners
@@ -2428,7 +2437,9 @@ Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergen
 Disallow: /My-Government/Departments/Resilience-and-Sustainability
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
+Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/New-page
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
+Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2022-0002-–-T4-R-Bed-and-Breakfast-by-Warrant-Interpretation
 Disallow: /My-Government/Elections/Elections-Information
 Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -2520,6 +2531,7 @@ Disallow: /Planning-Zoning-Land-Use/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Planning-Zoning-Land-Use/Rezones/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Miami-21-Atlas-Rezone-Future-Land-Use-Map-FLUMComprehensive-PlanSpecial-Area-Plan-SAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
+Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-RezoneFLUM-ChangeSAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /Planning-Zoning-Land-Use/Rezoning-Information
 Disallow: /plant

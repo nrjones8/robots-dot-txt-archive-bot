@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Sitemap: https://decaturil.gov/sitemap_index.xml
+Sitemap: https://decaturil.gov/fire/sitemap_index.xml
+Sitemap: https://decaturil.gov/police/sitemap_index.xml
+Sitemap: https://decaturil.gov/auxpolice/sitemap_index.xml

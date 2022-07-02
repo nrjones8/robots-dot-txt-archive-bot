@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='shipmspa.com', port=443): Read timed out. (read timeout=15)"}

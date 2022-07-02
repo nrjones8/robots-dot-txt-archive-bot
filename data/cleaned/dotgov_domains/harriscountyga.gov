@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /graphics/
-Disallow: /calendar/
-Allow: /
-Disallow: /includes/
+Disallow:
+# Sitemap files
+Sitemap: https://www.harriscountyga.gov/sitemap_index.xml

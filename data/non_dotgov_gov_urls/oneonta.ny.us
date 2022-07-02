@@ -1,22 +1,18 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+
 User-agent: *
-Disallow: /config
-Disallow: /controllers
-Disallow: /elements
-Disallow: /helpers
-Disallow: /jobs
-Disallow: /languages
-Disallow: /libraries
-Disallow: /mail
-Disallow: /models
-Disallow: /page_types
-Disallow: /single_pages
-Disallow: /tools
-Disallow: /index.php/tools
-Disallow: /blocks/*.php$
-Disallow: /blocks/*.xml$
-Disallow: /concrete/*.php$
-Disallow: /concrete/*.xml$
-Disallow: /packages/*.php$
-Disallow: /packages/*.xml$
-Disallow: /updates/*.php$
-Disallow: /updates/*.xml$
+Disallow: /
