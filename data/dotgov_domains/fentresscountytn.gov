@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='fentresscountytn.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fae58be5e20>, 'Connection to fentresscountytn.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow:
+
+Sitemap: https://fentresscountytn.gov/sitemap_index.xml

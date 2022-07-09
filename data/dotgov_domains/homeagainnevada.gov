@@ -1,4 +1,6 @@
-User-agent: *
-Disallow:
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: /*?print=print*
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://homeagainnevada.gov/sitemap_index.xml
+Sitemape: https://www.nevada211.org/sitemap_index.xml

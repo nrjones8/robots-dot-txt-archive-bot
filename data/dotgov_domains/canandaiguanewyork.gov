@@ -1,33 +1,35 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: *
+user-agent: Baiduspider
 Disallow: /
-
-Crawl-delay: 60
-
-Sitemap: http://canandaiguanewyork.gov/sitemap.xml
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /activedit
+Disallow: /admin
+Disallow: /common/admin/
+Disallow: /OJA
+Disallow: /support
+Disallow: /currenteventsview.asp
+Disallow: /search.asp
+Disallow: /currenteventsview.aspx
+Disallow: /search.aspx
+Disallow: /currentevents.aspx
+Disallow: /Support
+Disallow: /CurrentEventsView.asp
+Disallow: /Search.asp
+Disallow: /CurrentEventsView.aspx
+Disallow: /Search.aspx
+Disallow: /Search
+Disallow: /CurrentEvents.aspx
+Disallow: /Currentevents.aspx
+Disallow: /map.aspx
+Disallow: /map.asp
+Disallow: /Map.aspx
+Disallow: /Map.asp
+Sitemap: /sitemap.xml
+Disallow: /RSS.aspx
+User-agent: Siteimprove
+Crawl-delay: 20
+User-agent: Siteimprovebot
+Crawl-delay: 20
+User-agent: Siteimprovebot-crawler
+Crawl-delay: 20

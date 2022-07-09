@@ -1,1 +1,16 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='pattersontwp.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /dev/wp-admin/
+Allow: /dev/wp-admin/admin-ajax.php
+Disallow: /events/action~posterboard/
+Disallow: /events/action~agenda/
+Disallow: /events/action~oneday/
+Disallow: /events/action~month/
+Disallow: /events/action~week/
+Disallow: /events/action~stream/
+Disallow: /events/action~undefined/
+Disallow: /events/action~http:/
+Disallow: /events/action~default/
+Disallow: /events/action~poster/
+Disallow: /events/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
