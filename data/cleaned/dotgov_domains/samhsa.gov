@@ -1,14 +1,4 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
+# SAMHSA customized robots.txt
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
@@ -38,17 +28,30 @@ Disallow: /profiles/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
-Disallow: /robots.txt
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
-Disallow: /node/add/
+Disallow: /node/*
 Disallow: /search/
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+# Taxonomies
+Disallow: /issues-conditions-disorders/*
+Disallow: /learning-community/*
+Disallow: /location/*
+Disallow: /substances/*
+Disallow: /treatment-prevention-recovery/*
+Disallow: /professional-research-topics/*
+Disallow: /postal-code/*
+Disallow: /population-groups/*
+Disallow: /pc-topic/*
+Disallow: /pc-type/*
+Disallow: /hpr-topic/*
+Disallow: /hpr-resource-format/*
+Disallow: /audience/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

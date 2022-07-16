@@ -1,11 +1,1 @@
-User-agent: *
-Allow: /
-
-# Optimization for Google Ads Bot
-User-Agent: AdsBot-Google-Mobile
-User-Agent: AdsBot-Google
-Disallow: /_api/*
-Disallow: /_partials*
-Disallow: /pro-gallery-webapp/v1/galleries/*
-
-Sitemap: https://www.chesterfield-sc.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='chesterfield-sc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f95529353a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

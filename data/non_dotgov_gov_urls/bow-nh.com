@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='bow-nh.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f9552e04e50>, 'Connection to bow-nh.com timed out. (connect timeout=15)'))"}

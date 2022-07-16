@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /
-Disallow: /?*
-Disallow: /_zc
-Crawl-delay: 120
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
