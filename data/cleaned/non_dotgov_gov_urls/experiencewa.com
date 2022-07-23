@@ -1,7 +1,6 @@
-# robots.txt for https://www.stateofwatourism.com/
-sitemap: https://www.stateofwatourism.com/sitemaps-1-sitemap.xml
-# live - don't allow web crawlers to index cpresources/ or vendor/
 User-agent: *
-Disallow: /cpresources/
-Disallow: /vendor/
-Disallow: /.env
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpforms/
+Sitemap: https://stateofwatourism.com/sitemap_index.xml
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

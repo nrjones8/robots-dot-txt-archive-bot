@@ -1,4 +1,4 @@
-Sitemap: http://www.columbiacountyny.com/sitemap.xml
+Sitemap: https://www.columbiacountyny.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /

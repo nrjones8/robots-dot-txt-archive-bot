@@ -1,4 +1,2 @@
-User-agent: *
+User-Agent: *
 Disallow:
-
-Sitemap: https://jessamineco.com/sitemap.xml

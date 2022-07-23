@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://portjeff.com/wp-sitemap.xml
+Sitemap: https://portjeff.com/sitemap_index.xml

@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gradycountyok.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f9552d7c250>, 'Connection to gradycountyok.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://gradycountyok.com/sitemap.xml
