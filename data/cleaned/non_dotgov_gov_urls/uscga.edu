@@ -1,20 +1,3 @@
 User-agent: *
-Allow: /
-Disallow: /.vs/
-Disallow: /App_Browsers/
-Disallow: /App-Data/
-Disallow: /App_GlobalResources/
-Disallow: /App_WebReferences/
-Disallow: /AssetManagement/
-Disallow: /assets/
-Disallow: /bin/
-Disallow: /download/
-Disallow: /EktSyncStatus
-Disallow: /logs/
-Disallow: /PrivateAssets/
-Disallow: /scripts/
-Disallow: /UX/
-Disallow: /WorkArea/
-Disallow: /xmlfiles/
-Disallow: /widgets/
-sitemap: https://www.uscga.edu/sitemap.xml
+Disallow:
+Sitemap: https://uscga.edu/sitemap_index.xml

@@ -21,6 +21,7 @@ Disallow: /2022-fun-run.html
 Disallow: /steakfest-cookoff.html
 Disallow: /soup-luncheon.html
 Disallow: /events.html
+Disallow: /2022-swimming-lessons.html
 Disallow: /library-summer-reading-program.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
 Disallow: /http://www.glenelder.com/city-library.html

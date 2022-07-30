@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: 
-Sitemap: http://216.69.174.169/sitemap.xml
+Sitemap: http://www.admin.wmbpd.com/sitemap.xml

@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.pricecityutah.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3da1bbd550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+Sitemap: https://www.pricecityutah.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /business-center.html
+Disallow: /events1.html
+Disallow: /city-departments.html
+Disallow: /emergency-services.html
+Disallow: /city-government1.html
+Disallow: /community.html

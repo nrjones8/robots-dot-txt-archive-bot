@@ -1,1 +1,33 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='easthazelcrest.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3da19db9a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# robots.txt
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /manager/
+Disallow: /*Design*
+Disallow: /*month*
+Disallow: /*GUESTBOOK*
+
+User-agent: MSNBot
+Disallow: /admin/
+Disallow: /manager/
+Disallow: /*Design*
+Disallow: /*month*
+Disallow: /*GUESTBOOK*
+
+User-agent: ia_archiver
+Disallow: /admin/
+Disallow: /manager/
+
+User-agent: archive.org_bot
+Disallow: /admin/
+Disallow: /manager/
+
+User-agent: W3C-checklink
+Disallow: /admin/
+Disallow: /manager/
+
+User-agent: *
+Disallow: /
+
+Crawl-delay: 60
+
+Sitemap: http://easthazelcrest.com/sitemap.xml

@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /wp/wp-admin/
-Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 Sitemap: https://www.vafire.com/wp-sitemap.xml

@@ -1,2 +1,1 @@
-User-agent: Slurp
-Crawl-delay:  5
+Request failed

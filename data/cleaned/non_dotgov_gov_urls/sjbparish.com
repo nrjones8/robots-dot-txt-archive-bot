@@ -19,6 +19,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Coun
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Page-Not-Found
@@ -51,6 +52,7 @@ Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /Home/Tabs/Boil-Water
 Disallow: /Home/Tabs/New-page
+Disallow: /Home/Tabs/Road-Closure
 Disallow: /Internal-Styles
 Disallow: /New-page
 Disallow: /Page-Not-Found

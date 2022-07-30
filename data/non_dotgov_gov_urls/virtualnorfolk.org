@@ -1,1 +1,26 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='virtualnorfolk.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3da1de60a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# Default Evolution CMS exclusions
+User-agent: *
+Disallow: /assets/backup/
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /assets/packages/ 
+Disallow: /assets/tvs/
+Disallow: /install/
+
+Allow: /assets/cache/images/
+Allow: /assets/modules/*.css
+Allow: /assets/modules/*.js
+Allow: /assets/plugins/*.css
+Allow: /assets/plugins/*.js
+Allow: /assets/snippets/*.css
+Allow: /assets/snippets/*.js
+
+# Host: example.com
+
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+# Sitemap: http://example.com/sitemap.xml

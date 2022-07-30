@@ -1,5 +1,6 @@
-# Don't allow web crawlers to index Craft
-User-agent: *
-Disallow: /vendor/
-
 Sitemap: https://www.whitehousehistory.org/sitemap.xml
+
+User-agent: *
+Disallow: /admin
+Disallow: /login
+Disallow: /search?q=*
