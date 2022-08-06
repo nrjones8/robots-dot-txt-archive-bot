@@ -1,17 +1,1 @@
-User-agent: *
-Disallow: /admin/
-Disallow: /lichun/
-Disallow: /ilichun/
-Disallow: /install/
-Disallow: /templates/
-Disallow: /uploads/
-Disallow: /member.php
-Disallow: /shoppingcart.php
-Disallow: /order.php
-Disallow: /orderenter.php
-Disallow: /orderpay.php
-
-Sitemap: /sitemap.txt
-Sitemap: /sitemap.xml
-Sitemap: /sitemap.html
-Allow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tigertonwis.com', port=80): Read timed out. (read timeout=15)"}

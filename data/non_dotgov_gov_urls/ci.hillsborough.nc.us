@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /search/
+Disallow: /pdf/
+Disallow: /employees/
+Sitemap: https://www.hillsboroughnc.gov/sitemap.xml

@@ -1,7 +1,8 @@
-# Default Flywheel robots file
+# Default robots file version:2
 User-agent: *
-Allow: /*?v
 Disallow: /calendar/action*
 Disallow: /events/action*
+Allow: /*.css
+Allow: /*.js
 Disallow: /*?
 Crawl-delay: 3

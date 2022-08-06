@@ -1,1 +1,12 @@
-Request failed
+User-agent: Googlebot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: DeuSu
+Disallow: /
+User-agent: grapeshot
+Disallow: /

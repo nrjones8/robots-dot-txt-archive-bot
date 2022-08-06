@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='dickeyville.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Allow: /
+
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://www.dickeyville.com/sitemap.xml
+
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

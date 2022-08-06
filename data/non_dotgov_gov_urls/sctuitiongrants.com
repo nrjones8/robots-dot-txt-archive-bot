@@ -1,5 +1,1 @@
-Sitemap: https://sctuitiongrants.org/sitemap.xml
-Sitemap: https://sctuitiongrants.org/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='sctuitiongrants.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc4c1d9c7c0>, 'Connection to sctuitiongrants.com timed out. (connect timeout=15)'))"}
