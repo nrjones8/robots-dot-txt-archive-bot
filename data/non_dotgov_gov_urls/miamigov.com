@@ -762,6 +762,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-Civilian-Investigate-Panel-Case-Report
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Allapattah-Service-Center
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Marlins-Park-NET
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/NET-Administration-Office-at-Green-Lab
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
@@ -904,9 +908,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-DIRECTORY
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-TEAM-DIRECTORY
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
@@ -2354,6 +2356,10 @@ Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-Civilian-Investigate-Panel-Case-Report
 Disallow: /My-Government/Departments/Code-Compliance/Code-Inspector-Page
 Disallow: /My-Government/Departments/Code-Compliance/ProChamps
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Allapattah-Service-Center
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Marlins-Park-NET
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/NET-Administration-Office-at-Green-Lab
 Disallow: /My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
@@ -2496,9 +2502,7 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Gen
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
-Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-DIRECTORY
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
-Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-TEAM-DIRECTORY
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities

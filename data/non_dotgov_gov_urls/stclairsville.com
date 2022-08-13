@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='stclairsville.com', port=443): Read timed out. (read timeout=15)"}
+Sitemap: https://stclairsville.com/sitemap.xml
+Sitemap: https://stclairsville.com/news-sitemap.xml
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+

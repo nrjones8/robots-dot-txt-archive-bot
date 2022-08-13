@@ -101,5 +101,9 @@ Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 
-# Disallow indexing of flag urls (https://www.drupal.org/node/2162217).
+# Disallow indexing of flag URLs (https://www.drupal.org/node/2162217).
 Disallow: /flag/
+
+# Disallow indexing of subscription URLs (kz - 20220808)
+Disallow: /subscriptions/
+

@@ -26,3 +26,5 @@ Disallow: /logs/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp/
+User-agent: MJ12bot
+Disallow: /

@@ -1,13 +1,1 @@
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /administration/
-Disallow: /content/
-Disallow: /css/
-Disallow: /diagnostics/
-Disallow: /images/
-Disallow: /includes/
-Disallow: /link/
-Disallow: /scripts/
-Disallow: /videoplayer/ 
-Disallow: /xstandard/
-Sitemap: http://www.flatrockmi.org/sitemap.gz
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='flatrockmi.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b31eb6f70>, 'Connection to flatrockmi.org timed out. (connect timeout=15)'))"}

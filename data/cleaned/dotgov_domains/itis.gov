@@ -1,4 +1,5 @@
-# robots.txt for http://www.itis.gov
+#robots.txt for http://www.itis.gov
+#Bad user-agent reference: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list
 User-agent: *
 Disallow:/tmp/
 Disallow:/FilesToBeDownloaded/
@@ -8,3 +9,17 @@ Disallow:/ItisDataTools/
 Disallow:/ITISWebService/
 Disallow:/itisdownload/
 Disallow:/download/
+User-agent: Petalbot
+Disallow: /
+User-agent: Semrush
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: Dotbot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: MauiBot
+Disallow: /

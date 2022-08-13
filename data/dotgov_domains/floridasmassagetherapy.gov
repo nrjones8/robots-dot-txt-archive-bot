@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/uploads/wpforms/
-
-Sitemap: https://floridasmassagetherapy.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='floridasmassagetherapy.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b319e92b0>, 'Connection to floridasmassagetherapy.gov timed out. (connect timeout=15)'))"}
