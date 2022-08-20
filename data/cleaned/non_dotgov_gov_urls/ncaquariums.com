@@ -12,6 +12,8 @@ Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
 Disallow: /Store_SearchResults.aspx
+Disallow: /searchresults.aspx
+Disallow: /SearchResults.aspx
 Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
@@ -33,6 +35,8 @@ Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
 Disallow: /Store_SearchResults.aspx
+Disallow: /searchresults.aspx
+Disallow: /SearchResults.aspx
 Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
@@ -54,6 +58,8 @@ Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
 Disallow: /Store_SearchResults.aspx
+Disallow: /searchresults.aspx
+Disallow: /SearchResults.aspx
 Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
@@ -75,6 +81,8 @@ Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
 Disallow: /Store_SearchResults.aspx
+Disallow: /searchresults.aspx
+Disallow: /SearchResults.aspx
 Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/

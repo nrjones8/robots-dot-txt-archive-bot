@@ -1,18 +1,1 @@
-Sitemap: http://cityofweiser.net/sitemap.xml
-Sitemap: http://cityofweiser.net/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /calendar-2/action~posterboard/
-Disallow: /calendar-2/action~agenda/
-Disallow: /calendar-2/action~oneday/
-Disallow: /calendar-2/action~month/
-Disallow: /calendar-2/action~week/
-Disallow: /calendar-2/action~stream/
-Disallow: /calendar-2/action~undefined/
-Disallow: /calendar-2/action~http:/
-Disallow: /calendar-2/action~default/
-Disallow: /calendar-2/action~poster/
-Disallow: /calendar-2/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofweiser.net', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0cb1ff68b0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}

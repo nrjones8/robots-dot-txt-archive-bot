@@ -38,21 +38,21 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /archived-elements/suffield-summer-fair$
-Disallow: /archived-elements/suffield-summer-fair?
-Disallow: /archived-elements/suffield-summer-fair/~
 Disallow: /agendas-minutes-clone$
 Disallow: /agendas-minutes-clone?
 Disallow: /agendas-minutes-clone/~
-Disallow: /archived-elements/suffield-summer-fair-linked$
-Disallow: /archived-elements/suffield-summer-fair-linked?
-Disallow: /archived-elements/suffield-summer-fair-linked/~
 Disallow: /home-summer-fair-testing$
 Disallow: /home-summer-fair-testing?
 Disallow: /home-summer-fair-testing/~
 Disallow: /home-summer-fair-testing-2$
 Disallow: /home-summer-fair-testing-2?
 Disallow: /home-summer-fair-testing-2/~
+Disallow: /archived-elements/suffield-summer-fair$
+Disallow: /archived-elements/suffield-summer-fair?
+Disallow: /archived-elements/suffield-summer-fair/~
+Disallow: /archived-elements/suffield-summer-fair-linked$
+Disallow: /archived-elements/suffield-summer-fair-linked?
+Disallow: /archived-elements/suffield-summer-fair-linked/~
 Disallow: /public-works-clone$
 Disallow: /public-works-clone?
 Disallow: /public-works-clone/~
@@ -209,15 +209,15 @@ Disallow: /production/athletics/profile/~
 Disallow: /production/athletics/table$
 Disallow: /production/athletics/table?
 Disallow: /production/athletics/table/~
+Disallow: /site-notes$
+Disallow: /site-notes?
+Disallow: /site-notes/~
 Disallow: /production/constituent/production/constituent/students$
 Disallow: /production/constituent/production/constituent/students?
 Disallow: /production/constituent/production/constituent/students/~
 Disallow: /production/posts/post-slideshow$
 Disallow: /production/posts/post-slideshow?
 Disallow: /production/posts/post-slideshow/~
-Disallow: /site-notes$
-Disallow: /site-notes?
-Disallow: /site-notes/~
 Disallow: /production/news-elements/news-post-page$
 Disallow: /production/news-elements/news-post-page?
 Disallow: /production/news-elements/news-post-page/~
@@ -251,6 +251,9 @@ Disallow: /production/page-layout/production/page-layout/1-column-layout/~
 Disallow: /production/page-layout/production/page-layout/three-columns-middle$
 Disallow: /production/page-layout/production/page-layout/three-columns-middle?
 Disallow: /production/page-layout/production/page-layout/three-columns-middle/~
+Disallow: /home-clone$
+Disallow: /home-clone?
+Disallow: /home-clone/~
 Disallow: /production/page-layout/three-column-bottom$
 Disallow: /production/page-layout/three-column-bottom?
 Disallow: /production/page-layout/three-column-bottom/~
@@ -272,9 +275,6 @@ Disallow: /production/page-layout/two-columns-top/~
 Disallow: /production/page-layout/one-column-over-two$
 Disallow: /production/page-layout/one-column-over-two?
 Disallow: /production/page-layout/one-column-over-two/~
-Disallow: /home-clone$
-Disallow: /home-clone?
-Disallow: /home-clone/~
 Disallow: /production/page-layout/production/page-layout/two-column-left-sidebar$
 Disallow: /production/page-layout/production/page-layout/two-column-left-sidebar?
 Disallow: /production/page-layout/production/page-layout/two-column-left-sidebar/~

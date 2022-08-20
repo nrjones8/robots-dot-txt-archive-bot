@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: 
-Sitemap: http://www.corfuny.web.mcpinc.com/sitemap.xml
+Sitemap: http://www.corfuny.com/sitemap.xml

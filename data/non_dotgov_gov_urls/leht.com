@@ -1,1 +1,27 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='leht.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1b31854910>, 'Connection to leht.com timed out. (connect timeout=15)'))"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.leht.com/wp-sitemap.xml

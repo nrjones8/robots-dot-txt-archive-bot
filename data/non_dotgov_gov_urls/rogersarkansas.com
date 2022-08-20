@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='rogersarkansas.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b31632940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*

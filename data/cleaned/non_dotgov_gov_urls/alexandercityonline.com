@@ -1,1 +1,1 @@
-Sitemap: http://alexandercityonline.com/sitemap.xml
+Got an HTML response

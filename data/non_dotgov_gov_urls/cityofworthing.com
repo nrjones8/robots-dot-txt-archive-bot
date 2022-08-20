@@ -1,10 +1,1 @@
-User-agent: * 
-Disallow: /administrator/
-Disallow: /cache/
-Disallow: /editor/
-Disallow: /help/
-Disallow: /language/
-Disallow: /mambots/
-Disallow: /installation/
-
- 
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
