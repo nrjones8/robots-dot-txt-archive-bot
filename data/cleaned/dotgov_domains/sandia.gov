@@ -36,8 +36,8 @@
 # to our high performance computing team because you'll get along quite nicely.
 # You know how to get in touch.
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
 Sitemap: https://www.sandia.gov/wp-sitemap.xml
 Crawl-delay: 2
 Disallow: /cgi-bin/
@@ -50,6 +50,7 @@ Disallow: /verity/
 Disallow: /verity-301/
 Disallow: /old__asset/
 Disallow: /old_ASC/
+Sitemap: https://www.sandia.gov/wp/wp-sitemap.xml
 Sitemap: https://www.sandia.gov/vqsec/wp-sitemap.xml
 Sitemap: https://www.sandia.gov/careers/wp-sitemap.xml
 Sitemap: https://www.sandia.gov/-pblonig/wp-sitemap.xml

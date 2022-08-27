@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# Robots.txt file from http://www.elmerboroughnj.com
+
+Sitemap: http://www.elmerboroughnj.com/sitemap.xml
+
+User-agent: *
+Disallow:

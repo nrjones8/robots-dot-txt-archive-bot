@@ -13,6 +13,7 @@ Disallow: /city-code-ordinances/zoning-applications/
 Disallow: /city-council/
 Disallow: /city-staff/
 Disallow: /council-agendas/
+Disallow: /council-agendas/2023-agendas/
 Disallow: /council-agendas/2022-agendas/
 Disallow: /council-agendas/2021-agendas/
 Disallow: /council-agendas/2020-agendas/
@@ -21,6 +22,7 @@ Disallow: /council-agendas/2018-agendas/
 Disallow: /council-agendas/2017-agendas/
 Disallow: /council-agendas/2016-agendas/
 Disallow: /council-minutes/
+Disallow: /council-minutes/2023-meeting-minutes/
 Disallow: /council-minutes/2022-meeting-minutes/
 Disallow: /council-minutes/2021-meeting-minutes/
 Disallow: /council-minutes/2020-meeting-minutes/

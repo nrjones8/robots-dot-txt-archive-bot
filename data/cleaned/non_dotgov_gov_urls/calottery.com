@@ -10,7 +10,6 @@ Disallow: /App_config/
 Disallow: /unsubscribe
 Disallow: /App_Browsers/
 Disallow: /sitecore_files/
-Disallow: /search-results/
 Disallow: /promounsubscribe
 Disallow: /sitecore modules/
 Disallow: /mobile-promotions

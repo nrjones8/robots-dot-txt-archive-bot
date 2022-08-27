@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://williamsoncountyil.gov/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://williamsoncountyil.gov/wp-sitemap.xml

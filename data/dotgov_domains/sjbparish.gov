@@ -6,9 +6,9 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Communications/New
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Emergency-Preparedness/Shared-links
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/Bobby
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/Donation
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-001
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/New-page
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/test/1
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/test/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Copy-of-Flood-Maps-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
@@ -32,9 +32,9 @@ Disallow: /Departments/Communications/New-page
 Disallow: /Departments/Emergency-Preparedness/Shared-links
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/Bobby
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/Donation
+Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-001
+Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/New-page
-Disallow: /Departments/Fire-Services/Community-Programs/test/1
-Disallow: /Departments/Fire-Services/Community-Programs/test/New-page
 Disallow: /Departments/Planning-and-Zoning/Copy-of-Flood-Maps-1
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps-old

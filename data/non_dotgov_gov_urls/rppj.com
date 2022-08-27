@@ -1,90 +1,102 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
-
 User-agent: *
-Crawl-delay: 10
-# CSS, JS, Images
-Allow: /misc/*.css$
-Allow: /misc/*.css?
-Allow: /misc/*.js$
-Allow: /misc/*.js?
-Allow: /misc/*.gif
-Allow: /misc/*.jpg
-Allow: /misc/*.jpeg
-Allow: /misc/*.png
-Allow: /modules/*.css$
-Allow: /modules/*.css?
-Allow: /modules/*.js$
-Allow: /modules/*.js?
-Allow: /modules/*.gif
-Allow: /modules/*.jpg
-Allow: /modules/*.jpeg
-Allow: /modules/*.png
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /themes/*.css$
-Allow: /themes/*.css?
-Allow: /themes/*.js$
-Allow: /themes/*.js?
-Allow: /themes/*.gif
-Allow: /themes/*.jpg
-Allow: /themes/*.jpeg
-Allow: /themes/*.png
-# Directories
-Disallow: /includes/
-Disallow: /misc/
-Disallow: /modules/
-Disallow: /profiles/
-Disallow: /scripts/
-Disallow: /themes/
-# Files
-Disallow: /CHANGELOG.txt
-Disallow: /cron.php
-Disallow: /INSTALL.mysql.txt
-Disallow: /INSTALL.pgsql.txt
-Disallow: /INSTALL.sqlite.txt
-Disallow: /install.php
-Disallow: /INSTALL.txt
-Disallow: /LICENSE.txt
-Disallow: /MAINTAINERS.txt
-Disallow: /update.php
-Disallow: /UPGRADE.txt
-Disallow: /xmlrpc.php
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips/
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-# Paths (no clean URLs)
-Disallow: /?q=admin/
-Disallow: /?q=comment/reply/
-Disallow: /?q=filter/tips/
-Disallow: /?q=node/add/
-Disallow: /?q=search/
-Disallow: /?q=user/password/
-Disallow: /?q=user/register/
-Disallow: /?q=user/login/
-Disallow: /?q=user/logout/
+Disallow:
+Disallow: /wp-content/uploads/sites/122/wpforms/
+
+Sitemap: https://rppj.com/sitemap_index.xml
+
+Sitemap: https://alexwinterfete.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/vault/sitemap_index.xml
+Sitemap: https://globaltradeinnovations.com/sitemap_index.xml
+Sitemap: https://hunterandbeck.com/sitemap_index.xml
+Sitemap: https://jenagiantsbooster.com/sitemap_index.xml
+Sitemap: https://harveyautoparts.com/sitemap_index.xml
+Sitemap: https://teaguejones.com/sitemap_index.xml
+Sitemap: https://nextgenerationinsulation.com/sitemap_index.xml
+Sitemap: https://brianelectriccompany.com/sitemap_index.xml
+Sitemap: https://chrischelette.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/alex-river-fete/sitemap_index.xml
+Sitemap: https://provisionsoperating.com/sitemap_index.xml
+Sitemap: https://ypgcenla.org/sitemap_index.xml
+Sitemap: https://swlaimaging.com/sitemap_index.xml
+Sitemap: https://lang-recruiting.com/sitemap_index.xml
+Sitemap: https://phillipterrellda.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/phillip-terrell-da/sitemap_index.xml
+Sitemap: https://agilushealth.com/sitemap_index.xml
+Sitemap: https://www.alexregenerativecenter.com/sitemap_index.xml
+Sitemap: https://alexmardigras.net/sitemap_index.xml
+Sitemap: https://phillipssublimation.com/sitemap_index.xml
+Sitemap: https://murphyrachal.com/sitemap_index.xml
+Sitemap: https://www.national-pharm.com/sitemap_index.xml
+Sitemap: https://midstatestrong.com/sitemap_index.xml
+Sitemap: https://funktoberfestcenla.com/sitemap_index.xml
+Sitemap: https://luneaubecklaw.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/rw/sitemap_index.xml
+Sitemap: https://royalsweetspot.com/sitemap_index.xml
+Sitemap: https://drrenickwebb.com/sitemap_index.xml
+Sitemap: https://healthcare-pharm.com/sitemap_index.xml
+Sitemap: https://fusioncarepharmacy.com/sitemap_index.xml
+Sitemap: https://covenantpharmacy.com/sitemap_index.xml
+Sitemap: https://magnolia-pharmacy.com/sitemap_index.xml
+Sitemap: https://seniorscript-pharm.com/sitemap_index.xml
+Sitemap: https://cenlaready.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/pfss/sitemap_index.xml
+Sitemap: https://ltc-pm.com/sitemap_index.xml
+Sitemap: https://westlouisianascuba.com/sitemap_index.xml
+Sitemap: https://naturallyims.com/sitemap_index.xml
+Sitemap: https://stateofthecitymonroe.com/sitemap_index.xml
+Sitemap: https://iattlakecabinsandkayaks.com/sitemap_index.xml
+Sitemap: https://gaeda.org/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/test/sitemap_index.xml
+Sitemap: https://kidcarela.com/sitemap_index.xml
+Sitemap: https://glomedspaalex.com/sitemap_index.xml
+Sitemap: https://funroefavorites.com/sitemap_index.xml
+Sitemap: https://apeckaggregate.com/sitemap_index.xml
+Sitemap: https://apeckconstruction.com/sitemap_index.xml
+Sitemap: https://ywcaalexandria.org/sitemap_index.xml
+Sitemap: https://vernonparishcoc.com/sitemap_index.xml
+Sitemap: https://health.jenachoctaw.org/sitemap_index.xml
+Sitemap: https://alexandriacitymarshal.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/rss/sitemap_index.xml
+Sitemap: https://cpptheatre.com/sitemap_index.xml
+Sitemap: https://bunkie-general.com/sitemap_index.xml
+Sitemap: https://athletics-academics.com/sitemap_index.xml
+Sitemap: https://seniorhealthpharmacy.com/sitemap_index.xml
+Sitemap: https://industrial-training-solutions.com/sitemap_index.xml
+Sitemap: https://monroelapolice.com/sitemap_index.xml
+Sitemap: https://cenlamotosport.com/sitemap_index.xml
+Sitemap: https://lyons-construction.com/sitemap_index.xml
+Sitemap: https://parkerlandry.com/sitemap_index.xml
+Sitemap: https://ltc-ss.com/sitemap_index.xml
+Sitemap: https://jimvillard.com/sitemap_index.xml
+Sitemap: https://flymonroe.org/sitemap_index.xml
+Sitemap: https://rapides911.org/sitemap_index.xml
+Sitemap: https://spiritscenla.com/sitemap_index.xml
+Sitemap: https://socialservices.jenachoctaw.org/sitemap_index.xml
+Sitemap: https://education.jenachoctaw.org/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/apd/sitemap_index.xml
+Sitemap: https://kristinaeventsandweddings.com/sitemap_index.xml
+Sitemap: https://monroe.org/sitemap_index.xml
+Sitemap: https://cenlafcu.org/sitemap_index.xml
+Sitemap: https://ewingpools.com/sitemap_index.xml
+Sitemap: https://rayspharmacyrx.com/sitemap_index.xml
+Sitemap: https://hsmeagles.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/laaa/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/moil/sitemap_index.xml
+Sitemap: https://managinginjuries.com/sitemap_index.xml
+Sitemap: https://shipwreckedandrescued.com/sitemap_index.xml
+Sitemap: https://checla.com/sitemap_index.xml
+Sitemap: https://soilind.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/n527pn/sitemap_index.xml
+Sitemap: https://joinapdla.org/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/tuco/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/lob/sitemap_index.xml
+Sitemap: https://eagleelectric.org/sitemap_index.xml
+Sitemap: https://tulco-storage.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/awc/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/nrmcf/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/lgo/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/lgh/sitemap_index.xml
+Sitemap: https://stoperosionla.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/ato/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/llp/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/acmp/sitemap_index.xml

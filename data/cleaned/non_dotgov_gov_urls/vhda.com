@@ -1,1 +1,4 @@
-Got an HTML response
+User-agent: *
+Allow: /
+Disallow: /
+Sitemap: https://www.virginiahousing.com/sitemap.xml

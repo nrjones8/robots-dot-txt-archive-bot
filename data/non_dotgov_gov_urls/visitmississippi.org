@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='visitmississippi.org', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow:
+
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://visitmississippi.org/sitemap_index.xml

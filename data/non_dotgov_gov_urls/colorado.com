@@ -59,3 +59,11 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+
+# Added by Miles.
+User-agent: AdsBot-Google
+Disallow:
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-Image
+Disallow:

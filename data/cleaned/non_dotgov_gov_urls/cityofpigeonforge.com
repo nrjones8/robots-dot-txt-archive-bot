@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /workarea/
+Disallow: /workarea
 Disallow: /widgets/
