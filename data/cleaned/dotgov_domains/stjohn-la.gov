@@ -18,6 +18,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Coun
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Labor-Day-Office-Closure
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
@@ -51,6 +52,7 @@ Disallow: /Government/St-John-Parish-Council/Council-Meeting-Video-Archive
 Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /Home/Tabs/Boil-Water
+Disallow: /Home/Tabs/Labor-Day-Office-Closure
 Disallow: /Home/Tabs/New-page
 Disallow: /Home/Tabs/Road-Closure
 Disallow: /Internal-Styles

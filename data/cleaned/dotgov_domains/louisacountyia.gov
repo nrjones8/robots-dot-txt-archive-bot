@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://louisacountyia.gov/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://louisacountyia.gov/wp-sitemap.xml

@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://townofgranvillewv.gov/wp-sitemap.xml
+Sitemap: https://townofgranvillewv.gov/sitemap_index.xml
+
+Sitemap: https://townofgranvillewv.gov/police/sitemap_index.xml
+Sitemap: https://townofgranvillewv.gov/fire/sitemap_index.xml

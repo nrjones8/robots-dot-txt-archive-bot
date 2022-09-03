@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /
+Disallow:
 Sitemap: https://www.virginiahousing.com/sitemap.xml

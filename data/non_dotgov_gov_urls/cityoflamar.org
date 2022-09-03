@@ -1,20 +1,35 @@
-# If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
-# Please see https://developer.wordpress.com/docs/firehose/ for more details.
-
-Sitemap: https://cityoflamar.org/sitemap.xml
-Sitemap: https://cityoflamar.org/news-sitemap.xml
-
+user-agent: Baiduspider
+Disallow: /
+User-agent: Yandex
+Disallow: /
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-login.php
-Disallow: /wp-signup.php
-Disallow: /press-this.php
-Disallow: /remote-login.php
-Disallow: /activate/
-Disallow: /cgi-bin/
-Disallow: /mshots/v1/
-Disallow: /next/
-Disallow: /public.api/
-
-# This file was generated on Sat, 19 Mar 2022 22:41:13 +0000
+Disallow: /activedit
+Disallow: /admin
+Disallow: /common/admin/
+Disallow: /OJA
+Disallow: /support
+Disallow: /currenteventsview.asp
+Disallow: /search.asp
+Disallow: /currenteventsview.aspx
+Disallow: /search.aspx
+Disallow: /currentevents.aspx
+Disallow: /Support
+Disallow: /CurrentEventsView.asp
+Disallow: /Search.asp
+Disallow: /CurrentEventsView.aspx
+Disallow: /Search.aspx
+Disallow: /Search
+Disallow: /CurrentEvents.aspx
+Disallow: /Currentevents.aspx
+Disallow: /map.aspx
+Disallow: /map.asp
+Disallow: /Map.aspx
+Disallow: /Map.asp
+Sitemap: /sitemap.xml
+Disallow: /RSS.aspx
+User-agent: Siteimprove
+Crawl-delay: 20
+User-agent: Siteimprovebot
+Crawl-delay: 20
+User-agent: Siteimprovebot-crawler
+Crawl-delay: 20

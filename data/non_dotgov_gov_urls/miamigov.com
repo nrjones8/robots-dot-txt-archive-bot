@@ -286,6 +286,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/S
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-WDRC
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Commission-First-Budget-Hearing-Comment-Registration-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Commission-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-Facilities
@@ -941,6 +942,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Inform
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Copy-of-3922-930-AM-Special-Commission-Online-Public-Comment-Form-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Regular-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
@@ -969,6 +971,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Code-Relief
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Firefighter-EMT-Recruitment-December
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Mayor-Francis-Suarez-Announces-a-200000-Donation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Page-Name-Cristy-John-Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Special-Message-Vendors
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/News-Media/Test-Page-Becky-training
@@ -1577,6 +1580,8 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/News-Press/TEST-News
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Programs
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/New-page
+Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Rental-Inquiry-Form
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Rental-Schedule
 Disallow: /About
 Disallow: /accessmiamijobs
@@ -1826,6 +1831,7 @@ Disallow: /Government/Boards-Committees/Sea-Level-Rise-Committee/Sea-Level-Rise-
 Disallow: /Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC-1
 Disallow: /Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-WDRC
 Disallow: /Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/What-Projects-Go-to-Wynwood-Design-Review-Committee-WDRC
+Disallow: /Government/City-Commission-First-Budget-Hearing-Comment-Registration-Form
 Disallow: /Government/City-Commission-Meeting-Public-Comment-Registration
 Disallow: /Government/City-Commission-Meeting-Public-Comment-Registration-Form
 Disallow: /Government/City-Facilities
@@ -2274,6 +2280,8 @@ Disallow: /LHCC/News-Press/TEST-News
 Disallow: /LHCC/Programs
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
+Disallow: /LHCC/Venues-Rentals/New-page
+Disallow: /LHCC/Venues-Rentals/Rental-Inquiry-Form
 Disallow: /LHCC/Venues-Rentals/Rental-Schedule
 Disallow: /Library
 Disallow: /Library/Background-Images
@@ -2554,6 +2562,7 @@ Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Copy-of-3922-930-AM-Special-Commission-Online-Public-Comment-Form-1
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Regular-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
@@ -2582,6 +2591,7 @@ Disallow: /Notices/News-Media/Code-Relief-Program-Updated-Regarding-Building-Pla
 Disallow: /Notices/News-Media/Copy-of-Firefighter-EMT-Recruitment-1
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment
 Disallow: /Notices/News-Media/Firefighter-EMT-Recruitment-December
+Disallow: /Notices/News-Media/Mayor-Francis-Suarez-Announces-a-200000-Donation
 Disallow: /Notices/News-Media/Page-Name-Cristy-John-Test
 Disallow: /Notices/News-Media/Special-Message-Vendors
 Disallow: /Notices/News-Media/Test-Page-Becky-training

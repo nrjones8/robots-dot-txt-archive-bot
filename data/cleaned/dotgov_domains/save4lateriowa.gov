@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.save4lateriowa.gov/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.save4lateriowa.gov/wp-sitemap.xml

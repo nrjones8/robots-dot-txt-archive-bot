@@ -1,2 +1,5 @@
 User-agent: *
-Disallow: /CMPEdit/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://lincolnalabama.com/wp-sitemap.xml

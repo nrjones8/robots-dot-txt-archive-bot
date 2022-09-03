@@ -46,6 +46,8 @@ Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
 Disallow: /search-results
+Disallow: /simple-styleguide
+Disallow: /styleguide/
 Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
