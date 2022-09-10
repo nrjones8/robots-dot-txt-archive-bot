@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: */error.aspx
+
+
+User-agent: googlebot
+Disallow: */error.aspx

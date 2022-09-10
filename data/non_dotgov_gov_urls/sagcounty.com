@@ -1,3 +1,1 @@
-# robots.txt for https://maine-webcams.com/
-User-agent: *
-Sitemap: https://maine-webcams.com/sitemap_index.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

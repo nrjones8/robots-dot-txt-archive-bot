@@ -1,3 +1,1 @@
-ï»¿
-User-agent: *
-Disallow: /maintenance/
+Request failed

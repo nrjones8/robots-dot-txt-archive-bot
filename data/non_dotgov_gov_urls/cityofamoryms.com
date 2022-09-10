@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /site/wp-admin/
-Allow: /site/wp-admin/admin-ajax.php
-
-Sitemap: http://www.cityofamoryms.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofamoryms.com', port=80): Read timed out. (read timeout=15)"}

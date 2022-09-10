@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='delawarenationalguard.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f38c46c9bb0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow:
+
+Sitemap: https://www.delawarenationalguard.com/sitemap_index.xml

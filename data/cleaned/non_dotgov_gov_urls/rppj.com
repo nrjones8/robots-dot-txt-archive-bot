@@ -78,7 +78,7 @@ Sitemap: https://cenlafcu.org/sitemap_index.xml
 Sitemap: https://ewingpools.com/sitemap_index.xml
 Sitemap: https://rayspharmacyrx.com/sitemap_index.xml
 Sitemap: https://hsmeagles.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/laaa/sitemap_index.xml
+Sitemap: https://louisianaambulancealliance.org/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/moil/sitemap_index.xml
 Sitemap: https://managinginjuries.com/sitemap_index.xml
 Sitemap: https://shipwreckedandrescued.com/sitemap_index.xml
@@ -95,8 +95,9 @@ Sitemap: https://waas.kbispweb.com/nrmcf/sitemap_index.xml
 Sitemap: https://lakeguerrerofishing.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/lgh/sitemap_index.xml
 Sitemap: https://stoperosionla.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/ato/sitemap_index.xml
+Sitemap: https://atoutdoormobility.com/sitemap_index.xml
 Sitemap: https://legallensproductionsllc.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/acmp/sitemap_index.xml
 Sitemap: https://oneroe.city/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/laa/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/cafe/sitemap_index.xml

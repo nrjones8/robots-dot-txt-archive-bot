@@ -1,1 +1,1 @@
-Error: Call to undefined method Joomla\CMS\Document\RawDocument::addFavicon(): View not found [name, type, prefix]: article, txt, contentView
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofmadera.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f38c4690fd0>, 'Connection to cityofmadera.org timed out. (connect timeout=15)'))"}
+Sitemap: https://www.madera.gov/sitemap.xml
+Sitemap: https://www.madera.gov/news-sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://www.madera.gov/sitemap_index.xml
