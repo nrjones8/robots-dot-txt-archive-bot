@@ -1,18 +1,20 @@
 # /robots.txt file for http://www.ok.gov/
 User-agent: *
-Disallow: /gesarch/
 Disallow: /sm.php
-Disallow: /redirect.php
-Disallow: /triton/*.php$
 Disallow: /sitemap.php
 Disallow: /agencies.php
 Disallow: /associations/
 Disallow: /businessdir
-Disallow: /genthree/calendar.php
+Disallow: /OACgrants/calendar/
+Disallow: /calendar.php
+Disallow: /calendar
+Disallow: /trs/sitemap.php
+Disallow: /trs/sitemap2.php
 Disallow: /cgi-bin/
 Disallow: /getipbanned/
 Disallow: /medlic/
 Disallow: /unclaimed/
+Disallow: /governor/display_article.php
 Disallow: /rss.php
 Disallow: /livehelp/
 Disallow: /genthree/
@@ -46,11 +48,3 @@ Disallow: *.hqx
 Disallow: *.bak
 Disallow: /display_page.php
 Disallow: /nursing/verify/
-Disallow: /triton/modules/calendar/calendar.php
-Disallow: /triton/modules/newsroom/newsroom_article.php
-Disallow: /triton/modules/siteindex/goto.php
-Disallow: /triton/modules/siteindex/siteindex.php
-#
-User-agent: archive.org_bot
-Disallow: /genthree/calendar.php
-Disallow: /triton/modules/calendar/calendar.php

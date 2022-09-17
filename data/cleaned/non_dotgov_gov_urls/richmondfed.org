@@ -1,1 +1,37 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+User-agent: *
+Disallow: /*?
+Disallow: /404
+Disallow: /500
+Disallow: /503
+Disallow: *.js*
+Disallow: /vrs/
+Disallow: *.css*
+Disallow: *.cgi*
+Disallow: *.jpg*
+Disallow: *.gif*
+Disallow: *.png*
+Disallow: *.tif*
+Disallow: *.svg*
+Disallow: /HTML/
+Disallow: /search/
+Disallow: /surveys/
+Disallow: *print=1*
+Disallow: /sitelib/
+Disallow: /500.html
+Disallow: /503.html
+Disallow: /offsite/
+Disallow: /feedback/
+Disallow: /resources/
+Disallow: /blank.html
+Disallow: /contact_us/
+Disallow: /ErrorPages/
+Disallow: /newemployeeconnections/
+Disallow: /publications/print_subscription
+Disallow: /publications/single_issue_pub_request
+Disallow: /publications/education/education_pub_request
+Disallow: /banking/education_for_bankers/speakers_bureau
+Disallow: /-/media/RichmondFedOrg/publications/research/working_papers/2019/wp19-08_data_educational_attainment.xlsx
+User-agent: Twitterbot
+Disallow:
+User-agent: facebookexternalhit
+Disallow:

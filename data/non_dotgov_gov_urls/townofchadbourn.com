@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
+Disallow: /test-forms/
 SITEMAP: http://townofchadbourn.com/sitemap.xml

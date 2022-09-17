@@ -1,8 +1,8 @@
 User-agent: Googlebot
-Disallow: /
+Allow: /
 
 User-agent: Bingbot
-Disallow: /
+Allow: /
 
 User-agent: FacebookBot
 Allow: /
@@ -13,6 +13,8 @@ Allow: /
 User-agent: Twitterbot
 Allow: /
 
+User-agent: www.deadlinkchecker.com
+Allow: /
 
 User-agent: *
 Disallow: /

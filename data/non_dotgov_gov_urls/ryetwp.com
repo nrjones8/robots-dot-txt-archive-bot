@@ -1,1 +1,2 @@
-404 NOT FOUND
+User-Agent: *
+Disallow:

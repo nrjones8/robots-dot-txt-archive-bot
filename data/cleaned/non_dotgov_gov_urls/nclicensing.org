@@ -1,12 +1,4 @@
-User-Agent: archive.org_bot
-Allow: /
-User-agent: *   # directed to all spiders, not just Scooter
-Disallow: /_asp
-Disallow: /_borders
-Disallow: /_fpclass
-Disallow: /_images
-Disallow: /_nosearch
-Disallow: /_overlay
-Disallow: /_private
-Disallow: /_themes
-Disallow: /_updates
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://nclicensing.org/sitemap_index.xml

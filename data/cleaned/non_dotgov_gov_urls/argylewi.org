@@ -1,1 +1,1 @@
-Got an HTML response
+Not Found [CFN #0005]
