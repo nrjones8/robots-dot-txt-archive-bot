@@ -328,7 +328,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Department-Page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
-Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -362,10 +361,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -753,14 +749,12 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Historic-and-Environmental-Preservation-Board-Announcements-Application
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
@@ -1030,6 +1024,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Reque
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Miami-21-Atlas-Rezone-Future-Land-Use-Map-FLUMComprehensive-PlanSpecial-Area-Plan-SAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezones/Request-a-Rezone/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezones/Request-a-RezoneFLUM-ChangeSAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezoning-Information
@@ -1869,7 +1864,6 @@ Disallow: /Government/Department/New-page
 Disallow: /Government/Department/Test-Building-Department-Page
 Disallow: /Government/Department/Test-Department-Page
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
-Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -1903,10 +1897,7 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civi
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Applications-Received
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -2369,14 +2360,12 @@ Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
 Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Historic-and-Environmental-Preservation-Board-Announcements-Application
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
@@ -2646,6 +2635,7 @@ Disallow: /Planning-Zoning-Land-Use/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Planning-Zoning-Land-Use/Rezones/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Miami-21-Atlas-Rezone-Future-Land-Use-Map-FLUMComprehensive-PlanSpecial-Area-Plan-SAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
+Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Rezone/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-RezoneFLUM-ChangeSAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /Planning-Zoning-Land-Use/Rezoning-Information

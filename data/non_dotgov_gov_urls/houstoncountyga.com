@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /online-services/sex-offender-registry.cms
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

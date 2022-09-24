@@ -46,10 +46,10 @@ Disallow: /redirect-pages.html
 Disallow: /http://hillsdaleny.com/
 Disallow: /https://dmv.ny.gov/nav/custom-plates
 Disallow: /http://cityofhudson.org
-Disallow: /https://translate.google.com/translate?sl=en&tl=es&u=columbiacountyny.com
 Disallow: /https://www.hudsonvalley360.com/
 Disallow: /emergency-services.html
 Disallow: /http://www.kinderhook-ny.gov/public_documents/index
+Disallow: /https://translate.google.com/translate?sl=en&tl=es&u=columbiacountyny.com
 Disallow: /engineering.html
 Disallow: /http://www.townoflivingston.org/
 Disallow: /facilities.html

@@ -5,4 +5,4 @@ disallow: /GlobalAdmin
 disallow: /aspx/Admin
 disallow: /error
 allow: /content/images
-sitemap: https://iowaeconomicdevelopment-site.azurewebsites.net/sitemap.xml
+sitemap: https://www.iowaeda.com/sitemap.xml

@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='chesterfield-sc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fba3e475a30>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+User-agent: *
+Allow: /
+
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://www.chesterfield-sc.com/sitemap.xml
+
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

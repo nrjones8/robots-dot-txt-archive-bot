@@ -36,7 +36,7 @@ Disallow: /Resources/Shared/
 Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
-Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /Activity-Feed/	# Do not index user profiles
 User-agent: Twitterbot
 Disallow: *
 Allow: /Portals/0/Images/*
@@ -76,7 +76,7 @@ Disallow: /Resources/Shared/
 Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
-Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /Activity-Feed/	# Do not index user profiles
 Crawl-delay: 5
 User-agent: Slurp
 Disallow: /*/ctl/		# Slurp permits *
@@ -112,7 +112,7 @@ Disallow: /Resources/Shared/
 Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
-Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /Activity-Feed/	# Do not index user profiles
 Crawl-delay: 5
 User-agent: Googlebot
 Disallow: /*/ctl/		# Googlebot permits *
@@ -130,7 +130,7 @@ Disallow: /Documentation/
 Disallow: /HttpModules/
 Disallow: /Install/
 Disallow: /Providers/
-Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /Activity-Feed/	# Do not index user profiles
 User-agent: Yahoo Pipes 1.0
 Disallow: /admin/
 Disallow: /App_Browsers/
@@ -164,5 +164,5 @@ Disallow: /Resources/Shared/
 Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
-Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /Activity-Feed/	# Do not index user profiles
 # End of robots.txt file

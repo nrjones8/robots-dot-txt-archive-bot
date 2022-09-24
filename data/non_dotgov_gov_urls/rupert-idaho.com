@@ -1,8 +1,8 @@
 User-agent: *
 Disallow: /Terms
 Disallow: /Privacy
-Allow: /
 Disallow: /Admin/
+Disallow: /Forms/
 Disallow: /SHStore/Checkout/*
 
 Sitemap: /sitemap.xml

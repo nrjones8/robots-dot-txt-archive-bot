@@ -1,2 +1,1 @@
-User-agent: *
-Sitemap: https://sanjuanciudadpatria.com/sitemap.xml
+Got an HTML response

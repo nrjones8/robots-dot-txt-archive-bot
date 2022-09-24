@@ -14,5 +14,11 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 
 Sitemap: http://www.johnsoncountywyoming.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

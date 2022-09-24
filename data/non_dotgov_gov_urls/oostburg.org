@@ -1,1 +1,15 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+Sitemap: https://www.oostburgwi.gov/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /agenda.html
+Disallow: /http://www.oostburgfire.org/
+Disallow: /elections.html
+Disallow: /http://www.oostburglibrary.org/
+Disallow: /government.html
+Disallow: /meeting-minutes.html
+Disallow: /member-access.html

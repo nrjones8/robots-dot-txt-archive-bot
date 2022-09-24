@@ -1,4 +1,1 @@
-User-agent: *
-Allow: /
-Disallow:
-Sitemap: https://www.virginiahousing.com/sitemap.xml
+Got an HTML response

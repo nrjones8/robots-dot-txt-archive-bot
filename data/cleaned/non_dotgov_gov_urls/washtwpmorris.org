@@ -1,5 +1,3 @@
-User-agent: *
-Disallow:
 User-agent: AhrefsBot
 Disallow: /
 User-agent: MJ12bot
@@ -68,4 +66,10 @@ User-agent: serpstat
 Disallow: /
 User-agent: spyfu
 Disallow: /
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 Sitemap: http://washtwpmorris.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

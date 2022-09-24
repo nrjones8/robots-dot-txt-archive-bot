@@ -1,3 +1,11 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+Sitemap: https://10.60.6.111/sitemap_index.xml
+Sitemap: https://10.60.6.111/ncja/sitemap_index.xml
+Sitemap: https://10.60.6.111/testthekits/sitemap_index.xml
+Sitemap: https://ncdoj.gov/opioidresources/sitemap_index.xml
+Sitemap: https://10.60.6.111/opioid/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

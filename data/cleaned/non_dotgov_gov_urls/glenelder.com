@@ -27,12 +27,14 @@ Disallow: /http://www.glenelder.com/city-library.html
 Disallow: /library-summer-reading-program.html
 Disallow: /ge-cloverleaf-4-h.html
 Disallow: /library-open-house.html
+Disallow: /mower-for-sale.html
 Disallow: /summer-kickoff.html
+Disallow: /public-hearing.html
 Disallow: /hamburger-feed.html
 Disallow: /storage.html
-Disallow: /mower-for-sale.html
-Disallow: /2021-funday-schedule.html
 Disallow: /election-information.html
+Disallow: /2021-funday-schedule.html
+Disallow: /video---capitol-improvement-meeting.html
 Disallow: /spagetti-dinner.html
 Disallow: /2018-chili-cook-off.html
 Disallow: /upcoming-energy-bill.html

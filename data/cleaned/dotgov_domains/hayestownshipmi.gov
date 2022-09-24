@@ -1,5 +1,3 @@
-User-agent: *
-Disallow:
 Disallow: /calendar-board/action~posterboard/
 Disallow: /calendar-board/action~agenda/
 Disallow: /calendar-board/action~oneday/
@@ -13,4 +11,10 @@ Disallow: /calendar-board/action~poster/
 Disallow: /calendar-board/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 Sitemap: https://www.hayestownshipmi.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
