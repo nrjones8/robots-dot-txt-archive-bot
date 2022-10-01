@@ -1,2 +1,1 @@
-User-agent: * 
-Crawl-Delay: 20
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.chcc.gov.mp', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d99e82580>, 'Connection to www.chcc.gov.mp timed out. (connect timeout=15)'))"}

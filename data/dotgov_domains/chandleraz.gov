@@ -59,3 +59,16 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+
+# Chandler Custom
+Disallow: /taxonomy/term/*
+Disallow: /blog/category/*
+Disallow: /search/*?
+Disallow: /explore/chandler-parks/guide/*?
+Disallow: /explore/special-events/*?
+Disallow: /news-center/*?
+Disallow: /events/*?
+Disallow: /blog/*?
+
+# Here's a solution if you want to disallow all query strings
+#Disallow: /*?

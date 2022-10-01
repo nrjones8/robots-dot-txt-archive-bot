@@ -1,1 +1,4 @@
-Got an HTML response
+# www.robotstxt.org/
+# Allow crawling of all content
+User-agent: *
+Disallow:

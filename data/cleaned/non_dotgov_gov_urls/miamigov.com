@@ -55,7 +55,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/accessmiamijobs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/adjacent
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Alpha-services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Alpha-services/311-Test-Page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Copy-of-Information-About-the-COVID-19-Coronavirus-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Hurricane-Ian-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/appealart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Appeal-a-Warrant-or-Waiver
@@ -88,8 +88,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/TEST-Image-Gallery
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business/Understanding-the-Citys-Sign-Code
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/Guide-to-Working-for-The-City-of-Miami
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Officials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityattorney
@@ -694,7 +692,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/interimparking
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Internal-Styles
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/isaias
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/itsupport
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/jobguide
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library/Background-Images
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library/Copy-of-Background-Images
@@ -792,9 +789,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Hous
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Guide-to-City-of-Miami-Jobs
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Guide-to-Working-for-the-City-of-Miami
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/Opportunity-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
@@ -872,6 +866,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-029-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-030-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-031-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-032-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-035-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-036-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-037-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -907,6 +905,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-030
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-031
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-032
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-035
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-036
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-037
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-038
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -1578,7 +1580,7 @@ Disallow: /accessmiamijobs
 Disallow: /adjacent
 Disallow: /Alpha-services
 Disallow: /Alpha-services/311-Test-Page
-Disallow: /Announcements/Copy-of-Information-About-the-COVID-19-Coronavirus-1
+Disallow: /Announcements/Hurricane-Ian-Updates
 Disallow: /Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /appealart
 Disallow: /Appeal-a-Warrant-or-Waiver
@@ -1611,8 +1613,6 @@ Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /Careers-Jobs/Guide-to-Working-for-The-City-of-Miami
-Disallow: /Careers-Jobs/New-page
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
 Disallow: /cityattorney
@@ -2230,7 +2230,6 @@ Disallow: /interimparking
 Disallow: /Internal-Styles
 Disallow: /isaias
 Disallow: /itsupport
-Disallow: /jobguide
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Back-to-School-Health-Fair
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/La-Mode-Eclectic-Showcase
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Tap-Tap-Golf-Cart-Tours-Grand-Opening
@@ -2403,9 +2402,6 @@ Disallow: /My-Government/Departments/Housing-Community-Development/Single-Family
 Disallow: /My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program
 Disallow: /My-Government/Departments/Housing-Community-Development/Small-Business-Emergency-Loan-Program-2
 Disallow: /My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
-Disallow: /My-Government/Departments/Human-Resources/Guide-to-City-of-Miami-Jobs
-Disallow: /My-Government/Departments/Human-Resources/Guide-to-Working-for-the-City-of-Miami
-Disallow: /My-Government/Departments/Human-Resources/New-page
 Disallow: /My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /My-Government/Departments/Human-Services/Opportunity-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
@@ -2483,6 +2479,10 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-029-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-030-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-031-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-032-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-035-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-036-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-037-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2518,6 +2518,10 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-030
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-031
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-032
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-035
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-036
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-037
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-038
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics

@@ -1,4 +1,8 @@
+Disallow: /wp-content/uploads/wpforms/
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
 Disallow:
-Disallow: /wp-content/uploads/wpforms/
 Sitemap: https://cityofvalley.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

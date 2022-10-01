@@ -1,2 +1,1 @@
-User-Agent: *
-Disallow:
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='shawneetownship.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d9a3ed280>, 'Connection to shawneetownship.com timed out. (connect timeout=15)'))"}

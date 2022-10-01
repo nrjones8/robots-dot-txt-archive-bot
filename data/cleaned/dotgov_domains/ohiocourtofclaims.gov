@@ -1,5 +1,3 @@
-User-agent: *
-Disallow:
 # Stop bots from crawling junk URLs
 User-agent: *
 Disallow: /*?s=*
@@ -76,4 +74,10 @@ User-agent: Sogou web spider
 Disallow: /
 User-agent: coccoc
 Disallow: /
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 Sitemap: https://ohiocourtofclaims.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

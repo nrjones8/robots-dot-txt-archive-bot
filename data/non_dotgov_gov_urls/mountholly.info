@@ -1,5 +1,3 @@
-User-agent: *
-Disallow:
 User-agent: AhrefsBot
 Disallow: /
 
@@ -105,4 +103,12 @@ Disallow: /
 User-agent: spyfu
 Disallow: /
 
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
 Sitemap: https://www.mountholly.info/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.historicsumpter.com/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

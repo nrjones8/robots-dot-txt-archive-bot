@@ -1,1 +1,1 @@
-Request failed
+{"error":{"root_cause":[{"type":"security_exception","reason":"missing authentication credentials for REST request [/robots.txt]","header":{"WWW-Authenticate":["Basic realm=\"security\" charset=\"UTF-8\"","ApiKey"]}}],"type":"security_exception","reason":"missing authentication credentials for REST request [/robots.txt]","header":{"WWW-Authenticate":["Basic realm=\"security\" charset=\"UTF-8\"","ApiKey"]}},"status":401}
