@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='drainoregon.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d9a1667f0>, 'Connection to drainoregon.org timed out. (connect timeout=15)'))"}
+Sitemap: http://drainoregon.org/sitemap.xml
+Sitemap: http://drainoregon.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

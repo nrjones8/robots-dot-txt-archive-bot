@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='castlewoodcity.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d99ba64f0>, 'Connection to castlewoodcity.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://www.castlewoodcity.com/sitemap.xml
+Sitemap: https://www.castlewoodcity.com/sitemap.rss
+

@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.doleta.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f4d99bf9220>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"}
+User-agent: *
+Disallow: /advanced_search/
+Disallow: /_tools/
+Disallow: /includes/
+Disallow: /cfc/
+Disallow: /css/
+Disallow: /includes/
+Disallow: /scripts/
+Disallow: /includes/
+Disallow: /sitemap.cfm
+Disallow: /leaving.cfm
+Disallow: /leave.cfm
+Disallow: /printer_page.cfm
+Disallow: /msg.cfm
+Disallow: /search.cfm
+Disallow: /print-page.cfm
+

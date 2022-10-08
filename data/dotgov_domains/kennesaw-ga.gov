@@ -1,5 +1,3 @@
-User-agent: *
-Disallow:
 Disallow: /events-calendar/action~posterboard/
 Disallow: /events-calendar/action~agenda/
 Disallow: /events-calendar/action~oneday/
@@ -13,6 +11,11 @@ Disallow: /events-calendar/action~poster/
 Disallow: /events-calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 
 Sitemap: https://www.kennesaw-ga.gov/sitemap_index.xml
-Disallow: /wp-content/plugins/vimeography/lib/shared/assets/
+# ---------------------------
+# END YOAST BLOCKDisallow: /wp-content/plugins/vimeography/lib/shared/assets/

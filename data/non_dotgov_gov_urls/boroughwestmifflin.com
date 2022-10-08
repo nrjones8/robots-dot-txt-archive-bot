@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='boroughwestmifflin.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d9a34d940>, 'Connection to boroughwestmifflin.com timed out. (connect timeout=15)'))"}
+User-Agent: *
+Allow: 
+Sitemap: http://169.174.69.216.host.secureserver.net/sitemap.xml

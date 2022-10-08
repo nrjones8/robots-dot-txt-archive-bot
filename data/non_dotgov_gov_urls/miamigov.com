@@ -747,11 +747,12 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Historic-and-Environmental-Preservation-Board-Announcements-Application
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
@@ -2360,11 +2361,12 @@ Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
 Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Historic-and-Environmental-Preservation-Board-Announcements-Application
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page

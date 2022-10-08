@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofbordentown.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f4d99bbdd30>, 'Connection to cityofbordentown.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://cityofbordentown.com/wp-sitemap.xml
+
+Sitemap: https://cityofbordentown.com/xmlsitemap.xml
+
+Allow: /rsssitemap.xml
+Allow: /rsslatest.xml
+Allow: /htmlsitemap.htm
+
