@@ -14,5 +14,11 @@ Disallow: /calendar-2/action~poster/
 Disallow: /calendar-2/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 
 Sitemap: https://middleburgheights.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

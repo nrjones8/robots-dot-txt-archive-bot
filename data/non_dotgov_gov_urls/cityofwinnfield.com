@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /404
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofwinnfield.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61455a2130>, 'Connection to cityofwinnfield.com timed out. (connect timeout=15)'))"}

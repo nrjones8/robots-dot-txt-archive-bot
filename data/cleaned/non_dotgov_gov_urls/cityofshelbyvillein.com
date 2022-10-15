@@ -1,4 +1,6 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.cityofshelbyvillein.com/wp-sitemap.xml
+Allow: /
+sitemap: http://cityofshelbyvillein.com/sitemapindex.xml
+sitemap: http://cityofshelbyvillein.com/sitemapindeximages.xml
+sitemap: http://cityofshelbyvillein.com/sitemapnewindex.xml
+sitemap: http://cityofshelbyvillein.com/sitemapmobileindex.xml

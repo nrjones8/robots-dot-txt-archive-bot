@@ -1,7 +1,8 @@
-# Default Flywheel robots file
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Allow: /*?v
-Disallow: /calendar/action*
-Disallow: /events/action*
-Disallow: /*?
-Crawl-delay: 3
+Disallow:
+
+Sitemap: https://www.kansascommerce.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,8 +1,5 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://www.townofrockville.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
