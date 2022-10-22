@@ -1,4 +1,7 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.mycarrabelle.com/wp-sitemap.xml
+Disallow:
+Sitemap: https://www.mycarrabelle.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

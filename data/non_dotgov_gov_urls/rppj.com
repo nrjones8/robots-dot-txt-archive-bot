@@ -101,5 +101,5 @@ Sitemap: https://atoutdoormobility.com/sitemap_index.xml
 Sitemap: https://legallensproductionsllc.com/sitemap_index.xml
 Sitemap: https://cenlamoviesinthepark.com/sitemap_index.xml
 Sitemap: https://oneroe.city/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/laa/sitemap_index.xml
+Sitemap: https://drbenclose.com/sitemap_index.xml
 Sitemap: https://cafedesoto.com/sitemap_index.xml

@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /images/
-Disallow: /library/
-Sitemap: http://slph.ncpublichealth.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

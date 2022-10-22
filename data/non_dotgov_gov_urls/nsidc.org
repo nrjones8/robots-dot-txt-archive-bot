@@ -36,6 +36,8 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
+# Keep out of our old Drupal 7 files until we can phase them out (20221020)
+Disallow: /sites/nsidc.org/files/
 # Files
 Disallow: /README.txt
 Disallow: /web.config

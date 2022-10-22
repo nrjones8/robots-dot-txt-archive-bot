@@ -1,1 +1,13 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /suggestion/
+Disallow: /portfolio/
+Disallow: /mediarequest/
+Disallow: /hometownheroes/
+Disallow: /ajax/
+Disallow: /search/
+Disallow: /tags/
+Disallow: /download/
+Disallow: /holiday/ecard/
+Disallow: /comment/
+Allow: /
+

@@ -4,4 +4,4 @@ Disallow: /products/eval-pdf/*
 Disallow: /products/purchase/*
 Disallow: /links/go
 
-Sitemap: https://sftool.ecomedes.com/sitemap.xml
+Sitemap: sftool.ecomedes.com/sitemap.xml

@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://riverton-nj.com/sitemap.xml
+Sitemap: https://riverton-nj.com/sitemap.rss
+

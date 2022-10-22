@@ -1,3 +1,9 @@
+User-agent: PopeTech-CrawlBot
+Disallow:
+User-agent: PopeTech-ScanBot
+Disallow:
+User-agent: ^Byte
+Disallow: /
 User-agent: *
 Disallow: /cgi/areyousure.cgi
 Disallow: /cgi/author_dashboard.cgi

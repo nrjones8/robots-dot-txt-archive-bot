@@ -6,7 +6,6 @@ Allow: /
 # now block specific directories
 
 User-agent: *
-Disallow: /hserferbewvmd/
 Disallow: /sitecore/
 Disallow: /oec-beta/
 Disallow: /Training/
@@ -40,3 +39,4 @@ Disallow: /wcc-beta
 
 # help google find the sitemap
 Sitemap: https://portal.ct.gov/sitemap.xml
+Sitemap: https://portal.ct.gov/dmv-sitemap.xml

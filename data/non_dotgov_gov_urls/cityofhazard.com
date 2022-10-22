@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://www.cityofhazard.com/sitemap.rss
+
+
+Sitemap: https://www.cityofhazard.com/sitemap.xml
