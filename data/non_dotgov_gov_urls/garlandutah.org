@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='garlandutah.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa25ca57e50>, 'Connection to garlandutah.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow:
+
+Sitemap: https://www.garlandutah.org/sitemap_index.xml

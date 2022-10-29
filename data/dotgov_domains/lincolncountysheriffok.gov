@@ -1,1 +1,18 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lincolncountysheriffok.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa25d49d5b0>, 'Connection to lincolncountysheriffok.gov timed out. (connect timeout=15)'))"}
+User-agent: * 
+Disallow: /acess-denied.php
+Disallow: /application-confirmed.php
+Disallow: /booking-results2.php
+Disallow: /forgotpassword.php
+Disallow: /job-detail.php*
+Disallow: /login.php
+Disallow: /logout.php
+Disallow: /our-history.php
+Disallow: /post.php*
+Disallow: /tip-confirm.php
+Disallow: /admin
+Disallow: /Connections
+Disallow: /files
+Disallow: /webassist
+
+Sitemap: 
+

@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='gorockingham.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa25cc7ae50>, 'Connection to gorockingham.com timed out. (connect timeout=15)'))"}
+User-agent: *

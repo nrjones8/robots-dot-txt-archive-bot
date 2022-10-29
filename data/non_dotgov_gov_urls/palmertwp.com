@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='palmertwp.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa25cf2d2e0>, 'Connection to palmertwp.com timed out. (connect timeout=15)'))"}
+User-agent: * 
+Disallow:/editor/
+Sitemap: https://www.palmertwp.com/sitemap.xml

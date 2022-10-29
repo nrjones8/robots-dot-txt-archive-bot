@@ -1,15 +1,1 @@
-USER-AGENT: *
-DISALLOW: /Search/
-Disallow: /AlternateSites/testsite/
-Disallow: /alternatesites/testsite/
-Disallow: /healthiestweight/
-
-# Added newsroom directory allow 12-4-2019
-Allow: /newsroom/
-Allow: /about/
-
-Disallow: /about-the-department-of-health/
-Disallow: siteimprove_timer_test.html
-Disallow: web-admin-oncall.html
-
-Sitemap: http://www.floridahealth.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}

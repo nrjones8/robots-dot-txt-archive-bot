@@ -71,7 +71,7 @@ Sitemap: https://rapides911.org/sitemap_index.xml
 Sitemap: https://spiritscenla.com/sitemap_index.xml
 Sitemap: https://socialservices.jenachoctaw.org/sitemap_index.xml
 Sitemap: https://education.jenachoctaw.org/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/apd/sitemap_index.xml
+Sitemap: https://alexandrialapolice.org/sitemap_index.xml
 Sitemap: https://kristinaeventsandweddings.com/sitemap_index.xml
 Sitemap: https://monroe.org/sitemap_index.xml
 Sitemap: https://cenlafcu.org/sitemap_index.xml

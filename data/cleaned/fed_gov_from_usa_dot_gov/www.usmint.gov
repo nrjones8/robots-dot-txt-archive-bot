@@ -1,4 +1,11 @@
 User-agent: *
 Disallow: /wordpress/wp-admin/
 Allow: /wordpress/wp-admin/admin-ajax.php
-Sitemap: https://www.usmint.gov/wp-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-json/
+Disallow: /?rest_route=
+Sitemap: https://www.usmint.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

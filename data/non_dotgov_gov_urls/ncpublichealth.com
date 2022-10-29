@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 530}
+User-agent: *
+Disallow: /lhd/nurseportal/
+Disallow: /aspnet_client/
+Disallow: /dphlibrary/
+Disallow: /library/
+Disallow: /images/
+Disallow: /oralhealth/library/includes/StaffForms/
+Sitemap: http://publichealth.nc.gov/sitemap.xml

@@ -1,8 +1,7 @@
+User-agent: NerdyBot
+Disallow: /
+
 User-agent: *
-Disallow: /apps/
-Disallow: /applications/
-Disallow: /members/
-Disallow: /resources/
-Allow: /resources/websites/snappages.min.*.css
-Disallow: /users/
-Sitemap: http://christiancountyky.gov/sitemap.xml
+Disallow: /assets/*
+Disallow: /data/*
+Disallow: /tours/*

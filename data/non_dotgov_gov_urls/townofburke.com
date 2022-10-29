@@ -1,4 +1,9 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
 
-#Begin Attracta SEO Tools Sitemap. Do not remove
-sitemap: http://cdn.attracta.com/sitemap/1674554.xml.gz
-#End Attracta SEO Tools Sitemap. Do not remove
+User-agent: *
+Disallow: /

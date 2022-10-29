@@ -1,1 +1,8 @@
-Request failed
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://sanfordfl.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
