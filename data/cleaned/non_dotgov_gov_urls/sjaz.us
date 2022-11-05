@@ -1,1 +1,5 @@
-Request failed
+User-Agent: *
+Disallow: /wp-admin/
+User-Agent: Googlebot
+Allow: /*.js*
+Allow: /*.css*

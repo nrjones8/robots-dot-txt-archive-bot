@@ -869,6 +869,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-035-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-036-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-037-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-040-Designation-as-a-Historic-Resource-1250-SW-6-St-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-042-SCOA-1836-Biscayne-Blvd-and-256-NE-19-St-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-043-SCOA-498-NE-55-Ter-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-044-SCOA-420-NE-62-St-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -908,6 +912,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-036
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-037
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-038
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-040-Designation-as-a-Historic-Resource-1250-SW-6-St
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-042-SCOA-1836-Biscayne-Blvd-and-256-NE-19-St
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-043-SCOA-498-NE-55-Ter
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-044-SCOA-420-NE-62-St
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-046-Appeal-Intended-Decision-BD22-003165-001-4300-NE-1-AV
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -2502,6 +2511,10 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-035-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-036-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-037-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-040-Designation-as-a-Historic-Resource-1250-SW-6-St-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-042-SCOA-1836-Biscayne-Blvd-and-256-NE-19-St-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-043-SCOA-498-NE-55-Ter-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-22-044-SCOA-420-NE-62-St-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-037
@@ -2541,6 +2554,11 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-036
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-037
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-038
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-040-Designation-as-a-Historic-Resource-1250-SW-6-St
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-042-SCOA-1836-Biscayne-Blvd-and-256-NE-19-St
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-043-SCOA-498-NE-55-Ter
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-044-SCOA-420-NE-62-St
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-22-046-Appeal-Intended-Decision-BD22-003165-001-4300-NE-1-AV
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics

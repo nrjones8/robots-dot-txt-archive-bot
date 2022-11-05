@@ -1,10 +1,5 @@
 User-agent: *
-Sitemap: http://www.schaumburgtownship.org/sitemap.xml
-Disallow: /doc/
-Disallow: /install/
-Disallow: /lib/
-Disallow: /modules/
-Disallow: /module_custom/
-Disallow: /plugins/
-Disallow: /scripts/
-Disallow: /tmp/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Sitemap: https://schaumburgtownship.org/sitemap.xml
+Sitemap: https://schaumburgtownship.org/sitemap.rss

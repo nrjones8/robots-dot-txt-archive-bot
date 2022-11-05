@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofarietta.com', port=80): Read timed out. (read timeout=15)"}
+# Robots.txt file from http://www.townofarietta.com
+
+Sitemap: http://www.townofarietta.com/sitemap.xml
+
+User-agent: *
+Disallow:

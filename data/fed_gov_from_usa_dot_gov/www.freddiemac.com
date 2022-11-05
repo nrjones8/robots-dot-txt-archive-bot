@@ -55,6 +55,7 @@ Disallow: /user/login/
 Disallow: /user/logout/
 Disallow: /pmms/pmmsthin.html
 Disallow: /pmms/pmmsthick.html
+Disallow: /pmms/mortgage-rates-data-request-form
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

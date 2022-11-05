@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cowcreek-nsn.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe66bbd8dc0>, 'Connection to cowcreek-nsn.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Crawl-delay: 15
+Disallow: /cgi-bin
+Disallow: /wordpress/wp-content/uploads/2015/02/Application-for-Enrollment-Adult1.pdf
+Sitemap: https://www.cowcreek.com/sitemap.xml
