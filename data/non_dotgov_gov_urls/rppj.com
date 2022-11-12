@@ -1,9 +1,11 @@
-User-agent: *
-Disallow:
 Disallow: /wp-content/uploads/sites/122/wpforms/
 
-Sitemap: https://rppj.com/sitemap_index.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
 
+Sitemap: https://rppj.com/sitemap_index.xml
 Sitemap: https://alexwinterfete.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/vault/sitemap_index.xml
 Sitemap: https://globaltradeinnovations.com/sitemap_index.xml
@@ -14,13 +16,12 @@ Sitemap: https://teaguejones.com/sitemap_index.xml
 Sitemap: https://nextgenerationinsulation.com/sitemap_index.xml
 Sitemap: https://brianelectriccompany.com/sitemap_index.xml
 Sitemap: https://chrischelette.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/alex-river-fete/sitemap_index.xml
+Sitemap: https://greatamericancookiesandmarbleslabcreamery.com/sitemap_index.xml
 Sitemap: https://provisionsoperating.com/sitemap_index.xml
 Sitemap: https://ypgcenla.org/sitemap_index.xml
 Sitemap: https://swlaimaging.com/sitemap_index.xml
 Sitemap: https://lang-recruiting.com/sitemap_index.xml
 Sitemap: https://phillipterrellda.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/phillip-terrell-da/sitemap_index.xml
 Sitemap: https://agilushealth.com/sitemap_index.xml
 Sitemap: https://www.alexregenerativecenter.com/sitemap_index.xml
 Sitemap: https://alexmardigras.net/sitemap_index.xml
@@ -46,7 +47,6 @@ Sitemap: https://naturallyims.com/sitemap_index.xml
 Sitemap: https://stateofthecitymonroe.com/sitemap_index.xml
 Sitemap: https://iattlakecabinsandkayaks.com/sitemap_index.xml
 Sitemap: https://gaeda.org/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/test/sitemap_index.xml
 Sitemap: https://kidcarela.com/sitemap_index.xml
 Sitemap: https://glomedspaalex.com/sitemap_index.xml
 Sitemap: https://funroefavorites.com/sitemap_index.xml
@@ -56,7 +56,6 @@ Sitemap: https://ywcaalexandria.org/sitemap_index.xml
 Sitemap: https://vernonparishcoc.com/sitemap_index.xml
 Sitemap: https://health.jenachoctaw.org/sitemap_index.xml
 Sitemap: https://alexandriacitymarshal.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/rss/sitemap_index.xml
 Sitemap: https://cpptheatre.com/sitemap_index.xml
 Sitemap: https://bunkie-general.com/sitemap_index.xml
 Sitemap: https://athletics-academics.com/sitemap_index.xml
@@ -103,3 +102,8 @@ Sitemap: https://cenlamoviesinthepark.com/sitemap_index.xml
 Sitemap: https://oneroe.city/sitemap_index.xml
 Sitemap: https://drbenclose.com/sitemap_index.xml
 Sitemap: https://cafedesoto.com/sitemap_index.xml
+Sitemap: https://alexandriacitycourt.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/clsh/sitemap_index.xml
+Sitemap: https://cenlacpas.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-
-Sitemap: https://mcmregistration.com/sitemap.xml
-Sitemap: https://mcmregistration.com/sitemap.rss
-
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

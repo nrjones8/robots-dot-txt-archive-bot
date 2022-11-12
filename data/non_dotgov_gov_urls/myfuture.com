@@ -14,6 +14,7 @@ Allow: /college/paying
 Allow: /college/attending
 Allow: /military/joining
 Allow: /military/serving
+Disallow: /*?
 Disallow: /search/results/college
 Disallow: /search/results/military
 Disallow: /search/results/career

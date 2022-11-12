@@ -1,7 +1,1 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
-
-Sitemap: https://lisbonnd.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 523}

@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /trees-for-suffield-clone$
+Disallow: /trees-for-suffield-clone?
+Disallow: /trees-for-suffield-clone/~
 Disallow: /archived-elements/suffield-summer-fair$
 Disallow: /archived-elements/suffield-summer-fair?
 Disallow: /archived-elements/suffield-summer-fair/~
@@ -50,6 +53,9 @@ Disallow: /home-summer-fair-testing/~
 Disallow: /archived-elements/suffield-summer-fair-linked$
 Disallow: /archived-elements/suffield-summer-fair-linked?
 Disallow: /archived-elements/suffield-summer-fair-linked/~
+Disallow: /seniors-clone$
+Disallow: /seniors-clone?
+Disallow: /seniors-clone/~
 Disallow: /home-summer-fair-testing-2$
 Disallow: /home-summer-fair-testing-2?
 Disallow: /home-summer-fair-testing-2/~
@@ -95,12 +101,12 @@ Disallow: /production/news-elements/news-list/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
-Disallow: /production/constituent/directory$
-Disallow: /production/constituent/directory?
-Disallow: /production/constituent/directory/~
 Disallow: /building-clone$
 Disallow: /building-clone?
 Disallow: /building-clone/~
+Disallow: /production/constituent/directory$
+Disallow: /production/constituent/directory?
+Disallow: /production/constituent/directory/~
 Disallow: /our-town/news/town-news-default$
 Disallow: /our-town/news/town-news-default?
 Disallow: /our-town/news/town-news-default/~

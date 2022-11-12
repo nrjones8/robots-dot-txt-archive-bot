@@ -70,6 +70,7 @@ Disallow: /user_subscribe.cgi
 Disallow: /useradd.cgi
 Disallow: /do/email_editor
 Disallow: /do/
+Disallow: /fe-journals/
 
 sitemap: https://digitalmaine.com/siteindex.xml
 sitemap: https://digitalmaine.com/exhibit/sitemap.xml
