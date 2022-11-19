@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /mor
 Disallow: /docs/
 
-SITEMAP: # CT's PROD URL
+SITEMAP: https://ctbiglist.com/sitemap.xml

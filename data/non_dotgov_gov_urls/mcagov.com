@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mcagov.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8e062e04c0>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

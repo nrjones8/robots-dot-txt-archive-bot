@@ -85,7 +85,7 @@ Sitemap: https://managinginjuries.com/sitemap_index.xml
 Sitemap: https://shipwreckedandrescued.com/sitemap_index.xml
 Sitemap: https://checla.com/sitemap_index.xml
 Sitemap: https://soilind.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/n527pn/sitemap_index.xml
+Sitemap: https://n527pn.com/sitemap_index.xml
 Sitemap: https://joinapdla.org/sitemap_index.xml
 Sitemap: https://tudorcompanies.com/sitemap_index.xml
 Sitemap: https://linksonthebayou.com/sitemap_index.xml

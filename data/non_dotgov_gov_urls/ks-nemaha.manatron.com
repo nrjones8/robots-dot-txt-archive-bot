@@ -2,7 +2,7 @@
 #/-----------------------------------------------\
 #|                                               |
 #|                                               |
-# -----------> Thomson Reuters, Inc <------------|
+# ----------> Aumentum Technologies <------------|
 #|                                               |
 #|                                               |
 #\-----------------------------------------------/
@@ -146,6 +146,9 @@ Disallow: /
 
 User-agent: BLEXBot
 Disallow: /
+
+User-agent: DnBCrawler-Analytics
+Disallow:/
 
 User-agent: WikiDo
 Disallow: /

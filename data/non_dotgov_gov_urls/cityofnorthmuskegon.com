@@ -1,9 +1,1 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
-
-User-agent: *
-Disallow: /
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

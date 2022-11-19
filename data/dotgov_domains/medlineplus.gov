@@ -1,18 +1,1 @@
-Sitemap: https://medlineplus.gov/sitemap.xml
-User-agent: *
-Disallow: /URLchecker/
-Disallow: /usp/
-Disallow: /cgi/
-Disallow: /logs/
-Disallow: /glftp/
-Disallow: /feeds/topics/
-Disallow: /groupfeeds/
-Disallow: /spanish/feeds/topics/
-Disallow: /spanish/groupfeeds/
-Disallow: /xml/
-Disallow: /xml/vocabulary/
-Disallow: /scwidget/topsearch.html
-Disallow: /spanish/scwidget/topsearch.html
-Disallow: /tutorials/*.swf$
-Disallow: /spanish/tutorials/*.swf$
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='medlineplus.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5ccf31cfd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://williamstown.ws/wp-sitemap.xml
-
-Sitemap: http://williamstown.ws/sitemap.xml.gz
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

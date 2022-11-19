@@ -4,7 +4,7 @@ Crawl-delay: 5
 
 # Rule 2: Block search results from being indexed
 User-agent: *
-Disallow: /*?
+Disallow: /*?*
 
 # Rule 3: Allow all the bots
 User-agent: *
@@ -24,4 +24,10 @@ User-agent: AhrefsBot
 Disallow: /
 
 User-agent: SemrushBot/1.2~bl
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AddThis.com
 Disallow: /

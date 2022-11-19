@@ -149,3 +149,13 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+
+
+
+
+User-agent: Siteimprove
+Crawl-delay: 20
+User-agent: Siteimprovebot
+Crawl-delay: 20
+User-agent: Siteimprovebot-crawler
+Crawl-delay: 20
