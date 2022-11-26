@@ -6,4 +6,5 @@ Disallow: /About-CEA/Contracting-Employment/jobs/*
 Disallow: /Global-Content
 Disallow: /Home/Masthead
 Disallow: /UserFiles/*
+Disallow: *?locale=*
 

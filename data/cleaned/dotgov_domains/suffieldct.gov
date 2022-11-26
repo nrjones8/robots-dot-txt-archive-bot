@@ -35,12 +35,12 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /trees-for-suffield-clone$
-Disallow: /trees-for-suffield-clone?
-Disallow: /trees-for-suffield-clone/~
 Disallow: /archived-elements/suffield-summer-fair$
 Disallow: /archived-elements/suffield-summer-fair?
 Disallow: /archived-elements/suffield-summer-fair/~
+Disallow: /trees-for-suffield-clone$
+Disallow: /trees-for-suffield-clone?
+Disallow: /trees-for-suffield-clone/~
 Disallow: /agendas-minutes-clone$
 Disallow: /agendas-minutes-clone?
 Disallow: /agendas-minutes-clone/~
@@ -80,12 +80,12 @@ Disallow: /archived-elements/inclusivity/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
-Disallow: /home-mock-up-nov21$
-Disallow: /home-mock-up-nov21?
-Disallow: /home-mock-up-nov21/~
 Disallow: /government/agendas-minutes/agendas-minutes-posts$
 Disallow: /government/agendas-minutes/agendas-minutes-posts?
 Disallow: /government/agendas-minutes/agendas-minutes-posts/~
+Disallow: /home-mock-up-nov21$
+Disallow: /home-mock-up-nov21?
+Disallow: /home-mock-up-nov21/~
 Disallow: /under-construction$
 Disallow: /under-construction?
 Disallow: /under-construction/~
@@ -98,9 +98,6 @@ Disallow: /production/news-elements/news-list/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
-Disallow: /building-clone$
-Disallow: /building-clone?
-Disallow: /building-clone/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
@@ -110,6 +107,9 @@ Disallow: /our-town/news/town-news-default/~
 Disallow: /production/posts/new-page$
 Disallow: /production/posts/new-page?
 Disallow: /production/posts/new-page/~
+Disallow: /building-clone$
+Disallow: /building-clone?
+Disallow: /building-clone/~
 Disallow: /government/live-streaming$
 Disallow: /government/live-streaming?
 Disallow: /government/live-streaming/~
@@ -254,9 +254,6 @@ Disallow: /production/page-layout/production/page-layout/1-column-layout/~
 Disallow: /production/page-layout/production/page-layout/three-columns-middle$
 Disallow: /production/page-layout/production/page-layout/three-columns-middle?
 Disallow: /production/page-layout/production/page-layout/three-columns-middle/~
-Disallow: /home-clone$
-Disallow: /home-clone?
-Disallow: /home-clone/~
 Disallow: /production/page-layout/three-column-bottom$
 Disallow: /production/page-layout/three-column-bottom?
 Disallow: /production/page-layout/three-column-bottom/~
@@ -272,6 +269,9 @@ Disallow: /production/page-layout/4-column-layout/~
 Disallow: /production/page-layout/3-column-layout$
 Disallow: /production/page-layout/3-column-layout?
 Disallow: /production/page-layout/3-column-layout/~
+Disallow: /home-clone$
+Disallow: /home-clone?
+Disallow: /home-clone/~
 Disallow: /production/page-layout/two-columns-top$
 Disallow: /production/page-layout/two-columns-top?
 Disallow: /production/page-layout/two-columns-top/~
