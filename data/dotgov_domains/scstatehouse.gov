@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-Agent:*
+Disallow:/images/
+Disallow:/jpeg/
+Disallow:/gif/
+Disallow:/dashboard/
+Disallow:/sys/
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Riddler
+Disallow: /

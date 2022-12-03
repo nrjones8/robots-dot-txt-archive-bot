@@ -1,27 +1,15 @@
-User-agent: Googlebot
-Disallow:  /info/
-Disallow:  /search/
-User-agent: Mediapartners-Google
-Disallow:  /info/
-Disallow:  /search/
-User-agent: Yahoo! Slurp
-Allow: /$
-Disallow: /
-User-agent: bingbot
-Allow: /$
-Disallow: /
-User-agent: Yandex
-Allow: /$
-Disallow: /
-User-agent: Baiduspider
-Disallow: /
-User-agent: Sogou
-Disallow: /
-User-agent: ia_archiver
+User-Agent: ia_archiver
 Disallow:
-User-agent: IPS-Agent
-Disallow: /parking.php4
-User-agent: BLEXBot
-Disallow: /
-User-agent: *
+ 
+User-Agent: *
+Disallow: /note/
+Disallow: /search.php
+Disallow: /click.php
+Disallow: /search_caf.php
+Disallow: /t.php
+Disallow: /exitpage/
+Disallow: /popup/
+Disallow: /r.php
+Disallow: /secondary_feed/
+User-agent: MJ12bot
 Disallow: /

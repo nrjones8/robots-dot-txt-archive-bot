@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /CMPEdit/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://cityofsouthside.com/wp-sitemap.xml

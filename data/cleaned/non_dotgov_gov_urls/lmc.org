@@ -1,4 +1,6 @@
 # Pantheon's documentation on robots.txt: https://pantheon.io/docs/bots-and-indexing/
 User-agent: *
 Disallow: /wp-content/uploads/documents/
+Disallow: /contact-boxes/
+Disallow: /contact-boxes/*
 Disallow: /*.pdf$

@@ -1,3 +1,1 @@
-user-agent: *
-Allow: /$
-Disallow: /
+Got an HTML response

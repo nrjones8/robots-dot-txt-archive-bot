@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='scpcf.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f32c186b5e0>, 'Connection to scpcf.com timed out. (connect timeout=15)'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='scpcf.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd0ce5082b0>, 'Connection to scpcf.com timed out. (connect timeout=15)'))"}

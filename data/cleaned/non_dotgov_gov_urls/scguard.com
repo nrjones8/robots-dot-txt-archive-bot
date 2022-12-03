@@ -4,4 +4,4 @@ User-agent: bingbot
 Allow: /
 User-agent: *
 Allow: /
-Sitemap: https://www.scguard.com/
+Sitemap: https://www.wesonerdy.com/
