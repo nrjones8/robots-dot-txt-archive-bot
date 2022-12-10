@@ -43,7 +43,7 @@ Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
-# Disallow: /search/
+Disallow: /search/
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
@@ -64,3 +64,4 @@ Disallow: /index.php/user/logout
 #
 # Paths (clean URL's)
 Disallow: /testing/
+Disallow: /map-tabs/

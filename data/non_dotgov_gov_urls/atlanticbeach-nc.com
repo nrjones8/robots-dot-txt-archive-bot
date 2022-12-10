@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://atlanticbeach-nc.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='atlanticbeach-nc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff38adea580>, 'Connection to atlanticbeach-nc.com timed out. (connect timeout=15)'))"}

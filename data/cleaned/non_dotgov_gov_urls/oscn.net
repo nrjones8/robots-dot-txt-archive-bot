@@ -1,1 +1,14 @@
-Request failed
+User-agent: *
+Disallow: /
+Allow: /rss/
+Allow: /recaptcha/
+User-agent: Browsershots
+Disallow:
+User-agent: dtSearchSpider
+Disallow:
+User-agent: facebookexternalhit/1.1
+Allow: /notices
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Allow: /notices
+User-agent: Elastic-Crawler (7.15.1)
+Disallow: 

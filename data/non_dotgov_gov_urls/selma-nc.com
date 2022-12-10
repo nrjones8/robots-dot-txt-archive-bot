@@ -1,7 +1,5 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://selma-nc.com/sitemap.xml
-Sitemap: https://selma-nc.com/sitemap.rss
-
+Sitemap: https://selma-nc.com/wp-sitemap.xml

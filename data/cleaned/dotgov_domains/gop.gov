@@ -1,7 +1,4 @@
-Sitemap: https://www.gop.gov/wp-sitemap.xml
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.gop.gov/wp-sitemap.xml

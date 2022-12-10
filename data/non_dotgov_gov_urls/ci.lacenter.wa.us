@@ -1,3 +1,1 @@
-User-Agent: *
-Disallow:
-Sitemap: https://ci.lacenter.wa.us/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ci.lacenter.wa.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff38a88f640>, 'Connection to ci.lacenter.wa.us timed out. (connect timeout=15)'))"}

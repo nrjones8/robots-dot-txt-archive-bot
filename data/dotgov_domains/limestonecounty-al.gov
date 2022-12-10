@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://limestonecounty-al.gov/wp-sitemap.xml

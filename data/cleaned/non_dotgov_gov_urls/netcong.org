@@ -1,2 +1,1 @@
-User-agent: AhrefsBot
-Disallow: / 
+Request failed

@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/uploads/wpforms/
-
-Sitemap: https://www.alports.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.alports.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff38a87bb80>, 'Connection to www.alports.com timed out. (connect timeout=15)'))"}

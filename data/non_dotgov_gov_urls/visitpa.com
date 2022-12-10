@@ -61,3 +61,6 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 #Taxonomy pages admin added by PREM 01192022
 Disallow: /taxonomy/
+# Crawl Buget & Indexing added by WebFX 12062022
+Disallow: /cdn-cgi/
+Sitemap: https://www.visitpa.com/sitemap.xml

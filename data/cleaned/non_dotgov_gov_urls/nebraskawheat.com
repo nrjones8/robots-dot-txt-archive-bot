@@ -1,27 +1,7 @@
-# Default Flywheel robots file
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /calendar/action:posterboard/
-Disallow: /calendar/action:agenda/
-Disallow: /calendar/action:oneday/
-Disallow: /calendar/action:month/
-Disallow: /calendar/action:week/
-Disallow: /calendar/action:map/
-Disallow: /calendar/action~posterboard/
-Disallow: /calendar/action~agenda/
-Disallow: /calendar/action~oneday/
-Disallow: /calendar/action~month/
-Disallow: /calendar/action~week/
-Disallow: /calendar/action~stream/
-Disallow: /events/action~posterboard/
-Disallow: /events/action~agenda/
-Disallow: /events/action~oneday/
-Disallow: /events/action~month/
-Disallow: /events/action~week/
-Disallow: /events/action~stream/
-Disallow: /calendar/action~undefined/
-Disallow: /calendar/action~http:/
-Disallow: /calendar/action~default/
-Disallow: /calendar/action~poster/
-Disallow: /calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+Disallow:
+Sitemap: https://nebraskawheat.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

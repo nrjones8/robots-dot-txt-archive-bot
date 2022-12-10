@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://cdrpc.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cdrpc.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff38ad8c580>, 'Connection to cdrpc.org timed out. (connect timeout=15)'))"}
