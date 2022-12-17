@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='haddontwp.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff38af636a0>, 'Connection to haddontwp.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.haddontwp.com/wp-sitemap.xml

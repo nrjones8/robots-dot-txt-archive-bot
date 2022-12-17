@@ -1,1 +1,5 @@
-Request failed
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: https://floridaspodiatricmedicine.gov/wp-content/uploads/wpforms/
+Sitemap: https://floridaspodiatricmedicine.gov/sitemap.xml

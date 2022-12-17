@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='peacecorps.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff38a3a71c0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /rss/
+# Theme artifacts (including pattern lab):
+Disallow: /static/pattern-lab/
+Allow: /static/*.css$
+Allow: /static/*.css?
+Allow: /static/*.js$
+Allow: /static/*.js?
+Allow: /static/*.gif
+Allow: /static/*.jpg
+Allow: /static/*.jpeg
+Allow: /static/*.png
+Allow: /static/*.svg
+Sitemap: https://www.peacecorps.gov/sitemap.xml

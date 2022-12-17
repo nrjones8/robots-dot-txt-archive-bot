@@ -12,7 +12,10 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+User-agent: usasearch  
+Crawl-delay: 2
 User-agent: *
+Crawl-delay: 10
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -58,3 +61,4 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
+Sitemap: https://www.usmarshals.gov/sitemap.xml

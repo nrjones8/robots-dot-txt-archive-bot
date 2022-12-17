@@ -12,6 +12,7 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+# Generated From UI 
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
@@ -48,13 +49,21 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+Disallow: /search/site?content=*
+Disallow: /diseases-conditions?search_term=*
+Disallow: /programs-directory?title=*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
+Disallow: /index.php/search/site?content=*
+Disallow: /index.php/diseases-conditions?search_term=*
+Disallow: /index.php/programs-directory?title=*
 Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
+#Sitemap Config
+Sitemap: /sitemap.xml

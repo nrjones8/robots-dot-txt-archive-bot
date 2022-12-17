@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.wesonerdy.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff38b06f550>, 'Connection to www.wesonerdy.com timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.wesonerdy.com/

@@ -1,1 +1,14 @@
-Request failed
+User-agent: *
+Disallow: /rss/
+# Theme artifacts (including pattern lab):
+Disallow: /static/pattern-lab/
+Allow: /static/*.css$
+Allow: /static/*.css?
+Allow: /static/*.js$
+Allow: /static/*.js?
+Allow: /static/*.gif
+Allow: /static/*.jpg
+Allow: /static/*.jpeg
+Allow: /static/*.png
+Allow: /static/*.svg
+Sitemap: https://www.peacecorps.gov/sitemap.xml

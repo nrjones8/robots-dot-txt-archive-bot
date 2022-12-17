@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='jenningscounty-in.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff38a93e730>, 'Connection to jenningscounty-in.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /404

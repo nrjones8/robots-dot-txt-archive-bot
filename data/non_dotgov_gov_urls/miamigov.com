@@ -1097,6 +1097,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Copy-of-C
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Copy-of-Get-an-Expedited-Plan-Review-Building-Department-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Create-an-iBuild-Account
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Expedited-Reviews/Get-a-Joint-Plan-Review
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Expedited-Reviews/Get-an-Expedited-Plan-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-a-Joint-Plan-Review
@@ -2832,6 +2834,8 @@ Disallow: /Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /Permits-Construction/Copy-of-Get-an-Expedited-Plan-Review-Building-Department-1
 Disallow: /Permits-Construction/Create-an-iBuild-Account
 Disallow: /Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
+Disallow: /Permits-Construction/Expedited-Reviews/Get-a-Joint-Plan-Review
+Disallow: /Permits-Construction/Expedited-Reviews/Get-an-Expedited-Plan-Review
 Disallow: /Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
 Disallow: /Permits-Construction/Get-a-Joint-Plan-Review

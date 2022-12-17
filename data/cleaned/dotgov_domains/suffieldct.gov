@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /archived-elements/suffield-summer-fair$
+Disallow: /archived-elements/suffield-summer-fair?
+Disallow: /archived-elements/suffield-summer-fair/~
 Disallow: /trees-for-suffield-clone$
 Disallow: /trees-for-suffield-clone?
 Disallow: /trees-for-suffield-clone/~
@@ -44,9 +47,6 @@ Disallow: /agendas-minutes-clone/~
 Disallow: /home-summer-fair-testing$
 Disallow: /home-summer-fair-testing?
 Disallow: /home-summer-fair-testing/~
-Disallow: /archived-elements/suffield-summer-fair$
-Disallow: /archived-elements/suffield-summer-fair?
-Disallow: /archived-elements/suffield-summer-fair/~
 Disallow: /archived-elements/suffield-summer-fair-linked$
 Disallow: /archived-elements/suffield-summer-fair-linked?
 Disallow: /archived-elements/suffield-summer-fair-linked/~
