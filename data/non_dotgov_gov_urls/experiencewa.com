@@ -1,9 +1,10 @@
+Disallow: /wp-content/uploads/wpforms/
+
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: https://stateofwatourism.com/wp-content/uploads/wpforms/
+Disallow:
 
 Sitemap: https://stateofwatourism.com/sitemap_index.xml
-
-User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+# ---------------------------
+# END YOAST BLOCK

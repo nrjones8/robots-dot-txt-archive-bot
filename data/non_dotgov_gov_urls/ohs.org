@@ -1,3 +1,12 @@
+#User-agent: *
+#Disallow: /commonspot*
+#Disallow: /events/past-programs.cfm
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 User-agent: *
-Disallow: /commonspot*
-Disallow: /events/past-programs.cfm
+Disallow: /

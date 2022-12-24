@@ -1,12 +1,13 @@
 User-agent: *
-Disallow: /egov/imgs
 Disallow: /egov/help
 Noindex: /egov/help
-Disallow: /egov/include
-Noindex: /egov/include
-Disallow: /egov/apps/events
-Noindex: /egov/apps/events
+Disallow: /egov/imgs
+Disallow: /egov
+Disallow: /test
+Disallow: /manager
+Disallow: /egov/apps/events/calendar.egov
 Disallow: /include
+Disallow: /intranet
 Crawl-delay: 300
 # This thing comes from a known spyware site, so shove off.
 User-agent: FunWebProducts

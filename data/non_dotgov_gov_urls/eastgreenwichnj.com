@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://eastgreenwichnj.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='eastgreenwichnj.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa3d649fd30>, 'Connection to eastgreenwichnj.com timed out. (connect timeout=15)'))"}

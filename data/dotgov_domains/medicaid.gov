@@ -51,12 +51,12 @@ Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
 # Paths (no clean URLs)
-Disallow: /?f[
-Disallow: /&f[
-Disallow: /?f%5B
-Disallow: /&f%5B
-Disallow: /*?filters
-Disallow: /*?solrsort
+Disallow: /index.html?f[
+Disallow: /index.html&f[
+Disallow: /index.html?f%5B
+Disallow: /index.html&f%5B
+Disallow: /index.html*?filters
+Disallow: /index.html*?solrsort
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips

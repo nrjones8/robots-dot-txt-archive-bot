@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://marinemarathon.com/sitemap_index.xml
+Sitemap: https://www.marinemarathon.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

@@ -1,7 +1,11 @@
 User-agent: *
-Allow: /content/redcross/*	# AEM-7774 / AE-2329 11/10/21
-Disallow: /ns/apology/* # IC: 3481 10/12/17
-Disallow: /take-a-class/hidden # IC: DW beta launch 12/6/17
+
+# AEM-7774 / AE-2329 11/10/21
+Allow: /content/redcross/*	
+# IC: 3481 10/12/17
+Disallow: /ns/apology/* 
+# IC: DW beta launch 12/6/17
+Disallow: /take-a-class/hidden 
 Disallow: /tributes/*
 Disallow: /account/*
 Disallow: /search-the-red-cross-site/*
@@ -11,14 +15,21 @@ Disallow: /accounthelp/*
 Disallow: /invoice-central/*
 Disallow: /lp/*
 Disallow: /LP/*
-Disallow: /on/demandware.store/*  # IC: 4467 9/19/18
-Disallow: /take-a-class/asspsafetytraining   # IC 4624 10/16/18
-Disallow: /take-a-class/participant-materials  # IC 5308 5/31/19
-Disallow: /content/dam/redcross/lp/*  # IC 5313 6/12/19
+# IC: 4467 9/19/18
+Disallow: /on/demandware.store/*  
+# IC 4624 10/16/18
+Disallow: /take-a-class/asspsafetytraining   
+# IC 5308 5/31/19
+Disallow: /take-a-class/participant-materials  
+# IC 5313 6/12/19
+Disallow: /content/dam/redcross/lp/*  
 
 # IC: SK request 11/26/13
 User-agent: msnbot
 Crawl-delay: 1
 
 Sitemap: https://www.redcross.org/sitemap.xml
-Sitemap: https://www.redcross.org/take-a-class/sitemap_index.xml	# TSED-877
+# TSED-877
+Sitemap: https://www.redcross.org/sitemap_0.xml	
+Sitemap: https://www.redcross.org/sitemap-ARCStoreXMLSitemap.xml
+Sitemap: https://www.redcross.org/sitemap-TakeAClassLocalXMLSitemaps.xml

@@ -22,6 +22,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water-Advisory
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure-Notice
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/St.-John-Parish-Office-Closure
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Water-Outage-Boil-Water-Advisory
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
@@ -58,6 +59,7 @@ Disallow: /Home/Tabs/Boil-Water
 Disallow: /Home/Tabs/Boil-Water-Advisory
 Disallow: /Home/Tabs/New-page
 Disallow: /Home/Tabs/Road-Closure
+Disallow: /Home/Tabs/Road-Closure-Notice
 Disallow: /Home/Tabs/St.-John-Parish-Office-Closure
 Disallow: /Home/Tabs/Water-Outage-Boil-Water-Advisory
 Disallow: /Internal-Styles
