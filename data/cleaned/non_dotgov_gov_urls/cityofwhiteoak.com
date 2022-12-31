@@ -1,1 +1,1 @@
-Request failed
+User-agent: PowerMapper Allow: /

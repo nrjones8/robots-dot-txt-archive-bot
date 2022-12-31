@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /production/organizational$
-Disallow: /production/organizational?
-Disallow: /production/organizational/~
 Disallow: /departments-and-services/human-services$
 Disallow: /departments-and-services/human-services?
 Disallow: /departments-and-services/human-services/~
+Disallow: /production/organizational$
+Disallow: /production/organizational?
+Disallow: /production/organizational/~
 Disallow: /departments-and-services/human-services/municipal-agent$
 Disallow: /departments-and-services/human-services/municipal-agent?
 Disallow: /departments-and-services/human-services/municipal-agent/~

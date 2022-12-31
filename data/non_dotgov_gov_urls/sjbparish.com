@@ -20,6 +20,8 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Coun
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Boil-Water-Advisory
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Conserve-Water
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Freeze-Update
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Tabs/Road-Closure-Notice
@@ -57,6 +59,8 @@ Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /Home/Tabs/Boil-Water
 Disallow: /Home/Tabs/Boil-Water-Advisory
+Disallow: /Home/Tabs/Conserve-Water
+Disallow: /Home/Tabs/Freeze-Update
 Disallow: /Home/Tabs/New-page
 Disallow: /Home/Tabs/Road-Closure
 Disallow: /Home/Tabs/Road-Closure-Notice

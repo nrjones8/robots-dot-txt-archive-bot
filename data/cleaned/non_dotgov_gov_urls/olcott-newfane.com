@@ -1,1 +1,2 @@
-Got an HTML response
+User-agent: *
+Disallow: /cgi-bin

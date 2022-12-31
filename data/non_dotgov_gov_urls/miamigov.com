@@ -206,9 +206,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Library
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Lost-Animals
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Venues-for-hire
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Department
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Department/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/New-page-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Departments/Test-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/dig
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA
@@ -220,6 +218,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Request-a-Revocation-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/View-Approved-Planning-Legislation
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Z-Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DVE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/embed
@@ -324,10 +323,13 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/City-of-Miami-Open-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Climate-Change-Impacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/climatechange/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Heat
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/MayorsForum
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateChange/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/climatechange/Storms
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Education-and-Outreach
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Heat
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Roads-and-Mobility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/ClimateReadyMiami/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Copy-of-Board-Meeting-Public-Comment-Registration-1
@@ -352,8 +354,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Code-Compliance/ProChamps
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Office-of-Resilience-and-Sustainability
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
@@ -628,7 +628,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Special-Terms-Conditions-RFPQ
@@ -650,15 +649,22 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Instructions-for-th
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Join-Miami-Police-Department-MPD/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Education-and-Outreach
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Heat
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Roads-and-Mobility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateReady/Storms
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Education-and-Outreach
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Education-and-Outreach
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Heat
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Heat
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Heat-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Roads-and-Mobility
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Roads-and-Mobility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Miami-Climate-Solutions/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/MiamiClimateSolutions/Storms
@@ -725,7 +731,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Home/Homepage/Meetings-Events/
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Home/Homepage/Meetings-Events/Test-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/Public-Meetings/MEETING-TEMPLATE
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Raker-Video-Background
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Tabs/About
@@ -754,6 +759,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library/Copy-of-Background-Ima
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/liquorreview
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Lost-Animals
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/makers
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mayorsforum
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediationsurvey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mediatiorsurvey
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/meetinginstructions
@@ -785,8 +791,12 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/City-Officials/D
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Climate-Change-Impacts
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Education-and-Outreach
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Flooding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Heat
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/MayorsForum
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/ResilienceForum
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Roads-and-Mobility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit
@@ -1029,7 +1039,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
@@ -1157,7 +1166,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/CommunityMeeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-City_Officials-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-CommunityMeeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-film-permits-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-IT-Support-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-miami21-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Project-Intake-Form-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-PublicRecords-1
@@ -1230,7 +1238,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2/Copy-of-H
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/New-page-2/Hurricane-Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/residentsurvey
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Resilience-and-Sustainability
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Sample-Pages
@@ -1316,7 +1323,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Permit-for-Sidewalk-Cafe-Pay-PhoneNews-Rack-or-Banner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Sidewalk-Cafe-Permit
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
@@ -1383,7 +1389,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting2/
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting2/Expedited-Plan-Review-Building-Department
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Get-An-Alcohol-Reservation-Letter
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting2/Get-an-Expedited-Plan-Review-Building-Department
-Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Get-a-Sign-Permit
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting2/Get-a-Sign-Permit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Guidelines-to-Getting-a-Permit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Permit-Catalog-2/Get-a-Building-Permit
@@ -1835,9 +1841,7 @@ Disallow: /Default-Content/Library
 Disallow: /Default-Content/Lost-Animals
 Disallow: /Default-Content/Venues-for-hire
 Disallow: /Department
-Disallow: /Department/Office-of-Resilience-and-Sustainability
 Disallow: /Departments/New-page-1
-Disallow: /Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Departments/Test-Department-Page
 Disallow: /dig
 Disallow: /DSA
@@ -1849,6 +1853,7 @@ Disallow: /DSA/OLD-DRI-Updates
 Disallow: /DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /DSA/Request-a-Revocation-Permit
 Disallow: /DSA/View-Approved-Planning-Legislation
+Disallow: /DSA/Z-Test
 Disallow: /DVE
 Disallow: /Elections-Information
 Disallow: /embed
@@ -1986,10 +1991,13 @@ Disallow: /Government/City-of-Miami-Open-Data
 Disallow: /Government/ClimateChange/Climate-Change-Impacts
 Disallow: /Government/climatechange/Flooding
 Disallow: /Government/ClimateChange/Heat
+Disallow: /Government/ClimateChange/MayorsForum
 Disallow: /Government/ClimateChange/Storm-Preparedness
 Disallow: /Government/climatechange/Storms
+Disallow: /Government/ClimateReadyMiami/Education-and-Outreach
 Disallow: /Government/ClimateReadyMiami/Flooding
 Disallow: /Government/ClimateReadyMiami/Heat
+Disallow: /Government/ClimateReadyMiami/Roads-and-Mobility
 Disallow: /Government/ClimateReadyMiami/Storm-Preparedness
 Disallow: /Government/ClimateReadyMiami/Storms
 Disallow: /Government/Copy-of-Board-Meeting-Public-Comment-Registration-1
@@ -2014,8 +2022,6 @@ Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-R
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /Government/Departments/Office-of-Code-Compliance/ProChamps
-Disallow: /Government/Departments/Office-of-Resilience-and-Sustainability
-Disallow: /Government/Departments/Resilience-and-Sustainability
 Disallow: /Government/Departments/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Board-Announcements-and-Applications
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
@@ -2290,7 +2296,6 @@ Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Get-
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/New-page
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Request-Emergency-Work-Code
-Disallow: /Government/Departments-Organizations/Resilience-and-Sustainability
 Disallow: /Government/Departments-Organizations/Special-Terms-Conditions
 Disallow: /Government/Departments-Organizations/Special-Terms-Conditions-IFB
 Disallow: /Government/Departments-Organizations/Special-Terms-Conditions-RFPQ
@@ -2312,15 +2317,22 @@ Disallow: /Government/Instructions-for-the-Commission-Meeting-of-September-13-20
 Disallow: /Government/Join-Miami-Police-Department-MPD
 Disallow: /Government/Join-Miami-Police-Department-MPD/Become-a-Miami-Police-Officer
 Disallow: /Government/Join-Miami-Police-Department-MPD/New-page
+Disallow: /Government/MiamiClimateReady/Education-and-Outreach
 Disallow: /Government/MiamiClimateReady/Flooding
 Disallow: /Government/MiamiClimateReady/Heat
+Disallow: /Government/MiamiClimateReady/Roads-and-Mobility
 Disallow: /Government/MiamiClimateReady/Storm-Preparedness
 Disallow: /Government/MiamiClimateReady/Storms
+Disallow: /Government/MiamiClimateSolutions/Education-and-Outreach
+Disallow: /Government/Miami-Climate-Solutions/Education-and-Outreach
 Disallow: /Government/MiamiClimateSolutions/Flooding
 Disallow: /Government/Miami-Climate-Solutions/Flooding
 Disallow: /Government/MiamiClimateSolutions/Heat
 Disallow: /Government/Miami-Climate-Solutions/Heat
 Disallow: /Government/Miami-Climate-Solutions/Heat-2
+Disallow: /Government/Miami-Climate-Solutions/New-page
+Disallow: /Government/MiamiClimateSolutions/Roads-and-Mobility
+Disallow: /Government/Miami-Climate-Solutions/Roads-and-Mobility
 Disallow: /Government/MiamiClimateSolutions/Storm-Preparedness
 Disallow: /Government/Miami-Climate-Solutions/Storm-Preparedness
 Disallow: /Government/MiamiClimateSolutions/Storms
@@ -2387,7 +2399,6 @@ Disallow: /Home/Homepage/Meetings-Events/MEETING-TEMPLATE
 Disallow: /Home/Homepage/Meetings-Events/Test-Calendar
 Disallow: /Home/Homepage/Public-Meetings/Copy-of-SPECIAL-COMMISSION-MEETING-111820-2-1
 Disallow: /Home/Homepage/Public-Meetings/MEETING-TEMPLATE
-Disallow: /Home/Navigation-Bar/Departments/Office-of-Resilience-and-Sustainability
 Disallow: /Home/New-page
 Disallow: /Home/Raker-Video-Background
 Disallow: /Home/Tabs/About
@@ -2491,6 +2502,7 @@ Disallow: /manuelartime/Image-Galleries
 Disallow: /manuelartime/Site-Footer
 Disallow: /manuelartime/Site-Footer/Footer-Widgets
 Disallow: /manuelartime/Site-Footer/Sub-Footer-Links
+Disallow: /mayorsforum
 Disallow: /mediationsurvey
 Disallow: /mediatiorsurvey
 Disallow: /meetinginstructions
@@ -2522,8 +2534,12 @@ Disallow: /My-Government/City-Officials/District-5-Commissioner-Christine-King/M
 Disallow: /My-Government/City-Officials/District-5-Commissioner-Jeffrey-Watson/Make-a-Protocol-Request-D5
 Disallow: /My-Government/City-Officials/Mayor-Francis-Suarez/OLD-Mayor-Suarez-in-the-News
 Disallow: /My-Government/ClimateChange/Climate-Change-Impacts
+Disallow: /My-Government/ClimateChange/Education-and-Outreach
 Disallow: /My-Government/ClimateChange/Flooding
 Disallow: /My-Government/ClimateChange/Heat
+Disallow: /My-Government/ClimateChange/MayorsForum
+Disallow: /My-Government/ClimateChange/ResilienceForum
+Disallow: /My-Government/ClimateChange/Roads-and-Mobility
 Disallow: /My-Government/ClimateChange/Storm-Preparedness
 Disallow: /My-Government/ClimateChange/Storms
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit
@@ -2766,7 +2782,6 @@ Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
-Disallow: /My-Government/Departments/Resilience-and-Sustainability
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
@@ -2894,7 +2909,6 @@ Disallow: /redirects/CommunityMeeting
 Disallow: /redirects/Copy-of-City_Officials-1
 Disallow: /redirects/Copy-of-CommunityMeeting-1
 Disallow: /redirects/Copy-of-film-permits-1
-Disallow: /redirects/Copy-of-IT-Support-1
 Disallow: /redirects/Copy-of-miami21-1
 Disallow: /redirects/Copy-of-Project-Intake-Form-1
 Disallow: /redirects/Copy-of-PublicRecords-1
@@ -2967,7 +2981,6 @@ Disallow: /Residents/New-page-2/Copy-of-Hurricane-Terms-1
 Disallow: /Residents/New-page-2/Hurricane-Resources
 Disallow: /Residents/Parks-and-Recreation/Parks-Directory/Dinner-Key-Marina
 Disallow: /residentsurvey
-Disallow: /Resilience-and-Sustainability
 Disallow: /rezone
 Disallow: /Rezoning-Information
 Disallow: /Sample-Pages
@@ -3053,7 +3066,6 @@ Disallow: /Services/Building-Permitting/Get-An-Alcohol-Reservation-Letter
 Disallow: /Services/Building-Permitting/Get-a-Permit-for-Sidewalk-Cafe-Pay-PhoneNews-Rack-or-Banner
 Disallow: /Services/Building-Permitting/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /Services/Building-Permitting/Get-a-Sidewalk-Cafe-Permit
-Disallow: /Services/Building-Permitting/Get-a-Sign-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
 Disallow: /Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
