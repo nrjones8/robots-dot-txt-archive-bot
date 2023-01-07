@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: http://www.townofnorthampton.com/c/
-Disallow: http://www.townofnorthampton.com/protected/
-Sitemap: http://www.townofnorthampton.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

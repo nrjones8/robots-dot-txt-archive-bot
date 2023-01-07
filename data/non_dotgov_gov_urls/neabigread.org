@@ -1,3 +1,7 @@
 User-agent: *
-Allow: /
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
 Sitemap: https://neabigread.org/sitemap.xml
+Sitemap: https://neabigread.org/sitemap.rss
+

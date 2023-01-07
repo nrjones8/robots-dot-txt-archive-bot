@@ -1,1 +1,5 @@
-Got an HTML response
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: http://germanytownship.org/wp-content/uploads/wpforms/
+Sitemap: https://germanytownship.org/wp-sitemap.xml

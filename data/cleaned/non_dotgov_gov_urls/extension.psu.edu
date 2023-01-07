@@ -19,7 +19,7 @@ Disallow: /
 # Block Baiduspider
 User-agent: Baiduspider
 Disallow: /
-Sitemap: http://extension.psu.edu/sitemap/extension/sitemap.xml
+Sitemap: https://extension.psu.edu/sitemap/sitemap.xml
 # Crawlers Setup
 User-agent: *
 #Crawl-delay: 5
@@ -892,8 +892,8 @@ User-agent: Ripper
 Disallow:/
 User-agent: RocketCrawler
 Disallow:/
-User-agent: Rogerbot
-Disallow:/
+#User-agent: Rogerbot
+#Disallow:/
 User-agent: RSSingBot
 Disallow:/
 User-agent: s1z.ru

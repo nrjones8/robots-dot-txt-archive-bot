@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='carr.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f91de77da30>, 'Connection to carr.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /_private/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_script/
+Disallow: /_vti_txt/
+Disallow: /images/
+

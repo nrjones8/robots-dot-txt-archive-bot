@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='co.marion.or.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f91defaf910>, 'Connection to co.marion.or.us timed out. (connect timeout=15)'))"}
+User-agent: Mozilla/5.0+(compatible;+spbot/4.4.2;++http://OpenLinkProfiler.org/bot+)
+Disallow: /
+
+User-agent: Mozilla/5.0+(compatible;+DeuSu/5.0.2;++https://deusu.de/robot.html)
+Disallow: /
+
+User-agent: bingbot
+Disallow: /ScriptResource.axd  
+Disallow: /combinescriptshandler.axd  
+Disallow: /WebResource.axd
+
+User-agent: * 
+Disallow: /_catalogs
+
+User-agent: googlebot
+Allow: /_catologs/masterpage/Marion
+

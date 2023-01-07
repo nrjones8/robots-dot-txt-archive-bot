@@ -1,1 +1,18 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofwanamingo.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f91deaf3b80>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+
+User-agent: *
+Disallow: /
