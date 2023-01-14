@@ -1,7 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
 
-Sitemap: http://williamstown.ws/wp-sitemap.xml
+Sitemap: http://williamstown.ws/sitemap.xml
+Sitemap: http://williamstown.ws/sitemap.rss
 
-Sitemap: http://williamstown.ws/sitemap.xml.gz

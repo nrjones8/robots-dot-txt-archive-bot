@@ -1,14 +1,1 @@
-User-agent: *
-
-# News
-Disallow: /news/documentprint.aspx*
-
-# Responses
-Disallow: /printform/
-Disallow: /thankyou/
-
-# Surveys
-Disallow: /*?*Preview=
-
-User-agent: SiteimproveBot-Crawler
-Disallow: /news/email/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

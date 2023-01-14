@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: 
+Disallow: /search/
 Sitemap: https://www.visitmt.com/sitemap.xml

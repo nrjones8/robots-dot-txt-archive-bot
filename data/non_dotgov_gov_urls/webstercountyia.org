@@ -1,1 +1,20 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='webstercountyia.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: FacebookBot
+Allow: /
+
+User-agent: facebookexternalhit/1.1
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: facebookcatalog/1.0
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: *
+Disallow: /
