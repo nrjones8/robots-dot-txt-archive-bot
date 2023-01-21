@@ -36,6 +36,7 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
+Disallow: /customer-map118/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
@@ -51,7 +52,6 @@ Disallow: /user/login
 Disallow: /user/logout
 Disallow: /media/oembed
 Disallow: /*/media/oembed
-Disallow: /customer-map118/
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

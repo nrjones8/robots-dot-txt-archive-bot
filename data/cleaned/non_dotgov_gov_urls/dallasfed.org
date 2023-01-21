@@ -1,1 +1,7 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+# robots.txt for Federal Reserve Bank of Dallas
+# last update: Wednesday, October 12, 2016
+User-agent: *
+Disallow: /api/
+Disallow: /Search
+Disallow: /forms/
+Disallow: *forms

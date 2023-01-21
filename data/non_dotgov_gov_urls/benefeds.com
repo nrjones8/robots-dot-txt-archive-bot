@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# sitemap
+Sitemap: https://www.benefeds.com/sitemap.xml
+
+# all robots:
+User-agent: *
+
+Disallow: 

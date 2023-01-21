@@ -14,4 +14,9 @@ User-agent: Twitterbot
 Allow: /
 
 User-agent: *
+Allow: /*.pdf$
+Allow: /*.DOC$
+Allow: /*.DOCX$
+Allow: /*.PPT$
+Allow: /*.PPTX$
 Disallow: /

@@ -86,7 +86,7 @@ Sitemap: https://soilind.com/sitemap_index.xml
 Sitemap: https://n527pn.com/sitemap_index.xml
 Sitemap: https://joinapdla.org/sitemap_index.xml
 Sitemap: https://tudorcompanies.com/sitemap_index.xml
-Sitemap: https://linksonthebayou.com/sitemap_index.xml
+Sitemap: https://linksonthebayougolf.com/sitemap_index.xml
 Sitemap: https://eagleelectric.org/sitemap_index.xml
 Sitemap: https://tulco-storage.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/awc/sitemap_index.xml

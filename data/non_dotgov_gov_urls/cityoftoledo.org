@@ -104,8 +104,6 @@ Disallow: /bsns-license-renewal-search
 Disallow: /?q=bsns-license-renewal-search/
 Disallow: /bsns-license/
 Disallow: /?q=bsns-license/
-Disallow: /mywestlinn
-Disallow: /?q=mywestlinn/
 Disallow: /mybusiness
 Disallow: /?q=mybusiness/
 Disallow: /business-registration-*

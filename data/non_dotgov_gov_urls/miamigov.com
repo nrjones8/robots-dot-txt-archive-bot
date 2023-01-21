@@ -361,6 +361,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Christopher-A.-Green
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-2
@@ -368,10 +369,12 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-4
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-George-K.-Wysong-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-6
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Copy-of-Practice-Areas-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
@@ -847,6 +850,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Draft/Test2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -924,7 +928,10 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Offi
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Manager
@@ -1262,7 +1269,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Remove-a-tre
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Hearing/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/311-Success
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Appeal-an-AIPPB-Decision
@@ -1456,7 +1462,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Assistance-wi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Free-Tax-Preparation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Free-Tax-Preparation/Tax-Preparation-Documents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-Tax-Preparation
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Rezone-a-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/311-Success
@@ -1472,8 +1477,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Solve-a-Problem/Reque
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Request-traffic-Calming-on-a-Street
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Trolley-Alerts-and-Detours
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Trolley-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Transportation/Trolley-Detours-Holidays/OLD-Trolley-Alerts-and-Detours
@@ -1528,7 +1531,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-City-Gym-Memebership
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Tree-Permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Appeal-a-Warrant-or-Waiver
@@ -1548,7 +1550,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Shortcut-Content/Events-Activities/Event-to-test-workflow
@@ -1636,7 +1637,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-Pages/Rss-Feeds
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages/Sample-A-Z-Services-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/TEST-Image-Gallery
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/traffic-calming
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/trainingvideos
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Deferment-of-SidewalkCurb-and-Gutter-Construction-App-Documents
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Driveway-Approach-Application-Documents
@@ -1645,7 +1645,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Request-traffic-Calming-on-a-Street
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Transportation-Roadways/Trolley-Information/Trolley-Calendar
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Transportation-Roadways/Trolley-Information/Trolley-Detours-Holidays/Trolley-Alerts-and-Detours
@@ -2030,6 +2029,7 @@ Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Constr
 Disallow: /Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /Government/Departments-Organizations/City-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Christopher-A.-Green
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-2
@@ -2037,10 +2037,12 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-4
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-George-K.-Wysong-1
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-6
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Copy-of-Practice-Areas-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Legal-Services-Request
@@ -2591,6 +2593,7 @@ Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
+Disallow: /My-Government/Departments/Draft/Test2
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
@@ -2668,7 +2671,10 @@ Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Pag
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /My-Government/Departments/Office-of-the-City-Manager
@@ -3006,7 +3012,6 @@ Disallow: /Service-Directory/Remove-a-tree-Kyle
 Disallow: /Service-Directory/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /Service-Directory/Request-a-Hearing/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
 Disallow: /Service-Directory/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
-Disallow: /Service-Directory/Request-traffic-calming-on-your-street
 Disallow: /Service-Directory/Reserve-your-next-Party-at-Grapeland-Water-Park
 Disallow: /Services/311-Success
 Disallow: /Services/Appeal-an-AIPPB-Decision
@@ -3200,7 +3205,6 @@ Disallow: /Services/Request-Assistance-with-a-Tax-Preparation/Tax-Preparation-Do
 Disallow: /Services/Request-Free-Tax-Preparation
 Disallow: /Services/Request-Free-Tax-Preparation/Tax-Preparation-Documents
 Disallow: /Services/Request-Tax-Preparation
-Disallow: /Services/Request-traffic-calming-on-your-street
 Disallow: /Services/Rezone-a-Property
 Disallow: /Services/Rezoning-Information
 Disallow: /Services/Solve-a-Problem/311-Success
@@ -3216,8 +3220,6 @@ Disallow: /Services/Solve-a-Problem/Request-an-Administrative-Hearing-for-Dereli
 Disallow: /Services/Solve-a-Problem/Respond-to-a-Work-Without-Permit-Violation
 Disallow: /Services/Transportation
 Disallow: /Services/Transportation/Copy-of-Trolley-Alerts-and-Detours-1
-Disallow: /Services/Transportation/Request-traffic-Calming-on-a-Street
-Disallow: /Services/Transportation/Request-traffic-calming-on-your-street
 Disallow: /Services/Transportation/Trolley-Alerts-and-Detours
 Disallow: /Services/Transportation/Trolley-Calendar
 Disallow: /Services/Transportation/Trolley-Detours-Holidays/OLD-Trolley-Alerts-and-Detours
@@ -3272,7 +3274,6 @@ Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
 Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Get-City-Gym-Memebership
 Disallow: /Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
-Disallow: /Services-Folder/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder/Tree-Permits
 Disallow: /Services-Folder/Trees
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Appeal-a-Warrant-or-Waiver
@@ -3292,7 +3293,6 @@ Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-tree-in-
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Plant-a-tree-in-the-right-of-way
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-hearing-for-Code-Enforcement-case
-Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Request-traffic-calming-on-your-street
 Disallow: /Services-Folder-CREATE-SERVICES-IN-HERE/Trees
 Disallow: /Shortcut-Content/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Shortcut-Content/Events-Activities/Event-to-test-workflow
@@ -3397,7 +3397,6 @@ Disallow: /towertheater/Tower-Theater-Miami/Featured-Content
 Disallow: /towertheater/Tower-Theater-Miami/Slider
 Disallow: /towertheater/Tower-Theater-Miami/Slideshow
 Disallow: /towertheater/Tower-Theater-Miami/Tabs
-Disallow: /traffic-calming
 Disallow: /trainingvideos
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Deferment-of-SidewalkCurb-and-Gutter-Construction-App-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Driveway-Approach-Application-Documents
@@ -3406,7 +3405,6 @@ Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
-Disallow: /Transportation-Roadways/Request-traffic-Calming-on-a-Street
 Disallow: /Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Calendar
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Detours-Holidays/Trolley-Alerts-and-Detours

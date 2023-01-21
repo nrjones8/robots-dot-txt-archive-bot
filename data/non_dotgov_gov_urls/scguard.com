@@ -1,9 +1,1 @@
-User-agent: Googlebot
-User-agent: Slurp
-User-agent: bingbot
-Allow: /
-
-User-agent: *
-Allow: /
-
-Sitemap: https://www.wesonerdy.com/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
