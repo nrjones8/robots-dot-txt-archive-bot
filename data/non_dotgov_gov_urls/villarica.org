@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+user-agent: Baiduspider
+Disallow: /
+user-agent: baiduspider-image
+Disallow: /
+user-agent: baiduspider
+Disallow: /
+user-agent: baiduspider-mobile
+Disallow: /
+user-agent: baiduspider-news
+Disallow: /
+user-agent: baiduspider-video
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /rss.aspx
+Disallow: /search.aspx

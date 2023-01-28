@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='bradleybeachonline.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa3b91b4370>, 'Connection to bradleybeachonline.com timed out. (connect timeout=15)'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

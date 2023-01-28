@@ -73,3 +73,4 @@ User-agent: spyfu
 Disallow: /
 User-agent: Prlog
 Disallow: /
+Sitemap: https://www.massenaworks.com/wp-sitemap.xml

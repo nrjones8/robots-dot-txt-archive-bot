@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Disallow: */_layouts/
+Disallow: */_vti_bin/
+Disallow: */_catalogs/
+Disallow: */formssite/
+Disallow: */cam
+Disallow: /*disco.aspx$
+Disallow: /manifest.json
+Disallow: /citymanager/dashboard
+

@@ -1,6 +1,6 @@
 #
 # robots.txt
-# 2022.07.22
+# 2023.01.26
 #
 Sitemap: https://www.dnr.state.mn.us/sitemap.xml
 Sitemap: https://www.dnr.state.mn.us/sitemap-state-parks.xml
@@ -12,71 +12,14 @@ Sitemap: https://www.dnr.state.mn.us/sitemap-snas.xml
 Sitemap: https://www.dnr.state.mn.us/sitemap-ohv-trails.xml
 #
 User-agent: *
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
 #
-Allow: /libraries/fontawesome/css/*.css
-Allow: /libraries/fontawesome/css/*.min.css
-Allow: /libraries/fontawesome/js/*.js
-Allow: /libraries/fontawesome/js/*.min.js
-#
-Allow: /modules/contrib/*.css$
-Allow: /modules/contrib/*.css?*
-Allow: /modules/contrib/*.js$
-Allow: /modules/contrib/*.js?*
-Allow: /modules/contrib/*.gif
-Allow: /modules/contrib/*.jpg
-Allow: /modules/contrib/*.jpeg
-Allow: /modules/contrib/*.png
-Allow: /modules/contrib/*.svg
-#
-Allow: /themes/bootstrap/*.css$
-Allow: /themes/bootstrap/*.css?*
-Allow: /themes/bootstrap/*.js$
-Allow: /themes/bootstrap/*.js?*
-Allow: /themes/bootstrap/*.gif
-Allow: /themes/bootstrap/*.jpg
-Allow: /themes/bootstrap/*.jpeg
-Allow: /themes/bootstrap/*.png
-Allow: /themes/bootstrap/*.svg
-#
-Allow: /themes/mndnr/*.ico
-Allow: /themes/mndnr/*.gif
-Allow: /themes/mndnr/*.jpg
-Allow: /themes/mndnr/*.jpeg
-Allow: /themes/mndnr/*.png
-Allow: /themes/mndnr/*.svg
-Allow: /themes/mndnr/css/styles.css
-Allow: /themes/mndnr/css/unresponsive.css
-Allow: /themes/mndnr/css/*.css
-Allow: /themes/mndnr/css/*.css?*
-Allow: /themes/mndnr/css/*.min.css
-Allow: /themes/mndnr/css/*.min.css?*
-Allow: /themes/mndnr/js/header.js
-Allow: /themes/mndnr/js/tracking.js
-Allow: /themes/mndnr/js/features.js
-Allow: /themes/mndnr/js/*.js
-Allow: /themes/mndnr/js/*.js?*
-Allow: /themes/mndnr/js/*.min.js
-Allow: /themes/mndnr/js/*.min.js?*
-Allow: /themes/mndnr/images/favicons/*.*
-Allow: /themes/mndnr/images/*.*
-Allow: /themes/mndnr/highslide/graphics/outlines/*.*
-Allow: /themes/mndnr/highslide/graphics/*.*
-Allow: /themes/mndnr/highslide/*.*
-#
+# Disallow: /
 Disallow: /core/
 Disallow: /modules/
 Disallow: /themes/
 Disallow: /vendor/
 Disallow: /README.txt
+Disallow: /README.md
 Disallow: /web.config
 Disallow: /admin/
 Disallow: /batch
@@ -98,17 +41,17 @@ Disallow: /schoolforest/coordinator/
 #
 Disallow: /rsg/review/
 #
-Disallow: /lakefind/search.html?*
-Disallow: /lakefind/showreport.html?*
-Disallow: /lakefind/showmap.html?*
-Disallow: /lakefind/showlevel.html?*
-Disallow: /lakefind/showstocking.html?*
-Disallow: /lakefind/fca/report.html?*
+Disallow: /lakefind/search.html
+Disallow: /lakefind/showreport.html
+Disallow: /lakefind/showmap.html
+Disallow: /lakefind/showlevel.html
+Disallow: /lakefind/showstocking.html
+Disallow: /lakefind/fca/report.html
 #
-Disallow: /maps/tomo.html?*
-Disallow: /maps/historical_airphotos/show.html?*
+Disallow: /maps/tomo.html
+Disallow: /maps/historical_airphotos/show.html
 #
-Disallow: /enforcement/co_report/report.html?*
+Disallow: /enforcement/co_report/report.html
 #
 Disallow: /forestry/fire/maps/fdi_mature_conifer.html
 Disallow: /forestry/fire/maps/fdi_canadian.html
@@ -127,10 +70,10 @@ Disallow: /forestry/timbersales/calendar.html
 #
 Disallow: /licenses/lotteries/
 #
-Disallow: /waters/cgm/site.html?*
-Disallow: /waters/csg/site_report.html?*
+Disallow: /waters/cgm/site.html
+Disallow: /waters/csg/site_report.html
 #
-Disallow: /climate/historical/acis_stn_data.html?*
+Disallow: /climate/historical/acis_stn_data.html
 Disallow: /climate/historical/
 #
 Disallow: /qr/maps/

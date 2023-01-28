@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='financialresearch.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa3b93a7ee0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"}
+User-agent: *
+Disallow: /error/
+Disallow: /test/
+Disallow: /this-page-has-moved/

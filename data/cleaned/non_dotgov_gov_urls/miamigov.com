@@ -169,6 +169,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins/Vimeo-Video-Header
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins/YouTube-Video-Header
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/TEST-City-of-Miami-Address-History
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Unsafe-Structures-Hearings
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Unsafe-test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/User-Testing-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
@@ -347,6 +349,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Dep
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -387,8 +390,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -809,12 +815,16 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Buil
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Building-Bulletins
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Skyline-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearings
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Archived-City-Commission-and-CRA-Documents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
@@ -823,6 +833,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
@@ -1058,12 +1070,17 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
@@ -1122,8 +1139,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-an-Ex
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-an-Expedited-Plan-Review-Building-Department
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-an-After-Hours-Fire-Inspection
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
@@ -1143,6 +1158,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-St
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
@@ -1804,6 +1820,8 @@ Disallow: /Content-Sandbox/Styles-Add-ins/Copy-of-YouTube-Video-Header-1
 Disallow: /Content-Sandbox/Styles-Add-ins/Vimeo-Video-Header
 Disallow: /Content-Sandbox/Styles-Add-ins/YouTube-Video-Header
 Disallow: /Content-Sandbox/TEST-City-of-Miami-Address-History
+Disallow: /Content-Sandbox/Unsafe-Structures-Hearings
+Disallow: /Content-Sandbox/Unsafe-test
 Disallow: /Content-Sandbox/User-Testing-Form
 Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-1
 Disallow: /Content-Sandbox/Virtual-Meeting-Training/Copy-of-Instructions-for-City-Commission-Meeting-12-31-20-TEST
@@ -2015,6 +2033,7 @@ Disallow: /Government/Department/Test-Department-Page
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
@@ -2055,8 +2074,11 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-a
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-2
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Applications-Received-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election-Voting-Instructions
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Voting-Instructions
@@ -2552,12 +2574,16 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /My-Government/Departments/Building/Building-Bulletins
 Disallow: /My-Government/Departments/Building/Skyline-1
+Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
+Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings
+Disallow: /My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
 Disallow: /My-Government/Departments/City-Clerks-Office/Archived-City-Commission-and-CRA-Documents
 Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
@@ -2566,6 +2592,8 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHT-Board-Announcements-and-Applications
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
+Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/Candidates-and-Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /My-Government/Departments/City-Clerks-Office/New-page
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
@@ -2801,12 +2829,17 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
+Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
 Disallow: /My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
+Disallow: /My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
@@ -2865,8 +2898,6 @@ Disallow: /Permits-Construction/Get-an-Expedited-Plan-Review
 Disallow: /Permits-Construction/Get-an-Expedited-Plan-Review-Building-Department
 Disallow: /Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
-Disallow: /Permits-Construction/Inspections/Get-an-After-Hours-Fire-Inspection
-Disallow: /Permits-Construction/Inspections/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
@@ -2886,6 +2917,7 @@ Disallow: /Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-
 Disallow: /Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf

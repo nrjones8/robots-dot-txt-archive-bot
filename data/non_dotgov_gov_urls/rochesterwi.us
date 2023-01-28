@@ -1,10 +1,1 @@
-# This virtual robots.txt file was created by the Virtual Robots.txt WordPress plugin: https://www.wordpress.org/plugins/pc-robotstxt/
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-includes/
-Allow: /wp-includes/js/
-Allow: /wp-includes/images/
-Disallow: /trackback/
-Disallow: /wp-login.php
-Disallow: /wp-register.php
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='rochesterwi.old', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb620001370>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}

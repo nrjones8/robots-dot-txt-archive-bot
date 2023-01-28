@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+# robots.txt for http://www.cityoftroymontana.com/
+Sitemap: http://www.cityoftroymontana.com/sitemap.xml
+User-agent: *

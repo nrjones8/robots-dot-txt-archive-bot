@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: https://www.cityofcarlton.com/c/
 Disallow: https://www.cityofcarlton.com/protected/
+Disallow: /new-page/
 Disallow: /animal-licensing/
 Disallow: /area-businesses-and-resources/
 Disallow: /building-permits/
