@@ -1,8 +1,1 @@
-User-agent: Baiduspider
-Disallow: /
-
-User-agent: Sosospider
-Disallow: /
-
-User-agent: *
-Crawl-delay: 20
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

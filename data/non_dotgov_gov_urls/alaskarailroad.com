@@ -49,6 +49,8 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -59,6 +61,8 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
 # Direct Booking Stuff
 Disallow: /wrong_place
 Disallow: /wrong_place*
@@ -76,7 +80,6 @@ Disallow: /ride-a-train/buy-tickets/processing
 Disallow: /ride-a-train/buy-tickets/confirmed
 Disallow: /ride-a-train/buy-tickets/problem
 # TTP specific stuff
-Disallow: /akrr_local/
 Disallow: /travel-trade/ttp-booking
 Disallow: /travel-trade/ttp-booking/*
 Disallow: /travel-trade/ttp-booking/cs_redirect
@@ -105,5 +108,7 @@ Disallow: /travel-trade/ttp-sold-out-calendar/*
 Disallow: /akrr_local/
 Disallow: /arrcapi/
 Disallow: /cssa_mm/
+Disallow: /GYG/
+Disallow: /rabbit/
 Disallow: /ta_training/
 Disallow: /viator/

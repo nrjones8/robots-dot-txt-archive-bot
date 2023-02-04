@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.newcombny.gov/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='townnewcomb.digitaltowpath.org', port=10822): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fabcdc28580>, 'Connection to townnewcomb.digitaltowpath.org timed out. (connect timeout=15)'))"}

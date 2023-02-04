@@ -22,4 +22,10 @@ Disallow: /manual-account-verification
 Disallow: /Unsubscribe-Notification-Results
 Disallow: /my-account/2nd-chance-submissions
 Disallow: /my-account/my-profile/change-password
+User-agent: Twitterbot
+Disallow: *
+Allow: /scratchers-quiz
+User-agent: FacebookBot
+Disallow: *
+Allow: /scratchers-quiz
 Sitemap: https://www.calottery.com/sitemap.xml

@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='jeffersoncounty-mt.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb61fc69670>, 'Connection to jeffersoncounty-mt.gov timed out. (connect timeout=15)'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://jeffersoncounty-mt.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

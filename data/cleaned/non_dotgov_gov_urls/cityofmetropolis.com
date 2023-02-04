@@ -1,3 +1,5 @@
-#robots.txt for all our sites
 User-agent: *
-Disallow: /content/*
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120

@@ -1,1 +1,14 @@
-Request failed
+User-agent: *
+Disallow: /calendar-7/action~posterboard/
+Disallow: /calendar-7/action~agenda/
+Disallow: /calendar-7/action~oneday/
+Disallow: /calendar-7/action~month/
+Disallow: /calendar-7/action~week/
+Disallow: /calendar-7/action~stream/
+Disallow: /calendar-7/action~undefined/
+Disallow: /calendar-7/action~http:/
+Disallow: /calendar-7/action~default/
+Disallow: /calendar-7/action~poster/
+Disallow: /calendar-7/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

@@ -1,7 +1,6 @@
 User-agent: *
 Disallow: https://www.cityofcarlton.com/c/
 Disallow: https://www.cityofcarlton.com/protected/
-Disallow: /new-page/
 Disallow: /animal-licensing/
 Disallow: /area-businesses-and-resources/
 Disallow: /building-permits/
@@ -48,9 +47,9 @@ Disallow: /local-events/
 Disallow: /local-events/carlton-clean-up-days/
 Disallow: /local-events/carlton-daze/
 Disallow: /local-events/elections/
-Disallow: /parks-and-recreation/
-Disallow: /pay-my-bill/
 Disallow: /planning-and-zoning/
+Disallow: /parks-and-recreation/
+Disallow: /parks-and-recreation/pay-my-bill/
 Disallow: /public-library/
 Disallow: /recycle-shed/
 Disallow: /water-sewer-service/

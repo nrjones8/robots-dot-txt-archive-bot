@@ -90,7 +90,7 @@ Sitemap: https://linksonthebayougolf.com/sitemap_index.xml
 Sitemap: https://eagleelectric.org/sitemap_index.xml
 Sitemap: https://tulco-storage.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/awc/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/nrmcf/sitemap_index.xml
+Sitemap: https://nrmcfoundation.org/sitemap_index.xml
 Sitemap: https://lakeguerrerofishing.com/sitemap_index.xml
 Sitemap: https://www.lasallegeneralhospital.com/sitemap_index.xml
 Sitemap: https://stoperosionla.com/sitemap_index.xml

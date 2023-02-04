@@ -1,8 +1,9 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
 User-agent: *
-Disallow: /
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://emainehosting.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

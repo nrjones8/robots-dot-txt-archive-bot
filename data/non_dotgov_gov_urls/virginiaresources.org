@@ -1,13 +1,1 @@
-User-agent: *
-Disallow: /admin
-Disallow: /news/index/print/
-Disallow: /events/index/print/
-Disallow: /flipbook/
-Disallow: /blog/index/print/
-Disallow: /staff/index/print/
-Disallow: /departments/index/print/
-Disallow: /staff/profile/32/m-norman-oliver-md-ma
-Disallow: /staff/division/staff/id/32
-Disallow: /staff/profile/32/*
-
-Sitemap: https://www.virginiaresources.gov/sitemap/xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.virginiaresources.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fabcdb64610>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

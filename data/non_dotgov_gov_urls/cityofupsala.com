@@ -1,33 +1,17 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
 User-agent: *
+Allow: /
+
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
 Disallow: /
 
-Crawl-delay: 60
+Sitemap: https://www.cityofupsala.com/sitemap.xml
 
-Sitemap: http://cityofupsala.com/sitemap.xml
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

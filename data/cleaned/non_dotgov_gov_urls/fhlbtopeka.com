@@ -1,3 +1,1 @@
-ï»¿User-agent: *
-Disallow: /siteadmin
-Sitemap: https://www.fhlbtopeka.com/sitemap.xml
+Got an HTML response
