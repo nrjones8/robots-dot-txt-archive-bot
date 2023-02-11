@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
+﻿User-agent: *
+Disallow: /siteadmin
+
+Sitemap: https://www.fhlbtopeka.com/sitemap.xml

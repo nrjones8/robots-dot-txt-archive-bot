@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lummi-nsn.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fabcdbf6c40>, 'Connection to lummi-nsn.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /EditPage.php
+
+Disallow: /apps
+Disallow: /php
+Disallow: /messaging
+Disallow: /casetracking
+Disallow: /policygroups
+Disallow: /xmlcache
+Disallow: /uploads
+Disallow: /test
+Disallow: /calendars
+Disallow: /DatabaseOutputs
+Disallow: /Junk
+Disallow: /certs

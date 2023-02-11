@@ -1096,8 +1096,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Garbage-Recycling/Copy-of-View-Garbage-Pickup-Recycling-and-Bulky-Trash-Schedules-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Garbage-Recycling/TESTING-of-View-Garbage-Pickup-Recycling-and-Bulky-Trash-Schedules-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
@@ -1159,13 +1157,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-a-Joi
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-an-Expedited-Plan-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Get-an-Expedited-Plan-Review-Building-Department
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-an-Event-Temporary-Structure-or-Sidewalk-Cafe
@@ -1351,7 +1347,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/C
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Concierge-Plan-Review/Request-a-Concierge-Plan-Review-Commercial
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Concierge-Plan-Review-and-Permit-Services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Copy-of-Get-a-Sidewalk-Cafe-Permit-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Designated-Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Determine-if-Your-Building-Needs-to-Meet-BE305-Compliance
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Elevators/Get-a-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Elevators/Get-Certificate-of-Operation-for-Elevators-Temporary-or-Final
@@ -1369,8 +1364,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Sidewalk-Cafe-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Guidelines-to-Getting-a-Permit
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -1477,7 +1470,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Copy-of-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Get-a-Standalone-Tree-Removal-Permit-No-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Get-a-Tree-Permit-New-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Get-a-Utility-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Historical-Collection
@@ -1564,8 +1556,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/G
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Permit-to-Build-a-Driveway
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Get-City-Gym-Memebership
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services-Folder/Tree-Permits
@@ -2876,8 +2866,6 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
-Disallow: /My-Home-Neighborhood/Garbage-Recycling/Copy-of-View-Garbage-Pickup-Recycling-and-Bulky-Trash-Schedules-1
-Disallow: /My-Home-Neighborhood/Garbage-Recycling/TESTING-of-View-Garbage-Pickup-Recycling-and-Bulky-Trash-Schedules-1
 Disallow: /My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
@@ -2939,13 +2927,11 @@ Disallow: /Permits-Construction/Get-a-Joint-Plan-Review
 Disallow: /Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
 Disallow: /Permits-Construction/Get-an-Expedited-Plan-Review
 Disallow: /Permits-Construction/Get-an-Expedited-Plan-Review-Building-Department
-Disallow: /Permits-Construction/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/New-page
-Disallow: /Permits-Construction/Permit-Catalog/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Permit-Catalog/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-an-Event-Temporary-Structure-or-Sidewalk-Cafe
@@ -3131,7 +3117,6 @@ Disallow: /Services/Building-Permitting/Concierge-Plan-Review/Request-a-Concierg
 Disallow: /Services/Building-Permitting/Concierge-Plan-Review/Request-a-Concierge-Plan-Review-Commercial
 Disallow: /Services/Building-Permitting/Concierge-Plan-Review-and-Permit-Services
 Disallow: /Services/Building-Permitting/Copy-of-Get-a-Sidewalk-Cafe-Permit-1
-Disallow: /Services/Building-Permitting/Designated-Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services/Building-Permitting/Determine-if-Your-Building-Needs-to-Meet-BE305-Compliance
 Disallow: /Services/Building-Permitting/Elevators/Get-a-Certificate-of-Operation-for-Elevators-Temporary-or-Final
 Disallow: /Services/Building-Permitting/Elevators/Get-Certificate-of-Operation-for-Elevators-Temporary-or-Final
@@ -3149,8 +3134,6 @@ Disallow: /Services/Building-Permitting/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone
 Disallow: /Services/Building-Permitting/Get-a-Sidewalk-Cafe-Permit
 Disallow: /Services/Building-Permitting/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Building-Permitting/Guidelines-to-Getting-a-Permit
-Disallow: /Services/Building-Permitting/Historically-Designated-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
-Disallow: /Services/Building-Permitting/Historic-Properties/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services/Building-Permitting/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
 Disallow: /Services/Building-Permitting/New-page
 Disallow: /Services/Building-Permitting/Permit-Catalog/Apply-for-a-Standalone-Tree-Permit-No-Construction
@@ -3257,7 +3240,6 @@ Disallow: /Services/Get-a-Permit/Copy-of-Get-a-Standalone-Tree-Removal-Permit-No
 Disallow: /Services/Get-a-Permit/Get-a-Standalone-Tree-Removal-Permit-No-Construction
 Disallow: /Services/Get-a-Permit/Get-a-Tree-Permit-New-Construction
 Disallow: /Services/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way
-Disallow: /Services/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services/Get-a-Utility-or-Closure-Permit-for-Construction-Public-Works
 Disallow: /Services/Get-a-Utility-Permit
 Disallow: /Services/Historical-Collection
@@ -3344,8 +3326,6 @@ Disallow: /Services-Folder/Get-a-Permit/Get-a-Standalone-Tree-Removal-Permit-No-
 Disallow: /Services-Folder/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Services-Folder/Get-a-Permit/Plant-a-Tree-in-the-Right-of-Way-Landscaping-Permit
 Disallow: /Services-Folder/Get-a-Permit-to-Build-a-Driveway
-Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness
-Disallow: /Services-Folder/Get-a-Standard-Certificate-of-Appropriateness-COA
 Disallow: /Services-Folder/Get-City-Gym-Memebership
 Disallow: /Services-Folder/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /Services-Folder/Tree-Permits

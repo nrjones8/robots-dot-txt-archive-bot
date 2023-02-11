@@ -1,1 +1,8 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://helena-township.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

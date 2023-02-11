@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /government-services/vision-zero$
+Disallow: /government-services/vision-zero?
+Disallow: /government-services/vision-zero/~
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
@@ -326,6 +329,9 @@ Disallow: /production/navigation/tier-three-page/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
+Disallow: /education/continuing-education$
+Disallow: /education/continuing-education?
+Disallow: /education/continuing-education/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~

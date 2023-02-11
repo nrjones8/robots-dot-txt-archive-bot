@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cumberlandtownship.com', port=80): Read timed out. (read timeout=15)"}
+
+sitemap: http://cumberlandtownship.com/sitemap.xml

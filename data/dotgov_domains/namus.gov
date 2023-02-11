@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /$
-Allow: /About
-Allow: /Contact
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.namus.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7efd9f4c2b80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

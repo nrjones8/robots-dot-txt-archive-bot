@@ -60,3 +60,5 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 # Prevent crawlers from hitting old search.
 Disallow: /cgi-bin/search/
+# Prevent crawlers from indexing council round pages
+Disallow: /about/advisory-and-peer-review-committees/roster/hlbp/

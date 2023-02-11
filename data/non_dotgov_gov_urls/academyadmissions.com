@@ -1,4 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://www.academyadmissions.com/sitemap_index.xml
+
+Sitemap: https://www.academyadmissions.com/sitemap_index.xml

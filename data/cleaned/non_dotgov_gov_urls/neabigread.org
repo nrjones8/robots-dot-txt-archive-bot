@@ -1,5 +1,7 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-Sitemap: https://neabigread.org/sitemap.xml
-Sitemap: https://neabigread.org/sitemap.rss
+Disallow:
+Sitemap: https://neabigread.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

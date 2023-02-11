@@ -1,1 +1,1 @@
-Request failed
+sitemap: http://cumberlandtownship.com/sitemap.xml

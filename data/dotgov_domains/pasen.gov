@@ -1,9 +1,1 @@
-User-agent: *
-Disallow: /cfdocs/legis/home/bills/applyStyle.cfm 
-Disallow:  /cfdocs/Errors/404.cfm
-Disallow:  /cfdocs/Errors/
-Crawl-delay: 5
-
-#block synapse
-User-agent: Mozilla/4.0 (compatible; Synapse)
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='pasen.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7efd9f69a040>, 'Connection to pasen.gov timed out. (connect timeout=15)'))"}
