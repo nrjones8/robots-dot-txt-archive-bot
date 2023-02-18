@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /agendas$
-Disallow: /agendas?
-Disallow: /agendas/~
 Disallow: /documents/purchasing$
 Disallow: /documents/purchasing?
 Disallow: /documents/purchasing/~
+Disallow: /agendas$
+Disallow: /agendas?
+Disallow: /agendas/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~

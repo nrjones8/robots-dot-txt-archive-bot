@@ -38,9 +38,6 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /government-services/vision-zero$
-Disallow: /government-services/vision-zero?
-Disallow: /government-services/vision-zero/~
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
@@ -287,12 +284,12 @@ Disallow: /production/organizational/container/~
 Disallow: /instructions$
 Disallow: /instructions?
 Disallow: /instructions/~
-Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes$
-Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes?
-Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes/~
 Disallow: /town-departments/economic-development/available-properties$
 Disallow: /town-departments/economic-development/available-properties?
 Disallow: /town-departments/economic-development/available-properties/~
+Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes$
+Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes?
+Disallow: /town-departments/senior-centers/bishops-corner-senior-center/classes/~
 Disallow: /production/calendar/slideshow$
 Disallow: /production/calendar/slideshow?
 Disallow: /production/calendar/slideshow/~
@@ -314,15 +311,18 @@ Disallow: /contact-us/staff-directory/search-results/~
 Disallow: /town-departments/planning-zoning/complete-streets/new-park-avenue-complete-streets-study$
 Disallow: /town-departments/planning-zoning/complete-streets/new-park-avenue-complete-streets-study?
 Disallow: /town-departments/planning-zoning/complete-streets/new-park-avenue-complete-streets-study/~
+Disallow: /town-departments/economic-development/projects$
+Disallow: /town-departments/economic-development/projects?
+Disallow: /town-departments/economic-development/projects/~
+Disallow: /resident-services/clean-energy$
+Disallow: /resident-services/clean-energy?
+Disallow: /resident-services/clean-energy/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
 Disallow: /production/constituent/students$
 Disallow: /production/constituent/students?
 Disallow: /production/constituent/students/~
-Disallow: /resident-services/clean-energy$
-Disallow: /resident-services/clean-energy?
-Disallow: /resident-services/clean-energy/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~

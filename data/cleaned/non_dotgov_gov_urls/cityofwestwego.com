@@ -96,6 +96,8 @@ User-agent: Linguee Bot
 Crawl-Delay: 20
 User-agent: ZoominfoBot
 Crawl-Delay: 20
+User-agent: MJ12bot
+Crawl-Delay: 20
 User-agent: ia_archiver
 Crawl-Delay: 20
 User-agent: linkdexbot/2.1
@@ -104,13 +106,7 @@ User-agent: Gigabot
 Crawl-Delay: 20
 User-agent: ccbot
 Crawl-Delay: 20
-User-agent: dotbot
-Crawl-delay: 20
-User-agent: MJ12bot
-Disallow: /
 User-agent: MegaIndex.ru
-Disallow: /
-User-agent: SeekportBot
 Disallow: /
 User-agent: megaindex.com
 Disallow: /

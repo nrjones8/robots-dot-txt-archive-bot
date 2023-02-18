@@ -3,6 +3,7 @@
 User-agent: htdig/3.1.6
 Disallow: /cgi-bin
 Disallow: /entrez
+Disallow: /stat
 Disallow: /COG
 Disallow: /Entrez
 Disallow: /mailman
@@ -42,6 +43,7 @@ Disallow: /viewvc
 User-agent: Baiduspider
 Disallow: /cgi-bin
 Disallow: /entrez
+Disallow: /stat
 Disallow: /COG
 Disallow: /Entrez
 Disallow: /mailman
@@ -80,6 +82,7 @@ Disallow: /Structure/vast/vastsrv.cgi
 Disallow: /viewvc
 User-agent: Googlebot
 Disallow: /cgi-bin
+Disallow: /stat
 Disallow: /COG
 Disallow: /mailman
 Disallow: /sutils
@@ -131,6 +134,7 @@ Allow: /portal/portal3rc.fcgi/*/*.css
 User-agent: Teleport Pro
 Disallow: /cgi-bin
 Disallow: /entrez
+Disallow: /stat
 Disallow: /COG
 Disallow: /Entrez
 Disallow: /myncbi
@@ -172,6 +176,7 @@ User-agent: Slurp
 Crawl-delay: 1
 Disallow: /cgi-bin
 Disallow: /entrez
+Disallow: /stat
 Disallow: /COG
 Disallow: /Entrez
 Disallow: /myncbi
@@ -215,9 +220,11 @@ Allow: /books/NBK*
 User-agent: Exabot
 Disallow: /Structure
 Disallow: /mailman
+Disallow: /stat
 User-agent: bingbot
 Disallow: /cgi-bin
 Disallow: /entrez
+Disallow: /stat
 Disallow: /COG
 Disallow: /Entrez
 Disallow: /myncbi
@@ -261,6 +268,7 @@ Allow: /portal/portal3rc.fcgi/*/*.css
 User-agent: *
 Crawl-delay: 5
 Disallow: /cgi-bin
+Disallow: /stat
 Disallow: /entrez
 Disallow: /COG
 Disallow: /Entrez

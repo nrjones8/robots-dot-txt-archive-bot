@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# robots.txt for http://www.co.kittitas.wa.us/
+Sitemap: http://www.co.kittitas.wa.us/Web.sitemap
+User-agent: *
+Disallow: /App_Themes/
+Disallow: /cgi-bin/
+Disallow: /clerk/calendars/
+Disallow: /inc/
+Disallow: /scripts/
+Disallow: /test/
+Disallow: robots.txt
+Disallow: 404.asp
+Disallow: departments.htm
+Disallow: government.htm
+Disallow: history.htm
+Disallow: refresh.asp
+Disallow: search.asp
+Disallow: sitemap.asp
