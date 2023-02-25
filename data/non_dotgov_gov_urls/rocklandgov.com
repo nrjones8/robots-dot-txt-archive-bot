@@ -4,6 +4,10 @@ Allow: /
 User-agent: NinjaBot
 Allow: /
 
+User-agent: Screaming Frog SEO Spider
+
+Allow: /
+
 User-agent: *
 Crawl-delay: 1
 Sitemap: http://rocklandgov.com/sitemap.xml

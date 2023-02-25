@@ -1,4 +1,8 @@
 User-agent: *
-Sitemap: https://www.franklinnc.com/sitemap.xml
 Allow: /
 Disallow: /cgi-bin/
+
+User-agent: *
+Disallow: /webmail/
+
+Sitemap: https://www.franklinnc.com/sitemap.xml

@@ -3,6 +3,7 @@ Disallow: https://www.cityofcarlton.com/c/
 Disallow: https://www.cityofcarlton.com/protected/
 Disallow: /animal-licensing/
 Disallow: /area-businesses-and-resources/
+Disallow: /blog/
 Disallow: /building-permits/
 Disallow: /carlton-twin-lakes-joint-powers-board/
 Disallow: /city-code-ordinances/
@@ -49,7 +50,7 @@ Disallow: /local-events/carlton-daze/
 Disallow: /local-events/elections/
 Disallow: /planning-and-zoning/
 Disallow: /parks-and-recreation/
-Disallow: /parks-and-recreation/pay-my-bill/
+Disallow: /pay-my-bill/
 Disallow: /public-library/
 Disallow: /recycle-shed/
 Disallow: /water-sewer-service/
