@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: 
-Sitemap: http://whm.boroughwestmifflin.com/sitemap.xml
+Sitemap: http://mail.boroughwestmifflin.com/sitemap.xml

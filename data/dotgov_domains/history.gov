@@ -1,8 +1,9 @@
-User-Agent: *
-Disallow: /__services/
-Disallow: /thread-to-doc.jspa
-Disallow: /docs/*/version
-Disallow: /docs/*/diff
-Disallow: /docs/*/restore
-
-sitemap: /sitemap-index.jspa
+User-agent: *
+Disallow: /utility/
+Disallow: /error
+Disallow: /search
+Disallow: /msgs
+Disallow: /api.ashx
+Disallow: /tags
+Disallow: /*/tags
+Disallow: *.axd

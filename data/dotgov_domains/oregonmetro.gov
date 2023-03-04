@@ -91,6 +91,16 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+# Block junk New Relic traffic.
+Disallow:*/ajax/*
+Disallow:*/aggregate/*
+Disallow:*/jserrors/*
+Disallow:*/metrics/*
+Disallow:*/page_action/*
+Disallow:*/page_view_event/*
+Disallow:*/page_view_timing/*
+Disallow:*/session_trace/*
+Disallow:*/spa/*
 User-agent: dotbot
 Disallow: /
 User-agent: Coccocbot

@@ -1,18 +1,1 @@
-User-agent: *
-Disallow: /admin
-Disallow: /ajax
-Disallow: /ajaxtabs
-Disallow: /benchmark
-Disallow: /calendar
-Disallow: /downloads
-Disallow: /forum
-Disallow: /icon
-Disallow: /images
-Disallow: /mail
-Disallow: /mobile
-Disallow: /mtw
-Disallow: /rss_get
-Disallow: /scripts
-Disallow: /stats
-Disallow: /old
-Disallow: /weather
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='campbellsville.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f26476ddd30>, 'Connection to campbellsville.com timed out. (connect timeout=15)'))"}

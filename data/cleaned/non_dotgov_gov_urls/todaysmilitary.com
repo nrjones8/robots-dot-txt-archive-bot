@@ -11,7 +11,7 @@
 # Ignored: http://example.com/site/robots.txt
 #
 # For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
+# http://www.robotstxt.org/robotstxt.html 
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
