@@ -38,18 +38,18 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
-Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
-Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
 Disallow: /vmsr-skate-calendar$
 Disallow: /vmsr-skate-calendar?
 Disallow: /vmsr-skate-calendar/~
-Disallow: /town-departments/tax-office/covid-19-tax-deferment-program$
-Disallow: /town-departments/tax-office/covid-19-tax-deferment-program?
-Disallow: /town-departments/tax-office/covid-19-tax-deferment-program/~
+Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
+Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
+Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
 Disallow: /town-departments/social-services/panhandling/panhandling-tips$
 Disallow: /town-departments/social-services/panhandling/panhandling-tips?
 Disallow: /town-departments/social-services/panhandling/panhandling-tips/~
+Disallow: /town-departments/tax-office/covid-19-tax-deferment-program$
+Disallow: /town-departments/tax-office/covid-19-tax-deferment-program?
+Disallow: /town-departments/tax-office/covid-19-tax-deferment-program/~
 Disallow: /home-clone-5-2021$
 Disallow: /home-clone-5-2021?
 Disallow: /home-clone-5-2021/~
@@ -230,6 +230,9 @@ Disallow: /production/right-banner-clone/~
 Disallow: /production$
 Disallow: /production?
 Disallow: /production/~
+Disallow: /staff-directory$
+Disallow: /staff-directory?
+Disallow: /staff-directory/~
 Disallow: /production/social-elements$
 Disallow: /production/social-elements?
 Disallow: /production/social-elements/~
@@ -242,9 +245,6 @@ Disallow: /production/search/~
 Disallow: /production/embed$
 Disallow: /production/embed?
 Disallow: /production/embed/~
-Disallow: /staff-directory$
-Disallow: /staff-directory?
-Disallow: /staff-directory/~
 Disallow: /production/navigation$
 Disallow: /production/navigation?
 Disallow: /production/navigation/~
@@ -314,15 +314,15 @@ Disallow: /town-departments/planning-zoning/complete-streets/new-park-avenue-com
 Disallow: /town-departments/economic-development/projects$
 Disallow: /town-departments/economic-development/projects?
 Disallow: /town-departments/economic-development/projects/~
-Disallow: /resident-services/clean-energy$
-Disallow: /resident-services/clean-energy?
-Disallow: /resident-services/clean-energy/~
 Disallow: /production/constituent/directory$
 Disallow: /production/constituent/directory?
 Disallow: /production/constituent/directory/~
 Disallow: /production/constituent/students$
 Disallow: /production/constituent/students?
 Disallow: /production/constituent/students/~
+Disallow: /resident-services/clean-energy$
+Disallow: /resident-services/clean-energy?
+Disallow: /resident-services/clean-energy/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~

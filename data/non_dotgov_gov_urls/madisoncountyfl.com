@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://madisoncountyfl.com/wp-sitemap.xml
+
+Sitemap: https://madisoncountyfl.com/sitemapindex.xml

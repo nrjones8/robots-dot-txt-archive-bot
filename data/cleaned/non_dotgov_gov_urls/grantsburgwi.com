@@ -1,4 +1,4 @@
-Sitemap: http://www.grantsburgwi.com/sitemap.xml
+Sitemap: https://www.villageofgrantsburg.gov/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

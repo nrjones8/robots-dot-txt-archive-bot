@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /government/commissions/putnam-trails-committee$
-Disallow: /government/commissions/putnam-trails-committee?
-Disallow: /government/commissions/putnam-trails-committee/~
 Disallow: /business/putnam-business-association$
 Disallow: /business/putnam-business-association?
 Disallow: /business/putnam-business-association/~
+Disallow: /government/commissions/putnam-trails-committee$
+Disallow: /government/commissions/putnam-trails-committee?
+Disallow: /government/commissions/putnam-trails-committee/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~
@@ -62,15 +62,15 @@ Disallow: /government/commissions/town-meetings/~
 Disallow: /government/commissions/commission-on-aging/resources$
 Disallow: /government/commissions/commission-on-aging/resources?
 Disallow: /government/commissions/commission-on-aging/resources/~
-Disallow: /government/boards/putnam-public-library-board-of-trustees$
-Disallow: /government/boards/putnam-public-library-board-of-trustees?
-Disallow: /government/boards/putnam-public-library-board-of-trustees/~
-Disallow: /production/navigation/tier-three-page/tier-four-page$
-Disallow: /production/navigation/tier-three-page/tier-four-page?
-Disallow: /production/navigation/tier-three-page/tier-four-page/~
 Disallow: /government/commissions/special-services-district-authority$
 Disallow: /government/commissions/special-services-district-authority?
 Disallow: /government/commissions/special-services-district-authority/~
+Disallow: /production/navigation/tier-three-page/tier-four-page$
+Disallow: /production/navigation/tier-three-page/tier-four-page?
+Disallow: /production/navigation/tier-three-page/tier-four-page/~
+Disallow: /government/boards/putnam-public-library-board-of-trustees$
+Disallow: /government/boards/putnam-public-library-board-of-trustees?
+Disallow: /government/boards/putnam-public-library-board-of-trustees/~
 Disallow: /education/putnam-school-administration$
 Disallow: /education/putnam-school-administration?
 Disallow: /education/putnam-school-administration/~
@@ -89,9 +89,6 @@ Disallow: /government/boards/zoning-board-of-appeals/~
 Disallow: /government/commissions/zoning-commission$
 Disallow: /government/commissions/zoning-commission?
 Disallow: /government/commissions/zoning-commission/~
-Disallow: /government/commissions/planning-commission$
-Disallow: /government/commissions/planning-commission?
-Disallow: /government/commissions/planning-commission/~
 Disallow: /production/calendar/grid$
 Disallow: /production/calendar/grid?
 Disallow: /production/calendar/grid/~
@@ -107,15 +104,15 @@ Disallow: /production/posts/grid/~
 Disallow: /production/posts/single$
 Disallow: /production/posts/single?
 Disallow: /production/posts/single/~
+Disallow: /government/commissions/planning-commission$
+Disallow: /government/commissions/planning-commission?
+Disallow: /government/commissions/planning-commission/~
 Disallow: /portal-home$
 Disallow: /portal-home?
 Disallow: /portal-home/~
 Disallow: /production/organizational/three-column$
 Disallow: /production/organizational/three-column?
 Disallow: /production/organizational/three-column/~
-Disallow: /government/commissions/redevelopment-agency$
-Disallow: /government/commissions/redevelopment-agency?
-Disallow: /government/commissions/redevelopment-agency/~
 Disallow: /production/calendar/slideshow$
 Disallow: /production/calendar/slideshow?
 Disallow: /production/calendar/slideshow/~
@@ -125,6 +122,9 @@ Disallow: /production/calendar/event/~
 Disallow: /production/constituent/profile$
 Disallow: /production/constituent/profile?
 Disallow: /production/constituent/profile/~
+Disallow: /government/commissions/redevelopment-agency$
+Disallow: /government/commissions/redevelopment-agency?
+Disallow: /government/commissions/redevelopment-agency/~
 Disallow: /production/constituent/students$
 Disallow: /production/constituent/students?
 Disallow: /production/constituent/students/~
@@ -137,6 +137,9 @@ Disallow: /production/constituent/search/~
 Disallow: /production$
 Disallow: /production?
 Disallow: /production/~
+Disallow: /government/commissions/ethics-commission$
+Disallow: /government/commissions/ethics-commission?
+Disallow: /government/commissions/ethics-commission/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
@@ -158,9 +161,6 @@ Disallow: /production/banners/left-right-banners/~
 Disallow: /government/commissions/inland-wetlands-commission$
 Disallow: /government/commissions/inland-wetlands-commission?
 Disallow: /government/commissions/inland-wetlands-commission/~
-Disallow: /government/commissions/ethics-commission$
-Disallow: /government/commissions/ethics-commission?
-Disallow: /government/commissions/ethics-commission/~
 Disallow: /production/page-layout/two-column-bottom-left-sidebar$
 Disallow: /production/page-layout/two-column-bottom-left-sidebar?
 Disallow: /production/page-layout/two-column-bottom-left-sidebar/~

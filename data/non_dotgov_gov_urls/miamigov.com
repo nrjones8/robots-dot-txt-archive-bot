@@ -170,6 +170,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins/Copy-of-YouTube-Video-Header-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins/Vimeo-Video-Header
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Styles-Add-ins/YouTube-Video-Header
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/TEST-API
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/TEST-City-of-Miami-Address-History
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Unsafe-Structures-Hearings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Unsafe-test
@@ -787,20 +788,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/MiamiCapital/NewBidsandProposa
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/microloanapplication
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/migration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/municode/procurement
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2020-21-Auditor-Reports
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2021-22-Auditor-Reports
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2022-23-Auditor-Reports
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/Copy-of-2021-22-Auditor-Reports-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/City-Commission
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes/061818-Meeting
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Boards-Committees/Climate-Resilience-Committee/RSS-Feed-Test
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Copy-of-Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
@@ -868,6 +860,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Code
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Allapattah-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Coconut-Grove-Service-Center
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D1-Antonio-Maceo-Park-District-Office
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Flagami-District-Four-Office
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
@@ -960,6 +953,8 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Offi
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-Auditor-General/Auditor-General-Reports
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-Auditor-General/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
@@ -1098,7 +1093,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Copy-of-Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
@@ -1106,6 +1100,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Homeowner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
@@ -1838,6 +1833,7 @@ Disallow: /Content-Sandbox/Styles-Add-ins/Background-Video-Header
 Disallow: /Content-Sandbox/Styles-Add-ins/Copy-of-YouTube-Video-Header-1
 Disallow: /Content-Sandbox/Styles-Add-ins/Vimeo-Video-Header
 Disallow: /Content-Sandbox/Styles-Add-ins/YouTube-Video-Header
+Disallow: /Content-Sandbox/TEST-API
 Disallow: /Content-Sandbox/TEST-City-of-Miami-Address-History
 Disallow: /Content-Sandbox/Unsafe-Structures-Hearings
 Disallow: /Content-Sandbox/Unsafe-test
@@ -2563,20 +2559,11 @@ Disallow: /MiamiCapital/NewBidsandProposals.html
 Disallow: /microloanapplication
 Disallow: /migration
 Disallow: /municode/procurement
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-1
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2020-21-Auditor-Reports
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2021-22-Auditor-Reports
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/2022-23-Auditor-Reports
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/Copy-of-2021-22-Auditor-Reports-1
-Disallow: /My-Government/Boards-Committees/Auditor-General-Reports-SAMPLE-2/New-page
 Disallow: /My-Government/Boards-Committees/City-Commission
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes/061818-Meeting
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/RSS-Feed-Test
-Disallow: /My-Government/Boards-Committees/Copy-of-Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings-1
-Disallow: /My-Government/Boards-Committees/New-page
+Disallow: /My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
 Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
@@ -2644,6 +2631,7 @@ Disallow: /My-Government/Departments/Code-Compliance/ProChamps
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Allapattah-Service-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Coconut-Grove-Service-Center
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D1-Antonio-Maceo-Park-District-Office
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Flagami-District-Four-Office
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
@@ -2736,6 +2724,8 @@ Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Pag
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects
+Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Auditor-General-Reports
+Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
@@ -2874,7 +2864,6 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
-Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Copy-of-Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings-1
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
@@ -2882,6 +2871,7 @@ Disallow: /My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
+Disallow: /My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood

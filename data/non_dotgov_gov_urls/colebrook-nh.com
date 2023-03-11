@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='colebrook-nh.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow:
+
+Sitemap: https://colebrook-nh.com/sitemap_index.xml
