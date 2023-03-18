@@ -1,3 +1,17 @@
+User-agent: *
+# Don't do it robots
+Disallow: /administration/
+Disallow: /users/
+Disallow: /assets/
+Disallow: /api/
+Disallow: /help/
+Disallow: /bin/
+Disallow: /code/
+Disallow: /manage/
+Disallow: /control/
+Disallow: /lib/
+Disallow: /src/
+Disallow: /filestore/
 #
 # robots.txt
 #
@@ -62,3 +76,6 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+User-agent: *
+# Static assets for other applications
+Disallow: /static/

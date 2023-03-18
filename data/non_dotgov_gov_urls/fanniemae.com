@@ -22,6 +22,8 @@ Disallow: /*/node/
 Disallow: /homeown/
 Disallow: /media/document/pdf/virtual-sf-reinsurance-summit-agenda-2022.pdf
 Disallow: /media/document/pdf/virtual-sf-reinsurance-summit-presentation-2022.pdf
+Disallow: /media/document/pdf/sf-reinsurance-summit-presentation-2023.pdf
+Disallow: /media/document/pdf/sf-reinsurance-summit-agenda-2023.pdf
 Disallow: /kenneth-imo
 # CSS, JS, Images
 Allow: /core/*.css$

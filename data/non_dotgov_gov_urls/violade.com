@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='violade.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4f940c0df0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.violade.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

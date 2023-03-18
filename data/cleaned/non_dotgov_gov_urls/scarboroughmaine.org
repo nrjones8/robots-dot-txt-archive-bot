@@ -35,15 +35,15 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /test-page$
-Disallow: /test-page?
-Disallow: /test-page/~
 Disallow: /budget$
 Disallow: /budget?
 Disallow: /budget/~
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers$
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers?
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers/~
+Disallow: /test-page$
+Disallow: /test-page?
+Disallow: /test-page/~
 Disallow: /nav-header-utillity/quicklinks/covid-19-response$
 Disallow: /nav-header-utillity/quicklinks/covid-19-response?
 Disallow: /nav-header-utillity/quicklinks/covid-19-response/~
@@ -65,12 +65,12 @@ Disallow: /departments/public-works/public-works-news/default/~
 Disallow: /departments/planning-codes/technical-division/sustainability$
 Disallow: /departments/planning-codes/technical-division/sustainability?
 Disallow: /departments/planning-codes/technical-division/sustainability/~
-Disallow: /budget/meetings/monthly$
-Disallow: /budget/meetings/monthly?
-Disallow: /budget/meetings/monthly/~
 Disallow: /budget/town-budget$
 Disallow: /budget/town-budget?
 Disallow: /budget/town-budget/~
+Disallow: /budget/meetings/monthly$
+Disallow: /budget/meetings/monthly?
+Disallow: /budget/meetings/monthly/~
 Disallow: /privacy-policy-link$
 Disallow: /privacy-policy-link?
 Disallow: /privacy-policy-link/~

@@ -1,8 +1,4 @@
-Sitemap: http://www.bassriver-nj.org/sitemap.xml
-User-agent: NerdyBot
-Disallow: /
 User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
-Disallow: /tax-office.html
-Disallow: /maps.html
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://bassriver-nj.org/wp-sitemap.xml

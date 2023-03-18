@@ -11,7 +11,6 @@ Sitemap: https://hunterandbeck.com/sitemap_index.xml
 Sitemap: https://jenagiantsbooster.com/sitemap_index.xml
 Sitemap: https://harveyautoparts.com/sitemap_index.xml
 Sitemap: https://teaguejones.com/sitemap_index.xml
-Sitemap: https://nextgenerationinsulation.com/sitemap_index.xml
 Sitemap: https://brianelectriccompany.com/sitemap_index.xml
 Sitemap: https://chrischelette.com/sitemap_index.xml
 Sitemap: https://greatamericancookiesandmarbleslabcreamery.com/sitemap_index.xml

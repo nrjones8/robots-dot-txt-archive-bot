@@ -5,18 +5,15 @@ Disallow: /z/*/*/*/*
 Disallow: /tv/*/*/*/*/*
 Disallow: /radio/*/*/*/*/*
 Disallow: /schedule/*/*/*/*/*
-Disallow: /*d=*m=*y=*
-Disallow: /*wr=1
 Disallow: /*?p=*
 Disallow: /comments/*
-Disallow: /player/*
+Disallow: /embed/*
 Disallow: /s?k=*
-Disallow: /login.html
-Disallow: /signup.html
-Disallow: /passwordrecovery.html
 Disallow: /navigation.html
 Disallow: /Navigation/*
 Disallow: /office365/login.html
+Disallow: /podcast/sublink/*
+Clean-param: layout&fb_comment_id /a/*.html
 
 User-agent: AhrefsBot
 Disallow: /
