@@ -1,10 +1,1 @@
-User-agent: *
-Disallow: 
-Disallow: /bin/
-Disallow: /enews/trainings/fraud14materials.html
-Disallow: /trainings/fraud/2014/
-Disallow: /references/gasb77/GASB 77 FAQ 1 20 17.pdf
-
-# The follow 2 Rules are for CFAE/Tim Downing - Hidden Directories
-Disallow: /OCS
-Disallow: /ips/UniformGuidance
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ohioauditor.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63253ba130>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

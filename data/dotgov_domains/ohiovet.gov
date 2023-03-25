@@ -1,8 +1,1 @@
-User-agent: *
-Disallow: /wps/wcm/connect/gov/ohio+content+english/
-Disallow: /wps/wcm/connect/gov/Ohio+Content+English/
-Disallow: /wps/wcm/connect/gov/ohio%20content%20english/
-Disallow: /wps/wcm/connect/gov/Ohio%20Content%20English/
-Disallow: /wps/portal/gov/dvs/search/
-Disallow: /search/
-Sitemap: https://dvs.ohio.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ohiovet.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f63253a7160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

@@ -1,1 +1,19 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /engine1/
+Disallow: /data1/
+Disallow: /Calendar_old/
+Disallow: /Calendar/
+Disallow: /Cal/
+Disallow: /Backup/
+Disallow: /Menus/
+Disallow: /Scrap/
+Disallow: /Themes/
+Disallow: /Sphider/
+Disallow: /Website Revamp/
+Disallow: /Slider/
+Disallow: /responsive-calendar/
+Disallow: /Newwebbackup/
+Disallow: /Lib/
+Disallow: /css/

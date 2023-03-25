@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+
+
+Sitemap: https://www.mecknc.gov:443/sitemap.xml

@@ -54,6 +54,8 @@ Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Do-it-online
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Featured-Content
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slider
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Home/Slideshow
+Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/City-of-Miami-re-opens-Tower-Theater
+Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/New-page
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Tabs
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Image-Galleries
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Site-Footer
@@ -3496,6 +3498,8 @@ Disallow: /towertheater/Home/Do-it-online
 Disallow: /towertheater/Home/Featured-Content
 Disallow: /towertheater/Home/Slider
 Disallow: /towertheater/Home/Slideshow
+Disallow: /towertheater/Home/Slideshow/City-of-Miami-re-opens-Tower-Theater
+Disallow: /towertheater/Home/Slideshow/New-page
 Disallow: /towertheater/Home/Tabs
 Disallow: /towertheater/Image-Galleries
 Disallow: /towertheater/Site-Footer

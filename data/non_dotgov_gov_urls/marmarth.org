@@ -1,8 +1,47 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
+User-agent: AhrefsBot
+Disallow: /
 
-Sitemap: https://www.marmarth.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: SemrushBot-BM
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: MegaIndexBot
+Disallow: /
+
+User-agent: SEO-PowerSuite-bot
+Disallow: /
