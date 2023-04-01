@@ -1,1 +1,9 @@
-Request failed
+User-agent: *
+Disallow: 
+Disallow: /bin/
+Disallow: /enews/trainings/fraud14materials.html
+Disallow: /trainings/fraud/2014/
+Disallow: /references/gasb77/GASB 77 FAQ 1 20 17.pdf
+# The follow 2 Rules are for CFAE/Tim Downing - Hidden Directories
+Disallow: /OCS
+Disallow: /ips/UniformGuidance

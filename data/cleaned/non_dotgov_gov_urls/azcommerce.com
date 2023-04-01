@@ -1,13 +1,1 @@
-User-agent: *
-Disallow: /umbraco
-Disallow: /xslt
-Disallow: /python
-Disallow: /scripts
-Disallow: /usercontrols
-Disallow: /umbraco_client
-Disallow: /bin
-Disallow: /data
-Disallow: /config
-Disallow: /legacy
-Disallow: /ax
-Disallow: /response
+Got an HTML response

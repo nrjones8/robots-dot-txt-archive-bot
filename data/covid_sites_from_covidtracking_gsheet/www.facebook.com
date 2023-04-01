@@ -17,7 +17,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -40,7 +39,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -63,7 +61,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -87,7 +84,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -111,7 +107,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -134,7 +129,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -158,7 +152,6 @@ Disallow: /l.php
 Disallow: /map_tile.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -183,7 +176,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -207,7 +199,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -230,7 +221,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -253,7 +243,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -277,7 +266,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -300,7 +288,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -323,7 +310,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -346,7 +332,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -369,7 +354,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -393,7 +377,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -416,7 +399,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -439,7 +421,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php
@@ -462,7 +443,6 @@ Disallow: /job_application/
 Disallow: /l.php
 Disallow: /moments_app/
 Disallow: /p.php
-Disallow: /photo.php
 Disallow: /photos.php
 Disallow: /plugins/
 Disallow: /share.php

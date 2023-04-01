@@ -1,8 +1,5 @@
-Disallow: /wp-content/uploads/wpforms/
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-login.php?action=lostpassword
 Sitemap: https://stateofwatourism.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

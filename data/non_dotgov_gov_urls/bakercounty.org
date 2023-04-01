@@ -1,1 +1,43 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+#Landing Pages
+Disallow: /landing/
+Disallow: /lp/
+#Files
+Disallow: /files/
+Disallow: /private-files/
+Disallow: /department/
+Disallow: /intranet/
+#Websites
+Allow: /admin/*
+Allow: /assessors/*
+Allow: /budget/*
+Allow: /building/*
+Allow: /clerks/*
+Allow: /commissioners/*
+Allow: /cultural_plan/*
+Allow: /da/*
+Allow: /directory/*
+Disallow: /department/*
+Allow: /elections/*
+Allow: /emergency/*
+Allow: /facilities/*
+Allow: /facts_history/*
+Allow: /fair/*
+Disallow: /intranet/*
+Allow: /justice/*
+Allow: /juvenile/*
+Allow: /mason_dam/*
+Allow: /online/*
+Allow: /other_links/*
+Allow: /pages/*
+Allow: /parks/*
+Allow: /planning/*
+Allow: /road/*
+Allow: /surveyor/*
+Allow: /tlt/*
+Allow: /transit/*
+Allow: /treasurer/*
+Allow: /veterans/*
+Allow: /weeds/*
+
+

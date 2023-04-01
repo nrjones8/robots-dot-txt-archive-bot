@@ -11,105 +11,51 @@
 # Ignored: http://example.com/site/robots.txt
 #
 # For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/wc/robots.html
-#
-# For syntax checking, see:
-# http://www.sxw.org.uk/computing/robots/check.html
+# http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Crawl-delay: 10
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
 # Directories
-Disallow: /includes/
-Disallow: /misc/
-Disallow: /modules/
+Disallow: /core/
 Disallow: /profiles/
-Disallow: /scripts/
-Disallow: /themes/
 # Files
-Disallow: /CHANGELOG.txt
-Disallow: /cron.php
-Disallow: /INSTALL.mysql.txt
-Disallow: /INSTALL.pgsql.txt
-Disallow: /install.php
-Disallow: /INSTALL.txt
-Disallow: /LICENSE.txt
-Disallow: /MAINTAINERS.txt
-Disallow: /update.php
-Disallow: /UPGRADE.txt
-Disallow: /xmlrpc.php
+Disallow: /README.txt
+Disallow: /web.config
 # Paths (clean URLs)
-Disallow: /drupadmin/
+Disallow: /admin/
 Disallow: /comment/reply/
-Disallow: /filter/tips/
-Disallow: /logout/
+Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
 # Paths (no clean URLs)
-Disallow: /?q=admin/
-Disallow: /?q=comment/reply/
-Disallow: /?q=filter/tips/
-Disallow: /?q=logout/
-Disallow: /?q=node/add/
-Disallow: /?q=search/
-Disallow: /?q=user/password/
-Disallow: /?q=user/register/
-Disallow: /?q=user/login/
-
-
-
-Disallow: /themes/
-# Files
-
-# Paths (clean URLs)
-Disallow: /contact/
-# Paths (no clean URLs)
-
-# by dddugan 02/01/2011
-Disallow: /calendar/
-Disallow: /webstats/
-Disallow: /counties/
-Disallow: /WaterConf2006/
-Disallow: /cctw/
-Disallow: /famdev/
-Disallow: /fnp/
-Disallow: /htdig/
-Disallow: /mfl/
-Disallow: /ncfh/
-Disallow: /sfr/
-Disallow: /textiles/
-Disallow: /4H/Agriculture/fsqa/
-Disallow: /4h-old/
-Disallow: /it/training/excel.htm
-Disallow: /cgi-bin/redirect/
-Disallow: /CheckThisOut/
-Disallow: /news/feeds/
-Disallow: /feeds/
-Disallow: /ISUENews/CustomDialogs/
-Disallow: /errors/
-Disallow: /gif/
-Disallow: /CMSLogin/
-Disallow: /*/login.aspx
-#Added by bwebster - 5/9/2012 - try to index traffice to Drupal-01
-Disallow: /taxonomy/
-Disallow: /*/taxonomy/
-Disallow: /*/home/*-county
-#Added by bwebster - 5/16/2012 - farther reduce indexing
-Disallow: /*/comment/
-Disallow: /*/node/
-Disallow: /*/login/pc/
-Disallow: /login/pc/
-Disallow: /*/*?page=
-#Added by bwebster - 8/29/2012 - cut down on 500 status codes
-Disallow: /county/Templates/
-Disallow: /county/templates/
-Disallow: /County/templates/
-Disallow: /*/Templates/VisitIowaFarms/
-
-Disallow: /roadscholar/
-
-
-#Addeb by bwebster - 01/17/2023 - don't include events in the program catalog
-Disallow: /programcatalog/event_details/
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout

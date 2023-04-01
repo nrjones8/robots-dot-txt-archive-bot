@@ -1,4 +1,7 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://trappeborough.com/wp-sitemap.xml
+Disallow:
+Sitemap: https://trappeborough.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

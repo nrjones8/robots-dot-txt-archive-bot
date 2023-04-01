@@ -1,11 +1,1 @@
-Sitemap: https://www.thetownofparkeraz.com/sitemap.xml
-
-User-agent: NerdyBot
-Disallow: /
-
-User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
-Disallow: /http://townofparkerarizona.com/business-climate.html
-Disallow: /http://www.parkerpd.com/
-Disallow: /http://www.parkerpubliclibrary.com/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

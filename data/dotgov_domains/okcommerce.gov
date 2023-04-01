@@ -1,4 +1,8 @@
-# This space intentionally left blank
-# If you want to learn about why our robots.txt looks like this, read this post: https://yoa.st/robots-txt
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Crawl-delay: 10
+Disallow:
+
+Sitemap: https://www.okcommerce.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

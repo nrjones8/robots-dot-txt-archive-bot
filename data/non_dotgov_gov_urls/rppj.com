@@ -102,7 +102,7 @@ Sitemap: https://oneroe.city/sitemap_index.xml
 Sitemap: https://drbenclose.com/sitemap_index.xml
 Sitemap: https://cafedesoto.com/sitemap_index.xml
 Sitemap: https://alexandriacitycourt.com/sitemap_index.xml
-Sitemap: https://waas.kbispweb.com/clsh/sitemap_index.xml
+Sitemap: https://clshospital.com/sitemap_index.xml
 Sitemap: https://cenlacpas.com/sitemap_index.xml
 Sitemap: https://louisianacda.com/sitemap_index.xml
 # ---------------------------

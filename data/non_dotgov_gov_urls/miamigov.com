@@ -357,7 +357,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Cl
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
@@ -407,9 +406,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Results
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk-WIP
@@ -851,7 +847,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
@@ -977,8 +972,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Combined-Calendar-Test
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Community-Planning-Main-Page/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/City-of-Miami-Evaluation-and-Appraisal-Review-EAR
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Copy-of-Evaluation-and-Appraisal-Review-EAR-City-of-Miami-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Evaluation-and-Appraisal-Review-EAR-City-of-Miami
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-2035
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
@@ -2080,7 +2077,6 @@ Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
 Disallow: /Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
@@ -2130,9 +2126,6 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-a
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/Civil-Service-Board-Election-Results
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
@@ -2649,7 +2642,6 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
-Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/CSB-Election-Results
 Disallow: /My-Government/Departments/City-Clerks-Office/New-page
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
@@ -2775,8 +2767,10 @@ Disallow: /My-Government/Departments/Planning/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Planning/Combined-Calendar-Test
 Disallow: /My-Government/Departments/Planning/Community-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/City-of-Miami-Evaluation-and-Appraisal-Review-EAR
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Copy-of-Evaluation-and-Appraisal-Review-EAR-City-of-Miami-1
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Evaluation-and-Appraisal-Review-EAR-City-of-Miami
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-2035
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates

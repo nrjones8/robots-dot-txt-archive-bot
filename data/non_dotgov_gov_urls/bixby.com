@@ -1,1 +1,21 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+
+
+User-Agent: ia_archiver
+Disallow:
+ 
+User-Agent: *
+Disallow: /note/
+Disallow: /search.php
+Disallow: /click.php
+Disallow: /search_caf.php
+Disallow: /t.php
+Disallow: /exitpage/
+Disallow: /popup/
+Disallow: /r.php
+Disallow: /secondary_feed/
+
+User-agent: MJ12bot
+Disallow: /
+
+
+
