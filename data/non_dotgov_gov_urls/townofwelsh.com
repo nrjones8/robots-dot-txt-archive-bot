@@ -1,17 +1,1 @@
-User-agent: *
-Allow: /
-
-# Optimization for Google Ads Bot
-User-agent: AdsBot-Google-Mobile
-User-agent: AdsBot-Google
-Disallow: /_api/*
-Disallow: /_partials*
-Disallow: /pro-gallery-webapp/v1/galleries/*
-
-# Block PetalBot
-User-agent: PetalBot
-Disallow: /
-
-Sitemap: https://www.townofwelsh.com/sitemap.xml
-
-# Auto generated, go to SEO Tools > Robots.txt Editor to change this
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofwelsh.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9c12edf9a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

@@ -1,5 +1,9 @@
 Sitemap: https://guilfordvt.gov/sitemap.xml
 Sitemap: https://guilfordvt.gov/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

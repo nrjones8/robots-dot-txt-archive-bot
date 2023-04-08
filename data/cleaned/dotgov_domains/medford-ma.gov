@@ -35,15 +35,12 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /posts-under-construction$
-Disallow: /posts-under-construction?
-Disallow: /posts-under-construction/~
-Disallow: /boards-commissions/testing$
-Disallow: /boards-commissions/testing?
-Disallow: /boards-commissions/testing/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
+Disallow: /posts-under-construction$
+Disallow: /posts-under-construction?
+Disallow: /posts-under-construction/~
 Disallow: /animal-control-template$
 Disallow: /animal-control-template?
 Disallow: /animal-control-template/~
@@ -62,6 +59,9 @@ Disallow: /home-clone/~
 Disallow: /departments/mayors-office-clone$
 Disallow: /departments/mayors-office-clone?
 Disallow: /departments/mayors-office-clone/~
+Disallow: /boards-commissions/testing$
+Disallow: /boards-commissions/testing?
+Disallow: /boards-commissions/testing/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
@@ -131,12 +131,12 @@ Disallow: /production/posts/grid/~
 Disallow: /production/athletics/teams$
 Disallow: /production/athletics/teams?
 Disallow: /production/athletics/teams/~
-Disallow: /production/athletics/profile$
-Disallow: /production/athletics/profile?
-Disallow: /production/athletics/profile/~
 Disallow: /how-do-i$
 Disallow: /how-do-i?
 Disallow: /how-do-i/~
+Disallow: /production/athletics/profile$
+Disallow: /production/athletics/profile?
+Disallow: /production/athletics/profile/~
 Disallow: /about-medford$
 Disallow: /about-medford?
 Disallow: /about-medford/~

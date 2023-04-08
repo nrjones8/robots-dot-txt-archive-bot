@@ -14,7 +14,6 @@
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Crawl-delay: 2
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -51,12 +50,6 @@ Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
 # Paths (no clean URLs)
-Disallow: /index.html?f[
-Disallow: /index.html&f[
-Disallow: /index.html?f%5B
-Disallow: /index.html&f%5B
-Disallow: /index.html*?filters
-Disallow: /index.html*?solrsort
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips

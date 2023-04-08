@@ -69,6 +69,7 @@ Disallow: /UPGRADE.txt
 Disallow: /xmlrpc.php
 # Paths (clean URLs)
 Disallow: /admin/
+Disallow: /articles/meet-crew
 Disallow: /comment/reply/
 Disallow: /filter/tips/
 Disallow: /node/add/

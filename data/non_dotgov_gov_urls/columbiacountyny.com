@@ -70,7 +70,7 @@ Disallow: /https://www.columbiacountyny.com/realproperty.html
 Disallow: /http://www.columbiacountysheriff.us
 Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /http://www.ccswcd.org/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-solid-waste/home/
+Disallow: /https://solidwaste.columbiacountyny.com/
 Disallow: /http://www.stopdwi.org/home
 Disallow: /https://columbiacountytourism.org/
 Disallow: /https://veterans.columbiacountyny.com/

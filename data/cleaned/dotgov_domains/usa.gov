@@ -16,7 +16,6 @@ User-agent: *
 Crawl-delay: 10
 # Sitemaps
 Sitemap: https://www.usa.gov/sitemap.xml
-Sitemap: https://www.usa.gov/espanol/sitemap.xml
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?
@@ -50,55 +49,12 @@ Allow: /themes/*.gif
 Allow: /themes/*.jpg
 Allow: /themes/*.jpeg
 Allow: /themes/*.png
-# Directories
+# Directories 
 Disallow: /includes/
 Disallow: /misc/
 Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
-# Files
-Disallow: /CHANGELOG.txt
-Disallow: /cron.php
-Disallow: /INSTALL.mysql.txt
-Disallow: /INSTALL.pgsql.txt
-Disallow: /INSTALL.sqlite.txt
-Disallow: /install.php
-Disallow: /INSTALL.txt
-Disallow: /LICENSE.txt
-Disallow: /MAINTAINERS.txt
-Disallow: /update.php
-Disallow: /UPGRADE.txt
-Disallow: /xmlrpc.php
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips/
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-# Paths (no clean URLs)
-Disallow: /?q=admin/
-Disallow: /?q=comment/reply/
-Disallow: /?q=filter/tips/
-Disallow: /?q=node/add/
-Disallow: /?q=search/
-Disallow: /?q=user/password/
-Disallow: /?q=user/register/
-Disallow: /?q=user/login/
-Disallow: /?q=user/logout/
-# Specific pathing blocks for USA.gov and GobiernoUSA.gov
-Disallow: /congress
-Disallow: /narrative_content.html
-Disallow: /taxonomy/term/
-Disallow: /forms/gtm.js
-Disallow: /forms/gtm.start
-Disallow: /site-index/gtm.start
-Disallow: /change-text
-Disallow: /site-index
-Disallow: /espanol/sitio-indice
-Disallow: /partner-with-us-redirect
-Disallow: /usagov-blog-redirect
+# We shouldn't have these, but:
+Disallow: /node/

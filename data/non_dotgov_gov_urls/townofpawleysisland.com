@@ -1,8 +1,3 @@
-# START YOAST BLOCK
-# ---------------------------
+#robots.txt for all our sites
 User-agent: *
-Disallow:
-
-Sitemap: https://www.townofpawleysisland.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /content/*

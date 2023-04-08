@@ -41,7 +41,7 @@ Disallow: /README.txt
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /cdn-cgi
-Disallow: /cdn-cgi/
+Disallow: /cdn-cgi/l/email-protection
 Disallow: /comment/reply/
 Disallow: /error
 Disallow: /filter/tips

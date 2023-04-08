@@ -38,12 +38,15 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /vmsr-skate-calendar$
-Disallow: /vmsr-skate-calendar?
-Disallow: /vmsr-skate-calendar/~
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
+Disallow: /example-cc-clone2$
+Disallow: /example-cc-clone2?
+Disallow: /example-cc-clone2/~
+Disallow: /example-cc$
+Disallow: /example-cc?
+Disallow: /example-cc/~
 Disallow: /town-departments/social-services/panhandling/panhandling-tips$
 Disallow: /town-departments/social-services/panhandling/panhandling-tips?
 Disallow: /town-departments/social-services/panhandling/panhandling-tips/~
@@ -212,15 +215,15 @@ Disallow: /production/page-layout/4-column-layout/~
 Disallow: /production/page-layout/two-column-bottom-left-sidebar$
 Disallow: /production/page-layout/two-column-bottom-left-sidebar?
 Disallow: /production/page-layout/two-column-bottom-left-sidebar/~
-Disallow: /homepage-icons$
-Disallow: /homepage-icons?
-Disallow: /homepage-icons/~
-Disallow: /cta-grid$
-Disallow: /cta-grid?
-Disallow: /cta-grid/~
 Disallow: /town-departments/health-district/services-provided/flu-clinics$
 Disallow: /town-departments/health-district/services-provided/flu-clinics?
 Disallow: /town-departments/health-district/services-provided/flu-clinics/~
+Disallow: /cta-grid$
+Disallow: /cta-grid?
+Disallow: /cta-grid/~
+Disallow: /homepage-icons$
+Disallow: /homepage-icons?
+Disallow: /homepage-icons/~
 Disallow: /production/posts$
 Disallow: /production/posts?
 Disallow: /production/posts/~
@@ -230,12 +233,6 @@ Disallow: /production/constituent/~
 Disallow: /production/right-banner-clone$
 Disallow: /production/right-banner-clone?
 Disallow: /production/right-banner-clone/~
-Disallow: /production$
-Disallow: /production?
-Disallow: /production/~
-Disallow: /staff-directory$
-Disallow: /staff-directory?
-Disallow: /staff-directory/~
 Disallow: /production/social-elements$
 Disallow: /production/social-elements?
 Disallow: /production/social-elements/~
@@ -281,6 +278,12 @@ Disallow: /production/organizational/~
 Disallow: /production/home-clone-tile$
 Disallow: /production/home-clone-tile?
 Disallow: /production/home-clone-tile/~
+Disallow: /production$
+Disallow: /production?
+Disallow: /production/~
+Disallow: /staff-directory$
+Disallow: /staff-directory?
+Disallow: /staff-directory/~
 Disallow: /production/organizational/container$
 Disallow: /production/organizational/container?
 Disallow: /production/organizational/container/~
