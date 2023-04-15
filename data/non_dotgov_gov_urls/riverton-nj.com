@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='riverton-nj.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://riverton-nj.com/sitemap.xml
+Sitemap: https://riverton-nj.com/sitemap.rss
+

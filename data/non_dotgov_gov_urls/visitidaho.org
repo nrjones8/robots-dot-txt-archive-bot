@@ -1,6 +1,14 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-
+Disallow: /wp-login.php
+Disallow: /wp-login.php?action=lostpassword
+Disallow: /?s=*
+Disallow: /?f=*
+Disallow: /feed/*
+Disallow: /search/*
+Disallow: /login/*
+Disallow: /tag/*
 Disallow: /content/uploads/wpo-plugins-tables-list.json
+
 Sitemap: https://visitidaho.org/sitemap_index.xml

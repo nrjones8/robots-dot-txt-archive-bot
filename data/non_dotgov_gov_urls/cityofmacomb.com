@@ -1,8 +1,7 @@
-# Default robots file version:2
 User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://cityofmacomb.com/sitemap.xml
+Sitemap: https://cityofmacomb.com/sitemap.rss
+

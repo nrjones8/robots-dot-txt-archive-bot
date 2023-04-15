@@ -1,7 +1,6 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-Sitemap: https://cityofportaransas.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Allow: /
+Disallow: /wp-admin
+Disallow: /wp-includes
+User-agent: facebookexternalhit
+Disallow: /
