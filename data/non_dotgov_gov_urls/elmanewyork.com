@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *

@@ -26,7 +26,7 @@ Disallow: /bin/
 Disallow: /cache/
 Disallow: /cli/
 Disallow: /category/*
-Disallow: /components/
+Disallow: /components/Disallow: /components/osproperty/*
 Disallow: /includes/
 Disallow: /installation/
 Disallow: /law/

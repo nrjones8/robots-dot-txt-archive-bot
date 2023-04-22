@@ -1,6 +1,4 @@
-User-Agent: *
-Disallow: /cpx.php
-Disallow: /medios1.php
-Disallow: /toolbar.php
-Disallow: /check_image.php
-Disallow: /check_popunder.php
+User-agent: *
+Disallow:
+
+Sitemap: https://weston-ct.com/sitemap.xml

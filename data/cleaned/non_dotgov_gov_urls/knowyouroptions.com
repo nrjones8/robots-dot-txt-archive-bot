@@ -25,6 +25,7 @@ Disallow: /media/document/pdf/sf-reinsurance-summit-presentation-2023.pdf
 Disallow: /media/document/pdf/sf-reinsurance-summit-agenda-2023.pdf
 Disallow: /faqs-consumer-website-and-counseling-updates
 Disallow: /kenneth-imo
+Disallow: /media/document/pdf/rating-day-agency-2023-agenda.pdf
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?

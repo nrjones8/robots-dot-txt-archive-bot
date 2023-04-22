@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /extranet/
-Allow: /
+Request failed

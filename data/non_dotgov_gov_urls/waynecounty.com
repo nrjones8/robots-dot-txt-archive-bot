@@ -11,7 +11,7 @@ Disallow: /tools/
 Disallow: /video/
 Disallow: /placeholder/
 Disallow: /rdjunk/
-Disallow: /ui/
+
 Disallow: /api/
 Disallow: /apps/
 Disallow: /aspnet_client
@@ -24,7 +24,6 @@ Disallow: /tools
 Disallow: /video
 Disallow: /placeholder
 Disallow: /rdjunk
-Disallow: /ui
 Disallow: /api
 Disallow: /apps
 Disallow: /elected/treasurer/home.aspx
@@ -53,7 +52,7 @@ Disallow: /tools
 Disallow: /video
 Disallow: /placeholder
 Disallow: /rdjunk
-Disallow: /ui
+
 Disallow: /api
 Disallow: /apps
 Disallow: /elected/treasurer/home.aspx

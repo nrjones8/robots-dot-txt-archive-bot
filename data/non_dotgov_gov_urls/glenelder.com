@@ -23,11 +23,11 @@ Disallow: /businesses--lodging.html
 Disallow: /2023-fun-run.html
 Disallow: /public-hearing.html
 Disallow: /scholarship-fundraiser.html
-Disallow: /events.html
 Disallow: /gotomeeting-info.html
 Disallow: /groundhog-day-pancake-feed.html
 Disallow: /http://www.glenelder.com/waconda-springs.html
 Disallow: /x-city-budget-hearing.html
+Disallow: /events.html
 Disallow: /letter-from-the-mayor.html
 Disallow: /ge-funday.html
 Disallow: /ge-cloverleaf-4-h.html
