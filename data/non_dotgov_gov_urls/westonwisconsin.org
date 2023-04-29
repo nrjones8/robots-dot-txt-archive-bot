@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='westonwisconsin.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+
+
+Sitemap: https://www.westonwisconsin.org/sitemap.xml

@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='browningmontana.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb71b1f91f0>, 'Connection to browningmontana.com timed out. (connect timeout=15)'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
