@@ -24,6 +24,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: baiduspider
 Disallow: /ajax/
 Disallow: /album.php
@@ -45,6 +46,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Bingbot
 Disallow: /ajax/
 Disallow: /album.php
@@ -66,6 +68,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Discordbot
 Disallow: /
 Disallow: /ajax/
@@ -88,6 +91,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: facebookexternalhit
 Disallow: /
 Disallow: /ajax/
@@ -110,6 +114,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Googlebot
 Disallow: /ajax/
 Disallow: /album.php
@@ -131,6 +136,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Googlebot-Image
 Disallow: /ajax/
 Disallow: /album.php
@@ -154,6 +160,7 @@ Disallow: /sharer/
 Disallow: /static_map.php
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: ia_archiver
 Disallow: /
 Disallow: /ajax/
@@ -176,6 +183,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: LinkedInBot
 Disallow: /
 Disallow: /ajax/
@@ -198,6 +206,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: msnbot
 Disallow: /ajax/
 Disallow: /album.php
@@ -219,6 +228,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Naverbot
 Disallow: /ajax/
 Disallow: /album.php
@@ -240,6 +250,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Pinterestbot
 Disallow: /
 Disallow: /ajax/
@@ -262,6 +273,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Screaming Frog SEO Spider
 Disallow: /ajax/
 Disallow: /album.php
@@ -283,6 +295,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: seznambot
 Disallow: /ajax/
 Disallow: /album.php
@@ -304,6 +317,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Slurp
 Disallow: /ajax/
 Disallow: /album.php
@@ -325,6 +339,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: teoma
 Disallow: /ajax/
 Disallow: /album.php
@@ -346,6 +361,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: TelegramBot
 Disallow: /
 Disallow: /ajax/
@@ -368,6 +384,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Twitterbot
 Disallow: /ajax/
 Disallow: /album.php
@@ -389,6 +406,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Yandex
 Disallow: /ajax/
 Disallow: /album.php
@@ -410,6 +428,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Yeti
 Disallow: /ajax/
 Disallow: /album.php
@@ -431,6 +450,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /x/oauth/
 User-agent: Applebot
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet

@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:

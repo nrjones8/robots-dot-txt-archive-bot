@@ -1,4 +1,4 @@
-Sitemap: https://townofdewey.com/sitemap.xml
+Sitemap: https://www.townofdewey.com/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 User-agent: *

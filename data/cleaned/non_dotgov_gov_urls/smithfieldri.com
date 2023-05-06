@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /*/action~*/
+Got an HTML response
