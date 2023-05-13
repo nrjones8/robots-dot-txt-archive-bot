@@ -1,2 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Crawl-delay: 10
+Disallow:
+
+Sitemap: https://pittsfordvermont.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

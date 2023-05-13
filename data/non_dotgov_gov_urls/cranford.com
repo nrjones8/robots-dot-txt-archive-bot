@@ -1,8 +1,1 @@
-User-Agent: The Knowledge AI
-Disallow: /
-
-User-agent:* 
-Crawl-Delay: 20
-
-User-agent:*
-Disallow: 
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

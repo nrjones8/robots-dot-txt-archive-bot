@@ -1,2 +1,2 @@
-
-sitemap: http://hamiltonban.com/sitemap.xml
+User-agent: *
+Allow: /

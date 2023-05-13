@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.stateofwatourism.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1131)')))"}

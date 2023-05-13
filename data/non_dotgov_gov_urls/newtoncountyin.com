@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /
-
-User-agent: ia_archiver
-Disallow: /
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

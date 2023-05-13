@@ -1,3 +1,4 @@
+Disallow: http://southwebercity.com/wp-content/uploads/wpforms/
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

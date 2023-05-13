@@ -27,3 +27,6 @@ Allow: /_next/static/chunks/*.svg
 Allow: /images/*.png
 # Paths (clean URLs)
 Disallow: /api/
+Disallow: /node/
+Disallow: /node/*
+Disallow: /node

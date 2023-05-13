@@ -33,5 +33,9 @@ Disallow: /parking.php4
 User-agent: BLEXBot
 Disallow: /
 
+User-agent: Pandalytics
+Disallow:  /info/
+Disallow:  /search/
+
 User-agent: *
 Disallow: /

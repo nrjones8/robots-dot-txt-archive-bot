@@ -14,3 +14,4 @@ Disallow: /https://www.urbanaohio.com/news--public-notices/upd-recognizing-urban
 Disallow: /business.html
 Disallow: /employees.html
 Disallow: /special-event-request.html
+Disallow: /festival.html

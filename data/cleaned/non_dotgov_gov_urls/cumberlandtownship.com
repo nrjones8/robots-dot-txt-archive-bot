@@ -1,1 +1,2 @@
-sitemap: http://cumberlandtownship.com/sitemap.xml
+User-agent: *
+Allow: /
