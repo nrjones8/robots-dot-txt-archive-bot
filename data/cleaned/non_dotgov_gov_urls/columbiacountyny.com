@@ -26,7 +26,7 @@ Disallow: /https://sites.google.com/columbiacountyny.com/emc/climatesmart
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/home
 Disallow: /http://www.townofclaverack.com/
 Disallow: /http://www.sunycgcc.edu/
-Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-ctasc/
+Disallow: /https://sites.google.com/columbiacountyny.com/columbiacountyctasc?usp=sharing
 Disallow: /departments-a-z.html
 Disallow: /http://www.columbiagreeneworks.org/
 Disallow: /http://www.clermontny.org/

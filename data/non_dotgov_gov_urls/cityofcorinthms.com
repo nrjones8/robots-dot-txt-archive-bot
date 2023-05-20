@@ -1,5 +1,17 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Allow: /
 
-Sitemap: https://cityofcorinthms.com/wp-sitemap.xml
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://www.cityofcorinthms.com/sitemap.xml
+
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

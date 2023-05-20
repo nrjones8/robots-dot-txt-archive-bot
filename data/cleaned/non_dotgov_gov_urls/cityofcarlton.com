@@ -54,5 +54,4 @@ Disallow: /recycle-shed/
 Disallow: /water-sewer-service/
 Disallow: /water-sewer-service/new-water-sewer-service-application/
 Disallow: /water-sewer-service/final-billing-request/
-Disallow: /home-new/
 Sitemap: https://www.cityofcarlton.com/sitemap.xml
