@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.tuscco.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tuscco.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc969f868b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

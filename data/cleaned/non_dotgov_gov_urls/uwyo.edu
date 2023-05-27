@@ -1,4 +1,14 @@
-User-agent: *
+User-Agent: *
+Disallow: /_qa
+Disallow: /_resources
+Disallow: /_testing
+Disallow: /_training
+Disallow: /_uw-team-testing
+Disallow: /aspx_pages_code_testing
+Disallow: /bin
+Disallow: /admissions/application-received-graduate.html
+Disallow: /admissions/application-received.html
+Disallow: /_showcase
 Disallow: /askitadmin/
 Disallow: /astecadmin/
 Disallow: /athleticsadmin/
@@ -20,7 +30,6 @@ Disallow: /testbedadmin/
 Disallow: /testbed/
 Disallow: /thdadmin/
 Disallow: /web_statistics/
-Disallow: /includes/shared/ratings08.asp
 Disallow: /WebResource.axd
 Disallow: /4hjudging/
 Disallow: /ag_council/
@@ -54,4 +63,4 @@ Disallow: /*info.asp
 Disallow: /*showdivisionnews.asp
 Disallow: /*showevent.asp
 Disallow: /*showrelease.asp
-Sitemap: http://www.uwyo.edu/_files/sitemap/index.xml
+Sitemap: https://www.uwyo.edu/sitemap.xml

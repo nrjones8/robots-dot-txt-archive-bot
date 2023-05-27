@@ -1,4 +1,4 @@
-Sitemap: https://www.radiotelevisionmarti.com/sitemap.xml
+Sitemap: https://www.martinoticias.com/sitemap.xml
 User-agent:*
 Disallow: /z/*/*/*/*
 Disallow: /tv/*/*/*/*/*
@@ -10,6 +10,7 @@ Disallow: /embed/*
 Disallow: /s?k=*
 Disallow: /navigation.html
 Disallow: /Navigation/*
+Disallow: /captcha/iframe.html
 Disallow: /office365/login.html
 Disallow: /podcast/sublink/*
 Clean-param: layout&fb_comment_id /a/*.html

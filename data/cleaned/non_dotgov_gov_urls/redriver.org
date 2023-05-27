@@ -1,7 +1,8 @@
-# START YOAST BLOCK
-# ---------------------------
+# robots.txt for https://redriver.org/
+sitemap: https://redriver.org/sitemaps-1-sitemap.xml
+# live - don't allow web crawlers to index cpresources/ or vendor/
 User-agent: *
-Disallow:
-Sitemap: https://redriver.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /cpresources/
+Disallow: /vendor/
+Disallow: /directories/
+Disallow: /.env

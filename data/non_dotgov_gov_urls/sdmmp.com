@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}

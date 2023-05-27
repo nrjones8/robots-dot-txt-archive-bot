@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mcmregistration.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc96a3ddb80>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}

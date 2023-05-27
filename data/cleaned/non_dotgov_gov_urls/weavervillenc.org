@@ -1,5 +1,14 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-admin/
-Sitemap: https://weavervillenc.org/sitemap.xml
-Sitemap: https://weavervillenc.org/sitemap.rss
+# No search results
+Disallow: /*?s=
+Disallow: /*&s=
+# No WooCommerce permutations
+Disallow: /*?add-to-cart=
+Disallow: /*&add-to-cart=
+Disallow: /*?product_count=
+Disallow: /*&product_count=
+Disallow: /*?product_order=
+Disallow: /*&product_order=
+# No Enfold
+Disallow: /*?avia_extended_shop_select
+Disallow: /*&avia_extended_shop_select

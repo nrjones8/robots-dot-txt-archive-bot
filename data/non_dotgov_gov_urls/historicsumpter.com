@@ -1,8 +1,3 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
-Sitemap: https://www.historicsumpter.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

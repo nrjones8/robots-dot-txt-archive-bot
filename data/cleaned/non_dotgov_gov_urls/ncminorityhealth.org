@@ -1,7 +1,13 @@
 User-agent: *
 Disallow: /css/
 Disallow: /js/
-Disallow: /library/
+Disallow: /Library/
 Disallow: /font-awesome/
 Disallow: /fonts/
+User-agent: SemrushBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
 Sitemap: https://nchealthequity.ncdhhs.gov/sitemap.xml

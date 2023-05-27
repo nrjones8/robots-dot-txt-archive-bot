@@ -41,7 +41,6 @@ Disallow: /library-open-house.html
 Disallow: /city-storage.html
 Disallow: /summer-kickoff.html
 Disallow: /old-businesses-page.html
-Disallow: /hamburger-feed.html
 Disallow: /2021-funday-schedule.html
 Disallow: /soup-luncheon.html
 Disallow: /steakfest-cookoff.html
