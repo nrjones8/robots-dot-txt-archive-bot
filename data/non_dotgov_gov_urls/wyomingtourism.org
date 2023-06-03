@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='travelwyoming.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1131)')))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://travelwyoming.com/sitemap_index.xml

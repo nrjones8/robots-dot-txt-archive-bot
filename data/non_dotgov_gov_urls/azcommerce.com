@@ -1,1 +1,13 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /umbraco
+Disallow: /xslt
+Disallow: /python
+Disallow: /scripts
+Disallow: /usercontrols
+Disallow: /umbraco_client
+Disallow: /bin
+Disallow: /data
+Disallow: /config
+Disallow: /legacy
+Disallow: /ax
+Disallow: /response

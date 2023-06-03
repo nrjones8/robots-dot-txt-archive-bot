@@ -3,11 +3,7 @@ user-agent: *
 Disallow: /cgi/
 Disallow: /developmentreview/archives/*
 Disallow: /mason/archive/*
-Disallow: /gis/map-products.asp?id=20
-Disallow: /gis/map-products.asp?id=31
-Disallow: /gis/map-products.asp?id=27
-Disallow: /gis/map-products.asp?id=29
-Disallow: /gis/map-products.asp?id=28
+Disallow: /gis/map-products.asp*
 Disallow: /text.php
 Disallow: /purchasing/pdf/*
 Disallow: /tags-codes/*
@@ -18,6 +14,7 @@ Disallow: /openbook/*
 Disallow: /utilities/water-meter-maintenance
 Disallow: /cityclerk/pdf/wc-resources.pdf
 Disallow: /*?PageSpeed=noscript*
+Disallow: /digitalcities/*
 
 Crawl-Delay: 10
 

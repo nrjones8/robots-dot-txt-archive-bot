@@ -58,3 +58,52 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
+#
+# Local Additions to the robots.txt file
+# These came from the old Drupal 6 site
+# Many of them are probably old enough that they aren't needed any more...
+Disallow: /themes/
+Disallow: /contact/
+# by dddugan 02/01/2011
+Disallow: /calendar/
+Disallow: /webstats/
+Disallow: /counties/
+Disallow: /WaterConf2006/
+Disallow: /cctw/
+Disallow: /famdev/
+Disallow: /fnp/
+Disallow: /htdig/
+Disallow: /mfl/
+Disallow: /ncfh/
+Disallow: /sfr/
+Disallow: /textiles/
+Disallow: /4H/Agriculture/fsqa/
+Disallow: /4h-old/
+Disallow: /it/training/excel.htm
+Disallow: /cgi-bin/redirect/
+Disallow: /CheckThisOut/
+Disallow: /news/feeds/
+Disallow: /feeds/
+Disallow: /ISUENews/CustomDialogs/
+Disallow: /errors/
+Disallow: /gif/
+Disallow: /CMSLogin/
+Disallow: /*/login.aspx
+#Added by bwebster - 5/9/2012 - try to index traffice to Drupal-01
+Disallow: /taxonomy/
+Disallow: /*/taxonomy/
+Disallow: /*/home/*-county
+#Added by bwebster - 5/16/2012 - farther reduce indexing
+Disallow: /*/comment/
+Disallow: /*/node/
+Disallow: /*/login/pc/
+Disallow: /login/pc/
+Disallow: /*/*?page=
+#Added by bwebster - 8/29/2012 - cut down on 500 status codes
+Disallow: /county/Templates/
+Disallow: /county/templates/
+Disallow: /County/templates/
+Disallow: /*/Templates/VisitIowaFarms/
+Disallow: /roadscholar/
+#Added by bwebster - 01/17/2023 - don't include events in the program catalog
+Disallow: /programcatalog/event_details/

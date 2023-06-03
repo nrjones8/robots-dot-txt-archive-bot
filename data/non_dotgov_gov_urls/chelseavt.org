@@ -3,3 +3,6 @@ Disallow: /wp/wp-admin/
 Allow: /wp/wp-admin/admin-ajax.php
 
 Sitemap: https://www.chelseavt.org/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp/wp-content/uploads/wpo-plugins-tables-list.json

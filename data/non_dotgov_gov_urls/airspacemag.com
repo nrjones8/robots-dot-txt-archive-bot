@@ -6,6 +6,7 @@ Disallow: /search?
 Disallow: /rss?
 Disallow: /article/preview/*/
 Disallow: /blogs/blogpost/preview/*
-Disallow: /dashboard/*/
+Disallow: /dashboard/
+Disallow: /acoustic/
 
 Sitemap: https://www.smithsonianmag.com/sitemap.xml

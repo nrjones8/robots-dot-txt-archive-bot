@@ -1,7 +1,4 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-Sitemap: http://itcmi.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Allow: /
+Crawl-delay:3
+Sitemap:https://itcmi.org/sitemap.xml

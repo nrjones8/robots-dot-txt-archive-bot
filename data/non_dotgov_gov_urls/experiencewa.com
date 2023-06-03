@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.stateofwatourism.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1131)')))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-login.php?action=lostpassword
+Disallow: /?s=*
+Disallow: /feed/*
+Disallow: /search/*
+Disallow: /login/*
+Disallow: /tag/*
+
+Sitemap: https://stateofwatourism.com/sitemap_index.xml

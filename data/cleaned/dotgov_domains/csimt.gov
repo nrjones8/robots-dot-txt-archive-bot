@@ -1,7 +1,6 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-Sitemap: http://csimt.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Sitemap: https://csimt.gov/video-sitemap.xml
+Sitemap: https://csimt.gov/sitemap.xml
+Sitemap: https://csimt.gov/sitemap.rss

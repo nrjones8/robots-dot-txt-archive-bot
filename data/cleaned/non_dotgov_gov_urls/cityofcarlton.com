@@ -10,6 +10,7 @@ Disallow: /city-code-ordinances/
 Disallow: /city-code-ordinances/housing-zoning/
 Disallow: /city-code-ordinances/bow-hunting/
 Disallow: /city-code-ordinances/sewer-lateral-and-sump-pump/
+Disallow: /city-code-ordinances/short-term-rentals/
 Disallow: /city-code-ordinances/zoning-applications/
 Disallow: /council-and-city-staff/
 Disallow: /council-agendas/
