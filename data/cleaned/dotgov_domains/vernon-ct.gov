@@ -35,15 +35,15 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /clerk$
-Disallow: /clerk?
-Disallow: /clerk/~
 Disallow: /training-page$
 Disallow: /training-page?
 Disallow: /training-page/~
 Disallow: /production/banners/right-banner$
 Disallow: /production/banners/right-banner?
 Disallow: /production/banners/right-banner/~
+Disallow: /clerk$
+Disallow: /clerk?
+Disallow: /clerk/~
 Disallow: /henri$
 Disallow: /henri?
 Disallow: /henri/~

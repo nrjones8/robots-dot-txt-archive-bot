@@ -1,14 +1,1 @@
-User-agent: *
-Disallow: /calendar-2/action~posterboard/
-Disallow: /calendar-2/action~agenda/
-Disallow: /calendar-2/action~oneday/
-Disallow: /calendar-2/action~month/
-Disallow: /calendar-2/action~week/
-Disallow: /calendar-2/action~stream/
-Disallow: /calendar-2/action~undefined/
-Disallow: /calendar-2/action~http:/
-Disallow: /calendar-2/action~default/
-Disallow: /calendar-2/action~poster/
-Disallow: /calendar-2/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='townofstanley.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1131)')))"}

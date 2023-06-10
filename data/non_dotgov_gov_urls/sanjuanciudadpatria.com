@@ -1,1 +1,1 @@
-Client sent an HTTP request to an HTTPS server.
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}

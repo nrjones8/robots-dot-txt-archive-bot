@@ -1,9 +1,3 @@
-Sitemap: https://www.madera.gov/sitemap.xml
-Sitemap: https://www.madera.gov/news-sitemap.xml
-# START YOAST BLOCK
-# ---------------------------
+#robots.txt for all our sites
 User-agent: *
-Disallow:
-Sitemap: https://www.madera.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /content/*

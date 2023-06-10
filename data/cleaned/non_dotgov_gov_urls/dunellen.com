@@ -26,5 +26,8 @@ Disallow: /
 User-agent: Pandalytics
 Disallow:  /info/
 Disallow:  /search/
+User-agent: IonCrawl
+Disallow: /info/
+Disallow: /search/
 User-agent: *
 Disallow: /

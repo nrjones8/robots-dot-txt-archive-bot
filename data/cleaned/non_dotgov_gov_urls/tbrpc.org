@@ -1,5 +1,7 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /dev/
-Disallow: /archives/
-Disallow: /data/
-Disallow: /fancy-box/
+Disallow:
+Sitemap: https://tbrpc.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

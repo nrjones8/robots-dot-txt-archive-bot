@@ -63,3 +63,8 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+
+# Additional rules from drupal-scaffold append.
+Disallow: *.pdf
+Disallow: /sites/*
+Disallow: /sites/default/files/

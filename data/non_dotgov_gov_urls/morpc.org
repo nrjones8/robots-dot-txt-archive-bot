@@ -1,13 +1,5 @@
 User-agent: *
-Disallow: /wordpress/wp-admin/
-Allow: /wordpress/wp-admin/admin-ajax.php
+Disallow: /2023/wp-admin/
+Allow: /2023/wp-admin/admin-ajax.php
 
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.morpc.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
-Sitemap: https://www.morpc.org/sitemap.xml
+Sitemap: https://www.morpc.org/wp-sitemap.xml

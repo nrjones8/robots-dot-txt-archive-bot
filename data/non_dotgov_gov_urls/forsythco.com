@@ -17,7 +17,6 @@ Disallow: /HttpModules/
 Disallow: /images/
 Disallow: /Install/
 Disallow: /js/
-Disallow: /Portals/
 Disallow: /Providers/
 Disallow: /Resources/ContentRotator/
 Disallow: /Resources/ControlPanel/
@@ -48,7 +47,6 @@ Disallow: /HttpModules/
 Disallow: /images/
 Disallow: /Install/
 Disallow: /js/
-Disallow: /Portals/
 Disallow: /Providers/
 Disallow: /Resources/ContentRotator/
 Disallow: /Resources/ControlPanel/
@@ -81,7 +79,6 @@ Disallow: /HttpModules/
 Disallow: /images/
 Disallow: /Install/
 Disallow: /js/
-Disallow: /Portals/
 Disallow: /Providers/
 Disallow: /Resources/ContentRotator/
 Disallow: /Resources/ControlPanel/

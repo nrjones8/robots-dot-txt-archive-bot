@@ -1,1 +1,1 @@
-Client sent an HTTP request to an HTTPS server.
+Got an HTML response
