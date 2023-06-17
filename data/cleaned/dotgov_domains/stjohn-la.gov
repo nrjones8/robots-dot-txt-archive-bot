@@ -13,7 +13,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zonin
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/Copy-of-Contracts-1
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Video-Archive
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Departments/Purchasing-and-Procurement/Contracts
@@ -46,7 +45,6 @@ Disallow: /Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /Departments/Purchasing-and-Procurement/Contracts
 Disallow: /Departments/Purchasing-and-Procurement/Copy-of-Contracts-1
-Disallow: /Departments/Purchasing-and-Procurement/New-page
 Disallow: /files/assets/public/templateimages/embed-bg.png
 Disallow: /files/assets/public/templateimages/header-bg.jpg
 Disallow: /files/assets/public/templateimages/print-header.png

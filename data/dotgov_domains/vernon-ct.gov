@@ -38,18 +38,18 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /training-page$
-Disallow: /training-page?
-Disallow: /training-page/~
-Disallow: /production/banners/right-banner$
-Disallow: /production/banners/right-banner?
-Disallow: /production/banners/right-banner/~
 Disallow: /clerk$
 Disallow: /clerk?
 Disallow: /clerk/~
 Disallow: /henri$
 Disallow: /henri?
 Disallow: /henri/~
+Disallow: /training-page$
+Disallow: /training-page?
+Disallow: /training-page/~
+Disallow: /production/banners/right-banner$
+Disallow: /production/banners/right-banner?
+Disallow: /production/banners/right-banner/~
 Disallow: /production/social-elements/youtube$
 Disallow: /production/social-elements/youtube?
 Disallow: /production/social-elements/youtube/~

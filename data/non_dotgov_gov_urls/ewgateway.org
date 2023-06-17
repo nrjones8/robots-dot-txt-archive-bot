@@ -1,1 +1,33 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ewgateway.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fb79d64fe50>, 'Connection to ewgateway.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /tag
+Disallow: /about-us/who-we-are/staff-directory
+
+User-agent: turnitinbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12Bot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: CensysInspect
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Zoominfobot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /

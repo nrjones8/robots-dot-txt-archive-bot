@@ -25,6 +25,7 @@ Disallow: /rdjunk
 Disallow: /api
 Disallow: /apps
 Disallow: /elected/treasurer/home.aspx
+ Disallow: /documents/phrsecuredocs
 User-agent: Googlebot
 Disallow: /aspnet_client/
 Disallow: /bin/
@@ -51,3 +52,4 @@ Disallow: /rdjunk
 Disallow: /api
 Disallow: /apps
 Disallow: /elected/treasurer/home.aspx
+ Disallow: /documents/phrsecuredocs

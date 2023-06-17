@@ -91,6 +91,22 @@ Crawl-Delay: 20
 User-agent: dotbot
 Crawl-delay: 20
 
+User-agent: Bingbot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 30
+
+User-agent: SiteAuditBot
+Crawl-delay: 30
+
+User-agent: archive.org_bot
+Crawl-delay: 20
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
 User-agent: MJ12bot
 Disallow: /
 
@@ -107,6 +123,15 @@ User-agent: Baiduspider
 Disallow: /
 
 User-agent: YandexBot
+Disallow: /
+
+User-agent: ecoresearchCrawler
+Disallow: /
+
+User-agent: ecoresearch
+Disallow: /
+
+User-agent: Barkrowler
 Disallow: /
 
 User-agent: Zeus 32297 Webster Pro V2.9 Win32
