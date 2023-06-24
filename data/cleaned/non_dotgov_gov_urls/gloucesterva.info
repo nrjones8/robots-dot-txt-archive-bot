@@ -1,35 +1,118 @@
-user-agent: Baiduspider
-Disallow: /
-User-agent: Yandex
-Disallow: /
+# Squarespace Robots Txt
+User-agent: AdsBot-Google
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
+User-agent: AdsBot-Google-Mobile
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
+User-agent: AdsBot-Google-Mobile-Apps
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
 User-agent: *
-Disallow: /activedit
-Disallow: /admin
-Disallow: /common/admin/
-Disallow: /OJA
-Disallow: /support
-Disallow: /currenteventsview.asp
-Disallow: /search.asp
-Disallow: /currenteventsview.aspx
-Disallow: /search.aspx
-Disallow: /currentevents.aspx
-Disallow: /Support
-Disallow: /CurrentEventsView.asp
-Disallow: /Search.asp
-Disallow: /CurrentEventsView.aspx
-Disallow: /Search.aspx
-Disallow: /Search
-Disallow: /CurrentEvents.aspx
-Disallow: /Currentevents.aspx
-Disallow: /map.aspx
-Disallow: /map.asp
-Disallow: /Map.aspx
-Disallow: /Map.asp
-Sitemap: /sitemap.xml
-Disallow: /RSS.aspx
-User-agent: Siteimprove
-Crawl-delay: 20
-User-agent: Siteimprovebot
-Crawl-delay: 20
-User-agent: Siteimprovebot-crawler
-Crawl-delay: 20
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
+Sitemap: https://gloucesterva.gov/sitemap.xml

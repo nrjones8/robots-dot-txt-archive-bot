@@ -1,1 +1,10 @@
-Request failed
+User-agent: *
+Disallow: /admin/wp-admin/
+Allow: /admin/wp-admin/admin-ajax.php
+Sitemap: https://cityofswainsboro.org/wp-sitemap.xml
+User-agent: *
+Disallow: /admin/wp-content/uploads/wpo-plugins-tables-list.json
+Sitemap: https://cityofswainsboro.org/xmlsitemap.xml
+Allow: /http://rsssitemap.xml
+Allow: /http://rsslatest.xml
+Allow: /http://htmlsitemap.htm

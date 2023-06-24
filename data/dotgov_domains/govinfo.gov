@@ -1,8 +1,38 @@
-User-agent: *
-Crawl-delay: 10
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
@@ -11,12 +41,9 @@ Disallow: /profiles/
 Disallow: /sites/
 Disallow: /themes/
 # Files
-Disallow: /.ht.router.php
+Disallow: /README.txt
 Disallow: /autoload.php
 Disallow: /web.config
-Disallow: /index.php
-Disallow: /update.php
-
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
@@ -27,7 +54,8 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
-
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -38,9 +66,8 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-
-
-
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
 Sitemap: https://www.govinfo.gov/sitemap/sitemap.xml
 Sitemap: https://www.govinfo.gov/sitemap/BILLS_sitemap_index.xml
 Sitemap: https://www.govinfo.gov/sitemap/BUDGET_sitemap_index.xml
@@ -94,3 +121,4 @@ Sitemap: https://www.govinfo.gov/sitemap/bulkdata/PPP/sitemapindex.xml
 Sitemap: https://www.govinfo.gov/sitemap/bulkdata/PLAW/sitemapindex.xml
 Sitemap: https://www.govinfo.gov/sitemap/bulkdata/SCD/sitemapindex.xml
 Sitemap: https://www.govinfo.gov/sitemap/bulkdata/STATUTE/sitemapindex.xml
+

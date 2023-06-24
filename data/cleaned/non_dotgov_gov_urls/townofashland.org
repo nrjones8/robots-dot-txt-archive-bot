@@ -12,7 +12,7 @@
 # http://tool.motoricerca.info/robots-checker.phtml
 User-agent: *
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
 Disallow: /administrator/
 Disallow: /bin/
 Disallow: /cache/
@@ -27,6 +27,7 @@ Disallow: /logs/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp/
+Disallow: /images/pdf/information/agendas/2022_06_14_CARIBOU_PACKET.pdf
 ###################################################################
 # The Ultimate robots.txt Bot and User-Agent Blocker
 # Copyright:

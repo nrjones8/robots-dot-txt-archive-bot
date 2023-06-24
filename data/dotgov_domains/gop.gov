@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.gop.gov', port=443): Max retries exceeded with url: /components/util/robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fc9b5a90880>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+User-agent: *
+
+# News
+Disallow: /news/documentprint.aspx*
+
+# Responses
+Disallow: /printform/
+Disallow: /thankyou/
+
+# Surveys
+Disallow: /*?*Preview=
+
+User-agent: SiteimproveBot-Crawler
+Disallow: /news/email/

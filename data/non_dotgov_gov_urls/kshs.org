@@ -3,19 +3,31 @@ Disallow: /events/view_grid/
 Disallow: /newspaper/newspaper_reels/search/
 Disallow: /landsrvy/landsrvy_reports/make_map/
 Disallow: /search/
-Crawl-delay: 5
+Crawl-delay: 15
 
 User-agent: bingbot
-Crawl-delay: 10
+Crawl-delay: 30
 
 User-agent: Neevabot
-Crawl-delay: 20
+Crawl-delay: 30
 
 User-agent: AhrefsBot
 Disallow: /
 
+User-agent: Amazonbot
+Disallow: /dart
+
+User-agent: Baiduspider
+Disallow: /
+
 User-agent: Blekkobot
 Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: DataForSeoBot
+Crawl-delay: 60
 
 User-agent: PetalBot
 Disallow: /
@@ -23,5 +35,12 @@ Disallow: /
 User-agent: SemrushBot
 Disallow: /
 
+User-agent: Turnitin
+Disallow: /dart/
+Disallow: /km/
+
 User-agent: YandexBot
+Disallow: /
+
+User-agent: Yisouspider
 Disallow: /

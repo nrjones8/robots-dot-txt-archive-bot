@@ -2,6 +2,6 @@
 # ---------------------------
 User-agent: *
 Disallow:
-Sitemap: https://www.townofwestyellowstone.com/sitemap_index.xml
+Sitemap: http://www.townofwestyellowstone.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

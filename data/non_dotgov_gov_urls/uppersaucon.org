@@ -1,1 +1,5 @@
-403 Forbidden
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.uppersaucon.org/wp-sitemap.xml

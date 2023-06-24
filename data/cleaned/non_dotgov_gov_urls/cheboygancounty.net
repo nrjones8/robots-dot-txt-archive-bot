@@ -20,6 +20,14 @@ Crawl-delay: 20
 User-agent: GoogleBot
 Allow: /*.js
 Allow: /*.css
+User-agent: PetalBot
+Crawl-delay: 20
+User-agent: ecoresearchCrawler/0.9
+Crawl-delay: 20
+User-agent: ecoresearchCrawler
+Crawl-delay: 20
+User-agent: MJ12bot
+Crawl-delay: 10
 User-agent: rogerbot
 Crawl-delay: 10
 User-agent: dotbot
@@ -34,6 +42,8 @@ User-agent: som-gsa-crawler-one
 Crawl-delay: 5
 User-agent: som-gsa-crawler-two
 Crawl-delay: 5
+User-agent: Bytespider
+Disallow: /
 User-agent: Bombora
 Disallow: /
 User-agent: AhrefsBot
@@ -47,4 +57,12 @@ Disallow: /
 User-agent: SemrushBot
 Disallow: /
 User-agent: SemrushBot-SA
+Disallow: /
+User-agent: Amazonbot
+Crawl-delay: 20
+disallow: /connect-with-emmet/event-calendar/
+Disallow: /
+User-agent: Amazonbot/0.1
+Crawl-delay: 20
+disallow: /connect-with-emmet/event-calendar/
 Disallow: /
