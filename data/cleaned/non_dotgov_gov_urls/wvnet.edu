@@ -1,3 +1,12 @@
 User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Sitemap: https://wvnet.edu/sitemap.xml
+Sitemap: https://wvnet.edu/sitemap.rss
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
 Disallow:
 Sitemap: https://wvnet.edu/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

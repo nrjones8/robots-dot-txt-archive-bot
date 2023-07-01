@@ -1,8 +1,9 @@
-# START YOAST BLOCK
-# ---------------------------
+# Default robots file version:2
 User-agent: *
-Disallow:
-
-Sitemap: https://roanecountytn.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /cdn-cgi*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

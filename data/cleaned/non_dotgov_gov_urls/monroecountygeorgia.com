@@ -1,15 +1,3 @@
+#robots.txt for all our sites
 User-agent: *
-Disallow: /cgi-bin/
-Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/
-Disallow: /trackback/
-Disallow: /index.php
-Disallow: /xmlrpc.com
-Disallow: /wp-login.php
-Disallow: /wp-content/plugins/
-Disallow: /comments/feed/
-User-agent: Yandex
-Disallow: /
-User-agent: Baiduspider
-Disallow: /
+Disallow: /content/*

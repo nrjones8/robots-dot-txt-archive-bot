@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /departments-services/departments/police/complaints$
+Disallow: /departments-services/departments/police/complaints?
+Disallow: /departments-services/departments/police/complaints/~
 Disallow: /training-page$
 Disallow: /training-page?
 Disallow: /training-page/~
@@ -44,9 +47,18 @@ Disallow: /production/banners/right-banner/~
 Disallow: /clerk$
 Disallow: /clerk?
 Disallow: /clerk/~
+Disallow: /departments-services/departments/police/divisions$
+Disallow: /departments-services/departments/police/divisions?
+Disallow: /departments-services/departments/police/divisions/~
 Disallow: /henri$
 Disallow: /henri?
 Disallow: /henri/~
+Disallow: /departments-services/departments/police/about-us$
+Disallow: /departments-services/departments/police/about-us?
+Disallow: /departments-services/departments/police/about-us/~
+Disallow: /departments-services/departments/police/employment$
+Disallow: /departments-services/departments/police/employment?
+Disallow: /departments-services/departments/police/employment/~
 Disallow: /production/social-elements/youtube$
 Disallow: /production/social-elements/youtube?
 Disallow: /production/social-elements/youtube/~
@@ -269,3 +281,6 @@ Disallow: /production/qa-testing/~
 Disallow: /points-of-interest/rockville-farmings-market$
 Disallow: /points-of-interest/rockville-farmings-market?
 Disallow: /points-of-interest/rockville-farmings-market/~
+Disallow: /departments-services/departments/police$
+Disallow: /departments-services/departments/police?
+Disallow: /departments-services/departments/police/~

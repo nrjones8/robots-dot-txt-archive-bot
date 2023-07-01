@@ -532,7 +532,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Attorney/Legal-Services-Request
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Office-of-the-City-Manager
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/OLD-City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/OLD-Marinas-Redirect-while-working-on-other-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Planning/Bonds-and-Letters-of-Credit-Planning
@@ -832,7 +831,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Buil
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Building-Bulletins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearings
@@ -983,7 +981,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Offi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Richard-F.-Appleton
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Manager
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Office-of-the-Independent-Auditor-General/Auditor-General-Reports
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/OLD-City-Clerks-Office-OLD
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/OLD-City-Clerks-Office-OLD/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
@@ -1049,6 +1046,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-008-WAIVER-3372-CHARLES-AVE-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-008-WAIVER-3372-CHARLES-AVE-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-009-WAIVER-3352-CHARLES-AVE-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-010-WAIVER-3438-CHARLES-AVE-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-013-SCOA-528-NE-62-ST-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
@@ -1115,6 +1113,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-014-SCOA-3501-Rickenbacker-Cswy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-015-SCOA-3501-Rickenbacker-Cswy
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-015-SCOA-7301-Biscayne-BVLD
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-022-5837-NORTH-MIAMI-AVENUE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Procurement/Procurement
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -1239,6 +1238,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Ca
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-Temporary-Event-or-Structure
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Remodeling-and-Construction/Florida-Contractor-License-Preemption
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Remodeling-and-Construction/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
@@ -2297,7 +2298,6 @@ Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Appl
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Legal-Services-Request
-Disallow: /Government/Departments-Organizations/Office-of-the-City-Manager
 Disallow: /Government/Departments-Organizations/OLD-City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/OLD-Marinas-Redirect-while-working-on-other-page
 Disallow: /Government/Departments-Organizations/Planning/Bonds-and-Letters-of-Credit-Planning
@@ -2672,7 +2672,6 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Submit-a-Bond-or-Letter-Of-Credit-for-Permitting
 Disallow: /My-Government/Departments/Building/Building-Bulletins
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
-Disallow: /My-Government/Departments/Building/New-page
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings
@@ -2823,7 +2822,6 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profil
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Richard-F.-Appleton
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
-Disallow: /My-Government/Departments/Office-of-the-City-Manager
 Disallow: /My-Government/Departments/Office-of-the-Independent-Auditor-General/Auditor-General-Reports
 Disallow: /My-Government/Departments/OLD-City-Clerks-Office-OLD
 Disallow: /My-Government/Departments/OLD-City-Clerks-Office-OLD/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
@@ -2889,6 +2887,7 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-008-WAIVER-3372-CHARLES-AVE-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-008-WAIVER-3372-CHARLES-AVE-2
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-009-WAIVER-3352-CHARLES-AVE-1
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-010-WAIVER-3438-CHARLES-AVE-1-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/Copy-of-HEPB-R-23-013-SCOA-528-NE-62-ST-1
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-033
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-20-036
@@ -2955,6 +2954,7 @@ Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-Cit
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-014-SCOA-3501-Rickenbacker-Cswy
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-015-SCOA-3501-Rickenbacker-Cswy
 Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-015-SCOA-7301-Biscayne-BVLD
+Disallow: /My-Government/Departments/Planning/View-Resolutions-Appealable-to-City-Commission/HEPB-R-23-022-5837-NORTH-MIAMI-AVENUE
 Disallow: /My-Government/Departments/Procurement/Pre-BidPre-Proposal-Meeting-Sign-In-Form
 Disallow: /My-Government/Departments/Procurement/Procurement
 Disallow: /My-Government/Departments/Procurement/Procurement-Department-Code-of-Ethics
@@ -3079,6 +3079,8 @@ Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-a-S
 Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-Temporary-Event-or-Structure
 Disallow: /Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
+Disallow: /Permits-Construction/Remodeling-and-Construction/Florida-Contractor-License-Preemption
+Disallow: /Permits-Construction/Remodeling-and-Construction/New-page
 Disallow: /Permits-Construction/Trees/FAQs-about-Trees-Tree-Permits
 Disallow: /Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-or-Partial
 Disallow: /Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing

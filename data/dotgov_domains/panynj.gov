@@ -1,1 +1,70 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+
+Disallow: /content/path-staging/
+Disallow: /content/path-staging
+Disallow: /path-staging/
+Disallow: /path-staging
+Disallow: /content/airports-staging/
+Disallow: /content/airports-staging
+Disallow: /airports-staging/
+Disallow: /airports-staging
+
+
+Disallow: /content/bridges-tunnels-staging/
+Disallow: /content/bridges-tunnels-staging
+Disallow: /bridges-tunnels-staging/
+Disallow: /bridges-tunnels-staging
+
+
+Disallow: /content/bus-terminals-staging/
+Disallow: /content/bus-terminals-staging
+Disallow: /bus-terminals-staging/
+Disallow: /bus-terminals-staging
+
+
+Disallow: /content/corporate-staging/
+Disallow: /content/corporate-staging
+Disallow: /corporate-staging/
+Disallow: /corporate-staging
+
+
+Disallow: /content/police-staging/
+Disallow: /content/police-staging
+Disallow: /police-staging/
+Disallow: /police-staging
+
+
+Disallow: /content/port-authority-staging/
+Disallow: /content/port-authority-staging
+Disallow: /port-authority-staging/
+Disallow: /port-authority-staging
+
+Disallow: /content/port-staging/
+Disallow: /content/port-staging
+Disallow: /port-staging/
+Disallow: /port-staging
+
+
+Allow: /content/port-authority
+Allow: /content/path
+Allow: /content/airports
+Allow: /content/bridges-tunnels
+Allow: /content/bus-terminals
+Allow: /content/corporate
+Allow: /content/police
+Allow: /content/port-authority
+Allow: /content/port
+Allow: /content/dam
+
+Allow: /port-authority
+Allow: /path
+Allow: /airports
+Allow: /bridges-tunnels
+Allow: /bus-terminals
+Allow: /corporate
+Allow: /police
+Allow: /port-authority
+Allow: /port
+Allow: /dam
+
+Sitemap: https://www.panynj.gov/sitemap.xml
