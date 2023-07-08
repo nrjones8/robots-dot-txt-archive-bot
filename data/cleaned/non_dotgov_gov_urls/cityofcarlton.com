@@ -51,6 +51,8 @@ Disallow: /planning-and-zoning/
 Disallow: /parks-and-recreation/
 Disallow: /pay-my-bill/
 Disallow: /public-library/
+Disallow: /public-library/board-minutes/
+Disallow: /public-library/friends-of-the-library-minutes/
 Disallow: /recycle-shed/
 Disallow: /water-sewer-service/
 Disallow: /water-sewer-service/new-water-sewer-service-application/

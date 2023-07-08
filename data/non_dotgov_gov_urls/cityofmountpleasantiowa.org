@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofmountpleasantiowa.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1f6df0a0a0>, 'Connection to cityofmountpleasantiowa.org timed out. (connect timeout=15)'))"}
+Sitemap: https://cityofmountpleasantiowa.org/sitemap.xml
+Sitemap: https://cityofmountpleasantiowa.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://cityofmountpleasantiowa.org/sitemap.xml

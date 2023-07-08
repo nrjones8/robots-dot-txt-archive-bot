@@ -1,8 +1,9 @@
-# Default Flywheel robots file
+# Default robots file version:2
 User-agent: *
-Disallow: /calendar/action:posterboard/
-Disallow: /calendar/action:agenda/
-Disallow: /calendar/action:oneday/
-Disallow: /calendar/action:month/
-Disallow: /calendar/action:week/
-Disallow: /calendar/action:map/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /cdn-cgi*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

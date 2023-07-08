@@ -12,6 +12,10 @@ Disallow: /pro-gallery-webapp/v1/galleries/*
 User-agent: PetalBot
 Disallow: /
 
+# Crawl delay for overly enthusiastic bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
 Sitemap: https://www.antiochtownshipil.gov/sitemap.xml
 
 # Auto generated, go to SEO Tools > Robots.txt Editor to change this

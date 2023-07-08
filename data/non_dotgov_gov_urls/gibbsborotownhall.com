@@ -1,5 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
 
-Sitemap: https://gibbsborotownhall.com/wp-sitemap.xml
+Sitemap: https://gibbsborotownhall.com/sitemap.xml
+Sitemap: https://gibbsborotownhall.com/sitemap.rss
+

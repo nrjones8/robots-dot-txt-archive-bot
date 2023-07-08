@@ -1,8 +1,7 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /
+Disallow:
+Sitemap: https://www.pomptonlakesgov.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -4,12 +4,19 @@
 User-agent: Googlebot
 User-agent: AdsBot-Google
 Disallow: /
-# Block all but AdsBot crawlers
-#User-agent: *
-#Disallow: /
+# Block Googlebot and Adsbot
+User-agent: AhrefsBot
+User-agent: YandexBot
+User-agent: bingbot
 User-agent: MJ12bot
-Disallow: / 
-#User-agent: *
-#Disallow: /cgi-bin/
-#Disallow: /_private/
-#Disallow: /counters/
+User-agent: dotbot
+User-agent: facebookexternalhit
+Disallow: /
+# Block all but AdsBot crawlers
+User-agent: *
+Disallow: /
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /_private/
+Disallow: /counters/
+Diisallow: /documents.shtml/
