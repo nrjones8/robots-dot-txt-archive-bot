@@ -28,6 +28,5 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 
-Crawl-delay: 60
 
 Sitemap: http://sunvalley.govoffice.com/sitemap.xml

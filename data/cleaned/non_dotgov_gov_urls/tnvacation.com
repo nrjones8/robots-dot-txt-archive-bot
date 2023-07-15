@@ -52,6 +52,8 @@ Disallow: /music-pathway/application
 Disallow: /pathway-markers/*
 Disallow: /style-guide/
 Disallow: /sites/default/files/*
+Disallow: /playcation
+Disallow: /playcation/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

@@ -22,7 +22,7 @@ Disallow: /template.html
 Disallow: /businesses--lodging.html
 Disallow: /public-hearing.html
 Disallow: /hamburger-feed.html
-Disallow: /stortz--grand-opening.html
+Disallow: /eye-spy-adventure-lab.html
 Disallow: /gotomeeting-info.html
 Disallow: /scholarship-fundraiser.html
 Disallow: /http://www.glenelder.com/waconda-springs.html

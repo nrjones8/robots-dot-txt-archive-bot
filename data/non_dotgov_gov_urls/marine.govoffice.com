@@ -28,6 +28,5 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 
-Crawl-delay: 60
 
 Sitemap: http://marine.govoffice.com/sitemap.xml

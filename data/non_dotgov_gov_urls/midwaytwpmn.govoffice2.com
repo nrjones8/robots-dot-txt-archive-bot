@@ -28,6 +28,5 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 
-Crawl-delay: 60
 
 Sitemap: http://midwaytwpmn.govoffice2.com/sitemap.xml

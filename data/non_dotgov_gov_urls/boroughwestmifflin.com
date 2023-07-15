@@ -1,3 +1,4 @@
-User-Agent: *
-Allow: 
-Sitemap: http://boroughwestmifflin.com/sitemap.xml
+User-agent: *
+Allow: /
+Crawl-delay:3
+Sitemap:http://boroughwestmifflin.com/sitemap.xml

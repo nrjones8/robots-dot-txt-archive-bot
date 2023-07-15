@@ -28,6 +28,5 @@ Disallow: /manager/
 User-agent: *
 Disallow: /
 
-Crawl-delay: 60
 
 Sitemap: http://dunncountywi.govoffice2.com/sitemap.xml

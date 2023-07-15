@@ -1,6 +1,3 @@
-User-Agent: *
-Disallow: /cpx.php
-Disallow: /medios1.php
-Disallow: /toolbar.php
-Disallow: /check_image.php
-Disallow: /check_popunder.php
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*

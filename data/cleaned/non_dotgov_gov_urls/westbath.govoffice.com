@@ -22,5 +22,4 @@ Disallow: /admin/
 Disallow: /manager/
 User-agent: *
 Disallow: /
-Crawl-delay: 60
 Sitemap: http://westbath.govoffice.com/sitemap.xml

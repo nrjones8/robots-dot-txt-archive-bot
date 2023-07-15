@@ -6,6 +6,7 @@ Disallow: /
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /https://www.okacco.com/grants.html
 Disallow: /https://www.okacco.com/events.html
 Disallow: /https://www.okacco.com/about-acco.html
 Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/cc-form-2__secured__eff_4-18-18-1.pdf
