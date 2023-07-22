@@ -48,6 +48,8 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -58,6 +60,8 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
 # Querystrings
 Disallow: /*?*=*
 # Custom directives
@@ -66,5 +70,11 @@ Crawl-delay: 10
 User-agent: Twitterbot
 Disallow:
 User-agent: yaanibot
+User-agent: Baiduspider
+User-agent: Scrapy
+User-agent: AhrefsBot
+User-agent: MJ12bot
 Disallow: /
+# Plastic Pipeline Game
+Disallow: /game/plasticpipeline/*
 Sitemap: https://www.wilsoncenter.org/sitemap.xml

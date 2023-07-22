@@ -54,6 +54,7 @@ Disallow: /style-guide/
 Disallow: /sites/default/files/*
 Disallow: /playcation
 Disallow: /playcation/*
+Disallow: /biketn
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

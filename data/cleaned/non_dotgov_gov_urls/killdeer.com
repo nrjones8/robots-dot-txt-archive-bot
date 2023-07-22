@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 Sitemap: https://killdeer.com/sitemap.xml
 Sitemap: https://killdeer.com/sitemap.rss

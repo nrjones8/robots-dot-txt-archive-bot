@@ -4,9 +4,13 @@
 # including the DEVELOPMENT START and DEVELOPMENT END comment lines
 
 # Discourage robots from indexing the site while in development
-User-agent: *
-Allow: /$
-Disallow: /
+User-agent: Googlebot
+Allow: /
+#Disallow: /
+
+User-agent: Bing
+Allow: /
+
 
 # Allow www.redbot.org to access the site while in development
 User-agent: RED
@@ -21,4 +25,4 @@ User-agent: *
 Disallow:
 
 # Update the path to the file(s) and remove this comment when the site goes live
-Sitemap: http://cuyahogacounty-design.idevdesign.net/sitemap/sitemap-index.xml
+Sitemap: https://cuyahogacounty.us/sitemap/sitemap.xml

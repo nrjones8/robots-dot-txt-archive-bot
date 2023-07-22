@@ -35,9 +35,6 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /budget$
-Disallow: /budget?
-Disallow: /budget/~
 Disallow: /test-page$
 Disallow: /test-page?
 Disallow: /test-page/~
@@ -59,15 +56,15 @@ Disallow: /stay-connected/municipal-projects/public-works-projects/~
 Disallow: /production/banners/right-banner$
 Disallow: /production/banners/right-banner?
 Disallow: /production/banners/right-banner/~
-Disallow: /departments/community-services/amenities-reservations/projects$
-Disallow: /departments/community-services/amenities-reservations/projects?
-Disallow: /departments/community-services/amenities-reservations/projects/~
 Disallow: /production/banners/left-right-banners$
 Disallow: /production/banners/left-right-banners?
 Disallow: /production/banners/left-right-banners/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
+Disallow: /departments/community-services/amenities-reservations/projects$
+Disallow: /departments/community-services/amenities-reservations/projects?
+Disallow: /departments/community-services/amenities-reservations/projects/~
 Disallow: /departments/public-works/public-works-news/default$
 Disallow: /departments/public-works/public-works-news/default?
 Disallow: /departments/public-works/public-works-news/default/~
@@ -83,18 +80,18 @@ Disallow: /budget/meetings/monthly/~
 Disallow: /privacy-policy-link$
 Disallow: /privacy-policy-link?
 Disallow: /privacy-policy-link/~
-Disallow: /budget/town-budget$
-Disallow: /budget/town-budget?
-Disallow: /budget/town-budget/~
-Disallow: /budget/news$
-Disallow: /budget/news?
-Disallow: /budget/news/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
+Disallow: /budget/town-budget$
+Disallow: /budget/town-budget?
+Disallow: /budget/town-budget/~
+Disallow: /budget/news$
+Disallow: /budget/news?
+Disallow: /budget/news/~
 Disallow: /privacy-policy$
 Disallow: /privacy-policy?
 Disallow: /privacy-policy/~

@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='garrettcounty.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe79d791ee0>, 'Connection to garrettcounty.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: 
+Disallow: /theme/
+Disallow: /muunnellafront/
+Disallow: /script/
+Sitemap: http://www.garrettcounty.org/sitemap?XML

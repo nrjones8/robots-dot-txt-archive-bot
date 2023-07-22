@@ -1,5 +1,8 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.sibfl.net/wp-sitemap.xml
 Disallow: /wp-content/uploads/vfb/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://www.sibfl.net/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
