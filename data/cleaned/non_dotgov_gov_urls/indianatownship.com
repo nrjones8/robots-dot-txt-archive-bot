@@ -2,6 +2,6 @@
 # ---------------------------
 User-agent: *
 Disallow:
-Sitemap: http://indianatownship.com/sitemap_index.xml
+Sitemap: https://indianatownship.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

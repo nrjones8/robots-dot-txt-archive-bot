@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gottobencfestival.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+
+User-agent: googlebot
+Disallow: *.csi

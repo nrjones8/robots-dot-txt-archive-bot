@@ -1,3 +1,4 @@
-#robots.txt for all our sites
 User-agent: *
-Disallow: /content/*
+Disallow:
+
+Sitemap: https://pelhamonline.com/sitemap.xml

@@ -12,6 +12,10 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+User-agent: SeekportBot
+Crawl-delay: 2
+User-agent: MJ12bot
+Disallow: /
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
@@ -62,5 +66,3 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
-User-agent: SeekportBot
-Crawl-delay: 2

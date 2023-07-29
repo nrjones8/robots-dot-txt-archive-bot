@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /archived-elements/spotlights$
+Disallow: /archived-elements/spotlights?
+Disallow: /archived-elements/spotlights/~
 Disallow: /archived-elements/support-local/business-spotlight-ribbon-cutting$
 Disallow: /archived-elements/support-local/business-spotlight-ribbon-cutting?
 Disallow: /archived-elements/support-local/business-spotlight-ribbon-cutting/~
@@ -50,9 +53,6 @@ Disallow: /tree-photo-contest-clone/~
 Disallow: /archived-elements/suffield-summer-fair$
 Disallow: /archived-elements/suffield-summer-fair?
 Disallow: /archived-elements/suffield-summer-fair/~
-Disallow: /archived-elements/spotlights$
-Disallow: /archived-elements/spotlights?
-Disallow: /archived-elements/spotlights/~
 Disallow: /agendas-minutes-clone$
 Disallow: /agendas-minutes-clone?
 Disallow: /agendas-minutes-clone/~
@@ -113,15 +113,15 @@ Disallow: /home-mock-up/~
 Disallow: /government/agendas-minutes/agendas-minutes-posts$
 Disallow: /government/agendas-minutes/agendas-minutes-posts?
 Disallow: /government/agendas-minutes/agendas-minutes-posts/~
+Disallow: /under-construction$
+Disallow: /under-construction?
+Disallow: /under-construction/~
 Disallow: /burn-permit$
 Disallow: /burn-permit?
 Disallow: /burn-permit/~
 Disallow: /production/news-elements/news-list$
 Disallow: /production/news-elements/news-list?
 Disallow: /production/news-elements/news-list/~
-Disallow: /under-construction$
-Disallow: /under-construction?
-Disallow: /under-construction/~
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee$
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee?
 Disallow: /archived-elements/350th-celebration/350th-anniversary-commmittee/~
@@ -137,12 +137,12 @@ Disallow: /our-town/news/town-news-default/~
 Disallow: /production/posts/new-page$
 Disallow: /production/posts/new-page?
 Disallow: /production/posts/new-page/~
-Disallow: /government/live-streaming$
-Disallow: /government/live-streaming?
-Disallow: /government/live-streaming/~
 Disallow: /archived-elements$
 Disallow: /archived-elements?
 Disallow: /archived-elements/~
+Disallow: /government/live-streaming$
+Disallow: /government/live-streaming?
+Disallow: /government/live-streaming/~
 Disallow: /production/posts/post-grid$
 Disallow: /production/posts/post-grid?
 Disallow: /production/posts/post-grid/~
@@ -179,12 +179,12 @@ Disallow: /our-town/worship-and-cemeteries-clone/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
-Disallow: /archived-elements/350th-celebration$
-Disallow: /archived-elements/350th-celebration?
-Disallow: /archived-elements/350th-celebration/~
 Disallow: /production/calendar/grid$
 Disallow: /production/calendar/grid?
 Disallow: /production/calendar/grid/~
+Disallow: /archived-elements/350th-celebration$
+Disallow: /archived-elements/350th-celebration?
+Disallow: /archived-elements/350th-celebration/~
 Disallow: /departments/public-works/capital-projects-clone$
 Disallow: /departments/public-works/capital-projects-clone?
 Disallow: /departments/public-works/capital-projects-clone/~

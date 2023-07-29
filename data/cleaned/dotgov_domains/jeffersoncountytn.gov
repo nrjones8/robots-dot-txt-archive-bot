@@ -1,4 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-content/uploads/wpforms/
+Sitemap: https://jeffersoncountytn.gov/wp-sitemap.xml
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -14,10 +18,3 @@ Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
 User-agent: *
 Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-Sitemap: https://jeffersoncountytn.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

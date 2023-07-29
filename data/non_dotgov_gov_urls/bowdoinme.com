@@ -3,4 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-content/uploads/wpforms/
 
-Sitemap: https://bowdoinme.com/wp-sitemap.xml
+Sitemap: https://bowdoinmaine.gov/wp-sitemap.xml
