@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
-
-Sitemap: https://www.alports.com/sitemap.xml
-Sitemap: https://www.alports.com/sitemap.rss
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 400}

@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /
-Disallow:
-
-Sitemap: https://www.virginiahousing.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='vhda.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0ad3a475e0>, 'Connection to vhda.com timed out. (connect timeout=15)'))"}

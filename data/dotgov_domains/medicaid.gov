@@ -13,11 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+Crawl-delay: 1
 
 User-agent: *
-
-Crawl-delay: 2
-
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -76,9 +74,8 @@ Disallow: /user/*
 Disallow: /media/*
 Disallow: /license/*
 
-#SOLr Filters
+
 Disallow: /index.html?f[*
 Disallow: /index.html&f[*
 Disallow: /index.html?f%5B*
 Disallow: /index.html&f%5B*
-Sitemap: https://www.medicaid.gov/sitemap.xml

@@ -1,7 +1,13 @@
 User-agent: *
-Disallow: /images
 Disallow: /search
-
-  
+Crawl-delay: 10
+ 
 User-agent: Googlebot-Image
-Disallow: /
+Allow: /
+Crawl-delay: 10
+ 
+## Disllowable ##
+Disallow: /wp-admin/
+ 
+Sitemap: https://www.phc4.org/sitemap_index.xml
+Sitemap: https://www.phc4.org/post-sitemap.xml

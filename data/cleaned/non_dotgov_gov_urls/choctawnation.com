@@ -1,7 +1,7 @@
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
-Disallow:
+Disallow: /pdfs/
 Sitemap: https://www.choctawnation.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

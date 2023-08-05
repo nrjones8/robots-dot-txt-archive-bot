@@ -20,11 +20,10 @@ Disallow: /your-government.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-real-property-tax/assessments
 Disallow: /https://boardofsupervisors.columbiacountyny.com/home/board-calendar
 Disallow: /http://austerlitzny.com/
-Disallow: /https://sites.google.com/columbiacountyny.com/emc/climatesmart
+Disallow: /https://climatesmart.columbiacountyny.com/
 Disallow: /https://columbiachamber-ny.com/
 Disallow: /county-services.html
 Disallow: /http://www.ccemscoordinator.com
-Disallow: /https://sites.google.com/columbiacountyny.com/emc/climatesmart
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-board-of-supervisors/home
 Disallow: /http://www.townofclaverack.com/
 Disallow: /http://www.sunycgcc.edu/
