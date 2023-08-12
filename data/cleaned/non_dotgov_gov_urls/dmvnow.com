@@ -1,37 +1,64 @@
-User-Agent: *
-Allow: /models/
-Allow: /exec/vehicle/splates/
-AlloW: /manuals/
-Allow: /drivers/#/applying.html
-Allow: /drivers/#/applying_learners.html
-Allow: /drivers/eligibility
-Allow: /DMVLocator/
-Disallow: /images/
-Disallow: /emp/
-Disallow: /SCRIPTS/
-Disallow: /dmvnet/
-Disallow: /exec/csc/
-Disallow: /exec/driver/
-DIsallow: /exec/mcs/
-Disallow: /apps/
-Disallow: /exec/
-Disallow: /general/csc/
-Disallow: /general/news/pentagonopening.pdf 
-Disallow: /WebCAT/
-Disallow: /webdoc/citizen
-Disallow: /webdoc/rss
-Disallow: /webdoc/general
-Disallow: /webdoc/commercial
-Disallow: /webdoc/safety
-Disallow: /webdoc/utilities
-Disallow: /webdoc/online
-Disallow: /webdoc/resources
-Disallow: /webdoc/moving
-Disallow: /webdoc/temp
-Disallow: /webdoc/media
-Disallow: /webdoc/demo
-Disallow: /webdoc/about
-Disallow: /webdoc/secure/
-Disallow: /general/#utilities/offices.asp
-User-Agent: archive.org_bot
-Disallow:
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

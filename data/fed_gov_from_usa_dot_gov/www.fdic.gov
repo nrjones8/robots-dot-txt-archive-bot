@@ -1,5 +1,5 @@
 # robots.txt for www.fdic.gov
-# August 10, 2022
+# November 28, 2022
 
 User-agent: *
 Disallow: /_vti_bin/  #bypassed to eliminate crawlers for getting into image maps
@@ -23,4 +23,6 @@ Disallow: /resources/consumers/images/fraud.jpg
 Disallow: /resources/consumers/images/contacting.jpg
 Disallow: /resources/consumers/images/cyber.jpg
 Disallow: /resources/consumers/images/tool-cards.jpg
+Disallow: /passwordreset/index.html 
+Disallow: /RETIREE/
 Sitemap: https://www.fdic.gov/sitemap.xml

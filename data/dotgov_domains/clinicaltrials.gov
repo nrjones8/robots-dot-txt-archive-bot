@@ -1,2 +1,10 @@
 User-agent: *
-Disallow: /
+
+Disallow: /api/
+Disallow: /ct2/
+
+# this is ported from 'classic' site
+# Some docs say must be a whole number of seconds.
+# Crawlers differ whether this means delay-between-calls or whether it is max-requests-in-window.
+# Google ignore this value, but supposedly honored by yandex and bing.
+Crawl-delay: 1

@@ -1,9 +1,10 @@
-# XML Sitemap & Google News version 5.3.5 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
-Sitemap: https://www.prescott-az.gov/sitemap.xml
-
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-content/uploads/wpforms/
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
 
 Sitemap: https://www.prescott-az.gov/sitemap.xml

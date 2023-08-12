@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lanesboro-mn.gov', port=80): Read timed out. (read timeout=15)"}
+Sitemap: https://lanesboro-mn.gov/sitemap.xml
+Sitemap: https://lanesboro-mn.gov/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://lanesboro-mn.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,5 +1,3 @@
-Disallow: /wp-content/uploads/vfb/
-
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

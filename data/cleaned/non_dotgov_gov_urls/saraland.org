@@ -1,3 +1,10 @@
 User-agent: *
 Disallow: /wordpress/wp-admin/
 Allow: /wordpress/wp-admin/admin-ajax.php
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://saraland.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

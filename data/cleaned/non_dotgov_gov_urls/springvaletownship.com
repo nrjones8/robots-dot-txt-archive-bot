@@ -14,4 +14,6 @@ Disallow: /cgi-bin/
 Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
-# This file was generated on Mon, 17 Apr 2023 15:05:26 +0000
+User-agent: GPTBot
+Disallow: /
+# This file was generated on Fri, 11 Aug 2023 18:50:03 +0000

@@ -1,5 +1,1 @@
-# www.robotstxt.org/
-
-# Allow crawling of all content
-User-agent: *
-Disallow:
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.butlerborough.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f34ff68b7f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

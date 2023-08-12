@@ -1728,7 +1728,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/OCI-Home-Page-Slide-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Smart-Cities-Book-of-Knowledge
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Smart-Cities-Book-of-Knowledge/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Smart-Cities-Book-of-Knowledge/Smart-Cities-Book-of-Knowledge
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/specialevents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/sspr
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/SupportLocal
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/System-pages
@@ -3578,7 +3577,6 @@ Disallow: /Slideshow/OCI-Home-Page-Slide-1
 Disallow: /Smart-Cities-Book-of-Knowledge
 Disallow: /Smart-Cities-Book-of-Knowledge/New-page
 Disallow: /Smart-Cities-Book-of-Knowledge/Smart-Cities-Book-of-Knowledge
-Disallow: /specialevents
 Disallow: /sspr
 Disallow: /SupportLocal
 Disallow: /System-pages

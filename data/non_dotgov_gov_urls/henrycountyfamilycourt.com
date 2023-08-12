@@ -17,4 +17,7 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-# This file was generated on Fri, 16 Dec 2022 03:22:11 +0000
+User-agent: GPTBot
+Disallow: /
+
+# This file was generated on Fri, 11 Aug 2023 17:09:42 +0000

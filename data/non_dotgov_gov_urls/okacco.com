@@ -16,6 +16,7 @@ Disallow: /https://www.omniapartners.com/publicsector/us-communities-an-omnia-pa
 Disallow: /https://www.okacco.com/policies--procedures.html
 Disallow: /http://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&PHPSESSID=c28c503f6fa82e0b16f97ed75dce9e4e&jsenabled=1&winh=961&winw=1781&inifr=false
 Disallow: /https://eriskhub.com/acco
-Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/county-commissioner-2021.pdf
+Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/12-2-22-final_2022_county_commissioner_handbook.pdf
+Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/2022-county-purchasing-handbook.pdf
 Disallow: /new-officer-portal.html
 Disallow: /https://www.occedb.org/
