@@ -1,1 +1,16 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+Sitemap: https://www.fishkill-ny.gov/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/
+Disallow: /http://fishkilltownny.iqm2.com/Citizens/Default.aspx
+Disallow: /http://#
+Disallow: /http://www.ecode360.com/FI0709
+Disallow: /http://#
+Disallow: /rfps.html
+Disallow: /http://en.wikipedia.org/wiki/Fishkill_%28town%29,_New_York
+Disallow: /police.html
+Disallow: /http://fishkillrecreation.com/

@@ -1,8 +1,11 @@
 #
 # Rules recommended by Kentico
 #
-User-agent: * 
-Disallow: /CMSAdminControls/UI/UniSelector/LiveSelectionDialog.aspx
+Sitemap: https://coj.net/all-of-coj/site-map.aspx
+User-agent: UT-Dorkbot/*
+Disallow: /
 User-agent: UT-Dorkbot
 Disallow: /
-Sitemap: https://coj.net/all-of-coj/site-map.aspx
+User-agent: * 
+Disallow: /specialpages/
+Disallow: /CMSAdminControls/UI/UniSelector/LiveSelectionDialog.aspx

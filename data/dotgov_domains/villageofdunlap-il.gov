@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.villageofdunlap-il.gov', port=80): Read timed out. (read timeout=15)"}
+Sitemap: https://www.villageofdunlap-il.gov/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/

@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.floridahealth.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f34ff958b20>, 'Connection to www.floridahealth.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /Search/
+Disallow: /AlternateSites/testsite/
+Disallow: /alternatesites/testsite/
+Disallow: /healthiestweight/
+
+# Added newsroom directory allow 12-4-2019
+Allow: /newsroom/
+Allow: /about/
+
+Disallow: /about-the-department-of-health/
+Disallow: siteimprove_timer_test.html
+Disallow: web-admin-oncall.html
+
+Sitemap: https://www.floridahealth.gov/sitemap.xml

@@ -1,7 +1,9 @@
+# Default robots file version:2
 User-agent: *
-Disallow: /community/action~posterboard/
-Disallow: /community/action~agenda/
-Disallow: /community/action~oneday/
-Disallow: /community/action~month/
-Disallow: /community/action~week/
-Disallow: /community/action~stream/
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /cdn-cgi*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

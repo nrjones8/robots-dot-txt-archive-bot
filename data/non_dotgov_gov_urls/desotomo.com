@@ -1,8 +1,8 @@
 # If you are regularly crawling WordPress.com sites, please use our firehose to receive real-time push updates instead.
 # Please see https://developer.wordpress.com/docs/firehose/ for more details.
 
-Sitemap: https://desotomo.com/sitemap.xml
-Sitemap: https://desotomo.com/news-sitemap.xml
+Sitemap: http://desotomo.com/sitemap.xml
+Sitemap: http://desotomo.com/news-sitemap.xml
 
 User-agent: *
 Disallow: /wp-admin/
@@ -20,4 +20,4 @@ Disallow: /public.api/
 User-agent: GPTBot
 Disallow: /
 
-# This file was generated on Fri, 11 Aug 2023 16:36:31 +0000
+# This file was generated on Sat, 12 Aug 2023 00:08:24 +0000

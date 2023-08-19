@@ -14,3 +14,4 @@ Disallow: /business.html
 Disallow: /employees.html
 Disallow: /special-event-request.html
 Disallow: /festival.html
+Disallow: /copy-page.html

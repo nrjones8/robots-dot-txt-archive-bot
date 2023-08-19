@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.nmcoks.us/sitemap.xml
+User-agent: *
+

@@ -1,9 +1,9 @@
 # Stop bots from crawling junk URLs
 User-agent: *
-Disallow: /*?s=*
-Disallow: /*&s=*
 Disallow: /*?p=*
 Disallow: /*&p=*
+Disallow: /*?s=*
+Disallow: /*&s=*
 Disallow: /?author=*
 Disallow: /*wp-comments*
 Disallow: /*wp-trackback*
