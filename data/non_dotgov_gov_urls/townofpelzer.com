@@ -1,5 +1,1 @@
-User-agent: ia_archiver 
-Disallow: 
-
-User-agent: * 
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofpelzer.com', port=80): Read timed out. (read timeout=15)"}

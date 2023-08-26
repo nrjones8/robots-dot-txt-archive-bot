@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+Sitemap: https://milotteryconnect.com/sitemap.xml
+Sitemap: https://milotteryconnect.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

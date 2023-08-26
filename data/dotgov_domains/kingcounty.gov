@@ -1,4 +1,4 @@
-﻿# robots.txt for http://www.kingcounty.gov/
+# robots.txt for http://www.kingcounty.gov/
 # save as ANSI to remove UTF-8 BOM (byte order mark)
 #
 #
@@ -16,17 +16,7 @@ Disallow: /*.aspx?print=1
 Disallow: /~/media/depts/metro/fares-orca/transit-go-ticket/tgt-promo-code-step-by-step.pdf
 Disallow: /en/404
 Disallow: /en/404.html
-# These should be removed before pages are redirected
-Disallow: /en/legacy-en/
-Disallow: /en/legacytest/
-Disallow: /en/legacy/audience
-Disallow: /en/legacy/council
-Disallow: /en/legacy/courts
-Disallow: /en/legacy/depts
-Disallow: /en/legacy/elected
-Disallow: /en/legacy/how-do-i
-Disallow: /en/legacy/independent
-Disallow: /en/legacy/initiatives
-Disallow: /en/legacy/languages
-Disallow: /en/legacy/learn
-Disallow: /en/legacy/services
+Disallow: /en/404.aspx
+Disallow: /en/legacy-en
+Disallow: /en/legacytest
+

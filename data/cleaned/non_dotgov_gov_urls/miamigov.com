@@ -1249,6 +1249,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-St
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
@@ -3098,6 +3099,7 @@ Disallow: /Permits-Construction/Unsafe-Structures/Get-a-Demolition-Permit-Total-
 Disallow: /Permits-Construction/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
+Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP
 Disallow: /Permits-Construction/Unsafe-Structures/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf

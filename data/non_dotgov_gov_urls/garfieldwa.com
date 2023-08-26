@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='garfieldwa.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb84f2eca30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

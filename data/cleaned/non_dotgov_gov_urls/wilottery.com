@@ -38,6 +38,7 @@ Disallow: /profiles/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
+Disallow: /.well-known/assetlinks.json
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/

@@ -1,4 +1,17 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp/city-council-packets/
+Disallow: /calendar/
 
+User-agent: YandexBot
+Disallow: /
 
+User-agent: Bingbot
+Disallow: /
 
-[an error occurred while processing this directive]
+User-agent: Semrush
+Disallow: /
+
+Sitemap: https://ci.ferndale.ca.us/sitemap.xml
+Sitemap: https://ci.ferndale.ca.us/sitemap.rss
