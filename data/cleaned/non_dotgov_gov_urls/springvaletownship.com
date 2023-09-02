@@ -16,4 +16,6 @@ Disallow: /next/
 Disallow: /public.api/
 User-agent: GPTBot
 Disallow: /
-# This file was generated on Fri, 11 Aug 2023 21:23:09 +0000
+User-agent: CCBot
+Disallow: /
+# This file was generated on Tue, 29 Aug 2023 19:25:35 +0000

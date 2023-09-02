@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /products/pdf/*
-Disallow: /products/eval-pdf/*
-Disallow: /products/purchase/*
-Disallow: /links/go
-
-Sitemap: sftool.ecomedes.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

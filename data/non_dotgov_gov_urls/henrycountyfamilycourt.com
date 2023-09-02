@@ -20,4 +20,7 @@ Disallow: /public.api/
 User-agent: GPTBot
 Disallow: /
 
-# This file was generated on Fri, 11 Aug 2023 19:26:45 +0000
+User-agent: CCBot
+Disallow: /
+
+# This file was generated on Tue, 29 Aug 2023 16:45:36 +0000

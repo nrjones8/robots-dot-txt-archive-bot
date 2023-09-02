@@ -27,7 +27,7 @@ Sitemap: https://www.alexregenerativecenter.com/sitemap_index.xml
 Sitemap: https://alexmardigras.net/sitemap_index.xml
 Sitemap: https://phillipssublimation.com/sitemap_index.xml
 Sitemap: https://murphyrachal.com/sitemap_index.xml
-Sitemap: https://www.national-pharm.com/sitemap_index.xml
+Sitemap: https://national-pharmacies.com/sitemap_index.xml
 Sitemap: https://midstatestrong.com/sitemap_index.xml
 Sitemap: https://funktoberfestcenla.com/sitemap_index.xml
 Sitemap: https://luneaubecklaw.com/sitemap_index.xml
@@ -86,7 +86,6 @@ Sitemap: https://shipwreckedandrescued.com/sitemap_index.xml
 Sitemap: https://checla.com/sitemap_index.xml
 Sitemap: https://soilind.com/sitemap_index.xml
 Sitemap: https://n527pn.com/sitemap_index.xml
-Sitemap: https://joinapdla.org/sitemap_index.xml
 Sitemap: https://tudorcompanies.com/sitemap_index.xml
 Sitemap: https://linksonthebayougolf.com/sitemap_index.xml
 Sitemap: https://eagleelectric.org/sitemap_index.xml
@@ -107,5 +106,6 @@ Sitemap: https://clshospital.com/sitemap_index.xml
 Sitemap: https://cenlacpas.com/sitemap_index.xml
 Sitemap: https://louisianacda.com/sitemap_index.xml
 Sitemap: https://stephenspurgeon.com/sitemap_index.xml
+Sitemap: https://www.fwmmech.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

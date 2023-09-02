@@ -38,15 +38,15 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /departments/police/operation-hope$
+Disallow: /departments/police/operation-hope?
+Disallow: /departments/police/operation-hope/~
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers$
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers?
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers/~
 Disallow: /departments/engineering-technical-services/gis/gis-clearinghouse$
 Disallow: /departments/engineering-technical-services/gis/gis-clearinghouse?
 Disallow: /departments/engineering-technical-services/gis/gis-clearinghouse/~
-Disallow: /departments/assessing/tax-bills$
-Disallow: /departments/assessing/tax-bills?
-Disallow: /departments/assessing/tax-bills/~
 Disallow: /stay-connected/municipal-projects/public-works-projects$
 Disallow: /stay-connected/municipal-projects/public-works-projects?
 Disallow: /stay-connected/municipal-projects/public-works-projects/~
@@ -86,15 +86,15 @@ Disallow: /budget/meetings/monthly/~
 Disallow: /privacy-policy-link$
 Disallow: /privacy-policy-link?
 Disallow: /privacy-policy-link/~
-Disallow: /stay-connected/municipal-projects/growth-management-ordinance$
-Disallow: /stay-connected/municipal-projects/growth-management-ordinance?
-Disallow: /stay-connected/municipal-projects/growth-management-ordinance/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
+Disallow: /stay-connected/municipal-projects/growth-management-ordinance$
+Disallow: /stay-connected/municipal-projects/growth-management-ordinance?
+Disallow: /stay-connected/municipal-projects/growth-management-ordinance/~
 Disallow: /budget/town-budget$
 Disallow: /budget/town-budget?
 Disallow: /budget/town-budget/~

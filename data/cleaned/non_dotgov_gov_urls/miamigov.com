@@ -1,15 +1,4 @@
 User-agent: *
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Copy-of-Solve-a-Problem-1
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/New-page
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Solve-a-Problem
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Government/Watch-Live-Meetings
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Home/New-page
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/Import-General-Pages/Business/New-Business-Guide
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Government/Solve-a-Problem
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Government/Watch-Live-Meetings
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Climate-Change-Environment
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Copy-of-Solve-a-Problem-1
-Disallow: /$15294ed1-0b5c-465b-82ea-7a7cfdc46635$/My-Home-Neighborhood/Solve-a-Problem
 Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Announcements
 Disallow: /$1870586c-efa1-4cf8-b2a4-eb38ecde9941$/Do-it-Online-2
 Disallow: /$1870586C-EFA1-4CF8-B2A4-EB38ECDE9941$/Do-it-Online-2/New-top-task
@@ -66,9 +55,6 @@ Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Featured-C
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Slider
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Tower-Theater-Miami/Slideshow
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Tabs
-Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs
-Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Business-Resources
-Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/accessmiamijobs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/adjacent
@@ -909,6 +895,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Hous
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/Opportunity-Center
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Innovation-and-Technology-DoIT/MiamiGov-Guest-Wireless-Full-Disclaimer
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Innovation-and-Technology-DoIT/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Allapattah-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
@@ -1965,9 +1953,6 @@ Disallow: /Emergency-Updates
 Disallow: /Emergency-Updates/Resources
 Disallow: /employeerel/pages/select_records/
 Disallow: /ERA-Program-espanol
-Disallow: /estart/Home/Tabs
-Disallow: /estart/Home/Tabs/Business-Resources
-Disallow: /estart/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images
@@ -2759,6 +2744,8 @@ Disallow: /My-Government/Departments/Housing-Community-Development/Small-Busines
 Disallow: /My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /My-Government/Departments/Human-Services/Opportunity-Center
+Disallow: /My-Government/Departments/Innovation-and-Technology-DoIT/MiamiGov-Guest-Wireless-Full-Disclaimer
+Disallow: /My-Government/Departments/Innovation-and-Technology-DoIT/New-page
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Allapattah-Service-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
@@ -3622,17 +3609,6 @@ Disallow: /Trees
 Disallow: /trolley/events.html
 Disallow: /tv
 Disallow: /Understanding-the-Citys-Sign-Code
-Disallow: /user-test/Government/Copy-of-Solve-a-Problem-1
-Disallow: /user-test/Government/New-page
-Disallow: /user-test/Government/Solve-a-Problem
-Disallow: /user-test/Government/Watch-Live-Meetings
-Disallow: /user-test/Home/New-page
-Disallow: /user-test/Import-General-Pages/Business/New-Business-Guide
-Disallow: /user-test/My-Government/Solve-a-Problem
-Disallow: /user-test/My-Government/Watch-Live-Meetings
-Disallow: /user-test/My-Home-Neighborhood/Climate-Change-Environment
-Disallow: /user-test/My-Home-Neighborhood/Copy-of-Solve-a-Problem-1
-Disallow: /user-test/My-Home-Neighborhood/Solve-a-Problem
 Disallow: /usertesting
 Disallow: /venturemia/*
 Disallow: /Venues-for-hire
@@ -3645,4 +3621,4 @@ Disallow: /Website-Study
 Disallow: /Whats-On/Background-Images
 Disallow: /Whats-On/New-page
 Disallow: /Works-Projects
-Sitemap : https://www.miamigov.com/sitemap.xml
+Sitemap : https://www.miami.gov/sitemap.xml

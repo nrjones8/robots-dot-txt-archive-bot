@@ -1,1 +1,19 @@
-Got an HTML response
+User-agent: googlebot
+Disallow:
+User-agent: google
+Disallow:
+User-agent: bingbot
+Disallow:
+User-agent: bing
+Disallow:
+Crawl-delay: 10
+User-agent: *
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Petal Bot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
