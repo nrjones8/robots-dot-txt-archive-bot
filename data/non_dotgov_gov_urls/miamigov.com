@@ -56,6 +56,9 @@ Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Featured-C
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Slider
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Tower-Theater-Miami/Slideshow
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Tower-Theater-Miami/Tabs
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Business-Resources
+Disallow: /$7098c3cd-ea37-43ce-b20d-5821899bebd2$/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/accessmiamijobs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/adjacent
@@ -1954,6 +1957,9 @@ Disallow: /Emergency-Updates
 Disallow: /Emergency-Updates/Resources
 Disallow: /employeerel/pages/select_records/
 Disallow: /ERA-Program-espanol
+Disallow: /estart/Home/Tabs
+Disallow: /estart/Home/Tabs/Business-Resources
+Disallow: /estart/Home/Tabs/Copy-of-Business-Resources-1
 Disallow: /Events-Activities/Background-Images
 Disallow: /Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Events-Activities/Copy-of-Background-Images

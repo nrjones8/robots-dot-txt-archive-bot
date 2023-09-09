@@ -18,4 +18,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: CCBot
 Disallow: /
-# This file was generated on Tue, 29 Aug 2023 19:25:35 +0000
+# This file was generated on Tue, 29 Aug 2023 20:18:58 +0000

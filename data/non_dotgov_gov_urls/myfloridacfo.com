@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-Agent: *
+Allow: /
+
+User Agent: *
+Disallow: /data/
+
+Sitemap: https://myfloridacfo.com/sitemap/sitemap-index.xml

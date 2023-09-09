@@ -67,6 +67,10 @@ Disallow: /Admin/
 Disallow: /bin
 Disallow: /Bin
 Crawl-delay: 30
+User-agent: CCBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
 User-agent: *
 Disallow: *.config$
 Disallow: *.asmx$

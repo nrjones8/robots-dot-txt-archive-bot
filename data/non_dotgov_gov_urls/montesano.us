@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*
