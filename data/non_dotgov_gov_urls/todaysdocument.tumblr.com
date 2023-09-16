@@ -12,3 +12,6 @@ Disallow: /
 # Common Crawl's crawler
 User-agent: CCBot
 Disallow: /
+# SentiBot's crawler
+User-agent: sentibot
+Disallow: /

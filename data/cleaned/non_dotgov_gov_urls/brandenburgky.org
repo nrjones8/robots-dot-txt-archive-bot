@@ -1,8 +1,4 @@
-User-agent: Googlebot
-User-agent: Bingbot
-User-agent: Slurp
-User-agent: Baiduspider
-Crawl-delay: 10
-Disallow:
 User-agent: *
-Disallow: /
+Allow: /
+Crawl-delay: 10
+Sitemap: https://www.brandenburgky.org/sitemap.xml

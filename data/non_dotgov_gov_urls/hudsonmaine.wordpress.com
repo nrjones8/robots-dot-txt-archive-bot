@@ -23,4 +23,8 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# This file was generated on Wed, 30 Aug 2023 05:17:52 +0000
+User-agent: SentiBot
+User-agent: sentibot
+Disallow: /
+
+# This file was generated on Fri, 15 Sep 2023 21:37:50 +0000

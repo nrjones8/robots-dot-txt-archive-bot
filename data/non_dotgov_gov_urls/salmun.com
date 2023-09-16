@@ -9,7 +9,6 @@ Disallow: /apps/
 Disallow: /https://www.facebook.com/salamancafarmersmarket/
 Disallow: /http://www.salmunida.com
 Disallow: /https://senecaalleganycasino.com/
-Disallow: /city-charter.html
 Disallow: /https://www.salamancany.org/
 Disallow: /https://sni.org/
 Disallow: /http://www.salamancabpu.com/

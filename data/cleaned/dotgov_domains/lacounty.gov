@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://lacounty.gov/wp-sitemap.xml
+Disallow: /wp-admin/*/
+Disallow: /wp-content/plugins/
+Disallow: /wp-login.php/
+Disallow: /wp-content/ai1wm-backups/
+User-agent: MJ12bot
+Disallow: /

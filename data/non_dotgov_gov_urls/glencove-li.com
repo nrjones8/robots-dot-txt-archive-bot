@@ -77,4 +77,4 @@ Disallow: /
 User-agent: Specify
 Disallow: /
 
-Sitemap: https://www.glencove-li.com/sitemap.xml
+Sitemap: https://glencove-li.com/sitemap.xml

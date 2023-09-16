@@ -1,9 +1,1 @@
-# Squirrly SEO Robots
-
-User-agent: *
-Disallow: */trackback/
-Disallow: */xmlrpc.php
-Disallow: /wp-*.php
-Disallow: /cgi-bin/
-Disallow: /wp-admin/
-Allow: */wp-content/uploads/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='phillipscounty.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fef85689940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
