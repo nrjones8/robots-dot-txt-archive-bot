@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='azhousing.gov', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='azhousing.gov', port=5000): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f389669b370>, 'Connection to azhousing.gov timed out. (connect timeout=15)'))"}

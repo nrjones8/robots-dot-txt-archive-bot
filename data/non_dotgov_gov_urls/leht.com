@@ -1,1 +1,27 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='leht.com', port=443): Read timed out. (read timeout=15)"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.leht.com/wp-sitemap.xml

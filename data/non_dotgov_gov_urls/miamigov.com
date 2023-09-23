@@ -828,11 +828,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
@@ -1135,8 +1133,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/City-Commission-Online-Public-Comment-Form-Second-Budget-Hearing
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
@@ -2680,11 +2681,9 @@ Disallow: /My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearin
 Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
 Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
@@ -2987,8 +2986,11 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Miami-Freedom-Park
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/Special-Commission-Online-Public-Comment-Form-Redistricting
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/31122-Special-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/City-Commission-Online-Public-Comment-Form-Second-Budget-Hearing
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1

@@ -1,6 +1,3 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 Disallow: /parks-rec-calendar/action~posterboard/
 Disallow: /parks-rec-calendar/action~agenda/
 Disallow: /parks-rec-calendar/action~oneday/
@@ -14,3 +11,11 @@ Disallow: /parks-rec-calendar/action~poster/
 Disallow: /parks-rec-calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://nvtpa.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

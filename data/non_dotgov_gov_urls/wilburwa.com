@@ -1,5 +1,17 @@
+User-agent: Baiduspider
+Disallow: /
+User-agent: AhrefsBot 
+Disallow: /
+User-agent: MJ12bot 
+Disallow: /
+User-agent: BLEXBot 
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://www.wilburwa.com/wp-sitemap.xml
+Disallow:
+Sitemap: http://wilburwa.com/sitemap.xml

@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /
+sitemap: http://hamiltonban.com/sitemap.xml

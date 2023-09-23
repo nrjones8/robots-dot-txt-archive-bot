@@ -1,8 +1,5 @@
 User-agent: *
-Crawl-Delay: 10
-Allow: /requirements/fullcalendar
-Allow: /requirements/prettify
-Disallow: /admin/
-Disallow: /tasks/
-Disallow: /requirements/
-Disallow: /config/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://meridianms.org/sitemap_index.xml

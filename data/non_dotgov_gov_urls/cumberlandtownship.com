@@ -1,2 +1,2 @@
-User-agent: *
-Disallow: /
+
+sitemap: http://cumberlandtownship.com/sitemap.xml
