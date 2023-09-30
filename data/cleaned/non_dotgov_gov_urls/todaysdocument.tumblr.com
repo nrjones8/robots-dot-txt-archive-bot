@@ -14,3 +14,6 @@ Disallow: /
 # SentiBot's crawler
 User-agent: sentibot
 Disallow: /
+# Google Bard's crawler
+User-agent: Google-Extended
+Disallow: /

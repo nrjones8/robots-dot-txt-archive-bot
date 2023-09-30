@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='republicanleader.gov', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+
+# News
+Disallow: /news/documentprint.aspx*
+
+# Responses
+Disallow: /printform/
+Disallow: /thankyou/
+
+# Surveys
+Disallow: /*?*Preview=
+
+User-agent: SiteimproveBot-Crawler
+Disallow: /news/email/

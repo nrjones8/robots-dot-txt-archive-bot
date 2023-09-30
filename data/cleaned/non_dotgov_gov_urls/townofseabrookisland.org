@@ -1,6 +1,8 @@
 Sitemap: https://www.townofseabrookisland.org/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
+User-agent: dotbot
+Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
@@ -18,6 +20,7 @@ Disallow: /mayor.html
 Disallow: /https://www.instagram.com/town_of_seabrook_island/
 Disallow: /public-comment-portal.html
 Disallow: /https://twitter.com/SeabrookIslnd87
+Disallow: /none-at-this-time.html
 Disallow: /about.html
 Disallow: /town-council.html
 Disallow: /emergency-preparedness.html
@@ -38,7 +41,6 @@ Disallow: /social-media1.html
 Disallow: /grants.html
 Disallow: /https://public.coderedweb.com/cne/en-US/B17DA3D2B9EA
 Disallow: /http://sipoa.org
-Disallow: /none-at-this-time.html
 Disallow: /licenses--permits.html
 Disallow: /public-records.html
 Disallow: /services.html

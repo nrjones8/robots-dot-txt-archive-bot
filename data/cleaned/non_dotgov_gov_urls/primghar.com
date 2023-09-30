@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://primghar.com/sitemap.xml
+Sitemap: https://www.lonepeakbrewery.com/sitemap.xml

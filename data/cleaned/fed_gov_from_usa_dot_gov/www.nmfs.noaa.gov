@@ -1,3 +1,18 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -33,6 +48,8 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -43,18 +60,5 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-# PatternLab
-Disallow: /themes/custom/noaa_components/pattern-lab/
-# Sitemap files
-Sitemap: https://www.fisheries.noaa.gov/sitemap.xml
-# Node Paths
-Disallow: /node/*
-# Misc Items
-Disallow /search?*
-Disallow /species-directory/*?*
-Disallow /protected-resource-regulations?*
-Disallow /sites/default/files/*?*
-Disallow /jira/secure/*
-Disallow /taxonomy/*
-Disallow /taxonomy*
-Disallow /taxonomy-term/*
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
