@@ -603,8 +603,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Procurement/Vendor-Code-of-Conduct
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Dinner-Key-Mooring-Facility
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Get-a-Public-Works-CovenantAgreement/Application-Documents-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Resilience-and-Public-Works/Get-a-Public-Works-CovenantAgreement/Copy-of-Copy-of-Perpetual-Sidewalk-Easement-Application-Documents-1-1
@@ -1103,8 +1101,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
-Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
@@ -1191,7 +1187,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/All-thing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Drawings-Plans-for-ePlan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeal-a-PZAB-Decision
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-3
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-4
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-5
@@ -1210,7 +1205,9 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Elevators
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Guidelines-for-the-Deployment-of-In-Building-Radio-Coverage-BDA
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
@@ -1251,6 +1248,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Planning-Zoning-Land-Use/Rezon
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Rezoning-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/plant
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Private
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/projectintake
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/PublicRecords
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/publicworksgis
@@ -2393,8 +2391,6 @@ Disallow: /Government/Departments-Organizations/Procurement/Solicitation-Creatio
 Disallow: /Government/Departments-Organizations/Procurement/Special-Terms-Conditions-IFB
 Disallow: /Government/Departments-Organizations/Procurement/Vendor-Code-of-Conduct
 Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Marinas/Dinner-Key-Mooring-Facility
-Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /Government/Departments-Organizations/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
 Disallow: /Government/Departments-Organizations/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Get-a-Public-Works-CovenantAgreement/Application-Documents-1-1
 Disallow: /Government/Departments-Organizations/Resilience-and-Public-Works/Get-a-Public-Works-CovenantAgreement/Copy-of-Copy-of-Perpetual-Sidewalk-Easement-Application-Documents-1-1
@@ -2983,8 +2979,6 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Spe
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities
-Disallow: /My-Government/Departments/Real-Estate-Asset-Marina-Management-DREAM/Real-Estate-Opportunities
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
@@ -3071,7 +3065,6 @@ Disallow: /Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-
 Disallow: /Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Drawings-Plans-for-ePlan
 Disallow: /Permits-Construction/Appeals-Hearings/Appeal-a-PZAB-Decision
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-1
-Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-2
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-3
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-4
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-5
@@ -3090,7 +3083,9 @@ Disallow: /Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-f
 Disallow: /Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
 Disallow: /Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
+Disallow: /Permits-Construction/Guidelines-for-the-Deployment-of-In-Building-Radio-Coverage-BDA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
+Disallow: /Permits-Construction/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
@@ -3131,6 +3126,7 @@ Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-RezoneFLUM-ChangeSAP/Futur
 Disallow: /Planning-Zoning-Land-Use/Rezones/Rezoning-Information
 Disallow: /Planning-Zoning-Land-Use/Rezoning-Information
 Disallow: /plant
+Disallow: /Private
 Disallow: /projectintake
 Disallow: /PublicRecords
 Disallow: /publicworksgis

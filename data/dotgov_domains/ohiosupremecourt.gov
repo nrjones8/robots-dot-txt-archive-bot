@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.supremecourt.ohio.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff01b703eb0>, 'Connection to www.supremecourt.ohio.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /cms/
+Sitemap: https://www.supremecourt.ohio.gov/site-xml/

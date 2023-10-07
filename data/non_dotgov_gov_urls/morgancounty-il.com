@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp/wp-admin/
-Allow: /wp/wp-admin/admin-ajax.php
-
-Sitemap: https://morgancounty-il.com/wp/wp-sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

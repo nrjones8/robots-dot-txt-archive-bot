@@ -1,6 +1,6 @@
 User-agent: *
-allow: /
-sitemap: https://www.fhlb.com/sitemap.xml
+Disallow: /cmsctx/
 
 User-agent: *
-Disallow: /cmsctx/
+allow: /
+sitemap: https://www.fhlb.com/sitemap.xml

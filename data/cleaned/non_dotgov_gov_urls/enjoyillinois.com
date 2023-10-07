@@ -14,7 +14,7 @@ Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-in-the-city/
 Disallow: 12-days-of-illinois/8-must-try-winter-wine-trails-and-whiskey-distilleries-in-illinois/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-shopping/
 Disallow: middle-of-everything/suenos-chicago-drawing/
-Disallow: plan-your-trip/seasonal-adventures/holiday-season/winter-events/
+Disallow: plan-your-trip/seasonal-adventures/holiday-season/amazing-is-a-list-of-holiday-events-you-cant-miss/
 Disallow: middle-of-everything/dupage-giveaway/
 Disallow: middle-of-everything/lake-county-giveaway/
 Disallow: plan-your-trip/seasonal-adventures/fall-travel-in-illinois/amazing-fall-in-chicago/

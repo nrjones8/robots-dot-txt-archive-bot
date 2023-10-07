@@ -15,8 +15,6 @@ Disallow: /
 # Crawl delay for overly enthusiastic bots
 User-agent: AhrefsBot
 Crawl-delay: 10
-User-agent: amazonbot
-Crawl-delay: 10
 
 Sitemap: https://www.cityoflakeshore.com/sitemap.xml
 

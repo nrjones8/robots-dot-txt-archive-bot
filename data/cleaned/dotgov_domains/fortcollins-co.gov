@@ -3,7 +3,6 @@ user-agent: *
 Disallow: /cgi/
 Disallow: /developmentreview/archives/*
 Disallow: /mason/archive/*
-Disallow: /gis/map-products.asp*
 Disallow: /text.php
 Disallow: /purchasing/pdf/*
 Disallow: /tags-codes/*
@@ -15,6 +14,8 @@ Disallow: /utilities/water-meter-maintenance
 Disallow: /cityclerk/pdf/wc-resources.pdf
 Disallow: /*?PageSpeed=noscript*
 Disallow: /digitalcities/*
+Disallow: *utm_source*
+Disallow: /broadband/*
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

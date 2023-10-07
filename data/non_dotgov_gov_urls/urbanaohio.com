@@ -11,8 +11,8 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /boards--commissions.html
 Disallow: /government.html
-Disallow: /https://www.urbanaohio.com/uploads/1/2/4/6/124631710/upd_2023_citizens_police_academy-1.pdf
 Disallow: /services.html
+Disallow: /https://www.urbanaohio.com/uploads/1/2/4/6/124631710/upd_2023_citizens_police_academy-1.pdf
 Disallow: /community.html
 Disallow: /https://www.urbanaohio.com/news--public-notices/upd-recognizing-urbana-as-an-international-city-of-peace
 Disallow: /business.html

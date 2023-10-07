@@ -1,6 +1,1 @@
-Sitemap: 
-User-agent: *
-Disallow: /Currently/
-Disallow: /Santee Cooper/404.aspx
-Disallow: /Employees/
-Disallow: /Santee Cooper/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='santeecooper.com', port=80): Read timed out. (read timeout=15)"}

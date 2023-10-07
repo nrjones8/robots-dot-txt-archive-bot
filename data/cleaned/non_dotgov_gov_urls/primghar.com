@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.lonepeakbrewery.com/sitemap.xml
+Sitemap: https://www.seaviewmelbourne.com/sitemap.xml

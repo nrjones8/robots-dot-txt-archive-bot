@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /departments-services/departments/police/polices-and-reports$
+Disallow: /departments-services/departments/police/polices-and-reports?
+Disallow: /departments-services/departments/police/polices-and-reports/~
 Disallow: /departments-services/departments/police/complaints$
 Disallow: /departments-services/departments/police/complaints?
 Disallow: /departments-services/departments/police/complaints/~
@@ -50,9 +53,6 @@ Disallow: /training-page/~
 Disallow: /production/banners/right-banner$
 Disallow: /production/banners/right-banner?
 Disallow: /production/banners/right-banner/~
-Disallow: /departments-services/departments/police/divisions$
-Disallow: /departments-services/departments/police/divisions?
-Disallow: /departments-services/departments/police/divisions/~
 Disallow: /departments-services/departments/police/about-us$
 Disallow: /departments-services/departments/police/about-us?
 Disallow: /departments-services/departments/police/about-us/~
@@ -62,6 +62,9 @@ Disallow: /departments-services/departments/police/employment/~
 Disallow: /henri$
 Disallow: /henri?
 Disallow: /henri/~
+Disallow: /departments-services/departments/police/divisions$
+Disallow: /departments-services/departments/police/divisions?
+Disallow: /departments-services/departments/police/divisions/~
 Disallow: /production/social-elements/youtube$
 Disallow: /production/social-elements/youtube?
 Disallow: /production/social-elements/youtube/~
@@ -74,12 +77,12 @@ Disallow: /accessibility/~
 Disallow: /home-clone-february-24-2021$
 Disallow: /home-clone-february-24-2021?
 Disallow: /home-clone-february-24-2021/~
-Disallow: /production/constituent/profile$
-Disallow: /production/constituent/profile?
-Disallow: /production/constituent/profile/~
 Disallow: /government/board-and-commissions/vernon-arts-commission$
 Disallow: /government/board-and-commissions/vernon-arts-commission?
 Disallow: /government/board-and-commissions/vernon-arts-commission/~
+Disallow: /production/constituent/profile$
+Disallow: /production/constituent/profile?
+Disallow: /production/constituent/profile/~
 Disallow: /production/athletics/profile$
 Disallow: /production/athletics/profile?
 Disallow: /production/athletics/profile/~
