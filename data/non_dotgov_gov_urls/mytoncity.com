@@ -1,5 +1,8 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.mytoncityut.gov/wp-sitemap.xml
+Allow: /
+Sitemap: https://mytoncity.com/sitemap.xml
+Sitemap: https://mytoncity.com/mds.php?sitemap.xml
+Sitemap: https://mytoncity.com/saiga/saiga.php?sitemap.xml
+Sitemap: https://www.mytoncity.com/sitemap.xml
+Sitemap: https://www.mytoncity.com/saiga/saiga.php?sitemap.xml
+Sitemap: https://www.mytoncity.com/mds.php?sitemap.xml

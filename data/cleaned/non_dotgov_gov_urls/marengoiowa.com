@@ -6,4 +6,3 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /non-clickable-page.html

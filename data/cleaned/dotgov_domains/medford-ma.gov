@@ -35,21 +35,24 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /posts-under-construction$
-Disallow: /posts-under-construction?
-Disallow: /posts-under-construction/~
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
+Disallow: /posts-under-construction$
+Disallow: /posts-under-construction?
+Disallow: /posts-under-construction/~
 Disallow: /animal-control-template$
 Disallow: /animal-control-template?
 Disallow: /animal-control-template/~
-Disallow: /for-businesses/test-business-dev$
-Disallow: /for-businesses/test-business-dev?
-Disallow: /for-businesses/test-business-dev/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
+Disallow: /for-businesses/test-business-dev$
+Disallow: /for-businesses/test-business-dev?
+Disallow: /for-businesses/test-business-dev/~
 Disallow: /migration$
 Disallow: /migration?
 Disallow: /migration/~
@@ -62,9 +65,6 @@ Disallow: /boards-commissions/testing/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
-Disallow: /departments/mayors-office-clone$
-Disallow: /departments/mayors-office-clone?
-Disallow: /departments/mayors-office-clone/~
 Disallow: /production/navigation/tier-three-page$
 Disallow: /production/navigation/tier-three-page?
 Disallow: /production/navigation/tier-three-page/~
@@ -104,6 +104,9 @@ Disallow: /approved-designs/~
 Disallow: /production$
 Disallow: /production?
 Disallow: /production/~
+Disallow: /departments/mayors-office-clone$
+Disallow: /departments/mayors-office-clone?
+Disallow: /departments/mayors-office-clone/~
 Disallow: /home-clone-april-20-2022$
 Disallow: /home-clone-april-20-2022?
 Disallow: /home-clone-april-20-2022/~

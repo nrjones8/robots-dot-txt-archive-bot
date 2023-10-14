@@ -5,8 +5,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Boards-a
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/BC-Minutes
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/Board-and-Committee-Minutes-Doc-Folder
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/New-page
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/Directives-Ordinances-Resolutions
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/New-page
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/About-Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Leadership-and-Staff/Managers-Update
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/About-Your-Government/Leadership-and-Staff/Office-of-City-Manager/Managers-Update
@@ -89,7 +87,9 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/General-Content
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/Library-Search
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Boards-and-Committees/BC-Minutes
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Clerk-Background
-Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/Directives-Ordinances-Resolutions
+Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/City-Clerk/Directives-Ordinances-Business-Impact-Estimates-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Directives-Ordinances-Resolutions/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/New-page
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Leadership-and-Staff/Communications/Communications-Background
@@ -102,8 +102,6 @@ Disallow: /About-Your-Government/Boards-and-Committees/Board-and-Committee-Minut
 Disallow: /About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/BC-Minutes
 Disallow: /About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/Board-and-Committee-Minutes-Doc-Folder
 Disallow: /About-Your-Government/Boards-and-Committees/Board-and-Committee-Minutes/New-page
-Disallow: /About-Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/Directives-Ordinances-Resolutions
-Disallow: /About-Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/New-page
 Disallow: /About-Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /About-Your-Government/Leadership-and-Staff/Managers-Update
 Disallow: /About-Your-Government/Leadership-and-Staff/Office-of-City-Manager/Managers-Update
@@ -186,7 +184,9 @@ Disallow: /Training/General-Content
 Disallow: /Training/Library-Search
 Disallow: /Your-Government/Boards-and-Committees/BC-Minutes
 Disallow: /Your-Government/City-Clerk/Clerk-Background
-Disallow: /Your-Government/City-Clerk/Directives-Ordinances-and-Resolutions/Directives-Ordinances-Resolutions
+Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Business-Impact-Estimates-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
+Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
+Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Resolutions/New-page
 Disallow: /Your-Government/City-Clerk/New-page
 Disallow: /Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /Your-Government/Leadership-and-Staff/Communications/Communications-Background

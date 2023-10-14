@@ -12,4 +12,4 @@ Disallow: /
 User-agent: *
 Allow: /
 # Sitemap files
-Sitemap: https://www.chicorec.com/sitemap.xml
+Sitemap: https://www.chicorec.gov/sitemap.xml

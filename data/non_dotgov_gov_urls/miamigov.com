@@ -964,6 +964,10 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Copy-of-Evaluation-and-Appraisal-Review-EAR-City-of-Miami-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-2035
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/back-up-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
@@ -2842,6 +2846,10 @@ Disallow: /My-Government/Departments/Planning/Community-Planning-Main-Page/New-p
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Copy-of-Evaluation-and-Appraisal-Review-EAR-City-of-Miami-1
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-2035
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/back-up-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates

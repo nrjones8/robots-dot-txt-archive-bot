@@ -12,10 +12,12 @@ Disallow: /it/digital-strategy-2021
 Disallow: /openbook/*
 Disallow: /utilities/water-meter-maintenance
 Disallow: /cityclerk/pdf/wc-resources.pdf
-Disallow: /*?PageSpeed=noscript*
+Disallow: *PageSpeed=noscript*
 Disallow: /digitalcities/*
 Disallow: *utm_source*
 Disallow: /broadband/*
+Disallow: /email/*
+Disallow: /cityclerk/agendas.php/*
 
 Crawl-Delay: 10
 

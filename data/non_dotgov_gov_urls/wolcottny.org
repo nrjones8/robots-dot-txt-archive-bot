@@ -3,11 +3,14 @@ Sitemap: https://www.wolcottny.org/sitemap.xml
 User-agent: NerdyBot
 Disallow: /
 
+User-agent: dotbot
+Crawl-delay: 10
+
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /departments1.html
 Disallow: /departments.html
 Disallow: /https://www.wolcottny.org/farmers-market.html
+Disallow: /departments1.html
 Disallow: /meeting-minutes.html
 Disallow: /http://www.wolcottny.org/resources.html

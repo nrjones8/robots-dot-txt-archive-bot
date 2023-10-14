@@ -1,6 +1,9 @@
-User-agent: Googlebot
-Disallow: 
-User-agent: googlebot-mobile
-Disallow: 
 User-agent: *
-Disallow: 
+Disallow: /cgi-bin/
+Disallow: /inc/
+Disallow: /cmsgod/
+Disallow: /temp/
+Sitemap: /id/xmlsitemap
+Sitemap: /id/xmlsitemap/prod
+Sitemap: /id/xmlsitemap/news
+Sitemap: /id/xmlsitemap/gallery

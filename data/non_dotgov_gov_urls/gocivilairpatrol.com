@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /ecommerce
-Disallow: /accounts
+Disallow: /accounts/
 Crawl-Delay: 5
 
 Sitemap: https://www.gocivilairpatrol.com/sitemap.xml

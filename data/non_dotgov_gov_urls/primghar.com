@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.seaviewmelbourne.com/sitemap.xml
+Sitemap: https://www.italicanet.com/sitemap.xml

@@ -30,3 +30,6 @@ Disallow: /
 # Amazon's crawler
 User-agent: Amazonbot
 Disallow: /
+# Bing's crawler
+User-agent: Bingbot
+Disallow: /

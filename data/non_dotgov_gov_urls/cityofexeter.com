@@ -1,8 +1,8 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://cityofexeter.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://cityofexeter.com/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json

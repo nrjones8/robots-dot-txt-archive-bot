@@ -24,7 +24,27 @@ User-agent: CCBot
 Disallow: /
 
 User-agent: SentiBot
+Disallow: /
+
 User-agent: sentibot
 Disallow: /
 
-# This file was generated on Fri, 15 Sep 2023 20:23:31 +0000
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+# This file was generated on Tue, 10 Oct 2023 07:51:49 +0000
