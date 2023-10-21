@@ -77,4 +77,4 @@ Disallow: /
 User-agent: Specify
 Disallow: /
 
-Sitemap: https://glencove-li.com/sitemap.xml
+Sitemap: https://reliancerobopds.co.id/sitemap.xml

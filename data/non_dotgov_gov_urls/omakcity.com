@@ -34,6 +34,7 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
+Disallow: /login
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -44,6 +45,7 @@ Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
+Disallow: /?q=login/
 Disallow: /?q=sites/all/modules/
 Disallow: /?q=sites/all/libraries/
 Disallow: /?q=sites/all/include/

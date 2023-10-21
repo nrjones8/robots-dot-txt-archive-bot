@@ -1,1 +1,28 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cuyahogacounty.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f103fca7a60>, 'Connection to cuyahogacounty.gov timed out. (connect timeout=15)'))"}
+# DEVELOPMENT START ###
+# The rules between DEVELOPMENT START and DEVELOPMENT END comments
+# must be removed before the site goes live
+# including the DEVELOPMENT START and DEVELOPMENT END comment lines
+
+# Discourage robots from indexing the site while in development
+User-agent: Googlebot
+Allow: /
+#Disallow: /
+
+User-agent: Bing
+Allow: /
+
+
+# Allow www.redbot.org to access the site while in development
+User-agent: RED
+Disallow: 
+
+# Allow Screaming Frog to access the site while in development
+User-agent: Screaming Frog SEO Spider
+Disallow:
+
+# DEVELOPMENT END ###
+User-agent: *
+Disallow:
+
+# Update the path to the file(s) and remove this comment when the site goes live
+Sitemap: https://cuyahogacounty.gov/sitemap/sitemap.xml

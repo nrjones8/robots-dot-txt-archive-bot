@@ -1,55 +1,34 @@
+### MANUALLY CREATED ROBOTS.TXT BY TAYLOR ON  10-16-2023
 User-agent: *
-Disallow: 
-Crawl-Delay: 4 
-User-agent: 008
+Crawl-delay: 10
+Allow: /
+ 
+# Disallow these directories, url types & file-types
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+Disallow: /wp-
+Disallow: /cgi-bin
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /*?*
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Disallow: /*/wp-*
+Disallow: /*/feed/*
+Disallow: /*/*?s=*
+Disallow: /*/*.js$
+Disallow: /*/*.inc$
+Allow: /wp-content/uploads/
+User-agent: ia_archiver*
 Disallow: /
-User-agent: BLEXBot
+User-agent: duggmirror
 Disallow: /
-User-agent: MJ12bot
-Disallow: /
-User-agent: Goodzer
-Disallow: /
-User-agent: AhrefsBot
-Disallow: /
-User-agent: spbot
-Disallow: /
-User-agent: dotbot
-User-agent: DotBot
-Disallow: /
-User-agent: turnitinbot
-Disallow: /
-User-agent: SeznamBot
-Disallow: /
-User-Agent: The Knowledge AI
-Disallow: /
-User-agent: CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
-Disallow: /
-User-agent: SeekportBot
-User-agent: MauiBot
-User-agent: houzzbot
-User-agent: Baiduspider
-User-agent: Baiduspider-image
-User-Agent: serpstatbot
-User-agent: Sogou blog
-User-agent: Sogou inst spider
-User-agent: Sogou News Spider
-User-agent: Sogou Orion spider
-User-agent: Sogou spider2
-User-agent: Sogou web spider
-User-agent: Uptimebot
-User-agent: Yandex
-User-agent: YandexMobileBot
-User-agent: ZoominfoBot
-User-agent: MegaIndex.ru
-User-agent: AlphaSeoBot-SA
-User-agent: proximic
-User-agent: Amazonbot
-User-agent: PetalBot
-User-agent: Re-re Studio
-User-agent: barkrowler
-User-agent: SiteAuditBot
-Disallow: /
-# See if Semrush can behave - March 2023
-#User-agent: SemrushBot-BA
-#User-agent: SemrushBot
-#Disallow: /
