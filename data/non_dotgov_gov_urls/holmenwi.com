@@ -1,6 +1,4 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+User-Agent: *
+Disallow: /admin/
+Allow: /
 
-Sitemap: https://www.holmenwi.com/sitemap.xml
-Sitemap: https://www.holmenwi.com/sitemap.rss

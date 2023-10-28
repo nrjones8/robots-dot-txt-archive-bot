@@ -1,5 +1,7 @@
-# XML Sitemap & Google News version 5.3.6 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
-Sitemap: https://www.co.nobles.mn.us/sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
+Sitemap: https://www.co.nobles.mn.us/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

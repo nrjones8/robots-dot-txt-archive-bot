@@ -1,8 +1,4 @@
 User-agent: *
+Disallow: /public_html/wp-content/uploads/
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://cityofexeter.com/wp-sitemap.xml
-
-User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Disallow: /wp-includes/

@@ -15,7 +15,7 @@
 
 User-agent: *
 # Crawl Settings
-Crawl-delay: 10
+Crawl-delay: 20
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -47,6 +47,7 @@ Disallow: /comment/reply/
 Disallow: /search
 Disallow: /filter/tips
 Disallow: /node/add/
+Disallow: /node/
 Disallow: /search/
 Disallow: /user/register/
 Disallow: /user/password/
@@ -64,3 +65,8 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 Disallow: /search?keyword=*
 Disallow: /search?
+Disallow: */search?processed=
+Disallow: /reports-testimonies
+Disallow: /reports-testimonies?
+Disallow: /gao-advanced-search?
+Disallow: */find-an-expert?

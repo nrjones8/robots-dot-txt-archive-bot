@@ -1,5 +1,1 @@
-user-agent: gsa-crawler
-Disallow:
-user-agent: *
-Disallow: /404.html
-Sitemap: https://helpwithmybank.gov/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www2.helpwithmybank.gov', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fad87d24040>, 'Connection to www2.helpwithmybank.gov timed out. (connect timeout=15)'))"}

@@ -33,11 +33,13 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Even
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Activities-and-Recreation/Events-Meetings/Seasonal-Events
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Getting-Around/Getting-Around-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Getting-Around-Background
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Library/Services/Career-Online-High-School
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Parks-Recreation/Parks-Recreation-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Parks-Recreation-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Sports-Activities/Sports-Activities-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Sports-Activities-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Announcements
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/career-online-hs
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/City-Services/Garbage-Recycling/Solid-Waste-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Infrastructure/New-City-Hall-Project
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Infrastructure/New-page
@@ -130,11 +132,13 @@ Disallow: /Activities-and-Recreation/Events/Seasonal-Events
 Disallow: /Activities-and-Recreation/Events-Meetings/Seasonal-Events
 Disallow: /Activities-and-Recreation/Getting-Around/Getting-Around-Background
 Disallow: /Activities-and-Recreation/Getting-Around-Background
+Disallow: /Activities-and-Recreation/Library/Services/Career-Online-High-School
 Disallow: /Activities-and-Recreation/Parks-Recreation/Parks-Recreation-Background
 Disallow: /Activities-and-Recreation/Parks-Recreation-Background
 Disallow: /Activities-and-Recreation/Sports-Activities/Sports-Activities-Background
 Disallow: /Activities-and-Recreation/Sports-Activities-Background
 Disallow: /Announcements
+Disallow: /career-online-hs
 Disallow: /City-Services/Garbage-Recycling/Solid-Waste-Background
 Disallow: /City-Services/Public-Infrastructure/New-City-Hall-Project
 Disallow: /City-Services/Public-Infrastructure/New-page

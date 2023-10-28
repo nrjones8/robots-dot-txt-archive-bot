@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+Sitemap: 
+User-agent: *
+Disallow: /Currently/
+Disallow: /Santee Cooper/404.aspx
+Disallow: /Employees/
+Disallow: /Santee Cooper/sitemap.xml

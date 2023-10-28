@@ -18,6 +18,8 @@ Disallow: *utm_source*
 Disallow: /broadband/*
 Disallow: /email/*
 Disallow: /cityclerk/agendas.php/*
+Disallow: /cityclerk/passports-ssn*
+Disallow: /file-gateway/?id=7
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

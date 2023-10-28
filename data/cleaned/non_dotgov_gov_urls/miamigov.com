@@ -857,6 +857,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Comm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Draft/Test2
@@ -1103,8 +1104,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
@@ -2739,6 +2743,7 @@ Disallow: /My-Government/Departments/Communications/Communications-Services-Requ
 Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
+Disallow: /My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
 Disallow: /My-Government/Departments/Draft/Test2
@@ -2985,8 +2990,11 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Gen
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-IFB
 Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Special-Terms-Conditions-RFPQ
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
+Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
+Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
+Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review

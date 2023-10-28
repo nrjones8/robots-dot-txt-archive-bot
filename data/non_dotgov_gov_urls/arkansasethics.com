@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.arkansasethics.com/sitemap.rss
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='arkansasethics.com', port=80): Read timed out. (read timeout=15)"}

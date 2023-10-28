@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.lamourend.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.lamourend.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fad87af1e50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

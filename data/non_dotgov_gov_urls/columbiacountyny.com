@@ -78,7 +78,7 @@ Disallow: /http://www.columbiacountysheriff.us
 Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /http://www.ccswcd.org/
 Disallow: /https://solidwaste.columbiacountyny.com/
-Disallow: /http://www.stopdwi.org/home
+Disallow: /https://stopdwi.columbiacountyny.com/home
 Disallow: /https://columbiacountytourism.org/
 Disallow: /https://veterans.columbiacountyny.com/
 Disallow: /https://ccyouthbureau.columbiacountyny.com/

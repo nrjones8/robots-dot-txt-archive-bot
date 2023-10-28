@@ -1,45 +1,44 @@
 User-agent: Googlebot
-Disallow:  /info/
-Disallow:  /search/
-
-User-agent: Mediapartners-Google
-Disallow:  /info/
-Disallow:  /search/
-
-User-agent: Yahoo! Slurp
-Allow: /$
-Disallow: /
-
-User-agent: bingbot
-Allow: /$
-Disallow: /
-
-User-agent: Yandex
-Allow: /$
-Disallow: /
+Disallow: /?*
 
 User-agent: Baiduspider
-Disallow: /
+Disallow: /?*
 
-User-agent: Sogou
-Disallow: /
+User-agent: YandexBot
+Disallow: /?*
+
+User-agent: ichiro
+Disallow:  /?*
+
+User-agent: sogou spider
+Disallow:  /?*
+
+User-agent: Sosospider
+Disallow: /?*
+
+User-agent: YoudaoBot
+Disallow: /?*
+
+User-agent: YetiBot
+Disallow: /?*
+
+User-agent: bingbot
+Crawl-delay: 2
+Disallow: /?*
+
+User-Agent: Yahoo! Slurp 
+Crawl-delay: 2
+Disallow: /?*
+
+User-agent: rdfbot
+Disallow: /?*
+
+User-agent: Seznambot 
+Request-rate: 1/2s
+Disallow: /?*
 
 User-agent: ia_archiver
-Disallow:
+Disallow: 
 
-User-agent: IPS-Agent
-Disallow: /parking.php4
-
-User-agent: BLEXBot
-Disallow: /
-
-User-agent: Pandalytics
-Disallow:  /info/
-Disallow:  /search/
-
-User-agent: IonCrawl
-Disallow: /info/
-Disallow: /search/
-
-User-agent: *
-Disallow: /
+User-agent: Mediapartners-Google
+Disallow: 

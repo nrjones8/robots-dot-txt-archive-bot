@@ -8,6 +8,8 @@ Disallow: *.cs$
 Disallow: *.resx$
 Disallow: *.master$
 Disallow: *.dll$
+Disallow: /profile/login.aspx
+Disallow: /Profile/login.aspx
 Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
@@ -32,6 +34,8 @@ Disallow: *.cs$
 Disallow: *.resx$
 Disallow: *.master$
 Disallow: *.dll$
+Disallow: /profile/login.aspx
+Disallow: /Profile/login.aspx
 Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
@@ -56,6 +60,8 @@ Disallow: *.cs$
 Disallow: *.resx$
 Disallow: *.master$
 Disallow: *.dll$
+Disallow: /profile/login.aspx
+Disallow: /Profile/login.aspx
 Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
@@ -86,6 +92,8 @@ Disallow: *.cs$
 Disallow: *.resx$
 Disallow: *.master$
 Disallow: *.dll$
+Disallow: /profile/login.aspx
+Disallow: /Profile/login.aspx
 Disallow: /store_categoryproducts.aspx
 Disallow: /Store_CategoryProducts.aspx
 Disallow: /store_searchresults.aspx
