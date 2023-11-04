@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /committee-minutes-2
+Disallow:  
 Sitemap: http://bellairemichigan.com/sitemap.xml

@@ -1,6 +1,7 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Sitemap: https://bridgevilleboro.com/wp-sitemap.xml
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -14,5 +15,3 @@ Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
 Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /*/action~*/
-Sitemap: https://bridgevilleboro.com/sitemap.xml
-Sitemap: https://bridgevilleboro.com/sitemap.rss

@@ -129,6 +129,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/311-Request-St
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Commissions/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Building-3
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/Building-3/Building-Bulletins
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/COM-Service-Page-Demo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Content-Sandbox/COM-Service-Page-Test
@@ -750,6 +751,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/impactfee
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/interimparking
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Internal-Styles
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/isaias
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ITBapplications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ITBapps
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ITBdocs
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/itsupport
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Library/Background-Images
@@ -1107,6 +1111,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Proc
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Applications
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Documents
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
@@ -1876,6 +1882,7 @@ Disallow: /Content-Sandbox/311-Request-Status
 Disallow: /Content-Sandbox/Boards-and-Commissions/New-page
 Disallow: /Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /Content-Sandbox/Building-3
+Disallow: /Content-Sandbox/Building-3/Building-Bulletins
 Disallow: /Content-Sandbox/City-Clerk
 Disallow: /Content-Sandbox/COM-Service-Page-Demo
 Disallow: /Content-Sandbox/COM-Service-Page-Test
@@ -2546,6 +2553,9 @@ Disallow: /impactfee
 Disallow: /interimparking
 Disallow: /Internal-Styles
 Disallow: /isaias
+Disallow: /ITBapplications
+Disallow: /ITBapps
+Disallow: /ITBdocs
 Disallow: /itsupport
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event
 Disallow: /LHCC/2021-Breastfeed-Miami-Art-of-Breastfeeding-Event/Back-to-School-Health-Fair
@@ -2993,6 +3003,8 @@ Disallow: /My-Government/Departments/Procurement/Solicitation-Creation-Tools/Spe
 Disallow: /My-Government/Departments/Procurement/Vendor-Code-of-Conduct
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
+Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Applications
+Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Documents
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications

@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /feeds
-Allow: /*/_/rsrc/
-Disallow: /*/_/
+Allow: /
+Sitemap: https://stjohnin.gov/sitemap.xml

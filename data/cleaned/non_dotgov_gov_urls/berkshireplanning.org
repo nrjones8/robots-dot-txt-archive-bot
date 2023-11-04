@@ -1,1 +1,15 @@
-Crawl-delay: 600
+#Googlebot
+User-agent: Googlebot
+Allow: *.css*
+Allow: *.js*
+Disallow: /contacts/*
+# Global
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Allow: /wp-content/themes/
+Allow: /wp-content/cache/
+Allow: /programs/
+Allow: /wp-includes/js/
+Sitemap: https://www.berkshireplanning.org/sitemap.xml

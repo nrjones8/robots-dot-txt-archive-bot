@@ -25,6 +25,7 @@ Disallow: /logs/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp/
+Crawl-delay: 10
 User-agent: FAST Enterprise Crawler
 Disallow: /
 User-agent: UptimeRobot

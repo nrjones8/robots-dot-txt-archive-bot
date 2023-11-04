@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /departments-and-services/human-services$
+Disallow: /departments-and-services/human-services?
+Disallow: /departments-and-services/human-services/~
 Disallow: /production/organizational$
 Disallow: /production/organizational?
 Disallow: /production/organizational/~
@@ -56,9 +59,6 @@ Disallow: /departments-and-services/human-services/ad-hoc-diversity-and-inclusio
 Disallow: /production/navigation$
 Disallow: /production/navigation?
 Disallow: /production/navigation/~
-Disallow: /departments-and-services/human-services$
-Disallow: /departments-and-services/human-services?
-Disallow: /departments-and-services/human-services/~
 Disallow: /departments-and-services/human-services/holiday-programs$
 Disallow: /departments-and-services/human-services/holiday-programs?
 Disallow: /departments-and-services/human-services/holiday-programs/~

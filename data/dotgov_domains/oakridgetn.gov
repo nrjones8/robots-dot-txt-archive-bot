@@ -1,21 +1,35 @@
-User-agent: *
-Allow: /
-
-# Optimization for Google Ads Bot
-User-agent: AdsBot-Google-Mobile
-User-agent: AdsBot-Google
-Disallow: /_api/*
-Disallow: /_partials*
-Disallow: /pro-gallery-webapp/v1/galleries/*
-
-# Block PetalBot
-User-agent: PetalBot
+user-agent: Baiduspider
 Disallow: /
-
-# Crawl delay for overly enthusiastic bots
-User-agent: AhrefsBot
-Crawl-delay: 10
-
-Sitemap: https://www.oakridgetn.gov/sitemap.xml
-
-# Auto generated, go to SEO Tools > Robots.txt Editor to change this
+User-agent: Yandex
+Disallow: /
+User-agent: *
+Disallow: /activedit
+Disallow: /admin
+Disallow: /common/admin/
+Disallow: /OJA
+Disallow: /support
+Disallow: /currenteventsview.asp
+Disallow: /search.asp
+Disallow: /currenteventsview.aspx
+Disallow: /search.aspx
+Disallow: /currentevents.aspx
+Disallow: /Support
+Disallow: /CurrentEventsView.asp
+Disallow: /Search.asp
+Disallow: /CurrentEventsView.aspx
+Disallow: /Search.aspx
+Disallow: /Search
+Disallow: /CurrentEvents.aspx
+Disallow: /Currentevents.aspx
+Disallow: /map.aspx
+Disallow: /map.asp
+Disallow: /Map.aspx
+Disallow: /Map.asp
+Sitemap: /sitemap.xml
+Disallow: /RSS.aspx
+User-agent: Siteimprove
+Crawl-delay: 20
+User-agent: Siteimprovebot
+Crawl-delay: 20
+User-agent: Siteimprovebot-crawler
+Crawl-delay: 20

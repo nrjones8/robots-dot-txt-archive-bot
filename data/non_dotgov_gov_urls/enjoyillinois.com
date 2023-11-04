@@ -21,7 +21,7 @@ Disallow: plan-your-trip/seasonal-adventures/fall-travel-in-illinois/amazing-fal
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/activities/
 Disallow: illinois-made-old/
 Disallow: middle-of-everything/win-a-holiday-getaway-to-champaign-county/
-Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/winter-events/
+Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/illinois-joy-a-guide-to-winter-must-dos-and-events/
 Disallow: middle-of-everything/enjoy-illinois-ultimate-chicago-sports-getaway-sweepstakes-official-rules/
 Disallow: unsubscribe/
 Disallow: page-not-found/
