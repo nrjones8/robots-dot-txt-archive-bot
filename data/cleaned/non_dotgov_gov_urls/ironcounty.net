@@ -1,1 +1,3 @@
-Got an HTML response
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:

@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://bainbridgetwp.com/wp-sitemap.xml
+Disallow: /https://bainbridgetwp.com/donotknocklist_full/
+Sitemap: https://bainbridgetwp.com/sitemap.xml
+Sitemap: https://bainbridgetwp.com/sitemap.rss

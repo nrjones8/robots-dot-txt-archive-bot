@@ -1,1 +1,8 @@
-Got an HTML response
+User-agent: *
+Disallow: /cfdocs/legis/home/bills/applyStyle.cfm 
+Disallow:  /cfdocs/Errors/404.cfm
+Disallow:  /cfdocs/Errors/
+Crawl-delay: 5
+#block synapse
+User-agent: Mozilla/4.0 (compatible; Synapse)
+Disallow: /

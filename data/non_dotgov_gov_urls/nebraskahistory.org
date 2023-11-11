@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 530}
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Disallow: /terms
+Disallow: /privacy
+Crawl-delay: 120

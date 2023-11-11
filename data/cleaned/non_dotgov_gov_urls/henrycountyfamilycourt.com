@@ -34,4 +34,4 @@ User-agent: Amazonbot
 Disallow: /
 User-agent: Bingbot
 Disallow: /
-# This file was generated on Tue, 10 Oct 2023 08:09:34 +0000
+# This file was generated on Tue, 10 Oct 2023 08:36:00 +0000

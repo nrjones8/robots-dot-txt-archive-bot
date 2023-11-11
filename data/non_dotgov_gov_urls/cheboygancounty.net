@@ -23,6 +23,8 @@ User-agent: GoogleBot
 Allow: /*.js
 Allow: /*.css
 
+User-agent: GPTBot
+Crawl-delay: 20
 User-agent: PetalBot
 Crawl-delay: 20
 User-agent: ecoresearchCrawler/0.9
@@ -46,7 +48,7 @@ Crawl-delay: 5
 User-agent: som-gsa-crawler-two
 Crawl-delay: 5
 
-User-agent: GPTBot
+User-agent: fidget-spinner-bot
 Disallow: /
 User-agent: Bytespider
 Disallow: /

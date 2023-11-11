@@ -14,6 +14,9 @@
 User-agent: AhrefsBot
 Disallow: /
 
+User-agent: GPTBot
+Disallow: /
+
 User-agent: MJ12bot
 Disallow: /
 
@@ -42,11 +45,12 @@ User-agent: SplitSignalBot
 Disallow: /
 
 User-agent: Bingbot
-Crawl-Delay: 10
-Disallow: /images/
-Disallow: /documents?*
-Disallow: /documents/documents?*
-Disallow: /activites?*
+Disallow: /
+#Crawl-Delay: 10
+#Disallow: /images/
+#Disallow: /documents?*
+#Disallow: /documents/documents?*
+#Disallow: /activites?*
 
 User-agent: *
 Disallow: /administrator/

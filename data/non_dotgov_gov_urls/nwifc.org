@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}
+User-agent: *
+Disallow: /cgi-bin/
+
+User-agent: 008
+Disallow: /

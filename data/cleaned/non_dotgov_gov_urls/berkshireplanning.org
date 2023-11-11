@@ -1,15 +1,4 @@
-#Googlebot
-User-agent: Googlebot
-Allow: *.css*
-Allow: *.js*
-Disallow: /contacts/*
-# Global
-User-agent: *
+User-Agent: *
 Disallow: /wp-admin/
-Disallow: /wp-includes/
-Disallow: /wp-content/plugins/
-Allow: /wp-content/themes/
-Allow: /wp-content/cache/
-Allow: /programs/
-Allow: /wp-includes/js/
+Allow: /wp-admin/admin-ajax.php
 Sitemap: https://www.berkshireplanning.org/sitemap.xml

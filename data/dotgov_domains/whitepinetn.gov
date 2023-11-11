@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='whitepinetn.gov', port=443): Read timed out. (read timeout=15)"}
+Disallow: /wp-content/uploads/wpforms/
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://whitepinetn.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
