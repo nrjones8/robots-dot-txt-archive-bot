@@ -1,9 +1,1 @@
-crawl-delay: 5
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.pepfar.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.pepfar.gov', port=443): Read timed out. (read timeout=15)"}

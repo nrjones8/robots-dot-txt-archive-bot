@@ -38,9 +38,6 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments/police/operation-hope$
-Disallow: /departments/police/operation-hope?
-Disallow: /departments/police/operation-hope/~
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers$
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers?
 Disallow: /departments/planning-codes/technical-division/sustainability/piping-plovers/~
@@ -83,12 +80,12 @@ Disallow: /test-page/~
 Disallow: /departments/public-works/public-works-news/default$
 Disallow: /departments/public-works/public-works-news/default?
 Disallow: /departments/public-works/public-works-news/default/~
-Disallow: /departments/planning-codes/technical-division/sustainability$
-Disallow: /departments/planning-codes/technical-division/sustainability?
-Disallow: /departments/planning-codes/technical-division/sustainability/~
 Disallow: /stay-connected/municipal-projects/public-works-projects$
 Disallow: /stay-connected/municipal-projects/public-works-projects?
 Disallow: /stay-connected/municipal-projects/public-works-projects/~
+Disallow: /departments/planning-codes/technical-division/sustainability$
+Disallow: /departments/planning-codes/technical-division/sustainability?
+Disallow: /departments/planning-codes/technical-division/sustainability/~
 Disallow: /budget/meetings/monthly$
 Disallow: /budget/meetings/monthly?
 Disallow: /budget/meetings/monthly/~
@@ -101,6 +98,9 @@ Disallow: /production/navigation/tier-three-page/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
+Disallow: /departments/police/operation-hope$
+Disallow: /departments/police/operation-hope?
+Disallow: /departments/police/operation-hope/~
 Disallow: /budget/town-budget$
 Disallow: /budget/town-budget?
 Disallow: /budget/town-budget/~

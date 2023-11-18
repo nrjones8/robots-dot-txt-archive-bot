@@ -1,3 +1,19 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+
+
+User-agent: GoogleBot
+Allow: /
+
+User-agent: GoogleBot-Mobile
+Allow: /
+
+User-agent: GoogleBot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+Sitemap: https://www.example.com/sitemap.xml

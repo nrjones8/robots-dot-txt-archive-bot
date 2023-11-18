@@ -8,6 +8,7 @@ Disallow: illinois-made/holiday-gift-guide-preview-link/
 Disallow: upcoming-events/
 Disallow: plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
 Disallow: tourism/subscribe-to-illinois-tourism-monthly/
+Disallow: illinois-made/illinois-made-holiday-gift-guide-2/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/illinois-made-holiday-gift-guide/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-in-the-city/
 Disallow: allinillinois/kohl-childrens-museum-activities/
@@ -48,8 +49,8 @@ Disallow: subscribe-book-giveaway/
 Disallow: enjoy-illinois-magazine-giveaway/
 Disallow: style-guide/
 Disallow: itinerary-submissions/
-Disallow: illinois-200/historic-peoria-something-for-everyone/
 Disallow: newsletter-subscribe/
+Disallow: illinois-200/historic-peoria-something-for-everyone/
 Disallow: 2021-fall-getaway-sweepstakes-rules/
 Disallow: 2021-holiday-sweepstakes-rules/
 Disallow: spring-break-2022-official-rules/

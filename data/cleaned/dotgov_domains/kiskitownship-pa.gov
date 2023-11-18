@@ -1,8 +1,7 @@
-# Default Flywheel robots file
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+Disallow:
+Sitemap: https://kiskitownship-pa.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
