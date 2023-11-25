@@ -1,7 +1,1 @@
-User-agent: *
-Crawl-delay: 15
-Disallow: /adminindex.php
-Disallow: /conf/*
-Disallow: /corecode/*
-Disallow: /albumupload/*
-Disallow: /fckimages/*
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='baldwincity.org', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbd400c1280>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

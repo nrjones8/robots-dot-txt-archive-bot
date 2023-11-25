@@ -20,6 +20,13 @@ Disallow: /email/*
 Disallow: /cityclerk/agendas.php/*
 Disallow: /cityclerk/passports-ssn*
 Disallow: /file-gateway/?id=7
+Disallow: /council/pdf/ohlson-bio.pdf*
+Disallow: /council/files/jpignataro-bio.pdf*
+Disallow: /council/pdf/sgutowsky-bio.pdf*
+Disallow: /council/pdf/speel-bio.pdf*
+Disallow: /council/pdf/e-gorgol-bio.pdf*
+Disallow: /council/pdf/jarndt-bio.pdf*
+Disallow: /council/pdf/tcanonico-bio.pdf*
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

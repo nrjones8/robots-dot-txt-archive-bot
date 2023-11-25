@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.milwaukee.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /Views/Display/Blocks
+Disallow: /*?*PrintPage=yes*

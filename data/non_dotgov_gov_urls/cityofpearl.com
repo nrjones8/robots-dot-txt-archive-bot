@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.cityofpearl.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofpearl.com', port=80): Read timed out. (read timeout=15)"}

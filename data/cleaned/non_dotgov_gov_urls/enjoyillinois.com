@@ -8,7 +8,6 @@ Disallow: illinois-made/holiday-gift-guide-preview-link/
 Disallow: upcoming-events/
 Disallow: plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
 Disallow: tourism/subscribe-to-illinois-tourism-monthly/
-Disallow: illinois-made/illinois-made-holiday-gift-guide-2/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/illinois-made-holiday-gift-guide/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-in-the-city/
 Disallow: allinillinois/kohl-childrens-museum-activities/
@@ -49,15 +48,15 @@ Disallow: subscribe-book-giveaway/
 Disallow: enjoy-illinois-magazine-giveaway/
 Disallow: style-guide/
 Disallow: itinerary-submissions/
-Disallow: newsletter-subscribe/
 Disallow: illinois-200/historic-peoria-something-for-everyone/
+Disallow: newsletter-subscribe/
 Disallow: 2021-fall-getaway-sweepstakes-rules/
 Disallow: 2021-holiday-sweepstakes-rules/
 Disallow: spring-break-2022-official-rules/
 Disallow: enjoyil300/racetrack/
 Disallow: middle-of-everything/suenos-chicago-drawing/official-rules/
 Disallow: travel-forward-sweepstakes-2023-official-rules/
-Disallow: travel-illinois/blaum-bros-distilling-co-2/
+Disallow: travel-illinois/blaum-bros-distilling-co/
 Disallow: travel-illinois/buena-vista-art-illinois-made/
 Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/chicago/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/winter-places-to-stay/

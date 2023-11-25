@@ -14,9 +14,10 @@
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Crawl-delay: 1
+Crawl-delay: 10
 # Custom
 Disallow: /export-employers-csv2
+Disallow: /about-e-verify/e-verify-data/how-to-find-participating-employers
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
