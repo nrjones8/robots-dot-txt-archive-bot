@@ -63,7 +63,6 @@ Sitemap: https://monroelapolice.com/sitemap_index.xml
 Sitemap: https://cenlamotosport.com/sitemap_index.xml
 Sitemap: https://lyons-construction.com/sitemap_index.xml
 Sitemap: https://parkerlandry.com/sitemap_index.xml
-Sitemap: https://ltc-ss.com/sitemap_index.xml
 Sitemap: https://jimvillard.com/sitemap_index.xml
 Sitemap: https://flymonroe.org/sitemap_index.xml
 Sitemap: https://rapides911.org/sitemap_index.xml
@@ -105,5 +104,6 @@ Sitemap: https://cenlacpas.com/sitemap_index.xml
 Sitemap: https://louisianacda.com/sitemap_index.xml
 Sitemap: https://stephenspurgeon.com/sitemap_index.xml
 Sitemap: https://www.fwmmech.com/sitemap_index.xml
+Sitemap: https://olpschurch.org/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

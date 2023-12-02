@@ -13,11 +13,13 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+# Last edited: 2023-11-27
+
 User-agent: SMUrlExpander
 Disallow: /
 
 User-agent: *
-Crawl-delay: 10
+Crawl-delay: 20
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?

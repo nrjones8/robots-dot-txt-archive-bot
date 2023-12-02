@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://dunntownship.com/sitemap_index.xml
+Sitemap: https://dunntownship.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

@@ -1340,7 +1340,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Copy-of-Grapeland-Im
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Grapeland-Image
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Host-an-Event-in-The-City-of-Miami
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Housing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Housing/Business-Assistance-Grant
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Residents/Hurricane-Guide/Copy-of-Emergency-Alert-Signup-1
@@ -3242,7 +3241,6 @@ Disallow: /Residents/Copy-of-Grapeland-Image-1
 Disallow: /Residents/Grapeland-Image
 Disallow: /Residents/Host-an-Event
 Disallow: /Residents/Host-an-Event-in-The-City-of-Miami
-Disallow: /Residents/Housing
 Disallow: /Residents/Housing/Business-Assistance-Grant
 Disallow: /Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Copy-of-Emergency-Alert-Signup-1

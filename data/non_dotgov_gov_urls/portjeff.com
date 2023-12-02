@@ -1,8 +1,5 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://portjeff.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://portjeff.com/wp-sitemap.xml

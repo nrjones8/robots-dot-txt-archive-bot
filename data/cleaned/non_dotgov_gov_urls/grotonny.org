@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
+User-agent: Googlebot
+Disallow: *?lightbox=
 # Optimization for Google Ads Bot
 User-agent: AdsBot-Google-Mobile
 User-agent: AdsBot-Google

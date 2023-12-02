@@ -1,6 +1,5 @@
 # XML Sitemap & Google News version 5.3.6 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
-Sitemap: https://www.mdlottery.com/sitemap.xml
-Sitemap: https://www.mdlottery.com/sitemap-news.xml
+# XML Sitemaps are disabled because of this site's privacy settings.
 
 User-agent: *
 Disallow: /wp-admin/

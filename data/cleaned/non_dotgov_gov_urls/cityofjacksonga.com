@@ -1,35 +1,28 @@
-user-agent: Baiduspider
-Disallow: /
-User-agent: Yandex
-Disallow: /
+# If the Joomla site is installed within a folder
+# eg www.example.com/joomla/ then the robots.txt file
+# MUST be moved to the site root
+# eg www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to all of the
+# paths.
+# eg the Disallow rule for the /administrator/ folder MUST
+# be changed to read
+# Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# https://www.robotstxt.org/orig.html
 User-agent: *
-Disallow: /activedit
-Disallow: /admin
-Disallow: /common/admin/
-Disallow: /OJA
-Disallow: /support
-Disallow: /currenteventsview.asp
-Disallow: /search.asp
-Disallow: /currenteventsview.aspx
-Disallow: /search.aspx
-Disallow: /currentevents.aspx
-Disallow: /Support
-Disallow: /CurrentEventsView.asp
-Disallow: /Search.asp
-Disallow: /CurrentEventsView.aspx
-Disallow: /Search.aspx
-Disallow: /Search
-Disallow: /CurrentEvents.aspx
-Disallow: /Currentevents.aspx
-Disallow: /map.aspx
-Disallow: /map.asp
-Disallow: /Map.aspx
-Disallow: /Map.asp
-Sitemap: /sitemap.xml
-Disallow: /RSS.aspx
-User-agent: Siteimprove
-Crawl-delay: 20
-User-agent: Siteimprovebot
-Crawl-delay: 20
-User-agent: Siteimprovebot-crawler
-Crawl-delay: 20
+Disallow: /administrator/
+Disallow: /api/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/

@@ -1,6 +1,1 @@
-User-agent: *
-
-Disallow: /admin/*.*
-
-#Remove the '#' character below and replace example.com with your own website address.
-#sitemap: http://example.com/sitemap.axd 
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

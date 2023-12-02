@@ -1,3 +1,6 @@
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
