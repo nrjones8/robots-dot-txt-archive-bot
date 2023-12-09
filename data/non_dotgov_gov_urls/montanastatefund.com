@@ -1,1 +1,4 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-agent: *
+Disallow: /web/WEB-INF
+Disallow: /web/META-INF
+Disallow: /web/ibm_security_logout

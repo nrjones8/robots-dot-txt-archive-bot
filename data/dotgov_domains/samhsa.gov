@@ -1,9 +1,37 @@
-# SAMHSA customized robots.txt
+# SAMHSA.gov customized robots.txt
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
+
+# Sitemap URL
+Sitemap: https://samhsa.gov/sitemap.xml
+
+##
+## SAMHSA.gov specific rules
+##
+
+# We do have exposed /node/.. content we do not want indexed
+Disallow: /node/*
+
+# Docroot Files
+Disallow: /README.md
+Disallow: /INSTALL.txt
+Disallow: /example.gitignore
+Disallow: /styleguide-USWDS-Components.html
+
+# [OCWT-7202] Exclude Grants dashboard search results
+Disallow: /grants/grants-dashboard?*
+Disallow: /grants/grants-dashboard/?*
+
+# Styleguide
+Disallow: /simple-styleguide*
+
+##
+## Below this point is the contents of the default Drupal robots.txt file. Do not edit.
+## This section can be merged into with updates from Drupal core.
+##
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -33,26 +61,14 @@ Disallow: /web.config
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
-Disallow: /node/*
+Disallow: /node/add/
 Disallow: /search/
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
-# Taxonomies
-Disallow: /issues-conditions-disorders/*
-Disallow: /learning-community/*
-Disallow: /location/*
-Disallow: /substances/*
-Disallow: /treatment-prevention-recovery/*
-Disallow: /professional-research-topics/*
-Disallow: /postal-code/*
-Disallow: /population-groups/*
-Disallow: /pc-topic/*
-Disallow: /pc-type/*
-Disallow: /hpr-topic/*
-Disallow: /hpr-resource-format/*
-Disallow: /audience/*
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -63,5 +79,5 @@ Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-# Styleguide
-Disallow: /simple-styleguide*
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

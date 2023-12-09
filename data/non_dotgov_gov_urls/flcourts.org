@@ -1,1 +1,33 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+# Disallow all
+User-agent: *
+Disallow: /
+Crawl-delay: 5
+
+# But allow only important bots
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: BingPreview
+User-agent: MSNBot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Applebot
+User-agent: ia_archiver
+User-agent: FacebookExternalHit
+User-agent: Twitterbot
+User-agent: LinkedInBot
+
+Allow: /
+Disallow: /admin/
+Disallow: /site_admin/
+Disallow: /search
+Disallow: /search/
+Disallow: /content/search
+Disallow: /content/advancedsearch
+Disallow: /content/tipafriend
+Disallow: /layout/set/print
+Disallow: /rss
+Disallow: /media/
+Disallow: /ezinfo/
+Disallow: /user/
+Disallow: /test-area/
+Disallow: /content/download/347260/file/11-404_JurisIni.pdf#11404

@@ -788,6 +788,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Boards-Committee
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/City-Officials/District-2-Commissioner-Damian-Pardo/District-2-Staff-Contacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/District-2-Staff-Contacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
@@ -1215,6 +1216,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-H
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-3
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-4
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-5
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-Test-page-Myles-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Intended-Decision-at-850-NE-78th-ST-BD22-015590-001
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/New-info-TEST-becky
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/New-Info-Test-Olga
@@ -2689,6 +2691,7 @@ Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/RSS-Feed
 Disallow: /My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
+Disallow: /My-Government/City-Officials/District-2-Commissioner-Damian-Pardo/District-2-Staff-Contacts
 Disallow: /My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/District-2-Staff-Contacts
 Disallow: /My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/New-page
 Disallow: /My-Government/City-Officials/District-4-Commissioner-Manolo-Reyes/District-4-Image-Gallery
@@ -3116,6 +3119,7 @@ Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-He
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-3
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-4
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-TEMPLATE-Intended-Decision-at-850-NE-78th-ST-BD22-015590-001-5
+Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Copy-of-Test-page-Myles-1
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/Intended-Decision-at-850-NE-78th-ST-BD22-015590-001
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/New-info-TEST-becky
 Disallow: /Permits-Construction/Appeals-Hearings/Appeals-Recently-Received-by-Hearing-Boards/New-Info-Test-Olga

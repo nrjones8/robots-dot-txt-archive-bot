@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Crawl-delay: 30
 Noindex: /eif/*
 Disallow: /eif/*
 Noindex: /equalization/parcel_search.php

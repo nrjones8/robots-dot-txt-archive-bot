@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /post-details$
-Disallow: /post-details?
-Disallow: /post-details/~
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction$
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction?
 Disallow: /town-departments/leisure-services/rockledge-golf-club/instruction/~
+Disallow: /post-details$
+Disallow: /post-details?
+Disallow: /post-details/~
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation$
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation?
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation/~
@@ -83,12 +83,12 @@ Disallow: /home-clone-61/~
 Disallow: /production/news-elements/news-post-page$
 Disallow: /production/news-elements/news-post-page?
 Disallow: /production/news-elements/news-post-page/~
-Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program$
-Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program?
-Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program/~
 Disallow: /home-clone-71$
 Disallow: /home-clone-71?
 Disallow: /home-clone-71/~
+Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program$
+Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program?
+Disallow: /town-departments/leisure-services/skating-rink/how-to-register-for-a-program/~
 Disallow: /town-departments/senior-centers/bishops-corner-senior-center/movies$
 Disallow: /town-departments/senior-centers/bishops-corner-senior-center/movies?
 Disallow: /town-departments/senior-centers/bishops-corner-senior-center/movies/~
@@ -245,6 +245,9 @@ Disallow: /production/constituent/~
 Disallow: /production/right-banner-clone$
 Disallow: /production/right-banner-clone?
 Disallow: /production/right-banner-clone/~
+Disallow: /production$
+Disallow: /production?
+Disallow: /production/~
 Disallow: /production/social-elements$
 Disallow: /production/social-elements?
 Disallow: /production/social-elements/~
@@ -290,18 +293,15 @@ Disallow: /production/organizational/~
 Disallow: /production/home-clone-tile$
 Disallow: /production/home-clone-tile?
 Disallow: /production/home-clone-tile/~
-Disallow: /production$
-Disallow: /production?
-Disallow: /production/~
+Disallow: /instructions$
+Disallow: /instructions?
+Disallow: /instructions/~
 Disallow: /production/organizational/container$
 Disallow: /production/organizational/container?
 Disallow: /production/organizational/container/~
 Disallow: /resident-services/clean-energy/whps-culture-of-conservation$
 Disallow: /resident-services/clean-energy/whps-culture-of-conservation?
 Disallow: /resident-services/clean-energy/whps-culture-of-conservation/~
-Disallow: /instructions$
-Disallow: /instructions?
-Disallow: /instructions/~
 Disallow: /town-departments/economic-development/available-properties$
 Disallow: /town-departments/economic-development/available-properties?
 Disallow: /town-departments/economic-development/available-properties/~

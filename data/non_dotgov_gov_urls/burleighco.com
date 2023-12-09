@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /bin/
+Disallow: /config/
+Disallow: /install/
+Disallow: /umbraco/
+Disallow: /views/
+Disallow: /employee-intranet/
+
+Sitemap: https://www.burleigh.gov/sitemap-xml/

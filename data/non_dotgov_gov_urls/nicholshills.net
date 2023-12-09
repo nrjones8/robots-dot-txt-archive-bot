@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.nicholshills.net', port=443): Read timed out. (read timeout=15)"}
+User-agent: Googlebot*
+Crawl-delay: 20
+Disallow: /Calendar.asp
+Disallow: /SearchResults.asp
+
+# Google Mini
+User-agent: gsa-crawler
+Crawl-delay: 10
+Disallow: /Calendar.asp
+
+User-agent: 008
+Disallow: /
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /Calendar.asp
+Disallow: /SearchResults.asp

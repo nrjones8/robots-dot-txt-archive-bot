@@ -67,6 +67,15 @@ Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
 Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /*?returnurl=
+Disallow: /activity-feed/
+Disallow: /*postid
+Disallow: /RSVP
+Disallow: /GIS
+Disallow: /contrail
+Disallow: /DesktopModules/BRA/
+Disallow: /usace
+Disallow: /braadmin
 Crawl-delay: 5
 User-agent: Slurp
 Disallow: /*/ctl/		# Slurp permits *
@@ -99,6 +108,15 @@ Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
 Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /*?returnurl=
+Disallow: /activity-feed/
+Disallow: /*postid
+Disallow: /RSVP
+Disallow: /GIS
+Disallow: /contrail
+Disallow: /DesktopModules/BRA/
+Disallow: /usace
+Disallow: /braadmin
 Crawl-delay: 5
 User-agent: Googlebot
 Disallow: /*/ctl/		# Googlebot permits *
@@ -118,6 +136,15 @@ Disallow: /HttpModules/
 Disallow: /Install/
 Disallow: /Providers/
 Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /*?returnurl=
+Disallow: /activity-feed/
+Disallow: /*postid
+Disallow: /RSVP
+Disallow: /GIS
+Disallow: /contrail
+Disallow: /DesktopModules/BRA/
+Disallow: /usace
+Disallow: /braadmin
 Allow: *.js
 Allow: *.css
 User-agent: Yahoo Pipes 1.0
@@ -150,4 +177,13 @@ Disallow: /Resources/SkinWidgets/
 Disallow: /Resources/TabStrip/
 Disallow: /Resources/Widgets/
 Disallow: /Activity-Feed/userId/	# Do not index user profiles
+Disallow: /*?returnurl=
+Disallow: /activity-feed/
+Disallow: /*postid
+Disallow: /RSVP
+Disallow: /GIS
+Disallow: /contrail
+Disallow: /DesktopModules/BRA/
+Disallow: /usace
+Disallow: /braadmin
 # End of robots.txt file

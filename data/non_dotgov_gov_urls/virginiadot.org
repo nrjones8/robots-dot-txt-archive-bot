@@ -1,5 +1,27 @@
+User-Agent: googlebot
+Allow: /
+crawl-delay: 2
+User-Agent: googlebot-image
+Allow: /
+crawl-delay: 2
+User-Agent: duckduckbot
+Allow: /
+crawl-delay: 2
+User-Agent: bingbot
+Allow: /
+crawl-delay: 2
+User-Agent: msnbot
+Allow: /
+crawl-delay: 2
+Sitemap: http://stage.vdot.virginia.gov/sitemap-en.xml  /* It needs to point to the Google sitemap as per the build*/
 User-agent: *
-Disallow: /travel/report_a_road_problem_test.asp
-Disallow: /forms/ContactCustomerServiceCenter.html
-Disallow: /business/resources/Land_Use_Permit_Regulations_2010/LUP-A_2010.doc
+Disallow: /
 
+User-agent: Terminalfour Nutch Spider
+Crawl-delay: 0.5
+
+User-agent: SearchStax Crawler/1.0 (+https://www.searchstax.com)
+Crawl-delay: 0.5
+Disallow: /search/
+Disallow: /site-assets/
+Disallow: /components-library/
