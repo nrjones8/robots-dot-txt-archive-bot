@@ -399,6 +399,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Elections/Early-Voting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk-WIP
@@ -1131,6 +1132,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Soli
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Early-Voting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -1527,6 +1529,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Doing-Business/Introducing-eBuilder
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Early-Voting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Fire-Department-Feedback-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
@@ -1690,8 +1693,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Dinner-Key-Marina/Di
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Dinner-Key-Marina/Dinner-Key-Mooring-Facility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Dinner-Key-Marina/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/Cabanas-Extinguisher
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/Cadet-flyer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/Cadet-Group-Pic
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/Cadet-with-Hose
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/Copy-of-Cadet-with-Hose-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Junior-Cadet/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Marinas/Copy-of-Dinner-Key-Marina-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Slideshow/Marinas/Copy-of-Dinner-Key-Mooring-Facility-1
@@ -2212,6 +2217,7 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-a
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Civil-Service-Board-Election
+Disallow: /Government/Departments-Organizations/City-Clerks-Office/Elections/Early-Voting
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Voting-Instructions-for-Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
@@ -3034,6 +3040,7 @@ Disallow: /My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
+Disallow: /My-Government/Elections/Early-Voting
 Disallow: /My-Government/Elections/Elections-Information
 Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -3430,6 +3437,7 @@ Disallow: /Services/Doing-Business/Get-a-Florida-State-Fertilizer-License
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-News-Rack-or-Banner
 Disallow: /Services/Doing-Business/Get-a-Permit-for-Sidewalk-Cafe-Pay-Phone-or-News-Rack
 Disallow: /Services/Doing-Business/Introducing-eBuilder
+Disallow: /Services/Early-Voting
 Disallow: /Services/File-a-Complaint-with-the-Fire-Department
 Disallow: /Services/Fire-Department-Feedback-Form
 Disallow: /Services/Garbage-Recycling/Report-Illegal-Dumping/New-page
@@ -3593,8 +3601,10 @@ Disallow: /Slideshow/Dinner-Key-Marina/Dinner-Key-Marina-4
 Disallow: /Slideshow/Dinner-Key-Marina/Dinner-Key-Mooring-Facility
 Disallow: /Slideshow/Dinner-Key-Marina/New-page
 Disallow: /Slideshow/Junior-Cadet/Cabanas-Extinguisher
+Disallow: /Slideshow/Junior-Cadet/Cadet-flyer
 Disallow: /Slideshow/Junior-Cadet/Cadet-Group-Pic
 Disallow: /Slideshow/Junior-Cadet/Cadet-with-Hose
+Disallow: /Slideshow/Junior-Cadet/Copy-of-Cadet-with-Hose-1
 Disallow: /Slideshow/Junior-Cadet/New-page
 Disallow: /Slideshow/Marinas/Copy-of-Dinner-Key-Marina-1
 Disallow: /Slideshow/Marinas/Copy-of-Dinner-Key-Mooring-Facility-1

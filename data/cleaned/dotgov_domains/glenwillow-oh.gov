@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://glenwillow-oh.gov/sitemap.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://glenwillow-oh.gov/wp-sitemap.xml

@@ -28,6 +28,7 @@ Disallow: /council/pdf/e-gorgol-bio.pdf*
 Disallow: /council/pdf/jarndt-bio.pdf*
 Disallow: /council/pdf/tcanonico-bio.pdf*
 Disallow: /cityclerk/pdf/election-2011apr05/Pawlak3-15.pdf*
+Disallow: /policejobs/openings
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

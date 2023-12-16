@@ -20,9 +20,7 @@ Sitemap: https://ypgcenla.org/sitemap_index.xml
 Sitemap: https://swlaimaging.com/sitemap_index.xml
 Sitemap: https://lang-recruiting.com/sitemap_index.xml
 Sitemap: https://phillipterrellda.com/sitemap_index.xml
-Sitemap: https://agilushealth.com/sitemap_index.xml
 Sitemap: https://www.alexregenerativecenter.com/sitemap_index.xml
-Sitemap: https://alexmardigras.net/sitemap_index.xml
 Sitemap: https://phillipssublimation.com/sitemap_index.xml
 Sitemap: https://murphyrachal.com/sitemap_index.xml
 Sitemap: https://national-pharmacies.com/sitemap_index.xml
@@ -41,7 +39,6 @@ Sitemap: https://cenlaready.com/sitemap_index.xml
 Sitemap: https://waas.kbispweb.com/pfss/sitemap_index.xml
 Sitemap: https://ltc-pm.com/sitemap_index.xml
 Sitemap: https://westlouisianascuba.com/sitemap_index.xml
-Sitemap: https://naturallyims.com/sitemap_index.xml
 Sitemap: https://stateofthecitymonroe.com/sitemap_index.xml
 Sitemap: https://iattlakecabinsandkayaks.com/sitemap_index.xml
 Sitemap: https://gaeda.org/sitemap_index.xml
@@ -53,7 +50,6 @@ Sitemap: https://apeckconstruction.com/sitemap_index.xml
 Sitemap: https://ywcaalexandria.org/sitemap_index.xml
 Sitemap: https://vernonparishcoc.com/sitemap_index.xml
 Sitemap: https://health.jenachoctaw.org/sitemap_index.xml
-Sitemap: https://alexandriacitymarshal.com/sitemap_index.xml
 Sitemap: https://cpptheatre.com/sitemap_index.xml
 Sitemap: https://bunkie-general.com/sitemap_index.xml
 Sitemap: https://athletics-academics.com/sitemap_index.xml
@@ -69,7 +65,6 @@ Sitemap: https://rapides911.org/sitemap_index.xml
 Sitemap: https://spiritscenla.com/sitemap_index.xml
 Sitemap: https://socialservices.jenachoctaw.org/sitemap_index.xml
 Sitemap: https://education.jenachoctaw.org/sitemap_index.xml
-Sitemap: https://alexandrialapolice.org/sitemap_index.xml
 Sitemap: https://kristinaeventsandweddings.com/sitemap_index.xml
 Sitemap: https://monroe.org/sitemap_index.xml
 Sitemap: https://cenlafcu.org/sitemap_index.xml
@@ -78,7 +73,6 @@ Sitemap: https://rayspharmacyrx.com/sitemap_index.xml
 Sitemap: https://hsmeagles.com/sitemap_index.xml
 Sitemap: https://louisianaambulancealliance.org/sitemap_index.xml
 Sitemap: https://mccartneyoil.com/sitemap_index.xml
-Sitemap: https://managinginjuries.com/sitemap_index.xml
 Sitemap: https://shipwreckedandrescued.com/sitemap_index.xml
 Sitemap: https://checla.com/sitemap_index.xml
 Sitemap: https://soilind.com/sitemap_index.xml
@@ -94,16 +88,22 @@ Sitemap: https://www.lasallegeneralhospital.com/sitemap_index.xml
 Sitemap: https://stoperosionla.com/sitemap_index.xml
 Sitemap: https://atoutdoormobility.com/sitemap_index.xml
 Sitemap: https://legallensproductionsllc.com/sitemap_index.xml
-Sitemap: https://cenlamoviesinthepark.com/sitemap_index.xml
 Sitemap: https://oneroe.city/sitemap_index.xml
 Sitemap: https://drbenclose.com/sitemap_index.xml
 Sitemap: https://cafedesoto.com/sitemap_index.xml
-Sitemap: https://alexandriacitycourt.com/sitemap_index.xml
 Sitemap: https://clshospital.com/sitemap_index.xml
 Sitemap: https://cenlacpas.com/sitemap_index.xml
 Sitemap: https://louisianacda.com/sitemap_index.xml
 Sitemap: https://stephenspurgeon.com/sitemap_index.xml
 Sitemap: https://www.fwmmech.com/sitemap_index.xml
 Sitemap: https://olpschurch.org/sitemap_index.xml
+Sitemap: https://centrallains.com/sitemap_index.xml
+Sitemap: https://www.sixcfab.com/sitemap_index.xml
+Sitemap: https://class-cenla.org/sitemap_index.xml
+Sitemap: https://www.aslh.org/sitemap_index.xml
+Sitemap: https://hayesmanufacturing.com/sitemap_index.xml
+Sitemap: https://mosswoodpropertydevelopment.com/sitemap_index.xml
+Sitemap: https://mosswoodestates.com/sitemap_index.xml
+Sitemap: https://waas.kbispweb.com/rrp/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

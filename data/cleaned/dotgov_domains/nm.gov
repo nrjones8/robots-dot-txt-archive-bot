@@ -1,1 +1,5 @@
-Got an HTML response
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: /sitemap_index.xml
