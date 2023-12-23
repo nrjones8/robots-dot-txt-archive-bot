@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments/prevention-and-outreach$
-Disallow: /departments/prevention-and-outreach?
-Disallow: /departments/prevention-and-outreach/~
 Disallow: /posts-under-construction$
 Disallow: /posts-under-construction?
 Disallow: /posts-under-construction/~
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
@@ -56,9 +56,6 @@ Disallow: /for-businesses/test-business-dev/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
-Disallow: /departments/mayors-office-clone$
-Disallow: /departments/mayors-office-clone?
-Disallow: /departments/mayors-office-clone/~
 Disallow: /migration$
 Disallow: /migration?
 Disallow: /migration/~
@@ -68,15 +65,18 @@ Disallow: /for-residents/neighborhood-services/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
-Disallow: /boards-commissions/testing$
-Disallow: /boards-commissions/testing?
-Disallow: /boards-commissions/testing/~
 Disallow: /for-residents/hot-weather-safety-tips$
 Disallow: /for-residents/hot-weather-safety-tips?
 Disallow: /for-residents/hot-weather-safety-tips/~
+Disallow: /departments/mayors-office-clone$
+Disallow: /departments/mayors-office-clone?
+Disallow: /departments/mayors-office-clone/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
+Disallow: /boards-commissions/testing$
+Disallow: /boards-commissions/testing?
+Disallow: /boards-commissions/testing/~
 Disallow: /for-residents/cold-weather-safety-tips$
 Disallow: /for-residents/cold-weather-safety-tips?
 Disallow: /for-residents/cold-weather-safety-tips/~

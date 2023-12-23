@@ -24,6 +24,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: baiduspider
@@ -47,6 +48,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Bingbot
@@ -70,6 +72,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Discordbot
@@ -94,6 +97,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: facebookexternalhit
@@ -118,6 +122,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Googlebot
@@ -141,6 +146,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Googlebot-Image
@@ -166,6 +172,7 @@ Disallow: /sharer/
 Disallow: /static_map.php
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: ia_archiver
@@ -190,6 +197,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: LinkedInBot
@@ -214,6 +222,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: msnbot
@@ -237,6 +246,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Naverbot
@@ -260,6 +270,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Pinterestbot
@@ -284,6 +295,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Screaming Frog SEO Spider
@@ -307,6 +319,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: seznambot
@@ -330,6 +343,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Slurp
@@ -353,6 +367,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: teoma
@@ -376,6 +391,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: TelegramBot
@@ -400,6 +416,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Twitterbot
@@ -423,6 +440,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Yandex
@@ -446,6 +464,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Yeti
@@ -469,6 +488,7 @@ Disallow: /sharer.php
 Disallow: /sharer/
 Disallow: /tr/
 Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Applebot

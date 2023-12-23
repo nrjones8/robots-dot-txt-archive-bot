@@ -1147,6 +1147,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/In-person-Meeting-Climate-Resilience-Committee/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/Instructions-for-the-City-Commission-First-Budget-Hearing/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-Commission-Board-and-Committee-Meetings/Instructions-for-the-Regular-City-Commission-Meeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
@@ -3055,6 +3059,10 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Regular-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/In-person-Meeting-Climate-Resilience-Committee/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/Instructions-for-the-City-Commission-First-Budget-Hearing/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-City-Commission-Boards-and-Committee-Meetings/Instructions-for-the-Regular-City-Commission-Meeting
+Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Public-Comment-Instructions-for-Commission-Board-and-Committee-Meetings/Instructions-for-the-Regular-City-Commission-Meeting
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player

@@ -1,22 +1,18 @@
 User-agent: Googlebot
 Allow: /
-Allow: /sitemap.htm
-Allow: /*.php$
-Disallow: /*.html$
-Sitemap: http://www.bbbak.us/sitemap.xml
-
 
 User-agent: Bingbot
 Allow: /
-Allow: /sitemap.htm
-Allow: /*.php$
-Disallow: /*.html$
-Sitemap: http://www.bbbak.us/sitemap.xml
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot/1.0
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
 
 
 User-agent: *
-Allow: /
-Allow: /sitemap.htm
-Allow: /*.php$
-Disallow: /*.html$
-Sitemap: http://www.bbbak.us/sitemap.xml
+Disallow: /

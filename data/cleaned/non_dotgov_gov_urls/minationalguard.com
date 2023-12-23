@@ -1,1 +1,1 @@
-Sitemap: http://minationalguard.com/sitemap.xml
+Got an HTML response

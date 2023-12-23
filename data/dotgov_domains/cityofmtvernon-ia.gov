@@ -1,10 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/plugins/
-Disallow: /wp-admin/
-Disallow: /readme.html
-Disallow: /refer/
-Disallow: /*.xls$
-Disallow: /*.xlsx$
+Disallow:
 
-Sitemap: https://cityofmtvernon-ia.gov/sitemap.xml
+Sitemap: https://cityofmtvernon-ia.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

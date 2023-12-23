@@ -93,6 +93,7 @@ Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/City-Clerk/Dir
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Directives-Ordinances-Resolutions/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/New-page
+Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Departments/City-Manager/Managers-Update
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Leadership-and-Staff/Communications/Communications-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Leadership-and-Staff/Communications/New-page
@@ -192,6 +193,7 @@ Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Business-Impact-Esti
 Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
 Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Resolutions/New-page
 Disallow: /Your-Government/City-Clerk/New-page
+Disallow: /Your-Government/Departments/City-Manager/Managers-Update
 Disallow: /Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /Your-Government/Leadership-and-Staff/Communications/Communications-Background
 Disallow: /Your-Government/Leadership-and-Staff/Communications/New-page

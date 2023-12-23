@@ -1,1 +1,5 @@
-User-agent: * Disallow: /
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.ni-u.edu/wp-sitemap.xml

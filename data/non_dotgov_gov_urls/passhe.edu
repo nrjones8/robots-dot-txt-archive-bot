@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /_resources/
-Disallow: /_showcase/
-Disallow: /_qa/
-Disallow: /_uat/
-Disallow: /_training/
-
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='passhe.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1d26a0ca90>, 'Connection to passhe.edu timed out. (connect timeout=15)'))"}

@@ -9,5 +9,5 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /http://
 Disallow: /https://pay.billingdoc.net/finalpayonline/index.php?c=BMS033
+Disallow: /http://
