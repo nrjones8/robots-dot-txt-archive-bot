@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.lumbertontwp.com/wp-sitemap.xml
-
-Disallow: /uploads/wpo-plugins-tables-list.json
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lumbertontwp.com', port=80): Read timed out. (read timeout=15)"}

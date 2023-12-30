@@ -1,8 +1,5 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
-Sitemap: https://cfcsanantonio.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120

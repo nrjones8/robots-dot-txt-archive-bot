@@ -1266,6 +1266,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/WDRC/WDRC_Applic
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/gis.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/Zoning-Covenant-Application-Checklist
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/Zoning-Covenant-Checklist
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Register-for-Confidential-Exempt-Self-Identification
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Request-an-Impact-Fee-Credit-or-Refund
@@ -3178,6 +3181,9 @@ Disallow: /planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /planning/gis.html
 Disallow: /Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
+Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page
+Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/Zoning-Covenant-Application-Checklist
+Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/Zoning-Covenant-Checklist
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Liquor-License-Review
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Register-for-Confidential-Exempt-Self-Identification
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Request-an-Impact-Fee-Credit-or-Refund

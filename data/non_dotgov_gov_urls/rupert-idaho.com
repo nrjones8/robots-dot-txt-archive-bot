@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 406}
+User-agent: *
+Disallow: /Terms
+Disallow: /Privacy
+Disallow: /Admin/
+Disallow: /Forms/
+Disallow: /SHStore/Checkout/*
+
+Sitemap: /sitemap.xml
+

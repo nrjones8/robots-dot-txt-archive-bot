@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='decherd.net', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f1d26993340>, 'Connection to decherd.net timed out. (connect timeout=15)'))"}
+# Robots.txt file from http://www.decherd.net
+
+Sitemap: http://www.decherd.net/sitemap.xml
+
+User-agent: *
+Disallow:
