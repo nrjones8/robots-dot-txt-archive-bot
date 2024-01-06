@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://draytonnd.com/sitemap.xml
+Sitemap: https://draytonnd.com/sitemap.rss

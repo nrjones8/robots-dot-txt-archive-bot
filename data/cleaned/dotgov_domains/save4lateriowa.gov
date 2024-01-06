@@ -1,5 +1,9 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 Sitemap: https://save4lateriowa.gov/sitemap.xml
 Sitemap: https://save4lateriowa.gov/sitemap.rss
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: http://save4lateriowa.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

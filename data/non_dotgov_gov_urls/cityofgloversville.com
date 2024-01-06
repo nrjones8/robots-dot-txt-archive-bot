@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofgloversville.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f8755b06f10>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+# Default robots file version:2
+User-agent: *
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /cdn-cgi*
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3

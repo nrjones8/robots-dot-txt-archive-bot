@@ -13,7 +13,7 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
-# Last edited: 2023-11-27
+# Last edited: 2024-01-01
 
 User-agent: SMUrlExpander
 Disallow: /
@@ -53,6 +53,7 @@ Allow: /themes/*.gif
 Allow: /themes/*.jpg
 Allow: /themes/*.jpeg
 Allow: /themes/*.png
+
 # Directories
 Disallow: /includes/
 Disallow: /misc/
@@ -60,6 +61,7 @@ Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
+
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
@@ -73,6 +75,7 @@ Disallow: /MAINTAINERS.txt
 Disallow: /update.php
 Disallow: /UPGRADE.txt
 Disallow: /xmlrpc.php
+
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
@@ -83,6 +86,8 @@ Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
+Disallow: /attraction/
+
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -95,6 +100,33 @@ Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 Disallow: /node/
 Disallow: /node/*
+
+# Regional
+Disallow: /au/
+Disallow: /ca/
+Disallow: /ie/
+Disallow: /uk/
+Disallow: /br/node/
+Disallow: /br/search/
+Disallow: /cn/node/
+Disallow: /cn/search/
+Disallow: /de/node/
+Disallow: /de/search/
+Disallow: /fr/node/
+Disallow: /fr/search/
+Disallow: /in/node/
+Disallow: /in/search/
+Disallow: /it/node/
+Disallow: /it/search/
+Disallow: /it/attraction/
+Disallow: /jp/node/
+Disallow: /jp/search/
+Disallow: /kr/node/
+Disallow: /kr/search/
+Disallow: /kr/attraction/
+Disallow: /mx/node/
+Disallow: /mx/search/
+
 
 Sitemap: https://www.visitcalifornia.com/sitemap-d8.xml
 Sitemap: https://www.visitcalifornia.com/sitemap-d7.xml

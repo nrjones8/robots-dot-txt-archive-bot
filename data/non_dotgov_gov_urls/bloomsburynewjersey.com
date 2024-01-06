@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.bloomsburynewjersey.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
