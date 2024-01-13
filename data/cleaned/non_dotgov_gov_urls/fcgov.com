@@ -30,6 +30,7 @@ Disallow: /council/pdf/tcanonico-bio.pdf*
 Disallow: /cityclerk/pdf/election-2011apr05/Pawlak3-15.pdf*
 Disallow: /policejobs/openings
 Disallow: /cityclerk/pdf/Charter.pdf
+Disallow: /developmentreview/pdf/concept-review-web2.pdf
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

@@ -1,2 +1,1 @@
-User-agent: *
-Sitemap: https://hoosierlottery.com/sitemap.xml
+Request failed

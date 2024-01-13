@@ -31,6 +31,13 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Styles
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Page-Not-Found
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Residents/Inauguration
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew2
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew3
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew4
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Visitors/Accommodations
 Disallow: /Calendar
 Disallow: /Departments/Communications/Background-1
@@ -71,5 +78,12 @@ Disallow: /Internal-Styles
 Disallow: /New-page
 Disallow: /Page-Not-Found
 Disallow: /Residents/Inauguration
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew1
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew2
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew3
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew4
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
+Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
 Disallow: /Visitors/Accommodations
 Sitemap : https://www.sjbparish.gov/sitemap.xml

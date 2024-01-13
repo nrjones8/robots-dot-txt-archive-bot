@@ -1172,11 +1172,13 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Disaster-Relief-Resources
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
@@ -3104,11 +3106,13 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commissi
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
+Disallow: /My-Home-Neighborhood/Disaster-Relief-Resources
 Disallow: /My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
 Disallow: /My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
+Disallow: /My-Home-Neighborhood/New-page
 Disallow: /My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
 Disallow: /My-Neighborhood

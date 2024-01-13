@@ -12,7 +12,7 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-# Last edited: 2024-01-01
+# Last edited: 2024-01-10
 User-agent: SMUrlExpander
 Disallow: /
 User-agent: *
@@ -98,25 +98,36 @@ Disallow: /au/
 Disallow: /ca/
 Disallow: /ie/
 Disallow: /uk/
-Disallow: /br/node/
-Disallow: /br/search/
-Disallow: /cn/node/
-Disallow: /cn/search/
-Disallow: /de/node/
-Disallow: /de/search/
-Disallow: /fr/node/
-Disallow: /fr/search/
-Disallow: /in/node/
-Disallow: /in/search/
-Disallow: /it/node/
-Disallow: /it/search/
-Disallow: /it/attraction/
-Disallow: /jp/node/
-Disallow: /jp/search/
-Disallow: /kr/node/
-Disallow: /kr/search/
-Disallow: /kr/attraction/
-Disallow: /mx/node/
-Disallow: /mx/search/
+Disallow: /br/node/*
+Disallow: /br/search/*
+Disallow: /cn/node/*
+Disallow: /cn/search/*
+Disallow: /cn/now/*
+Disallow: /de/node/*
+Disallow: /de/search/*
+Disallow: /de/attraction/*
+Disallow: /de/feature/*
+Disallow: /fr/node/*
+Disallow: /fr/search/*
+Disallow: /fr/attraction/*
+Disallow: /fr/feature/*
+Disallow: /in/node/*
+Disallow: /in/search/*
+Disallow: /it/node/*
+Disallow: /it/search/*
+Disallow: /it/attraction/*
+Disallow: /it/feature/*
+Disallow: /jp/node/*
+Disallow: /jp/search/*
+Disallow: /jp/attraction/*
+Disallow: /jp/feature/*
+Disallow: /kr/node/*
+Disallow: /kr/search/*
+Disallow: /kr/attraction/*
+Disallow: /kr/feature/*
+Disallow: /mx/node/*
+Disallow: /mx/search/*
+Disallow: /mx/attraction/*
+Disallow: /mx/feature/*
 Sitemap: https://www.visitcalifornia.com/sitemap-d8.xml
 Sitemap: https://www.visitcalifornia.com/sitemap-d7.xml

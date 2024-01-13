@@ -14,7 +14,7 @@ Disallow: /https://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&&jsen
 Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/cc-form-2__secured__eff_4-18-18-1.pdf
 Disallow: /https://www.omniapartners.com/publicsector/us-communities-an-omnia-partner
 Disallow: /https://www.okacco.com/policies--procedures.html
-Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/workers_compensation_reporting_guidelines_checklist.pdf
+Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/wc_reporting_guidelines_2024.pdf
 Disallow: /http://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&PHPSESSID=c28c503f6fa82e0b16f97ed75dce9e4e&jsenabled=1&winh=961&winw=1781&inifr=false
 Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/12-2-22-final_2022_county_commissioner_handbook.pdf
 Disallow: /https://eriskhub.com/acco
