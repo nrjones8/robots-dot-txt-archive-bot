@@ -52,13 +52,13 @@ Disallow: /user/logout/
 Disallow: /car-seat
 Disallow: /tire
 Disallow: /equipment-detail
-Disallow: /vehicle/0
 Disallow: /report-a-problem
 Disallow: /form/foia
 Disallow: /content/ndr
 Disallow: /isearch-solr
 Disallow: /form/foia
 Disallow: /foia-confirmation
+Disallow: /vehicle/0
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -71,4 +71,4 @@ Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 # Custom
 Disallow: /isearch
-Sitemap: https://cms.nhtsa.dot.gov/sitemap.xml
+Sitemap: https://www.nhtsa.gov/sitemap.xml

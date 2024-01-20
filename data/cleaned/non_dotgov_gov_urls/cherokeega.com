@@ -1,2 +1,1 @@
-User-Agent: *
-Disallow: /_images/secure
+Request failed

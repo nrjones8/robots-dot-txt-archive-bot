@@ -101,6 +101,16 @@ Disallow: /press-room/press-releases/2015
 Disallow: /press-room/press-releases/2015/*
 Disallow: /press-room/press-releases/2016
 Disallow: /press-room/press-releases/2016/*
+Disallow: /sites/default/files/eqa2/media/meeting-materials/*
+Disallow: /sites/default/files/eqa2/media/meeting-materials
+Disallow: /sites/default/files/eqa2/media/pressreleases/*
+Disallow: /sites/default/files/eqa2/media/pressreleases
+Disallow: /sites/default/files
+Disallow: /sites/default/files*
+Disallow: /sites/default/files/eqa2/media
+Disallow: /sites/default/files/eqa2/media/*
+Disallow: /sites/default/files/document
+Disallow: /sites/default/files/document/*
 # Disallow In The News - Kentico paths
 Disallow: /press-room/in-the-news/*
 # Disallow In The News - Drupal paths

@@ -17,9 +17,6 @@ Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
 
-User-agent: GPTBot
-Disallow: /
-
 User-agent: CCBot
 Disallow: /
 
@@ -47,4 +44,4 @@ Disallow: /
 User-agent: Bingbot
 Disallow: /
 
-# This file was generated on Tue, 10 Oct 2023 08:09:34 +0000
+# This file was generated on Fri, 19 Jan 2024 17:25:44 +0000

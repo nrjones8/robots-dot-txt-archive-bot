@@ -1,3 +1,5 @@
+Disallow: /wp-content/uploads/wpforms/
+
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

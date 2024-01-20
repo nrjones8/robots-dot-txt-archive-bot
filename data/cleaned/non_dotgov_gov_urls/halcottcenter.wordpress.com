@@ -14,8 +14,6 @@ Disallow: /cgi-bin/
 Disallow: /mshots/v1/
 Disallow: /next/
 Disallow: /public.api/
-User-agent: GPTBot
-Disallow: /
 User-agent: CCBot
 Disallow: /
 User-agent: SentiBot
@@ -34,4 +32,4 @@ User-agent: Amazonbot
 Disallow: /
 User-agent: Bingbot
 Disallow: /
-# This file was generated on Tue, 10 Oct 2023 12:17:12 +0000
+# This file was generated on Fri, 19 Jan 2024 13:49:05 +0000

@@ -38,24 +38,24 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments-and-services/human-services/municipal-agent$
-Disallow: /departments-and-services/human-services/municipal-agent?
-Disallow: /departments-and-services/human-services/municipal-agent/~
-Disallow: /departments-and-services/human-services$
-Disallow: /departments-and-services/human-services?
-Disallow: /departments-and-services/human-services/~
 Disallow: /production/organizational$
 Disallow: /production/organizational?
 Disallow: /production/organizational/~
-Disallow: /departments-and-services/human-services/back-to-school$
-Disallow: /departments-and-services/human-services/back-to-school?
-Disallow: /departments-and-services/human-services/back-to-school/~
+Disallow: /departments-and-services/human-services$
+Disallow: /departments-and-services/human-services?
+Disallow: /departments-and-services/human-services/~
+Disallow: /departments-and-services/human-services/municipal-agent$
+Disallow: /departments-and-services/human-services/municipal-agent?
+Disallow: /departments-and-services/human-services/municipal-agent/~
 Disallow: /departments-and-services/building-department/solar-projects$
 Disallow: /departments-and-services/building-department/solar-projects?
 Disallow: /departments-and-services/building-department/solar-projects/~
 Disallow: /production/page-layout$
 Disallow: /production/page-layout?
 Disallow: /production/page-layout/~
+Disallow: /departments-and-services/human-services/back-to-school$
+Disallow: /departments-and-services/human-services/back-to-school?
+Disallow: /departments-and-services/human-services/back-to-school/~
 Disallow: /production/new-page$
 Disallow: /production/new-page?
 Disallow: /production/new-page/~
@@ -239,9 +239,6 @@ Disallow: /production/page-layout/two-column-bottom-left-sidebar/~
 Disallow: /production/page-layout/two-column-right-sidebar$
 Disallow: /production/page-layout/two-column-right-sidebar?
 Disallow: /production/page-layout/two-column-right-sidebar/~
-Disallow: /departments-and-services/human-services/energy-assistance$
-Disallow: /departments-and-services/human-services/energy-assistance?
-Disallow: /departments-and-services/human-services/energy-assistance/~
 Disallow: /production/page-layout/two-columns-top$
 Disallow: /production/page-layout/two-columns-top?
 Disallow: /production/page-layout/two-columns-top/~
@@ -254,6 +251,9 @@ Disallow: /production/page-layout/three-column-bottom/~
 Disallow: /production/qa-reports$
 Disallow: /production/qa-reports?
 Disallow: /production/qa-reports/~
+Disallow: /departments-and-services/human-services/energy-assistance$
+Disallow: /departments-and-services/human-services/energy-assistance?
+Disallow: /departments-and-services/human-services/energy-assistance/~
 Disallow: /production/page-layout/two-columns-middle$
 Disallow: /production/page-layout/two-columns-middle?
 Disallow: /production/page-layout/two-columns-middle/~

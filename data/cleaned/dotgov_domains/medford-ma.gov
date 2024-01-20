@@ -35,15 +35,15 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /posts-under-construction$
 Disallow: /posts-under-construction?
 Disallow: /posts-under-construction/~
 Disallow: /departments/mayors-office/temporary-overnight-shelters$
 Disallow: /departments/mayors-office/temporary-overnight-shelters?
 Disallow: /departments/mayors-office/temporary-overnight-shelters/~
-Disallow: /departments/prevention-and-outreach$
-Disallow: /departments/prevention-and-outreach?
-Disallow: /departments/prevention-and-outreach/~
 Disallow: /animal-control-template$
 Disallow: /animal-control-template?
 Disallow: /animal-control-template/~
@@ -62,6 +62,9 @@ Disallow: /migration/~
 Disallow: /for-residents/neighborhood-services$
 Disallow: /for-residents/neighborhood-services?
 Disallow: /for-residents/neighborhood-services/~
+Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas$
+Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas?
+Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
@@ -149,6 +152,9 @@ Disallow: /production/athletics/profile/~
 Disallow: /how-do-i$
 Disallow: /how-do-i?
 Disallow: /how-do-i/~
+Disallow: /about-medford$
+Disallow: /about-medford?
+Disallow: /about-medford/~
 Disallow: /production/athletics/table$
 Disallow: /production/athletics/table?
 Disallow: /production/athletics/table/~
@@ -161,9 +167,6 @@ Disallow: /production/athletics/events-list/~
 Disallow: /production/athletics/single-event$
 Disallow: /production/athletics/single-event?
 Disallow: /production/athletics/single-event/~
-Disallow: /about-medford$
-Disallow: /about-medford?
-Disallow: /about-medford/~
 Disallow: /production/organizational/four-column$
 Disallow: /production/organizational/four-column?
 Disallow: /production/organizational/four-column/~

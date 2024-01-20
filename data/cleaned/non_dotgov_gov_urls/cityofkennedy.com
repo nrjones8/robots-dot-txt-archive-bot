@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /core/
+Got an HTML response

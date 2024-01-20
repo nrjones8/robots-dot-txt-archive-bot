@@ -62,3 +62,12 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Bots
+User-agent: Turnitin
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /

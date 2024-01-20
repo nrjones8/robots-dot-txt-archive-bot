@@ -1,11 +1,4 @@
-<?
-// disable PDF previews for Media Tags (agendas were showing thumbnails sometimes - this should fix that)
-function wdw_disable_pdf_previews() {
-	$fallbacksizes = array();
-	return $fallbacksizes;
-}
-add_filter('fallback_intermediate_image_sizes', 'wdw_disable_pdf_previews');
-?>User-agent: *
+User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 Sitemap: https://medical-lake.org/wp-sitemap.xml

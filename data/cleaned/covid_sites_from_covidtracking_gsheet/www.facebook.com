@@ -16,6 +16,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -41,6 +43,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -66,6 +70,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -92,6 +98,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -118,6 +126,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -143,6 +153,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -169,6 +181,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -194,6 +208,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /map_tile.php
 Disallow: /moments_app/
 Disallow: /p.php
@@ -222,6 +238,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -248,6 +266,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -274,6 +294,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -299,6 +321,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -324,6 +348,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -350,6 +376,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -375,6 +403,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -400,6 +430,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -425,6 +457,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -450,6 +484,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -476,6 +512,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -501,6 +539,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -526,6 +566,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
@@ -551,6 +593,8 @@ Disallow: /feeds/
 Disallow: /file_download.php
 Disallow: /job_application/
 Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
 Disallow: /moments_app/
 Disallow: /p.php
 Disallow: /photos.php
