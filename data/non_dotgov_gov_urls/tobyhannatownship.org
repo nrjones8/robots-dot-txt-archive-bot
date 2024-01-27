@@ -1,9 +1,10 @@
-User-agent: Googlebot
-User-agent: Slurp
-User-agent: bingbot
-Allow: /
+Sitemap: https://www.tobyhannatownship.org/sitemap_index.xml
 
-User-agent: ia_archiver
-User-agent: AhrefsBot
-User-agent: SemrushBot
-Disallow: /
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.tobyhannatownship.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

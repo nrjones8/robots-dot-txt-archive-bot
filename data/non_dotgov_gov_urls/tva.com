@@ -1,4 +1,1 @@
-﻿User-agent: *
-Allow: /
-
-Sitemap: https://www.tva.com/sitemap/sitemap-index.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

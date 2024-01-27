@@ -55,6 +55,9 @@ Disallow: /recreation/pdf/reduced-fee-application-en.pdf*
 Disallow: /recreation/pdf/reduced-fee-application-es.pdf*
 Disallow: /recreation/pdf/reduced-fee-fact-sheet.pdf*
 Disallow: /recreation/pdf/reduced-fee-presentation.pdf*
+Disallow: /naturalareas/pdf/flickerarticle.pdf*
+Disallow: /naturalareas/pdf/flicker-info2010.pdf*
+Disallow: /neighborhoodservices/row.php
 
 
 Crawl-Delay: 10

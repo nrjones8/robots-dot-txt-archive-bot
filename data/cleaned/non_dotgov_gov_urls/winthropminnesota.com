@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /readme.html
-Disallow: /trackback
-Disallow: */trackback
-Disallow: /wp-snapshots
-Sitemap: https://www.winthropminnesota.com/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://winthropminnesota.com/wp-sitemap.xml

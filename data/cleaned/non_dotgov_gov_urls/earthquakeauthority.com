@@ -1,19 +1,6 @@
-#
-# robots.txt 
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
 Sitemap: https://www.earthquakeauthority.com/sitemap.xml
 User-agent: *
+Allow: /
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -107,6 +94,10 @@ Disallow: /sites/default/files/eqa2/media/pressreleases/*
 Disallow: /sites/default/files/eqa2/media/pressreleases
 Disallow: /sites/default/files
 Disallow: /sites/default/files*
+Disallow: /sites/default/files/css*
+Disallow: /sites/default/files/css/*
+Disallow: /sites/default/files/asset_injector*
+Disallow: /sites/default/files/asset_injector/*
 Disallow: /sites/default/files/eqa2/media
 Disallow: /sites/default/files/eqa2/media/*
 Disallow: /sites/default/files/document
@@ -117,3 +108,17 @@ Disallow: /press-room/in-the-news/*
 Disallow: /california-earthquake-insurance-policies/2023-policy-option-changes/*
 DIsallow: /about-cea/in-your-community/community-stories/quakes-win-big-on-ceas-earthquake-preparedness-n
 Disallow: /about-cea/in-your-community/community-stories/glenn-pomeroy-s-message
+Allow: /sites/default/files/logo.png
+Allow: /sites/default/files/styles/*
+Allow: /sites/default/files/styles
+Allow: /eqa2/media/image/advertising
+Allow: /eqa2/media/image/advertising/*
+Allow: /sites/default/files/getattachment
+Allow: /sites/default/files/getattachment/*
+Allow: /sites/default/files/getmedia
+Allow: /sites/default/files/getmedia/*
+Allow: /sites/default/files/google_tag
+Allow: /sites/default/files/google_tag/*
+Allow: /sites/default/files/asset_injector/css
+Allow: /sites/default/files/asset_injector/css/*
+Allow: /*.png

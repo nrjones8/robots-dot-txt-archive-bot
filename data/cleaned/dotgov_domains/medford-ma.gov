@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /for-residents/transportation/medford$
+Disallow: /for-residents/transportation/medford?
+Disallow: /for-residents/transportation/medford/~
 Disallow: /departments/prevention-and-outreach$
 Disallow: /departments/prevention-and-outreach?
 Disallow: /departments/prevention-and-outreach/~
@@ -56,18 +59,27 @@ Disallow: /for-businesses/test-business-dev/~
 Disallow: /production/navigation/tier-three-page/tier-four-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/~
+Disallow: /for-residents/transportation/medford-used$
+Disallow: /for-residents/transportation/medford-used?
+Disallow: /for-residents/transportation/medford-used/~
+Disallow: /for-residents/transportation/green-line-extension$
+Disallow: /for-residents/transportation/green-line-extension?
+Disallow: /for-residents/transportation/green-line-extension/~
 Disallow: /migration$
 Disallow: /migration?
 Disallow: /migration/~
-Disallow: /for-residents/neighborhood-services$
-Disallow: /for-residents/neighborhood-services?
-Disallow: /for-residents/neighborhood-services/~
+Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan$
+Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan?
+Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan/~
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas$
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas?
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
+Disallow: /for-residents/neighborhood-services$
+Disallow: /for-residents/neighborhood-services?
+Disallow: /for-residents/neighborhood-services/~
 Disallow: /for-residents/hot-weather-safety-tips$
 Disallow: /for-residents/hot-weather-safety-tips?
 Disallow: /for-residents/hot-weather-safety-tips/~
@@ -104,6 +116,9 @@ Disallow: /production/calendar/list/~
 Disallow: /production/calendar/grid$
 Disallow: /production/calendar/grid?
 Disallow: /production/calendar/grid/~
+Disallow: /departments/elections-commission/2022-state-primary-election-information$
+Disallow: /departments/elections-commission/2022-state-primary-election-information?
+Disallow: /departments/elections-commission/2022-state-primary-election-information/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
