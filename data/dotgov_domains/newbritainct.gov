@@ -38,9 +38,6 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /agendas$
-Disallow: /agendas?
-Disallow: /agendas/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
@@ -140,6 +137,9 @@ Disallow: /production/page-layout/three-column-bottom/~
 Disallow: /production/form/forms/pa-forms-test$
 Disallow: /production/form/forms/pa-forms-test?
 Disallow: /production/form/forms/pa-forms-test/~
+Disallow: /contact/form/information-technologyhtm$
+Disallow: /contact/form/information-technologyhtm?
+Disallow: /contact/form/information-technologyhtm/~
 Disallow: /production/form/forms-manager$
 Disallow: /production/form/forms-manager?
 Disallow: /production/form/forms-manager/~

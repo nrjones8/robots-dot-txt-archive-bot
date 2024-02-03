@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://www.uticane.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='uticane.com', port=443): Read timed out. (read timeout=15)"}

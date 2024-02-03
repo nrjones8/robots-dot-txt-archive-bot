@@ -1,8 +1,1 @@
-# Default robots file version:2
-User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}

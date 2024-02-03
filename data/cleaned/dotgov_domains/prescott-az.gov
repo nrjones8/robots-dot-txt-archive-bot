@@ -1,9 +1,8 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-content/uploads/wpforms/
-User-agent: GPTBot
-Disallow: /
-User-agent: ChatGPT-User
-Disallow: /
-Sitemap: https://www.prescott-az.gov/sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://prescott-az.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,4 +1,10 @@
-HTTP/1.1 200 OK
-Server: Microsoft-IIS/8.5
-Date: Sat, 27 Jan 2024 03:14:08 GMT
-Connection: close
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /SitePages/
+
+
+
+Sitemap: https://www.kyhousing.org:443/sitemap.xml

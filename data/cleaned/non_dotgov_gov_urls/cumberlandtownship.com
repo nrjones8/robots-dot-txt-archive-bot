@@ -1,1 +1,1 @@
-sitemap: http://cumberlandtownship.com/sitemap.xml
+Got an HTML response

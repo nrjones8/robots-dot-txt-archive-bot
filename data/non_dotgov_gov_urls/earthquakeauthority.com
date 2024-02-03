@@ -94,8 +94,6 @@ Disallow: /sites/default/files/eqa2/media/pressreleases/*
 Disallow: /sites/default/files/eqa2/media/pressreleases
 Disallow: /sites/default/files
 Disallow: /sites/default/files*
-Disallow: /sites/default/files/css*
-Disallow: /sites/default/files/css/*
 Disallow: /sites/default/files/asset_injector*
 Disallow: /sites/default/files/asset_injector/*
 
@@ -111,6 +109,7 @@ Disallow: /california-earthquake-insurance-policies/2023-policy-option-changes/*
 DIsallow: /about-cea/in-your-community/community-stories/quakes-win-big-on-ceas-earthquake-preparedness-n
 Disallow: /about-cea/in-your-community/community-stories/glenn-pomeroy-s-message
 
+Disallow: /blog/hayward-fault-earthquake-scenario-1
 
 Allow: /sites/default/files/logo.png
 Allow: /sites/default/files/styles/*
@@ -126,3 +125,10 @@ Allow: /sites/default/files/google_tag/*
 Allow: /sites/default/files/asset_injector/css
 Allow: /sites/default/files/asset_injector/css/*
 Allow: /*.png
+Allow: /*.jpg
+Allow: /sites/default/files/css
+Allow: /sites/default/files/css/*
+Allow: /sites/default/files/eqa2
+Allow: /sites/default/files/eqa2/*
+Allow: /sites/default/files/js/*
+Allow: /sites/default/files/~/eqa2/*

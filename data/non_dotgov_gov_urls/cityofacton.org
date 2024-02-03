@@ -1,7 +1,9 @@
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: http://www.cityofacton.org/sitemap_index.xml
-
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Disallow: /
