@@ -2,27 +2,16 @@ Sitemap: https://www.earthquakeauthority.com/sitemap.xml
 User-agent: *
 Allow: /
 # CSS, JS, Images
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /profiles/*.svg
+Allow: /*.css$
+Allow: /*.css?
+Allow: /*.js$
+Allow: /*.js?
+Allow: /*.gif
+Allow: /*.jpg
+Allow: *.jpeg
+Allow: /*.png
+Allow: /*.svg
 # Directories
-Disallow: /core/
-Disallow: /profiles/
 # Files
 Disallow: /README.txt
 Disallow: /web.config
@@ -32,6 +21,7 @@ Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
+Disallow: /user/*
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
@@ -54,7 +44,7 @@ Disallow: /california-earthquake-insurance-policies/other-providers
 Disallow:  /about-cea/in-your-community/cea-advertising/*
 Disallow:  /about-cea/in-your-community/policyholder-stories/*
 Disallow:  /about-cea/in-your-community/cea-tv-commercials-archive/*
-# Disallow translate paths
+# Disallow translation paths
 Disallow: /es/
 Disallow: /es/*
 Disallow: /hy/
@@ -72,23 +62,24 @@ Disallow: /zh-TW/*
 Disallow: /translate
 Disallow: */thank-you
 Disallow: */CMSPages/Dialogs/
-Disallow: /CMSPages/Dialogs/*
+Disallow: */CMSPages/Dialogs/*
 # Disallow press release paths
-Disallow: /press-room/press-releases/2010
-Disallow: /press-room/press-releases/2010/*
-Disallow: /press-room/press-releases/2011
-Disallow: /press-room/press-releases/2011/*
-Disallow: /press-room/press-releases/2012
-Disallow: /press-room/press-releases/2012/*
-Disallow: /press-room/press-releases/2013
-Disallow: /press-room/press-releases/2013/*
-Disallow: /press-room/press-releases/2014
-Disallow: /press-room/press-releases/2014/*
-Disallow: /press-room/press-releases/2015
-Disallow: /press-room/press-releases/2015/*
-Disallow: /press-room/press-releases/2016
-Disallow: /press-room/press-releases/2016/*
-Disallow: /sites/default/files/eqa2/media/meeting-materials/*
+# Disallow: /press-room/press-releases/2010
+# Disallow: /press-room/press-releases/2010/*
+# Disallow: /press-room/press-releases/2011
+# Disallow: /press-room/press-releases/2011/*
+# Disallow: /press-room/press-releases/2012
+# Disallow: /press-room/press-releases/2012/*
+# Disallow: /press-room/press-releases/2013
+# Disallow: /press-room/press-releases/2013/*
+# Disallow: /press-room/press-releases/2014
+# Disallow: /press-room/press-releases/2014/*
+# Disallow: /press-room/press-releases/2015
+# Disallow: /press-room/press-releases/2015/*
+# Disallow: /press-room/press-releases/2016
+# Disallow: /press-room/press-releases/2016/*
+#Disallow: /sites/default/files/eqa2/media/meeting-materials/*
+
 Disallow: /sites/default/files/eqa2/media/meeting-materials
 Disallow: /sites/default/files/eqa2/media/pressreleases/*
 Disallow: /sites/default/files/eqa2/media/pressreleases
@@ -103,13 +94,6 @@ Disallow: /sites/default/files/document
 Disallow: /sites/default/files/document/*
 # Disallow In The News - Kentico paths
 Disallow: /press-room/in-the-news/*
-# Disallow In The News - Drupal paths
-
-Disallow: /california-earthquake-insurance-policies/2023-policy-option-changes/*
-DIsallow: /about-cea/in-your-community/community-stories/quakes-win-big-on-ceas-earthquake-preparedness-n
-Disallow: /about-cea/in-your-community/community-stories/glenn-pomeroy-s-message
-
-Disallow: /blog/hayward-fault-earthquake-scenario-1
 
 Allow: /sites/default/files/logo.png
 Allow: /sites/default/files/styles/*

@@ -6,3 +6,4 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /facebook-link.html

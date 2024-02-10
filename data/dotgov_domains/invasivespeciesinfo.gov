@@ -72,12 +72,12 @@ Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
 
+Disallow: /dialog-facets/
+
 Crawl-delay: 10
 
 User-agent: usasearch
 Crawl-delay: 2
 
 Sitemap: https://www.invasivespeciesinfo.gov/sitemap.xml
-
-Disallow: /dialog-facets/
 

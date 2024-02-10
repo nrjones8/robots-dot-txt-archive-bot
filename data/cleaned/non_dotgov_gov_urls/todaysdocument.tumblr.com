@@ -5,9 +5,6 @@ Disallow: /day
 Disallow: /sticky-ad-iframe.html
 Disallow: /privacy/consent
 Crawl-delay: 1
-# OpenAI's crawler
-User-agent: GPTBot
-Disallow: /
 # Common Crawl's crawler
 User-agent: CCBot
 Disallow: /

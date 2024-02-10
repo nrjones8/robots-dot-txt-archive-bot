@@ -1,1 +1,14 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+# robots.txt for https://www.co.greene.pa.us
+ 
+User-agent: *
+Disallow: /manager/
+Disallow: /files/
+Allow: /files/admin/fonts/
+Allow: /files/*.css
+Allow: /files/*.js
+Allow: /files/*.jpg
+Allow: /files/*.jpeg
+Allow: /files/*.png
+Allow: /files/*.gif
+ 
+Sitemap: https://www.co.greene.pa.us/sitemap.xml

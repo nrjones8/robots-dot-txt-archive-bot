@@ -58,6 +58,7 @@ Disallow: travel-forward-sweepstakes-2023-official-rules/
 Disallow: enjoy-illinois-holiday-giveaway-2023-sweepstakes-rules-1/
 Disallow: enjoy-illinois-holiday-giveaway-2023-sweepstakes-rules-2/
 Disallow: enjoy-illinois-holiday-giveaway-2023-sweepstakes-rules-3/
+Disallow: accessibility/
 Disallow: travel-illinois/blaum-bros-distilling-co/
 Disallow: travel-illinois/buena-vista-art-illinois-made/
 Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/chicago/

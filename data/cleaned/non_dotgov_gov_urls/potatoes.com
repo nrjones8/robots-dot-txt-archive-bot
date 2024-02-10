@@ -28,3 +28,8 @@ Disallow: /logs/
 Disallow: /modules/
 Disallow: /plugins/
 Disallow: /tmp/
+# 4SEO-sitemap:  sitemap - added on 2024-02-04 17:49:57 - Please do not modify manually.
+Sitemap: http://www.potatoes.com/sitemap-4seo.xml
+User-agent: *
+Allow: /sitemap-4seo
+# /4SEO-sitemap

@@ -368,6 +368,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-4
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-George-K.-Wysong-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-5
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-6
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Pablo-R.-Velez-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-1
@@ -376,6 +377,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Joseph-T.-Murray-III
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Richard-F.-Appleton
@@ -820,6 +822,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Building-Bulletins
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Building-Permit-and-Inspection-Utilization-Report-2022-2023
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
@@ -884,15 +887,12 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Draft/Test2
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Copy-of-Miami-CERT-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Emergency-Management/Miami-Fire-Rescue-Junior-Cadet-Program
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Report-a-Fire-System-Impairment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Submit-a-Fire-System-Maintenance-Report
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Hurricane-Information
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Fire-Rescue/Miami-Fire-Rescue-Junior-Cadet-Program
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Grants-Administration/Education-Initiatives
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Grants-Administration/Summer-Jobs-Connect-Miami/Apply-for-Summer-Jobs-Connect
@@ -970,10 +970,12 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Offi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Richard-F.-Appleton
@@ -2200,6 +2202,7 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-S.-Goldberg-4
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-George-K.-Wysong-1
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-5
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Henry-J.-Hunnefeld-6
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Pablo-R.-Velez-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-1
@@ -2208,6 +2211,7 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Joseph-T.-Murray-III
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Richard-F.-Appleton
@@ -2742,6 +2746,7 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Releas
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
+Disallow: /My-Government/Departments/Building/Building-Permit-and-Inspection-Utilization-Report-2022-2023
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
@@ -2806,15 +2811,12 @@ Disallow: /My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
 Disallow: /My-Government/Departments/Draft/Test2
-Disallow: /My-Government/Departments/Emergency-Management/Copy-of-Miami-CERT-1
-Disallow: /My-Government/Departments/Emergency-Management/Miami-Fire-Rescue-Junior-Cadet-Program
 Disallow: /My-Government/Departments/Fire-Rescue/City-of-Miami-Department-of-Fire-Rescue-Social-Media-Terms-of-Use
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Copy-of-Submit-a-Fire-System-Maintenance-Report-1
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Fire-False-Alarm-Fees
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Report-a-Fire-System-Impairment
 Disallow: /My-Government/Departments/Fire-Rescue/Fire-Prevention-Bureau/Submit-a-Fire-System-Maintenance-Report
 Disallow: /My-Government/Departments/Fire-Rescue/Hurricane-Information
-Disallow: /My-Government/Departments/Fire-Rescue/Miami-Fire-Rescue-Junior-Cadet-Program
 Disallow: /My-Government/Departments/Grants-Administration/Education-Initiatives
 Disallow: /My-Government/Departments/Grants-Administration/Grants-Awarded-by-Dollar-and-Number
 Disallow: /My-Government/Departments/Grants-Administration/Summer-Jobs-Connect-Miami/Apply-for-Summer-Jobs-Connect
@@ -2892,10 +2894,12 @@ Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Copy-of-Audit
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Richard-F.-Appleton

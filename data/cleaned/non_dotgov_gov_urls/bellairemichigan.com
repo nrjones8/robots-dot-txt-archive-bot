@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:  
-Sitemap: http://bellairemichigan.com/sitemap.xml
+Sitemap: https://bellairemichigan.com/sitemap.xml
