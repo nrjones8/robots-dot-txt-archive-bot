@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-Agent: *
+Allow: 
+Allow: /wp-content/uploads/
+Disallow: /xmlrpc.php
+Disallow: /wp-login
+Disallow: /wp-admin
+
+Sitemap: https://iberiaparishgovernment.com/sitemap_index.xml
+

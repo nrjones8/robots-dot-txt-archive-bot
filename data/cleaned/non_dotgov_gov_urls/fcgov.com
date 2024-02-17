@@ -58,6 +58,7 @@ Disallow: /recreation/pdf/reduced-fee-presentation.pdf*
 Disallow: /naturalareas/pdf/flickerarticle.pdf*
 Disallow: /naturalareas/pdf/flicker-info2010.pdf*
 Disallow: /neighborhoodservices/row.php
+Disallow: /bicycling/adopt.php
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

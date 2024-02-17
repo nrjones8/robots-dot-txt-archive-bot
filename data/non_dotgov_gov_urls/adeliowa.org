@@ -2,5 +2,8 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
+User-agent: mj12bot
+Disallow: /
+
 Sitemap: https://adeliowa.org/site_map.xml
 Sitemap: https://adeliowa.org/sitemap.rss

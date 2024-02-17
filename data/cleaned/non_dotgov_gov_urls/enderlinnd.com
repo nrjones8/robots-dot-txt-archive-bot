@@ -36,4 +36,4 @@ Disallow:/*?format=ical
 Disallow:/*&format=ical
 Disallow:/*?reversePaginate=*
 Disallow:/*&reversePaginate=*
-Sitemap: http://enderlinnd.com/sitemap.xml
+Sitemap: https://enderlinnd.com/sitemap.xml

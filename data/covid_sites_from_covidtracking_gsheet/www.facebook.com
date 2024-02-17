@@ -116,6 +116,34 @@ Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
+User-agent: DuckDuckBot
+Disallow: /*/plugins/*
+Disallow: /a/bz?
+Disallow: /ajax/
+Disallow: /album.php
+Disallow: /checkpoint/
+Disallow: /contact_importer/
+Disallow: /dialog/
+Disallow: /fbml/ajax/dialog/
+Disallow: /feeds/
+Disallow: /file_download.php
+Disallow: /job_application/
+Disallow: /l.php
+Disallow: /login.php?next=
+Disallow: /login/?next=
+Disallow: /moments_app/
+Disallow: /p.php
+Disallow: /photos.php
+Disallow: /plugins/
+Disallow: /share.php
+Disallow: /share/
+Disallow: /sharer.php
+Disallow: /sharer/
+Disallow: /tr/
+Disallow: /tr?
+Disallow: /ufi/reaction/profile/browser/
+Disallow: /x/oauth/
+
 User-agent: facebookexternalhit
 Disallow: /
 Disallow: /*/plugins/*
@@ -650,6 +678,14 @@ Allow: /safetycheck/
 Allow: /watch
 
 User-agent: Discordbot
+Allow: /*/videos/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
+Allow: /watch/?v=*
+
+User-agent: DuckDuckBot
 Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet

@@ -36,6 +36,8 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
+Disallow: /widgets/*/components
+Disallow: /widgets/*/*/components
 # Files
 Disallow: /README.md
 Disallow: /composer/Metapackage/README.txt
