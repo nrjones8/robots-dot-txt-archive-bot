@@ -6,3 +6,5 @@ user-agent: Akamai-SiteSnapshot
 Disallow: https://www.nrc.gov/docs/
 Disallow: https://www.nrc.gov/site-help/search.html
 Sitemap: https://www.nrc.gov/sitemapindex.xml
+User-agent: Amazonbot             # Amazon's user agent
+Disallow: /docs/          # disallow this directory

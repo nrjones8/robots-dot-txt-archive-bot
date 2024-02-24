@@ -11,7 +11,7 @@ Disallow: /i-want-to.html
 Disallow: /http://www.grantsburgwifire.org
 Disallow: /https://client.pointandpay.net/web/VillageofGrantsburgTreasurer
 Disallow: /https://www.burnettcounty.com/104/Sheriffs-Office
-Disallow: /https://bit.ly/guidemapburnett
+Disallow: /https://bit.ly/2024burnettguidemap
 Disallow: /parks-and-recreation.html
 Disallow: /http://www.northmemorial.com/ems/
 Disallow: /http://www.burnettmedicalcenter.com

@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ashland.ms', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ad1c21040>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}

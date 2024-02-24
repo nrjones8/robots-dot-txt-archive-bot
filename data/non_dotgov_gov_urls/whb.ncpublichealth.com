@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /images/
+Disallow: /library/
+Disallow: /obfuscated/
+Disallow: /staff/
+Sitemap: http://whb.ncpublichealth.com/sitemap.xml

@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"}
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120
