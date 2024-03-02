@@ -12,9 +12,8 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-User-agent: *
 Crawl-delay: 1
-Sitemap: https://www.medicaid.gov/sitemap.xml
+User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -76,9 +75,3 @@ Disallow: /index.html?f[*
 Disallow: /index.html&f[*
 Disallow: /index.html?f%5B*
 Disallow: /index.html&f%5B*
-Disallow: */index.html?f[*
-Disallow: */index.html&f[*
-Disallow: */index.html?f%5B*
-Disallow: */index.html&f%5B*
-Disallow: /addthis_custom_block?/*
-Disallow: */addthis_custom_block?/*

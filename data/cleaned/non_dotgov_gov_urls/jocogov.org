@@ -66,3 +66,7 @@ Disallow: /index.php/*/media/oembed
 Disallow: *.pdf
 Disallow: /sites/*
 Disallow: /sites/default/files/
+User-agent: Twitterbot
+Allow: /sites/default/files/
+User-agent: facebookexternalhit
+Allow: /sites/default/files/

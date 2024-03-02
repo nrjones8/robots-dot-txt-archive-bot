@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /
-Disallow: /?*
-Disallow: /_zc
-Crawl-delay: 120
+Sitemap: http://www.portchesterny.com/sitemap.xml

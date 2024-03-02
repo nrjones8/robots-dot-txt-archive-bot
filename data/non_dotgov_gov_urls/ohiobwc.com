@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-Agent: *
+Disallow: /downloads/blankpdf/MCOADRPanel.xls 
+Disallow: /downloads/blankpdf/mcoadrpanel.xls 

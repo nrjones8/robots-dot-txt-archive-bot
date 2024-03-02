@@ -2,6 +2,14 @@ User-agent: *
 Disallow: /wp/wp-admin/ 
 Disallow: /map/ 
 Disallow: /list/ 
+Disallow: /*/rss 
+Disallow: /*/rss/ 
+Disallow: /*/*/rss 
+Disallow: /*/*/rss/ 
+Disallow: /*/feed 
+Disallow: /*/feed/ 
+Disallow: /*/*/feed 
+Disallow: /*/*/feed/ 
 Allow: /wp/wp-admin/admin-ajax.php 
 # START YOAST BLOCK
 # ---------------------------

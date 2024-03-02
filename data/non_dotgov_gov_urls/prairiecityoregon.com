@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='prairiecityoregon.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ad1d9a610>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}

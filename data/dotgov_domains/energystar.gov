@@ -1,84 +1,73 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
 User-agent: *
-Crawl-delay: 10
-Disallow: /buildings/reference/find-energy-star-certified-buildings-and-plants/registry-energy-star-certified-buildings/results?*
-Disallow: /buildings/certified_buildings_and_plants/results/export.csv*
-Disallow: /buildings/tools-and-resources?*
-Disallow: /buildings/lp_finder/results
-Disallow: /OnlineStoreArtwork
-Disallow: /buildings/resources_topic/communication_and_education_resources/promotional_toolkit
-Disallow: /products/tools_resources?*
-Disallow: /productfinder/product/certified-room-air-cleaners/results?*
-Disallow: /productfinder/product/certified-dehumidifiers/results?*
-Disallow: /productfinder/product/certified-clothes-dryers/results?*
-Disallow: /productfinder/product/certified-clothes-washers/results?*
-Disallow: /productfinder/product/certified-residential-dishwashers/results?*
-Disallow: /productfinder/product/certified-residential-freezers/results?*
-Disallow: /productfinder/product/certified-laundry-sets/results?*
-Disallow: /productfinder/product/certified-residential-refrigerators/results?*
-Disallow: /productfinder/product/certified-roof-products/results?*
-Disallow: /productfinder/product/certified-storm-windows/results?*
-Disallow: /productfinder/product/certified-commercial-clothes-washers/results?*
-Disallow: /productfinder/product/certified-commercial-coffee-brewers/results?*
-Disallow: /productfinder/product/certified-commercial-fryers/results?*
-Disallow: /productfinder/product/certified-commercial-griddles/results?*
-Disallow: /productfinder/product/certified-commercial-hot-food-holding-cabinets/results?*
-Disallow: /productfinder/product/certified-commercial-ice-machines/results?*
-Disallow: /productfinder/product/certified-commercial-ovens/results?*
-Disallow: /productfinder/product/certified-commercial-refrigerators-and-freezers/results?*
-Disallow: /productfinder/product/certified-commercial-steam-cookers/results?*
-Disallow: /productfinder/product/certified-data-center-storage/results?*
-Disallow: /productfinder/product/certified-enterprise-servers/results?*
-Disallow: /productfinder/product/certified-large-network-equipment/results?*
-Disallow: /productfinder/product/certified-small-network-equipment/results?*
-Disallow: /productfinder/product/certified-uninterruptible-power-supplies/results?*
-Disallow: /productfinder/product/certified-audio-video/results?*
-Disallow: /productfinder/product/certified-set-top-boxes/results?*
-Disallow: /productfinder/product/certified-telephones/results?*
-Disallow: /productfinder/product/certified-televisions/results?*
-Disallow: /productfinder/product/certified-boilers/results?*
-Disallow: /productfinder/product/certified-central-air-conditioners/results?*
-Disallow: /productfinder/product/certified-commercial-boilers/results?*
-Disallow: /productfinder/product/certified-furnaces/results?*
-Disallow: /productfinder/product/certified-geothermal-heat-pumps/results?*
-Disallow: /productfinder/product/certified-light-commercial-hvac/results?*
-Disallow: /productfinder/product/certified-mini-split-air-conditioners/results?*
-Disallow: /productfinder/product/certified-room-air-conditioners/results?*
-Disallow: /productfinder/product/certified-ventilating-fans/results?*
-Disallow: /productfinder/product/certified-ceiling-fans/results?*
-Disallow: /productfinder/product/certified-decorative-light-strings/results?*
-Disallow: /productfinder/product/certified-light-bulbs/results?*
-Disallow: /productfinder/product/certified-light-fixtures/results?*
-Disallow: /productfinder/product/certified-computers/results?*
-Disallow: /productfinder/product/certified-displays/results?*
-Disallow: /productfinder/product/certified-imaging-equipment/results?*
-Disallow: /productfinder/product/certified-evse/results?*
-Disallow: /productfinder/product/certified-lab-grade-refrigeration/results?*
-Disallow: /productfinder/product/certified-pool-pumps/results?*
-Disallow: /productfinder/product/certified-vending-machines/results?*
-Disallow: /productfinder/product/certified-water-coolers/results?*
-Disallow: /productfinder/product/certified-commercial-water-heaters/results?*
-Disallow: /newhomes/residential_partner_communications_kits
-Disallow: /partner_resources/residential_new/tools_resources?*
-Disallow: /newhomes/energy_star_day_toolkit_2021
-Disallow: /about/awards/2021_winners_toolkit
-Disallow: /about/publicity_guide
-Disallow: /about/awards/2021_winners_toolkit/videos
-Disallow: /about/awards/2021_winners_toolkit/award_winner_marks
-Disallow: /about/awards/2021_winners_toolkit/press_release_templates
-Disallow: /about/awards/2021_winners_toolkit/contact_us
-Disallow: /index.cfm*
-Disallow: /section_508_compliant_all_brand_colors_chart 
-Disallow: /buildings/benchmark/understand_metrics/score_updates/convenience_stores/submit_comments
-Disallow: /industrial_plants/treasure_hunt/share_your_treasure_hunt_findings
-Disallow: /buildings/building_recognition/building_certification/certification_nation/apply
-
-User-agent: sosospider
-Disallow: /
-
-User-agent: 360spider
-Disallow: /
-
-User-agent: Baiduspider
-Disallow: /
-
-Sitemap: https://www.energystar.gov/sitemap.xml
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

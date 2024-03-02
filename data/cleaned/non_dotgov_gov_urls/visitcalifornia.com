@@ -12,7 +12,7 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-# Last edited: 2024-01-10
+# Last edited: 2024-02-29
 User-agent: SMUrlExpander
 Disallow: /
 User-agent: *
@@ -81,6 +81,22 @@ Disallow: /user/password/
 Disallow: /user/login/
 Disallow: /user/logout/
 Disallow: /attraction/
+Disallow: /ultimate-playground/play-styles/the-artist/
+Disallow: /ultimate-playground/play-styles/the-joker/
+Disallow: /ultimate-playground/play-styles/the-competitor/
+Disallow: /ultimate-playground/play-styles/the-explorer/
+Disallow: /ultimate-playground/play-styles/the-director/
+Disallow: /ultimate-playground/play-styles/the-collector/
+Disallow: /ultimate-playground/play-styles/the-storyteller/
+Disallow: /ultimate-playground/play-styles/the-mover/
+Disallow: /mx/ultimate-playground/play-styles/the-artist/
+Disallow: /mx/ultimate-playground/play-styles/the-joker/
+Disallow: /mx/ultimate-playground/play-styles/the-competitor/
+Disallow: /mx/ultimate-playground/play-styles/the-explorer/
+Disallow: /mx/ultimate-playground/play-styles/the-director/
+Disallow: /mx/ultimate-playground/play-styles/the-collector/
+Disallow: /mx/ultimate-playground/play-styles/the-storyteller/
+Disallow: /mx/ultimate-playground/play-styles/the-mover/
 # Paths (no clean URLs)
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
@@ -130,4 +146,3 @@ Disallow: /mx/search/*
 Disallow: /mx/attraction/*
 Disallow: /mx/feature/*
 Sitemap: https://www.visitcalifornia.com/sitemap-d8.xml
-Sitemap: https://www.visitcalifornia.com/sitemap-d7.xml

@@ -1,3 +1,7 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /bin/
+Disallow: /config/
+Disallow: /install/
+Disallow: /umbraco/
+Disallow: /views/
+Sitemap: https://www.minooka.com/sitemap-xml/

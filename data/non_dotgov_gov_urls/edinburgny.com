@@ -1,6 +1,1 @@
-user-agent: AhrefsBot
-disallow: /
-user-agent: MJ12bot
-disallow: /
-user-agent: dotbot
-disallow: /
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 401}

@@ -1,6 +1,9 @@
-User-Agent: *
-Disallow: /cpx.php
-Disallow: /medios1.php
-Disallow: /toolbar.php
-Disallow: /check_image.php
-Disallow: /check_popunder.php
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Slurp
+User-agent: Baiduspider
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

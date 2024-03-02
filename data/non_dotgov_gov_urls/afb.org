@@ -71,3 +71,12 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+
+
+User-agent: Googlebot
+Disallow:
+User-agent: AdsBot-Google
+Disallow:
+User-agent: Googlebot-Image
+Disallow:
+

@@ -1,1 +1,41 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='walnut.ms', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7ad21ad430>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+# Squarespace Robots Txt
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: *
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
+
+Sitemap: http://www.walnut.ms/sitemap.xml

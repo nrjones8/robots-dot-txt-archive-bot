@@ -1,2 +1,5 @@
-User-Agent: *
-Disallow:
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.lenoircitytn.gov/sitemap.xml
+Sitemap: https://www.lenoircitytn.gov/sitemap.rss

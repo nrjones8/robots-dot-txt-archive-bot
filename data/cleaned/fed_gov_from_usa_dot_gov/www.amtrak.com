@@ -13,4 +13,5 @@ Disallow: /tcversion/*
 Disallow: /ContentMigration
 Disallow: /services/*
 Disallow: /wifi/*
-Disallow: /future-layouts/*  
+Disallow: /future-layouts/*
+Disallow: /documents/documents/* 
