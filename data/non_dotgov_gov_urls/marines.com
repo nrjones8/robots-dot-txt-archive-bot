@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+Sitemap: https://www.marines.com/sitemap.xml
+User-agent:*
+Disallow:

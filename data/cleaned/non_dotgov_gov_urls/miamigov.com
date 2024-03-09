@@ -992,6 +992,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Plan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/back-up-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
@@ -1536,6 +1539,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Permitting-Documents
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Trees-OLD
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Services/Building-Permitting2/Unsafe-Structures
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Building-Permitting2/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Careers-Employment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Change-Property-Zoning-Rezone
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Services/Copy-of-Appeal-a-Warrant-or-Waiver
@@ -2915,6 +2919,9 @@ Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/M
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-2035/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/back-up-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/beckys-Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-2
+Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/Miami-Envision-20352045/Copy-of-Miami-Ear-Stakeholder-Log-of-Comments-1
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/New-page
 Disallow: /My-Government/Departments/Planning/Comprehensive-Planning-Main-Page/School-Concurrency/Reserve-School-Capacity-through-School-Concurrency
 Disallow: /My-Government/Departments/Planning/Development-of-Regional-Impact-DRI/OLD-DRI-Updates
@@ -3459,6 +3466,7 @@ Disallow: /Services/Building-Permitting2/Permit-Catalog-2/Get-a-Permit-to-Instal
 Disallow: /Services/Building-Permitting2/Permitting-Documents
 Disallow: /Services/Building-Permitting2/Trees-OLD
 Disallow: /Services/Building-Permitting2/Unsafe-Structures
+Disallow: /Services/Building-Permitting2/Unsafe-Structures/Register-to-Speak-at-an-Unsafe-Structure-Hearing
 Disallow: /Services/Careers-Employment
 Disallow: /Services/Change-Property-Zoning-Rezone
 Disallow: /Services/Copy-of-Appeal-a-Warrant-or-Waiver

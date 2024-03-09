@@ -1,1 +1,3 @@
-Sitemap: http://www.portchesterny.com/sitemap.xml
+user-agent: *
+Allow: /$
+Disallow: /

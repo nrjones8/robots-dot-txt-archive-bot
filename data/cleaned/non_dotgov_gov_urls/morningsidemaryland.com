@@ -1,9 +1,6 @@
 Sitemap: https://morningsidemaryland.com/sitemap.xml
 Sitemap: https://morningsidemaryland.com/news-sitemap.xml
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 Sitemap: https://morningsidemaryland.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

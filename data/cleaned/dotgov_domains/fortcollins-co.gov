@@ -60,6 +60,7 @@ Disallow: /naturalareas/pdf/flicker-info2010.pdf*
 Disallow: /neighborhoodservices/row.php
 Disallow: /bicycling/adopt.php
 Disallow: /drg/*
+Disallow: /naturalareas/naar2004/*
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

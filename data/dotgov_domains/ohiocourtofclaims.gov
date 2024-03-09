@@ -1,3 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
 # Stop bots from crawling junk URLs
 User-agent: *
 Disallow: /*?p=*
@@ -108,11 +112,3 @@ Disallow: /
 
 User-agent: coccoc
 Disallow: /
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://ohiocourtofclaims.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK

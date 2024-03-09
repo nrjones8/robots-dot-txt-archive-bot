@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.wilmette.com', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole
+
+Sitemap: https://www.wilmette.com/sitemap.xml
+Sitemap: https://www.wilmette.com/sitemap.rss

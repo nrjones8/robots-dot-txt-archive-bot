@@ -21,6 +21,7 @@ Disallow: /Search.aspx
 Disallow: /Search
 Disallow: /CurrentEvents.aspx
 Disallow: /Currentevents.aspx
+Disallow: /CivicAlerts.aspx
 Disallow: /map.aspx
 Disallow: /map.asp
 Disallow: /Map.aspx

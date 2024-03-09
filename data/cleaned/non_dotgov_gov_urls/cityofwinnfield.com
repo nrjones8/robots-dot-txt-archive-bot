@@ -1,2 +1,8 @@
+Disallow: /wp-content/uploads/wpforms/
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /404
+Disallow:
+Sitemap: https://cityofwinnfield.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

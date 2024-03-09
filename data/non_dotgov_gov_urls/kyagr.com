@@ -1,9 +1,8 @@
 User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
+Disallow: /
 
-User-agent: googlebot
-Disallow: *.csi
+User-agent: Googlebot
+Disallow: /
 
+User-agent: AdsBot-Google
+Disallow: /

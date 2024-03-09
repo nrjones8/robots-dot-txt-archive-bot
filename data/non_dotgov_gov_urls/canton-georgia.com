@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 429}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://www.canton-georgia.com/sitemap.xml
+Sitemap: https://www.canton-georgia.com/sitemap.rss
+
