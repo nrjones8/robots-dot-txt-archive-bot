@@ -265,6 +265,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Trolley-Feedback-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Trolley-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/UDRB-Application-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/User-Testing-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/FRC
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/futurebound
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/A-Z-Index
@@ -816,6 +817,13 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Re
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Roads-and-Mobility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storms
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Impacts
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Flooding
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Heat
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/ResilienceForum
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Roads-and-Mobility
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Storm-Preparedness
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Bond-or-Letter-of-Credit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Tree-Protection-Bond
@@ -1171,6 +1179,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meeti
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Disaster-Relief-Resources
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Disaster-Relief-Resources-FRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert
@@ -2102,6 +2111,7 @@ Disallow: /Forms/Trolley-Feedback-Form
 Disallow: /Forms/Trolley-Form
 Disallow: /Forms/UDRB-Application-Form
 Disallow: /Forms/User-Testing-Form
+Disallow: /FRC
 Disallow: /futurebound
 Disallow: /General-Pages
 Disallow: /General-Pages/A-Z-Index
@@ -2743,6 +2753,13 @@ Disallow: /My-Government/ClimateChange/ResilienceForum
 Disallow: /My-Government/ClimateChange/Roads-and-Mobility
 Disallow: /My-Government/ClimateChange/Storm-Preparedness
 Disallow: /My-Government/ClimateChange/Storms
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Impacts
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Flooding
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Heat
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/ResilienceForum
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Roads-and-Mobility
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Storm-Preparedness
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Storms
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Tree-Protection-Bond
@@ -3098,6 +3115,7 @@ Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Copy-of-Report-Graffiti-on-City-Owned-Property-1
 Disallow: /My-Home-Neighborhood/Disaster-Relief-Resources
+Disallow: /My-Home-Neighborhood/Disaster-Relief-Resources-FRC
 Disallow: /My-Home-Neighborhood/Homeowners-Associations-HOA/Association-Marlins-Park
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Guide-Alert

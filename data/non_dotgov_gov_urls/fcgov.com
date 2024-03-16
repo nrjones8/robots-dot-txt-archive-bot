@@ -61,6 +61,8 @@ Disallow: /neighborhoodservices/row.php
 Disallow: /bicycling/adopt.php
 Disallow: /drg/*
 Disallow: /naturalareas/naar2004/*
+Disallow: /cemeteries/pdf/monumentco.pdf*
+Disallow: /cemeteries/pdf/funeraldir.pdf*
 
 
 Crawl-Delay: 10

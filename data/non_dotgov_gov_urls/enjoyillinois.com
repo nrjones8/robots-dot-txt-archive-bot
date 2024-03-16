@@ -63,4 +63,3 @@ Disallow: travel-illinois/blaum-bros-distilling-co/
 Disallow: travel-illinois/buena-vista-art-illinois-made/
 Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/chicago/
 Disallow: plan-your-trip/seasonal-adventures/winter-in-illinois/illinois/
-Disallow: plan-your-trip/seasonal-adventures/holiday-season/winter-places-to-stay/

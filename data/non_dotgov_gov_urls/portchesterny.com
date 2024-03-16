@@ -1,4 +1,1 @@
-user-agent: *
-Allow: /$
-Disallow: /
-
+Sitemap: http://www.portchesterny.com/sitemap.xml

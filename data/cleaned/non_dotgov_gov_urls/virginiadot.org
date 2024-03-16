@@ -14,10 +14,17 @@ User-Agent: msnbot
 Allow: /
 crawl-delay: 2
 Sitemap: https://www.vdot.virginia.gov/sitemap-en.xml  /* It needs to point to the Google sitemap as per the build*/
+ 
+User-Agent: va-esearch-crawler
+Allow: /
+User-Agent: SiteimproveBot-Crawler
+Allow: /
 User-agent: *
 Disallow: /
+ 
 User-agent: Terminalfour Nutch Spider
 Crawl-delay: 0.5
+ 
 User-agent: SearchStax Crawler/1.0 (+https://www.searchstax.com)
 Crawl-delay: 0.5
 Disallow: /search/

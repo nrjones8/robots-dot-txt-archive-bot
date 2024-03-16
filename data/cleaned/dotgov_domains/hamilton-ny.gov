@@ -1,5 +1,8 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 Disallow: https://hamilton-ny.gov/wp-content/uploads/wpforms/
-Sitemap: https://hamilton-ny.gov/wp-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://hamilton-ny.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

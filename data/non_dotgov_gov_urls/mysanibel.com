@@ -1,1 +1,31 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='mysanibel.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f51a3d44cd0>, 'Connection to mysanibel.com timed out. (connect timeout=15)'))"}
+# Disallow all
+User-agent: *
+Disallow: /
+
+# But allow only important bots
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: BingPreview
+User-agent: MSNBot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Applebot
+User-agent: ia_archiver
+User-agent: FacebookExternalHit
+User-agent: Twitterbot
+User-agent: LinkedInBot
+
+Allow: /
+Disallow: /admin/
+Disallow: /site_admin/
+Disallow: /search
+Disallow: /search/
+Disallow: /content/search
+Disallow: /content/advancedsearch
+Disallow: /content/tipafriend
+Disallow: /layout/set/print
+Disallow: /rss
+Disallow: /media/
+Disallow: /ezinfo/
+Disallow: /user/
+Disallow: /test-area/

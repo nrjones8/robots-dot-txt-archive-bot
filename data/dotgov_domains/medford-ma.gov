@@ -38,12 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments/prevention-and-outreach$
-Disallow: /departments/prevention-and-outreach?
-Disallow: /departments/prevention-and-outreach/~
 Disallow: /for-residents/transportation/medford$
 Disallow: /for-residents/transportation/medford?
 Disallow: /for-residents/transportation/medford/~
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /posts-under-construction$
 Disallow: /posts-under-construction?
 Disallow: /posts-under-construction/~
@@ -56,6 +56,9 @@ Disallow: /animal-control-template/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
+Disallow: /departments/planning-development-sustainability/housing-stability-notification-ordinance-hsno$
+Disallow: /departments/planning-development-sustainability/housing-stability-notification-ordinance-hsno?
+Disallow: /departments/planning-development-sustainability/housing-stability-notification-ordinance-hsno/~
 Disallow: /for-businesses/test-business-dev$
 Disallow: /for-businesses/test-business-dev?
 Disallow: /for-businesses/test-business-dev/~
@@ -74,15 +77,15 @@ Disallow: /for-residents/transportation/green-line-extension/~
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan$
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan?
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan/~
+Disallow: /for-residents/neighborhood-services$
+Disallow: /for-residents/neighborhood-services?
+Disallow: /for-residents/neighborhood-services/~
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas$
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas?
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas/~
 Disallow: /poet-laureate$
 Disallow: /poet-laureate?
 Disallow: /poet-laureate/~
-Disallow: /for-residents/neighborhood-services$
-Disallow: /for-residents/neighborhood-services?
-Disallow: /for-residents/neighborhood-services/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~

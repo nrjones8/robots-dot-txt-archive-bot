@@ -1,5 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://www.seepuertorico.com/wp-sitemap.xml
+Sitemap: http://www.seepuertorico.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

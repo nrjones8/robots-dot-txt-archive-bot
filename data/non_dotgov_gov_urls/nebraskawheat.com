@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nebraskawheat.com/sitemap_index.xml
+Sitemap: https://nebraskawheat.gov/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
