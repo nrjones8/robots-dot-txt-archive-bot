@@ -63,6 +63,9 @@ Disallow: /drg/*
 Disallow: /naturalareas/naar2004/*
 Disallow: /cemeteries/pdf/monumentco.pdf*
 Disallow: /cemeteries/pdf/funeraldir.pdf*
+Disallow: /gis/mobile-links
+Disallow: /gis/mobile-links.php
+Disallow: /golf/golf-covid-19-policy
 
 
 Crawl-Delay: 10

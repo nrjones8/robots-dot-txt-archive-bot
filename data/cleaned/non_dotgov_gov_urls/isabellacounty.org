@@ -1,4 +1,4 @@
 User-agent: *
-Crawl-delay: 5
-Disallow: /*&*
-Allow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.isabellacounty.org/wp-sitemap.xml

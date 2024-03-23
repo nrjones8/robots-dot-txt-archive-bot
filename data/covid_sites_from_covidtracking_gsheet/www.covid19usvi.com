@@ -1,3 +1,5 @@
+Disallow: https://doh.vi.gov/wp-content/uploads/wpforms/
+
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

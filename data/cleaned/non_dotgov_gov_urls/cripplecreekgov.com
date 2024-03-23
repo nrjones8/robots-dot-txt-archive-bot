@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /online/
+Got an HTML response

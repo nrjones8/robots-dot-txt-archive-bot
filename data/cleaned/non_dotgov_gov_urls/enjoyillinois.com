@@ -9,11 +9,10 @@ Disallow: plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
 Disallow: tourism/subscribe-to-illinois-tourism-monthly/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/illinois-made-holiday-gift-guide/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-in-the-city/
-Disallow: allinillinois/kohl-childrens-museum-activities/
 Disallow: 12-days-of-illinois/9-stunning-architectural-structures-celebrating-the-holidays/
 Disallow: middle-of-everything/suenos-chicago-drawing/
-Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-shopping/
 Disallow: 12-days-of-illinois/8-must-try-winter-wine-trails-and-whiskey-distilleries-in-illinois/
+Disallow: plan-your-trip/seasonal-adventures/holiday-season/holiday-shopping/
 Disallow: plan-your-trip/seasonal-adventures/holiday-season/amazing-is-a-list-of-holiday-events-you-cant-miss/
 Disallow: middle-of-everything/dupage-giveaway/
 Disallow: middle-of-everything/lake-county-giveaway/

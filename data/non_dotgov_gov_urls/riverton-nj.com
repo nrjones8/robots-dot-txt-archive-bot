@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='riverton-nj.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c3712fc2400>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://riverton-nj.com/sitemap.xml
+Sitemap: https://riverton-nj.com/sitemap.rss

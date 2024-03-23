@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://tishomingo.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='tishomingo.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc74cb5c9a0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}

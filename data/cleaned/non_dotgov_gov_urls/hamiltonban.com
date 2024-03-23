@@ -1,1 +1,1 @@
-Request failed
+sitemap: http://hamiltonban.com/sitemap.xml
