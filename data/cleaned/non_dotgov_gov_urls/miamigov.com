@@ -274,7 +274,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/Rss-Feeds
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/City-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/COM-Application-Pages
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/New-page-3
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Beta-User-Test-2
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Board-Meeting-Public-Comment-Registration
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Boards-Committees/Board-Organizational-Chart
@@ -2120,7 +2122,9 @@ Disallow: /General-Pages/New-page
 Disallow: /General-Pages/Rss-Feeds
 Disallow: /General-Pages/Search-Results
 Disallow: /Glossary
+Disallow: /Glossary/City-Construction
 Disallow: /Glossary/COM-Application-Pages
+Disallow: /Glossary/New-page-3
 Disallow: /Government/Beta-User-Test-2
 Disallow: /Government/Board-Meeting-Public-Comment-Registration
 Disallow: /Government/Boards-Committees/Board-Organizational-Chart

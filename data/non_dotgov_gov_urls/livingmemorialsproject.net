@@ -1,1 +1,14 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: /xmlrpc.php
+Disallow: *utm*=
+Disallow: *openstat=
+Sitemap: https://www.livingmemorialsproject.net/sitemap.xml

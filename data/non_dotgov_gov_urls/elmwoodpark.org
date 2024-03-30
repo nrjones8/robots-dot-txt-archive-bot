@@ -1,3 +1,6 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /
+Disallow: /*
+Disallow: /*?
+
+Sitemap: https://elmwoodpark.org/sitemap.xml

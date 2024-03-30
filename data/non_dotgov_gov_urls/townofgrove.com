@@ -1,4 +1,4 @@
-Sitemap: http://www.townofgrove.com/sitemap.xml
+Sitemap: https://www.townofgrove.com/sitemap.xml
 
 User-agent: NerdyBot
 Disallow: /

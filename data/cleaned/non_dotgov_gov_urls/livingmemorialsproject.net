@@ -1,1 +1,14 @@
-Request failed
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-login.php
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: /xmlrpc.php
+Disallow: *utm*=
+Disallow: *openstat=
+Sitemap: https://www.livingmemorialsproject.net/sitemap.xml

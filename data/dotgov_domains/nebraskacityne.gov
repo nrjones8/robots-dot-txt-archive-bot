@@ -1,9 +1,13 @@
 # Stop bots from crawling junk URLs
 User-agent: *
-Disallow: /*?s=*
-Disallow: /*&s=*
 Disallow: /*?p=*
 Disallow: /*&p=*
+Disallow: /*?s=*
+Disallow: /*&s=*
+Disallow: /*?ical=1
+Disallow: /*&ical=1
+Disallow: /*?tribe-bar-date=*
+Disallow: /*&tribe-bar-date=*
 Disallow: /?author=*
 Disallow: /*wp-comments*
 Disallow: /*wp-trackback*
@@ -17,6 +21,7 @@ Disallow: /*cart/*
 Disallow: /*checkout/*
 Disallow: /*my-account/*
 Disallow: /*myaccount/*
+Disallow: /*?ajaxCalendar=1*
 Allow: /*/plugins/*
 
 User-agent: AhrefsBot
@@ -26,6 +31,9 @@ User-agent: AhrefsSiteAudit
 Disallow: /
 
 User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
 Disallow: /
 
 User-agent: SemrushBot
@@ -59,6 +67,9 @@ User-agent: MJ12bot
 Disallow: /
 
 User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: RavenCrawler
 Disallow: /
 
 User-agent: Yandex

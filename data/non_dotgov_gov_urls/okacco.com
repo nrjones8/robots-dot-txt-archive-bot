@@ -9,6 +9,7 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /leo--detention-training.html
 Disallow: /https://www.okacco.com/events.html
 Disallow: /https://www.okacco.com/grants.html
 Disallow: /https://naco.org
