@@ -1,13 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /admin
-Disallow: /news/index/print/
-Disallow: /events/index/print/
-Disallow: /flipbook/
-Disallow: /blog/index/print/
-Disallow: /staff/index/print/
-Disallow: /departments/index/print/
-Disallow: /staff/profile/32/m-norman-oliver-md-ma
-Disallow: /staff/division/staff/id/32
-Disallow: /staff/profile/32/*
+Disallow:
 
-Sitemap: https://www.virginiaresources.gov/sitemap/xml
+Sitemap: https://www.virginiaresources.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

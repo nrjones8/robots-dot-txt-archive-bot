@@ -1,1 +1,30 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# /robots.txt file for https://michiganhumanities.org
+User-agent: *
+Disallow: /program-and-grant-logos/
+# Example below allows access to entire site for crawler1
+# User-agent: crawler1
+# Disallow:
+# Example below disallows access to entire site for crawler2
+# User-agent: crawler2
+# Disallow: /
+# Example below disallows access to any other user agent for the tmp directory and oldfile.html
+# User-agent: *
+# Disallow: /tmp
+# Disallow: /oldfile.html
+User-agent: *
+Crawl-delay: 30
+Disallow: /program-and-grant-logos/
+Disallow: /2020-michigan-humanities-awards-nominations/
+Disallow: /calendar-3/action~posterboard/
+Disallow: /calendar-3/action~agenda/
+Disallow: /calendar-3/action~oneday/
+Disallow: /calendar-3/action~month/
+Disallow: /calendar-3/action~week/
+Disallow: /calendar-3/action~stream/
+Disallow: /calendar-3/action~undefined/
+Disallow: /calendar-3/action~http:/
+Disallow: /calendar-3/action~default/
+Disallow: /calendar-3/action~poster/
+Disallow: /calendar-3/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

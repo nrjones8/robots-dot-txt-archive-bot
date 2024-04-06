@@ -1,9 +1,5 @@
-Sitemap: https://www.ncsymphony.org/wp-sitemap.xml
-
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Noindex: /wp-content/
+Noindex: /wp-includes/

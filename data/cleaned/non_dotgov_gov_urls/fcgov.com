@@ -66,6 +66,9 @@ Disallow: /cemeteries/pdf/funeraldir.pdf*
 Disallow: /gis/mobile-links
 Disallow: /gis/mobile-links.php
 Disallow: /golf/golf-covid-19-policy
+Disallow: /parks/Turf-and-Ballfield-Info.php
+Disallow: /recreation/recrewards.php
+Disallow: /recreation/recrewards
 Crawl-Delay: 10
 #crawling post URL's
 User-agent: AhrefsBot

@@ -32,13 +32,16 @@ Disallow: /files/sharedassets/public/v/1/public-works/documents/3_viewer’s-rep
 Disallow: /files/sharedassets/public/v/1/public-works/documents/3-access-permit-special-conditions-effective-5.2.23.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/3-row-road-construction-special-conditions-effective-5.2.23.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/3-utility-permit-special-conditions-effective-5.2.23.pdf
+Disallow: /files/sharedassets/public/v/1/public-works/documents/engineering-rfp-2024_final_4.2.2024.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-permits-fee-schedule-final.docx
 Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-permits-fee-schedule-final.pdf
+Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-snow-and-ice-control-policy-resolution-signed-03.19.24.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/org-chart-3.13.24.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/osow-application-updated-fillable.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/osow-special-conditions.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/public-works-permit-application.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/pz-21-00235-viewers-report_final_6.11.22_reduced.pdf
+Disallow: /files/sharedassets/public/v/1/public-works/documents/railroad-road-final-pay-request-for-retainage.pdf
 Disallow: /files/sharedassets/public/v/2/public-works/documents/osow-special-conditions.pdf
 Disallow: /Home/Do-it-online/Blank-3
 Disallow: /Home/Do-it-online/Blank-4

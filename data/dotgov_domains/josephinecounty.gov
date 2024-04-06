@@ -13,6 +13,10 @@ Allow: /
 User-agent: Twitterbot
 Allow: /
 
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 0
+
 User-agent: GPTBot
 Disallow: /
 

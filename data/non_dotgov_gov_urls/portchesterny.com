@@ -1,9 +1,1 @@
-User-agent: Googlebot
-User-agent: Slurp
-User-agent: bingbot
-Allow: /
-
-User-agent: *
-Allow: /
-
-Sitemap: https://www.portchesterny.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='portchesterny.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3900e8c160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

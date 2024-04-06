@@ -1,12 +1,1 @@
-# Using modified WPForms Hook
-User-agent: *
-Disallow: /wp-content/uploads/wpforms/
-
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://rppj.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='rppj.com', port=443): Read timed out. (read timeout=15)"}
