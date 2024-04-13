@@ -1,12 +1,4 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin/
-Sitemap: https://www.gulfport-ms.gov/sitemap.xml
-Sitemap: https://www.gulfport-ms.gov/sitemap.rss
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-Sitemap: https://www.gulfport-ms.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.gulfport-ms.gov/wp-sitemap.xml

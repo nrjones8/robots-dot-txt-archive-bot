@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='shelburnenh.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f39010ada00>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+User-agent: Rogerbot
+User-agent: Exabot
+User-agent: MJ12bot
+User-agent: Dotbot
+User-agent: Gigabot
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+Disallow: /

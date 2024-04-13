@@ -2,7 +2,7 @@ Sitemap: https://www.enjoyillinois.com/sitemap.xml
 User-agent: *
 Disallow: /admin
 Disallow: /dev
-Disallow: /plan-your-trip/maps-and-visitor-guides/fulfillment-submission-download/
+Disallow: /plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
 Disallow: /illinois-made/
 Disallow: /favorites/
 Disallow: /server-error/

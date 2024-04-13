@@ -111,6 +111,40 @@ Crawl-delay: 30
 User-agent: archive.org_bot
 Crawl-delay: 20
 
+User-agent: BLEXBot
+Crawl-delay: 30
+
+User-agent: VelenPublicWebCrawler
+Crawl-delay: 30
+
+User-agent: DataForSeoBot
+Crawl-delay: 30
+
+User-agent: Sogou blog
+User-agent: Sogou inst spider
+User-agent: Sogou News Spider
+User-agent: Sogou Orion spider
+User-agent: Sogou spider2
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Buck
+Disallow: /
+
+User-agent: coccoc
+User-agent: coccocbot-image
+User-agent: coccocbot-web
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: IonCrawl
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
 User-agent: AwarioRssBot
 User-agent: AwarioSmartBot
 Disallow: /
@@ -119,6 +153,7 @@ User-agent: MJ12bot
 Disallow: /
 
 User-agent: MegaIndex.ru
+User-agent: MegaIndex.ru/2.0
 Disallow: /
 
 User-agent: SeekportBot
@@ -127,10 +162,25 @@ Disallow: /
 User-agent: megaindex.com
 Disallow: /
 
+User-agent: Yeti
+Disallow: /
+
+User-agent: Haosou 360 spider
+Disallow: /
+
+User-agent: Dotmic DotBot
+Disallow: /
+
 User-agent: Baiduspider
+User-agent: Baiduspider-image
+User-agent: Baiduspider-news
+User-agent: Baiduspider-video
 Disallow: /
 
 User-agent: YandexBot
+User-agent: Yandex
+User-agent: YandexMobileBot
+User-agent: YandexBot/3.0
 Disallow: /
 
 User-agent: ecoresearchCrawler

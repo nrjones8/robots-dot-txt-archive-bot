@@ -1,6 +1,6 @@
 #
 # robots.txt
-# 23.08.14
+# 24.04.12
 #
 Sitemap: https://www.dnr.state.mn.us/sitemap.xml
 Sitemap: https://www.dnr.state.mn.us/sitemap-state-parks.xml
@@ -22,6 +22,15 @@ Allow: /core/*.jpg
 Allow: /core/*.jpeg
 Allow: /core/*.png
 Allow: /core/*.svg
+Allow: /vendor/*.css$
+Allow: /vendor/*.css?
+Allow: /vendor/*.js$
+Allow: /vendor/*.js?
+Allow: /vendor/*.gif
+Allow: /vendor/*.jpg
+Allow: /vendor/*.jpeg
+Allow: /vendor/*.png
+Allow: /vendor/*.svg
 Allow: /profiles/*.css$
 Allow: /profiles/*.css?
 Allow: /profiles/*.js$
@@ -36,8 +45,16 @@ Disallow: /core/
 Disallow: /vendor/
 Disallow: /profiles/
 # Files
+Disallow: /README.md
 Disallow: /README.txt
-Disallow: /README.txt
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
@@ -68,36 +85,50 @@ Disallow: /index.php/*/media/oembed
 #
 # DNR specific paths
 #
-Disallow: /safety/vehicle/ta/events.html
+# login required
+Disallow: /data/river-power
+Disallow: /data/reports/river-power
 #
-Disallow: /publications/trails_waterways/tgmanual/
+# login required
+Disallow: /publications/trails_waterways/tgmanual/index.html
 #
+# login required
 Disallow: /schoolforest/coordinator/
 #
+# login required
 Disallow: /rsg/review/
 #
-Disallow: /lakefind/search.html
-Disallow: /lakefind/showreport.html
-Disallow: /lakefind/showmap.html
-Disallow: /lakefind/showlevel.html
-Disallow: /lakefind/showstocking.html
-Disallow: /lakefind/fca/report.html
+# login required
+Disallow: /safety/vehicle/ta/events.html
+#
+# login required
+Disallow: /waters/watermgmt_section/shoreland/photo-contest-entry-review.html
+#
+# Disallow: /lakefind/search.html
+# Disallow: /lakefind/showreport.html
+# Disallow: /lakefind/showmap.html
+# Disallow: /lakefind/showlevel.html
+# Disallow: /lakefind/showstocking.html
+# Disallow: /lakefind/fca/report.html
 #
 Disallow: /maps/tomo.html
 Disallow: /maps/historical_airphotos/show.html
 #
-Disallow: /enforcement/co_report/report.html
+# Disallow: /enforcement/co_report/report.html
 #
 Disallow: /forestry/fire/maps/fdi_mature_conifer.html
 Disallow: /forestry/fire/maps/fdi_canadian.html
 Disallow: /forestry/fire/maps/fdi_jackpine.html
 Disallow: /forestry/fire/maps/fdi_grass.html
+#
 Disallow: /forestry/fire/training/course_announcement.html
 Disallow: /forestry/fire/training/calendar.html
+#
 Disallow: /forestry/fire/reports/nfdrs_indexes_f.html
 Disallow: /forestry/fire/reports/nfdrs_indexes_o.html
 Disallow: /forestry/fire/reports/canadian_indexes_f.html
 Disallow: /forestry/fire/reports/canadian_indexes_o.html
+#
 Disallow: /forestry/fire/wildfire_update.html
 Disallow: /forestry/fire/wildfirereports_tools.html
 Disallow: /forestry/fire/bujian/tropertfarcria.html
@@ -105,11 +136,11 @@ Disallow: /forestry/timbersales/calendar.html
 #
 Disallow: /licenses/lotteries/
 #
-Disallow: /waters/cgm/site.html
-Disallow: /waters/csg/site_report.html
+# Disallow: /waters/cgm/site.html
+# Disallow: /waters/csg/site_report.html
 #
-Disallow: /climate/historical/acis_stn_data.html
-Disallow: /climate/historical/
+# Disallow: /climate/historical/acis_stn_data.html
+# Disallow: /climate/historical/
 #
 Disallow: /qr/maps/
 Disallow: /qr/state_fair/

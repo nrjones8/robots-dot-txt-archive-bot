@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='germantownhillsillinois.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f39012a1fd0>, 'Connection to germantownhillsillinois.org timed out. (connect timeout=15)'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://germantownhillsillinois.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

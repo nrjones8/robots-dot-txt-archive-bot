@@ -1,3 +1,1 @@
-User-Agent: *
-Disallow: /apps/email/*
-Crawl-delay: 5
+Got an HTML response

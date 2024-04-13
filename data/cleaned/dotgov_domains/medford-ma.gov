@@ -35,9 +35,6 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
-Disallow: /departments/mayors-office-clone$
-Disallow: /departments/mayors-office-clone?
-Disallow: /departments/mayors-office-clone/~
 Disallow: /for-residents/transportation/medford$
 Disallow: /for-residents/transportation/medford?
 Disallow: /for-residents/transportation/medford/~
@@ -50,6 +47,9 @@ Disallow: /departments/mayors-office/temporary-overnight-shelters/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
+Disallow: /departments/mayors-office-clone$
+Disallow: /departments/mayors-office-clone?
+Disallow: /departments/mayors-office-clone/~
 Disallow: /animal-control-template$
 Disallow: /animal-control-template?
 Disallow: /animal-control-template/~
@@ -77,18 +77,15 @@ Disallow: /for-residents/neighborhood-services/~
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas$
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas?
 Disallow: /boards-commissions/community-development-board/community-development-meeting-agendas/~
-Disallow: /poet-laureate$
-Disallow: /poet-laureate?
-Disallow: /poet-laureate/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
-Disallow: /departments/prevention-and-outreach$
-Disallow: /departments/prevention-and-outreach?
-Disallow: /departments/prevention-and-outreach/~
 Disallow: /for-residents/hot-weather-safety-tips$
 Disallow: /for-residents/hot-weather-safety-tips?
 Disallow: /for-residents/hot-weather-safety-tips/~
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
@@ -173,9 +170,6 @@ Disallow: /production/athletics/profile/~
 Disallow: /how-do-i$
 Disallow: /how-do-i?
 Disallow: /how-do-i/~
-Disallow: /about-medford$
-Disallow: /about-medford?
-Disallow: /about-medford/~
 Disallow: /production/athletics/table$
 Disallow: /production/athletics/table?
 Disallow: /production/athletics/table/~
@@ -188,6 +182,9 @@ Disallow: /production/athletics/events-list/~
 Disallow: /production/athletics/single-event$
 Disallow: /production/athletics/single-event?
 Disallow: /production/athletics/single-event/~
+Disallow: /about-medford$
+Disallow: /about-medford?
+Disallow: /about-medford/~
 Disallow: /production/organizational/four-column$
 Disallow: /production/organizational/four-column?
 Disallow: /production/organizational/four-column/~

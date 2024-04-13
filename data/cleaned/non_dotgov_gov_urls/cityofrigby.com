@@ -1,2 +1,7 @@
-User-agent: BLEXBot
-Disallow: /
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://cityofrigby.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

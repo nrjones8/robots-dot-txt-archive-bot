@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='flofr.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1131)')))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='flofr.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f747138c970>: Failed to establish a new connection: [Errno 111] Connection refused'))"}

@@ -34,6 +34,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Park
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Parks-Recreation-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Sports-Activities/Sports-Activities-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Activities-and-Recreation/Sports-Activities-Background
+Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Activities-and-Recreation/Sports-Activities-Camps/Sports-Activities-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Announcements
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/career-online-hs
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/City-Services/Garbage-Recycling/Solid-Waste-Background
@@ -83,8 +84,10 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/Dogs-and-Cats/New-pag
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/General-Content
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Training/Library-Search
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/BC-Minutes
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/Copy-of-BC-Minutes-1
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/DRAFT-BC-Minutes-V2
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/BC-MInutes-test
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/Board-and-Committee-Minutes
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/Boards-and-Committees-Meeting-Minutes
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Boards-and-Committees/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Clerk-Background
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/City-Clerk/Directives-Ordinances-Business-Impact-Estimates-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
@@ -131,6 +134,7 @@ Disallow: /Activities-and-Recreation/Parks-Recreation/Parks-Recreation-Backgroun
 Disallow: /Activities-and-Recreation/Parks-Recreation-Background
 Disallow: /Activities-and-Recreation/Sports-Activities/Sports-Activities-Background
 Disallow: /Activities-and-Recreation/Sports-Activities-Background
+Disallow: /Activities-and-Recreation/Sports-Activities-Camps/Sports-Activities-Background
 Disallow: /Announcements
 Disallow: /career-online-hs
 Disallow: /City-Services/Garbage-Recycling/Solid-Waste-Background
@@ -180,8 +184,10 @@ Disallow: /Training/Dogs-and-Cats/New-page
 Disallow: /Training/General-Content
 Disallow: /Training/Library-Search
 Disallow: /Your-Government/Boards-and-Committees/BC-Minutes
-Disallow: /Your-Government/Boards-and-Committees/Copy-of-BC-Minutes-1
-Disallow: /Your-Government/Boards-and-Committees/DRAFT-BC-Minutes-V2
+Disallow: /Your-Government/Boards-and-Committees/BC-MInutes-test
+Disallow: /Your-Government/Boards-and-Committees/Board-and-Committee-Minutes
+Disallow: /Your-Government/Boards-and-Committees/Boards-and-Committees-Meeting-Minutes
+Disallow: /Your-Government/Boards-and-Committees/New-page
 Disallow: /Your-Government/City-Clerk/Clerk-Background
 Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Business-Impact-Estimates-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates
 Disallow: /Your-Government/City-Clerk/Directives-Ordinances-Resolutions/Directives-Ordinances-Resolutions-and-Business-Impact-Estimates

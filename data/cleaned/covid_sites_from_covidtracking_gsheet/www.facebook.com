@@ -670,6 +670,7 @@ Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
+Allow: /iap/product/?product_id=*
 Allow: /safetycheck/
 Allow: /watch/?v=*
 User-agent: Googlebot

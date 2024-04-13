@@ -1,2 +1,2 @@
-Sitemap: http://essexfellsboro.com/trafficbasedsspdeltasitemap.xml
-Sitemap: http://essexfellsboro.com/trafficbasedsspsitemap.xml
+User-agent: *
+Disallow: /ads_admin/

@@ -1,2 +1,2 @@
-Sitemap: http://easthanovertownship.com/trafficbasedsspdeltasitemap.xml
-Sitemap: http://easthanovertownship.com/trafficbasedsspsitemap.xml
+User-agent: *
+Disallow: /ads_admin/

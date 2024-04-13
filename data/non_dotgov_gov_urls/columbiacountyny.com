@@ -76,7 +76,7 @@ Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-proba
 Disallow: /https://www.columbiacountyny.com/realproperty.html
 Disallow: /http://www.columbiacountysheriff.us
 Disallow: /sheriffs-office-and-public-safety.html
-Disallow: /http://www.ccswcd.org/
+Disallow: /https://agriculture.ny.gov/location/columbia-county-swcd-office
 Disallow: /https://solidwaste.columbiacountyny.com/
 Disallow: /https://stopdwi.columbiacountyny.com/home
 Disallow: /https://columbiacountytourism.org/
