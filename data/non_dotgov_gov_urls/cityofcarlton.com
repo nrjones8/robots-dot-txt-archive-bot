@@ -37,6 +37,7 @@ Disallow: /council-agendas-minutes/2016-special-meetings/
 Disallow: /council-agendas-minutes/2015-agendas/
 Disallow: /council-agendas-minutes/2015-meeting-minutes/
 Disallow: /council-agendas-minutes/2014-meeting-minutes/
+Disallow: /hillside-cemetery/
 Disallow: /downloadable-forms/
 Disallow: /employment/
 Disallow: /fee-schedules/
@@ -46,7 +47,6 @@ Disallow: /helpful-links-and-area-attractions/
 Disallow: /helpful-links-and-area-attractions/carlton-clean-up-days/
 Disallow: /helpful-links-and-area-attractions/carlton-daze/
 Disallow: /helpful-links-and-area-attractions/elections/
-Disallow: /hillside-cemetery/
 Disallow: /housing-redevelopment-authority/
 Disallow: /planning-and-zoning/
 Disallow: /parks-and-recreation/

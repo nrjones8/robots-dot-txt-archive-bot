@@ -3,6 +3,7 @@ User-agent: *
 Disallow: /admin
 Disallow: /dev
 Disallow: /plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
+Disallow: /tourism/tourism-exchange-usa/
 Disallow: /illinois-made/
 Disallow: /favorites/
 Disallow: /server-error/

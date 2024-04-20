@@ -17,6 +17,7 @@ Crawl-delay: 10
 # HHS.gov Directories
 Disallow: /mental-health-and-addiction-insurance-help/unknown-insurance/
 Disallow: /search/
+Disallow: /search-results/
 Disallow: /test/
 Disallow: /healthit/
 Disallow: /healthinformationtechnology/
@@ -100,6 +101,7 @@ Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /search/
+Disallow: /search-results/*
 Disallow: /user/register/
 Disallow: /user/password/
 Disallow: /user/login/
@@ -110,6 +112,7 @@ Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
+Disallow: /index.php/search-results/*
 Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
@@ -119,6 +122,7 @@ Disallow: /?q=comment/reply/
 Disallow: /?q=filter/tips/
 Disallow: /?q=node/add/
 Disallow: /?q=search/
+Disallow: /?q=search-results/
 Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/

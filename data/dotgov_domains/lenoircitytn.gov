@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.lenoircitytn.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7471550370>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.lenoircitytn.gov/sitemap.xml
+Sitemap: https://www.lenoircitytn.gov/sitemap.rss

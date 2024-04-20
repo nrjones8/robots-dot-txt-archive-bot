@@ -9,4 +9,5 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
+Disallow: /town-board-minutes.html
 Disallow: /http://townofjohnsburglibrary.sals.edu/

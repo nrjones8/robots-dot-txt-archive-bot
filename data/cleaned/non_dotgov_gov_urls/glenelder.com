@@ -16,6 +16,7 @@ Disallow: /home-2.html
 Disallow: /glen-elder-shirts.html
 Disallow: /election-information.html
 Disallow: /city-info.html
+Disallow: /appreciation-breakfast.html
 Disallow: /us-24-garage-sale.html
 Disallow: /template.html
 Disallow: /gotomeeting-info.html

@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.vermontvacation.com/sitemap.xml
+Sitemap: https://vermontvacation.com/sitemap_index.xml

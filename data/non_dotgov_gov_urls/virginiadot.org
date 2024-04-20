@@ -20,7 +20,9 @@ Allow: /
 
 User-Agent: SiteimproveBot-Crawler
 Allow: /
-Disallow: /news-events/events/calendar/ 
+Disallow: /news-events/events/calendar/
+Disallow: /archived-content/ 
+Disallow: /site-assets/ 
 
 User-agent: *
 Disallow: /

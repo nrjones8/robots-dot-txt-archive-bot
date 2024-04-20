@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='fordcityborough.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120

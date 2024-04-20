@@ -1,12 +1,1 @@
-User-agent: *
-Disallow: /eldo-missouri/wp-admin/
-Allow: /eldo-missouri/wp-admin/admin-ajax.php
-
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://cityofeldoradospringsmo.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofeldoradospringsmo.com', port=80): Read timed out. (read timeout=15)"}

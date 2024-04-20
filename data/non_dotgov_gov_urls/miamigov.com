@@ -99,7 +99,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Business-Licenses/Doing-Busine
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City_Officials
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityattorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/City-Facilities
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/citynet
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/cityofficials
@@ -358,7 +357,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
@@ -1163,6 +1161,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoni
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Early-Voting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Elections-Information
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information-Electronic
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form
@@ -1905,7 +1906,6 @@ Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procure
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
-Disallow: /cityattorney
 Disallow: /City-Facilities
 Disallow: /citynet
 Disallow: /cityofficials
@@ -2205,7 +2205,6 @@ Disallow: /Government/Departments-Organizations/Board-Announcements-and-Applicat
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/New-page
 Disallow: /Government/Departments-Organizations/Building/Get-a-Permit-for-Construction-on-an-Existing-Elevator/Request-a-Temporary-Elevator-Certificate-for-Construction
 Disallow: /Government/Departments-Organizations/Building/Request-a-Temporary-Elevator-Certificate-for-Construction
-Disallow: /Government/Departments-Organizations/City-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
@@ -3100,6 +3099,9 @@ Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refu
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /My-Government/Elections/Early-Voting
 Disallow: /My-Government/Elections/Elections-Information
+Disallow: /My-Government/Elections/Financial-Disclosure-Information
+Disallow: /My-Government/Elections/Financial-Disclosure-Information-Electronic
+Disallow: /My-Government/Elections/New-page
 Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form

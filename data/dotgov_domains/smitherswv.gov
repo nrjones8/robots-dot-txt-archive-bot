@@ -1,6 +1,1 @@
-Sitemap: https://amgnh.com/sitemap.xml
-
-User-agent: *
-Disallow: /images/
-Disallow: /cgi-bin/
-Disallow: /billing/
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='amgnh.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f61772d43d0>, 'Connection to amgnh.com timed out. (connect timeout=15)'))"}
