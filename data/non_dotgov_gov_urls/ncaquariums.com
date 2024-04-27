@@ -20,8 +20,8 @@ Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
 Disallow: /Admin/
-Disallow: /bin
-Disallow: /Bin
+Disallow: /bin/
+Disallow: /Bin/
 Crawl-delay: 30
 
 User-agent: Googlebot-Image
@@ -46,8 +46,8 @@ Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
 Disallow: /Admin/
-Disallow: /bin
-Disallow: /Bin
+Disallow: /bin/
+Disallow: /Bin/
 Crawl-delay: 30
 
 User-agent: Twitterbot
@@ -72,8 +72,8 @@ Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
 Disallow: /Admin/
-Disallow: /bin
-Disallow: /Bin
+Disallow: /bin/
+Disallow: /Bin/
 Crawl-delay: 30
 
 User-agent: CCBot
@@ -104,8 +104,8 @@ Disallow: /app_services/
 Disallow: /App_Services/
 Disallow: /admin/
 Disallow: /Admin/
-Disallow: /bin
-Disallow: /Bin
+Disallow: /bin/
+Disallow: /Bin/
 Disallow: /Sitefiles/
 Disallow: /sitefiles/
 Crawl-delay: 30

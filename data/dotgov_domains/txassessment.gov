@@ -1,7 +1,10 @@
 User-agent: *
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: Fbot
 Disallow: /
@@ -29,9 +32,12 @@ Disallow: /
 
 User-agent: msnbot
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: Ezooms
 Disallow: /
@@ -53,9 +59,12 @@ Disallow: /
 
 User-agent: Bingbot
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: BLEXBot
 Disallow: /
@@ -83,9 +92,12 @@ Disallow: /
 
 User-agent: Googlebot
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: 123People
 Disallow: /
@@ -95,9 +107,12 @@ Disallow: /
 
 User-agent: Twitterbot
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: 80legs.com
 Disallow: /
@@ -119,15 +134,21 @@ Disallow: /
 
 User-agent: Yahoo-Blogs
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: LinkedInBot
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: Baiduspider
 Disallow: /
@@ -146,48 +167,69 @@ Disallow: /
 
 User-agent: msnbot-media
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: MegaIndex.ru
 Disallow: /
 
+User-agent: amazon-kendra
+Allow: /
+Disallow: /-
+Disallow: /static/
+Disallow: /-/media/
+Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
+
 User-agent: SemrushBot-SA
 Disallow: /
 
-User-agent: amazon-kendra
-Allow: /
-
 User-agent: Googlebot-Image
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: Yahoo-MMCrawler
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: ArchitextSpider
 Disallow: /
 
 User-agent: facebookexternalhit
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: discoveryengine.com
 Disallow: /
 
 User-agent: Mediapartners-Google
 Allow: /
+Disallow: /-
 Disallow: /static/
 Disallow: /-/media/
 Allow: /-/media/project/
+Disallow: /all-about-staar
+Disallow: /How%20to%20Help%20My%20Child%20Prepare
 
 User-agent: domainreanimator.com
 Disallow: /

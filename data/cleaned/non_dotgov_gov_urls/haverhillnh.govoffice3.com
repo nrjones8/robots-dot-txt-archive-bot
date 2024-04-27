@@ -20,6 +20,12 @@ Disallow: /manager/
 User-agent: W3C-checklink
 Disallow: /admin/
 Disallow: /manager/
+User-agent: CCBot
+Disallow: /admin/
+Disallow: /manager/
 User-agent: *
+Disallow: /admin/
+Disallow: /manager/
 Disallow: /
+Crawl-delay: 10
 Sitemap: http://haverhillnh.govoffice3.com/sitemap.xml

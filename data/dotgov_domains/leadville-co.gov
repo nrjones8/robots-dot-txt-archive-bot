@@ -1,11 +1,1 @@
-User-agent: *
-Disallow: /a/
-Disallow: /api/
-Disallow: /mail6/
-Disallow: /beta/
-Disallow: /default.html
-Disallow: /index.html
-Disallow: /index.php
-Disallow: /error.html
-Disallow: /a/ext/demo/launch.php
-Disallow: /ext/demo/launch.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='leadville-co.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc2e700c5b0>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}

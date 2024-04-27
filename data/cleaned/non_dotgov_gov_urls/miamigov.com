@@ -718,6 +718,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/grapeland
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/grapeland/pool-lazy-river.html
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Background-Video-Header
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/home/cityofficials.html
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Content-Highlights/Copy-of-Resident-Insights-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Content-Highlights/Highlight-Resident-Insights
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Copy-of-Featured-Content
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/eMerge-Feedback
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContent/2020-Census-MakeMiamiCount
@@ -733,6 +735,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Featured-Content-Secondary
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Copy-of-Resident-Insights-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/FeaturedContentSecondary/Miami-Trolley
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Home/Homepage/About-the-New-Website
@@ -2566,6 +2569,8 @@ Disallow: /grapeland
 Disallow: /grapeland/pool-lazy-river.html
 Disallow: /Home/Background-Video-Header
 Disallow: /home/cityofficials.html
+Disallow: /Home/Content-Highlights/Copy-of-Resident-Insights-1
+Disallow: /Home/Content-Highlights/Highlight-Resident-Insights
 Disallow: /Home/Copy-of-Featured-Content
 Disallow: /Home/eMerge-Feedback
 Disallow: /Home/FeaturedContent/2020-Census-MakeMiamiCount
@@ -2581,6 +2586,7 @@ Disallow: /Home/FeaturedContentSecondary
 Disallow: /Home/Featured-Content-Secondary
 Disallow: /Home/FeaturedContentSecondary/2020-Census-MakeMiamiCount
 Disallow: /Home/FeaturedContentSecondary/City-of-Miami-YouTube-Channel
+Disallow: /Home/FeaturedContentSecondary/Copy-of-Resident-Insights-1
 Disallow: /Home/FeaturedContentSecondary/Miami-Trolley
 Disallow: /Home/Homepage/About
 Disallow: /Home/Homepage/About-the-New-Website

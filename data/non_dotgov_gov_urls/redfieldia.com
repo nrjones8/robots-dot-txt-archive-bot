@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://redfieldia.com/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='redfieldia.com', port=443): Read timed out. (read timeout=15)"}

@@ -1,7 +1,4 @@
 User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
-User-agent: googlebot
-Disallow: *.csi
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://helgatownship.com/wp-sitemap.xml
