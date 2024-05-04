@@ -119,3 +119,5 @@ Disallow: /*/Templates/VisitIowaFarms/
 Disallow: /roadscholar/
 #Added by bwebster - 01/17/2023 - don't include events in the program catalog
 Disallow: /programcatalog/event_details/
+#Added 05/03/2024 to try to slow down crawlers
+Crawl-delay: 5

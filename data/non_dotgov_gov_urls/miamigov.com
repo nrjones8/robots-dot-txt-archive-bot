@@ -184,6 +184,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/COVID-19-Recovery/Unemployment
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidcomplaints
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidoffenders
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/covidreport
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/datafellowship
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/A-Z-Index
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Default-Content/Buy-Miami-Listings-by-Category
@@ -914,6 +915,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Hous
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/Opportunity-Center
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Human-Services/Ready-Set-Grow-Health-Initiative
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Innovation-and-Technology-DoIT/MiamiGov-Guest-Wireless-Full-Disclaimer
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Innovation-and-Technology-DoIT/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
@@ -1166,6 +1168,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Early-
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information-Electronic
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information-for-Candidates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -1198,7 +1201,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/negotiationmeeting
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Newbusinessfeedback
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/First-Annual-Swim-Awards-Ceremony
@@ -1320,6 +1322,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Private
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/projectintake
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/PublicRecords
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/publicworksgis
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/readysetgrow
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Access-Miami-Jobs-Redirect
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/City_Officials
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/CityNet
@@ -1339,6 +1342,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Union-Negoti
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Unsafe-Structures-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-virginiakey-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Copy-of-Web-Request-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Data-Fellow-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/ERA-Program-espanol
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/film-permits
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/redirects/Find-Your-Commissioner
@@ -1994,6 +1998,7 @@ Disallow: /COVID-19-Recovery/Unemployment-Job-Resources
 Disallow: /covidcomplaints
 Disallow: /covidoffenders
 Disallow: /covidreport
+Disallow: /datafellowship
 Disallow: /Default-Content
 Disallow: /Default-Content/A-Z-Index
 Disallow: /Default-Content/Buy-Miami-Listings-by-Category
@@ -2855,6 +2860,7 @@ Disallow: /My-Government/Departments/Housing-Community-Development/Small-Busines
 Disallow: /My-Government/Departments/Human-Resources/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /My-Government/Departments/Human-Services/BizAssist-Miami
 Disallow: /My-Government/Departments/Human-Services/Opportunity-Center
+Disallow: /My-Government/Departments/Human-Services/Ready-Set-Grow-Health-Initiative
 Disallow: /My-Government/Departments/Innovation-and-Technology-DoIT/MiamiGov-Guest-Wireless-Full-Disclaimer
 Disallow: /My-Government/Departments/Innovation-and-Technology-DoIT/New-page
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Association-Marlins-Park
@@ -3107,6 +3113,7 @@ Disallow: /My-Government/Elections/Early-Voting
 Disallow: /My-Government/Elections/Elections-Information
 Disallow: /My-Government/Elections/Financial-Disclosure-Information
 Disallow: /My-Government/Elections/Financial-Disclosure-Information-Electronic
+Disallow: /My-Government/Elections/Financial-Disclosure-Information-for-Candidates
 Disallow: /My-Government/Elections/New-page
 Disallow: /My-Government/Elections-Information
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
@@ -3139,7 +3146,6 @@ Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
 Disallow: /negotiationmeeting
 Disallow: /Newbusinessfeedback
-Disallow: /New-page
 Disallow: /New-page/Resources
 Disallow: /New-page-1
 Disallow: /News-Media/First-Annual-Swim-Awards-Ceremony
@@ -3261,6 +3267,7 @@ Disallow: /Private
 Disallow: /projectintake
 Disallow: /PublicRecords
 Disallow: /publicworksgis
+Disallow: /readysetgrow
 Disallow: /redirects/Access-Miami-Jobs-Redirect
 Disallow: /redirects/City_Officials
 Disallow: /redirects/CityNet
@@ -3280,6 +3287,7 @@ Disallow: /redirects/Copy-of-Union-Negotiation-Meeting-1
 Disallow: /redirects/Copy-of-Unsafe-Structures-1
 Disallow: /redirects/Copy-of-virginiakey-1
 Disallow: /redirects/Copy-of-Web-Request-1
+Disallow: /redirects/Data-Fellow-Form
 Disallow: /redirects/ERA-Program-espanol
 Disallow: /redirects/film-permits
 Disallow: /redirects/Find-Your-Commissioner

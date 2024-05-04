@@ -1,5 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://pawtucketri.gov/wp-sitemap.xml
+Sitemap: https://pawtucketri.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

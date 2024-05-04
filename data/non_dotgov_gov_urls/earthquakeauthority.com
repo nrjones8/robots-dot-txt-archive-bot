@@ -41,6 +41,8 @@ Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
 Disallow: /california-earthquake-insurance-policies/other-providers
+Disallow: /about-cea/leadership/meetings/*
+Disallow: /about-cea/leadership/meetings*
 Disallow:  /about-cea/in-your-community/cea-advertising/*
 Disallow:  /about-cea/in-your-community/policyholder-stories/*
 Disallow:  /about-cea/in-your-community/cea-tv-commercials-archive/*

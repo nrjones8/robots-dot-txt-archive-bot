@@ -8,3 +8,4 @@ Disallow: /illinois-made/
 Disallow: /favorites/
 Disallow: /server-error/
 Disallow: /page-not-found/
+Disallow: /illinois-made-gift-basket-giveaway/

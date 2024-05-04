@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='ci.goldsboro.nc.us', port=443): Read timed out. (read timeout=15)"}
+
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.goldsboronc.gov/wp-sitemap.xml

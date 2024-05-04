@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Crawl-delay: 10
 
-Sitemap: https://immigrationlawyerpc.com/sitemap.xml
+Sitemap: https://ids2018.org/sitemap.xml

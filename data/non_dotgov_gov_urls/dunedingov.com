@@ -41,6 +41,10 @@ Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/City-Services/Garbage-Recyclin
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Infrastructure/New-City-Hall-Project
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Infrastructure/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Infrastructure/Public-Infrastructure-Background
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Safety/Copy-of-Hurricane-Preparedness-1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Safety/Hurricane-Preparedness
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Public-Safety/Hurricanes
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Severe-Weather/Storm-Response/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Sustainable-Living/Copy-of-Activities-Recreation-Background-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Sustainable-Living/Copy-of-Sustainable-Background-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Sustainable-Living/Sustainable-Background
@@ -65,6 +69,8 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Water-Utilities/
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/City-Services/Water-Utilities/Water/Water-Page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Announcements
 Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Home/System-Pages/Internal-Style-Guide
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/hurricaneprep
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/hurricanes
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Image-Galleries/Beaches
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Style-Guide
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Internal-Style-Guide/Landing-Page
@@ -143,6 +149,10 @@ Disallow: /City-Services/Garbage-Recycling/Solid-Waste-Background
 Disallow: /City-Services/Public-Infrastructure/New-City-Hall-Project
 Disallow: /City-Services/Public-Infrastructure/New-page
 Disallow: /City-Services/Public-Infrastructure/Public-Infrastructure-Background
+Disallow: /City-Services/Public-Safety/Copy-of-Hurricane-Preparedness-1
+Disallow: /City-Services/Public-Safety/Hurricane-Preparedness
+Disallow: /City-Services/Public-Safety/Hurricanes
+Disallow: /City-Services/Severe-Weather/Storm-Response/New-page
 Disallow: /City-Services/Sustainable-Living/Copy-of-Activities-Recreation-Background-1
 Disallow: /City-Services/Sustainable-Living/Copy-of-Sustainable-Background-1
 Disallow: /City-Services/Sustainable-Living/Sustainable-Background
@@ -167,6 +177,8 @@ Disallow: /City-Services/Water-Utilities/Water/New-page
 Disallow: /City-Services/Water-Utilities/Water/Water-Page
 Disallow: /Home/Announcements
 Disallow: /Home/System-Pages/Internal-Style-Guide
+Disallow: /hurricaneprep
+Disallow: /hurricanes
 Disallow: /Image-Galleries/Beaches
 Disallow: /Internal-Style-Guide
 Disallow: /Internal-Style-Guide/Landing-Page

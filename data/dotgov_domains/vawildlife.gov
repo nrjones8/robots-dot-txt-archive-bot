@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='vawildlife.gov', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /trout_waters/
+Disallow: /regulations/
+Disallow: /media/press-release/
+Disallow: /search/
+Disallow: /reports/
+Disallow: /file_drawer/
+Disallow: /boat_access/
+Disallow: /place/
+Sitemap: https://dwr.virginia.gov/sitemap.xml

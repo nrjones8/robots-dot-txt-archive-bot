@@ -1,4 +1,5 @@
 User-agent: *
+Crawl-delay: 5 # per http://en.wikipedia.org/wiki/Robots.txt#Nonstandard_extensions, sets number of seconds to wait between requests to 5 seconds. may not work
 Allow: /
 Disallow: /admin/
 Disallow: /uspstf/admin/

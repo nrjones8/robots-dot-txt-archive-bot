@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='johnstonnc.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fc2e6a6dd60>, 'Connection to johnstonnc.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /files/
+Disallow: /images/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /filetransfer/
+Disallow: /ftptransfer/
+Disallow: /transfer/
+Disallow: /vendorftp/
+Disallow: /visitors_files/
+Disallow: /calendar.cfm
+Disallow: /BOE_Nov2008/
+Disallow: /media/
+Disallow: /PIO/
+Disallow: /PIOInfo/

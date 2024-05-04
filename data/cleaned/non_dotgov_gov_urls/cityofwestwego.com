@@ -163,6 +163,8 @@ User-agent: ChatGPT-User
 Disallow: /
 User-agent: Google-Extended
 Disallow: /
+User-agent: ClaudeBot
+User-agent: Claude-Web
 User-agent: anthropic-ai
 Disallow: /
 User-agent: Omgilibot
