@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='harrisontwp.us', port=443): Read timed out. (read timeout=15)"}
+Disallow: */wp-content/podscache/*
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://harrisontwp.us/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

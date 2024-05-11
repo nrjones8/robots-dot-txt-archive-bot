@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='freshfromflorida.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f81ddc22220>, 'Connection to freshfromflorida.com timed out. (connect timeout=15)'))"}
+# Default Flywheel robots file
+User-agent: *
+Disallow: /calendar/action*
+Disallow: /events/action*
+Disallow: /*?
+Crawl-delay: 3

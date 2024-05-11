@@ -1,2 +1,4 @@
 User-agent: *
-Crawl-delay: 10
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://sheldoniowa.com/wp-sitemap.xml

@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ncfilm.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f81dd1b5250>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+# CMS default robots.txt for :domain
+# :account / :site_title
+
+User-agent: *
+Allow: /

@@ -5,6 +5,9 @@ User-agent: ChatGPT-User
 User-agent: CCBot
 User-agent: anthropic-ai
 User-agent: Google-Extended
+User-agent: FacebookBot
+User-agent: Claude-Web
+User-agent: cohere-ai
 User-agent: AdsBot-Google
 User-agent: AdsBot-Google-Mobile
 User-agent: AdsBot-Google-Mobile-Apps

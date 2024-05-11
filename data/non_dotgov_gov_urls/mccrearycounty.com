@@ -1,5 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://mccrearycounty.com/wp-sitemap.xml
+Sitemap: https://mccrearycounty.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

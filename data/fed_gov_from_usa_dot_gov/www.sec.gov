@@ -37,7 +37,15 @@ Allow: /profiles/*.svg
 Disallow: /core/
 Disallow: /profiles/
 # Files
-Disallow: /README.txt
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
@@ -79,16 +87,6 @@ Disallow: /video/live
 Disallow: /Archives/edgar/data/1473971/000109181814000042/ex101002.gif
 Disallow: /node
 Disallow: /spotlight/equity-market-structure-advisory-committee.shtml
-
-#INVESTOR
-Disallow: /additional-resources/news-alerts/press-releases
-Disallow: /additional-resources/news-alerts/press-releases/*
-Disallow: /additional-resources/news-alerts/selected-press-releases
-Disallow: /additional-resources/news-alerts/alerts-bulletins/updated-investor-alert-be-lookout-advance-fee
-Disallow: /additional-resources/news-alerts/alerts-bulletins/updated-investor-bulletin-accredited-investors
-Disallow: /additional-resources/news-alerts/investor-alerts/investor-alert-beware-claims-sec-has-approved
-Disallow: /additional-resources/news-alerts/investor-bulletins/investor-bulletin-escheatment-process
-Disallow: /additional-resources/news-alerts/press-releases/elon-musk-charged-securities-fraud-misleading-tweets
 
 Sitemap: https://www.sec.gov/sec-sitemap.xml
 Sitemap: https://www.sec.gov/sitemap/sitemap-index.xml

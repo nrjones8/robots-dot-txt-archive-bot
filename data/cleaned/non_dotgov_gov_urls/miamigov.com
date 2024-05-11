@@ -795,6 +795,8 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Boards-Committee
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-1-Miguel-Angel-Gabela/District-1-Events
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-1-Miguel-Angel-Gabela/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/City-Officials/District-2-Commissioner-Damian-Pardo/District-2-Staff-Contacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/District-2-Staff-Contacts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/New-page
@@ -1208,6 +1210,10 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/JANE-GILBERT-APPOIN
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/News-Media/Trolley-Detours
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/Events-Activities/Event-to-test-workflow
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/TEST-D1-EVENT-BEFORE
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/TEST-D1-EVENT-BEFORE/New-page
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Events-Activities/TEST-EVENT-D1-AFTER
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/New-page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News/Firefighter-EMT-Recruitment
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News/Mayor-Francis-Suarez-Announces-a-200000-Donation
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News/Page-Name-Cristy-John-Test
@@ -1230,6 +1236,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Special-M
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Page-Becky-training
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Press-Release
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/TEST-EVENT-D1-AFTER
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/OLDRESTOREO
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/opportunity
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Our-Services
@@ -2740,6 +2747,8 @@ Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/RSS-Feed
 Disallow: /My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/Copy-of-WDRC-Submittal-Checklist-1
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
+Disallow: /My-Government/City-Officials/District-1-Miguel-Angel-Gabela/District-1-Events
+Disallow: /My-Government/City-Officials/District-1-Miguel-Angel-Gabela/New-page
 Disallow: /My-Government/City-Officials/District-2-Commissioner-Damian-Pardo/District-2-Staff-Contacts
 Disallow: /My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/District-2-Staff-Contacts
 Disallow: /My-Government/City-Officials/District-2-Commissioner-Sabina-Covo/New-page
@@ -3153,6 +3162,10 @@ Disallow: /News-Media/JANE-GILBERT-APPOINTED-MIAMI’S-FIRST-CHIEF-RESILIENCE-OF
 Disallow: /News-Media/Trolley-Detours
 Disallow: /Notices/Events-Activities/City-of-Miami-Arbor-Day-2017
 Disallow: /Notices/Events-Activities/Event-to-test-workflow
+Disallow: /Notices/Events-Activities/TEST-D1-EVENT-BEFORE
+Disallow: /Notices/Events-Activities/TEST-D1-EVENT-BEFORE/New-page
+Disallow: /Notices/Events-Activities/TEST-EVENT-D1-AFTER
+Disallow: /Notices/New-page
 Disallow: /Notices/News/Firefighter-EMT-Recruitment
 Disallow: /Notices/News/Mayor-Francis-Suarez-Announces-a-200000-Donation
 Disallow: /Notices/News/Page-Name-Cristy-John-Test
@@ -3175,6 +3188,7 @@ Disallow: /Notices/News-Notices/Special-Message-Vendors
 Disallow: /Notices/News-Notices/Test-Page-Becky-training
 Disallow: /Notices/News-Notices/Test-Press-Release
 Disallow: /Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
+Disallow: /Notices/TEST-EVENT-D1-AFTER
 Disallow: /OLDRESTOREO
 Disallow: /opportunity
 Disallow: /Our-Services

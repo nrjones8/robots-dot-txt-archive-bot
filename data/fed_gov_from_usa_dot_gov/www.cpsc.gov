@@ -38,6 +38,15 @@ Disallow: /core/
 Disallow: /profiles/
 # Files
 Disallow: /README.txt
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
@@ -63,3 +72,30 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Url Params
+Disallow: /*archivepage?*
+Allow: /*archivepage?page*
+Disallow: /*Archivepage?*
+Allow: /*Archivepage?page*
+Disallow: /*business--manufacturing/business-education/faq/search?*
+Disallow: /*Business--Manufacturing/Business-Education/FAQ/Search?*
+Disallow: /*newsroom/foia/reportlist?*
+Allow: /*newsroom/foia/reportlist?page*
+Disallow: /*Newsroom/FOIA/ReportList?*
+Allow: /*Newsroom/FOIA/ReportList?page*
+Disallow: /*newsroom/news-releases?*
+Allow: /*newsroom/news-releases?page*
+Disallow: /*Newsroom/News-Releases?*
+Allow: /*Newsroom/News-Releases?page*
+Disallow: /*newsroom/public-calendar?*
+Allow: /*newsroom/public-calendar?page*
+Disallow: /*Newsroom/Public-Calendar?*
+Allow: /*Newsroom/Public-Calendar?page*
+Disallow: /*product_recalls_download?*
+Disallow: /*Product_Recalls_Download?*
+Disallow: /*recalls?*
+Allow: /*recalls?page*
+Disallow: /*Recalls?*
+Allow: /*Recalls?page*
+Disallow: /*search?*
+Disallow: /*Search?*

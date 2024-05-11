@@ -97,6 +97,12 @@ Disallow: /sites/default/files/document/*
 # Disallow In The News - Kentico paths
 Disallow: /press-room/in-the-news/*
 
+
+
+Allow:/sites/default/files/images*
+Allow:/sites/default/files/images/*
+Allow:/sites/default/files/eqa2/media/image/*
+Allow:/sites/default/files/eqa2/media/image*
 Allow: /sites/default/files/logo.png
 Allow: /sites/default/files/styles/*
 Allow: /sites/default/files/styles

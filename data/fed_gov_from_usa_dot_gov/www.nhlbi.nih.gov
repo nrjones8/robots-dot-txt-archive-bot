@@ -65,7 +65,10 @@ Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
 # Prevent crawlers from hitting old search.
 Disallow: /cgi-bin/search/
+Disallow: /research/clinical-trials/
 
 # Prevent crawlers from indexing council round pages
 Disallow: /about/advisory-and-peer-review-committees/roster/hlbp/
-Disallow: /research/clinical-trials/
+
+User-agent: ClaudeBot
+Disallow: /

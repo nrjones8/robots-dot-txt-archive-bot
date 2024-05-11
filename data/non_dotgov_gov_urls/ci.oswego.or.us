@@ -13,16 +13,8 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: Yandex
-Disallow: /
-
-User-agent: dotbot
-Disallow: /
-
 User-agent: *
+Crawl-delay: 10
 # CSS, JS, Images
 Allow: /misc/*.css$
 Allow: /misc/*.css?

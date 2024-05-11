@@ -1,1 +1,8 @@
-Request failed
+Disallow: */wp-content/podscache/*
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://harrisontwp.us/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

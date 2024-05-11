@@ -1,5 +1,6 @@
 User-agent: *
-Sitemap: http://2018.torrancecountynm.org/sitemap.xml
+Sitemap: https://www.torrancecountynm.org/assets/sitemaps/sitemap-sitemap.xml
+https://www.torrancecountynm.org/assets/sitemaps/sitemap-news.xml
 Disallow: /assets/
 Disallow: /doc/
 Disallow: /install/
@@ -10,5 +11,5 @@ Disallow: /plugins/
 Disallow: /scripts/
 Disallow: /tmp/
 Allow: /assets/sitemaps/
-Allow: /assets/themes/
-Allow: /tmp/cache/
+Disallow: /assets/themes/
+Disallow: /tmp/cache/

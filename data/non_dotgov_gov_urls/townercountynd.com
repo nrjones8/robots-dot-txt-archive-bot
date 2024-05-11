@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townercountynd.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f81dd367640>, 'Connection to townercountynd.com timed out. (connect timeout=15)'))"}
+User-Agent: *
+Disallow: /cpx.php
+Disallow: /medios1.php
+Disallow: /toolbar.php
+Disallow: /check_image.php
+Disallow: /check_popunder.php

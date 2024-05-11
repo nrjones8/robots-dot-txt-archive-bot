@@ -1,46 +1,22 @@
 User-agent: *
 Disallow:
-Crawl-Delay: 4
+Crawl-Delay: 10
 
 User-agent: 008
-Disallow: /
-
 User-agent: BLEXBot
-Disallow: /
-
 User-agent: MJ12bot
-Disallow: /
-
 User-agent: Goodzer
-Disallow: /
-
 User-agent: AhrefsBot
-Disallow: /
-
 User-agent: spbot
-Disallow: /
-
 User-agent: dotbot
 User-agent: DotBot
-Disallow: /
-
 User-agent: turnitinbot
-Disallow: /
-
 User-agent: SeznamBot
-Disallow: /
-
 User-Agent: The Knowledge AI
-Disallow: /
-
-User-agent: CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
-Disallow: /
-
+User-agent: CheckMarkNetwork
 User-agent: Ever Accountable
-Disallow: /
-
 User-agent: SeekportBot
-User-agent: ClaudBot
+User-agent: ClaudeBot
 User-agent: MauiBot
 User-agent: houzzbot
 User-agent: Baiduspider
@@ -65,6 +41,9 @@ User-agent: Re-re Studio
 User-agent: barkrowler
 User-agent: SiteAuditBot
 User-agent: Bytespider
+User-agent: DataForSeoBot
+User-agent: IonCrawl
+User-agent: Nutch
 Disallow: /
 
 # See if Semrush can behave - March 2023.

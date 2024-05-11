@@ -1,11 +1,1 @@
-User-agent: *
-Disallow: /calendar/action~posterboard/
-Disallow: /calendar/action~agenda/
-Disallow: /calendar/action~oneday/
-Disallow: /calendar/action~month/
-Disallow: /calendar/action~week/
-Disallow: /calendar/action~stream/
-Disallow: /calendar/action~undefined/
-Disallow: /calendar/action~http:/
-Disallow: /calendar/action~default/
-Disallow: /*controller=ai1ec_exporter_controller*
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='buttscountyga.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb3e15510d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
