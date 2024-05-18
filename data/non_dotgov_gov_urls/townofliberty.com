@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townofliberty.com', port=80): Read timed out. (read timeout=15)"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://townoflibertyocwi.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

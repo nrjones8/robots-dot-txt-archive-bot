@@ -7,8 +7,8 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /http://www.apostleisland.com/
-Disallow: /http://www.nps.gov/apis/index.htm
 Disallow: /http://www.ecode360.com/BA2193
+Disallow: /http://www.nps.gov/apis/index.htm
 Disallow: /http://apostleislandsmarina.com
 Disallow: /http://www.bartbus.com/index.html
 Disallow: /http://bayfield.org

@@ -1,1 +1,26 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+# Rule 1: Delay all the bots
+User-agent: *
+Crawl-delay: 5
+# Rule 2: Block search results from being indexed
+User-agent: *
+Disallow: /*?*
+# Rule 3: Allow all the bots
+User-agent: *
+Allow: /
+# Rule 4: Disallow unwanted bots
+User-agent: AddThis.com
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BuiltWith
+Disallow:/
+User-agent: PetalBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SemrushBot/1.2~bl
+Disallow: /
+User-agent: YandexBot
+Disallow: /

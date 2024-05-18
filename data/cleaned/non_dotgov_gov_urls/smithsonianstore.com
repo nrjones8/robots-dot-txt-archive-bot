@@ -15,6 +15,7 @@ Disallow: /viewfile.php
 Disallow: /wishlist.php
 Disallow: /admin/
 Disallow: /__socialshop/
+Sitemap: https://www.smithsonianstore.com/xmlsitemap.php
 User-agent: *
 Disallow: /*?_bc_fsnf=1*
 Disallow: /*&_bc_fsnf=1*

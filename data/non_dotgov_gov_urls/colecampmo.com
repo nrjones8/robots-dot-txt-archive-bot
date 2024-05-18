@@ -1,1 +1,11 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+Sitemap: http://www.colecampmo.com/sitemap.xml
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: dotbot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /apps/

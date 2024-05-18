@@ -1,5 +1,1 @@
-# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
-#
-# To ban all spiders from the entire site uncomment the next two lines:
-User-Agent: *
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='co.bedford.va.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f69aa6b0be0>, 'Connection to co.bedford.va.us timed out. (connect timeout=15)'))"}

@@ -41,15 +41,6 @@ Disallow: /templatepackage/3.0/templates
 Disallow: /templatepackage/4.0/docs
 Disallow: /templatepackage/4.0/gallery-internal
 
-# Don't spider search pages
-Disallow: /search.do
-
-# Don't spider email-this-page pages
-Disallow: /email.do
- 
-# Don't spider printer-friendly versions of pages
-Disallow: /print.do
-
 # Rover is a bad dog
 User-agent: Roverbot
 Disallow: /
@@ -63,19 +54,4 @@ User-agent: MindSpider
 Disallow: /
 
 # Sitemap link per CR14586
-Sitemap: https://www.cdc.gov/niosh/sitemaps/sitemapsNIOSH.xml
-Sitemap: https://www.cdc.gov/grand-rounds/sitemap.xml
-Sitemap: https://www.cdc.gov/injury/injury-oc-sitemap.xml
-Sitemap: https://www.cdc.gov/violenceprevention/NCIPC-ViolencePrevention-SiteMap.xml
-Sitemap: https://www.cdc.gov/traumaticbraininjury/NCIPC-TraumaticBrainInjury-SiteMap.xml
-Sitemap: https://www.cdc.gov/steadi/NCIPC-STEADI-SiteMap.xml
-Sitemap: https://www.cdc.gov/safechild/NCIPC-SafeChild-SiteMap.xml
-Sitemap: https://www.cdc.gov/rxawareness/NCIPC-RXawareness-SiteMap.xml
-Sitemap: https://www.cdc.gov/parentsarethekey/NCIPC-ParentsAreTheKey-SiteMap.xml
-Sitemap: https://www.cdc.gov/parents/essentials/NCIPC-Essentials-SiteMap.xml
-Sitemap: https://www.cdc.gov/opioids/NCIPC-OpioidsPortal-SiteMap.xml
-Sitemap: https://www.cdc.gov/motorvehiclesafety/NCIPC-MotorVehicleSafety-SiteMap.xml
-Sitemap: https://www.cdc.gov/homeandrecreationalsafety/NCIPC-HomeandRec-SiteMap.xml
-Sitemap: https://www.cdc.gov/drugoverdose/NCIPC-DrugOverdose-SiteMap.xml
-Sitemap: https://www.cdc.gov/coronavirus/sitemap.xml
 Sitemap: https://www.cdc.gov/wcms-auto-sitemap-index.xml

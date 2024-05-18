@@ -1,7 +1,1 @@
-Sitemap: https://morningsidemaryland.com/sitemap.xml
-Sitemap: https://morningsidemaryland.com/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://morningsidemaryland.com/sitemap_index.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 409}

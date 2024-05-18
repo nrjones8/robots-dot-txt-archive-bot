@@ -11,3 +11,4 @@ Disallow: /favorites/
 Disallow: /server-error/
 Disallow: /page-not-found/
 Disallow: /illinois-made-gift-basket-giveaway/
+Disallow: /seven-faces-of-illinois-tourism/

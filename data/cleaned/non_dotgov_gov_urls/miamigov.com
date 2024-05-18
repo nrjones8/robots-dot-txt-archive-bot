@@ -274,6 +274,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/Rss-Feeds
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/General-Pages/Search-Results
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/Certificate-of-Eligibility
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/City-Construction
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/COM-Application-Pages
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Glossary/New-page-3
@@ -1157,7 +1158,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Documents
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
@@ -1197,6 +1197,11 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-NRD-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Copy-of-Appeal-a-Code-Enforcement-Ticket-a-Solid-Waste-Ticket-or-an-MPA-Valet-Ticket-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application-TDD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
@@ -1237,6 +1242,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Press-Release
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/TEST-EVENT-D1-AFTER
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/NRD1TDD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/OLDRESTOREO
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/opportunity
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Our-Services
@@ -1305,6 +1311,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.htm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/gis.html
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page
@@ -2136,6 +2143,7 @@ Disallow: /General-Pages/New-page
 Disallow: /General-Pages/Rss-Feeds
 Disallow: /General-Pages/Search-Results
 Disallow: /Glossary
+Disallow: /Glossary/Certificate-of-Eligibility
 Disallow: /Glossary/City-Construction
 Disallow: /Glossary/COM-Application-Pages
 Disallow: /Glossary/New-page-3
@@ -3109,7 +3117,6 @@ Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Copy-of-
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/DREAM-STAFF
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Applications
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/ITB-Documents
-Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/New-page
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunities/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
@@ -3149,6 +3156,11 @@ Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
 Disallow: /My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
+Disallow: /My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-NRD-1
+Disallow: /My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
+Disallow: /My-Home-Neighborhood/Solve-a-Problem/Copy-of-Appeal-a-Code-Enforcement-Ticket-a-Solid-Waste-Ticket-or-an-MPA-Valet-Ticket-1
+Disallow: /My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application
+Disallow: /My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application-TDD
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
@@ -3189,6 +3201,7 @@ Disallow: /Notices/News-Notices/Test-Page-Becky-training
 Disallow: /Notices/News-Notices/Test-Press-Release
 Disallow: /Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /Notices/TEST-EVENT-D1-AFTER
+Disallow: /NRD1TDD
 Disallow: /OLDRESTOREO
 Disallow: /opportunity
 Disallow: /Our-Services
@@ -3257,6 +3270,7 @@ Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /planning/gis.html
+Disallow: /Planning-Zoning-Land-Use/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
 Disallow: /Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page

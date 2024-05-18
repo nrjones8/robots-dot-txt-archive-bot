@@ -22,6 +22,7 @@ Disallow: /manual-account-verification
 Disallow: /Unsubscribe-Notification-Results
 Disallow: /my-account/2nd-chance-submissions
 Disallow: /my-account/my-profile/change-password
+Disallow: /my-account/mobileapps-2ndchance-promo-popover
 
 User-agent: Twitterbot
 Disallow: *

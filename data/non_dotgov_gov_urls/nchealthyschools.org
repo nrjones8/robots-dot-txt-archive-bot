@@ -1,8 +1,16 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
+Disallow: /cgi-bin
+Disallow: /wp-admin
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */*/trackback
+Disallow: */*/feed/*/
+Disallow: */feed
 Sitemap: https://www.nchealthyschools.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+
+
+User-agent: AhrefsBot 
+Disallow: /
+
+User-Agent: ia_archiver
+Disallow: /
