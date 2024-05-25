@@ -1,15 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow: /?s=
-Disallow: /page/*/?s=
-Disallow: /search/
-Disallow: /wp-json/
-Disallow: /?rest_route=
-
-User-agent: AdsBot
-Disallow: /
-
-Sitemap: https://www.cityofcresco.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofcresco.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6be0a61c70>, 'Connection to cityofcresco.com timed out. (connect timeout=15)'))"}

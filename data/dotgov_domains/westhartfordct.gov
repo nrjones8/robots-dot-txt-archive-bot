@@ -38,9 +38,6 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /town-departments/leisure-services/rockledge-golf-club/rates$
-Disallow: /town-departments/leisure-services/rockledge-golf-club/rates?
-Disallow: /town-departments/leisure-services/rockledge-golf-club/rates/~
 Disallow: /demo-sustainability$
 Disallow: /demo-sustainability?
 Disallow: /demo-sustainability/~
@@ -50,6 +47,9 @@ Disallow: /post-details/~
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation$
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation?
 Disallow: /town-departments/information-technology/forticlient-vpn-client-installation/~
+Disallow: /town-departments/leisure-services/rockledge-golf-club/rates$
+Disallow: /town-departments/leisure-services/rockledge-golf-club/rates?
+Disallow: /town-departments/leisure-services/rockledge-golf-club/rates/~
 Disallow: /example-cc-clone2$
 Disallow: /example-cc-clone2?
 Disallow: /example-cc-clone2/~

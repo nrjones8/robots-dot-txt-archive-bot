@@ -80,6 +80,7 @@ User-agent: ZoominfoBot
 Crawl-Delay: 20
 User-agent: ia_archiver
 Crawl-Delay: 20
+User-agent: linkdexbot
 User-agent: linkdexbot/2.1
 Crawl-Delay: 20
 User-agent: Gigabot
@@ -91,6 +92,15 @@ Crawl-delay: 20
 User-agent: Bingbot
 Crawl-delay: 10
 User-agent: SemrushBot
+Crawl-delay: 30
+User-agent: Amazonbot
+User-agent: Amazonbot/0.1
+Crawl-delay: 30
+User-agent: Scrapy
+User-agent: Scrapy/2.6.2
+Crawl-delay: 30
+User-agent: Monsidobot
+User-agent: Monsidobot/2.2
 Crawl-delay: 30
 User-agent: SiteAuditBot
 Crawl-delay: 30

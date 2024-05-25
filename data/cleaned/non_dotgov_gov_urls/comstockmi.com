@@ -1,1 +1,5 @@
-Got an HTML response
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /_zc
+Crawl-delay: 120

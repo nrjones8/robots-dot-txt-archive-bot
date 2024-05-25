@@ -851,12 +851,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Application-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHRT-Announcements-and-Applications
@@ -895,6 +892,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Comm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Draft/Test2
@@ -984,6 +982,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Offi
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Isiaa-Jones
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
@@ -1198,11 +1197,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Hurricane
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-NRD-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Copy-of-Appeal-a-Code-Enforcement-Ticket-a-Solid-Waste-Ticket-or-an-MPA-Valet-Ticket-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application-TDD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
@@ -1243,7 +1237,6 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Page
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Notices/News-Notices/Test-Press-Release
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Notices/TEST-EVENT-D1-AFTER
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/NRD1TDD
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/OLDRESTOREO
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/opportunity
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Our-Services
@@ -1312,7 +1305,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/comprehensiveplan.htm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/planning/gis.html
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page
@@ -2810,12 +2802,9 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Announcements-and-Applications
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-PZAB-Board-Announcements-and-Applications-1
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Applications-Received
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Application-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LHRT-Announcements-and-Applications
@@ -2854,6 +2843,7 @@ Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
+Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
 Disallow: /My-Government/Departments/Draft/Test2
@@ -2943,6 +2933,7 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profil
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Isiaa-Jones
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
@@ -3157,11 +3148,6 @@ Disallow: /My-Home-Neighborhood/Hurricane-Guide/Hurricane-Safety-Resources
 Disallow: /My-Home-Neighborhood/Illegal-Dumping/Report-Illegal-Dumping/Report-Illegal-Dumping-Form
 Disallow: /My-Home-Neighborhood/Request-Graffiti-Removal-on-Private-Property
 Disallow: /My-Home-Neighborhood/Solve-a-Problem/Appeal-a-Warrant-or-a-Waiver
-Disallow: /My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-NRD-1
-Disallow: /My-Home-Neighborhood/Solve-a-Problem/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
-Disallow: /My-Home-Neighborhood/Solve-a-Problem/Copy-of-Appeal-a-Code-Enforcement-Ticket-a-Solid-Waste-Ticket-or-an-MPA-Valet-Ticket-1
-Disallow: /My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application
-Disallow: /My-Home-Neighborhood/Solve-a-Problem/Wynwood-NRD-1-Certificate-of-Transfer-Application-TDD
 Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
@@ -3202,7 +3188,6 @@ Disallow: /Notices/News-Notices/Test-Page-Becky-training
 Disallow: /Notices/News-Notices/Test-Press-Release
 Disallow: /Notices/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /Notices/TEST-EVENT-D1-AFTER
-Disallow: /NRD1TDD
 Disallow: /OLDRESTOREO
 Disallow: /opportunity
 Disallow: /Our-Services
@@ -3271,7 +3256,6 @@ Disallow: /planning/comprehensiveplan.html
 Disallow: /planning/docs/boards/3 UDRB Application Check List 072114 cgpw.pdf
 Disallow: /planning/docs/WDRC/WDRC_Application_Guidelines_03_23_16.pdf
 Disallow: /planning/gis.html
-Disallow: /Planning-Zoning-Land-Use/Apply-for-a-Certificate-of-Transfer-in-Wynwood-NRD-1
 Disallow: /Planning-Zoning-Land-Use/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Get-a-Liquor-License-Review
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/New-page

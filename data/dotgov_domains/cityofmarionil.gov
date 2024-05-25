@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofmarionil.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://cityofmarionil.gov/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
