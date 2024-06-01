@@ -1,2 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /
+Disallow:
+
+Sitemap: http://painesvilletownship.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

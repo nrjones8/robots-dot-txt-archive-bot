@@ -1,1 +1,17 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='fdic.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6be0ba1d00>, 'Connection to fdic.gov timed out. (connect timeout=15)'))"}
+# robots.txt for www.fdic.gov
+# February 29, 2024
+
+User-agent: *
+Disallow: /_vti_bin/  #bypassed to eliminate crawlers for getting into image maps
+Disallow: /retiree/   #bypassed to eliminate crawlers for getting into retiree pages
+Disallow: /prototypes/ #Do not crawl the prototypes folder
+Disallow: /test/ #Do not crawl the test folder
+Disallow: /forms/ #Do not crawl the forms folder
+Disallow: /resources/bankers/directors-college-program/presentations/
+Disallow: /assets/images/icons/
+Disallow: /resources/bankers/directors-college-program/
+Disallow: /resources/consumers/images/
+Disallow: /passwordreset/ 
+Disallow: /RETIREE/
+Disallow: /notindex/
+Sitemap: https://www.fdic.gov/sitemap.xml

@@ -1,1 +1,1 @@
-Got an HTML response
+User is not authorized to perform this action

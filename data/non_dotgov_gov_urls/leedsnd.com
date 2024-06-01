@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=*
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/images/*
+Sitemap: https://eastafrikadaily.com/sitemap_index.xml

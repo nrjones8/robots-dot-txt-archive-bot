@@ -58,6 +58,7 @@ Disallow: /access-denied
 Disallow: /error
 Disallow: /errors/access_error
 Disallow: /maintenance
+Disallow: /modules
 Disallow: /search-results
 Disallow: /styleguide
 Disallow: /terms/brand_standards

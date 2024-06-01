@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='calmaria.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f6be0c87490>, 'Connection to calmaria.com timed out. (connect timeout=15)'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.calmaria.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
