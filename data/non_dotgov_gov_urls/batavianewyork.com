@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='batavianewyork.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1131)')))"}

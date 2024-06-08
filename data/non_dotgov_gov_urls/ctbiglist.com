@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /mor
 Disallow: /docs/
 
-SITEMAP: https://ctbiglist.com/sitemap.xml
+SITEMAP: https://ctbiglist.gov/sitemap.xml

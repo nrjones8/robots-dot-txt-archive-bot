@@ -103,7 +103,6 @@ Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Discordbot
-Disallow: /
 Disallow: /*/plugins/*
 Disallow: /a/bz?
 Disallow: /ajax/
@@ -170,7 +169,6 @@ Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: facebookexternalhit
-Disallow: /
 Disallow: /*/plugins/*
 Disallow: /a/bz?
 Disallow: /ajax/
@@ -374,7 +372,6 @@ Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: LinkedInBot
-Disallow: /
 Disallow: /*/plugins/*
 Disallow: /a/bz?
 Disallow: /ajax/
@@ -474,7 +471,6 @@ Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: Pinterestbot
-Disallow: /
 Disallow: /*/plugins/*
 Disallow: /a/bz?
 Disallow: /ajax/
@@ -640,7 +636,6 @@ Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
 
 User-agent: TelegramBot
-Disallow: /
 Disallow: /*/plugins/*
 Disallow: /a/bz?
 Disallow: /ajax/
@@ -785,45 +780,34 @@ Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Bingbot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch
 
 User-agent: Discordbot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: DuckDuckBot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: facebookexternalhit
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
-Allow: /iap/product/?product_id=*
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: Googlebot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch
 
 User-agent: ia_archiver
 Allow: /about/privacy
@@ -836,12 +820,10 @@ Allow: /policy.php
 Allow: /safetycheck/
 
 User-agent: LinkedInBot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: msnbot
 Allow: /ajax/bootloader-endpoint/
@@ -856,20 +838,16 @@ Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: Pinterestbot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: Screaming Frog SEO Spider
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch
 
 User-agent: seznambot
 Allow: /ajax/bootloader-endpoint/
@@ -890,12 +868,10 @@ Allow: /careers/
 Allow: /safetycheck/
 
 User-agent: TelegramBot
-Allow: /*/videos/
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/
 Allow: /safetycheck/
-Allow: /watch/?v=*
 
 User-agent: Twitterbot
 Allow: /ajax/bootloader-endpoint/

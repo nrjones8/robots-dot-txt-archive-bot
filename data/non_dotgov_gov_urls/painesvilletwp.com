@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://painesvilletownship.com/sitemap_index.xml
+Sitemap: http://painesvilletwp.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

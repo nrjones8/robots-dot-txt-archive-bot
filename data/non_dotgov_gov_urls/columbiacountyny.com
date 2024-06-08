@@ -71,7 +71,6 @@ Disallow: /ofa.html
 Disallow: /http://www.ny.gov/agencies
 Disallow: /http://www.columbiacountytourism.org/
 Disallow: /managed-information-systems.html
-Disallow: /payroll.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-probation-department/
 Disallow: /https://www.columbiacountyny.com/realproperty.html
 Disallow: /http://www.columbiacountysheriff.us

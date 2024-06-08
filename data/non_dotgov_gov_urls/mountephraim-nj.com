@@ -1,8 +1,8 @@
 User-agent: *
-Disallow: /_mm/
-Disallow: /_notes/
-Disallow: /_baks/
-Disallow: /MMWIP/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-admin/
 
-User-agent: googlebot
-Disallow: *.csi
+Sitemap: https://mountephraim-nj.com/sitemap_index.xml

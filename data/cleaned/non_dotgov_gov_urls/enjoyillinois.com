@@ -6,7 +6,9 @@ Disallow: /plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download
 Disallow: /enjoyil300/racetrack/
 Disallow: /privacy-policy/removing-your-data/
 Disallow: /tourism/tourism-exchange-usa/
+Disallow: /tourism/ipw-2025/
 Disallow: /illinois-made/
+Disallow: /things-to-do/history/national-heritage-areas/
 Disallow: /favorites/
 Disallow: /server-error/
 Disallow: /page-not-found/

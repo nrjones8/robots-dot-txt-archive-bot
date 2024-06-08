@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /quicklinks/google-workspace-migration$
+Disallow: /quicklinks/google-workspace-migration?
+Disallow: /quicklinks/google-workspace-migration/~
 Disallow: /production/banners/left-banner$
 Disallow: /production/banners/left-banner?
 Disallow: /production/banners/left-banner/~
@@ -170,6 +173,9 @@ Disallow: /production/page-layout/two-column-right-sidebar/~
 Disallow: /production/page-layout/2-column-layout$
 Disallow: /production/page-layout/2-column-layout?
 Disallow: /production/page-layout/2-column-layout/~
+Disallow: /gov/common-council/subcommittees/consolidated-subcommittee$
+Disallow: /gov/common-council/subcommittees/consolidated-subcommittee?
+Disallow: /gov/common-council/subcommittees/consolidated-subcommittee/~
 Disallow: /production/organizational/four-column$
 Disallow: /production/organizational/four-column?
 Disallow: /production/organizational/four-column/~

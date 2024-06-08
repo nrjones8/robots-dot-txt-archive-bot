@@ -13,6 +13,9 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+User-agent: ClaudeBot
+Disallow: /
+
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$

@@ -70,3 +70,6 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Do not follow facets links
+Disallow: /*?f[*]=*
+Disallow: /*?f%5B*%5D=*
