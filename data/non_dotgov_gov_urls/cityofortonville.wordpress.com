@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 502}
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 410}

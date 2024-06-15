@@ -1,7 +1,3 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: https://fortmitchell.com/wp-content/uploads/wpforms/
+Crawl-delay: 30
 
-Sitemap: https://fortmitchell.com/sitemap.xml
-Sitemap: https://fortmitchell.com/sitemap.rss

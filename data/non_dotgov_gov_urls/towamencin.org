@@ -1,1 +1,35 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='towamencin.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f029de102b0>, 'Connection to towamencin.org timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /error/
+Disallow: /error
+Disallow: /my-account/
+Disallow: /my-account
+Disallow: /login/
+Disallow: /login
+Disallow: /tags/
+Disallow: /tags
+Disallow: /search/
+Disallow: /search
+Disallow: /gallery/
+Disallow: /gallery
+Disallow: /documents/
+Disallow: /documents
+Disallow: /App_Browsers/
+Disallow: /App_Data/
+Disallow: /App_Plugins/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /css/
+Disallow: /Images/
+Disallow: /Inc/
+Disallow: /install/
+Disallow: /obj/
+Disallow: /scripts/
+Disallow: /Umbraco/
+Disallow: /Umbraco_Client/
+Disallow: /Views/
+
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://towamencin.org/sitemap.xml

@@ -15,6 +15,8 @@ User-agent: PetalBot
 Disallow: /
 
 # Crawl delay for overly enthusiastic bots
+User-agent: dotbot
+Crawl-delay: 10
 User-agent: AhrefsBot
 Crawl-delay: 10
 

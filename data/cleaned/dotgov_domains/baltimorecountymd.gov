@@ -1,109 +1,72 @@
-# robots.txt for www.baltimorecountymd.gov
-# Allow Maryland Archives - revised 11/9/11
-User-agent: archive.org_bot
-Disallow:
-# reduce frequency of visits and location of search crawlers
-User-agent: teoma
-Disallow: /bin/
-Disallow: /Documents/
-Disallow: /departments/publicworks/recycling/theresource/keyword/
-Disallow: /departments/publicworks/recycling/theresource/date/
-Disallow: /MeetingsandEvents/
-Disallow: /Search/
-Disallow: /Promotions/
-Disallow: /Translate/
-Disallow: /Go/
-Disallow: /p.cfm/
-Disallow: /se/
-Disallow: /bfg/
-Disallow: /error/
-Disallow: /test/
-Disallow: /UserGuide/sitemap.html?
-Disallow: /wifiaccess/
-Disallow: /shoplifting/
-Disallow: /styleguide/
-Disallow: *?
-Disallow: /News/PoliceNews/iWatch/keyword/
-Disallow: /News/PoliceNews/iWatch/date/
-Disallow: /News/BaltimoreCountyNow/keyword/
-Disallow: /News/BaltimoreCountyNow/date/
-User-agent: Slurp
-Disallow: /bin/
-Disallow: /Documents/
-Disallow: /departments/publicworks/recycling/theresource/keyword/
-Disallow: /departments/publicworks/recycling/theresource/date/
-Disallow: /MeetingsandEvents/
-Disallow: /Search/
-Disallow: /Promotions/
-Disallow: /Translate/
-Disallow: /Go/
-Disallow: /p.cfm/
-Disallow: /se/
-Disallow: /bfg/
-Disallow: /error/
-Disallow: /test/
-Disallow: /UserGuide/sitemap.html?
-Disallow: /wifiaccess/
-Disallow: /shoplifting/
-Disallow: /styleguide/
-Disallow: *?
-Disallow: /News/PoliceNews/iWatch/keyword/
-Disallow: /News/PoliceNews/iWatch/date/
-Disallow: /News/BaltimoreCountyNow/keyword/
-Disallow: /News/BaltimoreCountyNow/date/
-User-agent: msnbot
-Disallow: /*.jpeg$
-Disallow: /bin/
-Disallow: /Documents/
-Disallow: /departments/publicworks/recycling/theresource/keyword/
-Disallow: /departments/publicworks/recycling/theresource/date/
-Disallow: /MeetingsandEvents/
-Disallow: /Search/
-Disallow: /Directory/
-Disallow: /Promotions/
-Disallow: /Translate/
-Disallow: /Go/
-Disallow: /p.cfm/
-Disallow: /se/
-Disallow: /bfg/
-Disallow: /error/
-Disallow: /test/
-Disallow: /UserGuide/sitemap.html?
-Disallow: /wifiaccess/
-Disallow: /shoplifting/
-Disallow: /styleguide/
-Disallow: *?
-Disallow: /News/PoliceNews/iWatch/keyword/
-Disallow: /News/PoliceNews/iWatch/date/
-Disallow: /News/BaltimoreCountyNow/keyword/
-Disallow: /News/BaltimoreCountyNow/date/
-	
-# stop www.picsearch.com from displaying images
-User-agent: psbot
-Disallow: /
-# all robots
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow: /bin/
-Disallow: /Documents/
-Disallow: /departments/publicworks/recycling/theresource/keyword/
-Disallow: /departments/publicworks/recycling/theresource/date/
-Disallow: /Promotions/
-Disallow: /MeetingsandEvents/
-Disallow: /Search/
-Disallow: /Translate/
-Disallow: /Go/
-Disallow: /p.cfm/
-Disallow: /se/
-Disallow: /se
-Disallow: /bfg/
-Disallow: /error/
-Disallow: /test/
-Disallow: /UserGuide/sitemap.html?
-Disallow: /wifiaccess/
-Disallow: /shoplifting/
-Disallow: /styleguide/
-Disallow: *?
-Disallow: /News/PoliceNews/iWatch/keyword/
-Disallow: /News/PoliceNews/iWatch/date/
-Disallow: /keyword/
-Disallow: /News/BaltimoreCountyNow/date/
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

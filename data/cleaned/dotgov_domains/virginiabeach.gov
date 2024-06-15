@@ -41,3 +41,6 @@ Disallow: /cache/
 # Disallow ChatGPT bot, as there's no benefit to allowing it to index your site
 User-agent: GPTBot
 Disallow: /
+# Disallow Bing bot since it is annoying us
+User-agent: bingbot
+Disallow: /

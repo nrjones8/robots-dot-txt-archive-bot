@@ -34,9 +34,11 @@ Disallow: /files/sharedassets/public/v/1/public-works/documents/3-access-permit-
 Disallow: /files/sharedassets/public/v/1/public-works/documents/3-row-road-construction-special-conditions-effective-5.2.23.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/3-utility-permit-special-conditions-effective-5.2.23.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/engineering-rfp-2024_final_4.2.2024.pdf
+Disallow: /files/sharedassets/public/v/1/public-works/documents/laramie-county-public-works-2024-holiday-schedule-final.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-permits-fee-schedule-final.docx
 Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-permits-fee-schedule-final.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/lcpw-snow-and-ice-control-policy-resolution-signed-03.19.24.pdf
+Disallow: /files/sharedassets/public/v/1/public-works/documents/msi-whitney-and-dell-range-plan-3.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/org-chart-3.13.24.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/osow-application-updated-fillable.pdf
 Disallow: /files/sharedassets/public/v/1/public-works/documents/osow-special-conditions.pdf
