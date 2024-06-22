@@ -35,3 +35,6 @@ Disallow: /
 # ImageSift's AI crawler
 User-agent: ImagesiftBot
 Disallow: /
+# Apple's AI crawler
+User-agent: Applebot-Extended
+Disallow: /

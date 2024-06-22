@@ -75,3 +75,6 @@ Disallow: /index.php/*/media/oembed
 # Do not follow facets links
 Disallow: /*?f[*]=*
 Disallow: /*?f%5B*%5D=*
+# Do not follow image download links
+Disallow: /media/image_download/*
+Disallow: /media/ngdl/download-photo/*

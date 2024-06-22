@@ -1,5 +1,13 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
+Disallow: /wp-login.php
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 600
 
-Sitemap: https://www.parentcenterhub.org/wp-sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://www.parentcenterhub.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

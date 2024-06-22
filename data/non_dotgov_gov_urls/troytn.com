@@ -1,8 +1,1 @@
-User-agent: *
-Allow: /*
-Disallow: /admin/*
-Disallow: /api/*
-
-Sitemap: https://troytn.com/sitemap.xml
-Host: https://troytn.com/
-      
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

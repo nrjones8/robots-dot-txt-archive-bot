@@ -1,7 +1,7 @@
 User-agent: *
 Disallow: /
 User-agent: GoogleBot
-Disallow: /*?
+#Disallow: /*?
 Disallow: /administrator/
 Disallow: /bin/
 Disallow: /cache/
@@ -18,11 +18,11 @@ Disallow: /plugins/
 Disallow: /tmp/
 Disallow: /images/
 Disallow: /marriage-licenses/
-Crawl-delay: 10
 Allow: *.css
 Allow: *.js
+Allow: /images/sitemap.xml
 User-agent: GoogleBot-Mobile
-Disallow: /*?
+#Disallow: /*?
 Disallow: /administrator/
 Disallow: /bin/
 Disallow: /cache/
@@ -39,11 +39,11 @@ Disallow: /plugins/
 Disallow: /tmp/
 Disallow: /images/
 Disallow: /marriage-licenses/
-Crawl-delay: 10
 Allow: *.css
 Allow: *.js
+Allow: /images/sitemap.xml
 User-agent: Slurp
-Disallow: /*?
+#Disallow: /*?
 Disallow: /administrator/
 Disallow: /bin/
 Disallow: /cache/
@@ -60,6 +60,6 @@ Disallow: /plugins/
 Disallow: /tmp/
 Disallow: /images/
 Disallow: /marriage-licenses/
-Crawl-delay: 10
 Allow: *.css
 Allow: *.js
+Allow: /images/sitemap.xml

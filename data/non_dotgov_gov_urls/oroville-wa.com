@@ -1,19 +1,5 @@
 User-agent: *
-Disallow: /blocks 
-Disallow: /concrete 
-Disallow: /config 
-Disallow: /controllers 
-Disallow: /css 
-Disallow: /elements 
-Disallow: /helpers 
-Disallow: /jobs 
-Disallow: /js 
-Disallow: /languages 
-Disallow: /libraries 
-Disallow: /mail 
-Disallow: /models 
-Disallow: /packages 
-Disallow: /single_pages 
-Disallow: /themes 
-Disallow: /tools
-Disallow: /updates
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://oroville-wa.com/wp-sitemap.xml

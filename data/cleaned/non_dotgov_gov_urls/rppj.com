@@ -1,5 +1,3 @@
-# Using modified WPForms Hook
-User-agent: *
 Disallow: /wp-content/uploads/wpforms/
 # START YOAST BLOCK
 # ---------------------------

@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+Sitemap: https://stjohnin.gov/sitemap.xml
+Sitemap: https://stjohnin.gov/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

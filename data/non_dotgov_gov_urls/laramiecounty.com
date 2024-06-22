@@ -2,6 +2,7 @@ User-agent: *
 
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/County-Departments/Public-Works/Org-Chart/Meet-the-Team-gallery
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/County-Departments/Public-Works/Org-Chart/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/Elected-Officials/Copy-of-County-Commissioners-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/Elected-Officials/County-Clerk/Elections-Old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/Elected-Officials/Elections-Old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/County-Government/Elected-Officials/Old-County-Commissioners
@@ -11,7 +12,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Blank-5
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Blank-6
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Catering-Permit
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Copy-of-Catering-Permit-1
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Copy-of-Commissioner-Meeting-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Copy-of-Event-Booking-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Copy-of-Vine-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Home/Do-it-online/Event-Booking
@@ -21,9 +21,9 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Image-Galleries/Meet-the-Team-
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Image-Galleries/PW-Meet-the-Team-gallery
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Sandbox
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/A-Z-Index
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Copy-of-Sitemap-1
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/Meet-the-Team-gallery
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/New-page
+Disallow: /County-Government/Elected-Officials/Copy-of-County-Commissioners-1
 Disallow: /County-Government/Elected-Officials/County-Clerk/Elections-Old
 Disallow: /County-Government/Elected-Officials/Elections-Old
 Disallow: /County-Government/Elected-Officials/Old-County-Commissioners
@@ -53,7 +53,6 @@ Disallow: /Home/Do-it-online/Blank-5
 Disallow: /Home/Do-it-online/Blank-6
 Disallow: /Home/Do-it-online/Catering-Permit
 Disallow: /Home/Do-it-online/Copy-of-Catering-Permit-1
-Disallow: /Home/Do-it-online/Copy-of-Commissioner-Meeting-1
 Disallow: /Home/Do-it-online/Copy-of-Event-Booking-1
 Disallow: /Home/Do-it-online/Copy-of-Vine-1
 Disallow: /Home/Do-it-online/Event-Booking
@@ -63,5 +62,4 @@ Disallow: /Image-Galleries/Meet-the-Team-gallery
 Disallow: /Image-Galleries/PW-Meet-the-Team-gallery
 Disallow: /Sandbox
 Disallow: /Site-Footer/Sub-Footer-Links/A-Z-Index
-Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Sitemap-1
 Sitemap : https://www.laramiecountywy.gov/sitemap.xml

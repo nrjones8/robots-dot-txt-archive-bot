@@ -1,3 +1,4 @@
 User-agent: *
-Disallow:
-Sitemap: https://www.wvhdf.com/sitemap_index.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.wvhdf.com/wp-sitemap.xml
