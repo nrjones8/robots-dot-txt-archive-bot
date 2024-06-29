@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /efile/documentViewer.php
+Got an HTML response

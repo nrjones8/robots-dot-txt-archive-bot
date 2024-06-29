@@ -17,10 +17,10 @@ Disallow: /about.html
 Disallow: /https://michigantownshipservices.secureserversites.net/city-of-saugatuck
 Disallow: /https://www.saugatuckdouglasartclub.org/
 Disallow: /https://www.sdhistoricalsociety.org
+Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
 Disallow: /https://www.saugatuckfire.org
 Disallow: /https://klswa.com
-Disallow: /links.html
 Disallow: /https://saugatuckpublicschools.com
+Disallow: /links.html
 Disallow: /https://bsaonline.com/?uid=126
-Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
 Disallow: /https://saugatuck.com

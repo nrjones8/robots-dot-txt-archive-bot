@@ -1,6 +1,3 @@
-
-
-
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

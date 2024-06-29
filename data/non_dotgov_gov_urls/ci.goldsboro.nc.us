@@ -1,7 +1,1 @@
-
-
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.goldsboronc.gov/wp-sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ci.goldsboro.nc.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f65205caee0>, 'Connection to ci.goldsboro.nc.us timed out. (connect timeout=15)'))"}

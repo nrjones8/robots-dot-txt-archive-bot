@@ -1,1 +1,12 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+#Robots.txt for blosso.co.in
+
+User-agent: *
+
+Disallow: /tag/
+Disallow: /category/
+Disallow: /author/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /~joe/
+
+sitemap: http://www.blossom.co.in/sitemap.xml

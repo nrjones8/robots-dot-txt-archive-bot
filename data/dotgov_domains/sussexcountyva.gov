@@ -1,1 +1,13 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.sussexcountyva.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd1bf1af550>, 'Connection to www.sussexcountyva.gov timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /admin
+Disallow: /content/print/
+Disallow: /index/print/
+Disallow: /news/index/print/
+Disallow: /events/index/print/
+Disallow: /blog/index/print/
+Disallow: /staff/index/print/
+Disallow: /departments/index/print/
+Disallow: /events/index/add-to-cal/
+Disallow: /uploads/cares/*
+
+Sitemap: https://www.sussexcountyva.gov/sitemap/xml

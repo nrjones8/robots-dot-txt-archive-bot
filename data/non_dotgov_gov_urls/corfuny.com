@@ -1,3 +1,1 @@
-User-Agent: *
-Allow: 
-Sitemap: http://www.corfuny.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='corfuny.com', port=80): Read timed out. (read timeout=15)"}

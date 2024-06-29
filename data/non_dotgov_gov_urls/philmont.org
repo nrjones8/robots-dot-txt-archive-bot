@@ -1,11 +1,5 @@
-Sitemap: https://philmont.org/sitemap.xml
-Sitemap: https://philmont.org/sitemap.rss
-
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://philmont.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://philmont.org/sitemap.xml

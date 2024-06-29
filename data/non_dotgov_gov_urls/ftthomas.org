@@ -3,3 +3,9 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://fortthomasky.org/sitemap_index.xml
+User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole
+User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole

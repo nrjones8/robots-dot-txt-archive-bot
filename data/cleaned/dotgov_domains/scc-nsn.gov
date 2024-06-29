@@ -1,1 +1,9 @@
-Got an HTML response
+#Robots.txt for blosso.co.in
+User-agent: *
+Disallow: /tag/
+Disallow: /category/
+Disallow: /author/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /~joe/
+sitemap: http://www.blossom.co.in/sitemap.xml

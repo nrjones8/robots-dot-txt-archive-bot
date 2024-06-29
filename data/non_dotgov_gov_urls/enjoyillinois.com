@@ -5,7 +5,10 @@ Disallow: /dev
 Disallow: /plan-your-trip/maps-and-visitor-guides/fulfilment-submission-download/
 Disallow: /enjoyil300/racetrack/
 Disallow: /privacy-policy/removing-your-data/
+Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/northern-illinois-wineries/
+Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/southern-illinois-wineries/
 Disallow: /tourism/tourism-exchange-usa/
+Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/central-illinois-wineries/
 Disallow: /tourism/ipw-2025/
 Disallow: /illinois-made/
 Disallow: /things-to-do/history/national-heritage-areas/

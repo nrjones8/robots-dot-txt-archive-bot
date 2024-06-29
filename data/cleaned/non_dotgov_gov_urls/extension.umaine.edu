@@ -1,7 +1,11 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-## For Events Calendar
+# Block search results
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search
+# For Events Calendar
 Disallow: *post_type=tribe_events*
 Disallow: *hide_subsequent_recurrences=*
 Disallow: *tribe-bar-date=*
