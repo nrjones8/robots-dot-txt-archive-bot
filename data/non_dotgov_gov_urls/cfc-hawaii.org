@@ -1,1 +1,28 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /search/
+Disallow: /cart/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+
+User-agent: GoogleBot
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /search/
+Disallow: /cart/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+Allow: /plugins/*.css
+Allow: /plugins/*.js
+Allow: /plugins/*.png
+Allow: /plugins/*.jpg
+Allow: /plugins/*.gif
+
+
+Sitemap: https://cfc-hawaii.org/sitemap.xml
+Host: cfc-hawaii.org

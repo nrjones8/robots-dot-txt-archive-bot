@@ -1,5 +1,10 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: http://springfield-or.gov/wp-sitemap.xml
+Sitemap: https://springfield-or.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://springfield-or.gov/sitemap.xml
+Sitemap: https://springfield-or.gov/sitemap.html

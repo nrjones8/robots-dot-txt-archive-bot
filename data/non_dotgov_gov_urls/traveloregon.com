@@ -21,6 +21,15 @@ Disallow: /search/
 Disallow: /wp-json/
 Disallow: /?rest_route=
 
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: https://traveloregon.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

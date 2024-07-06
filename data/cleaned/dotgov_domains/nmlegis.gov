@@ -1,1 +1,7 @@
-Request failed
+User-agent: Googlebot 
+Disallow: /signalr/
+Disallow: /*.axd
+User-agent: AhrefsBot 
+Crawl-Delay: 2
+User-agent: *
+Disallow: /*.axd

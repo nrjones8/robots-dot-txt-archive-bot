@@ -10,12 +10,12 @@ User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
 Disallow: /leo--detention-training.html
-Disallow: /https://www.okacco.com/events.html
 Disallow: /https://www.okacco.com/grants.html
+Disallow: /https://www.okacco.com/events.html
 Disallow: /https://naco.org
 Disallow: /https://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&&jsenabled=1&winh=920&winw=1920&inifr=false
-Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/cc-form-2__secured__eff_4-18-18-1.pdf
 Disallow: /https://www.okacco.com/about-acco.html
+Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/cc-form-2__secured__eff_4-18-18-1.pdf
 Disallow: /members.html
 Disallow: /https://www.okacco.com/uploads/1/2/1/4/121468201/wc_reporting_guidelines_2024.pdf
 Disallow: /https://www.okacco.com/policies--procedures.html

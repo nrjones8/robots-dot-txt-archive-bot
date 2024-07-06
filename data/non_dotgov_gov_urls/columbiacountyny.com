@@ -73,7 +73,6 @@ Disallow: /http://www.ny.gov/agencies
 Disallow: /http://www.columbiacountytourism.org/
 Disallow: /managed-information-systems.html
 Disallow: /https://sites.google.com/a/columbiacountyny.com/columbia-county-probation-department/
-Disallow: /https://www.columbiacountyny.com/realproperty.html
 Disallow: /http://www.columbiacountysheriff.us
 Disallow: /sheriffs-office-and-public-safety.html
 Disallow: /https://agriculture.ny.gov/location/columbia-county-swcd-office

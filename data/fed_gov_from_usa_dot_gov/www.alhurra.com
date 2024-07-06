@@ -24,9 +24,15 @@ Allow: /
 Disallow: /z/
 
 User-agent: Twitterbot
-Disallow:
+Allow: /
 
 User-agent: RavenCrawler
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Instagram
 Allow: /
 
 # See the following for multiple sitemap lines:

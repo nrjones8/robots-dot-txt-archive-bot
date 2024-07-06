@@ -107,6 +107,7 @@ Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Leadership-and
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Leadership-and-Staff/Communications/Communications-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Leadership-and-Staff/Communications/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Learn-and-Engage/Subscribe-to-Dunedin-News/2023-DunediNews/Week-of-Oct.-5-11
+Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Your-Government/Sustainability-Environment/Sustainable-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Sustainability-Resiliency/Copy-of-Sustainable-Background-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Your-Government/Sustainability-Resiliency/Sustainable-Background
 Disallow: /About-Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
@@ -216,6 +217,7 @@ Disallow: /Your-Government/Leadership-and-Staff/City-Manager/Managers-Update
 Disallow: /Your-Government/Leadership-and-Staff/Communications/Communications-Background
 Disallow: /Your-Government/Leadership-and-Staff/Communications/New-page
 Disallow: /Your-Government/Learn-and-Engage/Subscribe-to-Dunedin-News/2023-DunediNews/Week-of-Oct.-5-11
+Disallow: /Your-Government/Sustainability-Environment/Sustainable-Background
 Disallow: /Your-Government/Sustainability-Resiliency/Copy-of-Sustainable-Background-1
 Disallow: /Your-Government/Sustainability-Resiliency/Sustainable-Background
 Sitemap : https://www.dunedingov.com/sitemap.xml

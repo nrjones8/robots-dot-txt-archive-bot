@@ -38,3 +38,6 @@ Disallow: /
 # Apple's AI crawler
 User-agent: Applebot-Extended
 Disallow: /
+# TurnitinBot crawler
+User-agent: TurnitinBot
+Disallow: /

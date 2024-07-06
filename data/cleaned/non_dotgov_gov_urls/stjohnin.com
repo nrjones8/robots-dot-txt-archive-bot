@@ -3,3 +3,4 @@ Sitemap: https://stjohnin.gov/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpforms/

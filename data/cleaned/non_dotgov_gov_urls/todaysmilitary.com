@@ -11,7 +11,7 @@
 # Ignored: http://example.com/site/robots.txt
 #
 # For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html 
+# http://www.robotstxt.org/robotstxt.html
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
@@ -36,27 +36,37 @@ Allow: /profiles/*.svg
 Disallow: /core/
 Disallow: /profiles/
 # Files
-Disallow: /README.txt
+Disallow: /README.md
+Disallow: /composer/Metapackage/README.txt
+Disallow: /composer/Plugin/ProjectMessage/README.md
+Disallow: /composer/Plugin/Scaffold/README.md
+Disallow: /composer/Plugin/VendorHardening/README.txt
+Disallow: /composer/Template/README.txt
+Disallow: /modules/README.txt
+Disallow: /sites/README.txt
+Disallow: /themes/README.txt
 Disallow: /web.config
 # Paths (clean URLs)
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-Disallow: /search
-Disallow: /views/ajax
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
-Disallow: /index.php/user/password/
-Disallow: /index.php/user/register/
-Disallow: /index.php/user/login/
-Disallow: /index.php/user/logout/
-Sitemap: https://www.todaysmilitary.com/sitemap.xml
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

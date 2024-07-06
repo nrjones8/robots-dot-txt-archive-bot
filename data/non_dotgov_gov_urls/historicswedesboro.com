@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='historicswedesboro.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f65211888e0>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
+User-agent: *
+Disallow: /about/calendar/action~posterboard/
+Disallow: /about/calendar/action~agenda/
+Disallow: /about/calendar/action~oneday/
+Disallow: /about/calendar/action~month/
+Disallow: /about/calendar/action~week/
+Disallow: /about/calendar/action~stream/

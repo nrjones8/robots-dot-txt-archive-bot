@@ -1,2 +1,15 @@
-User-Agent: *
+# WordPress Blocking.
+User-agent: *
+Disallow: /wp-admin/
 Disallow: /wp-json
+Allow: /wp-admin/admin-ajax.php
+# Custom Page Blocking
+User-agent: *
+Disallow: /utilities-slider/
+Sitemap: https://www.como.gov/wp-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+# ---------------------------
+# END YOAST BLOCK

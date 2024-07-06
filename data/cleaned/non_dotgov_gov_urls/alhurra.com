@@ -20,8 +20,12 @@ User-agent: Googlebot
 Allow: /
 Disallow: /z/
 User-agent: Twitterbot
-Disallow:
+Allow: /
 User-agent: RavenCrawler
+Allow: /
+User-agent: facebookexternalhit
+Allow: /
+User-agent: Instagram
 Allow: /
 # See the following for multiple sitemap lines:
 # https://developers.google.com/search/reference/robots_txt#google-supported-non-group-member-lines
