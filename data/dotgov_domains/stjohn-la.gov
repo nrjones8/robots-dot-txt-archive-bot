@@ -9,6 +9,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Comm
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-001
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/Contracts
@@ -51,6 +52,7 @@ Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/Donation
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-001
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/New-page
+Disallow: /Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /Departments/Purchasing-and-Procurement/Contracts

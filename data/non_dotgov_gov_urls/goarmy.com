@@ -1,8 +1,1 @@
-User-Agent: *
-Disallow: /*?*
-Disallow: /.html.html
-Disallow: /a/*
-Disallow: /thank-you/*
-Disallow: /es/gracias/*
-
-Sitemap: https://www.goarmy.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.goarmy.com', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8d6bce7850>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

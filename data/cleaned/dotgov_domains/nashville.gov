@@ -61,6 +61,9 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 Disallow: /admin/login
 Disallow: /saml_error
+Disallow: /ajax/nt-alerts
+Disallow: /ajax/nt-alerts/*
+Disallow: /proxy-request/*
 # Slow down GovDelivery crawler rate
 User-agent: GovDelivery Evolution PageWatcher
 Crawl-delay: 1

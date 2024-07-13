@@ -1,5 +1,1 @@
-User-agent: *
-Allow: /
-Disallow: /?*
-Disallow: /_zc
-Crawl-delay: 120
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

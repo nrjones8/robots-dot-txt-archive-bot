@@ -1,40 +1,8 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: CCBot
-Disallow: /admin/
-Disallow: /manager/
-
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /
+Disallow:
 
-Crawl-delay: 10
-
-
-Sitemap: http://cityofbirchwood.com/sitemap.xml
+Sitemap: https://cityofbirchwood.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='havredegracemd.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://havredegracemd.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

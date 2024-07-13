@@ -1,1 +1,4 @@
-Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: http://bonneterre.net/sitemap.xml.gz

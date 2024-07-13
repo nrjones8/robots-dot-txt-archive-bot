@@ -1,8 +1,8 @@
-# Default robots file version:2
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+Disallow:
+
+Sitemap: https://canbymn.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
