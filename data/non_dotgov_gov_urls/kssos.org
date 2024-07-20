@@ -1,1 +1,10 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Disallow: /index.html
+Disallow: /elections/voter-information.html/
+Disallow: /general-services/notary.html/
+Disallow: /business/business.html/
+Disallow: /publications/session-laws.html/
+Disallow: /general-services/ucc-filing-information.html/
+Disallow: /elections/elections-resources.html/
+Disallow: /publications/kansas-register.html/
+Disallow: /elections/election-statistics-data.html/

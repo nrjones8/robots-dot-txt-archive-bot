@@ -9,7 +9,6 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /leo--detention-training.html
 Disallow: /https://www.okacco.com/grants.html
 Disallow: /https://www.okacco.com/events.html
 Disallow: /https://naco.org
@@ -24,5 +23,4 @@ Disallow: /http://www.calendarwiz.com/calendars/calendar.php?crd=myokacco&PHPSES
 Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/12-2-22-final_2022_county_commissioner_handbook.pdf
 Disallow: /https://eriskhub.com/acco
 Disallow: /https://extension.okstate.edu/programs/county-government-training-program/site-files/docs/2022-county-purchasing-handbook.pdf
-Disallow: /new-officer-portal.html
 Disallow: /https://www.occedb.org/

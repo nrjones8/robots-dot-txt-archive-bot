@@ -12,7 +12,6 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-# Generated From UI 
 
 User-agent: *
 # CSS, JS, Images
@@ -50,34 +49,17 @@ Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login
 Disallow: /user/logout
-Disallow: /search/site?content=*
-Disallow: /diseases-conditions?search_term=*
-Disallow: /programs-directory?title=*
-
+Disallow: /media/oembed
+Disallow: /*/media/oembed
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
 Disallow: /index.php/filter/tips
 Disallow: /index.php/node/add/
 Disallow: /index.php/search/
-Disallow: /index.php/search/site?content=*
-Disallow: /index.php/diseases-conditions?search_term=*
-Disallow: /index.php/programs-directory?title=*
 Disallow: /index.php/user/password
 Disallow: /index.php/user/register
 Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
-#Sitemap Config
-Sitemap: /sitemap.xml
-
-User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-Disallow: /
-
-User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-Disallow: /
-
-User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43
-Disallow: /
-
-User-agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1
-Disallow: /
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed

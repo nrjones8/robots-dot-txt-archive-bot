@@ -8,6 +8,8 @@ User-agent: Google-Extended
 User-agent: FacebookBot
 User-agent: Claude-Web
 User-agent: cohere-ai
+User-agent: PerplexityBot
+User-agent: Applebot-Extended
 User-agent: AdsBot-Google
 User-agent: AdsBot-Google-Mobile
 User-agent: AdsBot-Google-Mobile-Apps

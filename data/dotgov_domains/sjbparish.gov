@@ -9,7 +9,10 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Comm
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-001
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Community-Programs/Banner-1/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/New-page-1
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/PR-Featured-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Purchasing-and-Procurement/Contracts
@@ -42,6 +45,9 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/New-page-7
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Parks-Recreation-Background
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/PR
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Visitors/Accommodations
 Disallow: /Calendar
 Disallow: /Departments/Communications/Background-1
@@ -52,7 +58,10 @@ Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/Donation
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-001
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/FP-002
 Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/New-page
+Disallow: /Departments/Parks-and-Recreation/New-page
+Disallow: /Departments/Parks-and-Recreation/New-page-1
 Disallow: /Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
+Disallow: /Departments/Parks-and-Recreation/PR-Featured-Background
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps/Flood-Maps-old
 Disallow: /Departments/Planning-and-Zoning/Flood-Maps-old
 Disallow: /Departments/Purchasing-and-Procurement/Contracts
@@ -92,5 +101,8 @@ Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew4
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
+Disallow: /TRAINING/New-page-7
+Disallow: /TRAINING/Parks-Recreation-Background
+Disallow: /TRAINING/PR
 Disallow: /Visitors/Accommodations
 Sitemap : https://www.sjbparish.gov/sitemap.xml

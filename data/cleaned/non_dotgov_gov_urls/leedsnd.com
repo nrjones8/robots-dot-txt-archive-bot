@@ -19,4 +19,4 @@ Disallow: */feed/
 #Googlebot-News
 User-agent: Googlebot-News
 Allow: */feed/
-Sitemap: http://mairiepiedicorte.com/sitemap_index.xml
+Sitemap: https://mairiepiedicorte.com/sitemap_index.xml

@@ -1,1 +1,12 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+User-agent: AdsBot
+Disallow: /
+
+Sitemap: https://www.greensboromd.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

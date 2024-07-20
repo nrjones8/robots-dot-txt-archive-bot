@@ -3,6 +3,18 @@
 # and may only be conducted for the limited purpose contained in said
 # permission.
 # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: Applebot
 Disallow: /*/plugins/*
 Disallow: /?*next=
@@ -36,40 +48,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
-
-User-agent: baiduspider
-Disallow: /*/plugins/*
-Disallow: /?*next=
-Disallow: /a/bz?
-Disallow: /ajax/
-Disallow: /album.php
-Disallow: /checkpoint/
-Disallow: /contact_importer/
-Disallow: /dialog/
-Disallow: /fbml/ajax/dialog/
-Disallow: /feeds/
-Disallow: /file_download.php
-Disallow: /job_application/
-Disallow: /l.php
-Disallow: /login.php*&next=
-Disallow: /login.php/?next=
-Disallow: /login.php?next=
-Disallow: /login/*&next=
-Disallow: /login/?next=
-Disallow: /login/device-based/regular/login/*&next=
-Disallow: /login/device-based/regular/login/?next=
-Disallow: /moments_app/
-Disallow: /p.php
-Disallow: /photos.php
-Disallow: /plugins/
-Disallow: /share.php
-Disallow: /share/
-Disallow: /sharer.php
-Disallow: /sharer/
-Disallow: /tr/
-Disallow: /tr?
-Disallow: /ufi/reaction/profile/browser/
-Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Bingbot
 Disallow: /*/plugins/*
@@ -104,6 +86,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Discordbot
 Disallow: /*/plugins/*
@@ -138,6 +124,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: DuckDuckBot
 Disallow: /*/plugins/*
@@ -172,6 +162,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: facebookexternalhit
 Disallow: /*/plugins/*
@@ -206,6 +200,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Googlebot
 Disallow: /*/plugins/*
@@ -240,41 +238,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
-
-User-agent: Google-Extended
-Disallow: /
-Disallow: /*/plugins/*
-Disallow: /?*next=
-Disallow: /a/bz?
-Disallow: /ajax/
-Disallow: /album.php
-Disallow: /checkpoint/
-Disallow: /contact_importer/
-Disallow: /dialog/
-Disallow: /fbml/ajax/dialog/
-Disallow: /feeds/
-Disallow: /file_download.php
-Disallow: /job_application/
-Disallow: /l.php
-Disallow: /login.php*&next=
-Disallow: /login.php/?next=
-Disallow: /login.php?next=
-Disallow: /login/*&next=
-Disallow: /login/?next=
-Disallow: /login/device-based/regular/login/*&next=
-Disallow: /login/device-based/regular/login/?next=
-Disallow: /moments_app/
-Disallow: /p.php
-Disallow: /photos.php
-Disallow: /plugins/
-Disallow: /share.php
-Disallow: /share/
-Disallow: /sharer.php
-Disallow: /sharer/
-Disallow: /tr/
-Disallow: /tr?
-Disallow: /ufi/reaction/profile/browser/
-Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Googlebot-Image
 Disallow: /*/plugins/*
@@ -311,76 +278,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
-
-User-agent: GPTBot
-Disallow: /
-Disallow: /*/plugins/*
-Disallow: /?*next=
-Disallow: /a/bz?
-Disallow: /ajax/
-Disallow: /album.php
-Disallow: /checkpoint/
-Disallow: /contact_importer/
-Disallow: /dialog/
-Disallow: /fbml/ajax/dialog/
-Disallow: /feeds/
-Disallow: /file_download.php
-Disallow: /job_application/
-Disallow: /l.php
-Disallow: /login.php*&next=
-Disallow: /login.php/?next=
-Disallow: /login.php?next=
-Disallow: /login/*&next=
-Disallow: /login/?next=
-Disallow: /login/device-based/regular/login/*&next=
-Disallow: /login/device-based/regular/login/?next=
-Disallow: /moments_app/
-Disallow: /p.php
-Disallow: /photos.php
-Disallow: /plugins/
-Disallow: /share.php
-Disallow: /share/
-Disallow: /sharer.php
-Disallow: /sharer/
-Disallow: /tr/
-Disallow: /tr?
-Disallow: /ufi/reaction/profile/browser/
-Disallow: /x/oauth/
-
-User-agent: ia_archiver
-Disallow: /
-Disallow: /*/plugins/*
-Disallow: /?*next=
-Disallow: /a/bz?
-Disallow: /ajax/
-Disallow: /album.php
-Disallow: /checkpoint/
-Disallow: /contact_importer/
-Disallow: /dialog/
-Disallow: /fbml/ajax/dialog/
-Disallow: /feeds/
-Disallow: /file_download.php
-Disallow: /job_application/
-Disallow: /l.php
-Disallow: /login.php*&next=
-Disallow: /login.php/?next=
-Disallow: /login.php?next=
-Disallow: /login/*&next=
-Disallow: /login/?next=
-Disallow: /login/device-based/regular/login/*&next=
-Disallow: /login/device-based/regular/login/?next=
-Disallow: /moments_app/
-Disallow: /p.php
-Disallow: /photos.php
-Disallow: /plugins/
-Disallow: /share.php
-Disallow: /share/
-Disallow: /sharer.php
-Disallow: /sharer/
-Disallow: /tr/
-Disallow: /tr?
-Disallow: /ufi/reaction/profile/browser/
-Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: LinkedInBot
 Disallow: /*/plugins/*
@@ -415,6 +316,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: msnbot
 Disallow: /*/plugins/*
@@ -449,6 +354,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Naverbot
 Disallow: /*/plugins/*
@@ -483,6 +392,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Pinterestbot
 Disallow: /*/plugins/*
@@ -517,6 +430,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Screaming Frog SEO Spider
 Disallow: /*/plugins/*
@@ -551,6 +468,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: seznambot
 Disallow: /*/plugins/*
@@ -585,6 +506,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Slurp
 Disallow: /*/plugins/*
@@ -619,6 +544,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: teoma
 Disallow: /*/plugins/*
@@ -653,6 +582,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: TelegramBot
 Disallow: /*/plugins/*
@@ -687,6 +620,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Twitterbot
 Disallow: /*/plugins/*
@@ -721,6 +658,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Yandex
 Disallow: /*/plugins/*
@@ -755,6 +696,10 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
 
 User-agent: Yeti
 Disallow: /*/plugins/*
@@ -789,126 +734,6 @@ Disallow: /tr/
 Disallow: /tr?
 Disallow: /ufi/reaction/profile/browser/
 Disallow: /x/oauth/
-
-User-agent: Applebot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: baiduspider
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Bingbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Discordbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: DuckDuckBot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: facebookexternalhit
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Googlebot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: ia_archiver
-Allow: /about/privacy
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /full_data_use_policy
-Allow: /legal/terms
-Allow: /policy.php
-Allow: /safetycheck/
-
-User-agent: LinkedInBot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: msnbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Naverbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Pinterestbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Screaming Frog SEO Spider
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: seznambot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Slurp
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: teoma
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: TelegramBot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Twitterbot
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Yandex
-Allow: /ajax/bootloader-endpoint/
-Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
-Allow: /careers/
-Allow: /safetycheck/
-
-User-agent: Yeti
 Allow: /ajax/bootloader-endpoint/
 Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
 Allow: /careers/

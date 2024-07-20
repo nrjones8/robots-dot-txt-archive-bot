@@ -14,4 +14,4 @@ User-agent: MJ12bot
 User-agent: AhrefsBot
 Disallow: /
 
-SITEMAP: http://www.redfield-sd.com/sitemap.xml
+SITEMAP: https://www.redfield-sd.com/sitemap.xml
