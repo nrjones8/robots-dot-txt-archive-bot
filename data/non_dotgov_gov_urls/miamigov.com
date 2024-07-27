@@ -44,6 +44,7 @@ Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Featured-Content
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slider
 Disallow: /$5A61AD66-C66D-466C-BD5C-2526827C9ED6$/Home/Slideshow
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/City-of-Miami-re-opens-Tower-Theater
+Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/City-of-Miami-Tower-Theater
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/Copy-of-City-of-Miami-re-opens-Tower-Theater-1
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Slideshow/New-page
 Disallow: /$5a61ad66-c66d-466c-bd5c-2526827c9ed6$/Home/Tabs
@@ -900,10 +901,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Comm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/Connecting-Miami-I-395-Underdeck-and-Heritage-Trail
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/The-Underdeck-Program-I-395-and-Heritage-Trail
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Draft/Test
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Draft/Test2
@@ -2865,10 +2863,7 @@ Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
-Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/Connecting-Miami-I-395-Underdeck-and-Heritage-Trail
 Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
-Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/New-page
-Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/The-Underdeck-Program-I-395-and-Heritage-Trail
 Disallow: /My-Government/Departments/Draft
 Disallow: /My-Government/Departments/Draft/Test
 Disallow: /My-Government/Departments/Draft/Test2
@@ -3785,6 +3780,7 @@ Disallow: /towertheater/Home/Featured-Content
 Disallow: /towertheater/Home/Slider
 Disallow: /towertheater/Home/Slideshow
 Disallow: /towertheater/Home/Slideshow/City-of-Miami-re-opens-Tower-Theater
+Disallow: /towertheater/Home/Slideshow/City-of-Miami-Tower-Theater
 Disallow: /towertheater/Home/Slideshow/Copy-of-City-of-Miami-re-opens-Tower-Theater-1
 Disallow: /towertheater/Home/Slideshow/New-page
 Disallow: /towertheater/Home/Tabs

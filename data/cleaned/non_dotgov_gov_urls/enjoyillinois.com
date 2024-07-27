@@ -9,7 +9,6 @@ Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/northern-illinois-
 Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/southern-illinois-wineries/
 Disallow: /tourism/tourism-exchange-usa/
 Disallow: /things-to-do/food-and-drink/wineries-and-vineyards/central-illinois-wineries/
-Disallow: /illinois-made/
 Disallow: /favorites/
 Disallow: /server-error/
 Disallow: /page-not-found/

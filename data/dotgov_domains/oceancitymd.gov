@@ -1,4 +1,27 @@
+# Allow all bots to access the main site
 User-agent: *
-Crawl-delay: 10
-Disallow: /*blackhole
-Disallow: /?blackhole
+Disallow:
+
+# Block access to sensitive directories
+Disallow: /GIS/
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /scripts/
+
+# Block access to specific file types
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.xls$
+Disallow: /*.txt$
+
+# Allow access to all public content
+Allow: /public/
+Allow: /images/
+Allow: /news/
+
+# Specify the location of the sitemap
+Sitemap: https://oceancitymd.gov/sitemap.xml
+

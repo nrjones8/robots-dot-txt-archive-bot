@@ -15,6 +15,7 @@ Disallow: /http://www.glenelder.com/waconda-lake.html
 Disallow: /hmpg-header-storage.html
 Disallow: /no-events-posted.html
 Disallow: /http://www.glenelder.com/history.html
+Disallow: /2024-motorcycle--car-run.html
 Disallow: /glen-elder-shirts.html
 Disallow: /home-2.html
 Disallow: /election-information.html

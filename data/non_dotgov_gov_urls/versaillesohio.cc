@@ -14,4 +14,4 @@ Allow: /sitemap.xml
 User-agent: spambot
 Disallow: /
 
-Sitemap: https://unik4di.org/sitemap.xml
+Sitemap: https://unik4da.id/sitemap.xml

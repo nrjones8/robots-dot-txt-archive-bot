@@ -3,16 +3,28 @@
 # and may only be conducted for the limited purpose contained in said
 # permission.
 # See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+User-agent: Amazonbot
+Disallow: /
+
 User-agent: Applebot-Extended
 Disallow: /
 
 User-agent: ClaudeBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
 User-agent: GPTBot
 Disallow: /
 
-User-agent: Google-Extended
+User-agent: PetalBot
+Disallow: /
+
+User-agent: viberbot
+Disallow: /
+
+User-agent: YaK
 Disallow: /
 
 User-agent: Applebot

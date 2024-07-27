@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='wpnj.us', port=80): Read timed out. (read timeout=15)"}
+User-Agent: *
+Disallow: /qscendpublic/
+Disallow: /qcore/
+Disallow: /qcontent/
+Disallow: /qalert/
+Disallow: /qscheduler/
+Disallow: /qpolling/
+Disallow: /qnotify/
+Disallow: /qforms/
+Disallow: /qcore/
+Disallow: /content/search.aspx

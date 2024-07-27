@@ -22,4 +22,4 @@ Disallow: */feed/
 User-agent: Googlebot-News
 Allow: */feed/
 
-Sitemap: https://mairiepiedicorte.com/sitemap_index.xml
+Sitemap: https://iranneeds.com/sitemap_index.xml

@@ -1,3 +1,1 @@
-user-agent: *
-Allow: /$
-Disallow: /
+Request failed
