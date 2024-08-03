@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+
+User-agent: GPTBot
+Disallow: /

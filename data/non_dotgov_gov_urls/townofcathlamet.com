@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+Sitemap: https://www.townofcathlamet.com/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /versions/2/include/
+Disallow: /versions/2/wizard/

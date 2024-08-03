@@ -1,11 +1,2 @@
-# robots.txt for http://www.calhouncounty.org
-# This file tells web crawlers to please not crawl certain paths on our Web Server
-# The user-agent line means all web crawlers
-# the Disallow statement tell which directories to not crawl (must be one for each path)
-# File created 3-15-09 by Poe
-# Last modified by Poe on 5-28-2019
-#
-#
-# User-agent: *
-# Disallow: /cccmail/   
-# Disallow: /usage/
+User-agent: *
+Allow: /

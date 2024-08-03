@@ -1,6 +1,1 @@
-User-Agent: *
-Disallow: /cpx.php
-Disallow: /medios1.php
-Disallow: /toolbar.php
-Disallow: /check_image.php
-Disallow: /check_popunder.php
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

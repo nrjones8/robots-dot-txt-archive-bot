@@ -1,1 +1,1 @@
-Request failed
+Sitemap: https://www.villageofhamburg.com/sitemap.xml

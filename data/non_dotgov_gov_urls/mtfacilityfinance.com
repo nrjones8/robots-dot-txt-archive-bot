@@ -1,7 +1,1 @@
-# www.robotstxt.org/
-# http://www.robotstxt.org/robotstxt.html
-
-User-agent: *
-Disallow: /404error
-
-Sitemap: https://mtfacilityfinance.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

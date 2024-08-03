@@ -1,1 +1,10 @@
-Got an HTML response
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /events/
+Disallow: /event/
+Disallow: /series/
+Disallow: /venue/
+Disallow: /organizer/
+Disallow: /city-departments/library-home/library-calendar/
+Crawl-delay: 10
