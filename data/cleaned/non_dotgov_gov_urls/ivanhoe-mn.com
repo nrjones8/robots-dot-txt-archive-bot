@@ -2,4 +2,4 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 User-agent: *
 Allow: /
-Sitemap: https://www.theypgroup.com/sitemap.xml
+Sitemap: https://thefelixcafewilmington.com/sitemap.xml

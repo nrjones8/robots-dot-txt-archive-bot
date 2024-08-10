@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /tema
 
-Sitemap: https://www.nywordle.org/sitemap.xml
-Sitemap: https://www.nywordle.org/sitemap.rss
+Sitemap: https://abctravelguide.com/sitemap.xml

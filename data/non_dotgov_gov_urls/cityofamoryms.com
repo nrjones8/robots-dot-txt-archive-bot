@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: http://www.cityofamoryms.com/sitemap.rss
+
+
+Sitemap: http://www.cityofamoryms.com/sitemap.xml

@@ -1,1 +1,1 @@
-Access denied
+Got an HTML response

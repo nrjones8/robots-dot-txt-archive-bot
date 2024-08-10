@@ -35,6 +35,9 @@ Allow: /fs/resource-manager/view/
 # Custom Records
 # Page Exclusions
 User-agent: *
+Disallow: /departments/mayors-office-clone$
+Disallow: /departments/mayors-office-clone?
+Disallow: /departments/mayors-office-clone/~
 Disallow: /for-residents/transportation/medford$
 Disallow: /for-residents/transportation/medford?
 Disallow: /for-residents/transportation/medford/~
@@ -47,9 +50,6 @@ Disallow: /departments/mayors-office/temporary-overnight-shelters/~
 Disallow: /posts-under-construction$
 Disallow: /posts-under-construction?
 Disallow: /posts-under-construction/~
-Disallow: /departments/mayors-office-clone$
-Disallow: /departments/mayors-office-clone?
-Disallow: /departments/mayors-office-clone/~
 Disallow: /animal-control-template$
 Disallow: /animal-control-template?
 Disallow: /animal-control-template/~
@@ -80,12 +80,12 @@ Disallow: /mayors-office/citywide-cleanup/~
 Disallow: /home-clone$
 Disallow: /home-clone?
 Disallow: /home-clone/~
-Disallow: /departments/prevention-and-outreach$
-Disallow: /departments/prevention-and-outreach?
-Disallow: /departments/prevention-and-outreach/~
 Disallow: /departments/finance/budget-override-information$
 Disallow: /departments/finance/budget-override-information?
 Disallow: /departments/finance/budget-override-information/~
+Disallow: /departments/prevention-and-outreach$
+Disallow: /departments/prevention-and-outreach?
+Disallow: /departments/prevention-and-outreach/~
 Disallow: /for-residents/neighborhood-services$
 Disallow: /for-residents/neighborhood-services?
 Disallow: /for-residents/neighborhood-services/~

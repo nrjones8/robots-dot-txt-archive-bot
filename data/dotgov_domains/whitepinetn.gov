@@ -1,4 +1,9 @@
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
 Disallow: /wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
 
 # START YOAST BLOCK
 # ---------------------------

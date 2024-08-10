@@ -37,6 +37,9 @@ Disallow: /core/
 Disallow: /profiles/
 Disallow: /widgets/*/components
 Disallow: /widgets/*/*/components
+# Facets search
+Disallow: *?f%5B*
+Disallow: *&f%5B*
 # Files
 Disallow: /README.md
 Disallow: /composer/Metapackage/README.txt

@@ -821,6 +821,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Ro
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storm-Preparedness
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/ClimateChange/Storms
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Copy-of-Heat-Season-Plan-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Vulnerability-Assessment-Draft-Report
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Vulnerability-Assessment-Report
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Impacts
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Climate-Change-in-the-City-of-Miami/Flooding
@@ -2777,6 +2778,7 @@ Disallow: /My-Government/ClimateChange/Roads-and-Mobility
 Disallow: /My-Government/ClimateChange/Storm-Preparedness
 Disallow: /My-Government/ClimateChange/Storms
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Copy-of-Heat-Season-Plan-1
+Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Vulnerability-Assessment-Draft-Report
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Action/Vulnerability-Assessment-Report
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Climate-Change-Impacts
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Flooding

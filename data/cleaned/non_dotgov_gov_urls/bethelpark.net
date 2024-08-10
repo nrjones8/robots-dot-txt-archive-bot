@@ -1,11 +1,3 @@
-# Default robots file version:2
+# Sitemap is also available on /sitemap.xml
+Sitemap: https://www.bethelparkpa.gov/sitemap.xml
 User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 600
-#WP Import Export Rule
-User-agent: *
-Disallow: /wp-content/uploads/wp-import-export-lite/

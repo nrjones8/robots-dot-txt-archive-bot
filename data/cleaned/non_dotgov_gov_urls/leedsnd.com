@@ -19,4 +19,4 @@ Disallow: */feed/
 #Googlebot-News
 User-agent: Googlebot-News
 Allow: */feed/
-Sitemap: https://guiajardinopolis.net/sitemap_index.xml
+Sitemap: https://www.okcatholicbroadcasting.com/sitemap_index.xml

@@ -1,4 +1,8 @@
-User-agent: * 
-Disallow: /private/  
-User-agent: Googlebot 
-Disallow:
+User-Agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/themes/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: http://www.townofminong.us/sitemap.xml
