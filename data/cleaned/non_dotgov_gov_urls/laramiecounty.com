@@ -20,6 +20,13 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Image-Galleries/Meet-the-Team-
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Image-Galleries/PW-Meet-the-Team-gallery
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Sandbox
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/A-Z-Index
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Copy-of-Disclaimer-Copyright-1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Copy-of-Privacy-Statement-1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Copy-of-Sitemap-1
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Disclaimer-Copyright
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Privacy-Statement
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Site-Footer/Sub-Footer-Links/Sitemap
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/Meet-the-Team-gallery
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/New-page
 Disallow: /County-Government/Elected-Officials/Copy-of-County-Commissioners-1
@@ -61,4 +68,11 @@ Disallow: /Image-Galleries/Meet-the-Team-gallery
 Disallow: /Image-Galleries/PW-Meet-the-Team-gallery
 Disallow: /Sandbox
 Disallow: /Site-Footer/Sub-Footer-Links/A-Z-Index
+Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Disclaimer-Copyright-1
+Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Privacy-Statement-1
+Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Sitemap-1
+Disallow: /Site-Footer/Sub-Footer-Links/Disclaimer-Copyright
+Disallow: /Site-Footer/Sub-Footer-Links/New-page
+Disallow: /Site-Footer/Sub-Footer-Links/Privacy-Statement
+Disallow: /Site-Footer/Sub-Footer-Links/Sitemap
 Sitemap : https://www.laramiecountywy.gov/sitemap.xml

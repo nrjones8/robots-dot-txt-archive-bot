@@ -23,6 +23,10 @@ User-agent: GoogleBot
 Allow: /*.js
 Allow: /*.css
 
+User-agent: meta-externalagent/1.1
+Crawl-delay: 20
+User-agent: facebookexternalhit/1.1
+Crawl-delay: 20
 User-agent: ClaudeBot/1.0
 Crawl-delay: 20
 User-agent: GPTBot

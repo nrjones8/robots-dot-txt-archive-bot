@@ -1,2 +1,1 @@
-User-agent: * 
-Crawl-Delay: 20
+Got an HTML response

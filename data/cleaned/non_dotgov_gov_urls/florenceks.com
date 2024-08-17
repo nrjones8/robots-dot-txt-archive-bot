@@ -1,1 +1,1 @@
-Sitemap:http://florenceks.com/sitemap.xml
+Got an HTML response

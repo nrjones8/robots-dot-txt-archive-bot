@@ -207,6 +207,36 @@ Disallow: /apps/videos/
 Disallow: /apps/temp.jsp
 Disallow: /m/api
 
+User-agent: facebookexternalhit
+Disallow: /apps/ajax/
+Disallow: /apps/classes/
+Disallow: /apps/directory/
+Disallow: /apps/events/events_rss.jsp
+Disallow: /apps/events/calendar_pff.jsp
+Disallow: /apps/events/view_calendar.jsp
+Disallow: /apps/events/list_pff.jsp
+Disallow: /apps/events/calendar_yearly_pff.jsp
+Disallow: /apps/events/calendar_pff.jsp
+Disallow: /apps/events/calendar_month_pff.jsp
+Disallow: /apps/email
+Disallow: /apps/email/
+Disallow: /apps/email/index.jsp
+Disallow: /apps/file_manager/
+Disallow: /apps/mediaplayer-3-16/
+Disallow: /apps/ourpages/
+Disallow: /apps/ourpages
+Disallow: /apps/forms/
+Disallow: /apps/login/
+Disallow: /apps/s/
+Disallow: /apps/thickbox/
+Disallow: /apps/tools/
+Disallow: /apps/videos/
+Disallow: /apps/cross.jsp
+Disallow: /apps/temp.jsp
+Disallow: /m/api
+Disallow: /m/classes
+crawl-delay: 1
+
 User-agent: rogerbot
 Disallow:
 

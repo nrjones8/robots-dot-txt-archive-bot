@@ -5,4 +5,6 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
+
+<!-- WP Optimize page cache - https://getwpo.com - page NOT cached -->

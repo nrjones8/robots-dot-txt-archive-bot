@@ -53,7 +53,6 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
-Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/New-page-7
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/Parks-Recreation-Background
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/TRAINING/PR
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Visitors/Accommodations
@@ -118,7 +117,6 @@ Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew4
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/KingDay
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/New-page
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Parish-President-Hotard-Kicks-Off-Mardi-Gras-with-Local-Krewes
-Disallow: /TRAINING/New-page-7
 Disallow: /TRAINING/Parks-Recreation-Background
 Disallow: /TRAINING/PR
 Disallow: /Visitors/Accommodations

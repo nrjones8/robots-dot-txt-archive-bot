@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.njconsumeraffairs.gov', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+

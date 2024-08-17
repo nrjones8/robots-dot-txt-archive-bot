@@ -1,4 +1,9 @@
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
 Disallow: https://doh.vi.gov/wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
 
 # START YOAST BLOCK
 # ---------------------------

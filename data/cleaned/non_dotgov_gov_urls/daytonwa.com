@@ -10,6 +10,10 @@
 #
 # For syntax checking, see:
 # http://www.sxw.org.uk/computing/robots/check.html
+User-Agent: facebookexternalhit
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
 User-agent: *
 Disallow: /administrator/
 Disallow: /cache/

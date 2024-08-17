@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /tema
-Sitemap: https://abctravelguide.com/sitemap.xml
+Allow: /
+Sitemap: https://www.mutuallyoccluded.com/sitemap.xml

@@ -1,9 +1,1 @@
-User-agent: Rogerbot
-User-agent: Exabot
-User-agent: MJ12bot
-User-agent: Dotbot
-User-agent: Gigabot
-User-agent: AhrefsBot
-User-agent: SemrushBot
-User-agent: SemrushBot-SA
-Disallow: /
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

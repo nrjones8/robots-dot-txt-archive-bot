@@ -19,4 +19,4 @@ Disallow: */feed/
 #Googlebot-News
 User-agent: Googlebot-News
 Allow: */feed/
-Sitemap: https://www.okcatholicbroadcasting.com/sitemap_index.xml
+Sitemap: https://www.nacionalfc.com/sitemap_index.xml

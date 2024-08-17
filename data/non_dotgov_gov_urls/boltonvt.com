@@ -1,14 +1,1 @@
-User-agent: *
-Disallow: /calendar-2/action~posterboard/
-Disallow: /calendar-2/action~agenda/
-Disallow: /calendar-2/action~oneday/
-Disallow: /calendar-2/action~month/
-Disallow: /calendar-2/action~week/
-Disallow: /calendar-2/action~stream/
-Disallow: /calendar-2/action~undefined/
-Disallow: /calendar-2/action~http:/
-Disallow: /calendar-2/action~default/
-Disallow: /calendar-2/action~poster/
-Disallow: /calendar-2/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}

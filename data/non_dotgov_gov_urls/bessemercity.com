@@ -1,8 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/uploads/wpforms/
-
-Sitemap: https://bessemercity.com/sitemaps.xml
-User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}

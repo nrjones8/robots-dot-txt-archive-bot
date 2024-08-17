@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /tema
+Allow: /
 
-Sitemap: https://abctravelguide.com/sitemap.xml
+Sitemap: https://www.mutuallyoccluded.com/sitemap.xml

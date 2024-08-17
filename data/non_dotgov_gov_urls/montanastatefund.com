@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-agent: *
+Disallow: /web/WEB-INF
+Disallow: /web/META-INF
+Disallow: /web/ibm_security_logout
