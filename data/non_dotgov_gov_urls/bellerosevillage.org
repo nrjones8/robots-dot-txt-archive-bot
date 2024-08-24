@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+User-agent: *
+Disallow: /admin
+Disallow: /captcha
+Disallow: /menu
+Disallow: /imemail
+Crawl-delay: 10
+
+Sitemap: https://www.bellerosevillage.org/sitemap.xml

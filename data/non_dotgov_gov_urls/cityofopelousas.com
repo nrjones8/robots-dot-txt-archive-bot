@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+disallow: /wp-admin
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.kalacosolutions.com/sitemap.xml

@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Allow: /
+sitemap: http://cityofshelbyvillein.com/sitemapindex.xml
+sitemap: http://cityofshelbyvillein.com/sitemapindeximages.xml
+sitemap: http://cityofshelbyvillein.com/sitemapnewindex.xml
+sitemap: http://cityofshelbyvillein.com/sitemapmobileindex.xml

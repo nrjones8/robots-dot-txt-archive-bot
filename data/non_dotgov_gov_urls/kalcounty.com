@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Allow: /
+Noindex: /eif/*
+Disallow: /eif/*
+Noindex: /equalization/parcel_search.php
+Noindex: /equalization/parcel_detail.php
+Disallow: /equalization/parcel_search.php
+Disallow: /equalization/parcel_detail.php
+

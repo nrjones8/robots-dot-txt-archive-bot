@@ -15,6 +15,7 @@ Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Fire-Services/Comm
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/PR-Featured-Background
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Swimming
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Updated-Rotating-Banner/Biddy-Basketball
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Updated-Rotating-Banner/New-page
 Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-and-Recreation/Updated-Rotating-Banner/Parks-Facility
@@ -72,6 +73,7 @@ Disallow: /Departments/Fire-Services/Community-Programs/Banner-1/New-page
 Disallow: /Departments/Parks-and-Recreation/New-page
 Disallow: /Departments/Parks-and-Recreation/Parks-Rec-Banner/New-page
 Disallow: /Departments/Parks-and-Recreation/PR-Featured-Background
+Disallow: /Departments/Parks-and-Recreation/Swimming
 Disallow: /Departments/Parks-and-Recreation/Updated-Rotating-Banner/Biddy-Basketball
 Disallow: /Departments/Parks-and-Recreation/Updated-Rotating-Banner/New-page
 Disallow: /Departments/Parks-and-Recreation/Updated-Rotating-Banner/Parks-Facility

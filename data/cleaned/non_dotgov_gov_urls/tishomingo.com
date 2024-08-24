@@ -1,4 +1,3 @@
+#robots.txt for all our sites
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://tishomingo.com/sitemap_index.xml
+Disallow: /content/*

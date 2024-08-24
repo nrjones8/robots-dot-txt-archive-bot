@@ -22,4 +22,4 @@ Disallow: */feed/
 User-agent: Googlebot-News
 Allow: */feed/
 
-Sitemap: https://www.nacionalfc.com/sitemap_index.xml
+Sitemap: https://tk88.gift/sitemap_index.xml

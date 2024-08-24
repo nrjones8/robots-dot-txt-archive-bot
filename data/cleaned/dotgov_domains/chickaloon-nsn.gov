@@ -1,1 +1,3 @@
-Got an HTML response
+user-agent: * 
+disallow: 
+crawl-delay: 60

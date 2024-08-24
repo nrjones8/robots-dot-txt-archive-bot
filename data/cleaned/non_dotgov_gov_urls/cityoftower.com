@@ -1,1 +1,3 @@
-Got an HTML response
+User-Agent: *
+Disallow: 
+Disallow: /tools

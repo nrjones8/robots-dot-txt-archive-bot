@@ -1,1 +1,9 @@
-Got an HTML response
+User-agent: *
+Disallow: /author/
+Disallow: /private/
+Disallow: /wp-content/
+Disallow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /blocks/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.woodvillageor.gov/wp-sitemap.xml

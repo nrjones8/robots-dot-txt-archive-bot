@@ -1,2 +1,4 @@
 User-agent: *
-Crawl-delay: 120
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://iowanation.org/wp-sitemap.xml

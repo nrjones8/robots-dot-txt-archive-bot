@@ -1,1 +1,6 @@
-Got an HTML response
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /calendar/
+Sitemap: https://siouxcountyia.gov/sitemap.xml
+Sitemap: https://siouxcountyia.gov/sitemap.rss

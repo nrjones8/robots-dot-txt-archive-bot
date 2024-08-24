@@ -1,1 +1,19 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Disallow: /blocks 
+Disallow: /concrete 
+Disallow: /config 
+Disallow: /controllers 
+Disallow: /css 
+Disallow: /elements 
+Disallow: /helpers 
+Disallow: /jobs 
+Disallow: /js 
+Disallow: /languages 
+Disallow: /libraries 
+Disallow: /mail 
+Disallow: /models 
+Disallow: /packages 
+Disallow: /single_pages 
+Disallow: /themes 
+Disallow: /tools
+Disallow: /updates

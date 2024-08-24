@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://ufabetcp.vip/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 523}

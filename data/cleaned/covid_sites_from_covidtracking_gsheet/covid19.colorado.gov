@@ -12,6 +12,12 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+User-Agent: OAI-SearchBot
+Disallow: /
+User-Agent: ChatGPT-User
+Disallow: /
+User-Agent: GPTBot
+Disallow: /
 User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$

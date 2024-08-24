@@ -1,1 +1,4 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Disallow: /public_html/wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /wp-includes/

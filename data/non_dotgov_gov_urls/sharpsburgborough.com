@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://sharpsburgborough.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
