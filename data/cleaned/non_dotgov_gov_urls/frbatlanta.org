@@ -1,1 +1,7 @@
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+# robots.txt for http://www.atlantafed.org/
+User-agent: *
+Disallow: /forms/
+Disallow: /search?*
+User-agent: Amazonbot
+Disallow: /
+Sitemap: https://www.atlantafed.org/sitemap

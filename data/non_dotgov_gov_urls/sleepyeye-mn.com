@@ -52,10 +52,10 @@ Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/rebates.html
 Disallow: /https://www.sleepyeye-mn.com/city-lots-maps.html
+Disallow: /https://www.sleepyeye-mn.com/event-center.html
 Disallow: /https://www.sleepyeye-mn.com/waste-management.html
 Disallow: /https://www.sleepyeye-mn.com/rental-license--inspections.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
-Disallow: /https://www.sleepyeye-mn.com/event-center.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/ballfields.html
 Disallow: /https://www.sleepyeye-mn.com/se-police-reports--policies.html

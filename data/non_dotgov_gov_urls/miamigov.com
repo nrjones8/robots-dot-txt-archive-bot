@@ -210,6 +210,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Becky-Test-12-15
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Education
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/gg
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Maurice-L.-Kemp-EMS-Cadet-Program
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/NEW-Building-Services-PAGE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/OLD-DRI-Updates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/DSA/Request-a-Revocation-Permit
@@ -236,6 +237,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Appeal-Intended-Decision
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-Contractor-Registration-FORM
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Building-records-request-microfilm-FORM
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Chabot-Test-for-the-City-of-Miami
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Copy-of-Apply-for-a-Construction-Noise-Waiver-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Dewatering-Permit-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Forms/Direct-Deposit-ACH-Form
@@ -837,7 +839,9 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Building-Bulletins
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Copy-of-Building-Services-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/NEW-Building-Services-PAGE
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Building/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Hearings
@@ -893,6 +897,8 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Comm
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-2
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Copy-of-Code-Compliance-2-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
@@ -1169,6 +1175,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Solid-Waste/About-Street-Sweeping
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/TEST-1-of-Code-Compliance
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/TEST-2-of-Code-Compliance
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
@@ -1211,6 +1219,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighborhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Neighbourhood
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/mysecurityinfo
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/negotiationmeeting
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/NEW-Building-Services-PAGE
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Newbusinessfeedback
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page/Resources
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/New-page-1
@@ -2044,6 +2053,7 @@ Disallow: /DSA/Becky-Test-12-15
 Disallow: /DSA/Education
 Disallow: /DSA/gg
 Disallow: /DSA/Maurice-L.-Kemp-EMS-Cadet-Program
+Disallow: /DSA/NEW-Building-Services-PAGE
 Disallow: /DSA/OLD-DRI-Updates
 Disallow: /DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /DSA/Request-a-Revocation-Permit
@@ -2111,6 +2121,7 @@ Disallow: /Forms/Appeal-Intended-Decision-Trees-FORM
 Disallow: /Forms/Building-Contractor-Registration-FORM
 Disallow: /Forms/Building-records-request-microfilm
 Disallow: /Forms/Building-records-request-microfilm-FORM
+Disallow: /Forms/Chabot-Test-for-the-City-of-Miami
 Disallow: /Forms/Copy-of-Apply-for-a-Construction-Noise-Waiver-1
 Disallow: /Forms/Dewatering-Permit-Form
 Disallow: /Forms/Direct-Deposit-ACH-Form
@@ -2801,7 +2812,9 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Releas
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
+Disallow: /My-Government/Departments/Building/Copy-of-Building-Services-1
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
+Disallow: /My-Government/Departments/Building/NEW-Building-Services-PAGE
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings
@@ -2857,6 +2870,8 @@ Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-
 Disallow: /My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
+Disallow: /My-Government/Departments/Copy-of-Code-Compliance-2
+Disallow: /My-Government/Departments/Copy-of-Copy-of-Code-Compliance-2-1
 Disallow: /My-Government/Departments/Copy-of-Management-Budget-1
 Disallow: /My-Government/Departments/Copy-of-Real-Estate-Opportunities-1
 Disallow: /My-Government/Departments/Department-of-Real-Estate-Asset-Management-DREAM/ITB-Documents
@@ -3133,6 +3148,8 @@ Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Est
 Disallow: /My-Government/Departments/Real-Estate-Asset-Management-DREAM/Real-Estate-Opportunity-Applications
 Disallow: /My-Government/Departments/Resilience-and-Public-Works/Request-Emergency-Work-Code
 Disallow: /My-Government/Departments/Solid-Waste/About-Street-Sweeping
+Disallow: /My-Government/Departments/TEST-1-of-Code-Compliance
+Disallow: /My-Government/Departments/TEST-2-of-Code-Compliance
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
 Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
@@ -3175,6 +3192,7 @@ Disallow: /My-Neighborhood
 Disallow: /My-Neighbourhood
 Disallow: /mysecurityinfo
 Disallow: /negotiationmeeting
+Disallow: /NEW-Building-Services-PAGE
 Disallow: /Newbusinessfeedback
 Disallow: /New-page/Resources
 Disallow: /New-page-1

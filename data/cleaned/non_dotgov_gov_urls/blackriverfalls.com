@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.mutuallyoccluded.com/sitemap.xml
+Sitemap: https://www.headachenech.com

@@ -2,7 +2,6 @@
 sitemap: https://www.nationalparks.org/sitemaps-1-sitemap.xml
 # live - don't allow web crawlers to index cpresources/ or vendor/
 User-agent: *
-Disallow: /
 Disallow: /cpresources/
 Disallow: /vendor/
 Disallow: /.env
