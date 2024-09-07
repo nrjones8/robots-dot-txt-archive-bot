@@ -41,3 +41,6 @@ Disallow: /
 # TurnitinBot crawler
 User-agent: TurnitinBot
 Disallow: /
+# Meta AI crawler
+User-agent: meta-externalagent
+Disallow: /

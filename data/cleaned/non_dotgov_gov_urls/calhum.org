@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

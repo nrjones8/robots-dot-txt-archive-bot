@@ -1270,8 +1270,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Parks-Recreation/Dinner-Key-Ma
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/passwordreset
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/pay
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/payments
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/permitexpediter
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/permitexpeditor
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Documents-for-ePlan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-DrawingsPlans-Documents-for-ePlan
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Drawings-Plans-for-ePlan
@@ -1310,8 +1308,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Ca
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-Temporary-Event-or-Structure
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Register-as-a-Permit-Expediter
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Register-as-a-Permit-Expeditor
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Remodeling-and-Construction/Apply-for-a-Construction-Noise-Waiver/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Remodeling-and-Construction/Apply-for-a-Construction-Noise-Waiver/View-Approved-Construction-Noise-Waivers
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Permits-Construction/Remodeling-and-Construction/Florida-Contractor-License-Preemption
@@ -3243,8 +3239,6 @@ Disallow: /Parks-Recreation/Dinner-Key-Marina
 Disallow: /passwordreset
 Disallow: /pay
 Disallow: /payments
-Disallow: /permitexpediter
-Disallow: /permitexpeditor
 Disallow: /Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Documents-for-ePlan
 Disallow: /Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-DrawingsPlans-Documents-for-ePlan
 Disallow: /Permits-Construction/All-things-ePlan/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Drawings-Plans-for-ePlan
@@ -3283,8 +3277,6 @@ Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-a-S
 Disallow: /Permits-Construction/Permit-Catalog/Request-a-Building-Permit-for-Temporary-Event-or-Structure
 Disallow: /Permits-Construction/Permit-Catalog/Request-a-Temporary-Event-Permit-TEP/New-page
 Disallow: /Permits-Construction/Permit-Catalog-2/Get-a-Demolition-Permit-Total-or-Partial
-Disallow: /Permits-Construction/Register-as-a-Permit-Expediter
-Disallow: /Permits-Construction/Register-as-a-Permit-Expeditor
 Disallow: /Permits-Construction/Remodeling-and-Construction/Apply-for-a-Construction-Noise-Waiver/New-page
 Disallow: /Permits-Construction/Remodeling-and-Construction/Apply-for-a-Construction-Noise-Waiver/View-Approved-Construction-Noise-Waivers
 Disallow: /Permits-Construction/Remodeling-and-Construction/Florida-Contractor-License-Preemption

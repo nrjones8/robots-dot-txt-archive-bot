@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofolean.org', port=443): Read timed out. (read timeout=15)"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://cityofolean.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

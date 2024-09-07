@@ -1,3 +1,6 @@
+# Termly scanner
+User-agent: TermlyBot
+Allow: /
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

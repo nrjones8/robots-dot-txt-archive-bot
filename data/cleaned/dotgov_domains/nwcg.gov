@@ -58,6 +58,14 @@ Disallow: /user/login
 Disallow: /user/logout
 Disallow: /media/oembed
 Disallow: /*/media/oembed
+# Paths (clean URLs) â fixed!
+Disallow: /book/*
+Disallow: /glossary-request/*
+Disallow: /tags/*
+Disallow: /term/
+Disallow: /term/*
+Disallow: /taxonomy/
+Disallow: /taxonomy/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -70,3 +78,13 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Paths (no clean URLs) â fixed!
+Disallow:  /index.php/book/*
+Disallow:  /index.php/glossary-request/*
+Disallow:  /index.php/tags/*
+Disallow:  /index.php/term/
+Disallow:  /index.php/term/*
+Disallow:  /index.php/taxonomy/
+Disallow:  /index.php/taxonomy/*
+# Sitemap
+Sitemap: https://www.nwcg.gov/sitemap.xml

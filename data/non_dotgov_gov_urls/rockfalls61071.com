@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://rockfalls61071.net/wp-sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
