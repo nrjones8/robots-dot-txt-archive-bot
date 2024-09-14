@@ -55,6 +55,7 @@ Disallow: /public-library/
 Disallow: /public-library/board-minutes/
 Disallow: /public-library/friends-of-the-library-minutes/
 Disallow: /recycle-shed/
+Disallow: /south-terrace-courts/
 Disallow: /water-sewer-service/
 Disallow: /water-sewer-service/new-water-sewer-service-application/
 Disallow: /water-sewer-service/final-billing-request/

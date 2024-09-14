@@ -1,5 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow:
 
-Sitemap: https://balharbourgov.com/sitemap_index.xml
+Sitemap: https://51.79.156.105/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

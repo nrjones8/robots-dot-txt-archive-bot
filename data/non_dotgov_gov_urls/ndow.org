@@ -1,7 +1,16 @@
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
-Disallow:
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
 
 Sitemap: https://www.ndow.org/sitemap_index.xml
 # ---------------------------

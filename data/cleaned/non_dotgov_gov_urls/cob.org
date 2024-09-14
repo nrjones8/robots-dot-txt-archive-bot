@@ -1,5 +1,3 @@
-User-agent: msnbot
-User-agent: bingbot
-User-agent: Amazonbot
-User-agent: Googlebot
-Crawl-delay: 3
+User-agent: *
+Crawl-delay: 10
+Disallow: /wp-admin/

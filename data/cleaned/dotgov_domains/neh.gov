@@ -13,6 +13,7 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
+Crawl-delay: 30
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -59,6 +60,8 @@ Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 # Solr facets
+Disallow: /search*
+Disallow: /grants/listing*
 Disallow: /*?f[*
 Disallow: /*&f[*
 Disallow: /*?f%5B*

@@ -1,7 +1,8 @@
-User-agent: Googlebot
-Disallow: /wp-includes/
-Disallow: /wp-admin/
-Disallow: /wp-login.php
-
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /
+Disallow:
+
+Sitemap: http://www.winchester-in.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
