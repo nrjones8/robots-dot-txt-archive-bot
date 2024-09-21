@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='snydercounty.org', port=80): Read timed out. (read timeout=15)"}
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: http://www.snydercounty.org/post-sitemap.xml
+Sitemap: http://www.snydercounty.org/page-sitemap.xml

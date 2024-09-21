@@ -70,6 +70,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Hurricane-Ian-Up
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/appealart
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Appeal-a-Warrant-or-Waiver
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/appts
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/ARL
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/attorneyinternship
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/A-Z-Index
@@ -348,7 +349,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Civilian
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Building-Department-Page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Department/Test-Department-Page
-Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
@@ -395,10 +395,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerk
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/New-page
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Applications-Received-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
@@ -844,17 +841,14 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Buil
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Attorney
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-In-Public-Places-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Prospective-Appointees
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Application-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Prospective-Appointees
@@ -863,7 +857,6 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Community-Revitalization-Trust-Board
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Community-Revitalization-Trust-Board-Applications-Received
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Trust-Board-Applications-Received
-Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
@@ -1182,6 +1175,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financ
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information-Electronic
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections/Financial-Disclosure-Information-for-Candidates
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Elections-Information
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Make-Appointments-for-City-Services
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form
@@ -1197,6 +1191,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendar
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Home-Neighborhood/Disaster-Relief-Resources
@@ -1892,7 +1887,6 @@ Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Site-Footer/Footer-Widgets/Sha
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Site-Footer/Footer-Widgets/Share-and-Connect/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
-Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Rental-Inquiry-Form
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Rental-Inquiry-Form/New-page
 Disallow: /$7db9bd06-b411-479d-92ce-8d6dccc10f15$/Venues-Rentals/Rental-Inquiry-Form/Rental-Calendar
@@ -1906,6 +1900,7 @@ Disallow: /Announcements/Hurricane-Ian-Updates
 Disallow: /Announcements/Pardon-our-Dust-We-are-reorganizing-our-website
 Disallow: /appealart
 Disallow: /Appeal-a-Warrant-or-Waiver
+Disallow: /appts
 Disallow: /ARL
 Disallow: /attorneyinternship
 Disallow: /A-Z-Index
@@ -2225,7 +2220,6 @@ Disallow: /Government/Department/Civilian-Investigative-Panel
 Disallow: /Government/Department/New-page
 Disallow: /Government/Department/Test-Building-Department-Page
 Disallow: /Government/Department/Test-Department-Page
-Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /Government/Departments/City-Clerks-Office/Civil-Service-Board-Election
@@ -2272,10 +2266,7 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Test-Attor
 Disallow: /Government/Departments-Organizations/City-Clerk
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/Civil-Service-Board-Election
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Become-a-Civil-Service-Board-Candidate/New-page
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Board-Prospective-Appointees
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/New-page
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
-Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Announcements-and-Applications-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Applications-Received-1
 Disallow: /Government/Departments-Organizations/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
@@ -2691,7 +2682,6 @@ Disallow: /LHCC/Site-Footer/Footer-Widgets/Share-and-Connect/Facebook
 Disallow: /LHCC/Site-Footer/Footer-Widgets/Share-and-Connect/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/New-page
 Disallow: /LHCC/Venues-Rentals/Art-Gallery/TEST-CALENDAR-EVENT-ART
-Disallow: /LHCC/Venues-Rentals/New-page
 Disallow: /LHCC/Venues-Rentals/Rental-Inquiry-Form
 Disallow: /LHCC/Venues-Rentals/Rental-Inquiry-Form/New-page
 Disallow: /LHCC/Venues-Rentals/Rental-Inquiry-Form/Rental-Calendar
@@ -2810,17 +2800,14 @@ Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearing-Calendar
 Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
-Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-In-Public-Places-Board
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Art-in-Public-Places-Prospective-Appointees
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Board-Prospective-Appointees-PZAB
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Art-in-Public-Places-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Announcements-and-Applications-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-LHT-Board-Applications-Received-1
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Copy-of-Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees-1
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/HEP-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Application-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/LCT-Board-Prospective-Appointees
@@ -2829,7 +2816,6 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Community-Revitalization-Trust-Board
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Community-Revitalization-Trust-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Liberty-City-Trust-Board-Applications-Received
-Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/Little-Haiti-Revitalization-Trust-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/New-page
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Announcements-and-Applications
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
@@ -3148,6 +3134,7 @@ Disallow: /My-Government/Elections/Financial-Disclosure-Information
 Disallow: /My-Government/Elections/Financial-Disclosure-Information-Electronic
 Disallow: /My-Government/Elections/Financial-Disclosure-Information-for-Candidates
 Disallow: /My-Government/Elections-Information
+Disallow: /My-Government/Make-Appointments-for-City-Services
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/31122-Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings/3922-930-AM-Special-Commission-Online-Public-Comment-Form
@@ -3163,6 +3150,7 @@ Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Pu
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-City-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/City-of-Miami-Public-Meetings-Events/Special-Commission-Online-Public-Comment-Form
 Disallow: /My-Government/Meeting-Calendars-Agendas-and-Comments/Regular-Commission-Online-Public-Comment-Form
+Disallow: /My-Government/New-page
 Disallow: /My-Government/Watch-Live-Meetings/Video-Player
 Disallow: /My-Government/Watch-Live-Meetings/Videos/Video-Player
 Disallow: /My-Home-Neighborhood/Disaster-Relief-Resources

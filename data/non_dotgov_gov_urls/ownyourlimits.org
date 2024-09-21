@@ -1,8 +1,7 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
 
-Sitemap: https://ownyourlimits.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://ownyourlimits.org/sitemap.xml
+Sitemap: https://ownyourlimits.org/sitemap.rss

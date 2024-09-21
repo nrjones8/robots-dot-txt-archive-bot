@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='nctokyo.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2f9bc92610>, 'Connection to nctokyo.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.nctokyo.com/wp-sitemap.xml

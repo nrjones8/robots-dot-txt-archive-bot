@@ -47,13 +47,11 @@ Disallow: /https://www.nycourts.gov/courts/
 Disallow: /http://www.townofghent.org/
 Disallow: /https://weather.com/weather/today/l/12534:4:US
 Disallow: /https://humanresources.columbiacountyny.com/corporate-compliance
-Disallow: /http://www.townofgreenport.com/
 Disallow: /https://sites.google.com/columbiacountyny.com/emc
 Disallow: /county-attorney.html
 Disallow: /http://hillsdaleny.com/
 Disallow: /redirect-pages.html
 Disallow: /http://cityofhudson.org
-Disallow: /http://www.kinderhook-ny.gov/public_documents/index
 Disallow: /https://dmv.ny.gov/nav/custom-plates
 Disallow: /https://translate.google.com/translate?sl=en&tl=es&u=columbiacountyny.com
 Disallow: /emergency-services.html

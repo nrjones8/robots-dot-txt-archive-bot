@@ -1,5 +1,9 @@
 User-agent: *
+Allow: /
 Disallow: /cgi-bin/
+Disallow: /wp-admin/
 
-User-agent: 008
-Disallow: /
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /wp-admin/

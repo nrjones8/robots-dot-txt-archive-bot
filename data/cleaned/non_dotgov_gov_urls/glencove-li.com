@@ -1,1 +1,1 @@
-Sitemap: http://glencove-li.us/sitemap.xml
+Got an HTML response

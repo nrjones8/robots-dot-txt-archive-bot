@@ -13,6 +13,7 @@ Disallow: /scripts/
 Disallow: /oc/wp-content/uploads/
 
 # Block access to specific file types
+Disallow: /?s=
 Disallow: /*.pdf$
 Disallow: /*.doc$
 Disallow: /*.xls$

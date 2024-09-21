@@ -1,13 +1,1 @@
-# Termly scanner
-User-agent: TermlyBot
-Allow: /
-
-
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.townoftazewell.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='townoftazewell.org', port=80): Read timed out. (read timeout=15)"}
