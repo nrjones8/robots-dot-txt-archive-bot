@@ -1,1 +1,11 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='melbournebeachfl.org', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1131)')))"}
+User-agent: *
+
+Disallow: /$B9015858-988C-48A4-9473-7C193DF083E4$/Departments/Facility-Rental/Parks-Recreation-Gallery
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-Recreation-Facility-Rental/New-page
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Departments/Parks-Recreation-Facility-Rental/Parks-Recreation-Gallery
+Disallow: /$b9015858-988c-48a4-9473-7c193df083e4$/Sandbox
+Disallow: /Departments/Facility-Rental/Parks-Recreation-Gallery
+Disallow: /Departments/Parks-Recreation-Facility-Rental/New-page
+Disallow: /Departments/Parks-Recreation-Facility-Rental/Parks-Recreation-Gallery
+Disallow: /Sandbox
+Sitemap : https://www.melbournebeachfl.org/sitemap.xml

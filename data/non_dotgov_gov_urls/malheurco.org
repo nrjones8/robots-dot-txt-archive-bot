@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='malheurco.org', port=80): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.malheurco.org/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://www.malheurco.org/xmlsitemap.xml
+
+Allow: /http://rsssitemap.xml
+Allow: /http://rsslatest.xml
+Allow: /http://htmlsitemap.htm
+

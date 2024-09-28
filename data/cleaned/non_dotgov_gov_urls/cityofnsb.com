@@ -25,6 +25,8 @@ Disallow: /map.aspx
 Disallow: /map.asp
 Disallow: /Map.aspx
 Disallow: /Map.asp
+Disallow: /Blog.asp
+Disallow: /Blog.aspx
 Sitemap: /sitemap.xml
 Disallow: /RSS.aspx
 User-agent: Siteimprove

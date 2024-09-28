@@ -1,5 +1,10 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
 Disallow: https://cityofaurora.org/wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
 Sitemap: https://cityofaurora.org/wp-sitemap.xml

@@ -1,3 +1,21 @@
+# START TRIBE BLOCK
+# ---------------------------
+User-agent: *
+Disallow: *post_type=tribe_events*
+Disallow: *hide_subsequent_recurrences=*
+Disallow: *tribe-bar-date=*
+Disallow: *tribe-venue=*
+Disallow: *eventDisplay=*
+Disallow: *eventDate=*
+Disallow: *paged=*
+Disallow: *shortcode=*
+Disallow: *ical=*
+Disallow: /events/tag/*/day/*
+Allow: /events/
+Allow: /event/
+# ---------------------------
+# END TRIBE BLOCK
+
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *

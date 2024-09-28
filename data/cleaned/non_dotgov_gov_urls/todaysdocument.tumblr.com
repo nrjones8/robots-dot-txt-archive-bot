@@ -4,6 +4,7 @@ Disallow: /random
 Disallow: /day
 Disallow: /sticky-ad-iframe.html
 Disallow: /privacy/consent
+Disallow: /assets/scripts/tumblr/dashboard/showads.js
 Crawl-delay: 1
 # Common Crawl's crawler
 User-agent: CCBot

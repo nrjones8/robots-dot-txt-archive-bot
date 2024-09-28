@@ -1,1 +1,25 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofdouglaswy.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9e8bf64970>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: Googlebot
+Crawl-delay: 10
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Slurp
+Crawl-delay: 10
+Disallow:
+
+User-agent: MSNBot
+Crawl-delay: 10
+Disallow:
+
+User-agent: bingbot
+Crawl-delay: 10
+Disallow:
+
+User-agent: ia_archiver
+Crawl-delay: 10
+Disallow:
+
+User-agent: *
+Disallow: /

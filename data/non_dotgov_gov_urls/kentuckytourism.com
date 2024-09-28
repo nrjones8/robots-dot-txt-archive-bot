@@ -1,1 +1,5 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /sitefinity
+
+Sitemap: https://www.kentuckytourism.com/sitemap/sitemap.gz
+Sitemap: https://www.kentuckytourism.com/sitemap/sitemap-index.xml

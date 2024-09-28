@@ -1,31 +1,44 @@
-# If the Joomla site is installed within a folder 
-# eg www.example.com/joomla/ then the robots.txt file 
-# MUST be moved to the site root 
-# eg www.example.com/robots.txt
-# AND the joomla folder name MUST be prefixed to all of the
-# paths. 
-# eg the Disallow rule for the /administrator/ folder MUST 
-# be changed to read 
-# Disallow: /joomla/administrator/
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/orig.html
-#
-# For syntax checking, see:
-# http://tool.motoricerca.info/robots-checker.phtml
+# Squarespace Robots Txt
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: CCBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: FacebookBot
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: PerplexityBot
+User-agent: Applebot-Extended
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile-Apps
 User-agent: *
-Disallow: /administrator/
-Disallow: /bin/
-Disallow: /cache/
-Disallow: /cli/
-Disallow: /components/
-Disallow: /includes/
-Disallow: /installation/
-Disallow: /language/
-Disallow: /layouts/
-Disallow: /libraries/
-Disallow: /logs/
-Disallow: /modules/
-Disallow: /plugins/
-Disallow: /tmp/
-Crawl-delay: 5
+Disallow: /config
+Disallow: /search
+Disallow: /account$
+Disallow: /account/
+Disallow: /commerce/digital-download/
+Disallow: /api/
+Allow: /api/ui-extensions/
+Disallow: /static/
+Disallow:/*?author=*
+Disallow:/*&author=*
+Disallow:/*?tag=*
+Disallow:/*&tag=*
+Disallow:/*?month=*
+Disallow:/*&month=*
+Disallow:/*?view=*
+Disallow:/*&view=*
+Disallow:/*?format=json
+Disallow:/*&format=json
+Disallow:/*?format=page-context
+Disallow:/*&format=page-context
+Disallow:/*?format=main-content
+Disallow:/*&format=main-content
+Disallow:/*?format=json-pretty
+Disallow:/*&format=json-pretty
+Disallow:/*?format=ical
+Disallow:/*&format=ical
+Disallow:/*?reversePaginate=*
+Disallow:/*&reversePaginate=*
+Sitemap: https://www.grandsalinetx.gov/sitemap.xml

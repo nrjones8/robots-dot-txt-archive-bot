@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+
+User-Agent: *
+Allow: /
+
+
+Sitemap: https://www.airforce.com/sitemap.xml
+Sitemap: https://www.airforce.com/video-sitemap.xml

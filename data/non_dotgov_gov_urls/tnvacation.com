@@ -54,7 +54,7 @@ Disallow: /music-pathway/application
 Disallow: /pathway-markers/*
 Disallow: /style-guide/
 Disallow: /sites/default/files/*
-Disallow: /biketn
+Disallow: /sound-bites-sampler/
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
