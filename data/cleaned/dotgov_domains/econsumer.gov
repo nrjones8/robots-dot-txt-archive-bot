@@ -1,1 +1,71 @@
-Request failed
+# robots.txt for eConsumer.gov
+# This file manages access for web crawlers and search engines.
+# Allow all search engines access to the main site
+User-agent: *
+Disallow:
+# Block specific sections that are not meant for indexing
+Disallow: /admin/             # Admin pages
+Disallow: /login/             # Login pages
+Disallow: /register/          # Registration pages
+Disallow: /api/               # API endpoints
+Disallow: /_framework/        # Framework files
+Disallow: /_content/          # Static content not meant for indexing
+Disallow: /assets/            # Internal assets like JS, CSS, images
+Disallow: /error/             # Error pages
+Disallow: /private/           # Private data and files
+# Allow specific bots like Google Image crawler
+User-agent: Googlebot-Image
+Allow: /
+# Block known bad bots
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: MegaIndex
+Disallow: /
+User-agent: Sogou
+Disallow: /
+User-agent: Cliqzbot
+Disallow: /
+User-agent: SEOkicks-Robot
+Disallow: /
+User-agent: SEOBilityBot
+Disallow: /
+User-agent: LinkpadBot
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: wotbox
+Disallow: /
+User-agent: VoilaBot
+Disallow: /
+User-agent: Ezooms
+Disallow: /
+User-agent: SiteExplorer
+Disallow: /
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+User-agent: Barkrowler
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: mail.ru
+Disallow: /
+User-agent: ZoominfoBot
+Disallow: /

@@ -70,3 +70,9 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Attempt to stop AI Claudebot agent
+User-agent: Claudebot
+Disallow: /
+# Attempt to stop Fuzz Faster U Fool UA
+User-agent: Fuzz Faster U Fool v2.1.0-dev
+Disallow: /

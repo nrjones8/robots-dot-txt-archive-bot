@@ -470,6 +470,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Coconut-Grove-at-City-Hall-NET-Office
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Downtown-Brickell-NET-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Flagami-NET-at-Antonio-Maceo-Park-1
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Havana-NET-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Marlins-Park-NET-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Model-City-NET-at-North-District-Substation-1
@@ -478,6 +479,7 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Wynwood-Edgewater-NET-at-Roberto-Clemente-Park-1
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Downtown-Brickell-NET
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Flagami-NET-at-Antonio-Maceo-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Havana-NET
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Marlins-Park-NET
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Model-City-NET-at-North-District-Substation
@@ -500,6 +502,8 @@ Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organiz
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-NET
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-Overtown
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Model-City-NET-at-North-District-Substation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Model-City-Service-Center-at-North-District-Substation
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/NET-Administration-Office-at-Green-Lab
@@ -872,8 +876,10 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Comm
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Coconut-Grove-Service-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D1-Antonio-Maceo-Park-District-Office
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D5-Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Flagami-District-Four-Office
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Marlins-Park-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -881,6 +887,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Comm
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Overtown-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Upper-Eastside-Service-Center-at-Legion-Park
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/WynwoodEdgewater-Service-Center-at-Roberto-Clemente-Park
+Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Commissioner-District-Offices/Copy-of-Commissioner-District-Offices-1/D5-Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Communications/New-page
 Disallow: /$720cfbd8-df7e-4b88-bf92-e218d51ee173$/My-Government/Departments/Copy-of-Code-Compliance-1
@@ -921,6 +928,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neig
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Coconut-Grove-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Flagami-District-Four-Office
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Little-Havana-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Marlins-Park-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -933,6 +941,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neig
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Coconut-Grove-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Flagami-District-Four-Office
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Little-Havana-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Marlins-Park-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -946,6 +955,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neig
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Coconut-Grove-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Flagami-District-Four-Office
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Havana-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Marlins-Park-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Model-City-Service-Center-at-North-District-Substation
@@ -960,6 +970,7 @@ Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neig
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Coconut-Grove-Service-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Flagami-District-Four-Office
+Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Havana-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Marlins-Park-NET
 Disallow: /$720CFBD8-DF7E-4B88-BF92-E218D51EE173$/My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Model-City-Service-Center-at-North-District-Substation
@@ -2341,6 +2352,7 @@ Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NE
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Coconut-Grove-at-City-Hall-NET-Office
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Downtown-Brickell-NET-1
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Flagami-NET-at-Antonio-Maceo-Park-1
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center-1
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Little-Havana-NET-1
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Marlins-Park-NET-1
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Model-City-NET-at-North-District-Substation-1
@@ -2349,6 +2361,7 @@ Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NE
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Copy-of-Wynwood-Edgewater-NET-at-Roberto-Clemente-Park-1
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Downtown-Brickell-NET
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Flagami-NET-at-Antonio-Maceo-Park
+Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Little-Havana-NET
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Marlins-Park-NET
 Disallow: /Government/Departments-Organizations/Neighborhood-Enhancement-Team-NET/NET-Offices/Model-City-NET-at-North-District-Substation
@@ -2371,6 +2384,8 @@ Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-For
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-NET
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-Overtown
+Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Little-Haiti-NET-at-the-Arthur-E.-Teele-Jr.-Community-Center
+Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Model-City-NET-at-North-District-Substation
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/Model-City-Service-Center-at-North-District-Substation
 Disallow: /Government/Departments-Organizations/Neighborhood-Service-Centers-Formerly-NET/Neighborhood-Service-Centers-Formerly-NET/NET-Administration-Office-at-Green-Lab
@@ -2831,8 +2846,10 @@ Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Antonio-Maceo-Park-Service-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Coconut-Grove-Service-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D1-Antonio-Maceo-Park-District-Office
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/D5-Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Flagami-District-Four-Office
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Little-Havana-NET
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Marlins-Park-NET
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -2840,6 +2857,7 @@ Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Overtown-Service-Center
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/Upper-Eastside-Service-Center-at-Legion-Park
 Disallow: /My-Government/Departments/Commissioner-District-Offices/Commissioner-District-Offices/WynwoodEdgewater-Service-Center-at-Roberto-Clemente-Park
+Disallow: /My-Government/Departments/Commissioner-District-Offices/Copy-of-Commissioner-District-Offices-1/D5-Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Communications/Communications-Services-Request
 Disallow: /My-Government/Departments/Communications/New-page
 Disallow: /My-Government/Departments/Copy-of-Code-Compliance-1
@@ -2880,6 +2898,7 @@ Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commis
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Coconut-Grove-Service-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Flagami-District-Four-Office
+Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Little-Havana-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Marlins-Park-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioner-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -2892,6 +2911,7 @@ Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commis
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Coconut-Grove-Service-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Flagami-District-Four-Office
+Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Little-Havana-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Marlins-Park-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Commissioners-District-Offices/Model-City-Service-Center-at-North-District-Substation
@@ -2905,6 +2925,7 @@ Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighb
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Coconut-Grove-Service-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Flagami-District-Four-Office
+Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Havana-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Marlins-Park-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division/Neighborhood-Service-Center-Locations-Formerly-NET/Model-City-Service-Center-at-North-District-Substation
@@ -2919,6 +2940,7 @@ Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Former
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Coconut-Grove-Service-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Downtown-Brickell-Service-Center-Operating-out-of-MRC
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Flagami-District-Four-Office
+Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Haiti-Service-Center-at-the-Arthur-E.-Teele-Jr.-Community-Center
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Little-Havana-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Marlins-Park-NET
 Disallow: /My-Government/Departments/Neighborhood-Service-Center-Division-Formerly-NET/Neighborhood-Service-Center-Locations-Formerly-NET/Model-City-Service-Center-at-North-District-Substation

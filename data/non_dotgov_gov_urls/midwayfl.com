@@ -1,0 +1,1 @@
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='midwayfl.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe842813c70>, 'Connection to midwayfl.com timed out. (connect timeout=15)'))"}

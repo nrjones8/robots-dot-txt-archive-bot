@@ -1,15 +1,1 @@
-User-agent: *
-Crawl-delay: 5 # per http://en.wikipedia.org/wiki/Robots.txt#Nonstandard_extensions, sets number of seconds to wait between requests to 5 seconds. may not work
-Allow: /
-Disallow: /admin/
-Disallow: /uspstf/admin/
-Disallow: /uspstf/user/register/
-Disallow: /uspstf/user/password/
-Disallow: /uspstf/user/login/
-Disallow: /uspstf/user/logout/
-Disallow: /uspstf/index.php/admin/
-Disallow: /uspstf/index.php/search/
-Disallow: /uspstf/index.php/user/password/
-Disallow: /uspstf/index.php/user/register/
-Disallow: /uspstf/index.php/user/login/
-Disallow: /uspstf/index.php/user/logout/
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.uspreventiveservicestaskforce.org', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe8429c4370>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

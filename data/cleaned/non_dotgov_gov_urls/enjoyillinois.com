@@ -12,3 +12,5 @@ Disallow: /page-not-found/
 Disallow: /seven-faces-of-illinois-tourism/
 Disallow: /illinois-made-gift-basket-giveaway/
 Disallow: /rivian-road-trip/
+Disallow: /en-gb/
+Disallow: /thanks-for-subscribing/

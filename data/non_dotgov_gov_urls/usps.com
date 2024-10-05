@@ -1,14 +1,1 @@
-User-agent: *
-Disallow: /ContentTemplates/
-Disallow: /root/
-Disallow: /business/global/
-Disallow: /manage/global/
-Disallow: /send/global/
-Disallow: /ship/global/
-Disallow: /shop/global/
-Disallow: /go/tools/po-locator/po-locator.html
-Disallow: /go/tools/track-confirm/quick-track.html
-Disallow: /go/tools/zip-code-lookup/quick-zip.html
-Disallow: /shippingassistant/
-Disallow: /business/shipping-assistant.htm
-Disallow: /leadingtogether/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='usps.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fe8429f2ac0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

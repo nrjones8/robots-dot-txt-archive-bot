@@ -1,1 +1,43 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}
+User-Agent: googlebot
+Allow: /
+crawl-delay: 2
+User-Agent: googlebot-image
+Allow: /
+crawl-delay: 2
+User-Agent: duckduckbot
+Allow: /
+crawl-delay: 2
+User-Agent: bingbot
+Allow: /
+crawl-delay: 2
+User-Agent: msnbot
+Allow: /
+crawl-delay: 2
+Sitemap: https://www.vdot.virginia.gov/sitemap-en.xml
+ 
+User-Agent: va-esearch-crawler
+Allow: /
+
+User-Agent: SiteimproveBot-Crawler
+Allow: /
+Disallow: /news-events/events/calendar/
+Disallow: /archived-content/ 
+Disallow: /site-assets/ 
+
+User-agent: *
+Disallow: /
+ 
+User-agent: Terminalfour Nutch Spider
+Crawl-delay: 0.5
+ 
+User-agent: SearchStax Crawler/1.0 (+https://www.searchstax.com)
+Crawl-delay: 0.5
+Disallow: /search/
+Disallow: /site-assets/
+Disallow: /components-library/
+
+User-agent: W3C-checklink
+Disallow: /search/
+Disallow: /site-assets/
+Disallow: /components-library/
+Disallow: /archived-content/ 
