@@ -6,5 +6,8 @@ Allow: /
 Sitemap: https://extension.purdue.edu/extension-sitemap.xml
 Sitemap: https://extension.purdue.edu/events/extension-sitemap.xml
 Sitemap: https://extension.purdue.edu/news/extension-sitemap.xml
-
 Sitemap: https://extension.purdue.edu/extension-pdf-sitemap.xml
+#
+# Disallow for live site testing
+#
+Disallow: /testing/

@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /edit/
+Disallow: /search/
+Disallow: /components/
+Disallow: /fonts/
+Disallow: /old/
+Disallow: /php/
+
+Sitemap: https://www.tuscolacounty.org/sitemap.xml

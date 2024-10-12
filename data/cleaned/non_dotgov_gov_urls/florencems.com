@@ -1,1 +1,3 @@
-Got an HTML response
+User-agent: *
+Disallow: 
+Sitemap: https://florencems.com/sitemap.xml

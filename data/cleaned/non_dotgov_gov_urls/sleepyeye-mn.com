@@ -32,12 +32,12 @@ Disallow: /https://www.gopherstateonecall.org/
 Disallow: /https://www.sleepyeye-mn.com/codes-ordinances-resolutions--policies.html/#Ordinances
 Disallow: /https://www.sleepyeye-mn.com/economic-development.html
 Disallow: /https://www.sleepyeye-mn.com/event-center.html
-Disallow: /i-want-to.html
 Disallow: /sign-up.html
 Disallow: /https://www.sleepyeye-mn.com/utilities--services.html/#pay
 Disallow: /view.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
+Disallow: /i-want-to.html
 Disallow: /https://www.sleepyeye-mn.com/utilities--services.html/#NaturalGas
 Disallow: /https://www.sleepyeye-mn.com/codes-ordinances-resolutions--policies.html/#Resolutions
 Disallow: /https://www.sleepyeye-mn.com/calendars--social.html/#FacebookFeeds
@@ -46,10 +46,10 @@ Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/city-lots-maps.html
 Disallow: /https://www.sleepyeye-mn.com/family-aquatic-center.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
+Disallow: /https://www.sleepyeye-mn.com/event-center.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html
 Disallow: /https://www.sleepyeye-mn.com/rebates.html
 Disallow: /https://www.sleepyeye-mn.com/city-lots-maps.html
-Disallow: /https://www.sleepyeye-mn.com/event-center.html
 Disallow: /https://www.sleepyeye-mn.com/waste-management.html
 Disallow: /https://www.sleepyeye-mn.com/rental-license--inspections.html
 Disallow: /https://www.sleepyeye-mn.com/permits.html

@@ -2,7 +2,9 @@
 # prohibited unless you have express written permission from Facebook
 # and may only be conducted for the limited purpose contained in said
 # permission.
-# See: http://www.facebook.com/apps/site_scraping_tos_terms.php
+# All authorized user-agents listed on this page must comply with Meta’s
+# Automated Data Collection Terms available at:
+# https://www.facebook.com/legal/automated_data_collection_terms
 User-agent: Amazonbot
 Disallow: /
 
@@ -19,6 +21,9 @@ User-agent: GPTBot
 Disallow: /
 
 User-agent: PetalBot
+Disallow: /
+
+User-agent: uptimerobot
 Disallow: /
 
 User-agent: viberbot
@@ -832,3 +837,19 @@ Allow: /safetycheck/
 
 User-agent: *
 Disallow: /
+
+Sitemap: https://www.facebook.com/sitemap/cpg_offplat_future_public_events_sitemap.xml.gz
+Sitemap: https://www.facebook.com/sitemap/public_active_groups_sitemap.xml.gz
+Sitemap: https://www.facebook.com/sitemap/groups_popular_posts_sitemap_qe.xml.gz
+Sitemap: https://www.facebook.com/sitemap/groups_ifr_groups_sitemap.xml.gz
+Sitemap: https://www.facebook.com/sitemap/groups_ifr_video_posts_sitemap.xml.gz
+Sitemap: https://www.facebook.com/sitemap/mfb_sitemap.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_2500_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_150_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_no_vanity_2500_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_no_vanity_150_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/local_business_profiles_150_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_no_vanity_p_2500_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/profiles_no_vanity_p_150_followers.xml.gz
+Sitemap: https://www.facebook.com/sitemap/crawled_reels_2023_07_10_crawl.xml.gz
+Sitemap: https://www.facebook.com/sitemap/group_aggregation_pages_sitemap.xml.gz

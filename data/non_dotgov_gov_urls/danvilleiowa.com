@@ -1,1 +1,1 @@
-File not found.
+{"type":"bot.limit_reached"}

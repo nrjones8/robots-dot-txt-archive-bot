@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='www.hiv.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fe84280a700>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Allow: /
+Disallow: /federal-response/ending-the-hiv-epidemic/prep-program
+Disallow: /federal-response/ending-the-hiv-epidemic/prep-pharmacies
+Disallow: /federal-response/ending-the-hiv-epidemic/prep-program-resources
+Disallow: /federal-response/ending-the-hiv-epidemic/prep-pharmacies/health-mart-pharmacies
+Crawl-delay: 10
+Sitemap: https://www.hiv.gov/sitemap-index.xml
+Host: https://www.hiv.gov

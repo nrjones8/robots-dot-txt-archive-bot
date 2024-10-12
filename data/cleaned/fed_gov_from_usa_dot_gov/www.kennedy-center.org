@@ -9,6 +9,8 @@ Disallow: /checkout/add-parking
 Disallow: /checkout/SmartSeat
 Disallow: /Account/Change-Password
 Disallow: /checkout/Ticket-History
+User-agent: facebookexternalhit
+Disallow: 
 User-agent: bingbot
 Crawl-delay: 5
 Sitemap: https://www.kennedy-center.org/sitemap.xml

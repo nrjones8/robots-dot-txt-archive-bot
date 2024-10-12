@@ -19,4 +19,4 @@ Disallow: */feed/
 #Googlebot-News
 User-agent: Googlebot-News
 Allow: */feed/
-Sitemap: https://nicfa.org/sitemap_index.xml
+Sitemap: https://arttechlaw.com/sitemap_index.xml

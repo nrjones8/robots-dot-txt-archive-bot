@@ -1,4 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Sitemap: https://www.vafire.com/wp-sitemap.xml
+Disallow:
+Sitemap: https://www.vafire.com/sitemap_index.xml
+Sitemap: https://www.vafire.com/state-fire-marshals-office/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

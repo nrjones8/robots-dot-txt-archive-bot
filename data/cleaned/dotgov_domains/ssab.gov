@@ -1,5 +1,39 @@
+# robots.txt for WordPress website with low resources
 User-agent: *
+# Disallow access to WordPress admin and includes directories
 Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+# Disallow access to WordPress login page, registration, and other sensitive pages
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+# Disallow access to specific plugins' directories
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/uploads/
+# Disallow access to the WordPress feeds
+Disallow: /feed/
+Disallow: /comments/feed/
+# Disallow crawling of search results pages
+Disallow: /?s=
+# Prevent crawling of URL parameters that can generate duplicate content
+Disallow: /*?*
+Disallow: /*.php$
+Disallow: /*.cgi$
+Disallow: /*.pl$
+# Allow access to wp-content for themes and images
+Allow: /wp-content/themes/
+Allow: /wp-content/uploads/
+# Limit crawling rate to reduce server load
+Crawl-delay: 10
+# Block specific file types that are not useful to be crawled
+Disallow: /*.zip$
+Disallow: /*.exe$
+Disallow: /*.pdf$
+# Prevent crawling of the WordPress readme file
+Disallow: /readme.html
+# Prevent access to the WordPress xmlrpc file, which is often targeted by bots
+Disallow: /xmlrpc.php
+# Prevent crawling of author archives to avoid duplicate content
+Disallow: /author/
+# Sitemap location (optional, if you have one)
 Sitemap: https://www.ssab.gov/sitemap.xml
-Sitemap: https://www.ssab.gov/sitemap.rss

@@ -19,3 +19,8 @@ Disallow: /events/action~month/
 Disallow: /events/action~week/
 Disallow: /events/action~stream/
 Disallow: /police/police-services/traffic-collision-reports/
+Allow: /*.css
+Allow: /*.js
+Disallow: /*?
+Crawl-delay: 3
+Disallow: /planning-and-development/building/photovoltaic/

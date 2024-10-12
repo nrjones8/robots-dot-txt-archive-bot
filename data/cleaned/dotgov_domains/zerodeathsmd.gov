@@ -2,3 +2,6 @@
 # Allow crawling of all content
 User-agent: *
 Disallow: /admin/
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

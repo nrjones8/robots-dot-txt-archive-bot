@@ -1,1 +1,25 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='haysville-ks.com', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Allow: /
+User-agent: Googlebot
+Disallow: *?lightbox=
+
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# Crawl delay for overly enthusiastic bots
+User-agent: dotbot
+Crawl-delay: 10
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+Sitemap: https://www.haysville-ks.com/sitemap.xml
+
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

@@ -38,15 +38,12 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
-Disallow: /departments/planning-development-sustainability/medford-community-land-trust-study$
-Disallow: /departments/planning-development-sustainability/medford-community-land-trust-study?
-Disallow: /departments/planning-development-sustainability/medford-community-land-trust-study/~
-Disallow: /for-residents/transportation/medford$
-Disallow: /for-residents/transportation/medford?
-Disallow: /for-residents/transportation/medford/~
 Disallow: /posts-under-construction$
 Disallow: /posts-under-construction?
 Disallow: /posts-under-construction/~
+Disallow: /departments/mayors-office-clone$
+Disallow: /departments/mayors-office-clone?
+Disallow: /departments/mayors-office-clone/~
 Disallow: /for-businesses/medford-business-guide$
 Disallow: /for-businesses/medford-business-guide?
 Disallow: /for-businesses/medford-business-guide/~
@@ -62,12 +59,15 @@ Disallow: /for-businesses/test-business-dev/~
 Disallow: /for-residents/transportation/medford-used$
 Disallow: /for-residents/transportation/medford-used?
 Disallow: /for-residents/transportation/medford-used/~
-Disallow: /for-residents/transportation/green-line-extension$
-Disallow: /for-residents/transportation/green-line-extension?
-Disallow: /for-residents/transportation/green-line-extension/~
 Disallow: /migration$
 Disallow: /migration?
 Disallow: /migration/~
+Disallow: /for-residents/transportation/medford$
+Disallow: /for-residents/transportation/medford?
+Disallow: /for-residents/transportation/medford/~
+Disallow: /for-residents/transportation/green-line-extension$
+Disallow: /for-residents/transportation/green-line-extension?
+Disallow: /for-residents/transportation/green-line-extension/~
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan$
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan?
 Disallow: /for-residents/transportation/medford-6-year-capital-improvment-plan/~
@@ -80,9 +80,6 @@ Disallow: /mayors-office/citywide-cleanup/~
 Disallow: /departments/mayors-office/temporary-overnight-shelters$
 Disallow: /departments/mayors-office/temporary-overnight-shelters?
 Disallow: /departments/mayors-office/temporary-overnight-shelters/~
-Disallow: /departments/mayors-office-clone$
-Disallow: /departments/mayors-office-clone?
-Disallow: /departments/mayors-office-clone/~
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page$
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page?
 Disallow: /production/navigation/tier-three-page/tier-four-page/tier-five-page/~
