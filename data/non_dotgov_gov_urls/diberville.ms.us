@@ -1,2 +1,19 @@
 User-agent: * 
 Crawl-Delay: 20
+
+Disallow: *post_type=tribe_events*
+Disallow: *hide_subsequent_recurrences=*
+Disallow: *tribe-bar-date=*
+Disallow: *tribe-venue=*
+Disallow: *eventDisplay=*
+Disallow: *eventDate=*
+Disallow: *paged=*
+Disallow: *pagename=*
+Disallow: *shortcode=*
+Disallow: *ical=*
+Disallow: *outlook-ical=*
+Disallow: *related_series=*
+Disallow: *tribe_geofence=*
+Disallow: *tribe_organizer=*
+Disallow: /events/*
+Disallow: /staff/*

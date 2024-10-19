@@ -1,6 +1,3 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
 Disallow: /calendar/action~posterboard/
 Disallow: /calendar/action~agenda/
 Disallow: /calendar/action~oneday/
@@ -17,3 +14,10 @@ Disallow: /*/action~*/
 User-agent: *
 Disallow: /*blackhole
 Disallow: /?blackhole
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://www.plymouthtownship.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

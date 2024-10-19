@@ -1,12 +1,15 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
 # START WPFORMS BLOCK
 # ---------------------------
 User-agent: *
-Disallow: https://ogdenny.gov/wp-content/uploads/wpforms/
+Disallow: /wp-content/uploads/wpforms/
 # ---------------------------
 # END WPFORMS BLOCK
 
-Sitemap: https://ogdenny.gov/wp-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ogdenny.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

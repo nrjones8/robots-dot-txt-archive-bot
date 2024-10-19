@@ -14,7 +14,7 @@
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
 # Crawl Settings
-Crawl-delay: 20
+Crawl-delay: 40
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -47,6 +47,7 @@ Disallow: /search
 Disallow: /filter/tips
 Disallow: /node/add/
 Disallow: /node/
+Disallow: /prerelease/
 Disallow: /search/
 Disallow: /user/register/
 Disallow: /user/password/

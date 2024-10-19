@@ -1,8 +1,5 @@
-# START YOAST BLOCK
-# ----
 User-agent: *
-Disallow: /wp-content/redis-error.php
- 
-Sitemap: https://www.jacksonms.gov/sitemap_index.xml
-# ----
-# END YOAST BLOCK
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://ww2.jacksonms.gov/wp-sitemap.xml

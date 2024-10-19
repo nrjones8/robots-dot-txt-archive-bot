@@ -1,18 +1,1 @@
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: FacebookBot
-Allow: /
-
-User-agent: LinkedInBot/1.0
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-
-User-agent: *
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='greenriverutah.com', port=80): Read timed out. (read timeout=15)"}

@@ -12,13 +12,14 @@ Disallow: /https://www.sleepyeye-mn.com/city-board-and-commissions.html/#Advisor
 Disallow: /https://www.sleepyeye-mn.com/utilities--services.html/#pay
 Disallow: /https://www.sleepyeye-mn.com/government.html/#ElectedOfficials
 Disallow: /https://www.sleepyeye-mn.com/utilities--services.html/#pay
-Disallow: /https://www.sleepyeye-mn.com/blight.html
+Disallow: /https://www.sleepyeye-mn.com/se-police-dept.html
 Disallow: /https://semedicalcenter.org/patients/billing-and-financial-assistance/
 Disallow: /https://www.sleepyeye-mn.com/administration--city-hall.html/#CityHallContact
 Disallow: /pay.html
 Disallow: /https://www.sleepyeye-mn.com/building-permit.html
 Disallow: /https://resnexus.com/resnexus/reservations/book/1B150E96-A3CA-43E1-B088-E6096C779202?uniqueId=1B150E96-A3CA-43E1-B088-E6096C779202&mapID=3
 Disallow: /https://www.sleepyeye-mn.com/agendas-and-minutes.html
+Disallow: /https://www.sleepyeye-mn.com/blight.html
 Disallow: /contact.html
 Disallow: /https://www.sleepyeye-mn.com/government.html
 Disallow: /https://www.sleepyeye-mn.com/calendars--social.html/#CityCalendars

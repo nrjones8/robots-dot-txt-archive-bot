@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='juabcounty.gov', port=443): Read timed out. (read timeout=15)"}
+Sitemap: https://juabcounty.gov/sitemap.xml
+Sitemap: https://juabcounty.gov/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

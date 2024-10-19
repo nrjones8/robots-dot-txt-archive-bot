@@ -1,1 +1,9 @@
-{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+User-agent: *
+Disallow: /web/gwinnett/Calendar/General
+Disallow: /web/gwinnett/Calendar/TVGwinnett
+Disallow: /web/gwinnett/Calendar/DOTEvents
+Disallow: /web/gwinnett/Calendar/General/
+Disallow: /web/gwinnett/Calendar/TVGwinnett/
+Disallow: /web/gwinnett/Calendar/DOTEvents/
+Disallow: /web/gwinnett/AboutGwinnett/Transportation/Transportation/RoadClosures
+Allow: /

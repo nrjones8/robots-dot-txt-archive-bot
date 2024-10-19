@@ -9,6 +9,8 @@ Disallow: /App_Data/
 Disallow: /App_config/
 Disallow: /unsubscribe
 Disallow: /App_Browsers/
+Disallow: /Search-Results
+Disallow: /search-results
 Disallow: /sitecore_files/
 Disallow: /search-results/
 Disallow: /promounsubscribe

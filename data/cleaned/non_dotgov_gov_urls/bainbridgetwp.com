@@ -1,3 +1,4 @@
+<!-- Allowed: Site is public -->
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php

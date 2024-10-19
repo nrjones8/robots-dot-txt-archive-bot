@@ -22,4 +22,4 @@ Disallow: */feed/
 User-agent: Googlebot-News
 Allow: */feed/
 
-Sitemap: https://arttechlaw.com/sitemap_index.xml
+Sitemap: https://www.hoken-partner.com/sitemap_index.xml
