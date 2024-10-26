@@ -12,6 +12,7 @@
 # https://www.robotstxt.org/orig.html
 User-agent: *
 Disallow: /administrator/
+Disallow: /api/
 Disallow: /bin/
 Disallow: /cache/
 Disallow: /cli/

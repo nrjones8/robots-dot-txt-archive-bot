@@ -55,6 +55,7 @@ Disallow: /pathway-markers/*
 Disallow: /style-guide/
 Disallow: /sites/default/files/*
 Disallow: /sound-bites-sampler/
+Disallow: /experiences/family/playcation-butterfly-ticket/redeem/
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/

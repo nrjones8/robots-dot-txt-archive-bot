@@ -1214,7 +1214,10 @@ Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refu
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /My-Government/Elections/2024-Countywide-Elections-Information
 Disallow: /My-Government/Elections/2024-Election-Information
+Disallow: /My-Government/Elections/Copy-of-Candidates-1
 Disallow: /My-Government/Elections/Early-Voting
+Disallow: /My-Government/Elections/Election-Notices
+Disallow: /My-Government/Elections/Election-Notices-August-20-2024-City-of-Miami-Special-Election
 Disallow: /My-Government/Elections/Elections-Information
 Disallow: /My-Government/Elections/Financial-Disclosure-Information
 Disallow: /My-Government/Elections/Financial-Disclosure-Information-Electronic
@@ -1776,6 +1779,8 @@ Disallow: /Shortcut-Content/Public-Notices/New-page
 Disallow: /Shortcut-Content/Public-Notices/Notice-of-Funding-Availability-State-Housing-Initiatives-Partnership-SHIP-Program-Funding
 Disallow: /Shortcut-Content/Works-Projects
 Disallow: /Site-Footer
+Disallow: /Site-Footer/Sub-Footer-Links/Copyright
+Disallow: /Site-Footer/Sub-Footer-Links/New-page
 Disallow: /Slideshow
 Disallow: /Slideshow/Commissioner-Hardemon-Gallery
 Disallow: /Slideshow/Commissioner-Reyes-Gallery

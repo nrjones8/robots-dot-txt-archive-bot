@@ -73,6 +73,16 @@ Disallow: /Admin/
 Disallow: /bin/
 Disallow: /Bin/
 Crawl-delay: 30
+User-agent: meta-externalagent
+Disallow:   /SignIn.aspx
+Disallow:   /ForgotPassword.aspx
+Disallow:   /register.aspx
+Disallow:   /registermember.aspx
+User-agent: facebookexternalhit
+Disallow:   /SignIn.aspx
+Disallow:   /ForgotPassword.aspx
+Disallow:   /register.aspx
+Disallow:   /registermember.aspx
 User-agent: CCBot
 Disallow: /
 User-agent: GPTBot
