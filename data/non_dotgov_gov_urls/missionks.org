@@ -2,7 +2,12 @@
 User-agent: *
 Disallow: /calendar/action*
 Disallow: /events/action*
+Disallow: /wp-content/uploads/2020/*/*.pdf
+Disallow: /wp-content/uploads/2021/*/*.pdf
+Disallow: /wp-content/uploads/2022/*/*.pdf
+Disallow: /wp-content/uploads/2023/*/*.pdf
 Allow: /*.css
 Allow: /*.js
 Disallow: /*?
 Crawl-delay: 3
+

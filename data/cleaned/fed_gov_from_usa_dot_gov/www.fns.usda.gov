@@ -35,9 +35,7 @@ Allow: /profiles/*.svg
 # Directories
 Disallow: /core/
 Disallow: /profiles/
-Disallow: /sites/default/files/
 # Files
-Disallow: /README.txt
 Disallow: /README.md
 Disallow: /composer/Metapackage/README.txt
 Disallow: /composer/Plugin/ProjectMessage/README.md
@@ -72,5 +70,3 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
-# Sitemap
-Sitemap: https://www.fns.usda.gov/sitemap.xml

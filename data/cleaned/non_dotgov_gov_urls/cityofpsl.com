@@ -143,10 +143,16 @@ Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/Litter-Prevention/Litter-Eradication-Action-Plan-LEAP
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/New-page
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/Sponsors-Donations
+Disallow: /Government/Your-City-Government/Departments/Public-Works/Public-Works-Projects-Programs/Hogpen-Slough-Project
+Disallow: /Government/Your-City-Government/Departments/Public-Works/Public-Works-Projects-Programs/New-page
+Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Adopted-rate-increase-for-utility-customers
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercial-Development-Utility-Engineering/New-Building-Construction/New-page
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercial-Development-Utility-Engineering/New-Building-Construction/Utility-Forms-Documents
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercial-Development-Utility-Engineering/Utility-Forms-Documents
+Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Copy-of-Proposed-rate-increase-for-utility-customers-1
+Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Proposed-rate-increase-for-utility-customers
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Utility-Divisions/Commercial-Development-Utility-Engineering/Utility-Forms-Documents
+Disallow: /hogpen
 Disallow: /Home/EM-Bar/Copy-of-High-Template-1
 Disallow: /Home/EM-Bar/Copy-of-Medium-Template-1
 Disallow: /Home/EM-Bar/High-Template

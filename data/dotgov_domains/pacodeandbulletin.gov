@@ -1,1 +1,15 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: Amazonbot
+Disallow: /       
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow:/usage/
+Disallow:/aspnet_client/
+Disallow:/reports/
+Disallow:/admin/
+Disallow:/manager/

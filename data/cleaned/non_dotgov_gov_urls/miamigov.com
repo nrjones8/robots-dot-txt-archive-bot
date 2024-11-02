@@ -588,7 +588,6 @@ Disallow: /Government/Departments-Organizations/Speical-Terms-Conditions_version
 Disallow: /Government/Departments-Organizations/Test-Building-Department-Page
 Disallow: /Government/Departments-Organizations/Zoning/Get-a-Liquor-License-Review
 Disallow: /Government/Departments-Organizations/Zoning/New-page
-Disallow: /Government/Departments-Organizations/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Government/Departments-Organizations/Zoning/Zoning-Interpretation-2010-0003
 Disallow: /Government/Departments-Organizations/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /Government/Elections
@@ -703,7 +702,6 @@ Disallow: /https://www.miamigov.com/Services/Your-Neighborhood/Resident-Satisfac
 Disallow: /Image-Galleries
 Disallow: /Image-Galleries/Image-Gallery-Test
 Disallow: /Image-Galleries/TEST-Image-Gallery
-Disallow: /impactfee
 Disallow: /interimparking
 Disallow: /Internal-Styles
 Disallow: /isaias
@@ -868,6 +866,8 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Releas
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
+Disallow: /My-Government/Departments/Building/Building-FAQs/FAQ-TEST
+Disallow: /My-Government/Departments/Building/Building-FAQs/New-page
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
@@ -1210,7 +1210,6 @@ Disallow: /My-Government/Departments/Solid-Waste/About-Street-Sweeping
 Disallow: /My-Government/Departments/TEST-1-of-Code-Compliance
 Disallow: /My-Government/Departments/TEST-2-of-Code-Compliance
 Disallow: /My-Government/Departments/Zoning/Get-a-Liquor-License-Review
-Disallow: /My-Government/Departments/Zoning/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /My-Government/Departments/Zoning/Zoning-Interpretations/Zoning-Interpretation-2010-0003
 Disallow: /My-Government/Elections/2024-Countywide-Elections-Information
 Disallow: /My-Government/Elections/2024-Election-Information
@@ -1367,11 +1366,9 @@ Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covena
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Development-Covenant/Zoning-Covenant-Checklist
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Get-a-Liquor-License-Review
 Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Register-for-Confidential-Exempt-Self-Identification
-Disallow: /Planning-Zoning-Land-Use/Land-Property-Usage/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Planning-Zoning-Land-Use/New-page
 Disallow: /Planning-Zoning-Land-Use/Register-for-Confidential-Exempt-Self-Identification
 Disallow: /Planning-Zoning-Land-Use/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
-Disallow: /Planning-Zoning-Land-Use/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Planning-Zoning-Land-Use/Rezones/Bi-annual-Cycle-for-Public-Hearings
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Miami-21-Atlas-Rezone-Future-Land-Use-Map-FLUMComprehensive-PlanSpecial-Area-Plan-SAP/Future-Land-Use-Map-FLUM-Amendment-Checklist
 Disallow: /Planning-Zoning-Land-Use/Rezones/Request-a-Change-of-Zoning-RezoneFLUMSAPComp-Plan/Future-Land-Use-Map-FLUM-Amendment-Checklist
@@ -1887,7 +1884,6 @@ Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Private-Utilities-Construction-Application-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
-Disallow: /Transportation-Roadways/Request-an-Impact-Fee-Credit-or-Refund
 Disallow: /Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Calendar
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Detours-Holidays/Trolley-Alerts-and-Detours

@@ -12,4 +12,5 @@ Disallow: /https://senecaalleganycasino.com/
 Disallow: /https://sni.org/
 Disallow: /https://www.salamancany.org/
 Disallow: /http://www.salamancabpu.com/
+Disallow: /section-8-rental.html
 Disallow: /https://www.salmunida.com/section-8-rental-assistance.html

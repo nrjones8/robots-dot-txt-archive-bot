@@ -13,6 +13,8 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
+Disallow: /website-accessibility-statement.html$
+
 # All other robots allowed
 User-agent: *
 Allow: /

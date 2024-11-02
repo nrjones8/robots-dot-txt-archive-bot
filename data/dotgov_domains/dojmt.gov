@@ -1,9 +1,3 @@
 User-agent: *
-Disallow: /download/
-Disallow: /cjis-security-policy-risk-assessment-lite/
-
-User-agent: Swiftbot
-Disallow: /download/392/
-Disallow: /download/393/
-Disallow: /cjis-security-policy-risk-assessment-lite/
-Disallow: /gamblingissues/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
