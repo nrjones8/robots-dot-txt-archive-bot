@@ -75,3 +75,6 @@ Disallow: /index.php/*/media/oembed
 #Disallow the profile directory as per OPA request 2/1/24
 Disallow: /profile/
 Disallow: /profile/*
+#Disallow the files/assets/documents directory 10/04/24
+Disallow:  /sites/default/files/assets/documents/
+Disallow:  /sites/default/files/assets/documents/*

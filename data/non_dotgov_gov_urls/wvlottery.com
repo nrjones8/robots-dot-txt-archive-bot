@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-Agent: *
+Disallow: /api/*
+Disallow: /api/
+Disallow: /mobile/*
+Disallow: /mobile/
+
+Sitemap: https://wvlottery.com/sitemap.xml

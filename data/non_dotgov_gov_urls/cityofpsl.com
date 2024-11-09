@@ -42,6 +42,12 @@ Disallow: /Government/About-PSL/Welcome-Guide
 Disallow: /Government/Discover-Us/About-PSL/Understanding-Our-Development
 Disallow: /Government/Discover-Us/About-PSL/Welcome-Guide
 Disallow: /Government/Discover-Us/Growth-Development
+Disallow: /Government/Discover-Us/Hot-Topics
+Disallow: /Government/Discover-Us/New-page
+Disallow: /Government/Discover-Us/PSL-Hot-Topics
+Disallow: /Government/Discover-Us/Transparency
+Disallow: /Government/Discover-Us/Transparency/Finance
+Disallow: /Government/Discover-Us/Transparency/New-page
 Disallow: /Government/Discover-Us/Understanding-Our-Development
 Disallow: /Government/Discover-Us/Welcome-Guide
 Disallow: /Government/Mobility-Infrastructure/Copy-of-Repaving-Master-Plan-1
@@ -59,6 +65,11 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Op
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/New-page
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Home-Decorating-Contest
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Home-Outdoor-Decorating-Contest
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Scavenger-Hunt
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/Stroll-through-the-Lights
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/New-page
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/Southern-Grove
@@ -144,8 +155,6 @@ Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/Litter-Prevention/Litter-Eradication-Action-Plan-LEAP
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/New-page
 Disallow: /Government/Your-City-Government/Departments/Public-Works/Keep-Port-St-Lucie-Beautiful/Sponsors-Donations
-Disallow: /Government/Your-City-Government/Departments/Public-Works/Public-Works-Projects-Programs/Hogpen-Slough-Project
-Disallow: /Government/Your-City-Government/Departments/Public-Works/Public-Works-Projects-Programs/New-page
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Adopted-rate-increase-for-utility-customers
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercial-Development-Utility-Engineering/New-Building-Construction/New-page
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercial-Development-Utility-Engineering/New-Building-Construction/Utility-Forms-Documents
@@ -153,7 +162,6 @@ Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Commercia
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Copy-of-Proposed-rate-increase-for-utility-customers-1
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Proposed-rate-increase-for-utility-customers
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Utility-Divisions/Commercial-Development-Utility-Engineering/Utility-Forms-Documents
-Disallow: /hogpen
 Disallow: /Home/EM-Bar/Copy-of-High-Template-1
 Disallow: /Home/EM-Bar/Copy-of-Medium-Template-1
 Disallow: /Home/EM-Bar/High-Template

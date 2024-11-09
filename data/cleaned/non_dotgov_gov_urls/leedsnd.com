@@ -19,4 +19,4 @@ Disallow: */feed/
 #Googlebot-News
 User-agent: Googlebot-News
 Allow: */feed/
-Sitemap: https://www.hoken-partner.com/sitemap_index.xml
+Sitemap: https://www.caballasceuta.com/sitemap_index.xml

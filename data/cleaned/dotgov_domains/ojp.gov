@@ -52,6 +52,8 @@ Disallow: /node/*
 Disallow: /glossary/*
 Disallow: /media/oembed
 Disallow: /*/media/oembed
+Disallow: /topics/program/*
+Disallow: /topics/practice/*
 # Paths (no clean URLs)
 Disallow: /index.php/admin/
 Disallow: /index.php/comment/reply/
@@ -67,4 +69,4 @@ Disallow: /index.php/*/media/oembed
 # OVC NCVRW Award forms
 Disallow: /nomination/*
 # Simple sitemap
-Sitemap: https://www.ojp.gov/sitemap.xml
+Sitemap: https://ojp.gov/sitemap.xml

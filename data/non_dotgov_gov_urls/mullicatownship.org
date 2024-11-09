@@ -1,2 +1,8 @@
 User-agent: SemrushBot
 Disallow: /
+
+User-agent: *
+Disallow: /events/
+
+User-agent: *
+Crawl-delay: 10

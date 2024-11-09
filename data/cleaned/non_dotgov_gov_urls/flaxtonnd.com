@@ -1,1 +1,1 @@
-Got an HTML response
+Sitemap: https://www.flaxtonnd.com/sitemap.xml

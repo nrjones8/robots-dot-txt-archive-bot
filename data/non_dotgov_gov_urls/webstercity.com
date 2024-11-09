@@ -1,17 +1,5 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
+
 Sitemap: https://webstercity.com/wp-sitemap.xml
-Disallow: /government/events-calendar/action~posterboard/
-Disallow: /government/events-calendar/action~agenda/
-Disallow: /government/events-calendar/action~oneday/
-Disallow: /government/events-calendar/action~month/
-Disallow: /government/events-calendar/action~week/
-Disallow: /government/events-calendar/action~stream/
-Disallow: /government/events-calendar/action~undefined/
-Disallow: /government/events-calendar/action~http:/
-Disallow: /government/events-calendar/action~default/
-Disallow: /government/events-calendar/action~poster/
-Disallow: /government/events-calendar/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/

@@ -1,8 +1,5 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-content/uploads/*.pdf
 
-Sitemap: https://monckscornersc.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+User-agent: Googlebot
+Disallow: /*.pdf$

@@ -64,3 +64,6 @@ Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
 # Do not index printable pages.
 Disallow: /node/*/printable/*
+# Do not index nor follow links that includes the query string /?[args]
+# (e.g. /search?[args], or /es/people/directory?[args], or /es/search?[args])
+Disallow: /*?[args]

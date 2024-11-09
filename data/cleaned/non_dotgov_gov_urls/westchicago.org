@@ -1,1 +1,7 @@
-Request failed
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: https://westchicago.org/wp-content/uploads/wpforms/
+Sitemap: https://westchicago.org/news-sitemap.xml
+Sitemap: https://westchicago.org/sitemap.xml
+Sitemap: https://westchicago.org/sitemap.rss

@@ -328,6 +328,7 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Natalie-M.-Rico
+Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Pablo-R.-Velez
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Richard-F.-Appleton
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Test-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/William-A.-Juliachs
@@ -1032,6 +1033,7 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profil
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Natalie-M.-Rico
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Pablo-R.-Velez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Richard-F.-Appleton
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Victoria-Mendez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/William-A.-Juliachs
