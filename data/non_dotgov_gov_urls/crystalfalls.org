@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='crystalfalls.org', port=443): Read timed out. (read timeout=15)"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://crystalfalls.org/sitemap_index.xml
+Disallow: */cache/ionos-performance/

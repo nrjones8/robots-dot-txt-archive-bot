@@ -153,6 +153,7 @@ Disallow: /DSA/Maurice-L.-Kemp-EMS-Cadet-Program
 Disallow: /DSA/OLD-DRI-Updates
 Disallow: /DSA/Rent-at-the-Caribbean-Marketplace
 Disallow: /DSA/Request-a-Revocation-Permit
+Disallow: /DSA/TEST-EPLAN
 Disallow: /DSA/View-Approved-Planning-Legislation
 Disallow: /DSA/Z-Test
 Disallow: /DVE
@@ -177,6 +178,7 @@ Disallow: /FOLDER-NEED-TO-EXAMINE
 Disallow: /Footer-Links
 Disallow: /Forms/Appeal-Intended-Decision-Trees-FORM
 Disallow: /Forms/Building-Contractor-Registration-FORM
+Disallow: /Forms/Building-FAQss
 Disallow: /Forms/Building-records-request-microfilm
 Disallow: /Forms/Building-records-request-microfilm-FORM
 Disallow: /Forms/Chabot-Test-for-the-City-of-Miami
@@ -868,13 +870,16 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Releas
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
-Disallow: /My-Government/Departments/Building/Building-FAQs/FAQ-TEST
-Disallow: /My-Government/Departments/Building/Building-FAQs/New-page
+Disallow: /My-Government/Departments/Building/Building-FAQss
+Disallow: /My-Government/Departments/Building/Copy-of-Building-FAQs-2
+Disallow: /My-Government/Departments/Building/EplanProjectDox-FAQs
+Disallow: /My-Government/Departments/Building/EplanProject-Dox-FAQs
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Panel-USP-Hearing-Calendar
+Disallow: /My-Government/Departments/Building-Updated/New-page
 Disallow: /My-Government/Departments/Building-Updated/Skyline-1
 Disallow: /My-Government/Departments/City-Attorney
 Disallow: /My-Government/Departments/City-Clerks-Office/Board-Prospective-Appointees
@@ -1327,8 +1332,10 @@ Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-for-Zoning
 Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-in-Code-Enforcement/Request-a-Conditional-Mitigation-Hearing-for-Code-Enforcement-Case
 Disallow: /Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /Permits-Construction/Create-an-iBuild-Account
+Disallow: /Permits-Construction/Digital-Permitting/Copy-of-Announcing-ePlan-1
 Disallow: /Permits-Construction/Digital-Permitting/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Documents-for-ePlan
 Disallow: /Permits-Construction/Digital-Permitting/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-DrawingsPlans-Documents-for-ePlan
+Disallow: /Permits-Construction/Digital-Permitting/TEST-EPLAN
 Disallow: /Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
 Disallow: /Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event

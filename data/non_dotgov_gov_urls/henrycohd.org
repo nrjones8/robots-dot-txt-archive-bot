@@ -1,10 +1,5 @@
 Sitemap: https://henrycohd.org/sitemap.xml
 Sitemap: https://henrycohd.org/news-sitemap.xml
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-
-Sitemap: http://henrycohd.org/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

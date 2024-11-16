@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-content/uploads/wpforms/
-Sitemap: https://cityofdelcity.gov/wp-sitemap.xml
+Sitemap: https://cityofdelcity.gov/sitemap.xml

@@ -1,5 +1,5 @@
 #
-# robots.txt
+# NEA robots.txt
 #
 # This file is to prevent the crawling and indexing of certain parts
 # of your site by web crawlers and spiders run by sites like Yahoo!
@@ -13,6 +13,7 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
+crawl-delay: 20
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -70,3 +71,32 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# NEA Path
+Disallow: /honors/jazz/2024-nea-jazz-masters-concert-and-reception-rsvp
+Disallow: /honors/jazz/2024-nea-jazz-masters-concert-rsvp
+Disallow: /sites/default/files/FY21-AEAC-Guidelines-10.13.20.pdf
+Disallow: /sites/default/files/FY22-AEAC-Guidelines.pdf
+Disallow: /2020-heritage-test
+Disallow: /national-heritage-fellowships-cloned
+Disallow: /grants-cloned
+Disallow: /sites/default/files/NEA-Pilot-Equity-Initiative-Program-Solicitation.pdf
+Disallow: /sites/default/files/Budget-Template-GAP.xlsx
+Disallow: /sites/default/files/Budget-Template-CA.xlsx
+Disallow: /sites/default/files/FY23-AEAC-Guidelines.pdf
+Disallow: /honors/jazz/2023-nea-jazz-masters-concert-rsvp
+Disallow: /honors/jazz/2023-nea-jazz-masters-concert-and-reception-rsvp
+Disallow: /honors/jazz/2023-nea-jazz-masters-dinner-rsvp
+Disallow: /honors/jazz/2023-nea-jazz-masters-dinner-guest-rsvp
+Disallow: /honors/medals/national-medal-arts-and-national-humanities-medal-dinner-plus-guest-rsvp
+Disallow: /honors/medals/national-medal-arts-and-national-humanities-medal-dinner-rsvp
+Disallow: /honors/jazz/test-jazz-masters-concert-reception-rsvp
+Disallow: /honors/heritage/2023-nea-national-heritage-fellowships-ceremony-and-reception
+Disallow: /grants/project-budget-templates
+Disallow: /sites/default/files/NEA-Ethics-Training-Updated.pdf
+Disallow: /impact/arts-and-health/pilot-program-state-arts-agencies
+Disallow: /honors/heritage/2024-nea-national-heritage-fellowships-ceremony-and-reception-rsvp
+# Solr facets
+Disallow: /*?f[*
+Disallow: /*&f[*
+Disallow: /*?f%5B0*
+Disallow: /*&f%5B1*

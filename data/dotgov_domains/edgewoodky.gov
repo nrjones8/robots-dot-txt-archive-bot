@@ -1,1 +1,12 @@
-{"issue_type": "request_error", "error_msg": "Exceeded 30 redirects."}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
+
+Sitemap: https://edgewoodky.gov/wp-sitemap.xml

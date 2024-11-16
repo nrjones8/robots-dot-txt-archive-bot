@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 521}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+Sitemap: https://perrycountyohio.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

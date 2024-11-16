@@ -1,1 +1,4 @@
-Got an HTML response
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.vertigoskylounge.com/

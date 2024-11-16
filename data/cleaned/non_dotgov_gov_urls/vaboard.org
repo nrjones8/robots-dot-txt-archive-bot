@@ -1,7 +1,13 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-Sitemap: https://vbpd.virginia.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /cgi-bin
+Disallow: /cgi-shl
+Disallow: /cgi-win
+Disallow: /admin
+Disallow: /_admin
+Disallow: /dev
+Disallow: /_vti_bin
+Disallow: /_themes
+Disallow: /_private
+Disallow: /_fpclass
+Disallow: /_*.*
+Disallow: /source

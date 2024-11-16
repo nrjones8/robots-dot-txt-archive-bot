@@ -1,13 +1,4 @@
-# START WPFORMS BLOCK
-# ---------------------------
-User-agent: *
-Disallow: /wp-content/uploads/wpforms/
-# ---------------------------
-# END WPFORMS BLOCK
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-Sitemap: https://northforkrancheria-nsn.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+User-agent: IndeedBot
+Disallow:/
+User-agent: IndeedBot 1.1
+Disallow:/
