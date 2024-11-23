@@ -1,6 +1,1 @@
-User-Agent: *
-Disallow: /cpx.php
-Disallow: /medios1.php
-Disallow: /toolbar.php
-Disallow: /check_image.php
-Disallow: /check_popunder.php
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='aww.aww-sp.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd4e1fb5550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

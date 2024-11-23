@@ -1,1 +1,20 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: *
+Disallow: /EmailTemplate/
+Disallow: /app_code/
+Disallow: /App_Data/
+Disallow: /CustomControls/
+Disallow: /CustomPages/
+Disallow: /Fonts/
+Disallow: /DeptUIFiles/
+Disallow: /bin/
+Disallow: /GIS_WEB/
+Disallow: /Helpers/
+Disallow: /js/
+Disallow: /models/
+Disallow: /Scripts/
+Disallow: /Support/
+Disallow: /Service References/
+Disallow: /sm_includes/
+Disallow: /dept/OLD_Parks_n_Recreation
+Disallow: /assets/dept_14/PM/pdf/Outdated
+Sitemap: https://astoria.gov/sitemap.xml

@@ -74,3 +74,5 @@ Disallow: /index.php/*/media/oembed
 Disallow: /cgi-bin/search/
 # Prevent crawlers from indexing council round pages
 Disallow: /about/advisory-and-peer-review-committees/roster/hlbp/
+# Disallow Unaliased Nodes
+Disallow: /node/*

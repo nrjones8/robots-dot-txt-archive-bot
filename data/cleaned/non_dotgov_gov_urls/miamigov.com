@@ -870,9 +870,6 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
 Disallow: /My-Government/Departments/Building/Building-FAQss
-Disallow: /My-Government/Departments/Building/Copy-of-Building-FAQs-2
-Disallow: /My-Government/Departments/Building/EplanProjectDox-FAQs
-Disallow: /My-Government/Departments/Building/EplanProject-Dox-FAQs
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
@@ -1332,9 +1329,13 @@ Disallow: /Permits-Construction/Appeals-Hearings/Request-a-Hearing-in-Code-Enfor
 Disallow: /Permits-Construction/Copy-of-Create-an-iBuild-Account-1
 Disallow: /Permits-Construction/Create-an-iBuild-Account
 Disallow: /Permits-Construction/Digital-Permitting/Copy-of-Announcing-ePlan-1
+Disallow: /Permits-Construction/Digital-Permitting/New-page
+Disallow: /Permits-Construction/Digital-Permitting/Permitting-Workflows
 Disallow: /Permits-Construction/Digital-Permitting/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-Documents-for-ePlan
 Disallow: /Permits-Construction/Digital-Permitting/Standard-Naming-Convention-for-Drawings-Documents/How-to-Name-DrawingsPlans-Documents-for-ePlan
 Disallow: /Permits-Construction/Digital-Permitting/TEST-EPLAN
+Disallow: /Permits-Construction/Digital-Permitting/Understanding-ePlan-and-ProjectDox/New-page
+Disallow: /Permits-Construction/Digital-Permitting/View-Permitting-Workflows
 Disallow: /Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
 Disallow: /Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
@@ -1887,11 +1888,13 @@ Disallow: /towertheater/Tower-Theater-Miami/Slideshow
 Disallow: /towertheater/Tower-Theater-Miami/Tabs
 Disallow: /towertheaterbooking
 Disallow: /trainingvideos
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Copy-of-Get-a-Covenant-Non-Standard-Improvements-Application-Documents-1
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Deferment-of-SidewalkCurb-and-Gutter-Construction-App-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Driveway-Approach-Application-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Non-Standard-Improvements-Application-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Private-Utilities-Construction-Application-Documents
 Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Covenant-Temporary-Encroachment-Application-Documents
+Disallow: /Transportation-Roadways/Get-a-Public-Works-CovenantAgreement/Get-a-Covenant-Non-Standard-Improvements-Application-Documents
 Disallow: /Transportation-Roadways/Plant-a-Tree-in-the-Right-of-Way
 Disallow: /Transportation-Roadways/Trolley-Information/Give-Trolley-Feedback
 Disallow: /Transportation-Roadways/Trolley-Information/Trolley-Calendar

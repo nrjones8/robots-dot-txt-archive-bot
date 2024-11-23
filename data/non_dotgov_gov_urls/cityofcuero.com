@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofcuero.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1131)')))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofcuero.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd4e23264c0>, 'Connection to cityofcuero.com timed out. (connect timeout=15)'))"}

@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='floir.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f8721fd1ca0>, 'Connection to floir.com timed out. (connect timeout=15)'))"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='floir.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd4e1d59a30>, 'Connection to floir.com timed out. (connect timeout=15)'))"}

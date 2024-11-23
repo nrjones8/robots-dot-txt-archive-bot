@@ -15,8 +15,10 @@ User-agent: *
 Disallow: /administrator/
 Disallow: /cache/
 Disallow: /calendar-of-events/
+Disallow: /captcha/
 Disallow: /cli/
 Disallow: /components/
+Disallow: /docs/
 Disallow: /images/
 Disallow: /includes/
 Disallow: /installation/
@@ -26,6 +28,7 @@ Disallow: /logs/
 Disallow: /media/
 Disallow: /modules/
 Disallow: /plugins/
+Disallow: /surveyimgs/
 Disallow: /templates/
 Disallow: /tmp/
 

@@ -18,9 +18,11 @@ Disallow: /Departments/Police/Explorer-Info
 Disallow: /Departments/Public-Works/Bat-Study
 Disallow: /Departments/Public-Works/Invasive-Species-Management
 Disallow: /Departments/Water-Water-Reclamation/Project-Water
+Disallow: /Departments/Water-Water-Reclamation/Quick-Links
 Disallow: /Departments/Water-Water-Reclamation/Unregulated-Compounds-REMOVE
 Disallow: /Departments/Water-Water-Reclamation/Unregulated-Compounds-Test
 Disallow: /Departments/Water-Water-Reclamation/Water-Backflow-Prevention
+Disallow: /Departments/Water-Water-Reclamation/Water-Department-Quick-Links
 Disallow: /Home/Hero
 Disallow: /Home/Hero/Video/New-page
 Disallow: /Home/Hero/Video/Video-Background-1

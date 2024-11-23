@@ -28,9 +28,6 @@ Disallow: /Destinations/Things-to-Do/Walton-One
 Disallow: /Documents-search
 Disallow: /dolphin
 Disallow: /Event-Listing
-Disallow: /Event-Listing/Parks-and-Rec/New-page
-Disallow: /Event-Listing/Parks-and-Rec/PSLinLights-Show-at-the-Community-Center
-Disallow: /Event-Listing/Parks-and-Rec/Winter-Wonderland-Light-Show
 Disallow: /Event-Listing3
 Disallow: /Experiences/Facilities/Botanical-Gardens
 Disallow: /Experiences/Facilities/New-page
@@ -67,15 +64,6 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Op
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/Holiday-Lights-Map
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/New-page
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-at-the-Community-Center
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-at-The-Port-District
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Home-Decorating-Contest
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Home-Outdoor-Decorating-Contest
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Scavenger-Hunt
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/PSLinLights-Show-at-the-Community-Center
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/PSLinLights/Stroll-through-the-Lights
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/New-page
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/Southern-Grove

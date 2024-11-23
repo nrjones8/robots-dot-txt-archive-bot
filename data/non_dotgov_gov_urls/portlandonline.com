@@ -1,12 +1,1 @@
-User-agent: *
-Sitemap: http://www.portlandonline.com/sitemap_xml.cfm
-Disallow: /trackit/
-Disallow: /licenses/lookup/
-Disallow: /planning/maps/
-Disallow: /planning/hr/
-Disallow: /planning/mail/
-Disallow: /bps/maps/
-Disallow: /bps/hr/
-Disallow: /bps/mail/
-Disallow: /bds/POdetail.cfm
-Disallow: /apps/external/
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
