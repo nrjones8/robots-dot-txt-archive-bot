@@ -1,1 +1,118 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='chelancountywa.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fd4e25ebfa0>, 'Connection to chelancountywa.gov timed out. (connect timeout=15)'))"}
+## Disallow following crawlers (might also be blocked by fail2ban or similar)
+
+
+
+# Block MJ12bot as it is just noise
+User-agent: MJ12bot
+Disallow: /
+
+# Block Ahrefs
+User-agent: AhrefsBot
+Disallow: /
+
+# Block Sogou
+User-agent: sogou spider
+Disallow: /
+
+# Block SEOkicks
+User-agent: SEOkicks-Robot
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+# Block SISTRIX
+User-agent: SISTRIX Crawler
+Disallow: /
+User-agent: sistrix
+Disallow: /
+User-agent: 007ac9
+Disallow: /
+User-agent: 007ac9 Crawler
+Disallow: /
+
+# Block Uptime robot
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+# Block Ezooms Robot
+User-agent: Ezooms Robot
+Disallow: /
+
+# Block Perl LWP
+User-agent: Perl LWP
+Disallow: /
+
+# Block BlexBot
+User-agent: BLEXBot
+Disallow: /
+
+# Block netEstate NE Crawler (+http://www.website-datenbank.de/)
+User-agent: netEstate NE Crawler (+http://www.website-datenbank.de/)
+Disallow: /
+
+# Block WiseGuys Robot
+User-agent: WiseGuys Robot
+Disallow: /
+
+# Block Turnitin Robot
+User-agent: Turnitin Robot
+Disallow: /
+
+# Block Heritrix
+User-agent: Heritrix
+Disallow: /
+
+# Block pricepi
+User-agent: pimonster
+Disallow: /
+User-agent: Pimonster
+Disallow: /
+
+# Block other bots (though remember they might not repect robots.txt)
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: worldwebheritage.org
+ disallow: /
+
+User-agent: worldwebheritage.org/1.0
+ disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+## NOTE - low hits, so leave off for now
+##User-agent: Linguee Bot
+##Disallow: /
+
+User-agent: * 
+
+## Crawl-delay parameter: number of seconds to wait between successive requests to the same server.
+## Set a custom crawl rate if you're experiencing traffic problems with your server.
+Crawl-delay: 30
+
+
+Disallow: /application/
+## Disallow: /files/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /static_html/
+Disallow: /system/
+## Disallow: /themes/
+Disallow: /nclink_free.exe
+Disallow: nclink_free.exe
+Disallow: /admin/
+Disallow: /auto.htm
+Disallow: /iv/
+Disallow: /test/
+Disallow: /ajax/
+Disallow: /deals/
+Disallow: /*/test/
+Disallow: /*/ajax/
+Disallow: /*/deals/

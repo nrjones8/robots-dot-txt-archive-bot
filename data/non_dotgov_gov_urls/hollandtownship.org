@@ -1,1 +1,3 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='hollandtownship.org', port=80): Read timed out. (read timeout=15)"}
+#robots.txt for all our sites
+User-agent: *
+Disallow: /content/*

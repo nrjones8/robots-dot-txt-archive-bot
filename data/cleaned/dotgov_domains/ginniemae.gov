@@ -1,1 +1,20 @@
-Got an HTML response
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /_layouts/
+Disallow: /_catalogs/
+Disallow: /_cts/
+Disallow: /_private/
+Disallow: /Lists/
+Disallow: /m/
+Disallow: /ReusableContent/
+Disallow: /WorkflowTasks/
+Disallow: /SiteCollectionDocuments/
+Disallow: /SiteCollectionImages/
+Disallow: /SiteAssets/
+Disallow: /Documents/Forms/
+Disallow: /Pages/Forms/
+Disallow: /Search/
+Allow: /data_and_reports/disclosure_data/Pages/datadownload_bulk.aspx
+Allow: /data_and_reports/disclosure_data/pages/disclosurehistory.aspx
+Allow: /data_and_reports/additional_data_and_reporting/Pages/Multiclass_REMIC_Download.aspx
+Allow: /data_and_reports/disclosure_data/Pages/test_file_download.aspx

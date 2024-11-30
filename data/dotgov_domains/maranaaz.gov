@@ -2,6 +2,8 @@ User-agent: *
 
 Disallow: /Copy-of-Newsroom-RSS-Feed-1
 Disallow: /Council/Cultural-Values-at-Work
+Disallow: /Council/Mayor-Ed-Honea-photo-gallery
+Disallow: /Council/New-page
 Disallow: /Departments/Community-Neighborhood-Services/Neighborhood-Mediation
 Disallow: /Departments/Development-Services/Application-Documents
 Disallow: /Departments/Development-Services/Bat-Study
@@ -15,6 +17,7 @@ Disallow: /Departments/Human-Resources/Emergency-Management
 Disallow: /Departments/Police/Cadet-Info
 Disallow: /Departments/Police/Emergency-Management
 Disallow: /Departments/Police/Explorer-Info
+Disallow: /Departments/Police/Vacation-Watch/Vacation-Watch-Form
 Disallow: /Departments/Public-Works/Bat-Study
 Disallow: /Departments/Public-Works/Invasive-Species-Management
 Disallow: /Departments/Water-Water-Reclamation/Project-Water
@@ -31,7 +34,6 @@ Disallow: /intranet/*
 Disallow: /Marana-Life/Marana-Heritage/Heritage-Resources
 Disallow: /Marana-Life/Public-Art/New-page
 Disallow: /Marana-Life/Public-Art/Points-in-Time
-Disallow: /New-page
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/New-page
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/SplashSavvy-photos-2022
 Disallow: /Newsroom/2023/Marana-Star-Spangled-Spectacular-photo-gallery/2023-Marana-Star-Spangled-Spectacular-photo-gallery

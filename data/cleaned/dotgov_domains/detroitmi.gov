@@ -70,3 +70,21 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Do not index nor follow links that have a query string
+# (e.g. /search?page=123  or /search?size=small&color=red)
+User-agent: *
+Disallow: /*?
+# If your views or search pages use a module to convert facets/filters 
+# to clean URLs (e.g. /search/page/123  or /search/size/small)
+# you can try disallowing the search page's URL
+User-agent: *
+Disallow: /search*
+# Do not index facets
+# For all user agents
+User-agent: *
+Disallow: *?f%5B*
+Disallow: *&f%5B*
+# Fixing Facebook crawlers
+User-agent: meta-externalagent
+Allow: /                    # Allow everything
+Disallow: /private/         # Disallow a specific directory

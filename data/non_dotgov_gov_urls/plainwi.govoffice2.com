@@ -1,4 +1,25 @@
 # robots.txt
+User-agent: baiduspider
+Disallow: /
+
+User-agent: baiduspider-image
+Disallow: /
+
+User-agent: baiduspider-mobile
+Disallow: /
+
+User-agent: baiduspider-news
+Disallow: /
+
+User-agent: baiduspider-video
+Disallow: /
+
+User-agent: baiduspider-news
+Disallow: /
+
+User-agent: yandex
+Disallow: /
+
 User-agent: Googlebot
 Disallow: /admin/
 Disallow: /manager/
@@ -34,7 +55,7 @@ Disallow: /admin/
 Disallow: /manager/
 Disallow: /
 
-Crawl-delay: 10
+Crawl-delay: 60
 
 
 Sitemap: http://plainwi.govoffice2.com/sitemap.xml

@@ -34,7 +34,7 @@ Disallow: /admin/
 Disallow: /manager/
 Disallow: /
 
-Crawl-delay: 10
+Crawl-delay: 60
 
 
 Sitemap: http://cityofmountclemens.com/sitemap.xml

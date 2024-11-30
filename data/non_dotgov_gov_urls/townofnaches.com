@@ -1,12 +1,1 @@
-User-agent: *
-Disallow: /wp/wp-admin/
-Allow: /wp/wp-admin/admin-ajax.php
-
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://townofnaches.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}
