@@ -1,3 +1,5 @@
-#Code to not allow any search engines!
 User-agent: *
-Disallow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://rockymountnc.gov/wp-sitemap.xml

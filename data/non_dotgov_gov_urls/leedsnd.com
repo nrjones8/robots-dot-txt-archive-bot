@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://ezambiablog.com/sitemap_index.xml
+Sitemap: https://www.sakura-crisis.net/sitemap_index.xml

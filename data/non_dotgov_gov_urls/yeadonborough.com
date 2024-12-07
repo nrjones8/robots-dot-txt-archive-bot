@@ -1,23 +1,5 @@
 User-agent: *
-Allow: /
-Sitemap: https://yeadonborough.com/sitemap.xml
-Sitemap: https://yeadonborough.com/sitemap316.xml
-Sitemap: https://yeadonborough.com/sitemap251.xml
-Sitemap: https://yeadonborough.com/sitemap553.xml
-Sitemap: https://yeadonborough.com/sitemap880.xml
-Sitemap: https://yeadonborough.com/sitemap261.xml
-Sitemap: https://yeadonborough.com/sitemap794.xml
-Sitemap: https://yeadonborough.com/sitemap715.xml
-Sitemap: https://yeadonborough.com/sitemap563.xml
-Sitemap: https://yeadonborough.com/sitemap331.xml
-Sitemap: https://yeadonborough.com/sitemap364.xml
-Sitemap: https://yeadonborough.com/sitemap307.xml
-Sitemap: https://yeadonborough.com/sitemap426.xml
-Sitemap: https://yeadonborough.com/sitemap425.xml
-Sitemap: https://yeadonborough.com/sitemap782.xml
-Sitemap: https://yeadonborough.com/sitemap359.xml
-Sitemap: https://yeadonborough.com/sitemap277.xml
-Sitemap: https://yeadonborough.com/sitemap239.xml
-Sitemap: https://yeadonborough.com/sitemap617.xml
-Sitemap: https://yeadonborough.com/sitemap586.xml
-Sitemap: https://yeadonborough.com/sitemap762.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://yeadonborough.com/wp-sitemap.xml

@@ -1,1 +1,18 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cfpb.gov', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1131)')))"}
+User-agent: *
+Disallow: /save-hud-counselors-list
+Disallow: /about-us/the-bureau/leadership-calendar/pdf
+Disallow: /es/obtener-respuestas/*.imprimir.html
+Disallow: /*?success
+Disallow: *form-id=*
+Disallow: /?page=
+Disallow: /hud-api-replace
+Disallow: /yourstory
+Disallow: /ask-cfpb/search/
+Disallow: /ask-cfpb/search-by-tag/
+Disallow: /askcfpb/search/
+Disallow: /es/obtener-respuestas/buscar/
+Disallow: /es/obtener-respuestas/buscar-por-etiqueta/
+Disallow: /consumer-tools/educator-tools/youth-financial-education/curriculum-review/tool/*
+Disallow: /paying-for-college2/*
+
+Sitemap: https://www.consumerfinance.gov/sitemap.xml

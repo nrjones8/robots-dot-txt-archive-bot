@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='trainerboro.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1de1843a60>, 'Connection to trainerboro.com timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /app/
+Disallow: /j/
+Allow: /app/module/webproduct/goto/
+Allow: /app/download/
+Sitemap: http://www.trainerboro.com/sitemap.xml

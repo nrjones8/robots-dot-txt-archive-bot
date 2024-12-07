@@ -52,6 +52,11 @@ Disallow: /Government/Discover-Us/Welcome-Guide
 Disallow: /Government/Mobility-Infrastructure/Copy-of-Repaving-Master-Plan-1
 Disallow: /Government/Resources/New-page
 Disallow: /Government/Resources/Strategic-Plan
+Disallow: /Government/Your-City-Government/Departments/Building/Building-Banners/[deactivated]-Now-hiring-Construction-Inspector
+Disallow: /Government/Your-City-Government/Departments/Building/Building-Banners/Hiring-Building-Plans-Examiner-and-Construction-Inspector
+Disallow: /Government/Your-City-Government/Departments/Building-Department/Building-Banners/Copy-of-Hiring-Building-Plans-Examiner-and-Construction-Inspector-1
+Disallow: /Government/Your-City-Government/Departments/Building-Department/Building-Banners/Copy-of-Were-looking-for-licensed-General-Contractors-1
+Disallow: /Government/Your-City-Government/Departments/Building-Department/Building-Banners/Hiring-Building-Plans-Examiner-and-Construction-Inspector
 Disallow: /Government/Your-City-Government/Departments/Building-Department/Contractor-Licensing
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/City-Managers-Bi-Weekly-Reports
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/New-page
@@ -65,7 +70,6 @@ Disallow: /Government/Your-City-Government/Departments/Communications/Communicat
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
-Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/New-page
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/Southern-Grove
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/Animal-Signs
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/Animal-Signs/American-Alligator
@@ -86,6 +90,7 @@ Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/T
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/Animal-Signs/Snook
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/The-Port-District
 Disallow: /Government/Your-City-Government/Departments/Emergency-Management/EM-banners/Preparedness-Group-Presentations
+Disallow: /Government/Your-City-Government/Departments/Emergency-Management/Hurricane-Milton
 Disallow: /Government/Your-City-Government/Departments/Emergency-Management/Hurricanes-and-Storms/Evacuate-or-Stay
 Disallow: /Government/Your-City-Government/Departments/Finance-Department/Business-Tax/Business-Tax-Banners
 Disallow: /Government/Your-City-Government/Departments/Finance-Department/Business-Tax/Business-Training-Consultation
@@ -103,6 +108,7 @@ Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Cod
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program-[hidden]
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget-OMB/Property-Auction
+Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Battery-Disposal-Tips
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Frequently-Asked-Questions
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Buddy-Bench
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/KPSLB-Sponsors-Partners
@@ -115,6 +121,7 @@ Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Kee
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Litter-Prevention/Report-litter-with-1PSL
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Donations
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Partners
+Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/New-page
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Waste-FAQs
 Disallow: /Government/Your-City-Government/Departments/Parks/Community-Garden
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Community-Garden
@@ -169,6 +176,7 @@ Disallow: /Home/Featured-Content
 Disallow: /leap
 Disallow: /manatee
 Disallow: /meetingfiles
+Disallow: /milton
 Disallow: /News/2024/Banyan-Basin-water-feature-at-Pioneer-Park-temporarily-closed-for-repairs
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-1
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-2

@@ -56,6 +56,12 @@ Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
 
+# News
+Disallow: /news/
+Allow: /news/press-releases/
+Allow: /news/public-notices/
+Allow: /news/public-statements/
+
 User-agent: Yandex
 Disallow: /
 
@@ -84,22 +90,5 @@ User-agent: Amazonbot
 Allow: /$
 Disallow: /
 
-# Google
-User-agent: Googlebot
-Allow: /
-
-# Microsoft
-User-agent: Bingbot
-Allow: /
-
-# Apple
-User-agent: Applebot
-Allow: /
-
-# Yahoo
-User-agent: Slurp
-Allow: /
-
-# DuckDuckGo
-User-agent: DuckDuckBot
-Allow: /
+User-agent: GPTBot
+Disallow: /

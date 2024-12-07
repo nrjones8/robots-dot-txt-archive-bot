@@ -1,1 +1,17 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp/city-council-packets/
+Disallow: /wp/city-council-archives/
+Disallow: /wp/planning-commission-packets/
+Disallow: /wp/planning-commission-archives/
+Disallow: /calendar/
+
+User-agent: Semrush
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+Sitemap: https://ci.ferndale.ca.us/sitemap.xml
+Sitemap: https://ci.ferndale.ca.us/sitemap.rss

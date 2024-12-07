@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: 
+Sitemap: https://www.superior-arizona.com/sitemap.xml

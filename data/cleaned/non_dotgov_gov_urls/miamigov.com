@@ -37,6 +37,7 @@ Disallow: /Business/OLD-PAGE-Certificate-of-Use-CU-Business-Tax-Receipt-BTR
 Disallow: /Business/TEST-Image-Gallery
 Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
+Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
