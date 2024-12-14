@@ -1,1 +1,4 @@
-This site does not exist within the LDAP database.
+# Robots.txt file from http://www.townofarietta.com
+Sitemap: http://www.townofarietta.com/sitemap.xml
+User-agent: *
+Disallow:

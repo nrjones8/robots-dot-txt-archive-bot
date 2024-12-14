@@ -1,1 +1,34 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ci.claremont.ca.us', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f592b48fa30>, 'Connection to ci.claremont.ca.us timed out. (connect timeout=15)'))"}
+User-agent: *
+
+Disallow: /Announcements/Low-priority-announcement
+Disallow: /Government/Copy-of-Sandbox-1
+Disallow: /Government/Copy-of-Sandbox-2
+Disallow: /Government/Sandbox
+Disallow: /Government/Sandbox_Old
+Disallow: /Sandbox
+Disallow: /Sandbox_Old
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Email-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Flickr-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Linkedin-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Nextdoor-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Pinterest-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Rss-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Smugmug-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Snapchat-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Tiktok-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Vimeo-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Copy-of-Whatsapp-1
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Email
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Linkedin
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Pinterest
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Rss
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Smugmug
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Snapchat
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Tiktok
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Vimeo
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Whatsapp
+Disallow: /Site-Footer/Footer-Widgets/Share-Connect/Wordpress
+Disallow: /Training/Building-a-business
+Disallow: /Training/Copy-of-Building-a-business-1/Building-a-business
+Disallow: /Training/New-page
+Sitemap : https://www.claremontca.gov/sitemap.xml

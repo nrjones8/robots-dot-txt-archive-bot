@@ -13,7 +13,6 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
-
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images
@@ -73,7 +72,6 @@ Disallow: /xmlrpc.php
 Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips/
-Disallow: /news/archive/
 Disallow: /node/add/
 Disallow: /search/
 Disallow: /user/register/
@@ -84,72 +82,9 @@ Disallow: /user/logout/
 Disallow: /?q=admin/
 Disallow: /?q=comment/reply/
 Disallow: /?q=filter/tips/
-Disallow: /?q=news/archive/
 Disallow: /?q=node/add/
 Disallow: /?q=search/
 Disallow: /?q=user/password/
 Disallow: /?q=user/register/
 Disallow: /?q=user/login/
 Disallow: /?q=user/logout/
-# Block junk New Relic traffic.
-Disallow:*/ajax/*
-Disallow:*/aggregate/*
-Disallow:*/jserrors/*
-Disallow:*/metrics/*
-Disallow:*/page_action/*
-Disallow:*/page_view_event/*
-Disallow:*/page_view_timing/*
-Disallow:*/session_trace/*
-Disallow:*/spa/*
-User-agent: dotbot
-Disallow: /
-User-agent: Coccocbot
-Disallow: /
-User-agent: SemrushBot
-Disallow: /
-User-agent: linkdexbot
-Disallow: /
-User-agent: Yandex
-Disallow: /
-User-agent: Pinterest
-Disallow: /
-User-agent: BLEXBot
-Disallow: /
-User-agent: LivelapBot
-Disallow: /
-User-agent: DnyzBot
-Disallow: /
-User-agent: Traacker
-Disallow: /
-User-agent: PaperLiBot
-Disallow: /
-User-agent: Daum
-Disallow: /
-User-agent: PrimalBot
-Disallow: /
-User-agent: changedetection
-Disallow: /
-User-agent: EveryoneSocialBot
-Disallow: /
-User-agent: WikiDo
-Disallow: /
-User-agent: Mail.ru
-Disallow: /
-User-agent: SeznamBot
-Disallow: /
-User-agent: TinEye-bot
-Disallow: /
-User-agent: MJ12bot
-Disallow: /
-User-agent: SEOkicks-Robot
-Disallow: /
-User-agent: Yeti
-Disallow: /
-User-agent: TurnitinBot
-Disallow: /
-User-agent: Baidu
-Disallow: /
-User-agent: AhrefsBot
-Disallow: /
-User-agent: Twitterbot
-Disallow:

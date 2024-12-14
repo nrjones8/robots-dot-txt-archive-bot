@@ -1,1 +1,1 @@
-User-agent: *
+Got an HTML response

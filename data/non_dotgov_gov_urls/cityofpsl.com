@@ -109,7 +109,6 @@ Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Cod
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program-[hidden]
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget-OMB/Property-Auction
-Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Battery-Disposal-Tips
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Frequently-Asked-Questions
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Buddy-Bench
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/KPSLB-Sponsors-Partners
@@ -122,7 +121,6 @@ Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Kee
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Litter-Prevention/Report-litter-with-1PSL
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Donations
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Partners
-Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/New-page
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Waste-FAQs
 Disallow: /Government/Your-City-Government/Departments/Parks/Community-Garden
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Community-Garden
@@ -148,6 +146,7 @@ Disallow: /Government/Your-City-Government/Departments/Police/Recruitment/SWAT-T
 Disallow: /Government/Your-City-Government/Departments/Police/Recruitment/SWAT-Team/SWAT-Team
 Disallow: /Government/Your-City-Government/Departments/Police/Recruitment/Training-Section/New-page
 Disallow: /Government/Your-City-Government/Departments/Police/Recruitment/Training-Section/Training-Section
+Disallow: /Government/Your-City-Government/Departments/Police-Department
 Disallow: /Government/Your-City-Government/Departments/Police-Department/Join-the-PSLPD/Criminal-Investigations-Division-CID/Criminal-Investigations-Division-CID
 Disallow: /Government/Your-City-Government/Departments/Police-Department/Join-the-PSLPD/K-9-Unit/K-9-Unit
 Disallow: /Government/Your-City-Government/Departments/Police-Department/Join-the-PSLPD/Marine-Unit/Marine-Unit
@@ -191,6 +190,7 @@ Disallow: /News/2024/Water-feature-at-Pioneer-Park-temporarily-closed-for-repair
 Disallow: /osprey
 Disallow: /otter
 Disallow: /Page-Not-Found
+Disallow: /police
 Disallow: /Residents/Connect/[hidden]-PSL-Shop-Merch
 Disallow: /Residents/Connect/Merchandise
 Disallow: /Residents/Connect/News/2024/Home-Based-Business-Showcase

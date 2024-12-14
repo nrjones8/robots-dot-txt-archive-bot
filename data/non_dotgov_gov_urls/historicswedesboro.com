@@ -1,1 +1,7 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 409}
+User-agent: *
+Disallow: /about/calendar/action~posterboard/
+Disallow: /about/calendar/action~agenda/
+Disallow: /about/calendar/action~oneday/
+Disallow: /about/calendar/action~month/
+Disallow: /about/calendar/action~week/
+Disallow: /about/calendar/action~stream/

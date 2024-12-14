@@ -873,7 +873,9 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
 Disallow: /My-Government/Departments/Building/Building-FAQss
+Disallow: /My-Government/Departments/Building/HB267-A-New-Way-to-Streamline-Residential-Building-Permits
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
+Disallow: /My-Government/Departments/Building/New-page
 Disallow: /My-Government/Departments/Building/Skyline-1
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearing-Calendar
 Disallow: /My-Government/Departments/Building/Unsafe-Structures-Hearings

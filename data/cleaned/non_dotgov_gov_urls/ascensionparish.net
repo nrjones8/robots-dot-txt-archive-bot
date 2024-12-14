@@ -1,1 +1,6 @@
-Request failed
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
+Sitemap: https://www.ascensionparish.net/sitemap.xml
+Sitemap: https://www.ascensionparish.net/sitemap.rss

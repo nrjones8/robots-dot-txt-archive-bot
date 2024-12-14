@@ -1,7 +1,14 @@
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
-Disallow:
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+User-agent: AdsBot
+Disallow: /
 
 Sitemap: https://longmontcolorado.gov/sitemap_index.xml
 # ---------------------------

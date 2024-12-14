@@ -42,9 +42,9 @@ User-agent: MJ12bot
 Crawl-delay: 600
 User-agent: dotbot
 Crawl-delay: 600
-User-agent: SemrushBot
-Crawl-delay: 1500
 User-agent: barkrowler
 Crawl-delay: 600
+User-agent: SemrushBot
+Disallow: /
 User-agent: Timpibot
-Crawl-delay: 900
+Disallow: /

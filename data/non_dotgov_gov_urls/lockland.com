@@ -1,8 +1,1 @@
-# Default robots file version:2
-User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lockland.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f392e778160>, 'Connection to lockland.com timed out. (connect timeout=15)'))"}

@@ -1,1 +1,5 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='pell-city.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f592c219a90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+Sitemap: https://pell-city.com/sitemap.xml
+Sitemap: https://pell-city.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

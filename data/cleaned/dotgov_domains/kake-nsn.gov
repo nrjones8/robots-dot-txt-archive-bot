@@ -1,8 +1,4 @@
-Sitemap: https://www.kake-nsn.gov/sitemap.xml
-User-agent: NerdyBot
-Disallow: /
-User-agent: dotbot
-Crawl-delay: 10
 User-agent: *
-Disallow: /ajax/
-Disallow: /apps/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://kake-nsn.gov/sitemap.xml

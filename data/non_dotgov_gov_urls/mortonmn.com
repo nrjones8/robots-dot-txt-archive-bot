@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.portlandsculinaryworkshop.com/sitemap.xml
+Sitemap: https://disperkimsumsel.id/sitemap.xml

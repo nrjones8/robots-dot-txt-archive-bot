@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ascensionparish.net', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f592b622a30>, 'Connection to ascensionparish.net timed out. (connect timeout=15)'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
+
+Sitemap: https://www.ascensionparish.net/sitemap.xml
+Sitemap: https://www.ascensionparish.net/sitemap.rss

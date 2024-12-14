@@ -1,60 +1,40 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
 User-agent: *
-# CSS, JS, Images
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /profiles/*.svg
-# Directories
-Disallow: /core/
-Disallow: /profiles/
-# Files
-Disallow: /README.txt
-Disallow: /web.config
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips
-Disallow: /node/add/
-Disallow: /search/
-Disallow: /user/register/
-Disallow: /user/password/
-Disallow: /user/login/
-Disallow: /user/logout/
-# Paths (no clean URLs)
-Disallow: /index.php/admin/
-Disallow: /index.php/comment/reply/
-Disallow: /index.php/filter/tips
-Disallow: /index.php/node/add/
-Disallow: /index.php/search/
-Disallow: /index.php/user/password/
-Disallow: /index.php/user/register/
-Disallow: /index.php/user/login/
-Disallow: /index.php/user/logout/
+Disallow: /2024-12-08-Ted-Test-Tree-1
+Disallow: /About/Sandbox
+Disallow: /All-Departments/2024-12-08-Ted-Test-Tree-1
+Disallow: /All-Departments/Aging/Housing-for-Seniors
+Disallow: /All-Departments/Aging/New-page
+Disallow: /All-Departments/Copy-of-Recycling-Materials-Management-1
+Disallow: /All-Departments/Historian-Division/Historian-Division-Image-Gallery
+Disallow: /All-Departments/Planning-and-Sustainability/Advisory-Boards/Environmental-Management-Council/About
+Disallow: /All-Departments/Planning-and-Sustainability/Advisory-Boards/Environmental-Management-Council/Remove-me
+Disallow: /All-Departments/Planning-and-Sustainability/Tourism/Holodeck
+Disallow: /All-Departments/Recycling-Materials-Management
+Disallow: /All-Departments/Veterans-Services/Veterans-Services-Image-Gallery
+Disallow: /All-Departments/Whole-Health/2024-12-08-Ted-Test-Tree-1
+Disallow: /All-Departments/Whole-Health/Community-Health-Services/Communicable-Disease/Coronavirus-COVID-19/Data-Dashboard-for-Tompkins-County
+Disallow: /All-Departments/Whole-Health/Community-Health-Services/Communicable-Disease/Coronavirus-COVID-19/Distribution-Locations-for-Free-KN95-Masks-and-Self-Test-Kits
+Disallow: /All-Departments/Whole-Health/Community-Health-Services/Communicable-Disease/Coronavirus-COVID-19/Download-Signs-and-Posters-for-Printing
+Disallow: /All-Departments/Whole-Health/Community-Health-Services/Communicable-Disease/Coronavirus-COVID-19/Testing
+Disallow: /All-Departments/Whole-Health/Community-Health-Services/Communicable-Disease/Respiratory-Illnesses
+Disallow: /All-Departments/Whole-Health/Community-Services-Board/2023-Public-Health-Press-Release-Archives
+Disallow: /All-Departments/Whole-Health/Community-Services-Board/2024-Public-Health-Press-Release-Archives
+Disallow: /All-Departments/Whole-Health/New-Folder
+Disallow: /All-Departments/Whole-Health/New-page
+Disallow: /All-Departments/Whole-Health/New-page-1
+Disallow: /All-Departments/Whole-Health/PR-Module
+Disallow: /All-Departments/Whole-Health/Teds-Perpetual-Test-Page
+Disallow: /All-Departments/Whole-Health/Whole-Health-Press-Room/2024-12-08-Ted-Test-Tree-1
+Disallow: /All-Departments/Whole-Health/Whole-Health-Press-Room/Ted-Test-Tree-1
+Disallow: /All-Departments/Youth-Services/Funding-Opportunities
+Disallow: /All-Departments/Youth-Services/Training-and-Events
+Disallow: /Government-Resources/Planning-and-Sustainability/Advisory-Boards/Environmental-Management-Council/About
+Disallow: /Sandbox
+Disallow: /Training/BCP11-8
+Disallow: /Training/BCP99
+Disallow: /Training/CD-11-8
+Disallow: /Training/Copy-of-BCP11-8-1
+Disallow: /Training/GLL12
+Disallow: /Training/New-page-1
+Disallow: /Training/REG22
+Sitemap : https://www.tompkinscountyny.gov/sitemap.xml

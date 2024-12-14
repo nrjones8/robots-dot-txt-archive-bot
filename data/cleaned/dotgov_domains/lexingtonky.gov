@@ -1,72 +1,83 @@
-#
-# robots.txt
-#
-# This file is to prevent the crawling and indexing of certain parts
-# of your site by web crawlers and spiders run by sites like Yahoo!
-# and Google. By telling these "robots" where not to go on your site,
-# you save bandwidth and server resources.
-#
-# This file will be ignored unless it is at the root of your host:
-# Used:    http://example.com/robots.txt
-# Ignored: http://example.com/site/robots.txt
-#
-# For more information about the robots.txt standard, see:
-# http://www.robotstxt.org/robotstxt.html
 User-agent: *
-# CSS, JS, Images
-Allow: /core/*.css$
-Allow: /core/*.css?
-Allow: /core/*.js$
-Allow: /core/*.js?
-Allow: /core/*.gif
-Allow: /core/*.jpg
-Allow: /core/*.jpeg
-Allow: /core/*.png
-Allow: /core/*.svg
-Allow: /profiles/*.css$
-Allow: /profiles/*.css?
-Allow: /profiles/*.js$
-Allow: /profiles/*.js?
-Allow: /profiles/*.gif
-Allow: /profiles/*.jpg
-Allow: /profiles/*.jpeg
-Allow: /profiles/*.png
-Allow: /profiles/*.svg
-# Directories
-Disallow: /core/
-Disallow: /profiles/
-# Files
-Disallow: /README.md
-Disallow: /composer/Metapackage/README.txt
-Disallow: /composer/Plugin/ProjectMessage/README.md
-Disallow: /composer/Plugin/Scaffold/README.md
-Disallow: /composer/Plugin/VendorHardening/README.txt
-Disallow: /composer/Template/README.txt
-Disallow: /modules/README.txt
-Disallow: /sites/README.txt
-Disallow: /themes/README.txt
-Disallow: /web.config
-# Paths (clean URLs)
-Disallow: /admin/
-Disallow: /comment/reply/
-Disallow: /filter/tips
-Disallow: /node/add/
+Disallow: /search
 Disallow: /search/
-Disallow: /user/register
-Disallow: /user/password
-Disallow: /user/login
-Disallow: /user/logout
-Disallow: /media/oembed
-Disallow: /*/media/oembed
-# Paths (no clean URLs)
-Disallow: /index.php/admin/
-Disallow: /index.php/comment/reply/
-Disallow: /index.php/filter/tips
-Disallow: /index.php/node/add/
-Disallow: /index.php/search/
-Disallow: /index.php/user/password
-Disallow: /index.php/user/register
-Disallow: /index.php/user/login
-Disallow: /index.php/user/logout
-Disallow: /index.php/media/oembed
-Disallow: /index.php/*/media/oembed
+Disallow: /admin
+Disallow: /admin/
+Disallow: /wp-admin
+Disallow: /wp-admin/
+Disallow: *.pdf
+Disallow: /sites/
+Disallow: /user
+Disallow: /user/
+Disallow: /login
+Disallow: /login/
+# Bad bots
+User-agent: Yandex
+Disallow: /
+User-agent: MJ12Bot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: AspiegelBot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: MauiBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: Omgili
+Disallow: /
+User-agent Youbot
+Disallow: /
+User-agent: Omgilibot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+# AI Bots
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+# Busy bots
+User-agent: Amazonbot
+Allow: /$
+Disallow: /
+# Yahoo
+User-agent: Slurp
+Allow: /$
+Disallow: /
+# Normal bots
+# Google
+User-agent: Googlebot
+Allow: /
+# Microsoft
+User-agent: Bingbot
+Allow: /
+# Apple
+User-agent: Applebot
+Allow: /
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Sitemap: https://www.lexingtonky.gov/sitemap.xml
