@@ -86,7 +86,7 @@ export default class Home extends Component {
     // Datasette is read-only (and everyone has access to all the data, by design), so no
     // need to do any extra SQL injection escaping here. See
     // https://docs.datasette.io/en/stable/sql_queries.html?highlight=injection#running-sql-queries
-    const fullUrl = `https://robots-dot-txt-db.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${trimmedSearch}%25%27+order+by+domain`;
+    const fullUrl = `https://robots-dot-txt-db-a78b14431727.herokuapp.com/robotstxt.json?_shape=objects&sql=select+*+from+all_parsed_robots_txt_data+where+rule+like+%27%25${trimmedSearch}%25%27+order+by+domain`;
     this.setState({loading: true});
     fetch(fullUrl)
       .then(response => response.json())
