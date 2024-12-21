@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.cityofdouglaswy.com/sitemap.xml
+Got an HTML response

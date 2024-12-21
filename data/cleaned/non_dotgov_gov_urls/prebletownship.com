@@ -1,7 +1,8 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
-Sitemap: http://prebletownship.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: dotbot
+Disallow: /

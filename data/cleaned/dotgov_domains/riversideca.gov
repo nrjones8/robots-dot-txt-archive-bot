@@ -1,66 +1,89 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
 User-agent: *
 Crawl-delay: 10
-Disallow: /data/dataset/show
-Disallow: /transparency/data/dataset/show
-# 10.19.11 - added by Chris Lim
-Disallow: /graffiti/pdf/psa/2011/PSA-Rules.pdf
-Disallow: /graffiti/pdf/psa/2011/PSA-Waiver.pdf
-Disallow: /graffiti/pdf/psa/2011/PSA-Registration-Form.pdf
-Disallow: /graffiti/pdf/psa/2011/PSA-Application-Packet.pdf
-# 10.19.11 - added by Chris Lim
-Disallow: /privacyinfo
-Disallow: /planning/building/activity-archive
-Disallow: /checkreferrer
-Disallow: /human/benefits/ExitSurvey
-Disallow: /emergency
-Disallow: /Emergency.aspx
-Disallow: /em-content.txt
-Disallow: /neighborhoods/forms
-Disallow: /transtest
-Disallow: /evetcaltest
-Disallow: /planning/2008-0909
-Disallow: /human/ccstudy
-Disallow: /CPRC/Secure
-Disallow: /human/dev
-Disallow: /human/dev/Benefits
-Disallow: /human/jobline
-Disallow: /human/wellness/testmedia
-Disallow: /museum/forms
-Disallow: /park_rec/forms
-# 02.20.13 - added by Chris Lim
-Disallow: /sg/
-Disallow: /sg/Stompinggrounds.pdf
-# 09.26.13 - added by John Botta
-Disallow: /human/old_HumanFiles
-Disallow: /human/benefits/old_BenefitFiles
-Disallow: /human/comp/old_CompFiles
-Disallow: /human/labor/old_LaborFiles
-Disallow: /human/m3p/old_M3PFiles
-Disallow: /human/wellness/Old_WellnessFiles
-Disallow: /human/workerscomp/old_WorkCompFiles
-Disallow: /cmblog/
-# 06.22.15 - added by Nghi Quach
-Disallow: /gsm/
-Disallow: /press/2011-CityofRiverside-StyleGuide.pdf
-# 08.05.15 - added by Nghi Quach
-Disallow: /city_clerk/ecomment.asp
-Disallow: /manager/admin-manual
-# 05.26.23 - added by Elissa Elizondo
-Disallow: /utilities/previewonly-hidden-main
-Disallow: /utilities/previewonly-hidden-electric
-Disallow: /utilities/previewonly-hidden-water
-Disallow: /publicworks/previewonly-hidden-solidwaste
-################################################################################
-# 11.13.2009
-# /planning/2008-0909/  - added by clim, 11.13.2009. directory moved to: /planning/gp2025program/
-# made changes to syntax according to robots.txt syntax checker (added trailing slash)
-# /CPRC/Secure/ Added by John Botta 11.13.2011 sub folder of cprc.
-#/human/dev/ Added by John Botta 02.03.12
-#/human/dev/Benefits/ Added by John Botta 02.03.12
-#/human/jobline/ Added by John Botta 03.30.12
-#/human/wellness/testmedia/ Added by john Botta 06.20.12 
-#/cmblog/ Added by john Botta 06.17.14
-#################################################################################
-# bot entries
-User-agent: watrhubcrawler
-Disallow: /
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/

@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.decherd.net', port=80): Read timed out. (read timeout=15)"}
+# Robots.txt file from http://www.decherd.net
+
+Sitemap: http://www.decherd.net/sitemap.xml
+
+User-agent: *
+Disallow:

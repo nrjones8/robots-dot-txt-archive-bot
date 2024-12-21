@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /app/
-Disallow: /j/
-Allow: /app/module/webproduct/goto/
-Allow: /app/download/
-Sitemap: http://bradfordtwpmckeancnty.jimdofree.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='bradfordtwpmckeancnty.jimdo.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1557b13460>, 'Connection to bradfordtwpmckeancnty.jimdo.com timed out. (connect timeout=15)'))"}

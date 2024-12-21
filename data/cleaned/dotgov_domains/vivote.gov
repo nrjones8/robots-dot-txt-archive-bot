@@ -1,1 +1,13 @@
-Got an HTML response
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
+Disallow: https://vivote.gov/wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+Sitemap: https://vivote.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

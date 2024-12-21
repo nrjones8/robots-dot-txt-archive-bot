@@ -2,10 +2,10 @@ User-agent: *
 
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/Meet-the-Team-gallery
 Disallow: /County-Government/County-Departments/Public-Works/Org-Chart/New-page
-Disallow: /County-Government/Elected-Officials/Copy-of-County-Commissioners-1
-Disallow: /County-Government/Elected-Officials/County-Clerk/Elections-Old
-Disallow: /County-Government/Elected-Officials/Elections-Old
-Disallow: /County-Government/Elected-Officials/Old-County-Commissioners
+Disallow: /County-Government/Elected-Officials/Copy-of-County-Commissioners-1/*
+Disallow: /County-Government/Elected-Officials/County-Clerk/Elections-Old/*
+Disallow: /County-Government/Elected-Officials/Elections-Old/*
+Disallow: /County-Government/Elected-Officials/Old-County-Commissioners/*
 Disallow: /Home/Do-it-online/Blank-3
 Disallow: /Home/Do-it-online/Blank-4
 Disallow: /Home/Do-it-online/Blank-5
@@ -19,7 +19,7 @@ Disallow: /Home/Do-it-online/Land-use-Nuisance-Violations
 Disallow: /Home/Do-it-online/Vine
 Disallow: /Image-Galleries/Meet-the-Team-gallery
 Disallow: /Image-Galleries/PW-Meet-the-Team-gallery
-Disallow: /Sandbox
+Disallow: /Sandbox/*
 Disallow: /Site-Footer/Sub-Footer-Links/A-Z-Index
 Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Disclaimer-Copyright-1
 Disallow: /Site-Footer/Sub-Footer-Links/Copy-of-Privacy-Statement-1

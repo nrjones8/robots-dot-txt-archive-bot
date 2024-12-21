@@ -1,17 +1,1 @@
-# spam-bots
-User-agent: AhrefsBot
-Disallow: / 
-User-agent: MJ12bot
-Disallow: / 
-User-agent: rogerbot
-Disallow: / 
-User-agent: spbot
-Disallow: / 
-User-agent: ScoutJet
-Disallow: / 
-User-agent: gigabot
-Disallow: /
-User-agent: dotbot
-Disallow: /
-User-agent: exabot
-Disallow: /
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}

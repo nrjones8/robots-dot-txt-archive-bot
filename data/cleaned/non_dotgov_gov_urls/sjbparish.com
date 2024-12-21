@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /Calendar
+Disallow: /Calendar/*
 Disallow: /Departments/Business-Training-Center
 Disallow: /Departments/Communications/Background-1
 Disallow: /Departments/Communications/New-page
@@ -43,9 +43,9 @@ Disallow: /Home/Tabs/St.-John-Parish-Office-Closure
 Disallow: /Home/Tabs/THIS-IS-A-DRILL
 Disallow: /Home/Tabs/Water-Notice
 Disallow: /Home/Tabs/Water-Outage-Boil-Water-Advisory
-Disallow: /Internal-Styles
-Disallow: /New-page
-Disallow: /Page-Not-Found
+Disallow: /Internal-Styles/*
+Disallow: /New-page/*
+Disallow: /Page-Not-Found/*
 Disallow: /Residents/Inauguration
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew1
 Disallow: /TRAINING/Kings-Day-Event-Mardi-Gras-Kick-Off/Crew2

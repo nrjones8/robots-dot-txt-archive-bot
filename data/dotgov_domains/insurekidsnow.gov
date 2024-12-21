@@ -85,6 +85,20 @@ Disallow: */index.html?f%5B*
 Disallow: */index.html&f%5B*
 Disallow: /addthis_custom_block?/*
 
+
+Disallow: */index.html?filter&f*
+Disallow: /index.html?filter&f*
+
+Disallow: /index.html?f[*
+Disallow: /index.html&f[*
+Disallow: /index.html?f%5B*
+Disallow: /index.html&f%5B*
+Disallow: */index.html?f[*
+Disallow: */index.html&f[*
+Disallow: */index.html?f%5B*
+Disallow: */index.html&f%5B*
+Disallow: /addthis_custom_block?/*
+
 Disallow: */index.html?filter&f*
 Disallow: /index.html?filter&f*
 

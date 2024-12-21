@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
 Disallow: /calendar-2/action~posterboard/
 Disallow: /calendar-2/action~agenda/
 Disallow: /calendar-2/action~oneday/
@@ -23,3 +26,5 @@ Disallow: /calendar/action~http:/
 Disallow: /calendar/action~default/
 Disallow: /calendar/action~poster/
 Disallow: /calendar/action~*/
+Sitemap: https://mtjoytwp.us/sitemap.xml
+Sitemap: https://mtjoytwp.us/sitemap.rss

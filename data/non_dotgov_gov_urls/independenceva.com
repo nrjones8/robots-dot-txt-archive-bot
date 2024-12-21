@@ -43,4 +43,4 @@ Disallow:/*&format=ical
 Disallow:/*?reversePaginate=*
 Disallow:/*&reversePaginate=*
 
-Sitemap: http://independenceva.com/sitemap.xml
+Sitemap: http://www.independenceva.com/sitemap.xml

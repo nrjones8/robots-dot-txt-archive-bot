@@ -1,5 +1,15 @@
+# START WPFORMS BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Disallow: https://www.coeymans.org/wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
 
-Sitemap: https://coeymans.org/wp-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.coeymans.org/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -87,6 +87,8 @@ User-agent: Gigabot
 Crawl-Delay: 20
 User-agent: ccbot
 Crawl-Delay: 20
+User-agent: meta-externalagent
+Crawl-Delay: 20
 User-agent: dotbot
 Crawl-delay: 20
 User-agent: Bingbot
@@ -111,6 +113,8 @@ Crawl-delay: 30
 User-agent: VelenPublicWebCrawler
 Crawl-delay: 30
 User-agent: DataForSeoBot
+Crawl-delay: 30
+User-agent: DuckDuckBot
 Crawl-delay: 30
 User-agent: Sogou blog
 User-agent: Sogou inst spider

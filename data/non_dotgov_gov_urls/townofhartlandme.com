@@ -1,40 +1,35 @@
-# robots.txt
-User-agent: Googlebot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: MSNBot
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /*Design*
-Disallow: /*month*
-Disallow: /*GUESTBOOK*
-
-User-agent: ia_archiver
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: archive.org_bot
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: W3C-checklink
-Disallow: /admin/
-Disallow: /manager/
-
-User-agent: CCBot
-Disallow: /admin/
-Disallow: /manager/
+# If the Joomla site is installed within a folder
+# eg www.example.com/joomla/ then the robots.txt file
+# MUST be moved to the site root
+# eg www.example.com/robots.txt
+# AND the joomla folder name MUST be prefixed to all of the
+# paths.
+# eg the Disallow rule for the /administrator/ folder MUST
+# be changed to read
+# Disallow: /joomla/administrator/
+#
+# For more information about the robots.txt standard, see:
+# https://www.robotstxt.org/orig.html
 
 User-agent: *
-Disallow: /admin/
-Disallow: /manager/
-Disallow: /
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
 
-Crawl-delay: 60
+Disallow: /administrator/
+Disallow: /api/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
 
 
-Sitemap: http://townofhartlandme.com/sitemap.xml
+Disallow: /tmp/

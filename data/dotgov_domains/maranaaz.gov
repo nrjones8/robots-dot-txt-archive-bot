@@ -8,7 +8,7 @@ Disallow: /Departments/Community-Neighborhood-Services/Neighborhood-Mediation
 Disallow: /Departments/Development-Services/Application-Documents
 Disallow: /Departments/Development-Services/Bat-Study
 Disallow: /Departments/Development-Services/Construction-Details
-Disallow: /Departments/Development-Services/Invasive-Species-Management
+Disallow: /Departments/Development-Services/Invasive-Species-Management/*
 Disallow: /Departments/Development-Services/Remote-Inspections
 Disallow: /Departments/Economic-Development-and-Tourism/Tourism-Economic-Impact-Dashboard
 Disallow: /Departments/Engineering
@@ -19,17 +19,17 @@ Disallow: /Departments/Police/Emergency-Management
 Disallow: /Departments/Police/Explorer-Info
 Disallow: /Departments/Police/Vacation-Watch/Vacation-Watch-Form
 Disallow: /Departments/Public-Works/Bat-Study
-Disallow: /Departments/Public-Works/Invasive-Species-Management
+Disallow: /Departments/Public-Works/Invasive-Species-Management/*
 Disallow: /Departments/Water-Water-Reclamation/Project-Water
 Disallow: /Departments/Water-Water-Reclamation/Quick-Links
 Disallow: /Departments/Water-Water-Reclamation/Unregulated-Compounds-REMOVE
 Disallow: /Departments/Water-Water-Reclamation/Unregulated-Compounds-Test
 Disallow: /Departments/Water-Water-Reclamation/Water-Backflow-Prevention
 Disallow: /Departments/Water-Water-Reclamation/Water-Department-Quick-Links
-Disallow: /Home/Hero
+Disallow: /Home/Hero/*
 Disallow: /Home/Hero/Video/New-page
 Disallow: /Home/Hero/Video/Video-Background-1
-Disallow: /Home/New-page
+Disallow: /Home/New-page/*
 Disallow: /intranet/*
 Disallow: /Marana-Life/Marana-Heritage/Heritage-Resources
 Disallow: /Marana-Life/Public-Art/New-page
@@ -51,8 +51,10 @@ Disallow: /Newsroom-RSS-Feed
 Disallow: /Public-Notices-RSS-Feed
 Disallow: /Services/Citizen-Feedback
 Disallow: /Services/Cultural-Values-at-Work
+Disallow: /Services/New-page
+Disallow: /Services/Online-Portal
 Disallow: /Site-Footer/Sub-Footer-Links/A-Z-Index
 Disallow: /Site-Footer/Sub-Footer-Links/New-page-3
-Disallow: /Training
+Disallow: /Training/*
 Disallow: /Video-Tutorials
 Sitemap : https://www.maranaaz.gov/sitemap.xml

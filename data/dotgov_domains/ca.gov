@@ -1,2 +1,7 @@
 User-agent: *
-Disallow: /
+Allow: /
+Disallow: /ads.txt$
+Disallow: /app-ads.txt$
+Disallow: /.well-known/assetlinks.json$
+
+Sitemap: https://www.ca.gov/sitemaps/sitemapindex.xml
