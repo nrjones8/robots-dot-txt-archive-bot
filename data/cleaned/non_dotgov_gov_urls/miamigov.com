@@ -873,6 +873,7 @@ Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planni
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit-Planning/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Building-Bulletins
 Disallow: /My-Government/Departments/Building/Building-FAQss
+Disallow: /My-Government/Departments/Building/Florida-Legislative-Updates-HB267
 Disallow: /My-Government/Departments/Building/HB267-A-New-Way-to-Streamline-Residential-Building-Permits
 Disallow: /My-Government/Departments/Building/HISTORY-OF-THE-CITY-OF-MIAMIS-BUILDING-DEPARTMENT
 Disallow: /My-Government/Departments/Building/New-page
@@ -1337,6 +1338,9 @@ Disallow: /Permits-Construction/Digital-Permitting/TEST-EPLAN
 Disallow: /Permits-Construction/Digital-Permitting/Understanding-ePlan-and-ProjectDox/New-page
 Disallow: /Permits-Construction/Digital-Permitting/View-Permitting-Workflows
 Disallow: /Permits-Construction/Elevators/Obtain-a-Certificate-of-Operation-CO-for-Elevators
+Disallow: /Permits-Construction/Expedited-Reviews/Copy-of-Get-an-Expedited-Plan-Review-1
+Disallow: /Permits-Construction/Expedited-Reviews/Copy-of-Get-an-Expedited-Plan-Review-Residential
+Disallow: /Permits-Construction/Expedited-Reviews/Get-an-Expedited-Plan-Review-Residential
 Disallow: /Permits-Construction/Filming-and-Events/Copy-of-Get-a-Special-Events-Permit-1
 Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-Special-Event
 Disallow: /Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists

@@ -1,1 +1,1 @@
-Request failed
+Sitemap: https://www.shorteralabama.com/sitemap.xml
