@@ -1,1 +1,56 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='myedaccount.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5a5c65c400>, 'Connection to myedaccount.com timed out. (connect timeout=15)'))"}
+User-agent: Googlebot
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: Baiduspider
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: YandexBot
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: ichiro
+Disallow:  /*?
+Disallow: /munin*
+
+User-agent: sogou spider
+Disallow:  /*?
+Disallow: /munin*
+
+User-agent: Sosospider
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: YoudaoBot
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: YetiBot
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: bingbot
+Crawl-delay: 2
+Disallow: /*?
+Disallow: /munin*
+
+User-Agent: Yahoo! Slurp 
+Crawl-delay: 2
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: rdfbot
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: Seznambot 
+Request-rate: 1/2s
+Disallow: /*?
+Disallow: /munin*
+
+User-agent: ia_archiver
+Disallow: /munin*
+
+User-agent: Mediapartners-Google
+Disallow: /munin*

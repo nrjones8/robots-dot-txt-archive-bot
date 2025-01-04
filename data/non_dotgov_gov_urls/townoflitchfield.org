@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}
+User-agent: *
+Disallow: /events/
+Disallow: /documents/
+Disallow: /faqs/
+Disallow: /people/
+Disallow: /resources/
+
+Sitemap: https://www.townoflitchfield.org/sitemap.xml

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://thewaronbullshit.com/sitemap_index.xml
+Sitemap: https://invertgallery.com/sitemap_index.xml

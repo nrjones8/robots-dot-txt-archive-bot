@@ -1,1 +1,11 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+User-agent: *
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://www.barrington-il.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

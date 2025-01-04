@@ -6,4 +6,4 @@ Disallow: /_catalogs/
 
 
 
-Sitemap: http://kcshpt4:8888/sitemap.xml
+Sitemap: http://kcshpt4:81/sitemap.xml

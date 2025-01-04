@@ -1,1 +1,16 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+User-agent: *
+Disallow: /admin/
+Disallow: /admin2/
+Disallow: /_*/
+Disallow: /includes/
+Disallow: /Scripts/
+Disallow: /Script/
+Disallow: /SpryAssts/
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /scripts/
+Disallow: /script/
+DisallowL /js/
+
+Sitemap: https://cityofbuellton.com/sitemap.xml

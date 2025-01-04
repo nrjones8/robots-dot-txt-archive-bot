@@ -47,6 +47,8 @@ Disallow: /Newsroom-Entries/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-
 Disallow: /Newsroom-Entries/2023/Marana-Star-Spangled-Spectacular-photo-gallery/2023-Marana-Star-Spangled-Spectacular-photo-gallery
 Disallow: /Newsroom-Entries/2024/EVENT-RECAP-Maranas-2024-State-of-the-Town/State-of-the-Town-2024
 Disallow: /Newsroom-Entries/2024/PHOTO-HIGHLIGHTS-Marana-Founders-Day-2024/2024-Marana-Founders-Day
+Disallow: /Newsroom-Entries/Newsroom-2024/EVENT-RECAP-Maranas-2024-State-of-the-Town/State-of-the-Town-2024
+Disallow: /Newsroom-Entries/Newsroom-2024/PHOTO-HIGHLIGHTS-Marana-Founders-Day-2024/2024-Marana-Founders-Day
 Disallow: /Newsroom-RSS-Feed
 Disallow: /Public-Notices-RSS-Feed
 Disallow: /Services/Citizen-Feedback

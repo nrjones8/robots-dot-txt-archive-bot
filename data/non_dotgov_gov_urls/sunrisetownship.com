@@ -1,1 +1,6 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://sunrisetownship.com/sitemap.xml
+Sitemap: https://sunrisetownship.com/sitemap.rss

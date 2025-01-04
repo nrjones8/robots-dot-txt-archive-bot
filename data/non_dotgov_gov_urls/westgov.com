@@ -1,15 +1,1 @@
-User-agent: *
-
-Disallow: /googleresults.jsp
-Disallow: /results.jsp
-Disallow: /results-b.jsp
-Disallow: /ns-results.jsp
-Disallow: /w-results.jsp
-Disallow: /s-results.jsp
-Disallow: /results-travel.jsp
-Disallow: /results-medical.jsp
-Disallow: /tc-results.jsp
-Disallow: /m-results.jsp
-Disallow: /results-monster.jsp
-Disallow: /emailAdCampaign.jsp
-Disallow: /domainSearch.jsp
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='westgov.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fdd6dc2da00>, 'Connection to westgov.com timed out. (connect timeout=15)'))"}

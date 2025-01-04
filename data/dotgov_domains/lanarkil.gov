@@ -1,1 +1,10 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 202}
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /newsevents/calendar/action~posterboard/
+Disallow: /newsevents/calendar/action~agenda/
+Disallow: /newsevents/calendar/action~oneday/
+Disallow: /newsevents/calendar/action~month/
+Disallow: /newsevents/calendar/action~week/
+Disallow: /newsevents/calendar/action~stream/

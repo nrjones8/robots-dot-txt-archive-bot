@@ -1,1 +1,10 @@
-Got an HTML response
+User-agent: bingbot
+Crawl-delay: 10
+User-agent: msnbot
+Crawl-delay: 10
+User-agent: msnbot-media
+Crawl-delay: 10
+User-agent: *
+Crawl-delay: 60
+Disallow:
+Sitemap: https://www.vermontartscouncil.org/sitemap_index.xml

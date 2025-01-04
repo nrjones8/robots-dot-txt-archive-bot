@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://hillsborond.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='hillsborond.com', port=443): Read timed out. (read timeout=15)"}
