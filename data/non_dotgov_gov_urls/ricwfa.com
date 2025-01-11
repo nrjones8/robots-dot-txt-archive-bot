@@ -1,7 +1,11 @@
 # START YOAST BLOCK
 # ---------------------------
-User-agent: AhrefsBot 
-Disallow: /
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /wp-admin/
 
 Sitemap: http://ricwfa.com/sitemap_index.xml
 # ---------------------------

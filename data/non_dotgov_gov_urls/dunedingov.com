@@ -48,6 +48,9 @@ Disallow: /City-Services/Public-Safety/Hurricanes/*
 Disallow: /City-Services/Severe-Weather/Storm-Response/New-page/*
 Disallow: /City-Services/Sustainable-Living/Copy-of-Activities-Recreation-Background-1
 Disallow: /City-Services/Sustainable-Living/Copy-of-Sustainable-Background-1
+Disallow: /City-Services/Sustainable-Living/Resiliency-Sustainability-Rebate-Program
+Disallow: /City-Services/Sustainable-Living/Resiliency-Sustainability-Rebate-Program1
+Disallow: /City-Services/Sustainable-Living/Resiliency-Sustainable-Rebate-Program
 Disallow: /City-Services/Sustainable-Living/Sustainable-Background
 Disallow: /City-Services/Trash-Recycling/New-page
 Disallow: /City-Services/Trash-Recycling/Solid-Waste-Background
@@ -81,10 +84,13 @@ Disallow: /Landing-Page/*
 Disallow: /My-area
 Disallow: /Need-to-Delete/*
 Disallow: /New-page/*
+Disallow: /resiliency-rebate
 Disallow: /Sandbox/*
 Disallow: /Sandbox/Internal-Style-Guide/Landing-Page/*
 Disallow: /service-pages
 Disallow: /Services-Pages
+Disallow: /sustainable-development-rebate
+Disallow: /sustainable-rebate
 Disallow: /System-Pages/Internal-Style-Guide
 Disallow: /Training/Dogs-and-Cats/Cats-and-Dogs
 Disallow: /Training/Dogs-and-Cats/New-page

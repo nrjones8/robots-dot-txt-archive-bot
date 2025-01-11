@@ -1,1 +1,24 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='wrightschool.org', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdd6dd3efd0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+#All
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php*
+Disallow: /search/
+Disallow: /?s=
+Disallow: /p=*
+Disallow: /?page_id=*
+Disallow: /?cst
+Disallow: /?query-
+Disallow: /comments/
+Disallow: /comment-page
+Disallow: /*comment-page*
+Allow: /wp-admin/admin-ajax.php
+
+#Googlebot
+User-agent: Googlebot
+Disallow: */feed/
+
+#Googlebot-News
+User-agent: Googlebot-News
+Allow: */feed/
+
+Sitemap: https://wrightschool.org/sitemap_index.xml

@@ -702,6 +702,7 @@ Disallow: /Home/Tabs/Public-Notices
 Disallow: /Home/Topic-Areas/*
 Disallow: /Home/Trees/*
 Disallow: /Housing-Assistance-Recovery/Home-Ownership/Housing-Income-Limits
+Disallow: /Housing-Assistance-Recovery/Housing-Assistance/Mortgage-Assistance-Program
 Disallow: /Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant/*
 Disallow: /Housing-Assistance-Recovery/Recovery/Business-Assistance-Grant-2
 Disallow: /Housing-Assistance-Recovery/Recovery/Copy-of-Business-Assistance-Grant-1/*
@@ -826,7 +827,7 @@ Disallow: /My-Government/Boards-Committees/City-Commission/*
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes/*
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/ClimateResilienceNotes/061818-Meeting/*
 Disallow: /My-Government/Boards-Committees/Climate-Resilience-Committee/RSS-Feed-Test
-Disallow: /My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1
+Disallow: /My-Government/Boards-Committees/Copy-of-Auditor-General-Reports-SAMPLE-1-1/*
 Disallow: /My-Government/Boards-Committees/Wynwood-Design-Review-Committee-WDRC/WDRC-Submittal-Checklist
 Disallow: /My-Government/City-Officials/City-Attorney-Victoria-Mendez
 Disallow: /My-Government/City-Officials/District-1-Miguel-Angel-Gabela/District-1-Events
@@ -867,6 +868,7 @@ Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/ResilienceForum/*
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Roads-and-Mobility/*
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Storm-Preparedness/*
 Disallow: /My-Government/Climate-Change-in-the-City-of-Miami/Storms/*
+Disallow: /My-Government/Departments/Auditor-General-Reports/*
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/*
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Bond-or-Letter-of-Credit
 Disallow: /My-Government/Departments/Building/Bonds-and-Letters-of-Credit/Release-a-Tree-Protection-Bond
@@ -1026,8 +1028,8 @@ Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Pag
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Addressing-Sea-Level-Rise
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/OCI-Home-Page-Rotating-Banner/Areas-of-Government
 Disallow: /My-Government/Departments/Office-of-Capital-Improvements/Signature-Projects/*
-Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Auditor-General-Reports
-Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Copy-of-Auditor-General-Reports-SAMPLE-1-1
+Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Auditor-General-Reports/*
+Disallow: /My-Government/Departments/Office-of-the-Auditor-General/Copy-of-Auditor-General-Reports-SAMPLE-1-1/*
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Assistant-City-Attorney-Victoria-Mendez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Adanna-N.-Ferguson
@@ -1048,7 +1050,7 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profil
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/William-A.-Juliachs
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/City-Attorney-Victoria-Mendez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Legal-Services-Request
-Disallow: /My-Government/Departments/Office-of-the-Independent-Auditor-General/Auditor-General-Reports
+Disallow: /My-Government/Departments/Office-of-the-Independent-Auditor-General/Auditor-General-Reports/*
 Disallow: /My-Government/Departments/OLD-City-Clerks-Office-OLD/*
 Disallow: /My-Government/Departments/OLD-City-Clerks-Office-OLD/Board-Announcements-and-Applications/Opening-for-Overtown-Advisory-Board-Overtown-Community-Oversight-Board
 Disallow: /My-Government/Departments/Parks-and-Recreation/Parks-and-Recreation-Staff-Contacts
@@ -1347,6 +1349,9 @@ Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-S
 Disallow: /Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
 Disallow: /Permits-Construction/Guidelines-for-the-Deployment-of-In-Building-Radio-Coverage-BDA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
+Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/Administrative-Site-Plan-Review-ASPR
+Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/Apply-for-an-Administrative-Site-Plan-Review-ASPR
+Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
@@ -1463,6 +1468,8 @@ Disallow: /Residents/Grapeland-Image
 Disallow: /Residents/Host-an-Event/*
 Disallow: /Residents/Host-an-Event-in-The-City-of-Miami/*
 Disallow: /Residents/Housing/Business-Assistance-Grant/*
+Disallow: /Residents/Housing/Copy-of-Apply-for-Eviction-Prevention-Program-1
+Disallow: /Residents/Housing/Mortgage-Assistance-Program
 Disallow: /Residents/Hurricane-Guide/Before-a-Storm/Preparations-For-the-Disabled
 Disallow: /Residents/Hurricane-Guide/Hurricane-Guide-Alert
 Disallow: /Residents/Hurricane-Guide/Hurricane-Isaias-Updates

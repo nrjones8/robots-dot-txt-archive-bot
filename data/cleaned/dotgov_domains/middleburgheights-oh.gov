@@ -1,6 +1,18 @@
 User-agent: *
 Disallow: /MBH_2020/wp-admin/
 Allow: /MBH_2020/wp-admin/admin-ajax.php
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
 Disallow: /calendar-2/action~posterboard/
 Disallow: /calendar-2/action~agenda/
 Disallow: /calendar-2/action~oneday/
@@ -12,12 +24,18 @@ Disallow: /calendar-2/action~http:/
 Disallow: /calendar-2/action~default/
 Disallow: /calendar-2/action~poster/
 Disallow: /calendar-2/action~*/
-Disallow: /*controller=ai1ec_exporter_controller*
-Disallow: /*/action~*/
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-Sitemap: https://middleburgheights.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+Disallow: /calendar-3/action~posterboard/
+Disallow: /calendar-3/action~agenda/
+Disallow: /calendar-3/action~oneday/
+Disallow: /calendar-3/action~month/
+Disallow: /calendar-3/action~week/
+Disallow: /calendar-3/action~stream/
+Disallow: /calendar-3/action~undefined/
+Disallow: /calendar-3/action~http:/
+Disallow: /calendar-3/action~default/
+Disallow: /calendar-3/action~poster/
+Disallow: /calendar-3/action~*/
+Sitemap: https://middleburgheights.com/news-sitemap.xml
+Sitemap: https://middleburgheights.com/video-sitemap.xml
+Sitemap: https://middleburgheights.com/sitemap.xml
+Sitemap: https://middleburgheights.com/sitemap.rss

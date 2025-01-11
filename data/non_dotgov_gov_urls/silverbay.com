@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /things-to-do/community-events/action~posterboard/
-Disallow: /things-to-do/community-events/action~agenda/
-Disallow: /things-to-do/community-events/action~oneday/
-Disallow: /things-to-do/community-events/action~month/
-Disallow: /things-to-do/community-events/action~week/
-Disallow: /things-to-do/community-events/action~stream/
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='silverbay.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd614ae2190>: Failed to establish a new connection: [Errno -5] No address associated with hostname'))"}

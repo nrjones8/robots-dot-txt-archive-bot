@@ -237,6 +237,7 @@ Disallow: /Residents/Connect/News/2024/Home-Based-Business-Showcase
 Disallow: /Residents/Connect/News/2024/Proposed-rate-increase-for-utility-customers
 Disallow: /Residents/Connect/News/2024/Service-fees-go-into-effect-for-city-services
 Disallow: /Residents/Connect/PSL-Shop-Merch
+Disallow: /Residents/Connect/Veterans-Connection/*
 Disallow: /Residents/Connect/Veterans-Corner/*
 Disallow: /Residents/Copy-of-Sidewalk-Master-Plan-1
 Disallow: /Residents/Neighborhoods/Code-Compliance/New-page

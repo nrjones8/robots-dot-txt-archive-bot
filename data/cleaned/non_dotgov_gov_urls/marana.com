@@ -31,8 +31,6 @@ Disallow: /Home/Hero/Video/Video-Background-1
 Disallow: /Home/New-page/*
 Disallow: /intranet/*
 Disallow: /Marana-Life/Marana-Heritage/Heritage-Resources
-Disallow: /Marana-Life/Public-Art/New-page
-Disallow: /Marana-Life/Public-Art/Points-in-Time
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/New-page
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/SplashSavvy-photos-2022
 Disallow: /Newsroom/2023/Marana-Star-Spangled-Spectacular-photo-gallery/2023-Marana-Star-Spangled-Spectacular-photo-gallery

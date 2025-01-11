@@ -1,5 +1,25 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Allow: /
+User-agent: Googlebot
+Disallow: *?lightbox=
 
-Sitemap: https://nassauclerk.com/wp-sitemap.xml
+# Optimization for Google Ads Bot
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+Disallow: /_api/*
+Disallow: /_partials*
+Disallow: /pro-gallery-webapp/v1/galleries/*
+
+# Block PetalBot
+User-agent: PetalBot
+Disallow: /
+
+# Crawl delay for overly enthusiastic bots
+User-agent: dotbot
+Crawl-delay: 10
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+Sitemap: https://www.nassauclerk.com/sitemap.xml
+
+# Auto generated, go to SEO Tools > Robots.txt Editor to change this

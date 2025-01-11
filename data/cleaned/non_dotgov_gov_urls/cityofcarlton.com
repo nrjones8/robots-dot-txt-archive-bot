@@ -14,6 +14,8 @@ Disallow: /city-code-ordinances/short-term-rentals/
 Disallow: /city-code-ordinances/zoning-applications/
 Disallow: /council-and-city-staff/
 Disallow: /council-agendas-minutes/
+Disallow: /council-agendas-minutes/2025-agendas/
+Disallow: /council-agendas-minutes/2025-meeting-minutes/
 Disallow: /council-agendas-minutes/2024-agendas/
 Disallow: /council-agendas-minutes/2024-meeting-minutes/
 Disallow: /council-agendas-minutes/2023-agendas/

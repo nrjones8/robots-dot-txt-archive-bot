@@ -1,1 +1,1 @@
-Sitemap: https://cdnprodpaas.valottery.com/handler/sitemap.xml
+Sitemap: https://cdn.valottery.com/handler/sitemap.xml

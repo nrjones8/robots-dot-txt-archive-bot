@@ -1,1 +1,6 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='www.mdlottery.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fdd6d5387f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.4.9 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+# No XML Sitemaps are enabled.

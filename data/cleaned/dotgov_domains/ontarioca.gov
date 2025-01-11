@@ -70,3 +70,13 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Additional rules
+User-agent: GPTBot
+Disallow: /
+User-agent: Amazonbot
+Allow: /$
+Disallow: /
+User-agent: AwarioBot
+Disallow: /
+User-agent: DataForSeoBot
+Disallow: /

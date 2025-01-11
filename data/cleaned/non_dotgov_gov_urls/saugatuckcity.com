@@ -8,8 +8,8 @@ Disallow: /ajax/
 Disallow: /apps/
 Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/saugatuck_mi/0-0-0-6803
 Disallow: /https://www.consumersenergy.com
-Disallow: /about.html
 Disallow: /https://www.sdlibrary.org
+Disallow: /about.html
 Disallow: /https://www.michigangasutilities.com
 Disallow: /https://michigantownshipservices.secureserversites.net/city-of-saugatuck
 Disallow: /https://www.saugatuckdouglasartclub.org/
