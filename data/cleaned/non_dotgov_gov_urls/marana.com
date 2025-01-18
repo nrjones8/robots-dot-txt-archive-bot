@@ -19,6 +19,7 @@ Disallow: /Departments/Police/Explorer-Info
 Disallow: /Departments/Police/Vacation-Watch/Vacation-Watch-Form
 Disallow: /Departments/Public-Works/Bat-Study
 Disallow: /Departments/Public-Works/Invasive-Species-Management/*
+Disallow: /Departments/Public-Works/Traffic-Updates
 Disallow: /Departments/Water-Water-Reclamation/Project-Water
 Disallow: /Departments/Water-Water-Reclamation/Quick-Links
 Disallow: /Departments/Water-Water-Reclamation/Unregulated-Compounds-REMOVE

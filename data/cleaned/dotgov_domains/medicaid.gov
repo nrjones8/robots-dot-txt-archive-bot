@@ -12,9 +12,8 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-User-agent: *
 Crawl-delay: 1
-Sitemap: https://www.medicaid.gov/sitemap.xml
+User-agent: *
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -66,6 +65,7 @@ Disallow: /taxonomy/
 Disallow: /themes/
 Disallow: /libraries/
 Disallow: /modules/
+Disallow: /sites/
 Disallow: /devel/
 Disallow: /admin/
 Disallow: /user/*
@@ -75,24 +75,3 @@ Disallow: /index.html?f[*
 Disallow: /index.html&f[*
 Disallow: /index.html?f%5B*
 Disallow: /index.html&f%5B*
-Disallow: */index.html?f[*
-Disallow: */index.html&f[*
-Disallow: */index.html?f%5B*
-Disallow: */index.html&f%5B*
-Disallow: /addthis_custom_block?/*
-Disallow: */index.html?filter&f*
-Disallow: /index.html?filter&f*
-Disallow: /index.html?f[*
-Disallow: /index.html&f[*
-Disallow: /index.html?f%5B*
-Disallow: /index.html&f%5B*
-Disallow: */index.html?f[*
-Disallow: */index.html&f[*
-Disallow: */index.html?f%5B*
-Disallow: */index.html&f%5B*
-Disallow: /addthis_custom_block?/*
-Disallow: */index.html?filter&f*
-Disallow: /index.html?filter&f*
-Disallow: *?terms=&items_per_page=*
-Disallow: *?terms=&items_per_page=
-*

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://vertical-imbalance.com/sitemap_index.xml
+Sitemap: https://simtphcm.com/sitemap_index.xml

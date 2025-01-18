@@ -13,6 +13,10 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 User-agent: *
+# Sitemaps
+Allow: /sitemaps/default/sitemap.xml
+Allow: /sitemaps/news/sitemap.xml
+Allow: /sitemaps/report/sitemap.xml
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?

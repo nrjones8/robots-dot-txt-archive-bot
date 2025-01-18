@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://disperkimsumsel.id/sitemap.xml
+Got an HTML response

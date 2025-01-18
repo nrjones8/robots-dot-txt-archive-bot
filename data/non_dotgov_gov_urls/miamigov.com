@@ -1349,9 +1349,6 @@ Disallow: /Permits-Construction/Filming-and-Events/Get-a-Building-Permit-for-a-S
 Disallow: /Permits-Construction/Get-an-Easy-Permit/Easy-Permit-Trade-Lists
 Disallow: /Permits-Construction/Guidelines-for-the-Deployment-of-In-Building-Radio-Coverage-BDA
 Disallow: /Permits-Construction/Inspections/Get-a-Fire-Inspection-for-a-Certificate-of-Use-CU
-Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/Administrative-Site-Plan-Review-ASPR
-Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/Apply-for-an-Administrative-Site-Plan-Review-ASPR
-Disallow: /Permits-Construction/Land-Development-Main-Landing-Page/New-page
 Disallow: /Permits-Construction/Permit-Catalog/Get-an-Interim-Parking-Permit
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Event-Permit-TEP-for-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526
 Disallow: /Permits-Construction/Permit-Catalog/Get-a-Temporary-Permit-for-a-COVID-Testing-or-Vaccine-Site/City-Ordinance-62-526

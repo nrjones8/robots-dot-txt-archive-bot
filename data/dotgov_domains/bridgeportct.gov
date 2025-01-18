@@ -71,3 +71,12 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+
+# Additional rules from drupal-scaffold append.
+
+Disallow: /search
+
+User-agent: Baiduspider
+Disallow: /
+
+Sitemap: https://www.bridgeportct.gov/sitemap.xml

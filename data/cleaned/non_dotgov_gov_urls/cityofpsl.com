@@ -106,6 +106,8 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Op
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page/*
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Love-Your-Block-Program/*
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/New-page/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/Southern-Grove
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/Animal-Signs/*
@@ -150,6 +152,7 @@ Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Cod
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program-[hidden]
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget/Property-Auction
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget-OMB/Property-Auction
+Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Convenient-Drop-off-Center
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Frequently-Asked-Questions
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Buddy-Bench/*
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/KPSLB-Sponsors-Partners
@@ -162,6 +165,7 @@ Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Kee
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Litter-Prevention/Report-litter-with-1PSL
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Donations
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Keep-Port-St-Lucie-Beautiful/Sponsors-Partners
+Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/New-page
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Waste-FAQs
 Disallow: /Government/Your-City-Government/Departments/Parks/Community-Garden/*
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Community-Garden/*
@@ -212,6 +216,7 @@ Disallow: /Home/EM-Bar/New-page
 Disallow: /Home/EM-Bar/Notice
 Disallow: /Home/Featured-Content
 Disallow: /leap
+Disallow: /loveyourblock/*
 Disallow: /manatee
 Disallow: /meetingfiles
 Disallow: /milton
@@ -231,13 +236,10 @@ Disallow: /otter
 Disallow: /Page-Not-Found
 Disallow: /Residents/Connect/[hidden]-PSL-Shop-Merch
 Disallow: /Residents/Connect/Merchandise
-Disallow: /Residents/Connect/New-page/*
 Disallow: /Residents/Connect/News/2024/Home-Based-Business-Showcase
 Disallow: /Residents/Connect/News/2024/Proposed-rate-increase-for-utility-customers
 Disallow: /Residents/Connect/News/2024/Service-fees-go-into-effect-for-city-services
 Disallow: /Residents/Connect/PSL-Shop-Merch
-Disallow: /Residents/Connect/Veterans-Connection/*
-Disallow: /Residents/Connect/Veterans-Corner/*
 Disallow: /Residents/Copy-of-Sidewalk-Master-Plan-1
 Disallow: /Residents/Neighborhoods/Code-Compliance/New-page
 Disallow: /Residents/Neighborhoods/Code-Compliance/Nuisance-Abatement-Program

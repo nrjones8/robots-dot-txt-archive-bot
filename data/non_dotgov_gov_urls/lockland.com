@@ -1,8 +1,1 @@
-# Default robots file version:2
-User-agent: *
-Disallow: /calendar/action*
-Disallow: /events/action*
-Allow: /*.css
-Allow: /*.js
-Disallow: /*?
-Crawl-delay: 3
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='lockland.com', port=80): Read timed out. (read timeout=15)"}

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://airtaxisudan.com/sitemap_index.xml
+Sitemap: https://kovajewels.com/sitemap_index.xml

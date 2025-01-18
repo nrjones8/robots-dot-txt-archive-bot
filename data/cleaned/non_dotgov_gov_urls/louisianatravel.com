@@ -1,4 +1,3 @@
-#
 # robots.txt
 #
 # This file is to prevent the crawling and indexing of certain parts
@@ -60,3 +59,9 @@ Disallow: /index.php/user/password/
 Disallow: /index.php/user/register/
 Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
+# --- Disallow pagination and filtering query parameters ---
+Disallow: /*?*page=
+Disallow: /*?*sort_by=
+Disallow: /*?*start-date=
+Disallow: /*?*end-date=
+Disallow: /*?*items_per_page=

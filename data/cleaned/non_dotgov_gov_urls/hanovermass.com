@@ -7,12 +7,6 @@ User-agent: facebookexternalhit
 Crawl-delay: 60
 User-agent: DataForSeoBot
 Disallow: /
-User-agent: SEMrushBot
-Disallow: /
-User-agent: SemrushBot
-Disallow: /
-User-agent: SemrushBot-SA
-Disallow: /
 User-agent: magpie-crawler
 Disallow: /
 User-agent: CCBot
