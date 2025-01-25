@@ -1,1 +1,11 @@
-Got an HTML response
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: badcrawler
+Disallow: /
+User-agent: *
+Disallow: 
+Crawl-delay: 10
+Sitemap: https://southeastdiesel.org/sitemap.xml

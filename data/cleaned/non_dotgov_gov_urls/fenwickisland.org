@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /wp-admin
+Got an HTML response

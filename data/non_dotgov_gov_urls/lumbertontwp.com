@@ -1,1 +1,8 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 500}
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.lumbertontwp.com/wp-sitemap.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json

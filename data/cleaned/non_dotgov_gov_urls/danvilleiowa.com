@@ -1,1 +1,1 @@
-{"type":"bot.limit_reached"}
+Got an HTML response

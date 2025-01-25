@@ -1,2 +1,1 @@
-# robots.txt for https://boscobelwisconsin.com/
-Sitemap: https://boscobelwisconsin.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='boscobelwisconsin.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f36a63f5640>, 'Connection to boscobelwisconsin.com timed out. (connect timeout=15)'))"}

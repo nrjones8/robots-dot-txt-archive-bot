@@ -1,1 +1,1 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gocoastguard.com', port=80): Read timed out. (read timeout=15)"}
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='gocoastguard.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f36a5b8edf0>, 'Connection to gocoastguard.com timed out. (connect timeout=15)'))"}

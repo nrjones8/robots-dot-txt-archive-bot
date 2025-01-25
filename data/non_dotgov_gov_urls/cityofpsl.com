@@ -99,6 +99,8 @@ Disallow: /Government/Your-City-Government/Departments/Building-Department/Contr
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/City-Managers-Bi-Weekly-Reports
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/PDF-Versions
+Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL
+Disallow: /Government/Your-City-Government/Departments/City-Manager/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Office-of-Strategic-Initiatives-Innovation/Strategic-Plan/Strategic-Plan-Banners/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/Past-On-the-Pulse-Publications
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/PDF-Versions
@@ -107,6 +109,7 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Op
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page/*
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Little-Free-Library-Program
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Love-Your-Block-Program/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/New-page/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
@@ -148,6 +151,8 @@ Disallow: /Government/Your-City-Government/Departments/Financial-Management-Depa
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Business-Training-Consultation
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Special-Assessment-Property-Tax/New-page
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Special-Assessment-Property-Tax/Revenues
+Disallow: /Government/Your-City-Government/Departments/Human-Resources/New-page
+Disallow: /Government/Your-City-Government/Departments/Human-Resources/Retirees
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/[hidden]-Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program-[hidden]
@@ -222,6 +227,7 @@ Disallow: /manatee
 Disallow: /meetingfiles
 Disallow: /milton
 Disallow: /multimodal
+Disallow: /naturallypsl
 Disallow: /News/2024/Banyan-Basin-water-feature-at-Pioneer-Park-temporarily-closed-for-repairs
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-1
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-2

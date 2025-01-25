@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /urtbq/
+Got an HTML response

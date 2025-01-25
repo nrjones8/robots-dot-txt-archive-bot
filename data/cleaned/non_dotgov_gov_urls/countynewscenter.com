@@ -1,3 +1,1 @@
-User-agent: *
-Disallow: /ARCHIVE
-Disallow: /events
+Request failed

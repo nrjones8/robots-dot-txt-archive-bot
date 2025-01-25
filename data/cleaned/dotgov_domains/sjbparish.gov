@@ -43,6 +43,7 @@ Disallow: /Home/Tabs/St.-John-Parish-Office-Closure
 Disallow: /Home/Tabs/THIS-IS-A-DRILL
 Disallow: /Home/Tabs/Water-Notice
 Disallow: /Home/Tabs/Water-Outage-Boil-Water-Advisory
+Disallow: /Home/Tabs/Winter-Weather-Update
 Disallow: /Internal-Styles/*
 Disallow: /New-page/*
 Disallow: /Page-Not-Found/*

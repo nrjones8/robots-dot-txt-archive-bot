@@ -60,7 +60,6 @@ Disallow: /crm-3
 Disallow: /crm-4
 Disallow: /crm-5
 Disallow: /crm-6
-Disallow: /customercare/myfw
 Disallow: /departments/archived-corrupted/*
 Disallow: /departments/aviation/meacham/airport-operations
 Disallow: /departments/aviation/meacham/development-applications
@@ -217,7 +216,6 @@ Disallow: /departments/code-compliance/united-way/*
 Disallow: /departments/communications/communications/*
 Disallow: /departments/communications/Copy-of-engagement-1
 Disallow: /departments/communications/customercare/citycallcenter
-Disallow: /departments/communications/customercare/myfw
 Disallow: /departments/communications/customercare/service-requests
 Disallow: /departments/communications/cutomercare/citycallcenter
 Disallow: /departments/communications/engagement/engagment/slide-6
@@ -257,6 +255,7 @@ Disallow: /departments/Copy-of-neighborhoods-1/cap/archived/*
 Disallow: /departments/Copy-of-neighborhoods-1/cap/archived/emergency-rental-assistance-archived
 Disallow: /departments/Copy-of-neighborhoods-1/cap/emergency-cares-act-old
 Disallow: /departments/Copy-of-neighborhoods-1/cap/er/*
+Disallow: /departments/Copy-of-neighborhoods-1/cap/financialcompass
 Disallow: /departments/Copy-of-neighborhoods-1/centers/docsessionscc
 Disallow: /departments/Copy-of-neighborhoods-1/centers/northsidecc
 Disallow: /departments/Copy-of-neighborhoods-1/centers/northtricc
@@ -505,6 +504,7 @@ Disallow: /departments/finance/bids/manual-bids/tranp/2023/*
 Disallow: /departments/finance/bids/manual-bids/water/2023/*
 Disallow: /departments/finance/bids/manual-bids/water/not-to-be-used-no-duplicates-as-of-Jan-31-2024/*
 Disallow: /departments/finance/deactivated-pages/*
+Disallow: /departments/finance/faq
 Disallow: /departments/finance/featured-background/finance-banner
 Disallow: /departments/finance/purchasing/bids/manual-bids/aviat/2023/*
 Disallow: /departments/finance/purchasing/bids/manual-bids/devserv/2022/*
@@ -893,6 +893,7 @@ Disallow: /departments/neighborhoods/cap/cap/slide-6
 Disallow: /departments/neighborhoods/cap/emergency-cares-act-old
 Disallow: /departments/neighborhoods/cap/emergency-rental-assistance-archived
 Disallow: /departments/neighborhoods/cap/er/*
+Disallow: /departments/neighborhoods/cap/financialcompass
 Disallow: /departments/neighborhoods/centers/docsessionscc
 Disallow: /departments/neighborhoods/centers/northsidecc
 Disallow: /departments/neighborhoods/centers/northtricc
@@ -944,12 +945,10 @@ Disallow: /departments/parks/hhcc.holiday.2024
 Disallow: /departments/parks/mayors-monarch
 Disallow: /departments/parks/services/attractions/accessible-playgrounds
 Disallow: /departments/parks/services/attractions/dog-parks
-Disallow: /departments/parks/services/Copy-of-accessibility-1
 Disallow: /departments/parks/services/Copy-of-athletic-rental-fees-1
 Disallow: /departments/parks/services/Copy-of-park-reservations-1
 Disallow: /departments/parks/services/featured-background
 Disallow: /departments/parks/services/links
-Disallow: /departments/parks/services/memorial-park-bench-program
 Disallow: /departments/parks/services/play-big
 Disallow: /departments/parks/services/reservation-fees
 Disallow: /departments/parks/united-way/*
@@ -1253,12 +1252,14 @@ Disallow: /government/mayor/mayors-monarch-pledge
 Disallow: /government/mayor/test-oc-contact-form
 Disallow: /government/resources/arpa
 Disallow: /government/resources/cip
+Disallow: /government/resources/legislative-priorities
 Disallow: /government/resources/ppe
 Disallow: /government/resources/str
 Disallow: /government/top-govt-topics/2025-budget
 Disallow: /government/top-govt-topics/echo-heights-comp-plan-future-land-uses
 Disallow: /government/top-govt-topics/government-future-of-city-hall
 Disallow: /government/top-govt-topics/hot
+Disallow: /government/top-govt-topics/legislative-priorities
 Disallow: /government/top-govt-topics/str
 Disallow: /hidden-copy-age-friendly-fort-worth
 Disallow: /Home/Announcements/acella-maintenance-new
@@ -1293,7 +1294,6 @@ Disallow: /maps/featured-image/fleet
 Disallow: /meacham/master-plan
 Disallow: /mediation
 Disallow: /middle-image
-Disallow: /myfw
 Disallow: /neighbor-mediation
 Disallow: /new-city-hall/city-hall-rotator/slide-1
 Disallow: /new-city-hall/city-hall-rotator/slide-2
@@ -1361,7 +1361,7 @@ Disallow: /news/2025/7
 Disallow: /news/2025/8
 Disallow: /news/2025/9
 Disallow: /news/2025/Copy-of-10-1
-Disallow: /news/2025/Copy-of-1-1/*
+Disallow: /news/2025/Copy-of-1-1
 Disallow: /news/2025/Copy-of-11-1
 Disallow: /news/2025/Copy-of-2-1/*
 Disallow: /news/2025/Copy-of-3-1

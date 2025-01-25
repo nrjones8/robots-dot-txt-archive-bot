@@ -2,4 +2,8 @@ User-agent: PetalBot
 Disallow: /
 User-agent: ClaudeBot
 Disallow: /
+User-agent: Amazonbot             # Amazon's user agent
+Disallow: /          # disallow this directory
+User-agent: meta-externalagent
+Disallow: /
 Sitemap: http://www.townofminong.us/sitemap.xml

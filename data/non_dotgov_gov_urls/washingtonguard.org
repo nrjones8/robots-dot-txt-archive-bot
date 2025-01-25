@@ -1,11 +1,1 @@
-User-agent: *
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: rogerbot
-Disallow: /
-
-User-agent: dotbot
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='bilanciamo.com', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f36a67b9220>, 'Connection to bilanciamo.com timed out. (connect timeout=15)'))"}

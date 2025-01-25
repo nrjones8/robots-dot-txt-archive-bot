@@ -5,6 +5,7 @@ Allow: /wp-admin/admin-ajax.php
 Sitemap: https://ohiocourtofclaims.gov/sitemaps.xml
 # Stop bots from crawling junk URLs
 User-agent: *
+Crawl-delay:1
 Disallow: /*?p=*
 Disallow: /*&p=*
 Disallow: /*?s=*

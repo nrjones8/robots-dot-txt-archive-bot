@@ -1,7 +1,7 @@
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
-Disallow:
+Disallow: /employeefeedbackform/
 
 Sitemap: https://www.cityofaltonil.gov/sitemap_index.xml
 # ---------------------------

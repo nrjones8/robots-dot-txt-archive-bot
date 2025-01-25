@@ -1,1 +1,1 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='president-bush.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f36a5e473d0>: Failed to establish a new connection: [Errno 111] Connection refused'))"}
