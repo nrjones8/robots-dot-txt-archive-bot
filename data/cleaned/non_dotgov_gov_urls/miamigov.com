@@ -1038,8 +1038,11 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profil
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Copy-of-Jacqueline-Lorenzo-1
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Elizabeth-Hernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Isiaa-Jones
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
+Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/James-E.-Jackson
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Kerri-L.-McNulty

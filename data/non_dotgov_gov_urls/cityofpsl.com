@@ -99,8 +99,9 @@ Disallow: /Government/Your-City-Government/Departments/Building-Department/Contr
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/City-Managers-Bi-Weekly-Reports
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/PDF-Versions
-Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL
-Disallow: /Government/Your-City-Government/Departments/City-Manager/New-page
+Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL/*
+Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL-Green-Spaces-Places/*
+Disallow: /Government/Your-City-Government/Departments/City-Manager/New-page/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Office-of-Strategic-Initiatives-Innovation/Strategic-Plan/Strategic-Plan-Banners/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/Past-On-the-Pulse-Publications
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/PDF-Versions
@@ -151,7 +152,6 @@ Disallow: /Government/Your-City-Government/Departments/Financial-Management-Depa
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Business-Training-Consultation
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Special-Assessment-Property-Tax/New-page
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Special-Assessment-Property-Tax/Revenues
-Disallow: /Government/Your-City-Government/Departments/Human-Resources/New-page
 Disallow: /Government/Your-City-Government/Departments/Human-Resources/Retirees
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/[hidden]-Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program
@@ -227,7 +227,7 @@ Disallow: /manatee
 Disallow: /meetingfiles
 Disallow: /milton
 Disallow: /multimodal
-Disallow: /naturallypsl
+Disallow: /naturallypsl/*
 Disallow: /News/2024/Banyan-Basin-water-feature-at-Pioneer-Park-temporarily-closed-for-repairs
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-1
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-2
@@ -247,6 +247,7 @@ Disallow: /Residents/Connect/News/2024/Home-Based-Business-Showcase
 Disallow: /Residents/Connect/News/2024/Proposed-rate-increase-for-utility-customers
 Disallow: /Residents/Connect/News/2024/Service-fees-go-into-effect-for-city-services
 Disallow: /Residents/Connect/PSL-Shop-Merch
+Disallow: /Residents/Connect/Volunteering
 Disallow: /Residents/Copy-of-Sidewalk-Master-Plan-1
 Disallow: /Residents/Neighborhoods/Code-Compliance/New-page
 Disallow: /Residents/Neighborhoods/Code-Compliance/Nuisance-Abatement-Program

@@ -1,6 +1,8 @@
 User-agent: *
-Disallow: /games*?SEARCH_TERM=
-Disallow: /games*&SEARCH_TERM=
-Disallow: /about/foia-and-transparency
+Disallow: /games?
+Disallow: /resources?
+Disallow: /promotions?
+Disallow: /about-us?
+Disallow: /testing-page
 
 Sitemap: https://www.michiganlottery.com/sitemap.xml

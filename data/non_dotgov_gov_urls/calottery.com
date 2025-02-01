@@ -25,18 +25,24 @@ Disallow: /Unsubscribe-Notification-Results
 Disallow: /my-account/2nd-chance-submissions
 Disallow: /my-account/my-profile/change-password
 
+User-agent: Twitterbot
+Disallow: *
+Allow: /*/events
+Allow: /*/scratchers-quiz
+
+User-agent: FacebookBot
+Disallow: *
+Allow: /*/events
+Allow: /*/scratchers-quiz
+
 User-agent: LinkedInBot
 Disallow: *
-Allow: /events
+Allow: /*/events
+Allow: /*/scratchers-quiz
 
-User-agent: Twitterbot  
+User-agent: facebookexternalhit
 Disallow: *
-Allow: /events
-Allow: /scratchers-quiz
-
-User-agent: FacebookBot  
-Disallow: *
-Allow: /events
-Allow: /scratchers-quiz
+Allow: /*/events
+Allow: /*/scratchers-quiz
 
 Sitemap: https://www.calottery.com/sitemap.xml

@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://burleighco.com/sitemap_index.xml
+Sitemap: https://burleighco.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK

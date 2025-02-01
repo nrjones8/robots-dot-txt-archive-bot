@@ -1,1 +1,9 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+User-agent: archive.org_bot
+Disallow:
+
+User-agent: *
+Disallow: /contact
+Disallow: /admin
+Disallow: /pages
+Disallow: /sso
+Disallow: /courtsearch

@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap:https://117.18.0.176/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 404}

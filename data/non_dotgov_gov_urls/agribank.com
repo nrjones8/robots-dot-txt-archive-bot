@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='agribank.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f36a6114610>, 'Connection to agribank.com timed out. (connect timeout=15)'))"}
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.agribank.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

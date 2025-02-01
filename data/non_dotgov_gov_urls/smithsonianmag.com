@@ -8,5 +8,6 @@ Disallow: /article/preview/*/
 Disallow: /blogs/blogpost/preview/*
 Disallow: /dashboard/
 Disallow: /acoustic/
+Disallow: /email/
 
 Sitemap: https://www.smithsonianmag.com/sitemap.xml

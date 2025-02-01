@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /images/
-Disallow: /library/
-Disallow: /obfuscated/
-Disallow: /staff/
-Sitemap: http://whb.ncpublichealth.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}

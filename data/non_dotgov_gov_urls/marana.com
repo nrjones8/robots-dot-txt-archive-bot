@@ -32,6 +32,8 @@ Disallow: /Home/Hero/Video/New-page
 Disallow: /Home/Hero/Video/Video-Background-1
 Disallow: /Home/New-page/*
 Disallow: /intranet/*
+Disallow: /Marana-Life/Downtown/Downtown-Marana-Vision
+Disallow: /Marana-Life/Downtown/New-page
 Disallow: /Marana-Life/Marana-Heritage/Heritage-Resources
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/New-page
 Disallow: /Newsroom/2023/Dont-miss-the-SplashSavvy-Summer-Kick-off-this-Saturday/SplashSavvy-photos-2022

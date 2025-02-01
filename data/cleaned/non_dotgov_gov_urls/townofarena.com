@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-Sitemap: https://korsdoeuvres.com/sitemap_index.xml
+Sitemap: https://teamsterslocal805.org/sitemap_index.xml

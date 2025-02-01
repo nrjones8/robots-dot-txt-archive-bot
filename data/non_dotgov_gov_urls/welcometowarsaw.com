@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://welcometowarsaw.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='welcometowarsaw.com', port=443): Read timed out. (read timeout=15)"}

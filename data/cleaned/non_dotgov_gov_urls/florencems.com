@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: 
+Sitemap: https://ecosdeasia.com/sitemap.xml

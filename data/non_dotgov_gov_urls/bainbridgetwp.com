@@ -1,1 +1,8 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='bainbridgetwp.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f36a5ebc430>, 'Connection to bainbridgetwp.com timed out. (connect timeout=15)'))"}
+<!-- Allowed: Site is public -->
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /https://bainbridgetwp.com/donotknocklist_full/
+
+Sitemap: https://bainbridgetwp.com/sitemap.xml
+Sitemap: https://bainbridgetwp.com/sitemap.rss

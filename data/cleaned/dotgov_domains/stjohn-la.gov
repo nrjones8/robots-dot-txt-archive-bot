@@ -32,6 +32,7 @@ Disallow: /Government/St-John-Parish-Council/Council-Meeting-Video-Archive
 Disallow: /Government/St-John-Parish-Council/Council-Meeting-Videos
 Disallow: /Home/Departments/Purchasing-and-Procurement/Contracts
 Disallow: /Home/Tabs/Boil-Water
+Disallow: /Home/Tabs/Boil-Water-Advisories
 Disallow: /Home/Tabs/Boil-Water-Advisory
 Disallow: /Home/Tabs/Conserve-Water
 Disallow: /Home/Tabs/Freeze-Update

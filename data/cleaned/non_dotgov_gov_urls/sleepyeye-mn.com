@@ -17,7 +17,7 @@ Disallow: /https://semedicalcenter.org/patients/billing-and-financial-assistance
 Disallow: /https://www.sleepyeye-mn.com/administration--city-hall.html/#CityHallContact
 Disallow: /pay.html
 Disallow: /https://www.sleepyeye-mn.com/building-permit.html
-Disallow: /https://resnexus.com/resnexus/reservations/book/1B150E96-A3CA-43E1-B088-E6096C779202?uniqueId=1B150E96-A3CA-43E1-B088-E6096C779202&mapID=3
+Disallow: /https://secure.rec1.com/MN/sleepy-eye-mn/catalog/index/8a7b739b7f96595f8fead0114ecaafe4?filter=c2VhcmNoPSZsb2NhdGlvbiU1QjQxODU3JTVEPTEmcmVudGFsJTVCZnJvbSU1RD0mcmVudGFsJTVCdG8lNUQ9JnJlbnRhbCU1QmZyb21UaW1lJTVEPSZyZW50YWwlNUJ0b1RpbWUlNUQ9JnJlbnRhbCU1QmR1cmF0
 Disallow: /https://www.sleepyeye-mn.com/agendas-and-minutes.html
 Disallow: /https://www.sleepyeye-mn.com/blight.html
 Disallow: /contact.html

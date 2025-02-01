@@ -1,1 +1,23 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='chalfontborough.com', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f36a62fa7c0>, 'Connection to chalfontborough.com timed out. (connect timeout=15)'))"}
+#****************************************************************************
+# robots.txt
+#     : Robots, spiders, and search engines use this file to detmine which 
+#       content they should *not* crawl while indexing your website.
+#     : This system is called "The Robots Exclusion Standard."
+#     : It is strongly encouraged to use a robots.txt validator to check
+#       for valid syntax before any robots read it!
+#
+# Examples:
+#
+# Instruct all robots to stay out of the admin area.
+#     : User-agent: *
+#     : Disallow:   /admin/
+#
+# Restrict Google and MSN from indexing your images.
+#     : User-agent: Googlebot
+#     : Disallow:   /images/
+#     : User-agent: MSNBot
+#     : Disallow:   /images/
+#****************************************************************************
+
+User-agent: *
+Disallow:

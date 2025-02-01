@@ -1,5 +1,11 @@
 User-agent: Googlebot
 Allow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: meta-externalagent/1.1
+Disallow: /
+User-agent: GoogleOther
+Disallow: /
 User-agent: *
 Disallow: /carousel/
 Disallow: /circlehover/

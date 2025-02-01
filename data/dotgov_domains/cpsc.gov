@@ -97,8 +97,12 @@ Disallow: /*recalls?*
 Allow: /*recalls?page*
 Disallow: /*Recalls?*
 Allow: /*Recalls?page*
+Disallow: /*noticias?*
+Allow: /*noticias?page*
+Disallow: /*Noticias?*
+Allow: /*Noticias?page*
 Disallow: /*search?*
 Disallow: /*Search?*
 # Ajax
-Disallow: /This-Path-is-added-for-month-block-ajax-to-work*
-Disallow: /this-path-is-added-for-month-block-ajax-to-work*
+Disallow: /*This-Path-is-added-for-month-block-ajax-to-work*
+Disallow: /*this-path-is-added-for-month-block-ajax-to-work*

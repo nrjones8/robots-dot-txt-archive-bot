@@ -1,4 +1,1 @@
-User-agent: *
-Disallow: /images/
-Disallow: /library/
-Sitemap: http://slph.ncpublichealth.com/sitemap.xml
+{"issue_type": "request_error", "error_msg": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
