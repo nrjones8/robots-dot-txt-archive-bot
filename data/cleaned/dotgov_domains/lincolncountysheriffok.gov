@@ -1,16 +1,12 @@
 User-agent: * 
 Disallow: /acess-denied.php
-Disallow: /application-confirmed.php
-Disallow: /booking-results2.php
-Disallow: /forgotpassword.php
-Disallow: /job-detail.php*
-Disallow: /login.php
-Disallow: /logout.php
-Disallow: /our-history.php
-Disallow: /post.php*
-Disallow: /tip-confirm.php
+Disallow: /application-confirmed
+Disallow: /forgotpassword
+Disallow: /login
+Disallow: /dmxAppConnect/modules/SecurityProviders
+Disallow: /tip-confirmed
 Disallow: /admin
-Disallow: /Connections
+Disallow: /dmxAppConnect/modules/Connections
+Disallow: /dmxAppConnect/api
 Disallow: /files
-Disallow: /webassist
-Sitemap: 
+Sitemap: https://lincolncountysheriffok.gov/sitemap/sitemap_pages.xml

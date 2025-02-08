@@ -1,7 +1,25 @@
+#google
+User-agent: Googlebot
+Disallow: /judicial-conference-website/
+Disallow:/probate-court/
+Disallow:/mental-health/
+User-agent: Googlebot-Mobile
+Disallow: /judicial-conference-website/
+Disallow:/probate-court/
+Disallow:/mental-health/
+User-agent: Googlebot-Image
+Disallow:/
+Disallow: /judicial-conference-website/
+Disallow:/probate-court/
+Disallow:/mental-health/
+User-agent: GPTBot
+Disallow: /
+User-agent: Bingbot
+Disallow: /judicial-conference-website/
+Disallow:/probate-court/
+Disallow:/mental-health/
+# No one else
 User-agent: *
 Disallow: /
-User-agent: Googlebot
-Allow: /
-User-agent: Bingbot
-Allow: /
+Crawl-delay: 120000
 Sitemap: https://www.sccourts.org/sitemap.xml

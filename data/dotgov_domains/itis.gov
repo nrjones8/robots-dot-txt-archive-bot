@@ -1,6 +1,24 @@
-#robots.txt for http://www.itis.gov
-#Bad user-agent reference: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list
+# robots.txt for https://itis.gov/
+# Bad user-agent reference: https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list
 
+# Sitemap declaration
+Sitemap: https://itis.gov/sitemap.xml
+
+# Allow Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Allow other Google crawlers
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+# Disallow rules other bots
 User-agent: *
 Disallow:/tmp/
 Disallow:/FilesToBeDownloaded/
@@ -12,6 +30,7 @@ Disallow:/itisdownload/
 Disallow:/download/
 Disallow:/servlet/SingleRpt/SingleRpt/
 
+# Disallow specific bad bots
 User-agent: Petalbot
 Disallow: /
 
@@ -33,4 +52,38 @@ Disallow: /
 User-agent: MauiBot
 Disallow: /
 
-Sitemap: https://itis.gov/sitemap.xml
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: FacebookExternalHit
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Lipperhey
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: BingPreview
+Disallow: /
+
+User-agent: Crawler4j
+Disallow: /
+
+User-agent: WebSoccer
+Disallow: /
+
+User-agent: Baumarkt24\ Bot
+Disallow: /
+
+User-agent: Zyte
+Disallow: /

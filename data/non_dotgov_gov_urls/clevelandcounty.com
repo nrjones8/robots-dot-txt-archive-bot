@@ -8,3 +8,4 @@ Disallow: /documents/
 Disallow: /csvtable/
 Disallow: /cpmd/
 Disallow: /chunkitcc/
+Disallow: /revize/

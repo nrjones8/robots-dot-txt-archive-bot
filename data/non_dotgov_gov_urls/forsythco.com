@@ -17,6 +17,7 @@ Disallow: /HttpModules/
 Disallow: /images/
 Disallow: /Install/
 Disallow: /js/
+Disallow: /COVID-19
 Disallow: /Providers/
 Disallow: /Resources/ContentRotator/
 Disallow: /Resources/ControlPanel/

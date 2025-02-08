@@ -1,7 +1,9 @@
-﻿user-agent: *
-disallow: /_layouts/15/Authenticate.aspx
-disallow: /*/_layouts/15/Authenticate.aspx
-disallow: _layouts/15/Authenticate.aspx
-disallow: */_layouts/15/Authenticate.aspx
-disallow: /_catalogs/masterpage/
-disallow: /government/communityservices/ParksandRecreation/
+User-agent: *
+Disallow: /bin/
+Disallow: /config/
+Disallow: /install/
+Disallow: /umbraco/
+Disallow: /views/
+Disallow: /members-area/
+
+Sitemap: https://www.a2gov.org/sitemap-xml/

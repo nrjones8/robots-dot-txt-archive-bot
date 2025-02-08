@@ -43,4 +43,4 @@ Disallow:/*&format=ical
 Disallow:/*?reversePaginate=*
 Disallow:/*&reversePaginate=*
 
-Sitemap: https://www.newcombny.com/sitemap.xml
+Sitemap: https://newcombny.gov/sitemap.xml

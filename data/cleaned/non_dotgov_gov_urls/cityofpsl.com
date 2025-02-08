@@ -43,6 +43,7 @@ Disallow: /Destinations/Things-to-Do/Events
 Disallow: /Destinations/Things-to-Do/Parks/Community-Garden/*
 Disallow: /Destinations/Things-to-Do/The-Port-District
 Disallow: /Destinations/Things-to-Do/Walton-One
+Disallow: /Doc-Testing
 Disallow: /Documents-search
 Disallow: /dolphin
 Disallow: /Event-Listing/*
@@ -68,18 +69,14 @@ Disallow: /Government/Discover-Us/Welcome-Guide
 Disallow: /Government/Mobility/Mobility-Plan
 Disallow: /Government/Mobility/Mobility-Traffic-Projects
 Disallow: /Government/Mobility/New-page
-Disallow: /Government/Mobility/Repaving-Master-Plan
 Disallow: /Government/Mobility/Sidewalk-Master-Plan
 Disallow: /Government/Mobility/Traffic-Operations
 Disallow: /Government/Mobility-Infrastructure/Copy-of-Repaving-Master-Plan-1
 Disallow: /Government/Mobility-Infrastructure/Copy-of-Sidewalk-Master-Plan-1
 Disallow: /Government/MobilityInfrastructure/Mobility-Plan
 Disallow: /Government/Mobility-Infrastructure/Mobility-Plan
-Disallow: /Government/Mobility-Infrastructure/Multimodal-Plan
 Disallow: /Government/Mobility-Infrastructure/New-page
 Disallow: /Government/Mobility-Infrastructure/Planning-Infrastructure-Study
-Disallow: /Government/MobilityInfrastructure/Repaving-Master-Plan
-Disallow: /Government/Mobility-Infrastructure/Repaving-Master-Plan
 Disallow: /Government/MobilityInfrastructure/Sidewalk-Master-Plan
 Disallow: /Government/Mobility-Infrastructure/Sidewalk-Master-Plan
 Disallow: /Government/MobilityInfrastructure/Traffic-Operations
@@ -89,6 +86,8 @@ Disallow: /Government/Resources/New-page
 Disallow: /Government/Resources/Strategic-Plan
 Disallow: /Government/Your-City-Government/Boards-Committees
 Disallow: /Government/Your-City-Government/City-Manager
+Disallow: /Government/Your-City-Government/Copy-of-Boards-Committees-1
+Disallow: /Government/Your-City-Government/Copy-of-Public-Records-Request-1
 Disallow: /Government/Your-City-Government/Departments/Building/Building-Banners/[deactivated]-Now-hiring-Construction-Inspector
 Disallow: /Government/Your-City-Government/Departments/Building/Building-Banners/Hiring-Building-Plans-Examiner-and-Construction-Inspector
 Disallow: /Government/Your-City-Government/Departments/Building-Department/Building-Banners/Copy-of-Hiring-Building-Plans-Examiner-and-Construction-Inspector-1
@@ -98,9 +97,6 @@ Disallow: /Government/Your-City-Government/Departments/Building-Department/Contr
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/City-Managers-Bi-Weekly-Reports
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/PDF-Versions
-Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL/*
-Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL-Green-Spaces-Places/*
-Disallow: /Government/Your-City-Government/Departments/City-Manager/New-page/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Office-of-Strategic-Initiatives-Innovation/Strategic-Plan/Strategic-Plan-Banners/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/Past-On-the-Pulse-Publications
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/PDF-Versions
@@ -153,8 +149,11 @@ Disallow: /Government/Your-City-Government/Departments/Financial-Management-Depa
 Disallow: /Government/Your-City-Government/Departments/Financial-Management-Department/Special-Assessment-Property-Tax/Revenues
 Disallow: /Government/Your-City-Government/Departments/Human-Resources/Retirees
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/[hidden]-Nuisance-Abatement-Program
+Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Make-an-Appointment
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program
 Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Code-Compliance/Nuisance-Abatement-Program-[hidden]
+Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/Community-Engagement
+Disallow: /Government/Your-City-Government/Departments/Neighborhood-Services/New-page
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget/Property-Auction
 Disallow: /Government/Your-City-Government/Departments/Office-of-Management-Budget-OMB/Property-Auction
 Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Convenient-Drop-off-Center
@@ -210,6 +209,7 @@ Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Copy-of-P
 Disallow: /Government/Your-City-Government/Departments/Utility-Systems/Proposed-rate-increase-for-utility-customers
 Disallow: /Government/Your-City-Government/Meetings-Agendas
 Disallow: /Government/Your-City-Government/New-page
+Disallow: /Government/Your-City-Government/Public-Records-Request
 Disallow: /Home/EM-Bar/Copy-of-High-Template-1
 Disallow: /Home/EM-Bar/Copy-of-Medium-Template-1
 Disallow: /Home/EM-Bar/High-Template
@@ -225,8 +225,7 @@ Disallow: /loveyourblock/*
 Disallow: /manatee
 Disallow: /meetingfiles
 Disallow: /milton
-Disallow: /multimodal
-Disallow: /naturallypsl/*
+Disallow: /New-page
 Disallow: /News/2024/Banyan-Basin-water-feature-at-Pioneer-Park-temporarily-closed-for-repairs
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-1
 Disallow: /News/2024/City-of-Port-St.-Lucie-Hurricane-Helene-Advisory-2
@@ -240,7 +239,12 @@ Disallow: /News/2024/Water-feature-at-Pioneer-Park-temporarily-closed-for-repair
 Disallow: /osprey
 Disallow: /otter
 Disallow: /Page-Not-Found
+Disallow: /prr
 Disallow: /Residents/Connect/[hidden]-PSL-Shop-Merch
+Disallow: /Residents/Connect/Boards-Committees
+Disallow: /Residents/Connect/Community-Engagement
+Disallow: /Residents/Connect/Copy-of-Boards-Committees-1
+Disallow: /Residents/Connect/Copy-of-Community-Engagement-1
 Disallow: /Residents/Connect/Merchandise
 Disallow: /Residents/Connect/News/2024/Home-Based-Business-Showcase
 Disallow: /Residents/Connect/News/2024/Proposed-rate-increase-for-utility-customers
@@ -256,6 +260,7 @@ Disallow: /Residents/Neighborhoods/Repaving-Master-Plan
 Disallow: /Residents/Neighborhoods/Sidewalk-Master-Plan
 Disallow: /Residents/Resources/Merchandise
 Disallow: /Residents/Services/1PSL-Service-Page
+Disallow: /Residents/Services/Public-Records-Request
 Disallow: /Residents/Services/TEST-1PSL-Service-Page
 Disallow: /Sandbox/*
 Disallow: /Search-Pages/Documents-search

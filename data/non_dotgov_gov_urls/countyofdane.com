@@ -1,1 +1,2 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='countyofdane.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1131)')))"}
+﻿User-agent: *
+Disallow: /Account

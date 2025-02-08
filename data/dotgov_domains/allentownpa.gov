@@ -1,1 +1,10 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='allentownpa.gov', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f62f4fb45b0>, 'Connection to allentownpa.gov timed out. (connect timeout=15)'))"}
+# Begin robots.txt file
+#/-----------------------------------------------\
+#| In single portal/domain situations, uncomment the sitmap line and enter domain name
+#\-----------------------------------------------/
+#Sitemap: http://www.DomainNamehere.com/sitemap.aspx
+
+User-agent: *
+Disallow: 
+
+# End of robots.txt file

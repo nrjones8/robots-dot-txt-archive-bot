@@ -37,7 +37,11 @@ Allow: /profiles/*.svg
 
 # Directories
 Disallow: /core/
+Disallow: /modules/
 Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+
 
 # Files
 Disallow: /README.txt
@@ -48,7 +52,9 @@ Disallow: /admin/
 Disallow: /comment/reply/
 Disallow: /filter/tips
 Disallow: /node/add/
+Disallow: /search
 Disallow: /search/
+Disallow: /search/*
 Disallow: /user/register
 Disallow: /user/password
 Disallow: /user/login

@@ -1,6 +1,15 @@
+User-agent: GPTBot
+Disallow: /
 
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+User-agent: ChatGPT-User
+Disallow: /
 
-Sitemap: https://www.usagm.gov/wp-sitemap.xml
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Anthropic-AI
+Disallow: /
+
