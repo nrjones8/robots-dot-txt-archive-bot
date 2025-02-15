@@ -1,1 +1,15 @@
-{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofwinnfield.com', port=443): Read timed out. (read timeout=15)"}
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://cityofwinnfield.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

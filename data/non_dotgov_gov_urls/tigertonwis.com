@@ -60,6 +60,9 @@ Crawl-delay: 600
 User-agent: barkrowler
 Crawl-delay: 600
 
+User-agent: BLEXBot
+Crawl-delay: 600
+
 User-agent: SemrushBot
 Disallow: /
 

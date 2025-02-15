@@ -1,8 +1,1 @@
-# START YOAST BLOCK
-# ---------------------------
-User-agent: *
-Disallow:
-
-Sitemap: https://www.turnermaine.com/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='turnermaine.com', port=443): Max retries exceeded with url: /robots.txt (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1131)')))"}

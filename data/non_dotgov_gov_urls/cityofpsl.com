@@ -32,6 +32,7 @@ Disallow: /Business/Training/Before-You-Sign-the-Lease-Workshops
 Disallow: /Business/Training/Business-Accelerator-Program
 Disallow: /Business/Training/Business-Tax-Workshops
 Disallow: /Business/Training/New-page
+Disallow: /camps
 Disallow: /commrequest
 Disallow: /commrequests
 Disallow: /Content-search/Documents-search
@@ -106,9 +107,6 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Op
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page/*
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Little-Free-Library-Program
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Love-Your-Block-Program/*
-Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/New-page/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/Southern-Grove/Southern-Grove
 Disallow: /Government/Your-City-Government/Departments/Community-Redevelopment/The-Port-District/Animal-Signs/*
@@ -175,6 +173,8 @@ Disallow: /Government/Your-City-Government/Departments/Office-of-Solid-Waste/Was
 Disallow: /Government/Your-City-Government/Departments/Parks/Community-Garden/*
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Community-Garden/*
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Community-Garden-[hidden]/*
+Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Programs/Camps
+Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Recreation-Programs/Camps
 Disallow: /Government/Your-City-Government/Departments/Parks-Recreation/Register
 Disallow: /Government/Your-City-Government/Departments/Police/Join-PSLPD/Criminal-Investigations-Division-CID/Criminal-Investigations-Division-CID
 Disallow: /Government/Your-City-Government/Departments/Police/Join-PSLPD/K-9-Unit/K-9-Unit
@@ -222,7 +222,6 @@ Disallow: /Home/EM-Bar/New-page
 Disallow: /Home/EM-Bar/Notice
 Disallow: /Home/Featured-Content
 Disallow: /leap
-Disallow: /loveyourblock/*
 Disallow: /manatee
 Disallow: /meetingfiles
 Disallow: /milton

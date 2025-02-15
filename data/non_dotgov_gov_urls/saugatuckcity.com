@@ -9,11 +9,11 @@ Crawl-delay: 10
 User-agent: *
 Disallow: /ajax/
 Disallow: /apps/
-Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/saugatuck_mi/0-0-0-6803
 Disallow: /https://www.consumersenergy.com
-Disallow: /https://www.sdlibrary.org
-Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
+Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/saugatuck_mi/0-0-0-6803
 Disallow: /about.html
+Disallow: /https://codelibrary.amlegal.com/codes/saugatuck/latest/overview
+Disallow: /https://www.sdlibrary.org
 Disallow: /https://www.michigangasutilities.com
 Disallow: /https://michigantownshipservices.secureserversites.net/city-of-saugatuck
 Disallow: /https://www.saugatuckdouglasartclub.org/

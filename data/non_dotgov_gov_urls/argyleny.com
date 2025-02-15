@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='argyleny.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd6819728e0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"}
+User-agent: Googlebot
+User-agent: Slurp
+User-agent: bingbot
+User-agent: *
+Allow: /images/
+
+Sitemap: https://argyleny.com/sitemap.xml

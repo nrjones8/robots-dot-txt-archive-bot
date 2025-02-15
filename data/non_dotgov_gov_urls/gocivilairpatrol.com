@@ -1,7 +1,1 @@
-User-agent: *
-Disallow: /ecommerce
-Disallow: /accounts/
-Disallow: /gdpr
-Crawl-Delay: 5
-
-Sitemap: https://www.gocivilairpatrol.com/sitemap.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 503}

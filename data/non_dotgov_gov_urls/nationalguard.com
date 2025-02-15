@@ -1,1 +1,3 @@
-{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 200}
+# Allow all search engines to access the entire site
+User-agent: *
+Disallow:

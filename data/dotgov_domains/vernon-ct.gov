@@ -38,6 +38,9 @@ Allow: /fs/resource-manager/view/
 
 # Page Exclusions
 User-agent: *
+Disallow: /departments-services/facilities$
+Disallow: /departments-services/facilities?
+Disallow: /departments-services/facilities/~
 Disallow: /government/boards-commissions/conservation/conservation-commission/vernon-trails$
 Disallow: /government/boards-commissions/conservation/conservation-commission/vernon-trails?
 Disallow: /government/boards-commissions/conservation/conservation-commission/vernon-trails/~
