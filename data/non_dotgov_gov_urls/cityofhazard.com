@@ -1,6 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://www.cityofhazard.com/sitemap.xml
-Sitemap: https://www.cityofhazard.com/sitemap.html
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='cityofhazard.com', port=443): Read timed out. (read timeout=15)"}

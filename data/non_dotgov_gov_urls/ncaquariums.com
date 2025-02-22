@@ -1,4 +1,6 @@
 User-agent: Googlebot
+Allow: .js
+Allow: .css
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$
@@ -95,6 +97,8 @@ User-agent: GPTBot
 Disallow: /
 
 User-agent: *
+Allow: .js
+Allow: .css
 Disallow: *.config$
 Disallow: *.asmx$
 Disallow: *.ascx$

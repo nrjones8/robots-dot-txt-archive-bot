@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /ambassador
 Disallow: /americanalligator
 Disallow: /auction
 Disallow: /blueheron
@@ -26,7 +27,6 @@ Disallow: /Business/Economic-Development/Village-Green
 Disallow: /Business/Economic-Development/Walton-One
 Disallow: /Business/Resources/Business-Consultation
 Disallow: /Business/Resources/Business-Tax
-Disallow: /Business/Resources/New-page
 Disallow: /Business/Training/Before-You-Sign-the-Lease-Workshops
 Disallow: /Business/Training/Business-Accelerator-Program
 Disallow: /Business/Training/Business-Tax-Workshops
@@ -104,6 +104,7 @@ Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-P
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Operations-Plans/Strategic-Plan/New-page/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Strategic-Operations-Plans/Strategic-Plan/Strategic-Plan-Banners/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Communications-Requests
+Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/City-Ambassador-Program
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/FRRI/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Community-Engagement/Forum-on-Race-Relations-Inclusion-FRRI/New-page/*
 Disallow: /Government/Your-City-Government/Departments/Communications/Meeting-Files

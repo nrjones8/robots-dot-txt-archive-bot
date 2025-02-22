@@ -1,12 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-Disallow: /wp-login.php
-Disallow: /wp-login.php?action=lostpassword
-Disallow: /?s=*
-Disallow: /feed/*
-Disallow: /search/*
-Disallow: /login/*
-Disallow: /tag/*
-
-Sitemap: https://stateofwatourism.com/sitemap_index.xml
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='experiencewa.com', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f203986eaf0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))"}

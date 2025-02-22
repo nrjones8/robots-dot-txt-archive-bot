@@ -12,7 +12,10 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
+User-agent: facebookexternalhit
+Disallow: /
 User-agent: *
+Crawl-delay: 10
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -65,3 +68,4 @@ Disallow: /index.php/*/media/oembed
 # Standard IK Settings
 Disallow: /api/*
 # Custom Project Settings
+Disallow: /flag/*

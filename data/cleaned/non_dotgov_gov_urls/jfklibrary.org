@@ -70,9 +70,19 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+##############################################
+# Custom Section: Block Access to Search Pages
+Disallow: /search
+Disallow: /site_search
+Disallow: /hemingway/search
+Disallow: /learn/education/teachers/curricular-resources
+Disallow: /index.php/search
+Disallow: /index.php/site_search
+Disallow: /index.php/hemingway/search
+Disallow: /index.php/learn/education/teachers/curricular-resources
 # Dark Visitors Robots.txt
 # https://darkvisitors.com/docs/robots-txt
-# 2024-12-09T12:50:00-0500
+# 2025-02-11T12:38:00-0500
 # AI Data Scraper
 # https://darkvisitors.com/agents/ai2bot
 User-agent: AI2Bot
@@ -148,4 +158,4 @@ Disallow: /
 # AI Data Scraper
 # https://darkvisitors.com/agents/webzio-extended
 User-agent: Webzio-Extended
-Disallow: /%
+Disallow: /

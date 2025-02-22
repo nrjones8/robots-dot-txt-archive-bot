@@ -1,1 +1,2 @@
-Sitemap: https://www.shorteralabama.com/sitemap.xml
+user-agent: *
+allow: /

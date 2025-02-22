@@ -1,5 +1,1 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://greatenglishwines.co.uk/sitemap_index.xml
+{"issue_type": "html_response_error", "error_msg": "HTML response", "status_code": 403}

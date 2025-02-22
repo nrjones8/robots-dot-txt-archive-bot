@@ -13,9 +13,18 @@
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
 
+
+# Block ByteDance bot from crawling the site
+User-agent: bytespider
+Disallow: /
+
+# Block Perplexity bot from crawling the site
+User-agent: perplexitybot
+Disallow: /
+
 User-agent: *
 # Crawl Settings
-Crawl-delay: 40
+Crawl-delay: 320
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -66,9 +75,17 @@ Disallow: /index.php/user/login/
 Disallow: /index.php/user/logout/
 Disallow: /search?keyword=*
 Disallow: /search?
+Disallow: /search?*
 Disallow: */search?processed=
 Disallow: /reports-testimonies
 Disallow: /reports-testimonies?
+Disallow: /reports-testimonies?*
 Disallow: /gao-advanced-search?
+Disallow: /gao-advanced-search?*
 Disallow: */find-an-expert?
 Disallow: /about/contact-us/*
+Disallow: /priority-recommendation-letters?
+Disallow: /priority-recommendation-letters?*
+Disallow: /agencies
+Disallow: /agencies/*
+

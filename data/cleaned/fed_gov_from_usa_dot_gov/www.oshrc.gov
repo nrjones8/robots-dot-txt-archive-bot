@@ -1,6 +1,7 @@
+# START YOAST BLOCK
+# ---------------------------
 User-agent: *
-Disallow: /search/
-Disallow: /admin/
-Disallow: /friend/
-Disallow: /500.aspx
-sitemap: https://www.oshrc.gov/sitemap.xml
+Disallow:
+Sitemap: https://www.oshrc.gov/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

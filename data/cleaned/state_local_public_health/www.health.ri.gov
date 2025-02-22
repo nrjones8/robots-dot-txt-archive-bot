@@ -36,6 +36,14 @@ Allow: /profiles/*.svg
 Disallow: /core/
 Disallow: /profiles/
 # Files
+Disallow: *1%5B*
+Disallow: *f%5B*
+Disallow: /resources-publications
+Disallow: /order/publications/resultsbyparameter
+Disallow: /licenses/detail.php
+Disallow: /resources-publications*
+Disallow: /order/publications/resultsbyparameter*
+Disallow: /licenses/detail.php*
 Disallow: /README.txt
 Disallow: /web.config
 # Paths (clean URLs)

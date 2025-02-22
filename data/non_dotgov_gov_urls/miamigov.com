@@ -312,7 +312,6 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Apply-for-
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Christopher-A.-Green
-Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-1
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Adanna-N.-Ferguson-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Daniel-D.-Diaz-3
@@ -328,7 +327,6 @@ Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-P
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Copy-of-Xavier-E.-Albán-2
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-D.-Diaz
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Daniel-S.-Goldberg
-Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Kerri-L.-McNulty
 Disallow: /Government/Departments-Organizations/City-Attorneys-Office/Attorney-Profiles/Lauren-Kain-Whaley
@@ -478,7 +476,6 @@ Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-O
 Disallow: /Government/Departments-Organizations/Office-of-Capital-Improvements-OCI/Strategic-Capital-Initiatives-Improvements-OCI/*
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Apply-for-a-Legal-Internship-with-the-Office-of-the-City-Attorney
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Daniel-S.-Goldberg
-Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Attorney-Profiles/Lauren-Kain-Whaley
 Disallow: /Government/Departments-Organizations/Office-of-the-City-Attorney/Legal-Services-Request
 Disallow: /Government/Departments-Organizations/OLD-City-Clerks-Office-OLD/*
@@ -1037,13 +1034,9 @@ Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Assistant-City-
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Adanna-N.-Ferguson
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Assistant-City-Attorney-Victoria-Mendez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Barnaby-L.-Min-Deputy-City-Attorney
-Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Brandon-L.-Fernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Christopher-A.-Green
-Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Copy-of-Jacqueline-Lorenzo-1
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Elizabeth-Hernandez
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Isiaa-Jones
-Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Jacqueline-Lorenzo
-Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/James-E.-Jackson
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Joseph-T.-Murray-III
 Disallow: /My-Government/Departments/Office-of-the-City-Attorney/Attorney-Profiles/Kerri-L.-McNulty

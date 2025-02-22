@@ -70,3 +70,9 @@ Disallow: /index.php/user/login
 Disallow: /index.php/user/logout
 Disallow: /index.php/media/oembed
 Disallow: /index.php/*/media/oembed
+# Disallow facet links
+Disallow: *?f%5B*
+Disallow: *&f%5B*
+# Disallow pretty facet links
+Disallow: /institutes/tech/*
+Disallow: /institutes/loc/*

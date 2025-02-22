@@ -15,7 +15,6 @@ Disallow: /http://bayfield.org
 Disallow: /http://www.bayfieldcounty.org/
 Disallow: /http://bayfieldheritage.org
 Disallow: /https://www.bayfieldmaritimemuseum.org/
-Disallow: /http://www.bayfieldlibrary.org/
 Disallow: /http://bigtop.org/
 Disallow: /http://www.corecr.org/index.html
 Disallow: /http://www.epa.gov/watersense/

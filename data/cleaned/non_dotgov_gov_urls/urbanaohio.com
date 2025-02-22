@@ -13,6 +13,7 @@ Disallow: /services.html
 Disallow: /community.html
 Disallow: /https://www.urbanaohio.com/news--public-notices/upd-recognizing-urbana-as-an-international-city-of-peace
 Disallow: /business.html
+Disallow: /https://www.urbanaohio.com/uploads/1/2/4/6/124631710/n_main_safety_study_proposed_conditions_-_final_-_11.02.2023-compressed.pdf
 Disallow: /employees.html
 Disallow: /special-event-request.html
 Disallow: /festival.html
