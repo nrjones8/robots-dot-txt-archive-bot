@@ -12,9 +12,96 @@
 #
 # For more information about the robots.txt standard, see:
 # http://www.robotstxt.org/robotstxt.html
-#
-# For syntax checking, see:
-# http://www.frobee.com/robots-txt-check
+
+User-agent: alexa             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: Alexabot             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: AlexaToolbar             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: Aranhabot             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: amazon-QBusiness    # Amazon Q Web Crawler
+Disallow: / # disallow everything
+
+User-agent: Amazon CloudFront             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: Amazonbot             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: amzn_assoc             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: amazon-kendra-web-crawler-* # all customers of Amazon Kendra's web crawler
+Disallow: / # disallow everything
+
+User-agent: amazon-kendra # all customers of Amazon Kendra's web crawler
+Disallow: / # disallow everything
+
+User-agent: AmazonAdBot             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: AmazonProductDiscoverybot             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: AWS*             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: aws-internal     # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: aws*             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: echo             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: echo*             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: *Glue             # Amazon's user agent
+Disallow: / # disallow everything
+
+User-agent: Storebot-Google             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Googlebot-Image             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Googlebot-News             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Googlebot-News             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Googlebot-Video             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: AdsBot-Google-Mobile       # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Mediapartners-Google       # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: FeedFetcher-Google        # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: GoogleProducer            # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: GoogleOther             # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: Google-Extended          # Google's user agent
+Disallow: / # disallow everything
+
+User-agent: APIs-Google             # Google's user agent
+Disallow: / # disallow everything
 
 User-agent: *
 Crawl-delay: 10

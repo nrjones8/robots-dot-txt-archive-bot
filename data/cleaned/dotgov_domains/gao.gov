@@ -20,7 +20,7 @@ User-agent: perplexitybot
 Disallow: /
 User-agent: *
 # Crawl Settings
-Crawl-delay: 320
+Crawl-delay: 420
 # CSS, JS, Images
 Allow: /core/*.css$
 Allow: /core/*.css?
@@ -84,3 +84,11 @@ Disallow: /priority-recommendation-letters?
 Disallow: /priority-recommendation-letters?*
 Disallow: /agencies
 Disallow: /agencies/*
+Disallow: /legal/bid-protests/search?*
+Disallow: /reports-testimonies/recommendations-database?*
+Disallow: /legal/congressional-review-act/search-database-of-rules?*
+Disallow: /legal/federal-vacancies-reform-act/federal-vacancies-current-administration?*
+Disallow: /legal/bid-protests/search?
+Disallow: /reports-testimonies/recommendations-database?
+Disallow: /legal/congressional-review-act/search-database-of-rules?
+Disallow: /legal/federal-vacancies-reform-act/federal-vacancies-current-administration?

@@ -1,3 +1,1 @@
-# This robot is causing exceptions to the log by requesting incorrectly formatted pages.
-User-agent: SemrushBot
-Disallow: /
+{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='ksrevenue.org', port=80): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f1416bae9d0>, 'Connection to ksrevenue.org timed out. (connect timeout=15)'))"}

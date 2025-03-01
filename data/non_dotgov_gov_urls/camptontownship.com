@@ -1,4 +1,1 @@
-User-agent: *
-Allow: index.htm
-Disallow: /Main
-Disallow: /Backup
+{"issue_type": "request_error", "error_msg": "HTTPSConnectionPool(host='camptontownship.com', port=443): Read timed out. (read timeout=15)"}

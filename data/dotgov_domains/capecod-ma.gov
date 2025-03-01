@@ -1,8 +1,12 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://www.capecod.gov/sitemap_index.xml
-# ---------------------------
-# END YOAST BLOCK
+
+User-agent: facebookexternalhit/1.1
+Disallow:
+Crawl-delay: 16
+
+User-agent: meta-externalagent/1.1
+Disallow:
+Crawl-delay: 16

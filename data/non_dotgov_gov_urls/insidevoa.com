@@ -3,7 +3,6 @@ Sitemap: https://www.insidevoa.com/sitemap.xml
 User-agent:*
 Disallow: /z/*/*/*/*
 Disallow: /ebar*
-Disallow: /api/*
 Disallow: /tv/*/*/*/*/*
 Disallow: /radio/*/*/*/*/*
 Disallow: /schedule/*/*/*/*/*

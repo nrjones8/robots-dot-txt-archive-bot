@@ -20,6 +20,9 @@ Disallow: /
 User-agent: GPTBot
 Disallow: /
 
+User-agent: PerplexityBot
+Disallow: /
+
 User-agent: PetalBot
 Disallow: /
 

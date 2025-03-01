@@ -1,1 +1,7 @@
-{"issue_type": "request_error", "error_msg": "HTTPConnectionPool(host='cityofalturas.org', port=80): Read timed out. (read timeout=15)"}
+User-Agent: *
+Disallow: /contactus.html
+Disallow: /contactnow.html
+Disallow: /sitemap.html
+Disallow: /happy-*
+
+Sitemap: https://www.cityofalturas.org/sitemap/index.xml

@@ -15,6 +15,8 @@ User-agent: Google-Extended
 Disallow: /
 User-agent: GPTBot
 Disallow: /
+User-agent: PerplexityBot
+Disallow: /
 User-agent: PetalBot
 Disallow: /
 User-agent: uptimerobot

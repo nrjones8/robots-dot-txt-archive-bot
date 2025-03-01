@@ -39,6 +39,7 @@ Disallow: /Business/Understanding-the-Citys-Sign-Code
 Disallow: /Business-Licenses/Doing-Business-with-the-City/Access-Current-Procurement-Solicitations-Bids-Proposals/City-Procurement-Launches-new-e-Procurement-System
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter
 Disallow: /Careers-Jobs/City-Jobs/Become-a-Miami-Firefighter/Online-Study-Guide-Firefighter-Exam
+Disallow: /cip/*
 Disallow: /City_Clerk/Pages/Elections/2019GeneralElections.asp
 Disallow: /City_Officials
 Disallow: /City-Facilities/*
@@ -72,6 +73,9 @@ Disallow: /Content-Sandbox/Boards-and-Commissions/Waterfront-Advisory-Board
 Disallow: /Content-Sandbox/Building-3/*
 Disallow: /Content-Sandbox/Building-3/Building-Bulletins
 Disallow: /Content-Sandbox/City-Clerk
+Disallow: /Content-Sandbox/Civilian-Investigative-Panel-CIP/*
+Disallow: /Content-Sandbox/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
+Disallow: /Content-Sandbox/Civilian-Investigative-Panel-CIP/Request-a-Civilian-Investigate-Panel-Case-Report
 Disallow: /Content-Sandbox/COM-Service-Page-Demo
 Disallow: /Content-Sandbox/COM-Service-Page-Test
 Disallow: /Content-Sandbox/Copy-of-Register-as-a-Building-Contractor
@@ -354,6 +358,7 @@ Disallow: /Government/Departments-Organizations/City-Clerks-Office/Voting-Instru
 Disallow: /Government/Departments-Organizations/City-Clerks-Office-OLD/*
 Disallow: /Government/Departments-Organizations/City-Clerk-WIP
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel
+Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel-CIP/*
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /Government/Departments-Organizations/Civilian-Investigative-Panel-CIP/New-page/Resources
 Disallow: /Government/Departments-Organizations/Civil-Service-Board-Election/*
@@ -908,8 +913,10 @@ Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committe
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Applications-Received
 Disallow: /My-Government/Departments/City-Clerks-Office/City-Boards-and-Committees-Information/PZAB-Board-Prospective-Appointees
 Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election/*
+Disallow: /My-Government/Departments/City-Clerks-Office/Civil-Service-Board-Election-2025/*
 Disallow: /My-Government/Departments/City-Clerks-Office/HEP-Historic-and-Environmental-Preservation-Board-Announcements-Application
 Disallow: /My-Government/Departments/City-Clerks-Office/New-page
+Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/*
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Mediation-Program/Mediation-Surveys
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/New-page
 Disallow: /My-Government/Departments/Civilian-Investigative-Panel-CIP/Request-a-CIP-Case-Report

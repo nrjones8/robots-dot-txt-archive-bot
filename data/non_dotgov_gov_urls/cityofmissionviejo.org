@@ -85,5 +85,27 @@ Disallow: *.ppt
 Disallow: /*.ppt$
 Disallow: *.pptx
 Disallow: /*.pptx$
+Disallow: /search
 Disallow: /sites/*
 Disallow: /sites/default/files/
+
+User-agent: AmazonBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

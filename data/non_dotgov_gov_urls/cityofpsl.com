@@ -99,6 +99,8 @@ Disallow: /Government/Your-City-Government/Departments/Building-Department/Contr
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/City-Managers-Bi-Weekly-Reports
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/City-Managers-Bi-Weekly-Reports/PDF-Versions
+Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL-Green-Spaces-Places/Naturally-PSL-Awards
+Disallow: /Government/Your-City-Government/Departments/City-Manager/Naturally-PSL-Green-Spaces-Places/New-page
 Disallow: /Government/Your-City-Government/Departments/City-Manager/Office-of-Strategic-Initiatives-Innovation/Strategic-Plan/Strategic-Plan-Banners/*
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/Past-On-the-Pulse-Publications
 Disallow: /Government/Your-City-Government/Departments/City-Manager/PSL-on-the-Pulse/PDF-Versions

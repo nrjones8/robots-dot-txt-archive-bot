@@ -2,7 +2,6 @@ Sitemap: https://www.voanews.com/sitemap.xml
 User-agent:*
 Disallow: /z/*/*/*/*
 Disallow: /ebar*
-Disallow: /api/*
 Disallow: /tv/*/*/*/*/*
 Disallow: /radio/*/*/*/*/*
 Disallow: /schedule/*/*/*/*/*

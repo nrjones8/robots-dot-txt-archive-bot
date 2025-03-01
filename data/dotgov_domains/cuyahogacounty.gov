@@ -5,20 +5,78 @@
 
 # Discourage robots from indexing the site while in development
 User-agent: Googlebot
+# Uncomment if you want to disallow it
 Allow: /
 #Disallow: /
 
 User-agent: Bing
+# Uncomment if you want to disallow it
 Allow: /
 
 
 # Allow www.redbot.org to access the site while in development
+# Uncomment if you want to disallow it
 User-agent: RED
 Disallow: 
 
 # Allow Screaming Frog to access the site while in development
+# Uncomment if you want to disallow it
 User-agent: Screaming Frog SEO Spider
 Disallow:
+
+# Block ClaudeBot
+# Uncomment if you want to disallow it
+User-agent: ClaudeBot
+Disallow: /
+
+# Block OpenAI’s GPTBot
+# Uncomment if you want to disallow it
+User-agent: GPTBot
+Disallow: /
+
+# Block Common Crawl (often used for AI training)
+# Uncomment if you want to disallow it
+User-agent: CCBot
+Disallow: /
+
+
+# Block anthropic-ai
+# Uncomment if you want to disallow it
+User-agent: anthropic-ai
+Disallow: /
+
+
+# Block FacebookBot
+# Uncomment if you want to disallow it
+User-agent: FacebookBot
+Disallow: /
+
+
+# Block PiplBot
+# Uncomment if you want to disallow it
+User-agent: PiplBot
+Disallow: /
+
+
+# (Optional) Block Google-Extended, which Google uses for some AI applications
+# Uncomment if you want to disallow it
+User-agent: Google-Extended
+Disallow: /
+
+# (Optional) Block Microsoft’s Bing Chat (though this is typically covered by "bingbot")
+# Uncomment if you want to disallow it
+User-agent: bingbot
+Disallow: /
+
+# (Optional) Block Yandex (Russia’s largest search engine) if you don’t want them
+# Uncomment if you want to disallow it
+User-agent: Yandex
+Disallow: /
+
+# (Optional) Block Baidu (China’s largest search engine) if you don’t want them
+# Uncomment if you want to disallow it
+User-agent: Baiduspider
+Disallow: /
 
 # DEVELOPMENT END ###
 User-agent: *

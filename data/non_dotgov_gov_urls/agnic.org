@@ -1,11 +1,5 @@
 User-agent: *
-Disallow: /
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: rogerbot
-Disallow: /
-
-User-agent: dotbot
-Disallow: /
+Sitemap: https://agnic.org/wp-sitemap.xml
